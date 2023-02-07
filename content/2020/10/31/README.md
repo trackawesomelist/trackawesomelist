@@ -64,7 +64,7 @@
 
 ### Software / Document Management
 
-*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐845)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
+*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐859)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Gaming
 
-*   [CHIP-8 (⭐96)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
+*   [CHIP-8 (⭐99)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 
 ## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

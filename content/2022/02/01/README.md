@@ -73,7 +73,7 @@
 
 ### Applications / Security tools
 
-*   [Cherrybomb (⭐706)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+*   [Cherrybomb (⭐717)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
 ## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐279)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐285)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

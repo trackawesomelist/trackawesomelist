@@ -52,17 +52,17 @@
 
 ### Utility / Diagnostics
 
-*   [rgroli/other.nvim (⭐114)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
+*   [rgroli/other.nvim (⭐118)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [terraform (ptavares) (⭐0)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐3.2k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐5.5k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐3.6k)](https://github.com/terraform-linters/tflint).
+*   [terraform (ptavares) (⭐0)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐3.3k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐5.5k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐3.6k)](https://github.com/terraform-linters/tflint).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐11)](https://github.com/hylwxqwq/yuyuko.vim).
+*   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐11)](https://github.com/hylwxqwq/yuyuko.vim).
 
 ## [7. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
@@ -195,7 +195,7 @@
 
 ### Applications / Utilities
 
-*   [1History (⭐340)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
+*   [1History (⭐345)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
 
 ### Libraries / Command-line
 

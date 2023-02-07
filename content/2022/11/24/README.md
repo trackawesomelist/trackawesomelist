@@ -10,7 +10,7 @@
 
 ### Web Frameworks
 
-*   [marten (⭐259)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
+*   [marten (⭐274)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [TwicPics (⭐35)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
+*   [TwicPics (⭐36)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-assemblyscript-asc (⭐3)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
+*   [vite-plugin-assemblyscript-asc (⭐6)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -48,7 +48,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-preview (⭐212)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
+*   [vitest-preview (⭐221)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
 
 ### Vue / Loaders
 
@@ -56,7 +56,7 @@
 
 ### React / Helpers
 
-*   [vite-plugin-react-inspector (⭐111)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
+*   [vite-plugin-react-inspector (⭐113)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Advanced Console UIs
 
-*   [lipgloss (⭐5.4k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
+*   [lipgloss (⭐5.5k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Related Awesome Lists / Galleries
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐145)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐227)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -110,7 +110,7 @@
 
 ### OpenSource-Computer-Vision / Data Analysis / Data Visualization
 
-*   [OpenCV (⭐65k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
+*   [OpenCV (⭐66k)](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
 
 ### Python / General-Purpose Machine Learning
 
@@ -118,9 +118,9 @@
 
 ### Python / Spiking Neural Networks
 
-*   [Rockpool (⭐21)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
+*   [Rockpool (⭐22)](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
 *   [Sinabs (⭐32)](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
-*   [Tonic (⭐97)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
+*   [Tonic (⭐98)](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

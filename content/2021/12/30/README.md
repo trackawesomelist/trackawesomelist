@@ -25,7 +25,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [RexMex (⭐258)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐595)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [ChemicalX (⭐602)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Community plugins
 
-*   [App-icon (⭐37)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
+*   [App-icon (⭐38)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 
 ### Other plugins
 

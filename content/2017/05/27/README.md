@@ -39,7 +39,7 @@
 
 ### Utilities
 
-*   [Vert.x Web Accesslog (⭐23)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
+*   [Vert.x Web Accesslog (⭐25)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
 ## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

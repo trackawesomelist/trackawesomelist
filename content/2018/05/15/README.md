@@ -126,10 +126,6 @@
 
 ## [3. Awesome](/content/craftcms/awesome/README.md)
 
-### Community
-
-*   [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
-
 ### Articles / Security
 
 *   [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
@@ -205,7 +201,7 @@
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐538)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
 ## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Messaging / Scala
 
-*   [Malamute (⭐304)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
+*   [Malamute (⭐305)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
 
 ### REST / Scala
 

@@ -149,7 +149,7 @@
 
 ### Back-End Development
 
-*   [IAM (⭐992)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐1k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -169,16 +169,16 @@
 
 ## [13. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools
+### Tools / Platform-specific tools
 
 *   [SimpleLocalize CLI (⭐35)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 *   [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 
-### Articles
+### Articles / Platform-specific tools
 
 *   [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
 
-### Blogs
+### Blogs / Platform-specific tools
 
 *   [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
 *   [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.

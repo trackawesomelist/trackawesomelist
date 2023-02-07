@@ -34,7 +34,7 @@
 
 ### Development / Devops
 
-*   [ops (⭐1k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+*   [ops (⭐1.1k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 
 ## [5. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
@@ -212,8 +212,8 @@
 
 ### External Services
 
-*   [music-box (⭐96)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
-*   [strava-box (⭐34)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+*   [music-box (⭐97)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [strava-box (⭐35)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [26. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -286,12 +286,12 @@
 
 ## [34. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
 *   [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.
 
-### Testing
+### Testing / Misc
 
 *   [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 
@@ -305,7 +305,7 @@
 
 ### Custom Scrollbar
 
-*   [react-custom-scroll (⭐437)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
+*   [react-custom-scroll (⭐438)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 
 ### Form Logic / Mouse Events
 

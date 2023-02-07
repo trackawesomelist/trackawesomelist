@@ -10,7 +10,7 @@
 
 ### C++
 
-*   [Restbed (⭐1.7k)](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
+*   [Restbed (⭐1.8k)](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

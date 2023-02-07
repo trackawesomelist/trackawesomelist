@@ -44,24 +44,24 @@
 ### Applications
 
 *   [Aether (⭐1.1k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-*   [Airshare (⭐595)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
+*   [Airshare (⭐597)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
     communities with auditable moderation and mod elections.
 *   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 *   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
-*   [Hyperpad (⭐195)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
+*   [Hyperpad (⭐196)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
 *   [instant.io (⭐3.2k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 *   [IPFS bin ☠️ (⭐131)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-*   [IPFS Desktop (⭐4.8k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
-*   [iWant ☠️ (⭐288)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+*   [IPFS Desktop (⭐4.9k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [iWant ☠️ (⭐289)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 *   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-*   [Peertransfer ☠️ (⭐279)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [Peertransfer ☠️ (⭐280)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 *   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐308)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐314)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ## [7. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -129,7 +129,7 @@
 
 ## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Platforms
+### Platforms / Platform-specific tools
 
 *   [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
 
@@ -169,18 +169,18 @@
 
 ### Contents / Social Network
 
-*   [Harpy (⭐1.7k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.7k)](https://github.com/robertodoering/harpy)
+*   [Harpy (⭐1.8k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.8k)](https://github.com/robertodoering/harpy)
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / LCD TFT
 
-*   [micropython-ili9341 (⭐1)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
+*   [micropython-ili9341 (⭐0)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
 *   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐22)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
 
 ### Display / OLED
 
-*   [micropython-oled (⭐1)](https://github.com/mcauser/deshipu-micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
+*   [micropython-oled (⭐0)](https://github.com/mcauser/deshipu-micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
 
 ### IO / ADC
 
@@ -188,7 +188,7 @@
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐79)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
+*   [encodermenu (⭐80)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 

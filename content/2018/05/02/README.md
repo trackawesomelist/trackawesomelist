@@ -152,7 +152,7 @@
 
 ### Resources / Tutorials
 
-*   [Kubernetes examples (⭐5.3k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
+*   [Kubernetes examples (⭐5.4k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

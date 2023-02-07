@@ -122,7 +122,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Security / Other
 
-*   [Themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
+*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
 ## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

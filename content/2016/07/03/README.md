@@ -14,14 +14,9 @@
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
-### Design
-
-*   [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
-
 ### Ruby Clients
 
 *   [httparty (⭐5.6k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
-*   [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -150,7 +145,7 @@ git blame <file-name>
 
 ## [14. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 

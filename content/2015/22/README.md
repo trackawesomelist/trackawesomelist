@@ -79,7 +79,7 @@
 ### Algorithms and Data structures
 
 *   [lz4 (⭐61)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-*   [monadex (⭐296)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
+*   [monadex (⭐298)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 *   [parex (⭐61)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 
 ### Caching
@@ -97,7 +97,7 @@
 
 ### Frameworks
 
-*   [trot (⭐407)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐408)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
@@ -113,7 +113,7 @@
 
 ### Testing
 
-*   [proper (⭐845)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐846)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Text and Numbers
 
@@ -142,8 +142,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐573)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐948)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐575)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐951)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -372,7 +372,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Reagi (⭐224)](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
+*   [Reagi (⭐227)](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 
 ## [24. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 

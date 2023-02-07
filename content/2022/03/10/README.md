@@ -16,7 +16,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. ([Demo](https://app.keila.io), [Source Code (⭐731)](https://github.com/pentacent/keila)) `AGPL-3.0` `Elixir`
+*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. ([Demo](https://app.keila.io), [Source Code (⭐756)](https://github.com/pentacent/keila)) `AGPL-3.0` `Elixir`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -57,7 +57,7 @@
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐512)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐531)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Crates / Utils
 
-*   [yew-style-in-rs (⭐19)](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
+*   [yew-style-in-rs (⭐21)](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

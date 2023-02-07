@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-popperjs (⭐20)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
+*   [vue-use-popperjs (⭐21)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
 
 ## [5. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -41,7 +41,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [Streamlit (⭐22k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐7.4k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Optuna (⭐7.5k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Books / Misc
 
@@ -72,11 +72,11 @@
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Open source / Other / unknown licence
+### Open source / MIT
 
 *   [hac (⭐75)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
 
-### Editors / Other / unknown licence
+### Editors / MIT
 
 *   [lea (⭐16)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
@@ -142,11 +142,11 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Software / Automation
 
-*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Source Code (⭐1.1k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
+*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Source Code (⭐1.2k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [QuickShare (⭐371)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. ([Demo](https://hexxa-quickshare.herokuapp.com/)) `LGPL-3.0` `Go`
+*   [QuickShare (⭐374)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. `LGPL-3.0` `Go`
 
 ### Software / Pastebins
 

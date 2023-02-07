@@ -28,7 +28,7 @@
 
 ### Evaluation / NLP
 
-*   [sklearn-evaluation (⭐356)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -162,15 +162,15 @@
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐91)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐77)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [KnockoutJS (⭐92)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐78)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
-*   [Vagrant (⭐573)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Vagrant (⭐575)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
 *   [Pyramid (⭐530)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐600)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐85)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Phalcon (⭐602)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐86)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 *   [Lumen (⭐317)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
@@ -182,7 +182,7 @@
 
 ## [16. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Testing
+### Testing / Misc
 
 *   [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 

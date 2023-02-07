@@ -19,7 +19,7 @@
 
 ### Libraries / Kotlin
 
-*   [kmongo (⭐724)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+*   [kmongo (⭐734)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -31,11 +31,11 @@
 
 ### Applications / System tools
 
-*   [qarmin/cakawka (⭐9.2k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/cakawka (⭐9.4k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Libraries / Graph algorithms
 
-*   [s1ck/graph (⭐224)](https://github.com/s1ck/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/s1ck/graph/CI/main?label=CI)](https://github.com/s1ck/graph/actions/workflows/rust.yml)
+*   [s1ck/graph (⭐231)](https://github.com/s1ck/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/s1ck/graph/CI/main?label=CI)](https://github.com/s1ck/graph/actions/workflows/rust.yml)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Form Components / Select
 
-*   [react-select-search (⭐611)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React
+*   [react-select-search (⭐615)](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React
 
 ## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

@@ -39,7 +39,7 @@
 
 ### JSON
 
-*   [cJSON (⭐8.3k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐8.4k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐16k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -570,7 +570,7 @@
 
 ### HTTP
 
-*   [Crawly (⭐647)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐650)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐20)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -581,7 +581,7 @@
 
 ### Utilities / macOS
 
-*   [open-pip-cli (⭐192)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
+*   [open-pip-cli (⭐191)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 
 ## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -675,7 +675,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐427)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐441)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -693,7 +693,7 @@
 
 ### Development tools
 
-*   [Open Watcom V2 (⭐719)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
+*   [Open Watcom V2 (⭐742)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
 ## [33. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)

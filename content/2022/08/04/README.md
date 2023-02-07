@@ -23,7 +23,7 @@
 
 ### Tools
 
-*   [user-statistician (⭐26)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
+*   [user-statistician (⭐32)](https://github.com/cicirello/user-statistician) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 
 ## [4. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   [react-mouse-select (⭐6)](https://github.com/andreizanik/react-mouse-select) - [Demo](https://andreizanik.github.io/react-mouse-select/) A component that allows selecting DOM elements by moving the mouse
+*   [react-mouse-select (⭐7)](https://github.com/andreizanik/react-mouse-select) - [Demo](https://andreizanik.github.io/react-mouse-select/) A component that allows selecting DOM elements by moving the mouse
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Showcases
 
-*   [Todo App with Playwright (⭐5)](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
+*   [Todo App with Playwright (⭐7)](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐51)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
+*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐55)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 
 ### Software / Software Development - IDE & Tools
 
@@ -73,7 +73,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [AckslD/nvim-FeMaco.lua (⭐199)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
+*   [AckslD/nvim-FeMaco.lua (⭐203)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
 
 ## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Caches
 
-*   [cachego (⭐204)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
+*   [cachego (⭐205)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
 
 ### Middlewares / Actual middlewares
 
@@ -139,7 +139,7 @@
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [usestdlibvars (⭐31)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
+*   [usestdlibvars (⭐33)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

@@ -26,7 +26,7 @@
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐505)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐510)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 

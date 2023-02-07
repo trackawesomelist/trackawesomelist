@@ -72,7 +72,7 @@
 
 *   [Glit (⭐1)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
-*   [SerpScan (⭐47)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+*   [SerpScan (⭐48)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -110,7 +110,7 @@
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history, maps, and definitions
+### Generative AI Tools Directories
 
 *   \[🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 
@@ -124,11 +124,11 @@
 
 ## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Kernels / Microkernels
+### Microkernels / OpenVPN
 
 *   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 
-### Training and Materials / Web articles
+### Training and Materials / OpenVPN
 
 *   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
@@ -137,8 +137,7 @@
 
 ### Libraries / Haxe
 
-*   Haxe: - Blog Articles -
-    *   📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
+*   📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 
 ### Specialty Topics / Shaders
 
@@ -149,25 +148,25 @@
 
 ### Search / Diagnostics
 
-*   [s1n7ax/nvim-search-and-replace (⭐26)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
-*   [roobert/search-replace.nvim (⭐66)](https://github.com/roobert/search-replace.nvim) - Brings better features to the native search and replace experience.
+*   [s1n7ax/nvim-search-and-replace (⭐28)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
+*   [roobert/search-replace.nvim (⭐100)](https://github.com/roobert/search-replace.nvim) - Brings better features to the native search and replace experience.
 
 ### File Explorer / Diagnostics
 
-*   [dinhhuy258/sfm.nvim (⭐5)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
+*   [dinhhuy258/sfm.nvim (⭐11)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 *   [EdvinVikstrom/filetree.nvim (⭐11)](https://github.com/EdvinVikstrom/filetree.nvim) - A beautiful and fast file manager easy to customize.
 
 ### Utility / Diagnostics
 
-*   [j-morano/buffer\_manager.nvim (⭐57)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+*   [j-morano/buffer\_manager.nvim (⭐64)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
 
 ### Editing Support / Diagnostics
 
-*   [tmillr/sos.nvim (⭐5)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
+*   [tmillr/sos.nvim (⭐8)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 
 ### Indent / Diagnostics
 
-*   [LucasTavaresA/simpleIndentGuides.nvim (⭐4)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
+*   [LucasTavaresA/simpleIndentGuides.nvim (⭐6)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

@@ -72,7 +72,6 @@
 
 ### Archives and primary sources / Global
 
-*   [fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
 *   [Internet Archive](https://archive.org/) - Non-profit library of millions of free books, movies, software, music, websites, and more.
 *   [Marxist Internet Archive](https://www.marxists.org/) - Everything you ever wanted to know about Marx (and other important socialists).
 *   [WayBackMachine](https://archive.org/web/) - Explore more than 486 billion web pages saved over time.
@@ -115,7 +114,7 @@
 *   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
 *   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐486)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Scientific Writing (⭐505)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
 ## [7. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -145,7 +144,7 @@
 
 ### Decentralized Systems
 
-*   [Substrate (⭐626)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐635)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

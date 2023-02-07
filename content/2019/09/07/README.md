@@ -22,7 +22,7 @@
 
 ### Loader
 
-*   [react-spinners-css (⭐306)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+*   [react-spinners-css (⭐307)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Reinforcement Learning / NLP
 
-*   [OpenAI Baselines (⭐13k)](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
+*   [OpenAI Baselines (⭐14k)](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
 
 ---
 

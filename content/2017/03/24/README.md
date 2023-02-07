@@ -23,7 +23,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [sweet-modal-vue (⭐756)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [sweet-modal-vue (⭐761)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

@@ -45,15 +45,13 @@
 *   [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
-*   [Ironsworn for Foundry VTT (⭐49)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
-*   [Starforged for Foundry VTT (⭐13)](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
 *   [TheOracle (⭐29)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐131)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐79)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐137)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐84)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 
 ### Hacks and homebrew / Ironsworn
@@ -90,7 +88,7 @@
 
 ### Misc
 
-*   [RecordParser (⭐158)](https://github.com/leandromoh/recordparser) - Library to help reading and writing CSV and Flat files with zero heap allocation.
+*   [RecordParser (⭐159)](https://github.com/leandromoh/recordparser) - Library to help reading and writing CSV and Flat files with zero heap allocation.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -146,15 +144,15 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [kdheepak/panvimdoc (⭐130)](https://github.com/kdheepak/panvimdoc) - A pandoc to vimdoc GitHub action.
+*   [kdheepak/panvimdoc (⭐133)](https://github.com/kdheepak/panvimdoc) - A pandoc to vimdoc GitHub action.
 
 ### Syntax / Diagnostics
 
-*   [RRethy/nvim-treesitter-textsubjects (⭐330)](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*.
+*   [RRethy/nvim-treesitter-textsubjects (⭐332)](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*.
 
 ### Editing Support / Diagnostics
 
-*   [Allendang/nvim-expand-expr (⭐32)](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines.
+*   [Allendang/nvim-expand-expr (⭐33)](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines.
 
 ---
 

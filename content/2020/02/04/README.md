@@ -16,7 +16,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐320)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐327)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Typescript tooling for Neovim (⭐622)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+*   [Typescript tooling for Neovim (⭐621)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
 ### Web / Playground
 

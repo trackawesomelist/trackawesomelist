@@ -26,7 +26,7 @@
 
 ### Contents / Applications
 
-*   [SMART Pediatric Growth Chart (⭐65)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+*   [SMART Pediatric Growth Chart (⭐66)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ### Contents / Research
 

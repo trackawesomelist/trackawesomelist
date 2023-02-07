@@ -421,7 +421,7 @@
 
 ### Configuration
 
-*   [dotenv (⭐208)](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
+*   [dotenv (⭐209)](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 
 ### Static Page Generation
 

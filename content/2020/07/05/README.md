@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Devii (⭐469)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐474)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ## [2. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Third Party APIs
 
-*   [telegex (⭐58)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
+*   [telegex (⭐59)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
 
 ## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

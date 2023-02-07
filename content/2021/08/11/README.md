@@ -16,19 +16,19 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit3 (⭐246)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
+*   [GdUnit3 (⭐256)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Validators / Ruby
 
-*   [gtfstidy (⭐76)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
+*   [gtfstidy (⭐80)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [Destack for Next.js (⭐758)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [Destack for Next.js (⭐789)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

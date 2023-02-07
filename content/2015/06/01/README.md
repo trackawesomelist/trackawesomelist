@@ -66,20 +66,20 @@
 
 ### Images
 
-*   [identicon (⭐24)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
+*   [identicon (⭐25)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 
 ### Logging
 
-*   [logfmt (⭐24)](https://github.com/jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
+*   [logfmt (⭐25)](https://github.com/jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
 
 ### ORM and Datamapping
 
-*   [mysql (⭐344)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [mysql (⭐345)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐7)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Reading
 
-*   [xElixir (⭐529)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐532)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

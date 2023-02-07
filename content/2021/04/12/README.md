@@ -106,8 +106,8 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RRethy/nvim-base16 (⭐304)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
-*   [fenetikm/falcon (⭐617)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
+*   [RRethy/nvim-base16 (⭐309)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
+*   [fenetikm/falcon (⭐619)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 
 ## [7. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
@@ -149,13 +149,13 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Contents / Imaging
 
-*   [Drishti (⭐151)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
+*   [Drishti (⭐152)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   [Trial (⭐531)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Trial (⭐551)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. [zlib](https://directory.fsf.org/wiki/License:Zlib).
     *   the [Kandria](https://kandria.com/) game is built with Trial.
 *   [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – with this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT](https://opensource.org/licenses/MIT).
 *   [virality (⭐80)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT](https://opensource.org/licenses/MIT).

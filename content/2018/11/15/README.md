@@ -22,7 +22,7 @@
 
 ### Visualizations
 
-*   [TNExT (⭐12)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
+*   [TNExT (⭐13)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

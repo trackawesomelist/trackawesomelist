@@ -93,7 +93,7 @@
 
 ### Runtime / Playground
 
-*   [json-decoder (⭐71)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
+*   [json-decoder (⭐72)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Imagery
 
-*   [image-comparison (⭐246)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
+*   [image-comparison (⭐253)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 ## [12. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 
@@ -454,12 +454,12 @@
 
 ### ORMs
 
-*   [cl-dbi (⭐179)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-dbi (⭐182)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
     *   [dbd-oracle (⭐4)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
-*   [fast-generic-functions (⭐80)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-generic-functions (⭐82)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
 
 ### Beginner
 
@@ -467,7 +467,7 @@
 
 ### Macro helpers / Third-party APIs
 
-*   [trivial-with-current-source-from (⭐25)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [trivial-with-current-source-from (⭐27)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [29. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -825,7 +825,7 @@
 
 ### Menu
 
-*   [react-planet (⭐140)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
+*   [react-planet (⭐141)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
 ## [50. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -949,11 +949,11 @@
 
 ### Software / Polls and Events
 
-*   [Feedka (⭐14)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. ([Demo](https://feedka.herokuapp.com)) `AGPL-3.0` `Ruby`
+*   [Feedka (⭐15)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. `AGPL-3.0` `Ruby`
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanbana (⭐47)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
+*   [Kanbana (⭐48)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
 
 ---
 

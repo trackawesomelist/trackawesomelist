@@ -10,7 +10,7 @@
 
 ### Github Libraries / Randomized Algorithms
 
-*   [Erlang (⭐142)](https://github.com/aggelgian/erlang-algorithms)
+*   [Erlang (⭐143)](https://github.com/aggelgian/erlang-algorithms)
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

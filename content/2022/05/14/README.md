@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Demo](https://playground.eonza.org/), [Source Code (⭐73)](https://github.com/gentee/eonza)) `MIT` `Go`
+*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Demo](https://playground.eonza.org/), [Source Code (⭐76)](https://github.com/gentee/eonza)) `MIT` `Go`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
@@ -18,7 +18,7 @@
 
 ### Software / Personal Dashboards
 
-*   [LittleLink Custom](https://littlelink-custom.com/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LittleLink Custom allows you to link all your social media platforms easily accessible on one page. ([Demo](https://demo.littlelink-custom.com/), [Source Code (⭐627)](https://github.com/JulianPrieber/littlelink-custom)) `GPL-3.0` `PHP`
+*   [LittleLink Custom](https://littlelink-custom.com/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LittleLink Custom allows you to link all your social media platforms easily accessible on one page. ([Demo](https://demo.littlelink-custom.com/), [Source Code (⭐645)](https://github.com/JulianPrieber/littlelink-custom)) `GPL-3.0` `PHP`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -49,8 +49,8 @@
 
 ### Database
 
-*   [QueryStream (⭐11)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
-*   [QuestDB (⭐9.8k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+*   [QueryStream (⭐12)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
+*   [QuestDB (⭐10k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
 *   [Spring Data JPA MongoDB Expressions (⭐86)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
 *   [Trino](https://trino.io) - Distributed SQL query engine for big data.
 

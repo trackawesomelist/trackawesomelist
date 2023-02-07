@@ -63,14 +63,14 @@
 
 ### Electron React Boilerplate   [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
 
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐196k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
 *   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Electron React Boilerplate website](https://electron-react-boilerplate.js.org/)
 
 ### Victor Hugo boilerplate   [↗](https://awesomestacks.dev/victor-hugo-boilerplate) / Resources
 
 *   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐62k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
-*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐63k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐65k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 *   [netlify-templates/victor-hugo (⭐1.5k)](https://github.com/netlify-templates/victor-hugo)
 
 ### Progressive Web App with Gatsby   [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby) / Resources
@@ -87,10 +87,10 @@
 ### Algolia site search   [↗](https://awesomestacks.dev/algolia-site-search) / Resources
 
 *   [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
-*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐254)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
-*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐175)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
-*   [hugo-algolia (⭐42)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐42)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
-*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
+*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐264)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
+*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐176)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
+*   [hugo-algolia (⭐45)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐45)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
+*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.1k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
 *   [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/)
 
 ### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
@@ -108,15 +108,15 @@
 ### Ethereum DApp   [↗](https://awesomestacks.dev/ethereum-d-app) / Resources
 
 *   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐19k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
-*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐16k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
+*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐17k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
 *   [Truffle](https://truffleframework.com/truffle) - [🐙 (⭐14k)](https://github.com/trufflesuite/truffle) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
-*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.1k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
-*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐882)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
+*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.2k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
+*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐892)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
 
 ### React Native with Expo and Hasura   [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
-*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐105k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
-*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐18k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
+*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐107k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
+*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐19k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
 *   [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 *   [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 *   [Tutorial: Fullstack React Native with GraphQL and Authentication](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a/)
@@ -130,7 +130,7 @@
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐369)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐370)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -171,15 +171,15 @@
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐606)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐612)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
-*   [firecracker-microvm/firecracker (⭐20k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload  [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [firecracker-microvm/firecracker (⭐21k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload  [Firecracker Microvm](https://firecracker-microvm.github.io/)
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐797)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐809)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -189,7 +189,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐503)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐505)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -201,20 +201,20 @@
 
 ### Libraries / Automotive
 
-*   [oefd/tokio-socketcan (⭐29)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
+*   [oefd/tokio-socketcan (⭐30)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
 
 ### Libraries / Command-line
 
 *   Style
-    *   [LukasKalbertodt/bunt (⭐202)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
+    *   [LukasKalbertodt/bunt (⭐204)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
     *   [LukasKalbertodt/term-painter (⭐75)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output [![build badge](https://api.travis-ci.org/LukasKalbertodt/term-painter.svg?branch=master)](https://travis-ci.org/LukasKalbertodt/term-painter)
     *   [mackwic/colored (⭐1.2k)](https://github.com/mackwic/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
-    *   [ogham/rust-ansi-term (⭐408)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
-    *   [SergioBenitez/yansi (⭐170)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
+    *   [ogham/rust-ansi-term (⭐413)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
+    *   [SergioBenitez/yansi (⭐171)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐49)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐50)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -224,10 +224,10 @@
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐7.6k)](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
-    *   [dylanmckay/protocol (⭐157)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [actix/actix (⭐7.7k)](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
+    *   [dylanmckay/protocol (⭐158)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
     *   [libpnet/libpnet (⭐1.8k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking [![build badge](https://api.travis-ci.org/libpnet/libpnet.svg?branch=master)](https://travis-ci.org/libpnet/libpnet)
-    *   [smoltcp-rs/smoltcp (⭐2.8k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
+    *   [smoltcp-rs/smoltcp (⭐2.9k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
     *   [tokio-rs/tokio (⭐19k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
 
 ### Libraries / Parsing
@@ -251,7 +251,7 @@
 
 ### Game Engine
 
-*   [Spring (⭐2.9k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Reflection
 

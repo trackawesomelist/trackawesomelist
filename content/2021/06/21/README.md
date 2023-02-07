@@ -41,7 +41,7 @@
 
 ### Starters & Themes
 
-*   📟 [new-tailwind-app (⭐238)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+*   📟 [new-tailwind-app (⭐240)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
 ## [7. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Bindings
 
-*   [Vortice.Vulkan (⭐187)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
+*   [Vortice.Vulkan (⭐191)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Mods / Performance
 
-*   [Sodium (for Fabric) (⭐3.8k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+*   [Sodium (for Fabric) (⭐3.9k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
 ## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

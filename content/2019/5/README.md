@@ -161,11 +161,11 @@
 ### Contents / Tutorials
 
 *   [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - Screencaptures of writing a Spaceshooter game step by step.
-*   [Token optimization (⭐115)](https://github.com/seleb/PICO-8-Token-Optimizations) - tips\&tricks for saving tokens.
+*   [Token optimization (⭐118)](https://github.com/seleb/PICO-8-Token-Optimizations) - tips\&tricks for saving tokens.
 
 ### Contents / Tools
 
-*   [picoDeploy (⭐199)](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
+*   [picoDeploy (⭐200)](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
 *   [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - A simple helper tool for generating fillp patterns.
 
 ### Contents / Clones
@@ -207,7 +207,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Overkill (⭐462)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+*   [Overkill (⭐464)](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ### Gaming Software / System Related Tools
 
@@ -228,7 +228,7 @@
 ### Algorithms and Data structures
 
 *   [def\_memo (⭐32)](https://github.com/os6sense/DefMemo) - A memoization macro (defmemo) for elixir using a genserver backing store.
-*   [emel (⭐92)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
+*   [emel (⭐93)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
 *   [hypex (⭐19)](https://github.com/whitfin/hypex) - Fast Elixir implementation of HyperLogLog.
 *   [mason (⭐10)](https://github.com/spacepilots/mason) - Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.
 *   [sleeplocks (⭐52)](https://github.com/whitfin/sleeplocks) - BEAM friendly spinlocks for Elixir/Erlang.
@@ -245,17 +245,17 @@
 
 *   [cachex (⭐1.3k)](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with a wide featureset.
 *   [gen\_spoxy (⭐21)](https://github.com/SpotIM/gen_spoxy) - Caching made fun.
-*   [memoize (⭐155)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
+*   [memoize (⭐162)](https://github.com/melpon/memoize) - A memoization macro that easily cache function.
 *   [stash (⭐51)](https://github.com/whitfin/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ### Cloud Infrastructure and Management
 
-*   [Bonny (⭐275)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
+*   [Bonny (⭐282)](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
 
 ### Command Line Applications
 
-*   [ex\_cli (⭐212)](https://github.com/tuvistavie/ex_cli) - User friendly CLI apps for Elixir.
-*   [ratatouille (⭐585)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
+*   [ex\_cli (⭐213)](https://github.com/tuvistavie/ex_cli) - User friendly CLI apps for Elixir.
+*   [ratatouille (⭐592)](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir.
 
 ### Cryptography
 
@@ -277,8 +277,8 @@
 ### Examples and funny stuff
 
 *   [changelog.com (⭐2.5k)](https://github.com/thechangelog/changelog.com) - CMS that runs changelog.com built with Phoenix 1.4.
-*   [hexpm (⭐956)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
-*   [tilex (⭐473)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
+*   [hexpm (⭐958)](https://github.com/hexpm/hexpm) - Source code for the hex package manager site built with Phoenix 1.3.
+*   [tilex (⭐476)](https://github.com/hashrocket/tilex) - Source code for Hashrocket's TIL website built with Phoenix 1.3.
 
 ### Files and Directories
 
@@ -287,7 +287,7 @@
 
 ### Framework Components
 
-*   [torch (⭐884)](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
+*   [torch (⭐892)](https://github.com/infinitered/torch) - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
 
 ### GUI
 
@@ -299,7 +299,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [telemetry (⭐786)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
+*   [telemetry (⭐794)](https://github.com/beam-telemetry/telemetry) - Dynamic dispatching library for metrics and instrumentations.
 
 ### JSON
 
@@ -314,18 +314,18 @@
 
 *   [AtomVM (⭐1.1k)](https://github.com/bettio/AtomVM) - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
 *   [expool (⭐24)](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
-*   [hammer (⭐483)](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
+*   [hammer (⭐485)](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
 *   [vessel (⭐20)](https://github.com/whitfin/vessel) - Elixir MapReduce interfaces with Hadoop Streaming integration.
 
 ### Networking
 
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
-*   [sshkit (⭐119)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
+*   [sshkit (⭐121)](https://github.com/bitcrowd/sshkit.ex) - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 
 ### ORM and Datamapping
 
 *   [eternal (⭐78)](https://github.com/whitfin/eternal) - Keep your ETS tables alive forever, safely and easily.
-*   [gremlex (⭐67)](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir Client.
+*   [gremlex (⭐68)](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir Client.
 *   [memento (⭐693)](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
 
 ### Queue
@@ -344,7 +344,7 @@
 ### Testing
 
 *   [elixir-auto-test (⭐0)](https://github.com/joaothallis/elixir-auto-test) - Run test when file is saved using inotify-tools.
-*   [mecks\_unit (⭐53)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐778)](https://github.com/eproxus/meck).
+*   [mecks\_unit (⭐53)](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck (⭐779)](https://github.com/eproxus/meck).
 
 ### Text and Numbers
 
@@ -354,7 +354,7 @@
 ### Third Party APIs
 
 *   [correios\_cep (⭐38)](https://github.com/prodis/correios-cep-elixir) - Find Brazilian addresses by zip code, directly from Correios database. No HTML parsers.
-*   [pay\_pal (⭐33)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
+*   [pay\_pal (⭐34)](https://github.com/zensavona/paypal) - Elixir library for working with the PayPal REST API.
 *   [rs\_twitter (⭐3)](https://github.com/radzserg/rstwitter) - Low Level Twitter Client for Elixir.
 
 ### Utilities
@@ -376,7 +376,7 @@
 
 ### Editors
 
-*   [elixir-ls (⭐849)](https://github.com/JakeBecker/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the JSON-based "Language Server Protocol" standard and provides debugger support via VS Code's debugger protocol.
+*   [elixir-ls (⭐847)](https://github.com/JakeBecker/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the JSON-based "Language Server Protocol" standard and provides debugger support via VS Code's debugger protocol.
 *   [vscode-elixir-ls (⭐388)](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS.
 
 ### Other Awesome Lists
@@ -411,7 +411,8 @@
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [prometheus.cl (⭐76)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
+*   [prometheus.cl (⭐77)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
+    *   [prometheus-g (⭐1)](https://github.com/40ants/prometheus-gc) - Extension for prometheus.cl which collects metrics about garbage collector state.
 
 ## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -429,7 +430,7 @@
 
 ### Frameworks / Runtimes
 
-*   [Light-4j (⭐3.4k)](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
+*   [Light-4j (⭐3.5k)](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
 
 ## [26. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -509,11 +510,11 @@
 
 *   [ada-composition (⭐7)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 
-### Generation / Other / unknown licence
+### Generation / MIT
 
 *   [automate (⭐3)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 
-### Generators and Translators / Other / unknown licence
+### Generators and Translators / MIT
 
 *   [j2ada (⭐3)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
@@ -521,22 +522,22 @@
 
 ### General
 
-*   [Byte Size Icons (⭐3.7k)](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
+*   [Byte Size Icons (⭐3.8k)](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
 *   [Eva icons (⭐8.4k)](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 *   [Evil icons (⭐5k)](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 *   [Feather (⭐23k)](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
-*   [Font Awesome (⭐70k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
-*   [Ion icons (⭐16k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
+*   [Font Awesome (⭐71k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
+*   [Ion icons (⭐17k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
 *   [Material design icons (⭐47k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
-*   [Octicons (⭐7.5k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
+*   [Octicons (⭐7.6k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 *   [Open Iconic (⭐3.5k)](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
 *   Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
 ### Logos
 
-*   [Cryptocurrency icons (⭐2.3k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
-*   [Dev icons (⭐2.5k)](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
-*   [Simple icons (⭐14k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
+*   [Cryptocurrency icons (⭐2.4k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
+*   [Dev icons (⭐2.6k)](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
+*   [Simple icons (⭐15k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
 
 ### Other / CSS only
 
@@ -546,7 +547,7 @@
 
 ### Strong Naming
 
-*   [Strong Namer (⭐310)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
+*   [Strong Namer (⭐311)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
 ## [36. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 

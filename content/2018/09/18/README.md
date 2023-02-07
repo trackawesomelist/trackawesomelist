@@ -85,7 +85,7 @@
 
 ### Platforms
 
-*   [DigitalOcean (⭐294)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐297)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 

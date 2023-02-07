@@ -71,7 +71,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-mysql (⭐101)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
+*   [crystal-mysql (⭐102)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
 *   [crystal-sqlite3 (⭐119)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)

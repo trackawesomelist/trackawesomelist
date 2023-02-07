@@ -229,11 +229,11 @@
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐51)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐52)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐17)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -245,7 +245,7 @@
 
 ### Distribution
 
-*   [love-fuser (⭐13)](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
+*   [love-fuser (⭐15)](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
 
 ## [24. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -257,7 +257,7 @@
 
 ### Applications
 
-*   [SocialHome (⭐332)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
+*   [SocialHome (⭐333)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 *   [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
 *   [Ticktack ☠ (⭐55)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 
@@ -378,7 +378,7 @@
 
 ### [zplug](https://github.com/zplug/zplug)
 
-*   Unlike [antigen (⭐7.4k)](https://github.com/zsh-users/antigen), no ZSH plugin files (`*.plugin.zsh`) are required
+*   Unlike [antigen (⭐7.5k)](https://github.com/zsh-users/antigen), no ZSH plugin files (`*.plugin.zsh`) are required
 
 ### [zpm](https://github.com/zpm-zsh/zpm)
 
@@ -393,12 +393,12 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐608)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐246)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐246)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐614)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐250)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐250)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [git-worktrees (⭐2)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
-*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐49k)](https://github.com/junegunn/fzf).
+*   [git-worktrees (⭐4)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
+*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐50k)](https://github.com/junegunn/fzf).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -417,12 +417,12 @@
 
 ### Configuration
 
-*   [GoLobby/Config (⭐308)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+*   [GoLobby/Config (⭐311)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
 *   [nfigure (⭐4)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 
 ### Maps
 
-*   [goradd/maps (⭐13)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐14)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -430,27 +430,27 @@
 
 ### Database Tools
 
-*   [dynago (⭐6)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [dynago (⭐7)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 
 ### SQL Query Builders
 
-*   [sg (⭐2)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
+*   [sg (⭐3)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 
 ### Functional
 
-*   [fp-go (⭐152)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
+*   [fp-go (⭐161)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 
 ### Logging
 
-*   [slf4g (⭐3)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
+*   [slf4g (⭐2)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 
 ### Microsoft Excel
 
-*   [exl (⭐13)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
+*   [exl (⭐14)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
 
 ### Dependency Injection
 
-*   [GoLobby/Container (⭐412)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
+*   [GoLobby/Container (⭐421)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
 
 ### Morphological Analyzers
 
@@ -458,11 +458,11 @@
 
 ### ORM
 
-*   [golobby/orm (⭐121)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
+*   [golobby/orm (⭐124)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
 
 ### Query Language
 
-*   [goven (⭐43)](https://github.com/SeldonIO/goven) - A drop-in query language for any database schema.
+*   [goven (⭐45)](https://github.com/SeldonIO/goven) - A drop-in query language for any database schema.
 
 ### Parsers/Encoders/Decoders
 
@@ -483,7 +483,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [go-rocket-update (⭐74)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
+*   [go-rocket-update (⭐75)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
 
 ## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -511,7 +511,7 @@
 
 ### Tools - Miscellaneous / React
 
-*   [Blendbase (⭐18)](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
+*   [Blendbase (⭐19)](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
 
 ## [42. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -679,17 +679,17 @@
 
 ### Community / Case study
 
-*   [Proposal (⭐64)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐65)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [shuttle (⭐1.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐1.7k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
 
 ### Development tools / Build system
 
-*   [Fleet (⭐2.2k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
+*   [Fleet (⭐2.3k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
 ## [52. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -706,8 +706,8 @@
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐28)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
-*   [vue-hbs-admin (⭐89)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
+*   [ViTauri (⭐30)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [vue-hbs-admin (⭐90)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
 *   [vite-vue-proste (⭐9)](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 
 ## [54. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
@@ -718,30 +718,30 @@
 
 ### Miscellaneous
 
-*   [fccf (⭐321)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
+*   [fccf (⭐323)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
 ## [55. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [junnplus/nvim-lsp-setup (⭐192)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+*   [junnplus/nvim-lsp-setup (⭐193)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐168)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐173)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Fennel / Diagnostics
 
-*   [udayvir-singh/tangerine.nvim (⭐131)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
-*   [udayvir-singh/hibiscus.nvim (⭐73)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
+*   [udayvir-singh/tangerine.nvim (⭐137)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
+*   [udayvir-singh/hibiscus.nvim (⭐75)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐329)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐334)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ### Scrolling / Diagnostics
 
-*   [declancm/cinnamon.nvim (⭐188)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+*   [declancm/cinnamon.nvim (⭐194)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 
 ---
 

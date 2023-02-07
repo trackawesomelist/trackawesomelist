@@ -68,7 +68,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐440)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐442)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

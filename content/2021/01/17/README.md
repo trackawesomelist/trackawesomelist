@@ -29,10 +29,10 @@
 
 ## [2. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Apps
+### Apps / Platform-specific tools
 
-*   [Argos Translate (⭐1.6k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
-*   [LibreTranslate (⭐3.5k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+*   [Argos Translate (⭐1.7k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+*   [LibreTranslate (⭐3.6k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Front-End Development
 
-*   [Design systems (⭐526)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+*   [Design systems (⭐528)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

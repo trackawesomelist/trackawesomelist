@@ -14,7 +14,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [v-lazy-component (⭐36)](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
+*   [v-lazy-component (⭐37)](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
 
 ## [2. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Web / Playground
 
-*   :octocat: [feednext.io (⭐240)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+*   :octocat: [feednext.io (⭐242)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -55,6 +55,8 @@
 ### Graph databases
 
 *   [vivace-graph (⭐125)](https://github.com/kraison/vivace-graph-v3) - graph database & Prolog implementation. Takes design inspiration from CouchDB, neo4j and AllegroGraph. It implements an ACID-compliant object graph model with user-defined indexes and map-reduce views. It also implements a master / slave replication scheme for redundancy and horizontal read scaling. Querying the graph is accomplished via a number of Lisp methods or via a Prolog-like query language. [MIT](https://opensource.org/licenses/MIT).
+    *   "I have used Vivace Graph as an online catalog for millions of products, as the back end for a complex, adaptable VoIP-based IVR, as well as data store for several complex big data analysis systems, and finally as the engine for two recommender systems." (issue #23)
+    *   "Why is vivace graph so fast? I have been comparing it with SQL-based approach and Neo4j, and vivace graph is much, much faster."
 
 ### HTTP Servers / Hunchentoot plugins
 
@@ -63,7 +65,7 @@
 ### Plotting / Third-party APIs
 
 *   [kai (⭐80)](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/) JS library. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-spark (⭐91)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT](https://opensource.org/licenses/MIT).
+*   [cl-spark (⭐92)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

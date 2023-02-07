@@ -71,7 +71,7 @@
 
 ### Boilerplates
 
-*   [Oh My Fullstack (⭐168)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+*   [Oh My Fullstack (⭐167)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 
 ## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -223,8 +223,8 @@
 *   [vue-chart-stater-kit (⭐23)](https://github.com/joshua1988/vue-chart-starter-kit) Quick starter using Vue Router, Vue Chart, Element-UI
 *   [vue2.0-demos (⭐140)](https://github.com/qianyinghuanmie/vue2.0-demos) using mint-ui, Element-UI,And have Some demos（select city and so on）
 *   [conway (⭐3)](https://github.com/edge/conway) Conway's Game of Life in Vue.
-*   [vuex-feature-scoped-structure (⭐225)](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
-*   [vuex-examples (⭐255)](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
+*   [vuex-feature-scoped-structure (⭐224)](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
+*   [vuex-examples (⭐254)](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
 *   [vue-vuex-todomvc (⭐45)](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
 *   [vuejs-music-player (⭐31)](https://github.com/Jamaks/vuejs-music-player) - A Vue.js lite music player
 *   [Vue.js Best Practices Example Project (⭐41)](https://github.com/sarneeh/vuejs-example-stock-trader) - A best practices example project using Vue.js + Vue Router + Vuex + Vuelidate
@@ -238,7 +238,7 @@
 *   [Gokotta (⭐507)](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
 *   [CoPilot (⭐2.8k)](https://github.com/misterGF/CoPilot) - An admin portal based on AdminLTE with vue.js integration.
 *   [Retrospectify (⭐105)](https://github.com/pepf/retrospectify) - A simple tool for doing collaborative retrospectives in agile teams.
-*   [jade-press (⭐40)](https://github.com/jade-press/jade-press) - Cms based on mongodb, nodejs, koa, vue and more.
+*   [jade-press (⭐41)](https://github.com/jade-press/jade-press) - Cms based on mongodb, nodejs, koa, vue and more.
 *   [astralapp (⭐2.9k)](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
 *   [EME (⭐2k)](https://github.com/egoist/eme) - An Elegant Markdown Editor.
 *   [Github-explorer (⭐118)](https://github.com/SidKwok/github-explorer) - A spa which can help you check your github in a better way.
@@ -253,9 +253,9 @@
 *   [Tomato5 (⭐241)](https://github.com/zhangxin840/tomato5) - Real-time collaboration tool, it combines Pomodoro Technique with a team status share board.
 *   [Web Learn (⭐185)](https://github.com/freearhey/web-learn) - A service which provides simple access to thousands of video tutorials on web developing and programming.
 *   [Materialize-blog (⭐206)](https://github.com/forehalo/materialize-blog) - A material blog built with Laravel5.3 and Vue2.x.
-*   [SDR News (⭐60)](https://github.com/super-dev/SDR-News) - News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs).
+*   [SDR News (⭐59)](https://github.com/super-dev/SDR-News) - News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs).
 *   [PJ Blog (⭐2.8k)](https://github.com/jcc/blog) - Open source blog built with Laravel and Vue.js.
-*   [Lulumi-browser (⭐412)](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
+*   [Lulumi-browser (⭐413)](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
 *   [vue-wordpress-pwa (⭐689)](https://github.com/bstavroulakis/vue-wordpress-pwa)
 *   [OpenAPI 3 viewer (⭐85)](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
 *   [Stacer (⭐8.2k)](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
@@ -267,7 +267,7 @@
 *   [mmf-blog-vue2 (⭐237)](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
 *   [Media Manager (⭐243)](https://github.com/iutbay/mm) - Web File Manager.
 *   [dyu/bookmarks (⭐144)](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
-*   [JSON Schema Editor (⭐235)](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
+*   [JSON Schema Editor (⭐238)](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
 *   [npm-stats (⭐110)](https://github.com/apertureless/npm-stats) - npm package download statistics dashboard
 *   [vue2-admin-lte (⭐1.1k)](https://github.com/devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
 
@@ -276,8 +276,8 @@
 *   [vue-datepicker-mobile (⭐17)](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
 *   [vue-draggable-cal (⭐86)](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped.
 *   [vue-vanilla-datetime-picker (⭐31)](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.
-*   [vue2-daterange-picker (⭐310)](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
-*   [vue-timeselector (⭐42)](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
+*   [vue2-daterange-picker (⭐311)](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
+*   [vue-timeselector (⭐43)](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
 
 ### Components & Libraries / Frameworks
 
@@ -492,31 +492,31 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ## [35. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### 3D / Other / unknown licence
+### 3D / MIT
 
 *   [ada-doom-3 (⭐237)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
-### Machine Learning / Other / unknown licence
+### Machine Learning / MIT
 
 *   [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
 
-### Patterns / Other / unknown licence
+### Patterns / MIT
 
 *   [ada-promises (⭐6)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
 *   [aforth (⭐19)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
-### Format Readers and Writers / Other / unknown licence
+### Format Readers and Writers / MIT
 
 *   [abf-io (⭐0)](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 
-### Multimedia / Other / unknown licence
+### Multimedia / MIT
 
 *   [ada-3ds (⭐4)](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [areadline (⭐7)](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
 

@@ -29,10 +29,6 @@
 
 *   [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
 
-### List of Licenses / Wikis
-
-*   `BSD-3-Clause-Attribution` - [BSD with attribution](https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution)
-
 ## [2. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Uncategorised
@@ -56,7 +52,6 @@
 ### Community
 
 *   [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
-*   [Slack](https://craftcms.com/slack) - Join the Slack group dedicated to Craft CMS discussion.
 
 ## [6. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 

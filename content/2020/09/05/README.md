@@ -90,7 +90,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Excision Mail (⭐140)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
+*   [Excision Mail (⭐141)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
 
 ### Software / Communication - Social Networks and Forums
 

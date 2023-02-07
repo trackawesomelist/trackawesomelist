@@ -226,7 +226,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [Formily (⭐9k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+*   [Formily (⭐9.1k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
 ## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

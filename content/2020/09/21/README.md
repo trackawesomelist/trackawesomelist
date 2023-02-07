@@ -78,7 +78,7 @@
 
 ### Framework Components
 
-*   [Shield (⭐46)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
+*   [Shield (⭐50)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
 
 ### Misc
 
@@ -88,12 +88,12 @@
 
 ### Nextjs Blog Starter   [↗](https://awesomestacks.dev/nextjs-blog-starter) / Resources
 
-*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐94k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
-*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐85k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
+*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐100k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
+*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐88k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
 *   [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
 *   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐27k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
-*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐21k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
-*   [Nextjs Blog Starter (⭐483)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
+*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
+*   [Nextjs Blog Starter (⭐511)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
 *   [Nextjs Blog Starter Demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)
 
 ## [11. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
@@ -158,7 +158,7 @@
 
 ### CMS
 
-*   [BlazorShop (⭐224)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
+*   [BlazorShop (⭐225)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -266,7 +266,7 @@
 
 ### Native
 
-*   [Aparapi (⭐424)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
+*   [Aparapi (⭐427)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
 
 ### PDF
 
@@ -274,16 +274,16 @@
 
 ### Science / Other
 
-*   [Chart-FX (⭐377)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
-*   [LogicNG (⭐103)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
+*   [Chart-FX (⭐391)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
+*   [LogicNG (⭐104)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 
 ### Testing / Miscellaneous
 
-*   [LogCaptor (⭐210)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
+*   [LogCaptor (⭐217)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Graal (⭐336)](https://github.com/neomatrix369/awesome-graal)
+*   [Awesome Graal (⭐338)](https://github.com/neomatrix369/awesome-graal)
 
 ### People / Twitter
 
@@ -293,7 +293,7 @@
 
 ### Contents / Business
 
-*   [Open E-Commerce App (⭐666)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
+*   [Open E-Commerce App (⭐672)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
 
 ---
 

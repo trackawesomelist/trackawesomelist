@@ -93,11 +93,11 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Sound / Other / unknown licence
+### Sound / MIT
 
 *   [coreland-openal-ada (⭐3)](https://github.com/io7m/coreland-openal-ada) - Ada binding to OpenAL
 
-### Simulation / Other / unknown licence
+### Simulation / MIT
 
 *   [mars-mpl (⭐4)](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada (⭐76)](https://github.com/AdaCore/gtkada), [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm))
 *   [doppler-effect-sample2 (⭐2)](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada (⭐76)](https://github.com/AdaCore/gtkada)).
@@ -106,7 +106,7 @@
 
 ### Image processing
 
-*   [ffmpeg (⭐10)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
+*   [ffmpeg (⭐11)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
 
 ### Third-party APIs
 
@@ -126,7 +126,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [ctripcorp/SQLlin (⭐124)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
+*   [ctripcorp/SQLlin (⭐129)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 
 ### Libraries/Frameworks / Multiplatform
 
@@ -136,11 +136,11 @@
 
 ### Contents / Finance
 
-*   [MMAS: Money Tracker (⭐121)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
+*   [MMAS: Money Tracker (⭐131)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
 
 ### Contents / Personalization
 
-*   [Spooky (⭐49)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
+*   [Spooky (⭐51)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
 
 ## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -229,7 +229,7 @@
 
 ### Geographic
 
-*   [H3 (⭐209)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+*   [H3 (⭐212)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 
 ## [19. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Miscellaneous
 
-*   [pspsdk (⭐654)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+*   [pspsdk (⭐670)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
 ## [22. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
@@ -288,7 +288,7 @@
 
 ### Actors pattern / Third-party APIs
 
-*   [lisp-actors (⭐58)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
+*   [lisp-actors (⭐59)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
     *   it was part of the [Emotiq blockchain (⭐96)](https://github.com/emotiq/emotiq/blob/dev/src/test/blockchain-test.lisp) (a discontinued project)
     *   does remoting, includes a threading abstraction layer library similar to Bordeaux-Threads.
     *   ! it lacks unit tests.
@@ -299,24 +299,24 @@
 
 ## [26. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
-### Darknet
+### VM-Hardening
+
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
+*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
+
+### Anonymity / OpenVPN
 
 *   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 
-### VM-Hardening / Web articles
+### Social media / OpenVPN
 
-*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
-
-### Social media / Web articles
-
-*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
+*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org) - Qubes OS Discord General Room Bridge
 
 ## [27. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Memory managers
 
-*   [386MAX (⭐70)](https://github.com/sudleyplace/386MAX) - Memory manager for DOS PCs with 386 or higher CPUs, [released by Qualitas company in 1992](https://winworldpc.com/product/386max/6x). Source code was released in June 2022 on GitHub with GPL-3.0 license.
+*   [386MAX (⭐84)](https://github.com/sudleyplace/386MAX) - Memory manager for DOS PCs with 386 or higher CPUs, [released by Qualitas company in 1992](https://winworldpc.com/product/386max/6x). Source code was released in June 2022 on GitHub with GPL-3.0 license.
 
 ### Open source DOS libraries / Sound Blaster/OPL3
 
@@ -356,12 +356,6 @@
 
 ### Remote Jobs:
 
-- Website: <https://remotefrontendjobs.com>
-
-
-- Website: <https://startup.jobs/remote>
-
-
 - Website: <https://remotescout.ch>
 
 
@@ -376,35 +370,35 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐1.8k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐2.4k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 
 ### Completion / Diagnostics
 
-*   [zbirenbaum/copilot.lua (⭐446)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐4k)](https://github.com/github/copilot.vim).
+*   [zbirenbaum/copilot.lua (⭐497)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐4.1k)](https://github.com/github/copilot.vim).
 
 ### Project / Diagnostics
 
-*   [pluffie/neoproj (⭐11)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
-*   [natecraddock/workspaces.nvim (⭐117)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [pluffie/neoproj (⭐13)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
+*   [natecraddock/workspaces.nvim (⭐124)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ### Keybinding / Diagnostics
 
-*   [Nexmean/caskey.nvim (⭐54)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
+*   [Nexmean/caskey.nvim (⭐57)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐83)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐102)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
 
 ## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fzf-tab-widgets (⭐1)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐0)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gnsprompt (⭐0)](https://github.com/gnsfujiwara/gnsprompt) - Minimal prompt with decorators for root status and current directory.
-*   [minimal-terminal (⭐33)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
+*   [minimal-terminal (⭐34)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
 *   [softblobby (⭐0)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
 
 ## [36. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
@@ -468,7 +462,7 @@
 
 ### Security
 
-*   [Password Cracking (⭐179)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Password Cracking (⭐191)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 ## [43. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
@@ -494,5 +488,5 @@
 
 ---
 
-- Prev: [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+- Prev: [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 - Next: [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)

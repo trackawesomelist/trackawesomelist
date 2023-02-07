@@ -30,20 +30,20 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Online / Other / unknown licence
+### Online / MIT
 
 *   [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with.
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 *   [bare-bones (⭐75)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 
-### Games / Other / unknown licence
+### Games / MIT
 
 *   [co-terminal-apps (⭐23)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
@@ -67,7 +67,7 @@
 
 ### Logging
 
-*   [plog (⭐1.6k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
+*   [plog (⭐1.7k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
 
 ### Sorting
 
@@ -75,11 +75,11 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐555)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐556)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
-*   [Cget (⭐417)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
+*   [Cget (⭐422)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

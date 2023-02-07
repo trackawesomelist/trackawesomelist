@@ -65,7 +65,7 @@
 
 ### Projects
 
-*   [Oxfeed (⭐8)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
+*   [Oxfeed (⭐9)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 
 ## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

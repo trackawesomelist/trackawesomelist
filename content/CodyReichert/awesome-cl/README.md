@@ -216,8 +216,11 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Others / Third-party APIs
 
-*   [maxima](http://maxima.sourceforge.net/) - Computer algebra system. Not available on Quicklisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
-    *   also [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
+*   [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. Not available on Quicklisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+    *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
+    *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
+    *   [Maxima on Jupyter (⭐157)](https://github.com/robert-dodier/maxima-jupyter)
+    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)).
 
 ### Documentation builders / Third-party APIs
 
@@ -398,6 +401,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Community
 
 *   ⭐ [Quicklisp](https://www.quicklisp.org/beta/) - A library manager containing many libraries, with easy depencency management. [Expat](https://directory.fsf.org/wiki/License:Expat).
+    *   [Quicklisp bundles](https://quicklisp.org/beta/bundles.html) -  self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp.
+    *   [redist (⭐3)](https://github.com/shirakumo/redist) - facilities to produce Quicklisp distributions.
 
 ### HTTP Servers / Interfaces to other package managers
 
@@ -1291,6 +1296,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Graph databases
 
 *   [vivace-graph (⭐125)](https://github.com/kraison/vivace-graph-v3) - graph database & Prolog implementation. Takes design inspiration from CouchDB, neo4j and AllegroGraph. It implements an ACID-compliant object graph model with user-defined indexes and map-reduce views. It also implements a master / slave replication scheme for redundancy and horizontal read scaling. Querying the graph is accomplished via a number of Lisp methods or via a Prolog-like query language. [MIT](https://opensource.org/licenses/MIT).
+    *   "I have used Vivace Graph as an online catalog for millions of products, as the back end for a complex, adaptable VoIP-based IVR, as well as data store for several complex big data analysis systems, and finally as the engine for two recommender systems." (issue #23)
+    *   "Why is vivace graph so fast? I have been comparing it with SQL-based approach and Neo4j, and vivace graph is much, much faster."
 
 ### HTTP Servers / Hunchentoot plugins
 

@@ -32,7 +32,7 @@
 
 ### Production Ready Django + Docker   [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
 
-*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐48k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
+*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐50k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -48,7 +48,7 @@
 
 ## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 
@@ -78,7 +78,7 @@
 
 ### Networking
 
-*   [ZeroMQ (⭐8.2k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐8.3k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
 
 ## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

@@ -188,16 +188,16 @@
 
 ### Development / Npm
 
-*   [npm-name-cli (⭐270)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [npm-user-cli (⭐27)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
-*   [npm-home (⭐179)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
-*   [pkg-dir-cli (⭐20)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-*   [npm-check-updates (⭐7.6k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
+*   [npm-name-cli (⭐271)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [npm-user-cli (⭐28)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
+*   [npm-home (⭐182)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+*   [pkg-dir-cli (⭐21)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
+*   [npm-check-updates (⭐7.9k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ### Utilities / Theming and Customization
 
 *   [wallpaper-cli (⭐152)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
-*   [themer (⭐4.9k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+*   [themer (⭐5k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 
 ### Files and Directories / Files
 

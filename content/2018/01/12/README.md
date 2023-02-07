@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12, 2018
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -99,12 +99,6 @@
 ### Others / Web
 
 *   [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6\&t=28220) - by Alguimist - Useful window spy / information tool written in AHK.
-
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### List of Licenses / Wikis
-
-*   `AGPL-3.0-only` - [GNU Affero General Public License 3.0 only](https://spdx.org/licenses/AGPL-3.0-only.html)
 
 ---
 

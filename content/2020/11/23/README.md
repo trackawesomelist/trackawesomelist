@@ -16,7 +16,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ishan9299/modus-theme-vim (⭐114)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐115)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -66,8 +66,8 @@
 
 ### Neural Natural Language Generation
 
-*   [PaperRobot: Incremental Draft Generation of Scientific Ideas (⭐445)](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
-*   [Question Generation using hugstransformers (⭐844)](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
+*   [PaperRobot: Incremental Draft Generation of Scientific Ideas (⭐457)](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
+*   [Question Generation using hugstransformers (⭐897)](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
 
 ## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -88,7 +88,7 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐442)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐443)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

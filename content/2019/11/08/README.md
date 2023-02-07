@@ -41,7 +41,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Zeithub (⭐58)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+*   [Zeithub (⭐59)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Math
 
-*   [CNL (⭐554)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐559)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Bean Mapping
 
-*   [reMap (⭐102)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+*   [reMap (⭐103)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 
 ### Bytecode Manipulation
 

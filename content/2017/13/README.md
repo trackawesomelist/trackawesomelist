@@ -215,7 +215,7 @@
 ### Contents / EHR
 
 *   [Odoo Medical (⭐245)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
-*   [openMAXIMS (⭐55)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
+*   [openMAXIMS (⭐56)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 
 ### Contents / Specifications
 
@@ -224,7 +224,7 @@
 
 ### Contents / Prescribing
 
-*   [OpenEP (⭐17)](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
+*   [OpenEP (⭐18)](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
 ### Contents / Laboratory
 
@@ -238,13 +238,13 @@
 
 *   [fhir.js (⭐362)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
 *   [Node HL7 (⭐48)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Python HL7 (⭐238)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Python HL7 (⭐239)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
 *   [Ruby FHIR (⭐140)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
 *   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
 
-*   [SMART Pediatric Growth Chart (⭐65)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+*   [SMART Pediatric Growth Chart (⭐66)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ### Contents / PHR
 
@@ -327,7 +327,7 @@
 
 ### Cryptography
 
-*   [OpenSSL (⭐20k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+*   [OpenSSL (⭐21k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 
 ## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -530,7 +530,7 @@
 *   Ruby
     *   [by @kanwei (⭐2.6k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐632)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐653)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 
 ## [30. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
@@ -609,7 +609,7 @@
 ### Scheduling
 
 *   [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
-*   [Chroniton (⭐178)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
+*   [Chroniton (⭐177)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 
 ## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 

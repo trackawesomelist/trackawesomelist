@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [BrightstarDb (⭐444)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+*   [BrightstarDb (⭐446)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
 
 ### MVVM
 

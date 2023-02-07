@@ -77,7 +77,7 @@
 
 ### Elixir / Natural Language Processing
 
-*   [Stemmer (⭐143)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [Stemmer (⭐144)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ## [12. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

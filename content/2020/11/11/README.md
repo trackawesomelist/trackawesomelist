@@ -38,7 +38,7 @@
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Services
+### Services / Misc
 
 *   [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 
@@ -125,7 +125,7 @@
 
 ### Tools
 
-*   [bitfield (⭐20)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
+*   [bitfield (⭐21)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
 
 ### Clojure
 

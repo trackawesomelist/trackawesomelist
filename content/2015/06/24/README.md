@@ -10,11 +10,11 @@
 
 ### Caching
 
-*   [crystal-memcached (⭐33)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+*   [crystal-memcached (⭐32)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐432)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐430)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 

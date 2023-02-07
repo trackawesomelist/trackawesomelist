@@ -30,11 +30,11 @@
 
 ### AppImage consumption tools / Sandboxes
 
-*   [Firejail (⭐4.5k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
+*   [Firejail (⭐4.7k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### AppImage consumption tools / Package managers
 
-*   [Zap (⭐336)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+*   [Zap (⭐379)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 
 ### AppImage developer tools / Metadata tools
 

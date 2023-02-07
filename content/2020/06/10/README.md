@@ -53,7 +53,7 @@
 
 ### Applications
 
-*   [wezterm (⭐6.8k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐7k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Dependency Injection
 
-*   [Athena Dependency Injection (⭐7)](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
+*   [Athena Dependency Injection (⭐8)](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
 
 ### Framework Components
 
@@ -101,7 +101,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐166)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐170)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -271,7 +271,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐714)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐725)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

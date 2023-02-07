@@ -48,7 +48,7 @@
 
 ### Git Tools
 
-*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐558)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
@@ -65,7 +65,7 @@
 ### Misc
 
 *   [CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐7.3k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [Humanizer (⭐7.4k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 *   [Shielded (⭐227)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### ORM
@@ -83,7 +83,7 @@
 ### WebSocket
 
 *   [SignalR (⭐8.8k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
-*   [SuperSocket (⭐3.4k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
+*   [SuperSocket (⭐3.5k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐504)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐505)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
@@ -361,7 +361,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐546)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐549)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ### Testing
 

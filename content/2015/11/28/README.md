@@ -28,7 +28,7 @@
 ### WebSocket
 
 *   [SignalR (⭐8.8k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
-*   [SuperSocket (⭐3.4k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
+*   [SuperSocket (⭐3.5k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
 ## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

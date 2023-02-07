@@ -56,7 +56,7 @@
 
 ### i18n
 
-*   [xgettext-template (⭐79)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+*   [xgettext-template (⭐80)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 ## [6. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

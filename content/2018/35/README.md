@@ -274,7 +274,7 @@
 *   Can manage everything
     *   ZSH plugins/UNIX commands on [GitHub](https://github.com) and [Bitbucket](https://bitbucket.org)
     *   Gist files ([gist.github.com](https://gist.github.com/discover))
-    *   Externally managed plugins e.g., [oh-my-zsh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
+    *   Externally managed plugins e.g., [oh-my-zsh (⭐155k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
     *   Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
     *   Local plugins
     *   etc. (you can add your [own sources (⭐5.3k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
@@ -282,7 +282,7 @@
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐49k)](https://github.com/junegunn/fzf), [peco (⭐7.2k)](https://github.com/peco/peco), [zaw (⭐529)](https://github.com/zsh-users/zaw), and so on)
+*   Interactive interface ([fzf (⭐50k)](https://github.com/junegunn/fzf), [peco (⭐7.2k)](https://github.com/peco/peco), [zaw (⭐531)](https://github.com/zsh-users/zaw), and so on)
 *   Cache mechanism for reducing [the startup time (⭐5.3k)](https://github.com/zplug/zplug#vs)
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
@@ -331,7 +331,7 @@
 
 ### Bindings
 
-*   [flextGL (⭐197)](https://github.com/mosra/flextgl) - Minimal Vulkan header/loader generator and [the blog post](http://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/) about it.
+*   [flextGL (⭐196)](https://github.com/mosra/flextgl) - Minimal Vulkan header/loader generator and [the blog post](http://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/) about it.
 
 ## [16. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -413,13 +413,13 @@
 
 ### Python / Kaggle Competition Source Code
 
-*   [open-solution-home-credit (⭐427)](https://github.com/neptune-ml/open-solution-home-credit) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) for [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
+*   [open-solution-home-credit (⭐430)](https://github.com/neptune-ml/open-solution-home-credit) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) for [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
 *   [open-solution-googleai-object-detection (⭐46)](https://github.com/neptune-ml/open-solution-googleai-object-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Google-AI-Object-Detection-Challenge) for [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track).
 *   [open-solution-salt-identification (⭐123)](https://github.com/neptune-ml/open-solution-salt-identification) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Salt-Detection) for [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge).
 *   [open-solution-ship-detection (⭐55)](https://github.com/neptune-ml/open-solution-ship-detection) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Ships) for [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection).
 *   [open-solution-data-science-bowl-2018 (⭐159)](https://github.com/neptune-ml/open-solution-data-science-bowl-2018) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Data-Science-Bowl-2018) for [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018).
 *   [open-solution-value-prediction (⭐36)](https://github.com/neptune-ml/open-solution-value-prediction) -> source code and [experiments results](https://app.neptune.ml/neptune-ml/Santander-Value-Prediction-Challenge) for [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge).
-*   [open-solution-toxic-comments (⭐153)](https://github.com/neptune-ml/open-solution-toxic-comments) -> source code for [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
+*   [open-solution-toxic-comments (⭐151)](https://github.com/neptune-ml/open-solution-toxic-comments) -> source code for [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
 ### Swift / General-Purpose Machine Learning
 
@@ -661,7 +661,7 @@
 
 ### Miscellaneous
 
-*   [FIRST Robotics Competition (⭐87)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
+*   [FIRST Robotics Competition (⭐88)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
 ## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

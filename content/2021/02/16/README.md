@@ -10,7 +10,7 @@
 
 ### Types / Playground
 
-*   [typetype (⭐336)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+*   [typetype (⭐340)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 
 ## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -30,21 +30,21 @@
 ### Router / Mouse Events
 
 *   [wouter (⭐4.8k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
-*   [redux-first-history (⭐368)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+*   [redux-first-history (⭐374)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Form Components / Color Picker
 
-*   [react-colorful (⭐2.4k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
+*   [react-colorful (⭐2.5k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Templating
 
-*   [temple (⭐403)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple (⭐404)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Text and Numbers
 
-*   [bitcoinex (⭐36)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
+*   [bitcoinex (⭐37)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
 ## [6. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -65,13 +65,13 @@
 
 ### Applications / Audio and Music
 
-*   [ncspot (⭐3.4k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
+*   [ncspot (⭐3.5k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NxShell (⭐711)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
+*   [NxShell (⭐719)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 
 ### Components & Libraries / UI Components
 

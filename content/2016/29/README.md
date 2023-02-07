@@ -369,7 +369,7 @@
 
 ### Libraries / Python
 
-*   [μMongo (⭐427)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+*   [μMongo (⭐429)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ## [28. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -429,7 +429,7 @@
 
 ### Release Management
 
-*   [eliver (⭐53)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
+*   [eliver (⭐54)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 
 ### Testing
 
@@ -437,7 +437,7 @@
 
 ### Text and Numbers
 
-*   [stemmer (⭐143)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [stemmer (⭐144)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ### Third Party APIs
 
@@ -446,7 +446,7 @@
 
 ### Utilities
 
-*   [erlang-history (⭐497)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐498)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -548,9 +548,9 @@
 ### Go / Erlang
 
 *   [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
-*   [Gopencils (⭐438)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
+*   [Gopencils (⭐440)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 *   [Neutrino (⭐133)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
-*   [Sleepy (⭐679)](https://github.com/dougblack/sleepy) - REST for go.
+*   [Sleepy (⭐678)](https://github.com/dougblack/sleepy) - REST for go.
 
 ### Haskell / Erlang
 
@@ -600,7 +600,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐42k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
+*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐43k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 ## [47. Typography](/content/deanhume/typography/week/README.md)
 

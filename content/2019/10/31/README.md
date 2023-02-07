@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2019
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,32 +12,26 @@
 
 *   [Infosec/hacking videos recorded by cooper](https://administraitor.video) - Collection of security conferences recorded by Cooper.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### List of Licenses / Wikis
-
-*   `ZPL-1.2` - [Zope Public License 1.2](http://zpl.pub/page/zplv12)
-
-## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Other Lists
 
 *   [Eric Zimmerman Tools](https://ericzimmerman.github.io/) - An updated list of forensic tools created by Eric Zimmerman, an instructor for SANS institute.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [GraphCMS introduction guide with Vue](https://graphcms.com/docs/introduction/) on GraphCMS
 
-## [5. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Backports and improvements
 
 *   [typed-ast (⭐217)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 *   [typing-extensions (⭐1.3k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 
-## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Data validation
 
@@ -51,13 +45,13 @@
 
 *   [Ember.js RealWorld Implementation (⭐177)](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Misc Articles
 
 *   [SRE as a Lifestyle Choice](https://medium.com/@bellmar/sre-as-a-lifestyle-choice-de9f5a82d73d)
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Currency Exchange
 
@@ -73,30 +67,30 @@
 
 
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Pylearn2 (⭐2.7k)](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano (⭐9.6k)](https://github.com/Theano/Theano). **\[Deprecated]**
+*   [Pylearn2 (⭐2.7k)](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano (⭐9.7k)](https://github.com/Theano/Theano). **\[Deprecated]**
 
 ### Tools / Misc
 
-*   [Kedro (⭐7.9k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐8k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
-## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Publish GitHub release artifacts (⭐122)](https://github.com/skx/github-action-publish-binaries)
 
-## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [Nauz File Detector(NFD) (⭐416)](https://github.com/horsicq/Nauz-File-Detector) - Linker/Compiler/Tool detector  for Windows, Linux and MacOS.
 
-## [12. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [11. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Other tools / Misc
 
@@ -106,13 +100,13 @@
 
 *   [Data Viz Today](https://dataviztoday.com/)
 
-## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) - Breaking into AI with the best course from Andrew NG.
 
-## [14. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [13. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Server Frameworks
 
@@ -143,25 +137,25 @@
 *   [Vim Plugin (⭐596)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
 *   [VSCode Plugin](https://dartcode.org/) - Dart support for Visual Studio Code.
 
-## [15. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
+## [14. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
 ### Calculator apps: / Cross-Platform
 
 *   [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
 
-## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [15. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   [rescue-box (⭐15)](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 
-## [17. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [16. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / User Interface
 
 *   [msdf-gdx (⭐28)](https://github.com/maltaisn/msdf-gdx) - Provides lightweight utilities to draw high-quality MSDF (multi-channel signed distance field) text on libGDX.
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -190,7 +184,7 @@
 
 ### Issue Tracking and Project Management
 
-*   [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free, paid plans with more options
+*   [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free plan has 2 boards, 2 users, without atachments or files.
 
 ### Design and UI
 
@@ -200,7 +194,7 @@
 
 *   [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), 3 heatmaps, 1 funnel, 1-month data history
 
-## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [18. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Reactive Programming
 

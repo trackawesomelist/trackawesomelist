@@ -242,7 +242,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Querying / Symfony2
 
-*   [HTTP Prompt (⭐8.6k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
+*   [HTTP Prompt (⭐8.7k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 
 ## [11. Vim Galore](/content/mhinz/vim-galore/README.md)
 

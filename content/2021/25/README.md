@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Sklearn-genetic-opt (⭐180)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
+*   [Sklearn-genetic-opt (⭐182)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
 
 ## [2. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -60,15 +60,15 @@
 
 ### Application Frameworks
 
-*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐132)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐59)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐134)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐59)](https://github.com/alexyakunin/BoardGames)
 
 ### Caching
 
-*   [FusionCache (⭐409)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
+*   [FusionCache (⭐420)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 
 ### E-Commerce and Payments
 
-*   [GrandNode (⭐654)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+*   [GrandNode (⭐663)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Scripting languages and interpreters for DOS
 
-*   [DOjS (⭐492)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
+*   [DOjS (⭐511)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
 *   [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
 *   [Micropython for FreeDOS (⭐17)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐16k)](https://github.com/micropython/micropython).
 *   [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
@@ -102,7 +102,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Polygon 2D Fracture (⭐191)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+*   [Godot Polygon 2D Fracture (⭐194)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 
 ### GDScript/C# editor support / Godot version unknown
 
@@ -161,18 +161,17 @@
 
 ### Libraries / Rust
 
-*   [mongodb-rust-driver (⭐1.1k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
+*   [mongodb-rust-driver (⭐1.2k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
 
 ### Tools / Desktop
 
-*   [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
 *   [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
 
 ## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [CXXGraph (⭐184)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐192)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 *   [NumCpp (⭐2.7k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 
 ## [21. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
@@ -211,7 +210,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [budgetzero (⭐507)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
+*   [budgetzero (⭐513)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
 
 ### Software / Note-taking & Editors
 
@@ -226,7 +225,7 @@
 ### Libraries / Command-line
 
 *   Data visualization
-    *   [nukesor/comfy-table (⭐529)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+    *   [nukesor/comfy-table (⭐543)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
     *   [zhiburt/tabled (⭐1.3k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
 ## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
@@ -301,16 +300,16 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Java
-    *   [by @jpa99 (⭐102)](https://github.com/jpa99/Algorithms)
-    *   [by @phishman3579 (⭐4.1k)](https://github.com/phishman3579/java-algorithms-implementation)
+    *   [by @jpa99 (⭐106)](https://github.com/jpa99/Algorithms)
+    *   [by @phishman3579 (⭐4.2k)](https://github.com/phishman3579/java-algorithms-implementation)
     *   [by @asmolich (⭐14)](https://github.com/asmolich/algorithms)
     *   [by @psjava (⭐70)](https://github.com/psjava/psjava)
     *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
-    *   [by @pedrovgs (⭐2.7k)](https://github.com/pedrovgs/Algorithms)
+    *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
     *   [by @Erdos-Graph-Framework (⭐111)](https://github.com/Erdos-Graph-Framework/Erdos)
-    *   [by @deepak-malik (⭐117)](https://github.com/deepak-malik/Data-Structures-In-Java)
+    *   [by @deepak-malik (⭐131)](https://github.com/deepak-malik/Data-Structures-In-Java)
     *   [by @yusufcakal (⭐22)](https://github.com/yusufcakal/algorithms)
-    *   [by @FarheenB (⭐128)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+    *   [by @FarheenB (⭐131)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 
 ## [36. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -382,7 +381,7 @@
 
 ### Starters & Themes
 
-*   📟 [new-tailwind-app (⭐238)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+*   📟 [new-tailwind-app (⭐240)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
 ## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -404,7 +403,7 @@
 
 ### Bindings
 
-*   [Vortice.Vulkan (⭐187)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
+*   [Vortice.Vulkan (⭐191)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
 ## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -522,19 +521,19 @@
 ### Components & Libraries / UI Components
 
 *   [@egjs/vue-flicking (⭐2.2k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
-*   [vue3-openlayers (⭐395)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+*   [vue3-openlayers (⭐399)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
 ### Components & Libraries / Frameworks
 
-*   [Qui-max (⭐217)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+*   [Qui-max (⭐219)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 
 ### Components & Libraries / Utilities
 
-*   [v-google-translate (⭐194)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
+*   [v-google-translate (⭐256)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐26)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐27)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 ## [56. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -546,7 +545,7 @@
 
 ### Mods / Performance
 
-*   [Sodium (for Fabric) (⭐3.8k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+*   [Sodium (for Fabric) (⭐3.9k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
 ## [58. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 

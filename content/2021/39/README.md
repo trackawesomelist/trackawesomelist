@@ -16,7 +16,7 @@
 
 ### Applications
 
-*   [SimpleX chat (⭐2.2k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+*   [SimpleX chat (⭐2.3k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -181,43 +181,43 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Entertainment / Books
 
-*   [medium-cli (⭐668)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+*   [medium-cli (⭐674)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
 ### Development / Books
 
-*   [gdb-dashboard (⭐8.9k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
-*   [iola (⭐109)](https://github.com/pvarentsov/iola) - Socket client with REST API.
+*   [gdb-dashboard (⭐9.1k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
+*   [iola (⭐116)](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### Productivity / Note Taking and Lists
 
-*   [nb (⭐4.8k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
+*   [nb (⭐5.1k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 
 ### Utilities / Math
 
-*   [mdlt (⭐146)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-*   [Qalculate (⭐1.1k)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+*   [mdlt (⭐152)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
+*   [Qalculate (⭐1.2k)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ### Version Control / Git
 
 *   [git commander (⭐1.1k)](https://github.com/golbin/git-commander) - Interactive git tool.
-*   [git-stats (⭐6k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
+*   [git-stats (⭐6.1k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 *   [tig (⭐11k)](https://github.com/jonas/tig) - Text-mode interface for git.
-*   [grv (⭐3.9k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
-*   [gitlab-cli (⭐250)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
+*   [grv (⭐4k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
+*   [gitlab-cli (⭐256)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 *   [git-extras (⭐16k)](https://github.com/tj/git-extras) - Git utilities.
-*   [gita (⭐1.2k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
-*   [readme-md-generator (⭐9.9k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
+*   [gita (⭐1.3k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
+*   [readme-md-generator (⭐10k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
 
 ### Version Control / GitHub
 
 *   [CLI GitHub (⭐421)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
-*   [Gistup (⭐485)](https://github.com/mbostock/gistup) - Manage GitHub gists.
+*   [Gistup (⭐490)](https://github.com/mbostock/gistup) - Manage GitHub gists.
 *   [hub (⭐22k)](https://github.com/github/hub) - Make git easier to use with GitHub.
-*   [git-labelmaker (⭐563)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
+*   [git-labelmaker (⭐562)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
 ### Images / Emoji
 
-*   [SVGO (⭐18k)](https://github.com/svg/svgo) - Optimize SVG files.
+*   [SVGO (⭐19k)](https://github.com/svg/svgo) - Optimize SVG files.
 
 ### Images / Gif Creation
 
@@ -229,15 +229,15 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Screensavers / Image Conversion
 
-*   [cmatrix (⭐2.9k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
-*   [pipes.sh (⭐1.8k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
-*   [YuleLog (⭐50)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
-*   [cli-fireplace (⭐36)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+*   [cmatrix (⭐3.1k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
+*   [pipes.sh (⭐1.9k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
+*   [YuleLog (⭐51)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
+*   [cli-fireplace (⭐40)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ### Graphics / Image Conversion
 
-*   [cli-mandelbrot (⭐76)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-*   [lowcharts (⭐108)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
+*   [cli-mandelbrot (⭐77)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
+*   [lowcharts (⭐118)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
 ## [20. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -319,7 +319,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Configuration
 
-*   [inifile-cpp (⭐189)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
+*   [inifile-cpp (⭐191)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
 
 ### Online Compiler
 
@@ -366,7 +366,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 *   [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
-*   [Papers we love (⭐68k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐69k)](https://github.com/papers-we-love/papers-we-love)
 *   [Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming) - Wikibooks
 *   [Red Gate Books](http://www.red-gate.com/community/books/index)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
@@ -399,24 +399,13 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Text Algorithms](http://igm.univ-mlv.fr/\~mac/REC/text-algorithms.pdf) (PDF)
 *   [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 
-### Theoretical Computer Science
+### Programming
 
 *   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
-*   [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
-*   [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
-*   [Category Theory for Programmers (⭐10k)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
 *   [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
-*   [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 *   [Introduction to Computer Science](http://www.cse.iitd.ernet.in/\~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
-*   [Introduction to Computing](http://www.computingbook.org)
-*   [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
-*   [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/\~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
-*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/\~scott/pl/book/dist/) - Scott F. Smith
+*   [Introduction to Computing](http://www.computingbook.org) - David Evans
 *   [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
-*   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
-*   [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/\~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
-*   [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/\~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
-*   [Semantics with Applications: A Formal Introduction](http://www.cs.ru.nl/\~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
 *   [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 *   [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 
@@ -496,7 +485,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐119)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
+*   [2D Game Development: From Zero To Hero (⭐120)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
 *   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
@@ -632,7 +621,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Mathematics, MTH101A](http://home.iitk.ac.in/\~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐41)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐43)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [Online Statistics Education](http://onlinestatbook.com) - David Lane
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
@@ -774,6 +763,20 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 *   [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
+### Theoretical Computer Science
+
+*   [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/\~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
+*   [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
+*   [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
+*   [Category Theory for Programmers (⭐10k)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
+*   [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
+*   [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
+*   [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/\~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
+*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/\~scott/pl/book/dist/) - Scott F. Smith
+*   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
+*   [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/\~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
+*   [Semantics with Applications: A Formal Introduction](http://www.cs.ru.nl/\~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
+
 ### Programming Paradigms
 
 *   [Flow based Programming](http://jpaulmorrison.com/fbp/) - J Paul Morrison
@@ -801,7 +804,7 @@ Interactive UI and fuzzy-search for Git branches.
 ### Search Engines
 
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.5k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐61)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐61)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐62)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐62)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
@@ -844,7 +847,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 *   [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐341)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐344)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 *   [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 *   [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
@@ -905,15 +908,15 @@ Interactive UI and fuzzy-search for Git branches.
 
 ## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Open source / Other / unknown licence
+### Open source / MIT
 
 *   [hac (⭐75)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
 
-### Editors / Other / unknown licence
+### Editors / MIT
 
 *   [lea (⭐16)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
-### Cryptography / Other / unknown licence
+### Cryptography / MIT
 
 *   [blake2s (⭐1)](https://github.com/lkujaw/blake2s) - SPARK83 implementation of the BLAKE2s hash function.
 
@@ -951,7 +954,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Application Frameworks
 
-*   [Plastic (⭐37)](https://github.com/sang-hyeon/Plastic) - Plastic provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application. For this, Command pattern is used.
+*   [Plastic (⭐39)](https://github.com/sang-hyeon/Plastic) - Plastic provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application. For this, Command pattern is used.
 
 ### Calendar
 
@@ -965,17 +968,17 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Templates / Vue 3
 
-*   [vitespa (⭐35)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
+*   [vitespa (⭐36)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
+*   [@vitejs/plugin-react (⭐52k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
 
 ## [40. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [xnbox/DeepfakeHTTP (⭐441)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
+*   [xnbox/DeepfakeHTTP (⭐451)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 
 ## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -987,19 +990,19 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Plugins
 
-*   🛑💼 [Scroll Snap (⭐173)](https://github.com/innocenzi/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
+*   🛑💼 [Scroll Snap (⭐174)](https://github.com/innocenzi/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
 
 ### Tools
 
 *   🌍 [Flowrift](https://flowrift.com) - Beautifully designed Tailwind CSS UI blocks.
-*   💼 [clb (⭐90)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
+*   💼 [clb (⭐96)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
-*   🧩 [Tailwind Datepicker (⭐106)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+*   🧩 [Tailwind Datepicker (⭐110)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 *   🧩 [Tailwind Typeahead (⭐15)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
-*   📁 [OhMySMTP Templates (⭐167)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
+*   📁 [OhMySMTP Templates (⭐168)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
 ## [43. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -1019,7 +1022,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Projects Using Vue.js / Open Source
 
-*   [Context Note (⭐596)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
+*   [Context Note (⭐600)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -1027,7 +1030,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-popperjs (⭐20)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
+*   [vue-use-popperjs (⭐21)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
 
 ## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1773,15 +1776,15 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Software / Automation
 
-*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Source Code (⭐1.1k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
+*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Source Code (⭐1.2k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [QuickShare (⭐371)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. ([Demo](https://hexxa-quickshare.herokuapp.com/)) `LGPL-3.0` `Go`
+*   [QuickShare (⭐374)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. `LGPL-3.0` `Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐44)](https://github.com/r3-team/r3)) `MIT` `Go`
+*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐43)](https://github.com/r3-team/r3)) `MIT` `Go`
 
 ### Software / Pastebins
 
@@ -1794,7 +1797,7 @@ Interactive UI and fuzzy-search for Git branches.
 ### Software / Ticketing
 
 *   [GlitchTip](https://glitchtip.com) - Open source error-tracking app. GlitchTip collects errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python`
-*   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐102)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
+*   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐104)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
 
 ## [47. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -1817,12 +1820,12 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Python / Computer Vision
 
-*   [Exadel CompreFace (⭐2.5k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
+*   [Exadel CompreFace (⭐2.6k)](https://github.com/exadel-inc/CompreFace) - face recognition system that can be easily integrated into any system without prior machine learning skills. CompreFace provides REST API for face recognition, face verification, face detection, face mask detection, landmark detection, age, and gender recognition and is easily deployed with docker.
 
 ### Python / General-Purpose Machine Learning
 
 *   [Streamlit (⭐22k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐7.4k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Optuna (⭐7.5k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -1849,11 +1852,11 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### (requires Neovim 0.5)
 
-*   [weilbith/nvim-code-action-menu (⭐448)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
+*   [weilbith/nvim-code-action-menu (⭐458)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐152)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.5k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐159)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.5k)](https://github.com/honza/vim-snippets).
 
 ### Formatting / Diagnostics
 
@@ -1867,21 +1870,21 @@ Interactive UI and fuzzy-search for Git branches.
 
 ### Applications / System tools
 
-*   [crabz (⭐233)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
+*   [crabz (⭐237)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 
 ### Applications / Text editors
 
-*   [helix (⭐18k)](https://github.com/helix-editor/helix) — A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
-*   [ilai-deutel/kibi (⭐893)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [helix (⭐19k)](https://github.com/helix-editor/helix) — A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
+*   [ilai-deutel/kibi (⭐902)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
 ### Libraries / Compression
 
 *   gzp
-    *   [sstadick/gzp (⭐123)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
+    *   [sstadick/gzp (⭐125)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
 
 ### Libraries / Domain driven design
 
-*   [serverlesstechnology/cqrs (⭐164)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+*   [serverlesstechnology/cqrs (⭐167)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ### Libraries / Game development
 

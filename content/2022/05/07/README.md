@@ -14,7 +14,7 @@
 
 ### Avatars
 
-*   [Exokit Avatars (⭐53)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐4)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐55)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐5)](https://github.com/msub2/avatars).
 
 ### Companies and Cooperatives / Reddit
 
@@ -67,7 +67,7 @@
 
 ### Email
 
-*   [go-mail (⭐213)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
+*   [go-mail (⭐222)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

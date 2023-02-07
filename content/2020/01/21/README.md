@@ -48,7 +48,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐577)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐580)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -88,12 +88,12 @@
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐709)](https://github.com/koute/pinky) — [![build badge](https://api.travis-ci.org/koute/pinky.svg?branch=master)](https://travis-ci.org/koute/pinky)
+    *   [koute/pinky (⭐710)](https://github.com/koute/pinky) — [![build badge](https://api.travis-ci.org/koute/pinky.svg?branch=master)](https://travis-ci.org/koute/pinky)
     *   [pcwalton/sprocketnes (⭐725)](https://github.com/pcwalton/sprocketnes)
 
 ### Applications / Text editors
 
-*   [mathall/rim (⭐557)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
+*   [mathall/rim (⭐559)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
 
 ### Applications / Text processing
 
@@ -102,14 +102,14 @@
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐700)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
-    *   [autumnai/collenchyma (⭐459)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. [![build badge](https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master)](https://travis-ci.org/autumnai/collenchyma)
+    *   [arrayfire/arrayfire-rust (⭐703)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
+    *   [autumnai/collenchyma (⭐460)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. [![build badge](https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master)](https://travis-ci.org/autumnai/collenchyma)
     *   [luqmana/rust-opencl (⭐170)](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
 *   [Nuklear (⭐6.9k)](https://github.com/Immediate-Mode-UI/Nuklear)
-    *   [nuklear-rust (⭐334)](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear
+    *   [nuklear-rust (⭐335)](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear
 
 ### Libraries / Logging
 
@@ -174,8 +174,8 @@ And run this to remove the attributes:
 
 ### Programming Languages
 
-*   [Common Lisp (⭐2k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    *   [Learning (⭐153)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+*   [Common Lisp (⭐2.1k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+    *   [Learning (⭐154)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 
 ### Front-End Development
 
@@ -187,7 +187,7 @@ And run this to remove the attributes:
 
 ### Events
 
-*   [Creative Tech Events (⭐116)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+*   [Creative Tech Events (⭐118)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## [18. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

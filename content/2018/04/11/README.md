@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,25 +24,19 @@
 
 *   [thejsguy.com](https://thejsguy.com/)
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Software / Monitoring
-
-*   [ElastiFlow (⭐2.4k)](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
-
-## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
-
-### Services
+### Services / Misc
 
 *   [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 
-## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Array
 
 *   [array.chunk (⭐10)](https://github.com/zhiyelee/array.chunk) - Split array/TypedArray to chunks of given size.
 
-## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [5. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### Articles & Tutorials / Single Topics
 
@@ -50,7 +44,7 @@
 *   [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
 *   [Async/Await](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) - Tutorial showing the advantages of consuming Promises via async functions.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### ORM and SQL generation
 
@@ -58,13 +52,13 @@
 *   [Specql (⭐125)](https://github.com/tatut/specql/)
 *   [sqlium (⭐26)](https://github.com/TheLadders/sqlium/)
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Go / Erlang
 
-*   [go-api-boilerplate (⭐678)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
+*   [go-api-boilerplate (⭐705)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Golang
 

@@ -27,7 +27,7 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [RusticSOM (⭐26)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
+*   [RusticSOM (⭐27)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Applications / Games
 
-*   [citybound (⭐7.2k)](https://github.com/citybound/citybound) — The city sim you deserve
+*   [citybound (⭐7.3k)](https://github.com/citybound/citybound) — The city sim you deserve
 
 ### Applications / System tools
 

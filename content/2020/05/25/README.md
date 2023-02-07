@@ -74,7 +74,7 @@
 
 ### Web Frameworks
 
-*   [runcobo (⭐46)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
+*   [runcobo (⭐47)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
 
 ## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

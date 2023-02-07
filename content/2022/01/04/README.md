@@ -42,7 +42,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [CoreUI for React (⭐519)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+*   [CoreUI for React (⭐524)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Helpers
 
-*   [hump (⭐50)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
+*   [hump (⭐51)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
 ## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

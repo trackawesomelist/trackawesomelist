@@ -91,7 +91,7 @@
 
 ### Quantum Computing / NLP
 
-*   [PennyLane (⭐1.6k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐1.7k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

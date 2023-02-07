@@ -33,11 +33,11 @@
 
 ### Reflection
 
-*   [visit\_struct (⭐393)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
+*   [visit\_struct (⭐399)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
 
 ### Miscellaneous
 
-*   [PEGTL (⭐1.6k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
+*   [PEGTL (⭐1.7k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Resources
 
-*   [gist-box (⭐80)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
+*   [gist-box (⭐81)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
 ## [7. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -97,11 +97,11 @@
 
 *   [.NET (⭐16k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐538)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Learn
 
-*   [Roadmaps (⭐2.8k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐2.9k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

@@ -42,7 +42,7 @@
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services
+### Services / Misc
 
 *   [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 
@@ -88,7 +88,7 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐373)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐394)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
 ## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -283,7 +283,7 @@
 
 ### Resources / Examples
 
-*   [ASP.NET Core Vue Starter CLI 3.0 (⭐533)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
+*   [ASP.NET Core Vue Starter CLI 3.0 (⭐534)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
 
 ### Components & Libraries / UI Utilities
 
@@ -517,7 +517,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐22)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐24)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [39. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -542,7 +542,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐381)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐400)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Mods / Maps
 
@@ -560,7 +560,7 @@
 
 ### Mods / Energy
 
-*   [Applied Energistics 2 (⭐1.1k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
+*   [Applied Energistics 2 (⭐1.2k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 *   [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 
 ### Mods / Farming And Food
@@ -569,8 +569,8 @@
 
 ### Server Plugins / Building
 
-*   [AntiCheatReloaded (⭐95)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
-*   [ViaVersion (⭐876)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+*   [AntiCheatReloaded (⭐98)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
+*   [ViaVersion (⭐910)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 *   [AdvancedKitsReloaded (⭐10)](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
 
 ### Web Applications / Building

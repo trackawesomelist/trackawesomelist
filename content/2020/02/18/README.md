@@ -26,7 +26,7 @@
 
 ### Bindings
 
-*   [PasVulkan (⭐165)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
+*   [PasVulkan (⭐166)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -48,7 +48,7 @@
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### UML / Other / unknown licence
+### UML / MIT
 
 *   [ada-ml (⭐8)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 
@@ -100,7 +100,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [phoenix (⭐150)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
+*   [phoenix (⭐149)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
 ## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

@@ -20,7 +20,7 @@
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Design
+### Design / Misc
 
 *   [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 

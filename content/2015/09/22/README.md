@@ -151,7 +151,7 @@
 
 ### Static Site Generators
 
-*   [Pretzel (⭐598)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐599)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -171,7 +171,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐330)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐331)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

@@ -201,7 +201,7 @@ Lite Version (Free) and Full Version ($3)
 ### Integration
 
 *   Server-Sent Events
-    *   [jEaSSE (⭐58)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
+    *   [jEaSSE (⭐59)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
     *   [vertx-sse (⭐38)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
@@ -384,7 +384,7 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### WPF
 
-*   [Data Grid Extensions (⭐607)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+*   [Data Grid Extensions (⭐620)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
 ## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -419,14 +419,14 @@ You'll discover the ins and outs of using the data-oriented R programming langua
 
 ### Development / Devops
 
-*   [SAWS (⭐5k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
-*   [s3cmd (⭐4k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+*   [SAWS (⭐5.1k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
+*   [s3cmd (⭐4.1k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [The Fuck (⭐74k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [tldr (⭐41k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-*   [Wat (⭐464)](https://github.com/dthree/wat) - Instant, central, community-built docs.
+*   [The Fuck (⭐75k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [tldr (⭐43k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+*   [Wat (⭐469)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
 ## [41. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 

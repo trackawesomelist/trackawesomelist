@@ -14,7 +14,7 @@
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Inspirations
+### Inspirations / Misc
 
 *   [Milled](http://milled.com/)
 

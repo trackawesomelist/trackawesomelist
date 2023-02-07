@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐444)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐454)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -46,7 +46,7 @@
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Articles
+### Articles / Misc
 
 *   [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails.
 

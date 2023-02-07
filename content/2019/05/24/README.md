@@ -49,7 +49,7 @@
 
 ### Back-End Development
 
-*   [Kubernetes (⭐13k)](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+*   [Kubernetes (⭐14k)](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
 
 ## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 

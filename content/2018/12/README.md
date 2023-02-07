@@ -355,7 +355,7 @@
 
 ### Media
 
-*   [Xabe.FFmpeg (⭐631)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
+*   [Xabe.FFmpeg (⭐635)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
 
 ### Application Frameworks
 
@@ -553,7 +553,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐107)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
+*   [ptags (⭐108)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
 
 ## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

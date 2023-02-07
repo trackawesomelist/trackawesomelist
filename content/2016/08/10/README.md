@@ -20,7 +20,7 @@ git push --force-with-lease <remote-name> <branch-name>
 
 *   [CUB (⭐65)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.4k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐1.9k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [NCCL (⭐2k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -60,12 +60,12 @@ git push --force-with-lease <remote-name> <branch-name>
 
 ### Project Generators
 
-*   [crystal\_lib (⭐136)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐137)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
 *   [Kilt (⭐144)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐227)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Slang (⭐228)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -209,7 +209,7 @@
 
 ### Contents / Tools
 
-*   [midi2pico (⭐55)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
+*   [midi2pico (⭐57)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -14,11 +14,11 @@
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Octohint (⭐950)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Octohint (⭐953)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 The missing IntelliSense hint for GitHub and GitLab
 
-Installs: 4000 | Stars: 953 | Last update: 4 Feb 2022
+Installs: 4000 | Stars: 952 | Last update: 4 Feb 2022
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -40,11 +40,11 @@ Installs: 4000 | Stars: 953 | Last update: 4 Feb 2022
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [conda (⭐279)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for conda.
+*   [conda (⭐283)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
+*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 
 ## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -70,11 +70,11 @@ Installs: 4000 | Stars: 953 | Last update: 4 Feb 2022
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Build and Package / Other / unknown licence
+### Build and Package / MIT
 
 *   [aura (⭐17)](https://github.com/annexi-strayline/AURA) - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [asap (⭐4)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
 
@@ -134,7 +134,7 @@ Installs: 4000 | Stars: 953 | Last update: 4 Feb 2022
 
 ### Templates / Electron
 
-*   [electron-vue-template (⭐233)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+*   [electron-vue-template (⭐248)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
 ## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

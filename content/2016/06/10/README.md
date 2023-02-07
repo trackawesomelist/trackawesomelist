@@ -37,7 +37,7 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 ### Artificial Intelligence
 
 *   [ANNetGPGPU (⭐93)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [Veles (⭐896)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Scripting
 

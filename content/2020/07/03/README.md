@@ -20,10 +20,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Validation / Playground
 
-*   [zod (⭐16k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [zod (⭐18k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.3k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ow (⭐3.7k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.3k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐6.4k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## [3. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
@@ -74,11 +74,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Back-End Development
 
-*   [FastAPI (⭐5k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+*   [FastAPI (⭐5.1k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 
 ### Security
 
-*   [DevSecOps (⭐853)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+*   [DevSecOps (⭐874)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -96,7 +96,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐79)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐81)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -129,7 +129,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / Utilities
 
-*   [vue-concurrency (⭐270)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
+*   [vue-concurrency (⭐272)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 
 ## [11. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -147,8 +147,8 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### General
 
-*   [css.gg (⭐8.7k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
-*   [Heroicons (⭐17k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
+*   [css.gg (⭐9k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
+*   [Heroicons (⭐18k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 
 ## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -202,7 +202,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Utilities / General Tools
 
-*   [Ultra TabSaver (⭐229)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
+*   [Ultra TabSaver (⭐228)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### JSON
 
-*   [jute (⭐67)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
+*   [jute (⭐68)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
 *   [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. \[?]
 
 ## [2. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)

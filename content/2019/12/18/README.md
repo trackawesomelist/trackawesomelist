@@ -45,19 +45,19 @@
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [gwindows (⭐15)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
 
-### 3D / Other / unknown licence
+### 3D / MIT
 
 *   [globe-3d (⭐13)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
 
-### Math / Other / unknown licence
+### Math / MIT
 
 *   [mathpaqs (⭐9)](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
 
-### Format Readers and Writers / Other / unknown licence
+### Format Readers and Writers / MIT
 
 *   [ini-files (⭐5)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 *   [excel-writer (⭐5)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
@@ -65,17 +65,17 @@
 *   [ada-pdf-writer (⭐14)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 *   [ada-bar-codes (⭐11)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
-### Office / Other / unknown licence
+### Office / MIT
 
 *   [azip (⭐6)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
 *   [texcad (⭐4)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
 *   [cbsg (⭐5)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [wasabee (⭐7)](https://github.com/zertovitch/wasabee) - A Web browser with safety focus.
 
-### Generators and Translators / Other / unknown licence
+### Generators and Translators / MIT
 
 *   [pascal-to-ada (⭐11)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
 

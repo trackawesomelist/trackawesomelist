@@ -20,7 +20,7 @@
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐142)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐143)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -222,14 +222,14 @@
 ### Samples
 
 *   [LunarG's Samples (⭐1.3k)](https://github.com/LunarG/VulkanSamples)
-*   [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
+*   [Vulkan Basic Graphics Samples (⭐22)](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 
 ### Khronos
 
 *   Quick Reference Sheets
     *   [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *   [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
-*   [Conformance Tests (CTS) (⭐429)](https://github.com/KhronosGroup/Vulkan-CTS)
+*   [Conformance Tests (CTS) (⭐431)](https://github.com/KhronosGroup/Vulkan-CTS)
 *   Conferences and Presentations
     *   [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *   [2016 UK Chapter: Moving to Vulkan](https://www.khronos.org/developers/library/2016-uk-chapter-moving-to-vulkan)

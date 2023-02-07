@@ -1,25 +1,18 @@
 # Awesome List Updates on Jun 18, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rest](/content/marmelab/awesome-rest/README.md)
-
-### Design
-
-*   [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
-*   [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
-
-## [2. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [1. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [convox/rack :fire::fire::fire::fire: (⭐1.9k)](https://github.com/convox/rack) - Open-source PaaS on AWS.
 
-## [3. Tips](/content/git-tips/tips/README.md)
+## [2. Tips](/content/git-tips/tips/README.md)
 
 ## Search Commit log across all branches for given text
 
@@ -27,12 +20,12 @@
 git log --all --grep='<given-text>'
 ```
 
-## [4. Colorful](/content/Siddharth11/Colorful/README.md)
+## [3. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Libraries
 
 *   [Color Thief (⭐11k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐811)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐813)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐622)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
@@ -44,7 +37,7 @@ git log --all --grep='<given-text>'
 *   [Designing in color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
 *   [Color Realism and Color Science](http://web.mit.edu/abyrne/www/ColorRealism.html)
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Automation
 
@@ -54,7 +47,7 @@ git log --all --grep='<given-text>'
 
 *   [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
 
-## [6. Bots](/content/hackerkid/bots/README.md)
+## [5. Bots](/content/hackerkid/bots/README.md)
 
 ### General
 

@@ -30,7 +30,7 @@
 
 ### Integrated Development Environment
 
-*   [color\_coded (⭐862)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
+*   [color\_coded (⭐865)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
 ## [4. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 

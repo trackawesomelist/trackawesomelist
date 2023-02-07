@@ -16,21 +16,21 @@
 
 ### Resources / Examples
 
-*   [Maxim Web Chat (⭐10)](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天 App 示例.
+*   [Maxim Web Chat (⭐11)](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天 App 示例.
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐4.9k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
-*   [vue-birthday-reminder (⭐1)](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
+*   [Bagisto (⭐5k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [vue-birthday-reminder (⭐2)](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
 
 ### Components & Libraries / UI Components
 
-*   [vue-material-design-icons (⭐126)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+*   [vue-material-design-icons (⭐127)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 
 ### Components & Libraries / Frameworks
 
 *   [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
-*   [Ionic (⭐48k)](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
+*   [Ionic (⭐49k)](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -48,7 +48,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [transit\_service\_analyst (⭐1)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
+*   [transit\_service\_analyst (⭐3)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 
 ## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -182,7 +182,7 @@
 
 *   [RSSUnify](https://feederss.com/index.html) <sup>[1189](https://t.me/s/aboutrss/1189)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Retrive old items from a RSS feed / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [rerss](https://rerss.xyz/) <sup>[1160](https://t.me/s/aboutrss/1160)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 

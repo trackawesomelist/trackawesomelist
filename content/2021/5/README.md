@@ -37,8 +37,8 @@
 ### Programming Language Design Patterns
 
 *   C#
-    *   [design-patterns (⭐1.9k)](https://github.com/abishekaditya/DesignPatterns)
-    *   [design-patterns-for-human (⭐1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐2k)](https://github.com/abishekaditya/DesignPatterns)
+    *   [design-patterns-for-human (⭐1.1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [Design Patterns Library (⭐1.6k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
 
 ## [4. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
@@ -331,12 +331,12 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Destructible Objects (⭐320)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
-*   [CRT Shader (⭐250)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
+*   [2D Destructible Objects (⭐328)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [CRT Shader (⭐251)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Kehom's Godot Addon Pack (⭐131)](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
+*   [Kehom's Godot Addon Pack (⭐136)](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
 
 ### Other / Godot version unknown
 
@@ -352,7 +352,7 @@
 
 ### Utilities
 
-*   [Contextual logging (⭐17)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
+*   [Contextual logging (⭐20)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
 
 ## [38. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
@@ -364,12 +364,12 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐2.9k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐2.9k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
+*   [Send (⭐3k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
 
 ### Software / Photo and Video Galleries
 
-*   [ImageStore (⭐653)](https://github.com/gregordr/ImageStore) - Self-hosted Google Photos alternative, with a very similar UI. ([Demo](https://gregordr.github.io/ImageStore/)) `Apache-2.0` `Nodejs/Docker`
-*   [LibrePhotos (⭐5k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
+*   [ImageStore (⭐658)](https://github.com/gregordr/ImageStore) - Self-hosted Google Photos alternative, with a very similar UI. ([Demo](https://gregordr.github.io/ImageStore/)) `Apache-2.0` `Nodejs/Docker`
+*   [LibrePhotos (⭐5.1k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
 ## [40. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -1012,16 +1012,16 @@ Language: English \ <br>
 
 ### Libraries / Task scheduling
 
-*   [delay-timer (⭐256)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
+*   [delay-timer (⭐258)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
     [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
 ## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvim-lua/lsp-status.nvim (⭐544)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
-*   [RishabhRD/nvim-lsputils (⭐391)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
-*   [kosayoda/nvim-lightbulb (⭐549)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
+*   [nvim-lua/lsp-status.nvim (⭐548)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
+*   [RishabhRD/nvim-lsputils (⭐392)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
+*   [kosayoda/nvim-lightbulb (⭐557)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### (requires Neovim 0.5) / LSP Installer
 
@@ -1030,7 +1030,7 @@ Language: English \ <br>
 
 ### Fuzzy Finder / Diagnostics
 
-*   [vijaymarupudi/nvim-fzf (⭐284)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
+*   [vijaymarupudi/nvim-fzf (⭐286)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 
 ### Git / Diagnostics
 
@@ -1039,13 +1039,13 @@ Language: English \ <br>
 ### Editing Support / Diagnostics
 
 *   [windwp/nvim-autopairs (⭐1.7k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
-*   [monaqa/dial.nvim (⭐414)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
+*   [monaqa/dial.nvim (⭐448)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
 ## [47. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Shopping
 
-*   [Yumniastic Food Shop App (⭐19)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
+*   [Yumniastic Food Shop App (⭐23)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
 ## [48. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -1060,7 +1060,7 @@ Language: English \ <br>
 
 ### Configuration & Discovery / Scala
 
-*   [Nacos (⭐24k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
+*   [Nacos (⭐25k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
 
 ### Serialization / Scala
 
@@ -1070,7 +1070,7 @@ Language: English \ <br>
 
 ### Documentation / Symfony2
 
-*   [Optic (⭐1k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+*   [Optic (⭐1.1k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
 ## [50. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -1092,7 +1092,7 @@ Language: English \ <br>
 
 ### 3D
 
-*   [g3d (⭐363)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
+*   [g3d (⭐371)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 
 ### Input
 
@@ -1112,11 +1112,11 @@ Language: English \ <br>
 
 ### Miscellaneous
 
-*   [react-headings (⭐50)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
+*   [react-headings (⭐51)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
 
 ### Boilerplate / Mouse Events
 
-*   [rockpack (⭐491)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
+*   [rockpack (⭐490)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 
 ### Server-Side Rendering / Lazy Load
 
@@ -1154,7 +1154,7 @@ Language: English \ <br>
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐121)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐123)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 *   🧬 [Pseudo selectors (⭐35)](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
 
 ### Tools
@@ -1248,11 +1248,11 @@ Language: English \ <br>
 
 ### Projects Using Vue.js / A11y
 
-*   [eslint-plugin-vuejs-accessibility (⭐161)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
+*   [eslint-plugin-vuejs-accessibility (⭐164)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐302)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐311)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [68. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 

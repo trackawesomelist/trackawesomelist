@@ -41,7 +41,7 @@
 
 ## [4. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
-### Platforms
+### Platforms / Localization and translation platforms
 
 *   [Lokalise](https://lokalise.com/) - Translation platform for developers.
 
@@ -59,13 +59,13 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Nest (⭐53k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
-    *   :octocat: [nestia (⭐457)](https://github.com/samchon/nestia) - 15,000x faster validation decorators than `class-validator` and Swagger/SDK generators.
+*   :octocat: [Nest (⭐54k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
+    *   :octocat: [nestia (⭐488)](https://github.com/samchon/nestia) - 15,000x faster validation decorators than `class-validator` and Swagger/SDK generators.
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [TypeORM (⭐30k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-    *   :octocat: [Safe-TypeORM (⭐182)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
+    *   :octocat: [Safe-TypeORM (⭐186)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -95,11 +95,11 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [activate-py-environment (⭐6)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
+*   [activate-py-environment (⭐7)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
 *   [skim (casonadams) (⭐1)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐3.8k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
 *   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐3.8k)](https://github.com/lotabout/skim)
 *   [zbrowse (⭐7)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
-*   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐2.9k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
+*   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐3k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
 *   [zinit-annex-submods (⭐6)](https://github.com/z-shell/z-a-submods) - [zinit (⭐1.6k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
 *   [zlong\_alert (⭐36)](https://github.com/kevinywlui/zlong_alert.zsh) - Uses `notify-send` and rings a bell to alert you when a command that has taken a long time (default: 15 seconds) has completed.
 
@@ -108,7 +108,7 @@
 *   [absolute (⭐34)](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with decorators for `git` status, `node` version and the exit code from the last command.
 *   [adamdodev (⭐1)](https://github.com/adamdodev/adamdodev-zsh-theme) - Includes decorators for `git` status, the name of your AWS profile, the name of your Azure Service Principal, kubernetes context, terraform workspace, last command exit status and current working directory.
 *   [agnoster (fcamblor) (⭐245)](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor) - Solarized [Agnoster](https://gist.github.com/agnoster/3712874) variant with `git` status information. Requires a unicode font and works best with a [solarized (⭐15k)](https://github.com/altercation/solarized) terminal.
-*   [agnoster (fseguin) (⭐3)](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [agnoster](https://gist.github.com/agnoster/3712874) variant with a right prompt.
+*   [agnoster (fseguin) (⭐4)](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [agnoster](https://gist.github.com/agnoster/3712874) variant with a right prompt.
 *   [agnoster-j (⭐18)](https://github.com/apjanke/agnosterj-zsh-theme) - Optimized for [solarized](https://ethanschoonover.com/solarized/) color scheme, `git` or other VCS tools, and unicode-compatible fonts. Includes decorators for status of last command run, user\@hostname, `git` status, working directory, whether running as root, whether background jobs are running, and other information.
 *   [arity (⭐0)](https://github.com/hybras/Arity-Zsh-Theme) - A simple theme designed for readability and to give an overview at a glance. Includes path and `git` decorations.
 *   [black-Void (⭐314)](https://github.com/black7375/BlaCk-Void-Zsh) - Includes account info, root user, using ssh, directory lotation, write permission, and vcs info decorations.
@@ -121,9 +121,9 @@
 *   [cute (⭐28)](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - A macOS oh-my-zsh shell theme with cute emoji based on the Powerline Vim plugin.
 *   [dissonance (⭐4)](https://github.com/RyanScottLewis/theme-dissonance-zsh) - Comes with custom `LSCOLORS` and `LS_COLORS` settings files, works with both dark and light terminal themes.
 *   [fish (⭐8)](https://github.com/Raniconduh/zshfish) - ZSH theme reminiscent of the default `fish` shell theme. Includes `git` status decorations.
-*   [gaia (⭐3)](https://github.com/gcaracuel/gaia.zsh-theme) - Originally a fork of [Bureau (⭐27)](https://github.com/isqua/bureau) adds new virtual environments info to the prompt: Kubernetes, virtualenv, rbenv and Java versions. Includes `git` status integration.
+*   [gaia (⭐4)](https://github.com/gcaracuel/gaia.zsh-theme) - Originally a fork of [Bureau (⭐27)](https://github.com/isqua/bureau) adds new virtual environments info to the prompt: Kubernetes, virtualenv, rbenv and Java versions. Includes `git` status integration.
 *   [gentoo (⭐1)](https://github.com/ikelos/gentoo-zsh-theme) - Breaks out the oh-my-zsh `gentoo` theme into a separate repository for non-omz users.
-*   [git-prompt (woefe) (⭐171)](https://github.com/woefe/git-prompt.zsh) - A fast, customizable, pure-shell, asynchronous `git`-aware prompt for ZSH heavily inspired by Olivier Verdier's [zsh-git-prompt (⭐1.6k)](https://github.com/olivierverdier/zsh-git-prompt) and very similar to the "Informative VCS" prompt of fish shell.
+*   [git-prompt (woefe) (⭐176)](https://github.com/woefe/git-prompt.zsh) - A fast, customizable, pure-shell, asynchronous `git`-aware prompt for ZSH heavily inspired by Olivier Verdier's [zsh-git-prompt (⭐1.6k)](https://github.com/olivierverdier/zsh-git-prompt) and very similar to the "Informative VCS" prompt of fish shell.
 *   [glimmer (⭐1)](https://github.com/martnu/glimmer) - Includes `git` branch, time and user\@host decorators.
 *   [gocilla (⭐0)](https://github.com/goranvasic/gocilla-iterm-zsh) - Theme for iTerm 2 and ZSH. Uncludes `git` status, user\@host, path and date decorators.
 *   [grs (⭐0)](https://github.com/gersontpc/zsh-theme-grs) - Includes `git` status, user id and working directory decorators.
@@ -132,40 +132,36 @@
 *   [iay (⭐4)](https://github.com/aaqaishtyaq/iay) - A `{ba,z}sh` prompt written in Rust. Includes decorations for the current directory and `git` status.
 *   [igorsilva (⭐10)](https://github.com/igor9silva/zsh-theme) - Shows current directory, customizable delimiter, current branch, and `git` status decorators.
 *   [jcl (⭐2)](https://github.com/jasonlewis/jcl-zsh-theme) - Loosely based on the `ys` theme.
-*   [jovial (⭐291)](https://github.com/zthxxx/jovial) - Shows decorators for host, user, path, development environment, `git` branch, and which `python` venv is active.
-*   [lambda (cdimascio) (⭐57)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
+*   [jovial (⭐299)](https://github.com/zthxxx/jovial) - Shows decorators for host, user, path, development environment, `git` branch, and which `python` venv is active.
+*   [lambda (cdimascio) (⭐57)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
 *   [lambda-pure (⭐110)](https://github.com/marszall87/lambda-pure) - A minimal ZSH theme, based on [pure (⭐12k)](https://github.com/sindresorhus/pure), with added NodeJS version decorator.
 *   [minimal (glsorre) (⭐0)](https://github.com/glsorre/minimal/) - A minimal asynchronous ZSH theme optimized for use with the [Fira Code (⭐68k)](https://github.com/tonsky/FiraCode) font and the [Solarized Light](https://ethanschoonover.com/solarized) terminal theme.
-*   [ortiz (guezwhoz) (⭐32)](https://github.com/guesswhozzz/guezwhoz-zsh-theme) - Simplified fork of [eriner (⭐13)](https://github.com/zimfw/eriner) with `git` status, `kubectl` context and elapsed time decorations.
+*   [ortiz (guezwhoz) (⭐33)](https://github.com/guesswhozzz/guezwhoz-zsh-theme) - Simplified fork of [eriner (⭐13)](https://github.com/zimfw/eriner) with `git` status, `kubectl` context and elapsed time decorations.
 *   [phantomk (⭐2)](https://github.com/phantomk/phantomk.zsh-theme) - Colorful theme, includes `golang` version, `node` version and `git` status.
 *   [powerline-pills (⭐17)](https://github.com/lucasqueiroz/powerline-pills-zsh) - Written in Ruby, uses powerline characters to simulate pills with useful information.
 *   [pure-agnoster (⭐4)](https://github.com/yourfin/pure-agnoster) - Mashup of [pure (⭐12k)](https://github.com/sindresorhus/pure) and [agnoster](https://gist.github.com/3712874). Has `git` decorations and works well with both dark and light terminal backgrounds.
-*   [purity (⭐14)](https://github.com/petermbenjamin/purity) - Inspired by the [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme and the [pure (⭐12k)](https://github.com/sindresorhus/pure) prompt.
+*   [purity (⭐14)](https://github.com/petermbenjamin/purity) - Inspired by the [robbyrussell (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme and the [pure (⭐12k)](https://github.com/sindresorhus/pure) prompt.
 *   [quewui (⭐1)](https://github.com/kauefontes/oh-my-quewui) - Simple and clean theme optimized for dark terminal themes. Includes decorations for the current time, user, directory and `git` status.
-*   [remolueoend (⭐0)](https://github.com/remolueoend/remolueoend.zsh-theme) - Based on [Agnoster (⭐3.6k)](https://github.com/agnoster/agnoster-zsh-theme), using emojis for tracking `git` context. Only works with [Prezto (⭐13k)](https://github.com/sorin-ionescu/prezto).
+*   [remolueoend (⭐0)](https://github.com/remolueoend/remolueoend.zsh-theme) - Based on [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme), using emojis for tracking `git` context. Only works with [Prezto (⭐13k)](https://github.com/sorin-ionescu/prezto).
 *   [rzh (⭐2)](https://github.com/patwhatev/rzh) - Theme with `git` states indicated by emojis.
 *   [samshell (⭐1)](https://github.com/samuelb/samshell) - A minimalist ZSH theme with `git`, kubernetes and python virtualenv decorations.
 *   [schminitz-v2 (⭐0)](https://github.com/mashdots/schminitz-v2) - Shows decorators for `git` status, `user@host` information, the exit status of last command, and whether running as root.
 *   [senpai (⭐11)](https://github.com/hiroru/senpai-zsh) - Clean prompt theme for Devops. Includes decorators for `git` status, the kubernetes context, AWS profile, GCP project and Azure active cloud.
 *   [seti\_UX (⭐2)](https://github.com/ginfuru/iTerm-Seti_UX) - A simple oh-my-zsh-compatible theme with a corresponding iTerm 2 color scheme.
-*   [shellder (⭐267)](https://github.com/simnalamburt/shellder) - Minimal theme with a `git` branch decorator. Requires a Powerline-compatible font.
+*   [shellder (⭐268)](https://github.com/simnalamburt/shellder) - Minimal theme with a `git` branch decorator. Requires a Powerline-compatible font.
 *   [shuttle (⭐1)](https://github.com/Pandademic/Shuttle/) - Written in `golang`. Has decorators for OS, user, current directory, and the exit code of the last command run.
 *   [simple (rkitover) (⭐1)](https://github.com/rkitover/sh-prompt-simple) - A simple, lightweight, and nice looking prompt that runs quickly even in very slow shells like MSYS2, Cygwin and WSL. It shows decorations for the short name of the current environment (distribution, OS, etc.) the `git` branch when in a `git` checkout, as well as the last command exit status (green checkmark for success and red X mark for non-zero exit).
 *   [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt) - Theme with `git`, `nvm`, rvm/rbenv/chruby, python, `ssh` and other useful status decorators.
 *   [steef (danihodovic) (⭐4)](https://github.com/danihodovic/steeef) - Oh-my-zsh steeef theme as a standalone repository. The purpose behind this repo is avoid having a dependency on oh-my-zsh when using the steeef theme. ZSH plugin managers such as Antibody can use the theme without having to use oh-my-zsh.
 *   [tsotra (⭐1)](https://github.com/nylo-andry/zsh-themes) - Minimalist theme, includes decorators for `git` status, k8s context, and `rvm` status.
 *   [ultimate (⭐12)](https://github.com/b4b4r07/ultimate) - Minimalist theme with decorators for `git` status, vim mode indicator and shortened path.
-*   [vinhnx (⭐7)](https://github.com/vinhnx/vinhnx.zsh-theme) - Modified from [mgutz (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/mgutz.zsh-theme). Looks great when using with a [Solarized (⭐15k)](https://github.com/altercation/solarized) color scheme.
+*   [vinhnx (⭐7)](https://github.com/vinhnx/vinhnx.zsh-theme) - Modified from [mgutz (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/mgutz.zsh-theme). Looks great when using with a [Solarized (⭐15k)](https://github.com/altercation/solarized) color scheme.
 *   [xxf](https://gist.github.com/xfanwu/18fd7c24360c68bab884) - Shows the current `git` commit's shortened hash and message.
-*   [ys-cluster (⭐1)](https://github.com/AndiH/oh-my-zsh-ys-cluster-theme) - [ys (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme) variant with support for working with batch submission systems for large clusters. Supports Slurm, LSF / IBM Spectrum LSF, and PBS.
-*   [ysr (⭐0)](https://github.com/raykle/ysr-zsh-theme) - Based on [ys (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme). Includes `git` status decorations.
-*   [zeta (⭐212)](https://github.com/skylerlee/zeta-zsh-theme) - Shows decorations for username, `git` status information, machine name, the current working directory and success/fail status of last command.
+*   [ys-cluster (⭐1)](https://github.com/AndiH/oh-my-zsh-ys-cluster-theme) - [ys (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme) variant with support for working with batch submission systems for large clusters. Supports Slurm, LSF / IBM Spectrum LSF, and PBS.
+*   [ysr (⭐0)](https://github.com/raykle/ysr-zsh-theme) - Based on [ys (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme). Includes `git` status decorations.
+*   [zeta (⭐211)](https://github.com/skylerlee/zeta-zsh-theme) - Shows decorations for username, `git` status information, machine name, the current working directory and success/fail status of last command.
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / E-commerce
-
-*   [OXID eShop](https://oxidforge.org) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐210)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
 
 ### Software / File Transfer & Synchronization
 
@@ -178,20 +174,20 @@
 
 ### Software / Personal Dashboards
 
-*   [dashdot (⭐1k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐1.1k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
 
 ### Software / Polls and Events
 
-*   [Bitpoll (⭐168)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Python`
+*   [Bitpoll (⭐171)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Python`
 
 ### Software / Search Engines
 
-*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐6.3k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java`
+*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐6.4k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java`
 *   [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code (⭐2.9k)](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`
 
 ### Software / Software Development - Project Management
 
-*   [GitPrep (⭐879)](https://github.com/yuki-kimoto/gitprep) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `Artistic-2.0` `Perl`
+*   [GitPrep (⭐880)](https://github.com/yuki-kimoto/gitprep) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `Artistic-2.0` `Perl`
 
 ## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -275,27 +271,27 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Akula (⭐789)](https://github.com/akula-bft/akula) - Rust Ethereum Execution Layer (EL) Client (WIP)
-*   [ethabi (⭐376)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
+*   [Akula (⭐794)](https://github.com/akula-bft/akula) - Rust Ethereum Execution Layer (EL) Client (WIP)
+*   [ethabi (⭐386)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
 *   [ethers-rs (⭐1.5k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
-*   [etk (⭐248)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
-*   [Foundry (⭐5.1k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
-*   [Lighthouse (⭐2.1k)](https://github.com/sigp/lighthouse) — Rust Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
-*   [mev-inspect-rs (⭐434)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
-*   [opensea-rs (⭐226)](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.
-*   [revm (⭐520)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust.
-*   [svm-rs (⭐115)](https://github.com/roynalnaruto/svm-rs) - Solidity-Compiler Version Manager.
+*   [etk (⭐257)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
+*   [Foundry (⭐5.3k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
+*   [Lighthouse (⭐2.2k)](https://github.com/sigp/lighthouse) — Rust Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
+*   [mev-inspect-rs (⭐436)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
+*   [opensea-rs (⭐227)](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.
+*   [revm (⭐544)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust.
+*   [svm-rs (⭐117)](https://github.com/roynalnaruto/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Libraries / Command-line
 
 *   Prompt
     *   [hashmismatch/terminal\_cli.rs (⭐47)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)]  — build an interactive command prompt [![build badge](https://api.travis-ci.org/hashmismatch/terminal_cli.rs.svg?branch=master)](https://travis-ci.org/hashmismatch/terminal_cli.rs)
     *   [starship/starship](https://starship.rs/) \[[starship](https://crates.io/crates/starship)]  — A minimal, blazing fast, and extremely customizable prompt for any shell [![Build status](https://github.com/starship/starship/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/starship/starship/actions)
-    *   [ynqa/promkit (⭐71)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![Build status](https://github.com/ynqa/promkit/workflows/promkit/badge.svg?branch=master)](https://github.com/ynqa/promkit/actions)
+    *   [ynqa/promkit (⭐73)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![Build status](https://github.com/ynqa/promkit/workflows/promkit/badge.svg?branch=master)](https://github.com/ynqa/promkit/actions)
 
 ### Libraries / Cryptography
 
-*   [gakonst/ark-circom (⭐143)](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
+*   [gakonst/ark-circom (⭐146)](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
 
 ## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -307,7 +303,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dirty\_cat (⭐637)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
+*   [dirty\_cat (⭐650)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 
 ## [19. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -327,7 +323,7 @@
 
 ## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Articles
+### Articles / Misc
 
 *   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails.
 
@@ -420,8 +416,8 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vexip UI (⭐484)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
-*   [argon-dashboard-vue3 (⭐127)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
+*   [Vexip UI (⭐498)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
+*   [argon-dashboard-vue3 (⭐131)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 
 ## [33. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -453,21 +449,21 @@
 
 ### Entertainment / Games
 
-*   [pokete (⭐2.5k)](https://github.com/lxgr-linux/pokete) - Pokemon-like.
+*   [pokete (⭐2.6k)](https://github.com/lxgr-linux/pokete) - Pokemon-like.
 
 ### Utilities / Network Utilities
 
-*   [neoss (⭐49)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+*   [neoss (⭐58)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Version Control / Git
 
-*   [czg (⭐337)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+*   [czg (⭐415)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
 ## [37. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
-*   [ODMantic (⭐730)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
+*   [ODMantic (⭐751)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
 ## [38. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -503,11 +499,11 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-template-starter (⭐2)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
+*   [vite-vue2-ts-template-starter (⭐3)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
 
 ### Templates / Electron
 
-*   [vite-plugin-electron-renderer (⭐24)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
+*   [vite-plugin-electron-renderer (⭐26)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 
 ### Templates / Elm
 
@@ -515,7 +511,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-mock-extended (⭐37)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+*   [vitest-mock-extended (⭐40)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 ### OctoberCMS / Community
 
@@ -523,17 +519,17 @@
 
 ### Apps/Websites / Community
 
-*   [react-keyboard-navigator (⭐15)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐16)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 
 ## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Syntax / Diagnostics
 
-*   [kylechui/nvim-surround (⭐1.2k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
+*   [kylechui/nvim-surround (⭐1.3k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
 
 ### Color / Diagnostics
 
-*   [ziontee113/color-picker.nvim (⭐167)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+*   [ziontee113/color-picker.nvim (⭐174)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -541,11 +537,11 @@
 
 ### Utility / Diagnostics
 
-*   [kevinhwang91/nvim-ufo (⭐885)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
+*   [kevinhwang91/nvim-ufo (⭐928)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
 
 ### Formatting / Diagnostics
 
-*   [mcauley-penney/tidy.nvim (⭐75)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
+*   [mcauley-penney/tidy.nvim (⭐79)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
 ## [44. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -603,11 +599,6 @@
   Description: **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 
 
-- Website: <https://docs.gitlab.com/ee/user/project/pages>
-
-  Description: **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.
-
-
 - Website: <https://stormkit.io>
 
   Description: **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.
@@ -636,9 +627,6 @@
 
 ### Learning Platforms:
 
-- Website: <https://freecodecamp.org>
-
-
 - Website: <https://www.lambdatest.com/learning-hub/>
 
 
@@ -649,12 +637,6 @@
 
 
 - Website: <https://testautomationu.applitools.com>
-
-
-- Website: <https://coursera.org>
-
-
-- Website: <https://edx.org>
 
 
 - Website: <https://khanacademy.org>
@@ -729,16 +711,7 @@
 
 ### Coding Challenge Platforms:
 
-- Website: <https://frontendmentor.io>
-
-
-- Website: <https://codewars.com>
-
-
 - Website: <https://topcoder.com>
-
-
-- Website: <https://codingame.com>
 
 
 - Website: <https://hackerrank.com>
@@ -753,9 +726,6 @@
 - Website: <https://codechef.com>
 
 
-- Website: <https://exercism.io>
-
-
 - Website: <https://leetcode.com>
 
 
@@ -766,6 +736,9 @@
 
 
 - Website: <https://codesignal.com>
+
+
+- Website: <https://frontendmentor.io>
 
 
 - Website: <https://devchallenges.io>
@@ -807,16 +780,10 @@
 - Website: <https://upwork.com>
 
 
-- Website: <https://freelancer.com>
-
-
 - Website: <https://peopleperhour.com>
 
 
 - Website: <https://simplyhired.com>
-
-
-- Website: <https://envato.com>
 
 
 - Website: <https://guru.com>
@@ -831,17 +798,11 @@
 - Website: <https://6nomads.com>
 
 
-- Website: <https://www.gun.io>
-
-
 - Website: <https://www.refrens.com>
 
 
 
 ### Remote Jobs:
-
-- Website: <https://flexjobs.com>
-
 
 - Website: <https://remote.co/remote-jobs>
 
@@ -900,9 +861,6 @@
 - Website: <https://visualhunt.com>
 
 
-- Website: <https://freephotos.cc>
-
-
 - Website: <https://picjumbo.com>
 
 
@@ -919,9 +877,6 @@
 
 
 - Website: <https://undraw.co/illustrations>
-
-
-- Website: <https://drawkit.io>
 
 
 - Website: <https://icons8.com/ouch>
@@ -960,9 +915,6 @@
 - Website: <https://icons8.com>
 
 
-- Website: <https://iconfinder.com>
-
-
 - Website: <https://material.io/resources/icons>
 
 
@@ -979,9 +931,6 @@
 
 
 - Website: <https://lineicons.com>
-
-
-- Website: <https://icons.modulz.app>
 
 
 - Website: <https://remixicon.com>
@@ -1006,9 +955,6 @@
 
 
 - Website: <https://iconscout.com/unicons>
-
-
-- Website: <https://holasvg.com/icons>
 
 
 - Website: <https://fontello.com>
@@ -1041,13 +987,7 @@
 - Website: <https://fontspace.com>
 
 
-- Website: <https://1001fonts.com>
-
-
 - Website: <https://ffonts.net>
-
-
-- Website: <https://fontfabric.com>
 
 
 - Website: <https://urbanfonts.com>
@@ -1179,9 +1119,6 @@
 - Website: [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
 
 
-- Website: [Modern Web](https://www.thisdot.co/modern-web)
-
-
 - Website: [DevDiscuss](https://dev.to/devdiscuss)
 
 
@@ -1207,9 +1144,6 @@
 
 
 - Website: [Sublime Text](https://www.sublimetext.com/)
-
-
-- Website: [Atom](https://atom.io/)
 
 
 - Website: [Brackets](http://brackets.io/)
@@ -1278,9 +1212,6 @@
 
 ### UI Inspiration:
 
-- Website: <https://uimovement.com>
-
-
 - Website: <https://uigarage.net>
 
 
@@ -1299,14 +1230,8 @@
 - Website: <https://www.behance.net>
 
 
-- Website: <https://tympanus.net>
-
-
 
 ### Docs:
-
-- Website: <https://developer.mozilla.org>
-
 
 - Website: <https://w3schools.com>
 
@@ -1431,22 +1356,13 @@
 
 ### Website Optimization Tools:
 
-- Website: [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
-
 - Website: [GTmetrix](https://gtmetrix.com/)
 
 
 - Website: [WebPageTest](https://www.webpagetest.org)
 
 
-- Website: [Yslow](http://yslow.org/)
-
-
 - Website: [web.dev](https://web.dev/measure/)
-
-
-- Website: [asayer](https://asayer.io/)
 
 
 - Website: [Optimizilla](https://imagecompressor.com/)
@@ -1513,19 +1429,9 @@
   Topics: Accessibility.
 
 
-- Website: [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)
-
-  Topics: Responsive web design.
-
-
 - Website: [JAMstacked](https://jamstack.email/)
 
   Topics: JAMstack ecosystem.
-
-
-- Website: [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)
-
-  Topics: User Interface development.
 
 
 - Website: [Go Make Things](https://gomakethings.com/)
@@ -1614,11 +1520,6 @@
   Description: A simple and powerful JSON formatting tool
 
 
-- Website: [Codepng](https://codepng.app/)
-
-  Description: Convert your source code into awesome shareable images
-
-
 - Website: [yuyu.ai](https://yuyu.ai/)
 
   Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
@@ -1660,11 +1561,6 @@
   Description: Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features.
 
 
-- Website: [Vue Material](https://vuematerial.io/)
-
-  Description: Simple, lightweight and built exactly according to the Google Material Design specs.
-
-
 - Website: [BootstrapVue](https://bootstrap-vue.org/)
 
   Description: BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
@@ -1672,11 +1568,6 @@
 
 
 ### React UI libraries:
-
-- Website: [Material-UI](https://material-ui.com/)
-
-  Description: Simple and customizable component library to build faster, beautiful, and more accessible React applications.
-
 
 - Website: [Ant Design](https://ant.design/)
 
@@ -1770,7 +1661,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [tidytransit (⭐111)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+*   [tidytransit (⭐115)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
 
 ## [49. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
@@ -1833,7 +1724,7 @@
 
 ### Plugins for Minecraft
 
-*   [No-Telemetry (⭐162)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+*   [No-Telemetry (⭐163)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
 ## [53. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 

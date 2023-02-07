@@ -16,7 +16,7 @@
 
 ### Contents / Tools
 
-*   [pico2png (⭐20)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
+*   [pico2png (⭐21)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 *   [Pico8Utils (⭐45)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## [3. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)

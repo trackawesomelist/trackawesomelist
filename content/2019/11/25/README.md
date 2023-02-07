@@ -56,7 +56,7 @@
 
 ### Libraries
 
-*   [Cron Expression Descriptor (⭐789)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+*   [Cron Expression Descriptor (⭐817)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

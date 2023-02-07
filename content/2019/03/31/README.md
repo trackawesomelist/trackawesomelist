@@ -38,7 +38,7 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Build and Package / Other / unknown licence
+### Build and Package / MIT
 
 *   [alire (⭐201)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 

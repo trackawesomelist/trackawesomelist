@@ -68,24 +68,19 @@
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Polyglot
-
-*   [CoAP](http://coap.technology/impls.html) - Constrained application protocol implementations.
-
 ### Go / Erlang
 
 *   [Gizmo (⭐3.7k)](https://github.com/nytimes/gizmo) - Microservices toolkit.
-*   [RPCX (⭐7.3k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+*   [RPCX (⭐7.4k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
-*   [Disruptor (⭐15k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
+*   [Disruptor (⭐16k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 *   [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 
 ### Python / Scala
 
-*   [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
-*   [Web.py (⭐5.7k)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
+*   [Web.py (⭐5.8k)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

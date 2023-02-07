@@ -97,7 +97,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ## [11. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Bulletproof Background Images](http://backgrounds.cm/) - Create rock-solid background images for your HTML email with some help from VML and CSS.
 
@@ -120,7 +120,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Utilities / Menu Bar Tools
 
-*   [Hidden (⭐7.6k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Hidden (⭐7.7k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -174,40 +174,40 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ## [23. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Runtimes / Other / unknown licence
+### Runtimes / MIT
 
 *   [cortex-gnat-rts (⭐52)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [gwindows (⭐15)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
 
-### 3D / Other / unknown licence
+### 3D / MIT
 
 *   [globe-3d (⭐13)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
 
-### Unit Test, Testing / Other / unknown licence
+### Unit Test, Testing / MIT
 
 *   [scripted-testing (⭐0)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
-### Verification / Other / unknown licence
+### Verification / MIT
 
 *   [acats (⭐7)](https://github.com/simonjwright/ACATS) - The Ada Conformity Assessment Test Suite, customised for GCC.
 *   [acats-grading (⭐1)](https://github.com/simonjwright/ACATS-grading) - Tools for grading ACATS results, modified for Unix-like systems.
 
-### UML / Other / unknown licence
+### UML / MIT
 
 *   [coldframe (⭐6)](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 
-### Math / Other / unknown licence
+### Math / MIT
 
 *   [mathpaqs (⭐9)](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
 *   [xia (⭐3)](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Format Readers and Writers / Other / unknown licence
+### Format Readers and Writers / MIT
 
 *   [ini-files (⭐5)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 *   [excel-writer (⭐5)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
@@ -215,31 +215,31 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [ada-pdf-writer (⭐14)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 *   [ada-bar-codes (⭐11)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
-### Drivers / Other / unknown licence
+### Drivers / MIT
 
 *   [multiplexed-io (⭐0)](https://github.com/simonjwright/multiplexed-io) - This contains explorations, for AdaPilot, of implementing drivers for the AdaRacer MCU, using the Ravenscar profile of Ada 2012 from AdaCore and device bindings generated using SVD2Ada.
 
-### Office / Other / unknown licence
+### Office / MIT
 
 *   [azip (⭐6)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
 *   [texcad (⭐4)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
 *   [cbsg (⭐5)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [wasabee (⭐7)](https://github.com/zertovitch/wasabee) - A Web browser with safety focus.
 
-### Generators and Translators / Other / unknown licence
+### Generators and Translators / MIT
 
 *   [pascal-to-ada (⭐11)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
 *   [cappulada (⭐14)](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
 *   [asis2xml (⭐2)](https://github.com/simonjwright/asis2xml) - Converts Ada sources’ ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
 
-### Shells, Interpreters and Emulators / Other / unknown licence
+### Shells, Interpreters and Emulators / MIT
 
 *   [analytical-engine (⭐9)](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage’s Analytical Engine.
 
-### Misc / Other / unknown licence
+### Misc / MIT
 
 *   [dhondt (⭐4)](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
 
@@ -279,7 +279,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Projects
 
-*   [Gaussmeter (⭐9)](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [Gaussmeter (⭐10)](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 *   [TeslaCam (⭐34)](https://github.com/LelandSindt/teslacam) - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 
 ## [28. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
@@ -360,7 +360,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 ### Templates
 
 *   [yew-wasm-pack-template (⭐118)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
-*   [yew-wasm-pack-minimal (⭐110)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
+*   [yew-wasm-pack-minimal (⭐108)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 *   [yew-parcel-template (⭐115)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 
 ### Articles / Frameworks
@@ -430,7 +430,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Big Data
 
-*   [Splunk (⭐89)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+*   [Splunk (⭐92)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
 ### Development Environment
 

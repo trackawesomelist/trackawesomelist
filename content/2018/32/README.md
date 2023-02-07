@@ -163,9 +163,9 @@ Free
 
 ### Processes / Other
 
-*   [ch.vorburger.exec (⭐25)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
-*   [zt-exec (⭐808)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
-*   [zt-process-killer (⭐113)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
+*   [ch.vorburger.exec (⭐26)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
+*   [zt-exec (⭐819)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
+*   [zt-process-killer (⭐115)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
 
 ## [15. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -194,7 +194,7 @@ Free
 
 ### Extensions
 
-*   [Nextein (⭐898)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
+*   [Nextein (⭐897)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 
 ## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -446,7 +446,7 @@ Free
 
 ### Contents / Tools
 
-*   [midi2pico (⭐55)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
+*   [midi2pico (⭐57)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
 
 ## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -692,7 +692,7 @@ Free
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
-*   [Orion (⭐123)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
+*   [Orion (⭐124)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
 ## [49. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 

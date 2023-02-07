@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 02, 2023
 
-22 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -98,7 +98,84 @@
 
 *   [ryanbekhen/feserve (⭐7)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Content Generation & Seo
+
+- Name: [Wizishop](http://wizishop.com)
+
+  Title: Grow Your Business With Seo-Powered Ecommerce.
+
+  Description: WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Organization & Automation
+
+- Name: [KUBIYA](http://kubiya.ai/)
+
+  Title: Devops Virtual Assistant.
+
+  Description: Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Social Networks & Dating
+
+- Name: [Elektrif](http://www.elektrif.ai)
+
+  Title: Your 🤖 Powered Dating Assistant.
+
+  Description: The first suite of AI-powered tools to supercharge your dating life ⚡️.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [ReContent.AI](http://recontent.ai/)
+
+  Title: Transform Your Newsletter, Blog Post, Into Twitter Content With Recontent.Ai.
+
+  Description: .
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [TweePT3](http://tweept3.com)
+
+  Title: Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Tweetspear](http://www.tweetspear.com)
+
+  Title: Tweetspear - Boost Your Twitter Engagement.
+
+  Description: Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies .
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Writing Assistant
+
+- Name: [AI Lyrics Generator](http://theselyricsdonotexist.com)
+
+  Title: Artificial Intelligence Songwriter – These Lyrics Do Not Exist.
+
+  Description: Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood.
+
+  Offer Free Version: :grey\_question:
+
+
+
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
@@ -108,31 +185,34 @@
 
 *   [ardaku/whoami (⭐77)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — Rust crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
 
-## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Tutorials / SRAM
 
 *   [MicroPython Tutorials for ESP32 boards](https://www.upesy.com/blogs/tutorials/tutorials-for-esp32-with-micropython-code) - Tutorials with code examples to learn the basic of MicroPython with ESP32 boards.
 *   [Learn MicroPython with a Pi Pico board](https://www.upesy.com/blogs/tutorials/tutorials-for-rpi-pi-pico-with-micropython-code) - Tutorials on MicroPython with the Raspberry Pi Pico / RP240 boards.
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Projects
 
 *   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
 
-## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Infrastructure
 
 *   [harpoon](https://www.harpoon.io/) - Deploy software with No Code Kubernetes.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
-*   [There's An AI For That](https://theresanaiforthat.com/): AI database
 *   [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
+
+### Generative AI Tools Directories
+
+*   [There's An AI For That](https://theresanaiforthat.com/): AI database
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -162,13 +242,13 @@
 
 *   [chaiNNer-org/chaiNNer (⭐1.7k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 
-## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [14. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [GTFS Display (⭐0)](https://github.com/Software-Ingenieur-Begerad/gtfs-display) - View the content of a GTFS feed
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -178,7 +258,7 @@
 
 *   [Phorge](https://we.phorge.it/) - Phorge is an open source, community driven platform for collaborating, managing, organizing and reviewing software development projects. ([Source Code](https://we.phorge.it/source/phorge/)) `Apache-2.0` `PHP`
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
@@ -190,20 +270,13 @@
 
 *   [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
 
-## [16. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
-
-### Libraries / JavaScript
-
-*   JavaScript: Materials
-    *   🎉 [three-projected-material (⭐470)](https://github.com/marcofugaro/three-projected-material) - Texture projection in Three.js.
-    *   🎉 [Troika JS - Derived Material](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/) [:octocat: (⭐1.1k)](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) - Extend existing Three.js materials.
+## [17. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Libraries / Kotlin
 
-*   Kotlin: - Awesome Collections -
-    *   📚 [Awesome Kotlin (⭐10k)](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
+*   📚 [Awesome Kotlin (⭐10k)](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
 
-## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [18. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Monitoring
 
@@ -212,19 +285,19 @@
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
 *   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐845)](https://github.com/sensu/sensu-go))
 
-## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [simply-perfect (⭐0)](https://github.com/SetOfAllSets/simply-perfect-zsh-theme/) - Reminiscent of Powerline and Bullettrain. Includes decorators for `git` status, current directory, last command exit status, current time and username.
 
-## [19. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [20. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Community
 
 *   [#bash](https://web.libera.chat/?nick=Guest?#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
 
-## [20. Awesome](/content/craftcms/awesome/README.md)
+## [21. Awesome](/content/craftcms/awesome/README.md)
 
 ### Official Links
 
@@ -245,14 +318,14 @@
 *   [Developer Portal](https://console.craftcms.com/)
 *   [Generator (⭐58)](https://github.com/craftcms/generator/)
 
-## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue is a software company that provides AI-powered code analysis and testing solutions for software development teams.
     Its technology helps developers automate testing, find bugs, and reduce manual labor in their software development processes. The company's main product, Diffblue Cover, uses AI to generate and run unit tests for Java code, helping to catch errors and improve code quality.
 
-## [22. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [23. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Programming
 
@@ -260,4 +333,5 @@
 
 ---
 
+- Prev: [Feb 03, 2023](/content/2023/02/03/README.md)
 - Next: [Feb 01, 2023](/content/2023/02/01/README.md)

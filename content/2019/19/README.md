@@ -131,7 +131,7 @@
 ### Typescript Project Starters
 
 *   [MicroTS](https://www.npmjs.com/package/microts) Microservice code generator with interface-first approach: from OpenAPI (Swagger) REST API specification is generated complete project with TypeScript code, input validator, UI, tests and Docker configuration.
-*   [pankod/next-boilerplate (⭐1.4k)](https://github.com/pankod/next-boilerplate) A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
+*   [pankod/next-boilerplate (⭐1.5k)](https://github.com/pankod/next-boilerplate) A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
@@ -144,7 +144,7 @@
 ### Types / Playground
 
 *   [typesync (⭐1.3k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐9.7k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [type-fest (⭐9.9k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 
@@ -152,7 +152,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [mokia (⭐107)](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
+*   :octocat: [mokia (⭐108)](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
 
 ### Social / Chrome Extensions
 
@@ -180,7 +180,7 @@
 
 ### Physics
 
-*   [Quantum++ (⭐401)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐402)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [23. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Platforms
 
-*   [KDE (⭐260)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐268)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
@@ -221,8 +221,8 @@
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐475)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐507)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Cheminformatics (⭐481)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐506)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 *   [Software Architecture (⭐1.7k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
@@ -396,7 +396,7 @@
 
 ### Entertainment / Music
 
-*   [ncmpcpp (⭐1.6k)](https://github.com/arybczak/ncmpcpp) - mpd client.
+*   [ncmpcpp (⭐1.7k)](https://github.com/arybczak/ncmpcpp) - mpd client.
 *   [beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and tagger.
 
 ### Entertainment / Video
@@ -405,7 +405,7 @@
 
 ### Development / Npm
 
-*   [updates (⭐79)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+*   [updates (⭐82)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
 ### Productivity / Note Taking and Lists
 
@@ -417,16 +417,16 @@
 
 ### Files and Directories / Files
 
-*   [bat (⭐38k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
-*   [webtorrent-cli (⭐860)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+*   [bat (⭐39k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+*   [webtorrent-cli (⭐905)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 
 ### Other Awesome Lists / Emoji
 
-*   [awesome-git-addons (⭐1.6k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
-*   [awesome-shell (⭐25k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+*   [awesome-git-addons (⭐1.7k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+*   [awesome-shell (⭐26k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 *   [awesome-zsh-plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-*   [awesome-nodejs clis (⭐47k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+*   [awesome-nodejs clis (⭐49k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## [36. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -563,7 +563,7 @@
 
 ### Software / Automation
 
-*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐525)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
+*   [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code (⭐529)](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
 
 ### Software / Communication - Email - Webmail Clients
 
@@ -575,7 +575,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐51k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
+*   [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code (⭐52k)](https://github.com/strapi/strapi)) `MIT` `Nodejs`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -583,15 +583,15 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [IFM (⭐282)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
+*   [IFM (⭐283)](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
 
 ### Software / Human Resources Management (HRM)
 
-*   [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code (⭐457)](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
+*   [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php), [Source Code (⭐458)](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
 
 ### Software / Learning and Courses
 
-*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐314)](https://github.com/inducer/relate)) `MIT` `Python`
+*   [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code (⭐316)](https://github.com/inducer/relate)) `MIT` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -611,7 +611,7 @@
 
 ### Software / Wikis
 
-*   [Pepperminty Wiki (⭐138)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
+*   [Pepperminty Wiki (⭐140)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
 ## [48. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 

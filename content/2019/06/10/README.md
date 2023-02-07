@@ -14,7 +14,7 @@
 
 ### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
-*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐71k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
+*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐72k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
 
 ## [2. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐48)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐49)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Security
 
-*   [Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐622)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

@@ -48,11 +48,11 @@
 
 ### Grammar
 
-*   [CCG Lab (⭐22)](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
+*   [CCG Lab (⭐24)](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 
 ### Narrative Generation
 
-*   [Random Story Generator (⭐59)](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
+*   [Random Story Generator (⭐60)](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐6.4k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐6.5k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ## [14. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

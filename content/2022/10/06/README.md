@@ -89,7 +89,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [Shatur/neovim-tasks (⭐27)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
+*   [Shatur/neovim-tasks (⭐29)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

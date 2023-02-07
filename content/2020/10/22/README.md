@@ -31,7 +31,7 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [smart-pointers (⭐1)](https://github.com/alire-project/smart_pointers) - A package providing a reference-counted access type Smart\_Pointer.
 
@@ -206,7 +206,7 @@
 
 ### Miscellaneous
 
-*   [cl-cuda (⭐257)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-cuda (⭐258)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [LispWork's CAPI](http://www.lispworks.com/products/capi.html) - A portable GUI toolkit, with mobile runtime. Proprietary, but comes with a free version.
 
 ### HTML generators and templates / Isomorphic web frameworks
@@ -220,7 +220,7 @@
 
 ### REPLs / Third-party APIs
 
-*   [sbcli (⭐76)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [sbcli (⭐75)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Apps / Third-party APIs
 

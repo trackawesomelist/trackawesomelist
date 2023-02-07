@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CodeceptJS UI (⭐76)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+*   [CodeceptJS UI (⭐78)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
 ## [3. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
@@ -32,7 +32,7 @@
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Alter.email](https://alter.email/) - A free tool to help you inline CSS, remove unused CSS, clean up your text, add extra attributes to tags, add URL tracking parameters, minify, and even prettify HTML email.
 *   [Sensitive Subjects](https://sensitivesubjects.com/) - Never send an embarrassing subject line!
@@ -47,28 +47,22 @@
 
 ### Neural Natural Language Generation
 
-*   [PPLM (⭐969)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
+*   [PPLM (⭐1k)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 
-## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Client management
-
-*   [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
-
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Social Media
 
 *   [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 
-## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐189)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐191)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
-## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Apple TV
 
@@ -98,7 +92,7 @@
 
 *   [Swift Tutorials by Jameson Quave](https://jamesonquave.com/blog/tutorials/)
 
-## [11. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Read
 
@@ -115,7 +109,7 @@
 *   [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) - Software developers with experience working on LN implementations / applications.
 *   [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
@@ -123,15 +117,15 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐128)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐129)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
-## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Create an Outlook Calendar Event using Microsoft Graph (⭐10)](https://github.com/anoopt/ms-graph-create-event)
 
-## [14. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [13. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Blog posts and opinions
 

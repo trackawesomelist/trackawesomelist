@@ -22,14 +22,14 @@
 
 ### Networking
 
-*   [WAFer (⭐693)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
+*   [WAFer (⭐692)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection
 
 *   [Better Enums (⭐1.4k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
-*   [CPFG (⭐208)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
-*   [CPP-Reflection (⭐555)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
-*   [Ponder (⭐575)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [CPFG (⭐210)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
+*   [CPP-Reflection (⭐559)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [Ponder (⭐582)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
 *   [RTTR (⭐2.5k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis

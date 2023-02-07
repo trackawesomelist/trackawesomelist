@@ -10,7 +10,7 @@
 
 ### Learning / More Awesome
 
-*   📚 [Awesome JS Books (⭐54)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐55)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -399,7 +399,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐788)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐790)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -415,11 +415,11 @@
 
 ### MVVM
 
-*   [Gemini (⭐976)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐982)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 
-*   [TopShelf (⭐3.5k)](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
+*   [TopShelf (⭐3.6k)](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
 ## [25. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -564,7 +564,7 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐303)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐305)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -576,11 +576,11 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐640)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐639)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐35)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐36)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 

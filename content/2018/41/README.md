@@ -112,7 +112,7 @@
 
 ### Packages / Security
 
-*   [themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ### Packages / Authorization
 
@@ -901,7 +901,7 @@
 ### Developer Tools / Command Line Tools
 
 *   [bat (⭐39k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [silver searcher (ag) (⭐24k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [silver searcher (ag) (⭐25k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [trash (⭐2.4k)](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ## [42. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
@@ -1053,7 +1053,7 @@
 
 ### Misc
 
-*   [Guard (⭐676)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐682)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [56. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -1092,7 +1092,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐370)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐375)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ### Static Code Analysis
 
@@ -1107,7 +1107,7 @@
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐444)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐447)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [60. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -1141,7 +1141,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐472)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐470)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

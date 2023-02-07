@@ -20,7 +20,7 @@
 
 ### Software / Pastebins
 
-*   [dogbin (⭐345)](https://github.com/dogbin/dogbin) - The sexiest pastebin and URL shortener ever. `MIT` `Kotlin`
+*   [dogbin (⭐352)](https://github.com/dogbin/dogbin) - The sexiest pastebin and URL shortener ever. `MIT` `Kotlin`
 
 ### External Links / Wikis
 
@@ -42,13 +42,13 @@
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Math (⭐6.4k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐6.8k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Computer Science
 
-*   [Theoretical Computer Science (⭐331)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+*   [Theoretical Computer Science (⭐340)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-cesium (⭐921)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
+*   [vue-cesium (⭐924)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
 
 ---
 

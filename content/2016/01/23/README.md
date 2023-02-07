@@ -74,7 +74,7 @@
 
 ### C++
 
-*   [ULib (⭐948)](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
+*   [ULib (⭐950)](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### Go / Erlang
 
@@ -87,7 +87,7 @@
 
 ### Python / Scala
 
-*   [Nameko (⭐4.4k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
+*   [Nameko (⭐4.5k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 *   [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 
 ### REST / Scala

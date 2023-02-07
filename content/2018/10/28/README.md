@@ -126,7 +126,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Data validation / Third-party APIs
 
-*   [clavier (⭐15)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

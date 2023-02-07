@@ -60,7 +60,7 @@
 
 ### Queue
 
-*   [kaffe (⭐137)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐138)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Miscellaneous
 
-*   [Smooks (⭐353)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
+*   [Smooks (⭐356)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
 ## [15. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

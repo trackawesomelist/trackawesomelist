@@ -16,23 +16,23 @@
 
 ### Contents / Frameworks
 
-*   [FHIR Server for Azure (⭐941)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+*   [FHIR Server for Azure (⭐943)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### Programming Language Design Patterns
 
 *   AngularJS
-    *   [design patterns (⭐1.9k)](https://github.com/mgechev/angularjs-in-patterns)
+    *   [design patterns (⭐2k)](https://github.com/mgechev/angularjs-in-patterns)
 *   JavaScript
-    *   [es6 design patterns (⭐254)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-    *   [humans (⭐3.2k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [es6 design patterns (⭐276)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+    *   [humans (⭐3.3k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐1.7k)](https://github.com/nnupoor/js_designpatterns)
     *   [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 *   Scala
-    *   [design-patterns (⭐131)](https://github.com/josephguan/scala-design-patterns)
+    *   [design-patterns (⭐142)](https://github.com/josephguan/scala-design-patterns)
 *   TypeScript
-    *   [design-patterns (⭐4.6k)](https://github.com/torokmark/design_patterns_in_typescript)
+    *   [design-patterns (⭐4.7k)](https://github.com/torokmark/design_patterns_in_typescript)
 *   UML
     *   [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
     *   [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
@@ -43,14 +43,14 @@
 
 ### DevOps & containers
 
-*   [kubernetes patterns (⭐27)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
+*   [kubernetes patterns (⭐28)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 
 ## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Binlog-Replication
 
-*   [Kingbus (⭐853)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-*   [mysql-ripple (⭐364)](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+*   [Kingbus (⭐856)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
+*   [mysql-ripple (⭐367)](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Atom / Third-party APIs
 
-*   [SLIMA (⭐60)](https://github.com/neil-lindquist/slima) allows you to
+*   [SLIMA (⭐61)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 

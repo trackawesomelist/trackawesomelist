@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐545)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐557)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -230,7 +230,7 @@
 
 ### GUI Development
 
-*   [Iu (⭐60)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐176)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
+*   [Iu (⭐61)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐175)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
 
 ### HTTP
 
@@ -280,7 +280,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐367)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐369)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ## [10. Colorful](/content/Siddharth11/Colorful/README.md)
 

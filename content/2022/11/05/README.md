@@ -10,7 +10,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [MrcJkb/haskell-tools.nvim (⭐134)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [MrcJkb/haskell-tools.nvim (⭐158)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

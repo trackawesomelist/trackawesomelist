@@ -49,11 +49,11 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐110)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐109)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ### Software / Pastebins
 
-*   [Pastefy](https://pastefy.ga) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐149)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
+*   [Pastefy](https://pastefy.ga) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐150)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
 
 ### List of Licenses / Wikis
 
@@ -71,8 +71,8 @@
 *   :money\_with\_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 *   :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 *   :free: [Lumberyard](https://aws.amazon.com/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-*   :tada: [nuklear (⭐6.8k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
-*   :tada: [OpenXRay (⭐2.2k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+*   :tada: [nuklear (⭐6.9k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
+*   :tada: [OpenXRay (⭐2.3k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :tada: [Pixel Vision 8 (⭐1.5k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 
 ## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
@@ -91,25 +91,25 @@
 
 ### Official plugins
 
-*   [App (⭐308)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
-*   [Screen Reader (⭐308)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
+*   [App (⭐315)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
+*   [Screen Reader (⭐315)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
 
 ### Community plugins
 
 *   Firebase
-    *   [Analytics (⭐131)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
+    *   [Analytics (⭐134)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
     *   [Crashlytics (⭐64)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
     *   [Fcm (⭐211)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
     *   [Remote config (⭐18)](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
-*   [Photoviewer (⭐35)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
-*   [Privacy screen (⭐40)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
-*   [Screen brightness (⭐10)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
+*   [Photoviewer (⭐37)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
+*   [Privacy screen (⭐41)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
+*   [Screen brightness (⭐11)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 
 ### Other plugins
 
 *   [Intent (⭐6)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
-*   [Oauth2 (⭐169)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
-*   [Video player (⭐69)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
+*   [Oauth2 (⭐170)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+*   [Video player (⭐71)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 
 ## [9. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -122,8 +122,8 @@
 
 ### Competitive Programming / Diagnostics
 
-*   [p00f/cphelper.nvim (⭐75)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
-*   [xeluxee/competitest.nvim (⭐150)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+*   [p00f/cphelper.nvim (⭐77)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
+*   [xeluxee/competitest.nvim (⭐154)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [11. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -141,17 +141,17 @@
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome No Code Low Code (⭐130)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+*   [Awesome No Code Low Code (⭐173)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Esports (⭐32)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+*   [Esports (⭐35)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ### Testing
 
-*   [Gatling (⭐46)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+*   [Gatling (⭐48)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -174,7 +174,7 @@
 ### Packages / Web frameworks
 
 *   [Fastify (⭐26k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Nuxt.js (⭐42k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [Nuxt.js (⭐43k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
 *   [AdonisJs (⭐13k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 *   [Moleculer (⭐5.5k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 

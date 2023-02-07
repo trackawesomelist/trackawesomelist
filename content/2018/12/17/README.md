@@ -93,17 +93,17 @@
 
 ## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
 *   [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 
-### Resources
+### Resources / Misc
 
-*   [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server
+*   [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server.
 
-### Testing
+### Testing / Misc
 
-*   [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
+*   [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -112,10 +112,10 @@
 *   Docker
     *   [emk/rust-musl-builder (⭐1.3k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
     *   [kpcyrd/mini-docker-rust (⭐155)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
-    *   [liuchong/docker-rustup (⭐83)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
-    *   [LukeMathWalker/cargo-chef (⭐875)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [rust-cross/rust-musl-cross (⭐368)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-    *   [rust-lang-nursery/docker-rust (⭐324)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
+    *   [liuchong/docker-rustup (⭐84)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
+    *   [LukeMathWalker/cargo-chef (⭐893)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+    *   [rust-cross/rust-musl-cross (⭐378)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐327)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
 
 ## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -136,7 +136,6 @@
 
 ### Contents / Tools
 
-*   [Sprite Editor](https://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
 *   [Color Palette](https://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 
 ### Contents / Hacks - undocumented PICO-8 features

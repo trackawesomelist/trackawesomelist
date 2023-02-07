@@ -16,7 +16,7 @@
 
 ### Git Tools
 
-*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐558)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
@@ -33,7 +33,7 @@
 ### Misc
 
 *   [CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐7.3k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [Humanizer (⭐7.4k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ### ORM
 
@@ -51,7 +51,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐546)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐549)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

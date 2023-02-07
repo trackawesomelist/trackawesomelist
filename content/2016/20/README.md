@@ -16,7 +16,7 @@
 
 ### Frameworks / Runtimes
 
-*   [Vert.X Toolbox (⭐107)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
+*   [Vert.X Toolbox (⭐109)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
 ### Node.js / Scala
 
@@ -140,7 +140,7 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐634)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
+    *   [llogiq/flame (⭐639)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
     *   [mrhooray/torch (⭐125)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
@@ -308,7 +308,7 @@
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
-*   [nagios-plugin-mongodb (⭐350)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+*   [nagios-plugin-mongodb (⭐349)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

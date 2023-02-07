@@ -26,7 +26,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanbana (⭐47)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
+*   [Kanbana (⭐48)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Runtime / Playground
 
-*   [json-decoder (⭐71)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
+*   [json-decoder (⭐72)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 
 ## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

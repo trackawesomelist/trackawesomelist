@@ -50,7 +50,7 @@
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐5k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐5.4k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [5. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 

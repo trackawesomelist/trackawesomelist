@@ -99,7 +99,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐178)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐180)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Database Tools
 
@@ -121,11 +121,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐149)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐150)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐188)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐189)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -139,7 +139,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐309)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐319)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐414)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐416)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -215,7 +215,7 @@
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐592)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐606)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

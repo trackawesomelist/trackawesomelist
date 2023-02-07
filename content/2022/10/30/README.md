@@ -73,21 +73,21 @@
 
 ### Motion / Diagnostics
 
-*   [woosaaahh/sj.nvim (⭐93)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
+*   [woosaaahh/sj.nvim (⭐94)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [pmwmedia/tinylog (⭐552)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
+*   [pmwmedia/tinylog (⭐560)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 
 ### Android / Libraries
 
-*   [MarcinMoskala/ActivityStarter (⭐429)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/ActivityStarter (⭐430)](https://github.com/MarcinMoskala/ActivityStarter)
 *   [MarcinMoskala/KotlinPreferences (⭐50)](https://github.com/MarcinMoskala/KotlinPreferences)
 *   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder)
-*   [pawegio/KAndroid (⭐890)](https://github.com/pawegio/KAndroid)
-*   [chibatching/Kotpref (⭐685)](https://github.com/chibatching/Kotpref)
+*   [pawegio/KAndroid (⭐891)](https://github.com/pawegio/KAndroid)
+*   [chibatching/Kotpref (⭐689)](https://github.com/chibatching/Kotpref)
 *   [TouK/bubble (⭐99)](https://github.com/TouK/bubble)
 *   [mcxiaoke/kotlin-koi (⭐514)](https://github.com/mcxiaoke/kotlin-koi)
 

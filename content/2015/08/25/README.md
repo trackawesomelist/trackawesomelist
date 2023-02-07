@@ -456,13 +456,13 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ## [12. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
-*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
-### Resources
+### Resources / Misc
 
-*   [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
+*   [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp.
 
 ---
 

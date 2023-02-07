@@ -162,14 +162,14 @@
 
 ## [11. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools
+### Tools / Platform-specific tools
 
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
 *   [SwiftGoogleTranslate (⭐76)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 *   [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 
-### Articles
+### Articles / Platform-specific tools
 
 *   [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: i18n and l10n.
 *   [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing your app.
@@ -178,23 +178,23 @@
 *   [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
 *   [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
 
-### Blogs
+### Blogs / Platform-specific tools
 
 *   [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
 *   [Between Translations](http://foxdocs.biz/BetweenTranslations/) - Run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
 
-### Online Courses
+### Online Courses / Platform-specific tools
 
 *   [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of internationalization and internationalization for digital products provided by the University of Washington.
 *   [Machine Translation](https://www.coursera.org/learn/machinetranslation) - Explains the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
 
-### Books
+### Books / Platform-specific tools
 
 *   [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information) - Establishes background in NLP and statistics, then develops the basics through to current research. By the end readers can build their own translation systems. The author is [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
 *   [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information) - This introduction to machine translation starts from the basics of neural network methods and reaches the state of the art, while giving historical, linguistic, and applied context. Code examples in Python give a hands-on blueprint for implementation. The author is still Philipp Koehn.
 *   [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory and practice of translation from a variety of linguistic and cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ\&hl=en) and [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 
-### Other
+### Other / Platform-specific tools
 
 *   [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
 
@@ -202,7 +202,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐211)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐229)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

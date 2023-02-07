@@ -59,7 +59,7 @@
 ### Software / Community-Supported Agriculture (CSA)
 
 *   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐125)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
-*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐917)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
+*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐929)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
 
 ## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -214,15 +214,15 @@
 
 ### AppImage discovery / App centers
 
-*   [AppImagePool (⭐472)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
+*   [AppImagePool (⭐501)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage To Gnome (⭐2)](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
+*   [AppImage To Gnome (⭐3)](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
 
 ### AppImage developer tools / Build systems
 
-*   [AppImage.cmake (⭐4)](https://github.com/Ravbug/AppImage.cmake) - CMake script which facilitates generating AppImage executables for Linux.
+*   [AppImage.cmake (⭐5)](https://github.com/Ravbug/AppImage.cmake) - CMake script which facilitates generating AppImage executables for Linux.
 
 ### AppImage developer tools / Deployment tools for Flash applications
 
@@ -230,17 +230,17 @@
 
 ### AppImage developer tools / Deployment tools for Rust applications
 
-*   [Cargo AppImage (⭐23)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
+*   [Cargo AppImage (⭐27)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [element-pro-components (⭐156)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
+*   [element-pro-components (⭐161)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 ### Components & Libraries / Dev Tools
 
-*   [components-helper (⭐18)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
+*   [components-helper (⭐19)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
 
 ## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

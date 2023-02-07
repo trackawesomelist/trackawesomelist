@@ -10,7 +10,7 @@
 
 ### Software
 
-*   [Forecast the US demand for electricity (⭐90)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+*   [Forecast the US demand for electricity (⭐92)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 
 ## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Productivity / HTTP Client
 
-*   [papis (⭐901)](https://github.com/papis/papis) - Extensible document and bibliography manager.
+*   [papis (⭐964)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Concurrency
 
-*   [rotor (⭐231)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐241)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -88,13 +88,13 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐434)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐447)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [@zougt/vite-plugin-theme-preprocessor (⭐136)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
+*   [@zougt/vite-plugin-theme-preprocessor (⭐137)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 
 ## [15. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -86,7 +86,7 @@
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐435)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐438)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -137,7 +137,7 @@
 
 ### i18n / Third-party APIs
 
-*   [enchant (⭐15)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
+*   [enchant (⭐16)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
 
 ## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Software / Pastebins
 
-*   [Snibox](https://snibox.github.io/) - Code snippets manager with attractive tag-oriented interface. ([Demo](https://snibox-demo.herokuapp.com/), [Source Code (⭐1.5k)](https://github.com/snibox/snibox)) `MIT` `Ruby`
+*   [Snibox](https://snibox.github.io/) - Code snippets manager with attractive tag-oriented interface. ([Source Code (⭐1.6k)](https://github.com/snibox/snibox)) `MIT` `Ruby`
 
 ## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -244,7 +244,7 @@ Webpage: <https://yoghut.com/>
 
 ### Math
 
-*   [StatsLib (⭐424)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐426)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [29. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -270,7 +270,7 @@ Webpage: <https://yoghut.com/>
 
 ### Utilities / Menu Bar Tools
 
-*   [iGlance (⭐2.2k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
+*   [iGlance (⭐2.3k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
 
 ## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -315,7 +315,7 @@ Webpage: <https://yoghut.com/>
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐31)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐78)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐31)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐80)](https://github.com/thejpster/pc-keyboard).
 
 ## [36. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 

@@ -88,11 +88,11 @@
 
 ### Security
 
-*   [Executable Packing (⭐724)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+*   [Executable Packing (⭐730)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 
 ### Decentralized Systems
 
-*   [Algorand (⭐110)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐113)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -520,7 +520,7 @@
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
 *   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
 
 ## [22. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -539,11 +539,11 @@
 
 ### Project Layout
 
-*   [pagoda (⭐659)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
+*   [pagoda (⭐683)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
 
 ### Template Engines
 
-*   [got (⭐3)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
+*   [got (⭐4)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
 
 ### Utilities
 
@@ -577,11 +577,11 @@
 ### Neovim Lua Development / Diagnostics
 
 *   [nanotee/luv-vimdocs (⭐69)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
-*   [milisims/nvim-luaref (⭐110)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
+*   [milisims/nvim-luaref (⭐112)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐279)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐287)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -593,13 +593,13 @@
 
 ### Samples
 
-*   [Hello triangle,](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
+*   [Hello triangle, (⭐42)](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
 
 ## [30. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 3.2+
 
-*   [Godot First Person Camera (⭐36)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐37)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
 ## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -720,7 +720,7 @@
 
 *   [ndm (⭐31)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
 *   [pistrong (⭐35)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
-*   [sdm (⭐132)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
+*   [sdm (⭐134)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 
 ## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -730,7 +730,7 @@
 
 ### Regular Expression
 
-*   [RegExtract (⭐666)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+*   [RegExtract (⭐669)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 
 ### Tools
 
@@ -744,15 +744,15 @@
 
 ### Templates / React
 
-*   [vite-react-tailwind-v3 (⭐7)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+*   [vite-react-tailwind-v3 (⭐9)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 
 ### Templates / Others
 
-*   [P5.js Starter Template (⭐22)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
+*   [P5.js Starter Template (⭐23)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-compression-plugin (⭐23)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+*   [vite-compression-plugin (⭐27)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -760,11 +760,11 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dynamic-base (⭐31)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
+*   [vite-plugin-dynamic-base (⭐32)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 ### CakePHP / Community
 
-*   [cakephp-vite (⭐9)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+*   [cakephp-vite (⭐10)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
 ## [38. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -776,7 +776,7 @@
 
 ### Input
 
-*   [Swipe (⭐1)](https://github.com/zombrodo/swipe) - A simple radial keyboard library.
+*   [Swipe (⭐2)](https://github.com/zombrodo/swipe) - A simple radial keyboard library.
 
 ### UI
 
@@ -821,8 +821,8 @@
 
 ### Python / React
 
-*   [turms (⭐22)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
-*   [rath (⭐3)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
+*   [turms (⭐23)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
+*   [rath (⭐4)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
 ## [45. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -882,8 +882,8 @@
 ### Components & Libraries / UI Components
 
 *   [swiper (⭐34k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
-*   [vue3-side-panel (⭐20)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
-*   [vue-search-input (⭐18)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
+*   [vue3-side-panel (⭐21)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
+*   [vue-search-input (⭐19)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 ### Components & Libraries / Utilities
 
@@ -903,16 +903,15 @@
 
 ### Libraries / Go
 
-*   [sleepinggenius2/gosmi) (⭐66)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
-*   [posteo/go-agentx (⭐47)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
+*   [posteo/go-agentx (⭐49)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
 
 ### Libraries / Python
 
-*   [pysnmp (⭐502)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
-*   [pysmi (⭐113)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
+*   [pysnmp (⭐506)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
+*   [pysmi (⭐114)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
 *   [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default.
-*   [puresnmp (⭐71)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
-*   [snimpy (⭐172)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
+*   [puresnmp (⭐70)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
+*   [snimpy (⭐174)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
 *   [python-netsnmpagent (⭐64)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python.
 *   [hnmp (⭐45)](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
 *   [aiosnmp (⭐36)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.
@@ -935,10 +934,10 @@
     *   [smidiff](https://www.ibr.cs.tu-bs.de/projects/libsmi/smidiff.html) - This is a tool that parses two revisions of a MIB module and analyzes the modifications from the old to the new revision.
     *   [smiquery](https://www.ibr.cs.tu-bs.de/projects/libsmi/smiquery.html) - This is a MIB/PIB query front end. It can be used to query single items from the command line.
     *   [smistrip](https://www.ibr.cs.tu-bs.de/projects/libsmi/smistrip.html) - This is a simple shell/awk script that allows to extract MIB and PIB modules from documents, such as RFCs or Internet Drafts.
-*   [snmpsim (⭐315)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+*   [snmpsim (⭐317)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 *   [snmpfwd (⭐61)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
 *   [snmpclitools (⭐39)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
-*   [snmpwn (⭐207)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
+*   [snmpwn (⭐208)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
 *   [trapperkeeper (⭐79)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 
 ### Tools / GUIs
@@ -955,24 +954,24 @@
 ### Applications / Emulators
 
 *   ZX Spectrum
-    *   [rustzx/rustzx (⭐163)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+    *   [rustzx/rustzx (⭐162)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
 ### Development tools / Web Servers
 
-*   [create-rust-app (⭐1k)](https://github.com/Wulf/create-rust-app) — Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
+*   [create-rust-app (⭐1.1k)](https://github.com/Wulf/create-rust-app) — Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 
 ### Libraries / Authentication
 
-*   [constantoine/totp-rs (⭐54)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+*   [constantoine/totp-rs (⭐59)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐6.7k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐6.9k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐122)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐124)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
 ## [53. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -1763,7 +1762,6 @@
 
 *   [Datadog APM](https://www.datadoghq.com/product/apm/) - End-to-end distributed tracing and APM at scale, correlated to all telemetry.
 *   [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
-*   [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
 *   [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 *   [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 

@@ -28,7 +28,7 @@
 
 ### Custom Scrollbar
 
-*   [rc-scrollbars (⭐98)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
+*   [rc-scrollbars (⭐99)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

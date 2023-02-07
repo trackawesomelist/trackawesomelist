@@ -37,7 +37,7 @@
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [Automat (⭐579)](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
+*   [Automat (⭐580)](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)

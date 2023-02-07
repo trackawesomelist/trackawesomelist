@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Cabal (⭐769)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐775)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -66,7 +66,7 @@
 
 ### Evaluation
 
-*   [compare-mt (⭐418)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
+*   [compare-mt (⭐428)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 
 ## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐247)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐249)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -88,7 +88,7 @@
 ### Evaluation
 
 *   [NLG-eval (⭐1.1k)](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
-*   [VizSeq (⭐408)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
+*   [VizSeq (⭐411)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
 
 ### Grammar
 
@@ -101,12 +101,12 @@
 
 ### Neural Natural Language Generation
 
-*   [Image Caption Generator (⭐143)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
-*   [Summary Generation From Structured Data (⭐183)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
+*   [Image Caption Generator (⭐144)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
+*   [Summary Generation From Structured Data (⭐185)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
 ### Products
 
-*   [Accelerated Text (⭐628)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+*   [Accelerated Text (⭐669)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
 *   [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ### Realizers
@@ -115,8 +115,8 @@
 
 ### Templating Languages
 
-*   [calyx (⭐60)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
-*   [nalgene (⭐54)](https://github.com/spro/nalgene) - Natural language generation language.
+*   [calyx (⭐59)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
+*   [nalgene (⭐55)](https://github.com/spro/nalgene) - Natural language generation language.
 *   [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output.
 
 ## [8. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
@@ -202,7 +202,7 @@
 
 ### Web APIs / Scala
 
-*   [OpenAPI (⭐25k)](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
+*   [OpenAPI (⭐26k)](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
 
 ## [13. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

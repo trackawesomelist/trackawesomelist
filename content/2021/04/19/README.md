@@ -10,7 +10,7 @@
 
 ### Open-Source Projects
 
-*   [Ubuntu 20.04 (⭐2.7k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
+*   [Ubuntu 20.04 (⭐2.8k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
 
 ## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 

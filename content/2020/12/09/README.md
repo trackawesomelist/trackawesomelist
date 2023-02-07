@@ -16,7 +16,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐632)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐635)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
 ## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 

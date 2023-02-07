@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [CSV (⭐478)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐483)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
 ## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Networking
 
-*   [libhttpserver (⭐711)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐713)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

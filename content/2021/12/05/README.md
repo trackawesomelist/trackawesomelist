@@ -10,7 +10,7 @@
 
 ### Shell Script Development
 
-*   [bash-modules (⭐97)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+*   [bash-modules (⭐98)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 

@@ -20,10 +20,6 @@
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### CoAP / Scala
-
-*   [RFC7252](http://coap.technology/spec.html) - The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for use with constrained nodes and constrained networks in the Internet of Things.
-
 ### Security / Scala
 
 *   [RFC5246](https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.

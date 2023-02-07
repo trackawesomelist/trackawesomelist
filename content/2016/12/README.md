@@ -150,7 +150,7 @@
 
 ### Related lists
 
-*   [Awesome Music Production (⭐553)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐641)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -563,7 +563,7 @@
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [reagent-forms (⭐337)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
+*   [reagent-forms (⭐338)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
 ## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -659,7 +659,7 @@
 
 ### Testing
 
-*   [ex\_unit\_notifier (⭐115)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
+*   [ex\_unit\_notifier (⭐116)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
 ---
 

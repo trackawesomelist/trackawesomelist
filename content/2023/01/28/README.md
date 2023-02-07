@@ -44,14 +44,6 @@
 
 
 
-### Newsletters:
-
-- Website: [Smart Programming 101](http://newsletters.michaelasiedu.com/)
-
-  Topics: Software Development, React.js , Web3.0, Open Source and more .
-
-
-
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Language / Diagnostics
@@ -74,17 +66,8 @@
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
 ### Android / Projects
 
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
 *   [mustafaberkaymutlu/uv-index (⭐65)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
 *   [hanjoongcho/aaf-easypassword (⭐32)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
 
@@ -109,10 +92,6 @@
 
 *   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
 
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
 ## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox: Music and Audio projects / Text-related Generative Tools
@@ -121,7 +100,7 @@
 
 ## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Exploitation Tools / Unikernel-like
+### Exploitation Tools / OpenVPN
 
 *   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 
@@ -135,7 +114,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [WBO (⭐1.5k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
+*   [WBO (⭐1.6k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -191,4 +170,5 @@
 
 ---
 
+- Prev: [Jan 29, 2023](/content/2023/01/29/README.md)
 - Next: [Jan 27, 2023](/content/2023/01/27/README.md)

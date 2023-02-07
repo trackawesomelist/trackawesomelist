@@ -93,7 +93,7 @@
 
 ### Package Management
 
-*   [BaGet (⭐2.2k)](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
+*   [BaGet (⭐2.3k)](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
 
 ### Tools
 

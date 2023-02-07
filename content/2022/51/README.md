@@ -161,7 +161,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐689)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -218,11 +218,11 @@
 
 ## [12. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### DevOps / Other / unknown licence
+### DevOps / MIT
 
 *   [power-joular](https://gitlab.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
-### Networking and Communication Middleware / Other / unknown licence
+### Networking and Communication Middleware / MIT
 
 *   [kafka-ada (⭐14)](https://github.com/Latence-Technologies/Kafka-Ada) - Binding for the C librdkafka library, allows sending and receiving from a Kafka bus.
 *   [adare-net](https://gitlab.com/daresoft/network/adare_net) - This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.
@@ -231,7 +231,7 @@
 
 ### Applications
 
-*   [Sniffnet (⭐2.7k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐2.8k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [14. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -262,7 +262,7 @@
 
 ### Self-hosted
 
-*   [Memos (⭐5.4k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐5.6k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ### Blogging platforms (Medium)
 
@@ -301,11 +301,11 @@
 
 ### Data Validation / NLP
 
-*   [great\_expectations (⭐7.8k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-*   [pandera (⭐1.9k)](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library.
+*   [great\_expectations (⭐7.9k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+*   [pandera (⭐1.9k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
 *   [deepchecks (⭐2.3k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [evidently (⭐3.1k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐688)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [TensorFlow Data Validation (⭐693)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -349,7 +349,7 @@
 
 ### Tools
 
-*   [rpi-cookstrap (⭐6)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+*   [rpi-cookstrap (⭐5)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 
 ## [24. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -364,7 +364,7 @@
 
 - Name: [**Taller Estampa**](https://www.tallerestampa.com)
 
-  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat)
+  Locations: \[Barcelona]
 
   Keywords: group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.
 
@@ -376,7 +376,7 @@
 
 - Name: [**Cascade**](https://cascadeshow.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: interactive art experience
 
@@ -388,7 +388,7 @@
 
 - Name: [**SuperUber**](https://www.superuber.com/)
 
-  Locations: ![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat)
+  Locations: \[Rio de Janeiro] \[São Paulo]
 
   Keywords: experiences that blend art, technology, architecture and design
 
@@ -400,7 +400,7 @@
 
 - Name: [**Eyeo**](https://www.eyeofestival.com/)
 
-  Locations: ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+  Locations: \[Melbourne]
 
   Keywords: a gathering for the creative technology community
 
@@ -409,7 +409,7 @@
 
 - Name: [**ISEA**](https://isea2022.isea-international.org/)
 
-  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Barcelona] \[Paris]
 
   Keywords: the crossroads where art, design, science, technology and society meet
 
@@ -418,7 +418,7 @@
 
 - Name: [**SXSW**](https://www.sxsw.com/)
 
-  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat)
+  Locations: \[Austin]
 
   Keywords: film, music, interactive arts
 
@@ -430,7 +430,7 @@
 
 - Name: [**Goldsmiths**](https://www.gold.ac.uk/pg/ma-computational-arts/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: a degree which develops your arts practice through the expressive world of creative computation
 
@@ -439,7 +439,7 @@
 
 - Name: [**ITP**](https://tisch.nyu.edu/itp)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.
 
@@ -448,7 +448,7 @@
 
 - Name: [**MIT Medialab**](https://media.mit.edu/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration
 
@@ -457,7 +457,7 @@
 
 - Name: [**Paris College of Art**](https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: designed for those who are interested in exploring the wide-ranging creative field of New Media
 
@@ -466,7 +466,7 @@
 
 - Name: [**University of the Arts**](https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: computational technologies in the context of creative computing research
 
@@ -510,11 +510,11 @@
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐362)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐551)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐3.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐4.1k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ### Inbox: Text and Natural Language Processing / ChatGPT
 
@@ -649,15 +649,15 @@
 
 ### Templates / React
 
-*   [react-xs-admin (⭐1)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [react-xs-admin (⭐2)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 ### Templates / Solid
 
-*   [vitesse-solid (⭐13)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+*   [vitesse-solid (⭐17)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-solid-markdown (⭐4)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
+*   [vite-plugin-solid-markdown (⭐5)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -665,32 +665,32 @@
 
 ### React / Helpers
 
-*   [vite-plugin-react-click-to-component (⭐4)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+*   [vite-plugin-react-click-to-component (⭐5)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐582)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐593)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.animate (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+*   [echasnovski/mini.nvim#mini.animate (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐109)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐140)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐34)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐36)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [aws (⭐0)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
-*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐16)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
+*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐17)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
 *   [valuca (⭐0)](https://github.com/keyaedisa/Valuca) - Variant of [ducula (⭐33)](https://github.com/janjoswig/Ducula). Includes decorators for background job status, username, hostname, virtualenv, current directory, last command's exit code, `git` information and the current time.
 
 ## [42. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
@@ -722,19 +722,19 @@
 
 ### Contents / Education
 
-*   [TubeCards (⭐188)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+*   [TubeCards (⭐195)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 
 ### Contents / Entertainment
 
-*   [Aniflix (⭐5)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
+*   [Aniflix (⭐8)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
 
 ### Contents / Productivity
 
-*   [Virlow Flutter Recorder (⭐10)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
+*   [Virlow Flutter Recorder (⭐12)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
 
 ### Contents / Tools
 
-*   [RSA Encryption (⭐21)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+*   [RSA Encryption (⭐23)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
 ## [45. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -767,14 +767,14 @@
 
 ### Projects
 
-*   [Sumi (⭐1)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
+*   [Sumi (⭐2)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
 
 ## [48. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Using ChatGPT in other apps
 
 *   [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
-*   [GPT AI Assistant using LINE and Vercel (⭐552)](https://github.com/memochou1993/gpt-ai-assistant)
+*   [GPT AI Assistant using LINE and Vercel (⭐753)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -819,11 +819,11 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐60)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐64)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐912)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐917)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
@@ -831,11 +831,11 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto (⭐68)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐68)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+*   [Chevereto (⭐80)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐80)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Low Code
 
-*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐349)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
+*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐376)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
 
 ### Software / URL Shorteners
 

@@ -41,7 +41,7 @@
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 

@@ -20,19 +20,19 @@
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Responsive templates](https://templates.emailoctopus.com/) - Free HTML templates from EmailOctopus, usable with any provider.
 
-### Services
+### Services / Misc
 
 *   [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
 
-### Blogs
+### Blogs / Misc
 
 *   [EmailOctopus Blog](https://emailoctopus.com/blog/)
 
-### Resources
+### Resources / Misc
 
 *   [Email marketing regulations (⭐290)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 

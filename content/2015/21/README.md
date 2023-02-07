@@ -83,7 +83,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐6.6k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐6.7k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ### Websites
 
@@ -297,11 +297,11 @@
 ### Awesome ClojureScript / JavaScript Interoperability
 
 *   [CLJSJS](http://cljsjs.github.io/) – An easy way for Clojurescript developers to depend on Javascript libraries.
-*   [Jayq (⭐409)](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
+*   [Jayq (⭐410)](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [Automat (⭐579)](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
+*   [Automat (⭐580)](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 
 ### Awesome ClojureScript / Reactive Programming
@@ -311,7 +311,7 @@
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Mies (⭐369)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
+*   [Mies (⭐370)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
 
 ## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 

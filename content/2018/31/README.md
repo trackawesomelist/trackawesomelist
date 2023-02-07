@@ -198,8 +198,8 @@
 
 ### Softwares / Launchers
 
-*   [MultiMC (⭐3.7k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐4.6k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+*   [MultiMC (⭐3.8k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+*   [HMCL (⭐4.8k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -611,7 +611,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 ### Algorithms and Data structures
 
 *   [jumper (⭐5)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐469)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐470)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -640,11 +640,11 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐379)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐389)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
-*   [is (⭐20)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
+*   [is (⭐19)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 
 ## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -941,7 +941,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Concurrency
 
-*   [transwarp (⭐592)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐597)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ### Math
 
@@ -969,7 +969,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Security / Other
 
-*   [Themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
+*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
 ## [63. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 

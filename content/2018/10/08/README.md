@@ -113,7 +113,7 @@
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐444)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐447)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [17. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐472)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐470)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

@@ -294,7 +294,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐912)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐913)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 ## [30. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -399,7 +399,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Developer Roadmap (⭐3.1k)](https://github.com/s4kibs4mi/java-developer-roadmap)
+*   [Java Developer Roadmap (⭐3.2k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
 ## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 

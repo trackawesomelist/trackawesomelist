@@ -105,7 +105,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐61)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐62)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Integrated Development Environment
 
@@ -115,7 +115,7 @@
 
 ### SQL Query Builders
 
-*   [builq (⭐45)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+*   [builq (⭐46)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 
 ## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -125,9 +125,9 @@
 
 ### Data Manipulation / Data-centric AI
 
-*   [cleanlab (⭐4.4k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [cleanlab (⭐4.9k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 *   [snorkel (⭐5.4k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-*   [dataprep (⭐1.5k)](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
+*   [dataprep (⭐1.5k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
 
 ### Related Resources / NLP
 
@@ -187,7 +187,7 @@
 
 ### Templates / Vue 3
 
-*   [vite-vue3-bootstrap-ts-vitest-starter (⭐0)](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
+*   [vite-vue3-bootstrap-ts-vitest-starter (⭐1)](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 
 ### Templates / React
 
@@ -195,7 +195,7 @@
 
 ### Templates / Electron
 
-*   [Vutron (⭐37)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐41)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -203,7 +203,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐28)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐31)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [17. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

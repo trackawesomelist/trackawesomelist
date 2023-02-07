@@ -281,7 +281,7 @@
 
 ### Apps
 
-*   [Linux port of SteamVR (⭐801)](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
+*   [Linux port of SteamVR (⭐807)](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
 
 ## [23. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -357,13 +357,13 @@
 
 ## [27. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Blogs
+### Blogs / Misc
 
 *   [Spently Blog](https://blog.spently.com/)
 
-### Statistics
+### Statistics / Misc
 
-*   [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
+*   [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review.
 
 ## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -616,7 +616,7 @@ git status --short --branch
 ### Applications
 
 *   [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
-*   [CacheP2P (⭐867)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
+*   [CacheP2P (⭐868)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 *   [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 *   [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
 

@@ -10,7 +10,7 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐535)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐536)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Miscellaneous
 

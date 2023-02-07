@@ -84,7 +84,7 @@
 
 ### Contents / Clones
 
-*   [PX8 (⭐885)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+*   [PX8 (⭐892)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

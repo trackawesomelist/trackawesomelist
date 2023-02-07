@@ -16,7 +16,7 @@
 
 ### Networking
 
-*   [Seasocks (⭐622)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐628)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -63,9 +63,9 @@
 
 ### Web / Playground
 
-*   :octocat: [ionic (⭐48k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
+*   :octocat: [ionic (⭐49k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [Stencil (⭐11k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
-*   :octocat: [wretch (⭐2.7k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [wretch (⭐3.5k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Apps
 
-*   [Gank (⭐127)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+*   [Gank (⭐128)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

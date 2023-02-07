@@ -49,7 +49,7 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada\_KALINDA is a sort of Mac Plus like OS written in Ada95.
 *   [cxos (⭐37)](https://github.com/ajxs/cxos) - Ada Operating System development example.

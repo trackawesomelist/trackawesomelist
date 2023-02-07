@@ -26,7 +26,7 @@
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Build and Package / Other / unknown licence
+### Build and Package / MIT
 
 *   [alire (⭐201)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 
@@ -90,7 +90,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [goBrowser (⭐113)](https://github.com/xataz/gobrowser) - Simple http file browser. `GPL-3.0` `Go`
+*   [goBrowser (⭐115)](https://github.com/xataz/gobrowser) - Simple http file browser. `GPL-3.0` `Go`
 
 ### Software / Learning and Courses
 
@@ -184,92 +184,97 @@
 
 ## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
+### Development / Database
+
+*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
+*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
+
 ### Entertainment
 
 *   [football-cli (⭐1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
 
 ### Entertainment / Music
 
-*   [cmus (⭐4.7k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+*   [cmus (⭐4.8k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 *   [itunes-remote (⭐421)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 
 ### Entertainment / Social Media
 
-*   [TTYtter (⭐341)](https://github.com/oysttyer/oysttyer) - Twitter client.
+*   [TTYtter (⭐348)](https://github.com/oysttyer/oysttyer) - Twitter client.
 *   [Rainbowstream (⭐3.5k)](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 *   [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 
 ### Entertainment / Video
 
-*   [youtube-dl (⭐114k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
-*   [streamlink (⭐8k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
-*   [mps-youtube (⭐7.2k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
+*   [youtube-dl (⭐117k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
+*   [streamlink (⭐8.3k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
+*   [mps-youtube (⭐7.3k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 
 ### Entertainment / Movies
 
-*   [moviemon (⭐183)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
-*   [movie (⭐130)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+*   [moviemon (⭐187)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
+*   [movie (⭐138)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Development / Books
 
-*   [legit (⭐540)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
-*   [mklicense (⭐164)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
+*   [legit (⭐543)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
+*   [mklicense (⭐167)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 
 ### Development / Text Editors
 
-*   [kakoune (⭐8.4k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
+*   [kakoune (⭐8.6k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 
 ### Productivity / HTTP Client
 
-*   [doing (⭐943)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+*   [doing (⭐974)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
-*   [meetup-cli (⭐42)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐801)](https://github.com/keepcosmos/terjira) - Jira client.
-*   [ipt (⭐7)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
+*   [meetup-cli (⭐43)](https://github.com/specious/meetup-cli) - Meetup.com client.
+*   [terjira (⭐811)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [ipt (⭐8)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐5.3k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐5.5k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 
 ### Productivity / Time Tracking
 
-*   [moro (⭐433)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
+*   [moro (⭐445)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 
 ### Productivity / Note Taking and Lists
 
-*   [idea (⭐192)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-*   [sncli (⭐363)](https://github.com/insanum/sncli) - Simplenote client.
+*   [idea (⭐200)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
+*   [sncli (⭐375)](https://github.com/insanum/sncli) - Simplenote client.
 *   [taskbook (⭐8.6k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Productivity / Finance
 
-*   [moeda (⭐129)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐190)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
-*   [cointop (⭐3.4k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+*   [moeda (⭐130)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
+*   [cash-cli (⭐195)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cointop (⭐3.5k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 
 ### Productivity / Presentations
 
 *   [WOPR (⭐3k)](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
-*   [decktape (⭐1.9k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
+*   [decktape (⭐2k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 *   [mdp (⭐4.5k)](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 *   [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Utilities / Calendars
 
-*   [aria2 (⭐28k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+*   [aria2 (⭐29k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 
 ### Utilities / macOS
 
-*   [osx-wifi-cli (⭐82)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
-*   [stronghold (⭐972)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
+*   [osx-wifi-cli (⭐84)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
+*   [stronghold (⭐979)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 
 ### Utilities / Terminal Sharing Utilities
 
-*   [localtunnel (⭐15k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
+*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 *   [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 *   [OverTime (⭐403)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
 ### Utilities / Theming and Customization
 
-*   [pywal (⭐6.7k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+*   [pywal (⭐7k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 
 ## [21. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -745,15 +750,6 @@ Topics: Chrome DevTools, Performance\
 
 ## [28. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
-### CLI / dbcli
-
-*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-*   [athenacli (⭐193)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
-*   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
-*   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
-*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
-
 ### IDE
 
 *   [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
@@ -778,6 +774,13 @@ Topics: Chrome DevTools, Performance\
 ### CLI
 
 *   [pg\_top (⭐99)](https://github.com/markwkm/pg_top) - 'top' for PostgreSQL.
+
+### CLI / dbcli
+
+*   [athenacli (⭐193)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+*   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
+*   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
+*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 ### Schema / Changes
 
@@ -827,11 +830,11 @@ Topics: Chrome DevTools, Performance\
 *   [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub (⭐42)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 *   [SciDe (⭐67)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
-### Libraries
+### Python / General-Purpose Machine Learning
 
-*   [StellarGraph (⭐2.6k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+*   [StellarGraph (⭐2.6k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
 ## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -879,16 +882,16 @@ Topics: Chrome DevTools, Performance\
 
 ### Networking
 
-*   [MQTT-C (⭐569)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
-*   [WAFer (⭐693)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
+*   [MQTT-C (⭐578)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [WAFer (⭐692)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection
 
 *   [Better Enums (⭐1.4k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
-*   [CPFG (⭐208)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
-*   [CPP-Reflection (⭐555)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
-*   [Nameof (⭐1.5k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
-*   [Ponder (⭐575)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [CPFG (⭐210)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
+*   [CPP-Reflection (⭐559)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [Nameof (⭐1.6k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
+*   [Ponder (⭐582)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
 *   [RTTR (⭐2.5k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis

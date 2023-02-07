@@ -38,9 +38,9 @@
 
 ## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
-### Projects Related to eBPF / Testing in Virtual Environments
+### Projects Related to eBPF / Observability
 
-*   [SkyWalking Rover (⭐103)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
+*   [SkyWalking Rover (⭐116)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -64,13 +64,13 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐3.9k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐531)](https://github.com/flextype/flextype)) `MIT` `PHP`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐7.4k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
+*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐533)](https://github.com/flextype/flextype)) `MIT` `PHP`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐7.5k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Pastebins
 
-*   [Spacebin (⭐70)](https://github.com/spacebin-org/spirit) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. `Apache-2.0` `Go`
+*   [Spacebin (⭐69)](https://github.com/spacebin-org/spirit) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. `Apache-2.0` `Go`
 
 ### Software / Self-hosting Solutions
 

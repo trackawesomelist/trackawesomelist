@@ -91,7 +91,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/kotlin-unsigned (⭐75)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
+*   [kotlin-graphics/kotlin-unsigned (⭐76)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

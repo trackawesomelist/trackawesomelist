@@ -47,12 +47,12 @@
 
 ### Python / Computer Vision
 
-*   [deepface (⭐5.2k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
-*   [retinaface (⭐514)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
+*   [deepface (⭐5.4k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
+*   [retinaface (⭐532)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
 
 ### Python / General-Purpose Machine Learning
 
-*   [ChefBoost (⭐377)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
+*   [ChefBoost (⭐379)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -73,7 +73,6 @@
 ### Archives and primary sources / Global
 
 *   [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - Preserving information from early personal computer magazines.
-*   [gotpapers.scene.org](https://gotpapers.scene.org/?page_id=73) - Resources on the history of games, cracking, and the demoscene.
 *   [OpenCat](https://opencat.io/) - Search engine for libraries around the globe.
 
 ### Archives and primary sources / North America
@@ -88,7 +87,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-promise-dialog (⭐39)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
+*   [vue3-promise-dialog (⭐41)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

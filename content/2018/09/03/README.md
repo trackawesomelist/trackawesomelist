@@ -81,7 +81,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐22)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐24)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [10. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐381)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐400)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Web Applications / Building
 

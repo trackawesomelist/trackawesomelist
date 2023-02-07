@@ -11,7 +11,7 @@
 ### Python / Python Survival Analysis
 
 *   [lifelines (⭐2k)](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
-*   [Scikit-Survival (⭐875)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
+*   [Scikit-Survival (⭐878)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 
 ### R / General-Purpose Machine Learning
 
@@ -28,7 +28,7 @@
 
 ### Go / Community
 
-*   [vite-go (⭐84)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
+*   [vite-go (⭐88)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
 
 ## [4. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Projects
 
-*   [CocktailMaker (⭐69)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
+*   [CocktailMaker (⭐70)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 
 ### Books / iOS
 
@@ -102,7 +102,7 @@
 
 ### Miscellaneous
 
-*   [Concord (⭐353)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐361)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

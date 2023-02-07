@@ -39,7 +39,7 @@
 
 ### TikTok
 
-*   [ProxiTok (⭐954)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
+*   [ProxiTok (⭐985)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -63,14 +63,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-mathjax (⭐60)](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
-*   [vue-mathjax-next (⭐9)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
+*   [vue-mathjax (⭐61)](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
+*   [vue-mathjax-next (⭐10)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Sync/Sharing
 
-*   [portal (⭐233)](https://github.com/ZinoKader/portal) - Send files between computers.
+*   [portal (⭐266)](https://github.com/ZinoKader/portal) - Send files between computers.
 
 ## [11. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

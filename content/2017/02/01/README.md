@@ -16,7 +16,7 @@
 
 ### CLI Builders
 
-*   [admiral (⭐130)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+*   [admiral (⭐131)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
 
 ## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Containers
 
-*   [Hopscotch map (⭐578)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐582)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

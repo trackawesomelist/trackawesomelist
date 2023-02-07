@@ -99,25 +99,25 @@
 
 ### Messaging
 
-*   [Deezpatch (⭐31)](https://github.com/joel-jeremy/deezpatch) - Simple, lightweight, and performant dispatch library for decoupling messages (requests and events) and message handlers.
+*   [Deezpatch (⭐32)](https://github.com/joel-jeremy/deezpatch) - Simple, lightweight, and performant dispatch library for decoupling messages (requests and events) and message handlers.
 
 ### Miscellaneous
 
-*   [Svix (⭐808)](https://github.com/svix/svix-webhooks/tree/main/java) - Library for the Svix API to send webhooks and verify signatures.
+*   [Svix (⭐1.1k)](https://github.com/svix/svix-webhooks/tree/main/java) - Library for the Svix API to send webhooks and verify signatures.
 
 ### Monitoring
 
-*   [HertzBeat (⭐2k)](https://github.com/dromara/hertzbeat) - Real-time monitoring system with custom-monitor and agentless.
+*   [HertzBeat (⭐2.3k)](https://github.com/dromara/hertzbeat) - Real-time monitoring system with custom-monitor and agentless.
 
 ### Template Engine / Other
 
-*   [jstachio (⭐38)](https://github.com/jstachio/jstachio) - Typesafe Mustache templating engine.
+*   [jstachio (⭐55)](https://github.com/jstachio/jstachio) - Typesafe Mustache templating engine.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [clipp (⭐976)](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. \[MIT]
+*   [clipp (⭐984)](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. \[MIT]
 
 ### Miscellaneous
 
@@ -139,7 +139,7 @@
 
 ### Authentication and OAuth
 
-*   [jwt-go (⭐3.9k)](https://github.com/golang-jwt/jwt) - A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.
+*   [jwt-go (⭐4k)](https://github.com/golang-jwt/jwt) - A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.
 
 ### Style Guides / Libraries for creating HTTP middlewares
 
@@ -149,7 +149,7 @@
 
 ### Applications / Audio and Music
 
-*   [WhatBPM (⭐73)](https://github.com/sergree/whatbpm) — A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
+*   [WhatBPM (⭐74)](https://github.com/sergree/whatbpm) — A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
 
 ## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -225,9 +225,9 @@
 
 ## [22. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
-### Projects Related to eBPF / Testing in Virtual Environments
+### Projects Related to eBPF / Tools
 
-*   [inspektor-gadget (⭐1.1k)](https://github.com/inspektor-gadget/inspektor-gadget) - A collection of eBPF-based tools to debug and inspect Kubernetes resources and applications.
+*   [inspektor-gadget (⭐1.2k)](https://github.com/inspektor-gadget/inspektor-gadget) - A collection of eBPF-based tools to debug and inspect Kubernetes resources and applications.
 
 ## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Projects / Examples
 
-*   [TobseF/Candy-Crush-Clone (⭐80)](https://github.com/TobseF/Candy-Crush-Clone) - A Kotlin Multiplatform match 3 sample game build to teach, made with KorGE.
+*   [TobseF/Candy-Crush-Clone (⭐82)](https://github.com/TobseF/Candy-Crush-Clone) - A Kotlin Multiplatform match 3 sample game build to teach, made with KorGE.
 
 ## [25. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -370,7 +370,7 @@
 
 *   [Visual intuition for diffusion models and AI art. #stablediffusionart #aiart #aiartwork #aiartcommunity](https://www.tiktok.com/@ham_made_art/video/7154863972729113899)
 *   [The Illustrated Stable Diffusion by Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/): "gentle introduction \[on] how Stable Diffusion works"
-*   \[🔥][johnowhitaker/tglcourse (⭐69)](https://github.com/johnowhitaker/tglcourse): The Generative Landscape - a course on generative modelling (currently unfinished)
+*   \[🔥][johnowhitaker/tglcourse (⭐72)](https://github.com/johnowhitaker/tglcourse): The Generative Landscape - a course on generative modelling (currently unfinished)
 
 ### Discussions and Philosophy / Papers Collections
 
@@ -392,7 +392,7 @@
 ### Software Engineering
 
 *   [Falsehoods about Undefined Behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - Invoking undefined behavior can cause *anything* to happen, for a much broader definition of "anything" than one might think.
-*   [Facts about State Machines (⭐684)](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
+*   [Facts about State Machines (⭐692)](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
 *   [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - There are edge-cases even in tagging systems which are suposed to be barebone.
 
 ## [34. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
@@ -417,11 +417,11 @@
 
 ### Planning Coding Resources / Python
 
-*   [Peartree (⭐179)](https://github.com/kuanb/peartree) - Peartree helps explore GTFS data and their network characteristics.
+*   [Peartree (⭐189)](https://github.com/kuanb/peartree) - Peartree helps explore GTFS data and their network characteristics.
 
 ### Planning Coding Resources / R
 
-*   [r5r (⭐115)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
+*   [r5r (⭐122)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
 
 ### Educational and Informational Resources / Podcasts
 
@@ -442,24 +442,24 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tiledesk](https://tiledesk.com) - All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots. Self hosted alternative to Intercom, Zendesk, Tawk.to and Tidio. ([Source Code (⭐38)](https://github.com/Tiledesk/tiledesk)) `MIT` `Docker/K8S`
+*   [Tiledesk](https://tiledesk.com) - All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots. Self hosted alternative to Intercom, Zendesk, Tawk.to and Tidio. ([Source Code (⭐40)](https://github.com/Tiledesk/tiledesk)) `MIT` `Docker/K8S`
 *   [Yopass (⭐1.1k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files. ([Demo](https://yopass.se/)) `Apache-2.0` `Go`
 
 ### Software / Knowledge Management Tools
 
-*   [TeamMapper (⭐24)](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
+*   [TeamMapper (⭐27)](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Bsimp (⭐25)](https://github.com/akrylysov/bsimp) - Minimalistic S3-backed audio library. `Apache-2.0` `Go`
+*   [Bsimp (⭐27)](https://github.com/akrylysov/bsimp) - Minimalistic S3-backed audio library. `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
-*   [Speed Test by OpenSpeedTest™](https://openspeedtest.com/) - Free & Open-Source HTML5 Network Performance Estimation Tool. ([Source Code (⭐693)](https://github.com/openspeedtest/Speed-Test)) `MIT` `Docker`
+*   [Speed Test by OpenSpeedTest™](https://openspeedtest.com/) - Free & Open-Source HTML5 Network Performance Estimation Tool. ([Source Code (⭐735)](https://github.com/openspeedtest/Speed-Test)) `MIT` `Docker`
 
 ### Software / Polls and Events
 
-*   [docassemble](https://docassemble.org/) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown. ([Demo](https://demo.docassemble.org/run/legal), [Source Code (⭐609)](https://github.com/jhpyle/docassemble)) `MIT` `Docker`
+*   [docassemble](https://docassemble.org/) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown. ([Demo](https://demo.docassemble.org/run/legal), [Source Code (⭐614)](https://github.com/jhpyle/docassemble)) `MIT` `Docker`
 
 ## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -487,7 +487,7 @@
 
 *   [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
 *   [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
-*   [is-an.app & 1bt.uk (⭐96)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
+*   [is-an.app & 1bt.uk (⭐126)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
 ### Storage and Media Processing
 
@@ -505,13 +505,13 @@
 
 ### Querying / Symfony2
 
-*   [Step CI (⭐883)](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
+*   [Step CI (⭐913)](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
 
 ## [40. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Master CSS (⭐8)](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
+*   [Master CSS (⭐9)](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
 
 ## [41. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -523,7 +523,7 @@
 
 ### Contents / EHR
 
-*   [Medplum (⭐537)](https://github.com/medplum/medplum) - Developer platform that enables flexible and rapid development of healthcare apps.
+*   [Medplum (⭐551)](https://github.com/medplum/medplum) - Developer platform that enables flexible and rapid development of healthcare apps.
 
 ### Contents / Specifications
 
@@ -531,9 +531,9 @@
 
 ### Contents / Imaging
 
-*   [Omero (⭐169)](https://github.com/ome/openmicroscopy) - open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata
-*   [OpenSlide (⭐310)](https://github.com/openslide/openslide) - is a C library for reading whole slide image files.
-*   [Viv (⭐189)](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
+*   [Omero (⭐170)](https://github.com/ome/openmicroscopy) - open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata
+*   [OpenSlide (⭐313)](https://github.com/openslide/openslide) - is a C library for reading whole slide image files.
+*   [Viv (⭐193)](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
 
 ### Contents / Libraries
 
@@ -586,7 +586,7 @@
 
 ### Softwares / Servers
 
-*   [Gate (⭐239)](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
+*   [Gate (⭐262)](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
 
 ## [47. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
@@ -628,24 +628,24 @@
 
 ### Drawing
 
-*   [Resolution Solution (⭐11)](https://github.com/Vovkiv/resolution_solution) - Scale library, that help you add resolution support to your games!
+*   [Resolution Solution (⭐12)](https://github.com/Vovkiv/resolution_solution) - Scale library, that help you add resolution support to your games!
 
 ### Entity
 
-*   [ecs-lua (⭐69)](https://github.com/nidorx/ecs-lua) - ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.
+*   [ecs-lua (⭐72)](https://github.com/nidorx/ecs-lua) - ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.
 
 ### Helpers
 
-*   [lua-state-machine (⭐297)](https://github.com/kyleconroy/lua-state-machine) - Lua Finite State Machine.
-*   [Scenery (⭐4)](https://github.com/paltze/scenery) - A dead simple scene/state management system.
+*   [lua-state-machine (⭐300)](https://github.com/kyleconroy/lua-state-machine) - Lua Finite State Machine.
+*   [Scenery (⭐5)](https://github.com/paltze/scenery) - A dead simple scene/state management system.
 
 ### Input
 
-*   [Kazari (⭐3)](https://github.com/MikuAuahDark/Kazari) - Multitouch gesture and input library.
+*   [Kazari (⭐5)](https://github.com/MikuAuahDark/Kazari) - Multitouch gesture and input library.
 
 ### Tweening
 
-*   [NAniTe (⭐21)](https://github.com/MikuAuahDark/NPad93/blob/master/nanite.lua) - Timeline-based animation system that supports forward and backward update.
+*   [NAniTe (⭐24)](https://github.com/MikuAuahDark/NPad93/blob/master/nanite.lua) - Timeline-based animation system that supports forward and backward update.
 
 ### UI
 
@@ -666,8 +666,7 @@
 
 ### Libraries / Lua
 
-*   Lua: - Awesome Collections -
-    *   📚 [Awesome Lua (⭐3.3k)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
+*   📚 [Awesome Lua (⭐3.3k)](https://github.com/LewisJEllis/awesome-lua) - Awesome Lua packages and resources.
 
 ## [52. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -679,19 +678,19 @@
 
 ### Projects
 
-*   [live-ask.com (⭐55)](https://github.com/liveask/liveask) - Realtime Event/Meetup Q\&A Platform. [Live at live-ask.com](https://live-ask.com).
+*   [live-ask.com (⭐56)](https://github.com/liveask/liveask) - Realtime Event/Meetup Q\&A Platform. [Live at live-ask.com](https://live-ask.com).
 
 ### Crates / Wasm
 
-*   [tauri-sys (⭐24)](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
+*   [tauri-sys (⭐25)](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
 
 ### Crates / Frameworks
 
-*   [stackable (⭐9)](https://github.com/futursolo/stackable) - A framework experience for Yew.
+*   [stackable (⭐13)](https://github.com/futursolo/stackable) - A framework experience for Yew.
 
 ### Tooling / Frameworks
 
-*   [Tauri (⭐56k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+*   [Tauri (⭐58k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
 ## [54. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -701,7 +700,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Admin One React (⭐68)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
+*   📁 [Admin One React (⭐85)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 
 ## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -711,11 +710,11 @@
 
 ### Others
 
-*   [Command and Control, by David Fowler (⭐96)](https://github.com/davidfowl/CommandAndControl) - ![stars](https://img.shields.io/github/stars/davidfowl/CommandAndControl?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/davidfowl/CommandAndControl?style=flat-square\&cacheSeconds=86400) This is a sample using Blazor server and SignalR to do command and control. Agents connect to the blazor server application which is hosting a SignalR Hub and we can issue various commands against the connected agents (this feature uses client results).
+*   [Command and Control, by David Fowler (⭐99)](https://github.com/davidfowl/CommandAndControl) - ![stars](https://img.shields.io/github/stars/davidfowl/CommandAndControl?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/davidfowl/CommandAndControl?style=flat-square\&cacheSeconds=86400) This is a sample using Blazor server and SignalR to do command and control. Agents connect to the blazor server application which is hosting a SignalR Hub and we can issue various commands against the connected agents (this feature uses client results).
 
 ### Articles / Others
 
-*   [Use Keycloak as Identity Provider from Blazor WebAssembly (WASM) applications](https://dev.to/nikiforovall/use-keycloak-as-identity-provider-from-blazor-webassembly-wasm-applications-3an6) - December 8, 2022 - Learn how to integrate with Keycloak from Blazor WASM. Create a public client and use built-in capabilities of Microsoft.AspNetCore.Components.WebAssembly.Authentication that integrates with OpenId Connect compliant providers. [Source code (⭐105)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet/blob/main/samples/Blazor) ![stars](https://img.shields.io/github/stars/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐60k)](https://github.com/chartjs/Chart.js).
+*   [Use Keycloak as Identity Provider from Blazor WebAssembly (WASM) applications](https://dev.to/nikiforovall/use-keycloak-as-identity-provider-from-blazor-webassembly-wasm-applications-3an6) - December 8, 2022 - Learn how to integrate with Keycloak from Blazor WASM. Create a public client and use built-in capabilities of Microsoft.AspNetCore.Components.WebAssembly.Authentication that integrates with OpenId Connect compliant providers. [Source code (⭐111)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet/blob/main/samples/Blazor) ![stars](https://img.shields.io/github/stars/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/NikiforovAll/keycloak-authorization-services-dotnet?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐60k)](https://github.com/chartjs/Chart.js).
 *   [What’s new in the Microsoft Fluent UI library for Blazor version 2.0](https://medium.com/fast-design/whats-new-in-the-microsoft-fluent-ui-library-for-blazor-version-2-0-b3ac0eb5d02c) - December 5, 2022 - What’s new in the Microsoft Fluent UI library for Blazor version 2.0.
 *   [Build a web app to manage a custom provider in Viva Learning with Blazor](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/build-a-web-app-to-manage-a-custom-provider-in-viva-learning/ba-p/3686343#M679) - November 29, 2022 - In this post, we're going to reuse the concepts we have learned to build a better experience: a web application, that we can use to manage our custom learning provider and its contents. We'll focus on how to implement in a real application some of the peculiar features we have learned about these APIs, like the fact that a different set of permissions is required based on the type of content you're working with.
 *   [Clean Architecture Solution Template for Blazor WebAssembly](https://jasontaylor.dev/clean-architecture-solution-template-for-blazor-webassembly/) - September 30, 2022 - This post shows how to install the new template, create and run a new app using the template, and then I’ll share some recommended resources.
@@ -724,7 +723,7 @@
 
 ### Tooling / Others
 
-*   [LiveSharp (⭐52)](https://github.com/ionoy/LiveSharp) - ![stars](https://img.shields.io/github/stars/ionoy/LiveSharp?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ionoy/LiveSharp?style=flat-square\&cacheSeconds=86400) Update `.razor` files and see the updates instantly without reloading the page. Your application state is preserved because there is no need to reload anything. [livesharp.net](https://www.livesharp.net/).
+*   [LiveSharp (⭐60)](https://github.com/ionoy/LiveSharp) - ![stars](https://img.shields.io/github/stars/ionoy/LiveSharp?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ionoy/LiveSharp?style=flat-square\&cacheSeconds=86400) Update `.razor` files and see the updates instantly without reloading the page. Your application state is preserved because there is no need to reload anything. [livesharp.net](https://www.livesharp.net/).
 
 ## [56. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -747,27 +746,27 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-resize-drawer (⭐3)](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
+*   [vuetify-resize-drawer (⭐4)](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 *   [vue-country-code (⭐20)](https://github.com/hantrongbinh/vue-country-code) - Vue 2 Country Code Select
 
 ## [59. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Frameworks
+### Frameworks / React
 
-*   [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript. :fire:
+*   [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+*   [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
 
-### Templates
+### Templates / Misc
 
 *   [Stripo](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 
-### Tools
+### Tools / Misc
 
-*   [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
 *   [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 *   [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
 *   [MailSpice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
 *   [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
 
@@ -930,35 +929,31 @@
 
 ## [66. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
-### Plugin Manager
-
-*   [rktjmp/pact.nvim (⭐34)](https://github.com/rktjmp/pact.nvim) - Semantic version aware plugin manager 🔪🩸🐐.
-
 ### Project / Diagnostics
 
-*   [otavioschwanck/telescope-alternate.nvim (⭐44)](https://github.com/otavioschwanck/telescope-alternate.nvim) - Alternate between common files using telescope.
-*   [gnikdroy/projections.nvim (⭐92)](https://github.com/gnikdroy/projections.nvim) - Tiny project + session manager.
+*   [otavioschwanck/telescope-alternate.nvim (⭐46)](https://github.com/otavioschwanck/telescope-alternate.nvim) - Alternate between common files using telescope.
+*   [gnikdroy/projections.nvim (⭐99)](https://github.com/gnikdroy/projections.nvim) - Tiny project + session manager.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [gbprod/nord.nvim (⭐22)](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme, based on Nord Palette.
+*   [gbprod/nord.nvim (⭐29)](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme, based on Nord Palette.
 
 ### Note Taking / Diagnostics
 
-*   [phaazon/mind.nvim (⭐558)](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
+*   [phaazon/mind.nvim (⭐612)](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
 
 ### Code Runner / Diagnostics
 
-*   [Civitasv/cmake-tools.nvim (⭐36)](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration.
+*   [Civitasv/cmake-tools.nvim (⭐45)](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration.
 
 ### Tmux / Diagnostics
 
-*   [otavioschwanck/tmux-awesome-manager.nvim (⭐37)](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) - Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc.
+*   [otavioschwanck/tmux-awesome-manager.nvim (⭐41)](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) - Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [otavioschwanck/mood-nvim (⭐31)](https://github.com/otavioschwanck/mood-nvim) - Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
-*   [ldelossa/nvim-ide (⭐539)](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer heavily inspired by VSCode.
+*   [otavioschwanck/mood-nvim (⭐39)](https://github.com/otavioschwanck/mood-nvim) - Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
+*   [ldelossa/nvim-ide (⭐577)](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer heavily inspired by VSCode.
 
 ## [67. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -969,7 +964,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [autorestic (⭐3)](https://github.com/naegling/zsh-autorestic) - automatically installs [Restic (⭐676)](https://github.com/cupcakearmy/autorestic/)'s completions for you, and keeps them up to date as your autorestic version changes.
+*   [autorestic (⭐3)](https://github.com/naegling/zsh-autorestic) - automatically installs [Restic (⭐700)](https://github.com/cupcakearmy/autorestic/)'s completions for you, and keeps them up to date as your autorestic version changes.
 *   [kustomize (⭐11)](https://github.com/ralgozino/oh-my-kustomize) - Adds tab completions for [kustomize](https://kustomize.io/)
 *   [misc-completions (⭐0)](https://github.com/syohex/zsh-misc-completions) - Adds completions for more unix and perl commands.
 *   [tailscale (⭐4)](https://github.com/HeroesLament/zsh-tailscale-plugin) - Tab completion and aliases for [tailscale](https://www.tailscale.com/).
@@ -978,11 +973,11 @@
 
 *   [alesrosina (⭐0)](https://github.com/alesrosina/oh-my-zsh-alesrosina-theme) - Includes decorators for `git` information, current directory and the last command's return status.
 *   [escape (⭐0)](https://github.com/fesmjke/escape/) - Includes decorators for `git` information, username, time, current directory and last command exit status.
-*   [otter (⭐1)](https://github.com/OtterArkar/otter-zsh/) - Otter-themed theme with `git` status, user\@host and current directory decorators.
+*   [otter (⭐2)](https://github.com/OtterArkar/otter-zsh/) - Otter-themed theme with `git` status, user\@host and current directory decorators.
 *   [pog7x (⭐0)](https://github.com/pog7x/pog7x-zsh-theme) - Works with unicode. Includes decorators for `git` information, current directory, last command exit status & execution time, time, virtualenv, nvm, rvm, rust, go, kubernetes context, and elixir.
 *   [pwn (⭐0)](https://github.com/gh05t-4/pwn-theme) - Includes decorators for user\@host, `git` & `hg` status, ruby version, python virtualenv and current working directory.
 *   [random-emoji-robbyrussell (⭐1)](https://github.com/parwatcodes/random-emoji-robbyrussell) - Based on [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) and `robbyrussell` themes.
-*   [rwahasugui (⭐0)](https://github.com/rafawhs/rwahasugui.zsh-theme/) - Includes decorators for `git` information, current time, current working directory and active python  virtualenv.
+*   [rwahasugui (⭐1)](https://github.com/rafawhs/rwahasugui.zsh-theme/) - Includes decorators for `git` information, current time, current working directory and active python  virtualenv.
 
 ## [68. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -1013,7 +1008,7 @@
 
 ### Templates
 
-*   [polkadot-js-api-ts-template (⭐13)](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`
+*   [polkadot-js-api-ts-template (⭐13)](https://github.com/kianenigma/polkadot-js-api-ts-template) - A template project to kickstart hacking on top of `@polkadot/api`.
 
 ### Client Libraries
 
@@ -1021,7 +1016,7 @@
 
 ### Tools
 
-*   [Minimark (⭐1)](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot
+*   [Minimark (⭐1)](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot.
 *   [Subkey](https://docs.substrate.io/reference/command-line-tools/subkey/) - Command line utility for working with cryptographic keys.
 
 ## [71. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
@@ -1172,16 +1167,16 @@
 ### Using ChatGPT in other apps
 
 *   [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
-*   [OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust (⭐726)](https://github.com/sonnylazuardi/chatgpt-desktop)
-*   [ChatGPT for Mac: access from menu bar (⭐2.8k)](https://github.com/vincelwt/chatgpt-mac)
+*   [OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust (⭐816)](https://github.com/sonnylazuardi/chatgpt-desktop)
+*   [ChatGPT for Mac: access from menu bar (⭐3.2k)](https://github.com/vincelwt/chatgpt-mac)
 *   [ChatGPT Chrome extension](https://twitter.com/kazuki_sf_/status/1598955169576013825)
 *   [ChatGPT WhatsApp bot](https://twitter.com/danielgross/status/1598735800497119232)
 *   [ChatGPT Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
-*   [ChatGPT Twitter bot (⭐267)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+*   [ChatGPT Twitter bot (⭐338)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 *   [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
 *   [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
-*   [ChatGPT Discord bot (⭐423)](https://github.com/Zero6992/chatGPT-discord-bot)
-*   [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐215)](https://github.com/oceanlvr/ChatGPT-ProBot)
+*   [ChatGPT Discord bot (⭐565)](https://github.com/Zero6992/chatGPT-discord-bot)
+*   [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐241)](https://github.com/oceanlvr/ChatGPT-ProBot)
 
 ### Assistants
 
@@ -1191,8 +1186,8 @@
 *   [Solving complex academic assignments](https://twitter.com/abhnvx/status/1598258353196929024)
 *   [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
 *   [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
-*   ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐419)](https://github.com/clmnin/summarize.site)
-*   [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐117)](https://github.com/lucasmccabe/emailGPT)
+*   ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐445)](https://github.com/clmnin/summarize.site)
+*   [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐140)](https://github.com/lucasmccabe/emailGPT)
 
 ### Coding
 
@@ -1208,8 +1203,8 @@
 
 ### ChatGPT API
 
-*   ⭐️ [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API (⭐8.7k)](https://github.com/acheong08/ChatGPT)
-*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐2.4k)](https://github.com/rawandahmad698/PyChatGPT)
+*   ⭐️ [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API (⭐10k)](https://github.com/acheong08/ChatGPT)
+*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐2.8k)](https://github.com/rawandahmad698/PyChatGPT)
 *   [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
 
 ### ChatGPT explainers
@@ -1220,7 +1215,7 @@
 ### Conversational
 
 *   [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
-*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐215)](https://github.com/platelminto/chatgpt-conversation)
+*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐288)](https://github.com/platelminto/chatgpt-conversation)
 
 ### Thought-provoking
 
@@ -1237,7 +1232,7 @@
 *   [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
 *   [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
 *   [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-*   [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐707)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+*   [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐749)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 *   [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 *   [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
 

@@ -173,7 +173,7 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
+*   [geeknote (⭐394)](https://github.com/jeffkowalski/geeknote) - Evernote client.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

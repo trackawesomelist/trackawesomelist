@@ -26,8 +26,8 @@
 
 ### Awesome ClojureScript / Routing
 
-*   [Router (⭐78)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
-*   [Secretary (⭐768)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
+*   [Router (⭐79)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
+*   [Secretary (⭐774)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

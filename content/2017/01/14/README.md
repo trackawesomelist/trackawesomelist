@@ -10,7 +10,7 @@
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Macchiato (⭐374)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
+*   [Macchiato (⭐375)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 
 ## [2. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Microphone (⭐454)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
+*   [Microphone (⭐459)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
 *   [Registrator (⭐4.6k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 
 ## [5. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)

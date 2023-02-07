@@ -14,7 +14,7 @@
 
 ### Templates / React
 
-*   [vite-react-tailwind-v3 (⭐7)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+*   [vite-react-tailwind-v3 (⭐9)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 
 ## [2. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -26,16 +26,15 @@
 
 ### Libraries / Go
 
-*   [sleepinggenius2/gosmi) (⭐66)](https://github.com/sleepinggenius2/gosmi) - MIB parser in Go language.
-*   [posteo/go-agentx (⭐47)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
+*   [posteo/go-agentx (⭐49)](https://github.com/posteo/go-agentx) - A library with a pure Go implementation of the AgentX-Protocol.
 
 ### Libraries / Python
 
-*   [pysnmp (⭐502)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
-*   [pysmi (⭐113)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
+*   [pysnmp (⭐506)](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
+*   [pysmi (⭐114)](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
 *   [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default.
-*   [puresnmp (⭐71)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
-*   [snimpy (⭐172)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
+*   [puresnmp (⭐70)](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
+*   [snimpy (⭐174)](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
 *   [python-netsnmpagent (⭐64)](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python.
 *   [hnmp (⭐45)](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
 
@@ -49,10 +48,10 @@
 
 ### Tools / CLIs
 
-*   [snmpsim (⭐315)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+*   [snmpsim (⭐317)](https://github.com/etingof/snmpsim) - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 *   [snmpfwd (⭐61)](https://github.com/etingof/snmpfwd) - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
 *   [snmpclitools (⭐39)](https://github.com/etingof/snmpclitools) - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
-*   [snmpwn (⭐207)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
+*   [snmpwn (⭐208)](https://github.com/hatlord/snmpwn) - SNMPwn is an SNMPv3 user enumerator and attack tool.
 *   [trapperkeeper (⭐79)](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 
 ### Tools / GUIs
@@ -112,7 +111,7 @@
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐279)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐287)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

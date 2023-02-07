@@ -258,7 +258,7 @@
 
 ### Testing
 
-*   [espec (⭐786)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐789)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 

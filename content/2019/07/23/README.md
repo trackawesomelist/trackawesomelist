@@ -112,7 +112,7 @@
 
 ### Development / Database
 
-*   [sqlline (⭐534)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐546)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ## [14. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 

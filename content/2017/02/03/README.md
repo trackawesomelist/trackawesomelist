@@ -60,7 +60,7 @@ Webpage: <https://www.facebook.com/WorkshopCafeBelgium/>
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [Hydrosphere Mist (⭐317)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
+*   [Hydrosphere Mist (⭐318)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 
 ---
 

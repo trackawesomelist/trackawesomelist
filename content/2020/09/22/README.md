@@ -95,7 +95,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [tsParticles (⭐4.7k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐4.8k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Utilities
 
@@ -127,7 +127,7 @@
 
 ### Buttons
 
-*   [reactive-button (⭐100)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
+*   [reactive-button (⭐101)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

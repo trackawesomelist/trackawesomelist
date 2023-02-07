@@ -44,14 +44,14 @@
 
 ### Job Scheduling
 
-*   [Quartz (⭐5.3k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
-*   [Sundial (⭐262)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
-*   [Wisp (⭐104)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
-*   [db-scheduler (⭐705)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
+*   [Quartz (⭐5.4k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
+*   [Sundial (⭐263)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
+*   [Wisp (⭐106)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
+*   [db-scheduler (⭐728)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
 
 ### PDF
 
-*   [OpenPDF (⭐2.5k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
+*   [OpenPDF (⭐2.6k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 
 ### Testing / Matchers
 
@@ -63,7 +63,7 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Math / Other / unknown licence
+### Math / MIT
 
 *   [mandelbrot-ascii (⭐2)](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
@@ -75,7 +75,7 @@
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Detergent](https://detergent.io) - A tool to prepare the text for pasting into HTML: removes invisible Unicode characters (like [ETX](https://www.fileformat.info/info/unicode/char/0003/index.htm) which can come from PSD files), encodes special characters (like turning £ into `&pound;`) and improves typography.
 *   [EmailComb](http://emailcomb.com/) - Email-friendly unused CSS removal tool which does not parse and thus accepts mixed sources, including your ESP templating tags. Extras: CSS uglification and HTML/CSS minification (powered by HTML Crush).
@@ -98,14 +98,14 @@
 
 ### General
 
-*   [Boxicons (⭐2k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
+*   [Boxicons (⭐2.2k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 *   ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Chemistry
 
-*   [Reaktoro (⭐109)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
+*   [Reaktoro (⭐111)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
 
 ### Math
 

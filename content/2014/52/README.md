@@ -14,7 +14,7 @@
 
 ### IoC
 
-*   [LightInject (⭐566)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
+*   [LightInject (⭐567)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -192,7 +192,7 @@
 ### Debug
 
 *   [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. \[LGPL2]
-*   [libtap (⭐230)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
+*   [libtap (⭐231)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
 
 ### Game Engine
 
@@ -211,26 +211,21 @@
 
 *   [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. \[GPL2 or GPL3]
 
-### XML
-
-*   [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
-*   [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. \[LGPL2]
-
 ### JSON
 
-*   [frozen (⭐637)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
+*   [frozen (⭐639)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
 *   [QJson (⭐273)](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. \[LGPL2]
 
 ### Math
 
-*   [Apophenia (⭐186)](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing \[GPL2]
+*   [Apophenia (⭐188)](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing \[GPL2]
 *   [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. \[GPL2]
 
 ### Networking
 
-*   [Mongoose (⭐9k)](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. \[GPL2]
+*   [Mongoose (⭐9.1k)](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. \[GPL2]
 *   [Onion (⭐1.9k)](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. \[Apache2/GPL2]
-*   [Tufão (⭐556)](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
+*   [Tufão (⭐558)](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
 
 ### Scripting
 
@@ -240,11 +235,16 @@
 
 *   [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. \[LGPL2/GPL2]
 
+### XML
+
+*   [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
+*   [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. \[LGPL2]
+
 ### Miscellaneous
 
 *   [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. \[BSD, GPL2]
 *   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Commercial]
-*   [Stage (⭐355)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
+*   [Stage (⭐358)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
 *   [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. \[LGPL2]
 
 ---

@@ -41,7 +41,7 @@
 
 ### Extensions
 
-*   [next-iron-session (⭐2.2k)](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data
+*   [next-iron-session (⭐2.3k)](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [VueFront (⭐378)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
+*   [VueFront (⭐377)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 
 ### Components & Libraries / UI Utilities
 
@@ -193,7 +193,7 @@
 
 ### Development / Docker
 
-*   [docker-shell (⭐356)](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
+*   [docker-shell (⭐362)](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
 
 ## [12. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
@@ -205,12 +205,12 @@
 
 ### Testing
 
-*   [Testing (⭐1.1k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+*   [Testing (⭐1.2k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 *   [Visual Regression Testing (⭐1.8k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐862)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Selenium (⭐869)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
 *   [Appium (⭐392)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 *   [TAP (⭐592)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐584)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [JMeter (⭐587)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

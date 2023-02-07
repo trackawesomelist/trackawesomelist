@@ -24,7 +24,7 @@
 
 ### Build Tools
 
-*   [reaxt (⭐363)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐364)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 

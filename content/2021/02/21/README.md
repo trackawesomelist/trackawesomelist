@@ -32,16 +32,16 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐399)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐411)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot GamePad (⭐103)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐745)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [Godot GamePad (⭐104)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [SmartShape2D (⭐753)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 
-*   [Godex (⭐760)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [Godex (⭐781)](https://github.com/GodotECS/godex) - An entity component system library.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Software / Miscellaneous
 
-*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐12)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
+*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐13)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
 
 ## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Overlay
 
-*   [reboron (⭐27)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
+*   [reboron (⭐28)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 
 ---
 

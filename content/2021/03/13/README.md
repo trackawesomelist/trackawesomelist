@@ -50,7 +50,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [EffekseerForGodot3 (⭐109)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
+*   [EffekseerForGodot3 (⭐112)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 
 ## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Demo
 
-*   [Sitecore.Demo.Headless (⭐22)](https://github.com/Sitecore/Sitecore.Demo.Headless) - Sitecore JSS PWA demo assets and future "Sitecore Headless" related demo assets.
+*   [Sitecore.Demo.Headless (⭐23)](https://github.com/Sitecore/Sitecore.Demo.Headless) - Sitecore JSS PWA demo assets and future "Sitecore Headless" related demo assets.
 
 ## [9. Awesome Math](/content/rossant/awesome-math/README.md)
 

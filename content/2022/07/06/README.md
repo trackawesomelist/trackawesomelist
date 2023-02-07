@@ -28,34 +28,21 @@
 
 ### Specialty Topics / Shaders
 
-*   Shaders: - General -
-    *   📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat: (⭐14k)](https://github.com/lettier/3d-game-shaders-for-beginners) - 🔥 Wide range of shaders to improve your games.
-    *   📚 [Book of Shaders](https://thebookofshaders.com) [:octocat: (⭐4.8k)](https://github.com/patriciogonzalezvivo/thebookofshaders) - 🔥 Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
-    *   🌎 [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat: (⭐203)](https://github.com/alaingalvan/CrossShader) - Cross compiling shaders. Convert between GLSL, HLSL, Metal and more.
-    *   🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Post processing, lighting, utlities and many, many more.
-    *   📚 [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - Differences between HLSL, GLSL, MSL, and WGSL.
-    *   📚 [Ronja Tutorials](https://www.ronja-tutorials.com/) - Great tutorials covering many shader techniques.
-    *   🌎 [Shader Park](https://shaderpark.com/) [:octocat: (⭐494)](https://github.com/shader-park/shader-park-core) - Shader programming in JavaScript.
-    *   🌎 [SHADERed](https://shadered.org/) [:octocat: (⭐3.7k)](https://github.com/dfranx/SHADERed) - Shader IDE, written in C++, open source (MIT). \[[Online Editor](https://shadered.org/app)]
-    *   🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
+*   📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) - 🔥 Shaders to improve your games. \[[Source (⭐14k)](https://github.com/lettier/3d-game-shaders-for-beginners)]
 
 ### Specialty Topics / Signed Distance Fields
 
-*   📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) - Amazing list of signed distance functions for basic 2D primitives.
-
-### Specialty Topics / Tiling
-
-*   📚 [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) - How to use tile bitmasking to auto-tile your level layouts.
+*   📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) - Signed distance functions for basic 2D primitives.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [zpy (⭐38)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐6.5k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐40)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐6.6k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [kubectl-plugin (⭐7)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
+*   [kubectl-plugin (⭐8)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -124,7 +111,7 @@
 
 ### Design and Product / Design Tools
 
-*   [ScreenToLayers (⭐121)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
+*   [ScreenToLayers (⭐122)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
 
 ### Audio and Video Tools / File Sharing
 

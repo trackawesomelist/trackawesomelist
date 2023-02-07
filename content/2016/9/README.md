@@ -148,7 +148,7 @@
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [Foundation for Emails (⭐7.7k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 
@@ -360,12 +360,12 @@ git log Branch1 ^Branch2
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐243)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐247)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐916)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐923)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 

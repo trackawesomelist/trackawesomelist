@@ -69,7 +69,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Spark NLP (⭐3k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+*   [Spark NLP (⭐3.1k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

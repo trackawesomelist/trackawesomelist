@@ -37,7 +37,7 @@
 
 ### Frameworks / Runtimes
 
-*   [Grenache (⭐208)](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
+*   [Grenache (⭐207)](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

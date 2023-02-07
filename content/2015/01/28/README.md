@@ -15,7 +15,7 @@
 
 ### Applications
 
-*   [poxa (⭐990)](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
+*   [poxa (⭐991)](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 
 ### Authentication
 
@@ -27,7 +27,7 @@
 
 ### Build Tools
 
-*   [remix (⭐145)](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
+*   [remix (⭐147)](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
 *   [sass\_elixir (⭐1)](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
 
 ### Code Analysis
@@ -58,13 +58,13 @@
 
 ### Framework Components
 
-*   [cors\_plug (⭐377)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
+*   [cors\_plug (⭐380)](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 *   [plug\_accesslog (⭐30)](https://github.com/mneudert/plug_accesslog) - Plug for writing access logs.
 *   [trailing\_format\_plug (⭐24)](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 
 ### HTTP
 
-*   [exvcr (⭐637)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
+*   [exvcr (⭐639)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 
 ### Images
 
@@ -72,7 +72,7 @@
 
 ### JSON
 
-*   [jsx (⭐672)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
+*   [jsx (⭐671)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 
 ### Miscellaneous
 
@@ -99,10 +99,10 @@
 
 ### Testing
 
-*   [faker (⭐909)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
+*   [faker (⭐915)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 *   [mix\_eunit (⭐16)](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.
 *   [mixunit (⭐2)](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
-*   [mock (⭐585)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
+*   [mock (⭐584)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 
 ### Text and Numbers
 
@@ -114,7 +114,7 @@
 ### Third Party APIs
 
 *   [balanced (⭐4)](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
-*   [commerce\_billing (⭐175)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
+*   [commerce\_billing (⭐176)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 *   [exgravatar (⭐20)](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
 *   [extwitter (⭐399)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 

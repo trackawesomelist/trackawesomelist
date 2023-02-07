@@ -397,7 +397,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Miscellaneous
 
-*   [Vert.x Boot (⭐43)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
+*   [Vert.x Boot (⭐44)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
 
 ## [28. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -533,7 +533,7 @@ Webpage: <https://edinburghhacklab.com/>
 ### Database
 
 *   [SQLiteC++ (⭐1.6k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐719)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [sqlite\_modern\_cpp (⭐727)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [40. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -633,7 +633,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### OCR Tools / Telegram
 
-*   [OCRmyPDF (⭐8k)](https://github.com/jbarlow83/OCRmyPDF/)
+*   [OCRmyPDF (⭐8.1k)](https://github.com/jbarlow83/OCRmyPDF/)
 
 ## [48. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -652,8 +652,8 @@ Webpage: <https://edinburghhacklab.com/>
 ### API Gateway / Symfony2
 
 *   [Kong (⭐34k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐8k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
-*   [API Umbrella (⭐1.8k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
+*   [Tyk API Gateway (⭐8.1k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [API Umbrella (⭐1.9k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
 ### SaaS Tools / Symfony2
 
@@ -673,7 +673,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Resources / Examples
 
-*   [Skeleton Vue+TypeScript (⭐25)](https://github.com/SierraSoftworks/vue-template) - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
+*   [Skeleton Vue+TypeScript (⭐26)](https://github.com/SierraSoftworks/vue-template) - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
 
 ### Resources / Books
 

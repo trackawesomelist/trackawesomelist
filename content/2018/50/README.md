@@ -50,7 +50,7 @@
 
 ### Types / Playground
 
-*   [ts-essentials (⭐2.8k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
+*   [ts-essentials (⭐2.9k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 
 ## [8. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐770)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue-hotel-datepicker (⭐775)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
 *   [vue2-persian-datepicker (⭐100)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities
@@ -223,7 +223,7 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Slimv\_box (⭐11)](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
+*   [Slimv\_box (⭐12)](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
 
 ## [29. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -243,19 +243,19 @@
 
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
-*   [somafm-cli (⭐112)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-*   [mpd (⭐1.7k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+*   [somafm-cli (⭐117)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+*   [mpd (⭐1.8k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
-*   [musikcube (⭐3.3k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+*   [musikcube (⭐3.4k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 
 ### Development / Text Editors
 
-*   [emacs (⭐3.6k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
+*   [emacs (⭐3.8k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
 *   [vim (⭐29k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
 
 ### Files and Directories / File Managers
 
-*   [ranger (⭐12k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [ranger (⭐13k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 *   [midnight-commander (⭐1.9k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 
 ## [32. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
@@ -285,24 +285,24 @@
 
 ## [36. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Online / Other / unknown licence
+### Online / MIT
 
 *   [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with.
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 *   [bare-bones (⭐75)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 
-### Games / Other / unknown licence
+### Games / MIT
 
 *   [co-terminal-apps (⭐23)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [gnatcoll-json (⭐5)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
@@ -320,7 +320,7 @@
 
 ### Logging
 
-*   [plog (⭐1.6k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
+*   [plog (⭐1.7k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
 
 ### Physics
 
@@ -332,11 +332,11 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐555)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐556)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
-*   [Cget (⭐417)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
+*   [Cget (⭐422)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
 ## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -820,7 +820,7 @@ Topics: React, JavaScript, jQuery\
 
 ### Application Frameworks
 
-*   [ABP (⭐9.3k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
+*   [ABP (⭐9.4k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
 
 ### Books
 

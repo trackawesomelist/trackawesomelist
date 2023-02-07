@@ -60,7 +60,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [JSON Editor (⭐216)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [JSON Editor (⭐215)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 

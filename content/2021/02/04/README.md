@@ -618,7 +618,7 @@ Language: English \ <br>
 
 ### Boilerplate / Mouse Events
 
-*   [rockpack (⭐491)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
+*   [rockpack (⭐490)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 
 ### Server-Side Rendering / Lazy Load
 

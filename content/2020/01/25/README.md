@@ -8,9 +8,9 @@
 
 ## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Machine Learning / General Purpouse Machine Learning
+### Machine Learning / General Purpose Machine Learning
 
-*   [Karate Club (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data.
+*   [Karate Club (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

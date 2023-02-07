@@ -104,17 +104,17 @@
 
 ## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Email boilerplate (⭐3.8k)](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 *   [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 
-### Services
+### Services / Misc
 
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 *   [Postal (⭐12k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
-### Copy
+### Copy / Misc
 
 *   [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
@@ -122,7 +122,7 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐5.5k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐5.6k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -501,7 +501,7 @@
 
 ### C bindings
 
-*   [crt.cr (⭐30)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+*   [crt.cr (⭐29)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
 *   [duktape.cr (⭐134)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.5k)](https://github.com/svaarala/duktape) javascript engine
 *   [gphoto2.cr (⭐15)](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
 *   [icu.cr (⭐11)](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
@@ -522,7 +522,7 @@
 
 ### Project Generators
 
-*   [libgen (⭐71)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
+*   [libgen (⭐73)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ### Routing
 
@@ -573,7 +573,7 @@
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐483)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐484)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
@@ -593,7 +593,7 @@
 
 ### Static Page Generation
 
-*   [serum (⭐292)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
+*   [serum (⭐294)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
 ## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

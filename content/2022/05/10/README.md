@@ -57,22 +57,22 @@
 
 ### Static Code Analysis
 
-*   [OptView2 (⭐59)](https://github.com/OfekShilon/optview2) - Inspect missed Clang optimizations
+*   [OptView2 (⭐77)](https://github.com/OfekShilon/optview2) - Inspect missed Clang optimizations
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [zi-rbenv (⭐5)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi (⭐428)](https://github.com/z-shell/zi/).
+*   [zi-rbenv (⭐5)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi (⭐436)](https://github.com/z-shell/zi/).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [brew-completions (⭐6)](https://github.com/z-shell/brew-completions) - Brings [Homebrew Shell Completion](https://docs.brew.sh/Shell-Completion) under the control of ZSH & [ZI (⭐428)](https://github.com/z-shell/zi/).
-*   [click-completion (⭐265)](https://github.com/click-contrib/click-completion) - Add automatic completion support for [Click](http://click.pocoo.org/), including displaying the options and commands help during the tab completion.
+*   [brew-completions (⭐6)](https://github.com/z-shell/brew-completions) - Brings [Homebrew Shell Completion](https://docs.brew.sh/Shell-Completion) under the control of ZSH & [ZI (⭐436)](https://github.com/z-shell/zi/).
+*   [click-completion (⭐266)](https://github.com/click-contrib/click-completion) - Add automatic completion support for [Click](http://click.pocoo.org/), including displaying the options and commands help during the tab completion.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [021011 (⭐32)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
+*   [021011 (⭐33)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -108,8 +108,8 @@
 
 ### Tools & Utilities / Others
 
-*   [BlazorAntivirusProtection (⭐58)](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=86400) Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution.
-*   [Phork.Blazor.Reactivity (⭐14)](https://github.com/phorks/phork-blazor-reactivity) - ![last commit](https://img.shields.io/github/last-commit/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=86400) An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components.
+*   [BlazorAntivirusProtection (⭐60)](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=86400) Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution.
+*   [Phork.Blazor.Reactivity (⭐16)](https://github.com/phorks/phork-blazor-reactivity) - ![stars](https://img.shields.io/github/stars/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=86400) An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components.
 
 ### Videos / Others
 
@@ -118,7 +118,7 @@
 *   [ASP.NET Community Standup - Blazorators: Blazor C# Source Generators](https://www.youtube.com/watch?v=U8XriF2zxS0) - ![duration](https://img.shields.io/badge/Duration:%20-57%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 12, 2022 - David Pine introduces Blazorators, Blazor C# Source Generators on this month's Blazor Community Standup. [Community links](https://www.theurlist.com/blazor_community_standup_april_2022).
 *   [.NET MAUI Blazor - Build Hybrid Mobile, Desktop, and Web apps](https://www.youtube.com/watch?v=qkzyqDUjPHs) - ![duration](https://img.shields.io/badge/Duration:%20-47%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 1, 2022 - Blazor enables building client-side web UI with .NET, but sometimes you need more than what the web platform offers. Sometimes you need full access to the native capabilities of the device. You can now host Blazor components in .NET MAUI apps to build cross-platform native apps using web UI. The components run natively in the .NET process and render web UI to an embedded web view control using a local interop channel. This hybrid approach gives you the best of native and the web. Your components can access native functionality through the .NET platform, and they render standard web UI. .NET MAUI Blazor apps can run anywhere .NET MAUI can (Windows, Mac, iOS, and Android).
 *   [ASP.NET Community Standup - Native client apps with Blazor Hybrid](https://www.youtube.com/watch?v=7UM6s0QPvRQ) - ![duration](https://img.shields.io/badge/Duration:%20-88%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Mars 8, 2022 - Join this Blazor Community Standup to learn more about using Blazor Hybrid to create cross-platform native client apps for Windows, iOS, Android & Mac. [Community links](https://www.theurlist.com/blazor_community_standup_march_2022).
-*   [Learn C# with CSharpFritz - Blazor Application Hosting](https://www.youtube.com/watch?v=AYXx5vPFzFo) - ![duration](https://img.shields.io/badge/Duration:%20-124%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 28, 2022 - You've built your Blazor application, now where do you run it?  In this demo filled session, Fritz will talk through Progressive Web Apps, packaging with Docker, and deploying your Blazor application to Azure. [Community links (⭐554)](https://github.com/csharpfritz/csharp_with_csharpfritz).
+*   [Learn C# with CSharpFritz - Blazor Application Hosting](https://www.youtube.com/watch?v=AYXx5vPFzFo) - ![duration](https://img.shields.io/badge/Duration:%20-124%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 28, 2022 - You've built your Blazor application, now where do you run it?  In this demo filled session, Fritz will talk through Progressive Web Apps, packaging with Docker, and deploying your Blazor application to Azure. [Community links (⭐560)](https://github.com/csharpfritz/csharp_with_csharpfritz).
 *   [ASP.NET Community Standup - Blazor .NET 7 Roadmap](https://www.youtube.com/watch?v=3o91I6lD-Bo) - ![duration](https://img.shields.io/badge/Duration:%20-88%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 8, 2022 - Find out what's being planned for Blazor in .NET 7. [Community links](https://www.theurlist.com/blazor_community_standup_february_2022).
 
 ### Articles / Others
@@ -149,7 +149,7 @@
 
 ### Explainability / Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐6.6k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐6.7k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 ## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

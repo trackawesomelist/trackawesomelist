@@ -10,7 +10,7 @@
 
 ### Software / Monitoring
 
-*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
+*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐1.8k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
 
 ## [2. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -72,11 +72,11 @@
 
 ### Job Scheduler
 
-*   [goflow (⭐94)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
+*   [goflow (⭐97)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
 
 ### Uncategorized
 
-*   [xz (⭐400)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐401)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
@@ -129,11 +129,11 @@
 
 ### Machine Learning and Data Science
 
-*   [F# Data (⭐748)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+*   [F# Data (⭐751)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
 ### Testing
 
-*   [xBehave.net (⭐385)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language.
+*   [xBehave.net (⭐384)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language.
 
 ## [13. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 

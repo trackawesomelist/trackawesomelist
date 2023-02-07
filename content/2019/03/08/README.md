@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -43,13 +43,7 @@
 
 *   [purescript-react-basic-hooks (⭐187)](https://github.com/spicydonuts/purescript-react-basic-hooks) - An alternative way to define React components using React's "hooks" APIs. Compatible with `purescript-react-basic`.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### List of Licenses / Wikis
-
-*   `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
-
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Sliders
 
@@ -59,7 +53,7 @@
 
 *   [Beacon broadcast (⭐75)](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 
-## [6. Bots](/content/hackerkid/bots/README.md)
+## [5. Bots](/content/hackerkid/bots/README.md)
 
 ### Tools For Building Bots
 
@@ -69,51 +63,51 @@
 
 *   [BotStar](https://www.botstar.com) - A fullfledged chatbot platform but the visual editor can be used as a mockup tool as well.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment
 
-*   [newsboat (⭐2.2k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
+*   [newsboat (⭐2.3k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Development / Devops
 
-*   [htconvert (⭐178)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+*   [htconvert (⭐180)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 
 ### Just for Fun / Image Conversion
 
-*   [quote-cli (⭐68)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
+*   [quote-cli (⭐72)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 
 ### Just for Fun / Emoji
 
-*   [emoj (⭐2.2k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-*   [emoji-finder (⭐19)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-*   [oji (⭐693)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+*   [emoj (⭐2.3k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+*   [emoji-finder (⭐23)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
+*   [oji (⭐696)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
-## [8. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### General / Other
 
 *   [Strong node.js (⭐472)](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Resources / Videos
 
 *   [Learn Wagtail](https://learnwagtail.com/) - Regular video tutorials about all aspects of Wagtail.
 
-## [10. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Communications security (COMSEC) / Service meshes
 
 *   [GPG Sync (⭐332)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Proxy and VPN Tools / File Sharing
 
 *   [ClashX (⭐22k)](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 

@@ -34,7 +34,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐671)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐678)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

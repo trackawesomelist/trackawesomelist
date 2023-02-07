@@ -10,37 +10,37 @@
 
 ### Overview / Discord
 
-*   [gtkcord4 (⭐307)](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+*   [gtkcord4 (⭐401)](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Build and Package / Other / unknown licence
+### Build and Package / MIT
 
 *   [cmake-ada-cho3 (⭐0)](https://github.com/cho3/cmake-ada) - CMake language support for Ada, fork of [plplot](https://sourceforge.net/projects/plplot/)'s cross-platform support code.
 
-### Games / Other / unknown licence
+### Games / MIT
 
 *   [civ-klon (⭐12)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐20)](https://github.com/mgrojo/ASFML).
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
 *   [ada-gui (⭐25)](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga](https://sourceforge.net/projects/gnoga/).
 
-### Graphics and Multimedia / Other / unknown licence
+### Graphics and Multimedia / MIT
 
 *   [plplot](https://sourceforge.net/projects/plplot/) - Cross-platform, scientific graphics plotting library, including an Ada binding.
 
-### Automation / Other / unknown licence
+### Automation / MIT
 
 *   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐76)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
 
-### Shells, Interpreters and Emulators / Other / unknown licence
+### Shells, Interpreters and Emulators / MIT
 
 *   [dashera (⭐33)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
 *   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
 
-### Misc / Other / unknown licence
+### Misc / MIT
 
 *   [whitakers-words (⭐224)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 *   [ada-chess](http://www.adachess.com/) - Chess engine written in Ada.
@@ -49,7 +49,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [wait-for (⭐8)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
+*   [wait-for (⭐11)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vuepic/vue-datepicker (⭐528)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
+*   [@vuepic/vue-datepicker (⭐559)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
 ## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 

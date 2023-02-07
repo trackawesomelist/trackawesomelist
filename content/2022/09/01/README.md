@@ -58,7 +58,7 @@
 
 ### Messaging / Scala
 
-*   [Redpanda (⭐5.1k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
+*   [Redpanda (⭐6k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
 
 ## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

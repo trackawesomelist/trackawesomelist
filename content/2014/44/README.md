@@ -20,7 +20,7 @@
 
 ### Web server Benchmarks / Meetups
 
-*   [wrk (⭐33k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+*   [wrk (⭐34k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
     processing, and custom reporting)
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)

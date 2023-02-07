@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2022
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [ddc (⭐19)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐515)](https://github.com/Shougo/ddc.vim).
+*   [ddc (⭐19)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐520)](https://github.com/Shougo/ddc.vim).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -37,7 +37,7 @@
 
 ## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Theoretical Computer Science
+### Programming
 
 *   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 
@@ -57,55 +57,49 @@
 
 *   [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - Simple format that gives a consistent and easy way to hyperlink between resources in your API.
 
-## [8. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
-
-### Code samples and snippets
-
-*   [EsriDevSummit](https://github.com/esridevsummit/) - Supplemental source code, example projects, and resources supporting DevSummit technical sessions.
-
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [template-vite-react (⭐78)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
+*   [template-vite-react (⭐80)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [@vituum/vite-plugin-handlebars (⭐1)](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
-*   [@vituum/vite-plugin-pug (⭐1)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
+*   [@vituum/vite-plugin-pug (⭐2)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
 *   [@vituum/vite-plugin-nunjucks (⭐2)](https://github.com/vituum/vite-plugin-nunjucks) - Nunjucks template engine support, transforms `.njk` templates to `.html`.
 *   [@vituum/vite-plugin-liquid (⭐0)](https://github.com/vituum/vite-plugin-liquid) - Liquid template engine support, transforms `.liquid` templates to `.html`.
 *   [@vituum/vite-plugin-twig (⭐7)](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`.
 *   [@vituum/vite-plugin-latte (⭐1)](https://github.com/vituum/vite-plugin-latte) - Latte template engine support, transforms `.latte` templates to `.html`.
-*   [@vituum/vite-plugin-posthtml (⭐1)](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
+*   [@vituum/vite-plugin-posthtml (⭐2)](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
 *   [@vituum/vite-plugin-juice (⭐2)](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
 
-## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [PyTypes (⭐7)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
 
-## [11. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [10. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Ebook
 
 *   [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts) - The first ebook about the VideoLAN non-profit organization and the opensource LibVLC developer SDK.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Using .NET 7's Blazor Custom Elements to render dynamic content](https://jonhilton.net/blazor-custom-elements/) - October 5, 2022 - Using .NET 7's Blazor Custom Elements to render dynamic content, by Jon Hilton.
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [LunaSec](https://www.lunasec.io) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
 *   [Rezilion](https://www.rezilion.com/) :copyright: — Discovers vulnerabilities for all components in your environment, filters out 85% non-exploitable vulnerabilities and creates a  remediation plan and open tickets to upgrade components that violate your security policy and/or patch automatically in CI.
 
-## [14. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Static site generation
 
@@ -165,7 +159,7 @@
 
 *   [Outreachy website (⭐187)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
-## [15. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### 2FA
 
@@ -181,7 +175,7 @@
 *   [Antennapod](https://antennapod.org) - A podcast player that is completely open. Subscribe to any RSS feed.
 *   [Castopod](https://castopod.org) - Self-host your podcasts with ease, keep control over what you create and talk to your audience without any middleman. Your podcast and your audience belong to you and you only.
 
-## [16. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Videos:
 
@@ -222,7 +216,7 @@
 
 
 
-## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 

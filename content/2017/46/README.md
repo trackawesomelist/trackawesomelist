@@ -34,7 +34,7 @@
 
 ### Tools and Apps / Habit Trackers
 
-*   [Loop Habit Tracker (⭐5.8k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐5.9k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -116,7 +116,7 @@
 
 ### CLI
 
-*   [Taywee/args (⭐1k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
+*   [Taywee/args (⭐1.1k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
 *   [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. \[MIT]
 
 ### Cryptography
@@ -138,7 +138,7 @@
 *   [CppVerbalExpressions (⭐362)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
 *   [RE2 (⭐7.5k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐505)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
+*   [SLRE (⭐507)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
 
 ## [17. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 

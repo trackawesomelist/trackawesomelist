@@ -72,13 +72,13 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [GodotOnReady (⭐99)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
+*   [GodotOnReady (⭐101)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
-*   [Container Asset Image Creator Module (⭐8)](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module.
+*   [Container Asset Image Creator Module (⭐9)](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [pytorch\_tabular (⭐800)](https://github.com/manujosephv/pytorch_tabular)
+*   [pytorch\_tabular (⭐815)](https://github.com/manujosephv/pytorch_tabular)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 

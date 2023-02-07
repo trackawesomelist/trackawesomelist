@@ -104,7 +104,7 @@ Free
 
 ### Other Awesome Projects
 
-*   [Awesome Modern C++ (⭐9.8k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
+*   [Awesome Modern C++ (⭐9.9k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

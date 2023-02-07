@@ -59,7 +59,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [IBI Data Tools (⭐88)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐26)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐131)](https://github.com/conveyal/gtfs-editor).)
+*   [IBI Data Tools (⭐92)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐26)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐131)](https://github.com/conveyal/gtfs-editor).)
 
 ## [6. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
@@ -103,7 +103,7 @@
 
 ### CMS & Blogs
 
-*   [Hummingbird CMS (⭐5)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
+*   [Hummingbird CMS (⭐6)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
 ## [12. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

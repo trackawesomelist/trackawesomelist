@@ -94,7 +94,7 @@
 
 ### Plugins
 
-*   🧩 [Perspective (⭐82)](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
+*   🧩 [Perspective (⭐87)](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 

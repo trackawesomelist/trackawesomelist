@@ -62,7 +62,7 @@
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Resources
+### Resources / Misc
 
 *   [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 

@@ -14,7 +14,7 @@
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open source email templates.
 

@@ -26,7 +26,7 @@
 
 ### National government datasets
 
-*   [European long-distance transport operators (EU) *(Unofficial)* (⭐46)](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
+*   [European long-distance transport operators (EU) *(Unofficial)* (⭐47)](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
 
 ### Proprietary (non-standard) vendor APIs
 
@@ -34,11 +34,11 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [gtfs-utils (⭐22)](https://github.com/public-transport/gtfs-utils) – Utilities to process GTFS data sets (e.g., "flattening" `calendar.txt` & `calendar_dates.txt`, computing arrival/departure times of trips).
+*   [gtfs-utils (⭐23)](https://github.com/public-transport/gtfs-utils) – Utilities to process GTFS data sets (e.g., "flattening" `calendar.txt` & `calendar_dates.txt`, computing arrival/departure times of trips).
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [hafas-gtfs-rt-feed (⭐6)](https://github.com/derhuerst/hafas-gtfs-rt-feed) – A Javascript tool to generate a GTFS Realtime feed from a HAFAS endpoint.
+*   [hafas-gtfs-rt-feed (⭐8)](https://github.com/derhuerst/hafas-gtfs-rt-feed) – A Javascript tool to generate a GTFS Realtime feed from a HAFAS endpoint.
 
 ## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -62,13 +62,13 @@
 
 ### Concurrency
 
-*   [stdgpu (⭐770)](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. \[Apache2]
+*   [stdgpu (⭐813)](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. \[Apache2]
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
-*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐179)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
+*   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐183)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

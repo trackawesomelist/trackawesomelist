@@ -89,21 +89,21 @@
 
 ### Decentralized Systems
 
-*   [EOSIO (⭐68)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+*   [EOSIO (⭐69)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ### Miscellaneous
 
-*   [Scientific Computing (⭐946)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐205)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Scientific Computing (⭐954)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+*   [Amazon Sellers (⭐209)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Search
 
-*   [happyfinder (⭐321)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-*   [find-up-cli (⭐30)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐34k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-*   [fzf (⭐48k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+*   [happyfinder (⭐324)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
+*   [find-up-cli (⭐29)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
+*   [ripgrep (⭐35k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [fzf (⭐50k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

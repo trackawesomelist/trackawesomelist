@@ -50,7 +50,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐352)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐353)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

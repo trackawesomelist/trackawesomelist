@@ -10,7 +10,7 @@
 
 ### Math
 
-*   [universal (⭐296)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license] [website](http://www.stillwater-sc.com/assets/content/stillwater-universal-sw.html)
+*   [universal (⭐301)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ## [2. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐98k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐99k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 ### Rails Monitoring Stack   [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 

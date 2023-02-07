@@ -96,7 +96,7 @@
 ### Cache
 
 *   [Cache Tuner (⭐0)](https://github.com/KayeeNL/CacheTuner) - The module is an implementation of the rules given in Sitecore Caching guide.
-*   [Caching Manager (⭐0)](https://github.com/jbluemink/SitecoreCachingManager) - A console for easy Sitecore 10 cache management.
+*   [Caching Manager (⭐1)](https://github.com/jbluemink/SitecoreCachingManager) - A console for easy Sitecore 10 cache management.
 *   [Cache Processing Instance (⭐2)](https://github.com/ParTech/Cache-Processing-Instance) - A proof-of-concept for a dedicated HTML cache processing instance.
 
 ## [7. Awesome Flask](/content/mjhea0/awesome-flask/README.md)

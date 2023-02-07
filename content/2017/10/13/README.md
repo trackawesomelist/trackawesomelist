@@ -39,7 +39,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [My Animation List (⭐72)](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
+*   [My Animation List (⭐73)](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

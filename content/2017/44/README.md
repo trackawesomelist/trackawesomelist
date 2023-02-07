@@ -109,7 +109,7 @@
 *   [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) Stéphanie Florence Visser. (2016)
 *   [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) Krzysztof Urbański, Stanisław Gruszczyńsk. (2016)
 *   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/\~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
-*   [Understanding random forests: from theory to practice (⭐498)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
+*   [Understanding random forests: from theory to practice (⭐499)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
 
 ## [13. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Frameworks
 
-*   [abseil-cpp (⭐11k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
+*   [abseil-cpp (⭐12k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
 
 ### JSON
 
@@ -794,17 +794,17 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [Bayesian Methods for Hackers (⭐25k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python.
 *   [Featureforge (⭐380)](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
 *   [thinking bayes (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
-*   [nilearn (⭐919)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
-*   [Theano (⭐9.6k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
-*   [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+*   [nilearn (⭐924)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
+*   [Theano (⭐9.7k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
+*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
 *   [Neural Networks and Deep Learning (⭐14k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
 *   [Annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
-*   [skbayes (⭐480)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
+*   [skbayes (⭐483)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
 *   [Xcessiv (⭐1.3k)](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 
 ### C++ / Natural Language Processing
 
-*   [BLLIP Parser (⭐218)](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser).
+*   [BLLIP Parser (⭐217)](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser).
 
 ### Common Lisp / General-Purpose Machine Learning
 
@@ -859,36 +859,36 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 *   [MLBase (⭐179)](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms.
 *   [DA (⭐9)](https://github.com/trthatcher/DiscriminantAnalysis.jl) - Julia package for Regularized Discriminant Analysis.
-*   [Mixed Models (⭐343)](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models.
-*   [Decision Tree (⭐7)](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
+*   [Mixed Models (⭐345)](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models.
+*   [Decision Tree (⭐8)](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
 *   [Neural (⭐47)](https://github.com/compressed/BackpropNeuralNet.jl) - A neural network in Julia.
 *   [Mamba (⭐250)](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia.
-*   [GLM (⭐513)](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
-*   [Gaussian Processes (⭐283)](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
+*   [GLM (⭐517)](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
+*   [Gaussian Processes (⭐284)](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
 *   [GLMNet (⭐88)](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
-*   [Kernel Density (⭐137)](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
-*   [NMF (⭐78)](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization.
-*   [XGBoost (⭐246)](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia.
+*   [Kernel Density (⭐138)](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
+*   [NMF (⭐82)](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization.
+*   [XGBoost (⭐249)](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia.
 *   [ManifoldLearning (⭐78)](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction.
 *   [Merlin (⭐145)](https://github.com/hshindo/Merlin.jl) - Flexible Deep Learning Framework in Julia.
 *   [ROCAnalysis (⭐28)](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers.
-*   [GaussianMixtures (⭐81)](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
-*   [ScikitLearn (⭐513)](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
+*   [GaussianMixtures (⭐83)](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
+*   [ScikitLearn (⭐514)](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
 *   [Knet (⭐1.4k)](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 
 ### Julia / Data Analysis / Data Visualization
 
 *   [Graph Layout (⭐48)](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia.
-*   [LightGraphs (⭐679)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph modelling and analysis.
-*   [Hypothesis Tests (⭐251)](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
-*   [RDataSets (⭐150)](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R.
+*   [LightGraphs (⭐678)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph modelling and analysis.
+*   [Hypothesis Tests (⭐253)](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
+*   [RDataSets (⭐152)](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R.
 *   [Time Series (⭐310)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
 *   [Sampling (⭐1)](https://github.com/lindahua/Sampling.jl) - Basic sampling algorithms for Julia.
 
 ### Julia / Misc Stuff / Presentations
 
 *   [JuliaCon Presentations (⭐69)](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon.
-*   [Images (⭐492)](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
+*   [Images (⭐494)](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
 
 ### Lua / Demos and Scripts
 
@@ -907,10 +907,10 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 ### Python / Natural Language Processing
 
 *   [Quepy (⭐1.2k)](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
-*   [python-ucto (⭐27)](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages).
+*   [python-ucto (⭐28)](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages).
 *   [Fuzzy Wuzzy (⭐8.8k)](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
 *   [textacy (⭐2k)](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy.
-*   [CLTK (⭐756)](https://github.com/cltk/cltk) - The Classical Language Toolkit.
+*   [CLTK (⭐755)](https://github.com/cltk/cltk) - The Classical Language Toolkit.
 *   [yase (⭐12)](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector .
 *   [Polyglot (⭐2.1k)](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
 *   [DrQA (⭐4.3k)](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions.
@@ -946,11 +946,11 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 *   [kaggle amazon (⭐27)](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge.
 *   [kaggle-bestbuy\_big (⭐9)](https://github.com/zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle.
 *   [Kaggle Dogs vs. Cats (⭐68)](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dogs vs. Cats competition.
-*   [Kaggle Galaxy Challenge (⭐483)](https://github.com/benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle.
+*   [Kaggle Galaxy Challenge (⭐486)](https://github.com/benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle.
 *   [Kaggle Gender (⭐22)](https://github.com/zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting.
 *   [Kaggle Merck (⭐10)](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle.
 *   [Kaggle Stackoverflow (⭐47)](https://github.com/zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow.
-*   [wine-quality (⭐22)](https://github.com/zygmuntz/wine-quality) - Predicting wine quality.
+*   [wine-quality (⭐23)](https://github.com/zygmuntz/wine-quality) - Predicting wine quality.
 
 ### Ruby / Natural Language Processing
 
@@ -958,17 +958,17 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [Awesome Machine Learning with Ruby (⭐1.8k)](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
+*   [Awesome Machine Learning with Ruby (⭐1.9k)](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
 *   [rb-libsvm (⭐276)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
 
 ### Ruby / Data Analysis / Data Visualization
 
-*   [rsruby (⭐329)](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge.
+*   [rsruby (⭐330)](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge.
 
 ### R / General-Purpose Machine Learning
 
 *   [biglasso](https://cran.r-project.org/web/packages/biglasso/index.html) - biglasso: Extending Lasso Model Fitting to Big Data in R.
-*   [XGBoost.R (⭐545)](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library.
+*   [XGBoost.R (⭐546)](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library.
 
 ### Scala / Data Analysis / Data Visualization
 
@@ -978,7 +978,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Conjecture (⭐357)](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
+*   [Conjecture (⭐358)](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
 *   [brushfire (⭐397)](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
 *   [DynaML (⭐201)](https://github.com/transcendent-ai-labs/DynaML) - Scala Library/REPL for Machine Learning Research.
 
@@ -1094,9 +1094,9 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 ## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Cheatsheets
+### Cheatsheets / Misc
 
-*   [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email
+*   [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email.
 
 ## [43. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -1123,7 +1123,7 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 ### Frameworks / Runtimes
 
-*   [ScaleCube (⭐559)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
+*   [ScaleCube (⭐568)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
 
 ## [46. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
@@ -1135,7 +1135,7 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 ### Apps / Third-party APIs
 
-*   [Check-it (⭐47)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Check-it (⭐50)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [48. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

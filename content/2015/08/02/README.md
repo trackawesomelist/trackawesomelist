@@ -16,7 +16,7 @@
 
 ### Talks
 
-*   [Phosphorum (⭐361)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
+*   [Phosphorum (⭐360)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

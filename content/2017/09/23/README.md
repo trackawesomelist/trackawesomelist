@@ -24,7 +24,7 @@
 
 ### GTFS Libraries / Python
 
-*   [partridge (⭐122)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
+*   [partridge (⭐124)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

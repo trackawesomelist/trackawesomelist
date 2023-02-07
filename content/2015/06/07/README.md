@@ -23,7 +23,7 @@
 
 ### ORM and Datamapping
 
-*   [caylir (⭐21)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
+*   [caylir (⭐22)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
 
 ## [2. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 

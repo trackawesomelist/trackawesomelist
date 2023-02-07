@@ -10,7 +10,7 @@
 
 ### Starter apps and CLIs
 
-*   Take a look at [previously logged issues (⭐128)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+*   Take a look at [previously logged issues (⭐132)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

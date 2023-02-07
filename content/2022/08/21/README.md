@@ -16,7 +16,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-re-resizable (⭐0)](https://github.com/tachibana-shin/vue-re-resizable) - Plugin for vue 3 allows resizing components. Rewritten [re-resizable (⭐1.9k)](https://github.com/bokuweb/re-resizable)
+*   [vue-re-resizable (⭐1)](https://github.com/tachibana-shin/vue-re-resizable) - Plugin for vue 3 allows resizing components. Rewritten [re-resizable (⭐1.9k)](https://github.com/bokuweb/re-resizable)
 
 ---
 

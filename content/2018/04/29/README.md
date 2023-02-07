@@ -45,7 +45,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐332)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐333)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ---
 

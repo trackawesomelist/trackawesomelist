@@ -22,7 +22,7 @@
 
 ### Username Check / Telegram
 
-*   [Maigret (⭐7.9k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐8k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -72,22 +72,21 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-build (⭐21)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+*   [vite-plugin-build (⭐22)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Third-party APIs
 
-*   [maxima](http://maxima.sourceforge.net/) - Computer algebra system. Not available on Quicklisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
-    *   also [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
+*   [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. Not available on Quicklisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+    *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
+    *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
+    *   [Maxima on Jupyter (⭐157)](https://github.com/robert-dodier/maxima-jupyter)
+    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)).
 
 ### Documentation builders / Third-party APIs
 
 *   [cl-livedocs (⭐2)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
-
-### Git / Third-party APIs
-
-*   [cl-git (⭐56)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 

@@ -49,7 +49,7 @@
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐32)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐33)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ## [6. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 

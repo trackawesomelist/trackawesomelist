@@ -135,7 +135,6 @@
 ### List of Licenses / Wikis
 
 *   `BSD-4-Clause` - [BSD 4-clause "Original"](https://spdx.org/licenses/BSD-4-Clause.html)
-*   `ECL-2.0` - [Educational Community License, Version 2.0](https://opensource.org/licenses/ECL-2.0)
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

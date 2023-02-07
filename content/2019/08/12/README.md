@@ -50,7 +50,7 @@
 
 ### Extensions
 
-*   [next-session (⭐295)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐298)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -72,13 +72,13 @@
 
 ### Tools
 
-*   [HealthyPi (⭐165)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
+*   [HealthyPi (⭐166)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [fff (⭐3.7k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
+*   [fff (⭐3.8k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 
 ## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

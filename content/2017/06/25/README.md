@@ -67,12 +67,12 @@
 
 ### Coordination & Governance / Scala
 
-*   [Conductor (⭐4.9k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
+*   [Conductor (⭐7.7k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
 ### Job Schedulers / Workload Automation / Scala
 
 *   [Chronos (⭐4.3k)](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-*   [Fenzo (⭐703)](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
+*   [Fenzo (⭐704)](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 *   [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 *   [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 *   [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
@@ -84,22 +84,22 @@
 *   [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 *   [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 *   [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-*   [Suro (⭐772)](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
+*   [Suro (⭐774)](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ### Monitoring & Debugging / Scala
 
 *   [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
 *   [Collectd](https://collectd.org/) - The system statistics collection daemon.
-*   [Elastalert (⭐7.8k)](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
+*   [Elastalert (⭐7.9k)](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 *   [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
 *   [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 *   [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
-*   [Parallec (⭐805)](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
+*   [Parallec (⭐806)](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
 *   [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
-*   [REST Commander (⭐903)](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
+*   [REST Commander (⭐904)](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
 *   [Riemann](http://riemann.io/) - Monitors distributed systems.
 *   [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
-*   [Trace (⭐474)](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+*   [Trace (⭐473)](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
 *   [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 *   [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
 *   [Zipkin](http://zipkin.io) - Distributed tracing system.
@@ -109,7 +109,7 @@
 *   [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 *   [Reactive Kafka (⭐1.4k)](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 *   [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
-*   [Simple React (⭐1.2k)](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
+*   [Simple React (⭐1.3k)](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
 
 ### Resilience / Scala
 
@@ -120,10 +120,10 @@
 
 ### Security / Scala
 
-*   [Dex (⭐7.5k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
+*   [Dex (⭐7.8k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
 *   [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
-*   [Keycloak (⭐14k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
-*   [Light OAuth2 (⭐285)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
+*   [Keycloak (⭐15k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
+*   [Light OAuth2 (⭐293)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
 *   [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 *   [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 *   [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.

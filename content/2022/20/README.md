@@ -16,7 +16,7 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐16)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐21)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [3. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
@@ -192,7 +192,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [FileShelter (⭐296)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++`
+*   [FileShelter (⭐298)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++`
 
 ### Software / Games
 
@@ -200,11 +200,11 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Bicimon (⭐16)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
+*   [Bicimon (⭐18)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [LMS (⭐739)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `C++`
+*   [LMS (⭐743)](https://github.com/epoupon/lms) - Access your self-hosted music using a web interface. `GPL-3.0` `C++`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -212,23 +212,23 @@
 
 ### Software / Miscellaneous
 
-*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐855)](https://github.com/weewx/weewx)) `GPL-3.0` `Python`
+*   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐858)](https://github.com/weewx/weewx)) `GPL-3.0` `Python`
 
 ### Software / Pastebins
 
 *   [ExBin (⭐64)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Elixir`
 *   [filite (⭐181)](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. `MIT` `Rust`
-*   [Stikked (⭐960)](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. `GPL-3.0` `PHP`
+*   [Stikked (⭐963)](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. `GPL-3.0` `PHP`
 
 ### Software / Personal Dashboards
 
-*   [Fenrus (⭐212)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `Nodejs`
+*   [Fenrus (⭐218)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `Nodejs`
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [rnnoise (⭐2.8k)](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
+*   [rnnoise (⭐2.9k)](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
 
 ### Debug
 
@@ -378,10 +378,10 @@
 *   [Mantine (⭐17k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 *   [orbit (⭐1.3k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
-*   [react-foundation (⭐599)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
+*   [react-foundation (⭐601)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
 *   [reakit (⭐6.5k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
 *   [semi-design (⭐6.6k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-*   [shineout (⭐806)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
+*   [shineout (⭐808)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 ## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -413,19 +413,19 @@
 
 ### (requires Neovim 0.5)
 
-*   [amrbashir/nvim-docs-view (⭐64)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
+*   [amrbashir/nvim-docs-view (⭐67)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
 
 ### Snippet / Diagnostics
 
-*   [smjonas/snippet-converter.nvim (⭐108)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
+*   [smjonas/snippet-converter.nvim (⭐109)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
 
 ### Utility / Diagnostics
 
-*   [ghillb/cybu.nvim (⭐209)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [ghillb/cybu.nvim (⭐213)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 
 ### Formatting / Diagnostics
 
-*   [lukas-reineke/lsp-format.nvim (⭐393)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
+*   [lukas-reineke/lsp-format.nvim (⭐399)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 
 ## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -437,12 +437,12 @@
 
 ### Applications / Database
 
-*   [Qdrant (⭐3.6k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
+*   [Qdrant (⭐3.7k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
 
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐187)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐194)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -511,19 +511,19 @@
 
 *   [celebrating-ada](https://www.celebratingada.com/) - Ada history key moments.
 
-### Terminal User Interface / Other / unknown licence
+### Terminal User Interface / MIT
 
 *   [linenoise-ada](https://git.sr.ht/\~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8)
 
-### Format Readers and Writers / Other / unknown licence
+### Format Readers and Writers / MIT
 
 *   [uri-ada](https://git.sr.ht/\~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 
-### Networking and Communication Middleware / Other / unknown licence
+### Networking and Communication Middleware / MIT
 
 *   [tlsada](https://git.sr.ht/\~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
 
-### Utilities / Other / unknown licence
+### Utilities / MIT
 
 *   [getopt-ada](https://git.sr.ht/\~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
 
@@ -547,11 +547,11 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐119)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐120)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐3.5k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐3.7k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [33. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -739,13 +739,13 @@
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐205)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐206)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### XML / Third-party APIs
 
 *   [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL](http://opensource.franz.com/preamble.html).
     *   👍 has an incremental parser, allowing to parse big files.
-    *   see the [FXML (⭐24)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
+    *   see the [FXML (⭐26)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 
 ## [39. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
@@ -763,19 +763,19 @@
 
 ### Bot Building
 
-*   [wayback (⭐423)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐437)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 ### Standard CLI
 
-*   [carapace-spec (⭐4)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐3)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-rampart (⭐84)](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
+*   [go-rampart (⭐86)](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
 
 ### Functional
 
-*   [valor (⭐10)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
+*   [valor (⭐11)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
 ### Geographic
 
@@ -784,15 +784,15 @@
 
 ### Goroutines
 
-*   [async-job (⭐5)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
+*   [async-job (⭐6)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
 
 ### Job Scheduler
 
-*   [Dagu (⭐557)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐575)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐503)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐514)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -884,29 +884,29 @@
 ### Components & Libraries / UI Components
 
 *   [vue-connect-wallet (⭐57)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
-*   [vue-magnifier (⭐4)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
+*   [vue-magnifier (⭐5)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 ### Components & Libraries / UI Utilities
 
 *   [v-route-generate (⭐6)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
-*   [@formkit/auto-animate (⭐6.6k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
+*   [@formkit/auto-animate (⭐6.7k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ### Components & Libraries / Utilities
 
 *   [webpack-plugin-qiniu-upload (⭐0)](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3,webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. support @vue/cli-service 5.0.x
-*   [vue2-jsx-runtime (⭐10)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
+*   [vue2-jsx-runtime (⭐11)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
 
 ## [49. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services
+### Services / Misc
 
 *   [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 
-### Resources
+### Resources / Misc
 
-*   [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference
+*   [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference.
 
-### Statistics
+### Statistics / Misc
 
 *   [Mailchimp Research](http://mailchimp.com/resources/research/) - Mailchimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
 
@@ -988,7 +988,7 @@
 
 ### Generic ZSH
 
-*   [zephyr (⭐22)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐23)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -997,7 +997,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐507)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.9k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐86)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐510)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.9k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐88)](https://github.com/andrewgregory/pacutils).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1042,7 +1042,7 @@
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-unocss-to-uni (⭐9)](https://github.com/zguolee/vite-plugin-unocss-to-uni) - `UnoCSS` in `uni-app`.
-*   [@modyfi/vite-plugin-yaml (⭐16)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+*   [@modyfi/vite-plugin-yaml (⭐17)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 
 ---
 

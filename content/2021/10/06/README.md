@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [Sequel Ace (⭐5k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
+*   [Sequel Ace (⭐5.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 
 ## [3. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NocoDB (⭐33k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
+*   [NocoDB (⭐34k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -41,7 +41,7 @@
 ### Applications / System tools
 
 *   [bustd (⭐188)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
-*   [ouch (⭐775)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
+*   [ouch (⭐882)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -265,10 +265,6 @@
 ### Graphical User Interfaces
 
 *   [Event-Driven GTK by Example — 2021 Edition](https://mmstick.github.io/gtkrs-tutorials/) - Michael Murphy
-
-### Theoretical Computer Science
-
-*   [Theory of Computation, Making Connections](https://joshua.smcvt.edu/computation) - Jim Hefferon (PDF)
 
 ---
 

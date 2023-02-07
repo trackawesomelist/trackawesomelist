@@ -11,14 +11,7 @@
 ### Official Links
 
 *   **Craft Commerce** - [craftcms.com/commerce](https://craftcms.com/commerce)
-*   **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
-*   **Craft CMS Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
-*   **Craft CMS 3 Docs** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
-*   **Craft CMS 2 Docs** - [craftcms.com/docs/2.x](https://craftcms.com/docs/2.x/) - [Class Reference](https://docs.craftcms.com/api/v2)
-*   **Craft Commerce 3 Docs** - [craftcms.com/docs/commerce/3.x](https://craftcms.com/docs/commerce/3.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v3)
-*   **Craft Commerce 2 Docs** - [craftcms.com/docs/commerce/2.x](https://craftcms.com/docs/commerce/2.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v2)
-*   **Craft Commerce 1 Docs** - [craftcms.com/docs/commerce/1.x](https://craftcms.com/docs/commerce/1.x/)
-*   **Craft Nitro 2 Docs** - [craftcms.com/docs/nitro/2.x](https://craftcms.com/docs/nitro/2.x/)
+*   **Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
 *   **Knowledge Base** - [craftcms.com/knowledge-base](https://craftcms.com/knowledge-base)
 
 ### Videos / Nitro
@@ -159,7 +152,7 @@
 
 ### CLOS extensions
 
-*   [polymorphic functions (⭐41)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
+*   [polymorphic functions (⭐42)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
     *   polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
     *   for differences with specialization-store and fast-generic-functions, see its README.
 

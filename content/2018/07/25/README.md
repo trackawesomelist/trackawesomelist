@@ -29,7 +29,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue2-image-loader (⭐6)](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
-*   [vue-autonumeric (⭐86)](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
+*   [vue-autonumeric (⭐87)](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -59,7 +59,7 @@
 ### Other Awesomes / Ephemera
 
 *   [awesome-generative-art (⭐1.5k)](https://github.com/kosmos/awesome-generative-art)
-*   [awesome-creative-coding (⭐10k)](https://github.com/terkelg/awesome-creative-coding)
+*   [awesome-creative-coding (⭐11k)](https://github.com/terkelg/awesome-creative-coding)
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -49,7 +49,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [brisa (⭐1)](https://github.com/brisa-dev/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
+*   [brisa (⭐1)](https://github.com/brisa-dev/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
 *   [clipper (⭐0)](https://github.com/Robert-96/clipper) - Minimalist ZSH theme with `git` support. It includes decorations for pwd, last command exit status code and `git` status & branch.
 
 ## [5. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
@@ -68,11 +68,11 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-tuple (⭐45)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
+*   [go-tuple (⭐44)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
 
 ### SQL Query Builders
 
-*   [sqlc (⭐7.2k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
+*   [sqlc (⭐7.3k)](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL.
 
 ### Geographic
 

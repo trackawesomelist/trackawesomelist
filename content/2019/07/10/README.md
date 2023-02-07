@@ -16,7 +16,7 @@
 
 ### Projects
 
-*   [Stratux (⭐925)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
+*   [Stratux (⭐929)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

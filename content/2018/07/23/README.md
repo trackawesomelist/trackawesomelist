@@ -22,7 +22,7 @@
 
 ### Web Frameworks
 
-*   [Vert.x Vaadin (⭐40)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
+*   [Vert.x Vaadin (⭐41)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

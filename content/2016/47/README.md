@@ -724,7 +724,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Cryptography
 
-*   [mbedTLS (⭐3.9k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐4k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 

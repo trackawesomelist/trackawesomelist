@@ -34,6 +34,7 @@ This repository contains curated list of different urban & regional planning dat
     *   [Equity and Environmental Justice](#equity-and-environmental-justice)
     *   [Health](#health)
     *   [Historic Preservation](#historic-preservation)
+    *   [Housing](#housing)
     *   [Land Use and Land Cover](#land-use-and-land-cover)
     *   [OpenStreetMap](#openstreetmap)
     *   [Politics](#politics)

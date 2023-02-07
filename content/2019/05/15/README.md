@@ -22,7 +22,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐201)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
+*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐199)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
 *   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐333)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
 
 ## [4. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)

@@ -54,7 +54,7 @@
 
 ### Typing
 
-*   👍 [Coalton (⭐665)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Coalton (⭐689)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [6. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐85)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐87)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
 
 ## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 

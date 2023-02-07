@@ -84,7 +84,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐162)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐166)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -158,8 +158,8 @@
 
 ### General
 
-*   [Bootstrap Icons (⭐6.4k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
-*   [Tabler Icons (⭐13k)](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Bootstrap Icons (⭐6.6k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
+*   [Tabler Icons (⭐14k)](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
 
 ## [20. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Python / Scala
 
-*   [Connexion (⭐4.1k)](https://github.com/zalando/connexion) - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
+*   [Connexion (⭐4.2k)](https://github.com/zalando/connexion) - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
 
 ### Job Schedulers / Workload Automation / Scala
 
@@ -343,7 +343,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-checkout (⭐944)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
+*   [vue-stripe-checkout (⭐945)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
 *   [vue-stripe-payment (⭐16)](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
 *   [vue-paypal-checkout (⭐151)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
 *   [vue-plaid-link (⭐29)](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
@@ -429,7 +429,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐538)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐543)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 
@@ -453,7 +453,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Utils
 
-*   [playwright-fluent (⭐91)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐107)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 *   [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
 
 ## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
@@ -478,7 +478,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐311)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐314)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [44. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -512,7 +512,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Icons
 
-*   [react-open-doodles (⭐50)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
+*   [react-open-doodles (⭐52)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 
 ### Carousel
 
@@ -520,7 +520,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Time / Date / Age
 
-*   [react-google-flight-datepicker (⭐362)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
+*   [react-google-flight-datepicker (⭐363)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
 
 ### CSS / Style / Mouse Events
 

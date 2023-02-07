@@ -49,7 +49,7 @@
 
 ### Utilities
 
-*   [sitemap (⭐98)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
+*   [sitemap (⭐99)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -95,7 +95,7 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 
 ### Web Frameworks
 
-*   [Vert.x Jersey (⭐152)](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://jersey.java.net/) resources in Vert.x.
+*   [Vert.x Jersey (⭐151)](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://jersey.java.net/) resources in Vert.x.
 *   [Handlers (⭐10)](https://github.com/spriet2000/vertx-handlers-http) - Open web framework for Vert.x.
 *   [vertx-rest-storage (⭐19)](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
 *   [Jubilee (⭐325)](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
@@ -114,7 +114,7 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 *   Metrics
     *   [Hawkular metrics (⭐5)](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
     *   [DropWizard metrics (⭐32)](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
-    *   [Micrometer metrics (⭐40)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
+    *   [Micrometer metrics (⭐42)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
     *   [OpenTsDb Metrics (⭐11)](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
     *   [Bosun Monitoring (⭐3)](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
@@ -128,7 +128,7 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 
 ### Sync Thread Non Block
 
-*   [Sync (⭐97)](https://github.com/vert-x3/vertx-sync) - Synchronous but non-OS-thread-blocking verticles.
+*   [Sync (⭐98)](https://github.com/vert-x3/vertx-sync) - Synchronous but non-OS-thread-blocking verticles.
 
 ### Vert.x Event Bus Clients
 
@@ -154,12 +154,12 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 
 *   [Vert.x Guice (⭐57)](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
 *   [Vert.x HK2 (⭐30)](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection.
-*   [Spring Vert.x Extension (⭐49)](https://github.com/amoAHCP/spring-vertx-ext) - Vert.x verticle factory for Spring DI injection.
+*   [Spring Vert.x Extension (⭐50)](https://github.com/amoAHCP/spring-vertx-ext) - Vert.x verticle factory for Spring DI injection.
 *   [Vert.x Beans (⭐22)](https://github.com/rworsnop/vertx-beans) - Inject Vert.x objects as beans into your Spring application.
 
 ### Examples
 
-*   [Vert.x feeds (⭐126)](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS.
+*   [Vert.x feeds (⭐125)](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS.
 *   [Example using event bus and service proxies to connect vertx and node (⭐45)](https://github.com/advantageous/vertx-node-ec2-eventbus-example) - Step by step example with wiki description showing how to connect Vert.x and Node using event bus and service proxies.
 
 ### Deployment

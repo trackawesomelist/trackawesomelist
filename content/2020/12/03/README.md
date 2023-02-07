@@ -85,7 +85,7 @@
 
 ### Contents / Productivity
 
-*   [Yata (⭐5)](https://github.com/Rohithgilla12/yata) - Todo application that makes your todolist as your wallpaper by [Rohith Gilla](https://github.com/Rohithgilla12)
+*   [Yata (⭐6)](https://github.com/Rohithgilla12/yata) - Todo application that makes your todolist as your wallpaper by [Rohith Gilla](https://github.com/Rohithgilla12)
 
 ## [7. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Component bundles
 
-*   [PanoramicData Blazor UI Components (⭐48)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
+*   [PanoramicData Blazor UI Components (⭐49)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

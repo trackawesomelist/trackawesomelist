@@ -59,7 +59,7 @@
 
 ### Apps
 
-*   [Feednext (⭐242)](https://github.com/feednext/feednext) - An open source social media application.
+*   [Feednext (⭐243)](https://github.com/feednext/feednext) - An open source social media application.
 
 ## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuesence-cloud-sync-button (⭐8)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
+*   [vuesence-cloud-sync-button (⭐9)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
 
 ## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

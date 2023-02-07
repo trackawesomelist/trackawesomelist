@@ -54,18 +54,18 @@
 
 ### Configuration
 
-*   [harvester (⭐124)](https://github.com/beatlabs/harvester) - Harvester, a easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
+*   [harvester (⭐125)](https://github.com/beatlabs/harvester) - Harvester, a easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
 *   [kong (⭐1.2k)](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
 
 ### Caches
 
-*   [go-cache (⭐85)](https://github.com/viney-shih/go-cache) - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
+*   [go-cache (⭐93)](https://github.com/viney-shih/go-cache) - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
 *   [gocache (⭐1.6k)](https://github.com/eko/gocache) - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
 
 ### Database Schema Migration
 
 *   [gorm-seeder (⭐5)](https://github.com/Kachit/gorm-seeder) - Simple database seeder for Gorm ORM.
-*   [libschema (⭐14)](https://github.com/muir/libschema) - Define your migrations separately in each library. Migrations for open source libraries. MySQL & PostgreSQL.
+*   [libschema (⭐13)](https://github.com/muir/libschema) - Define your migrations separately in each library. Migrations for open source libraries. MySQL & PostgreSQL.
 
 ### Error Handling
 
@@ -73,7 +73,7 @@
 
 ### Financial
 
-*   [ach (⭐354)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
+*   [ach (⭐359)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
 
 ### Logging
 
@@ -85,11 +85,11 @@
 
 ### HTTP Clients
 
-*   [go-zoox/fetch (⭐26)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
+*   [go-zoox/fetch (⭐30)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
 
 ### Regular Expressions
 
-*   [rex (⭐130)](https://github.com/hedhyw/rex) - Regular expressions builder.
+*   [rex (⭐131)](https://github.com/hedhyw/rex) - Regular expressions builder.
 
 ### Third-party APIs
 
@@ -97,14 +97,14 @@
 
 ### Utilities
 
-*   [countries (⭐214)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
+*   [countries (⭐218)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
 *   [evaluator (⭐37)](https://github.com/nullne/evaluator) - Evaluate an expression dynamically based on s-expression. It's simple and easy to extend.
 *   [jsend (⭐18)](https://github.com/clevergo/jsend) - JSend's implementation written in Go.
-*   [lancet (⭐2k)](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
+*   [lancet (⭐2.1k)](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [abbreviate (⭐193)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
+*   [abbreviate (⭐196)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -159,7 +159,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Escape GraphMan (⭐144)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
+*   [Escape GraphMan (⭐146)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 
 ## [13. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [massCode (⭐4.3k)](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/massCodeIO/massCode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [massCode (⭐4.4k)](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/massCodeIO/massCode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Note-taking app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Notion](https://www.notion.so/) - Notion is the all-in-one workspace. From notes, tasks, wikis, to database, Notion is all you need. Works great for teams and individuals.
 
@@ -374,7 +374,7 @@
 
 ### Design and Product / Design Tools
 
-*   [ScreenToLayers (⭐121)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
+*   [ScreenToLayers (⭐122)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
 
 ### Audio and Video Tools / File Sharing
 
@@ -440,37 +440,37 @@
 
 ### Zinit (né zplugin)
 
-*   [BlaCk-Void-Zsh (⭐314)](https://github.com/black7375/BlaCk-Void-Zsh) - :crystal\_ball: Awesome, customable Zsh Starter Kit :stars::stars:. Includes powerline, [fzf (⭐49k)](https://github.com/junegunn/fzf) integration, Weather and image viewing in some terminals.
+*   [BlaCk-Void-Zsh (⭐314)](https://github.com/black7375/BlaCk-Void-Zsh) - :crystal\_ball: Awesome, customable Zsh Starter Kit :stars::stars:. Includes powerline, [fzf (⭐50k)](https://github.com/junegunn/fzf) integration, Weather and image viewing in some terminals.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [base16 (⭐21)](https://github.com/base16-project/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
-*   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
-*   [git-fuzzy (⭐2k)](https://github.com/bigH/git-fuzzy) - A CLI interface to `git` that relies heavily on [fzf (⭐49k)](https://github.com/junegunn/fzf).
-*   [git-worktree (⭐15)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf (⭐49k)](https://github.com/junegunn/fzf) tooling.
+*   [base16 (⭐24)](https://github.com/base16-project/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
+*   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
+*   [git-fuzzy (⭐2k)](https://github.com/bigH/git-fuzzy) - A CLI interface to `git` that relies heavily on [fzf (⭐50k)](https://github.com/junegunn/fzf).
+*   [git-worktree (⭐15)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf (⭐50k)](https://github.com/junegunn/fzf) tooling.
 *   [last-working-directory (⭐7)](https://github.com/mdumitru/last-working-dir) - Broken out copy of the version in [oh-my-zsh](http://ohmyz.sh/). Keeps track of the last used working directory and automatically jumps into it for new shells.
 *   [media-sync (⭐0)](https://github.com/redxtech/zsh-media-sync) - A plugin to facilitate copying media between two `rclone` locations.
 *   [mysql-colorize (⭐92)](https://github.com/zpm-zsh/mysql-colorize) - Adds color for `mysql` tables.
 *   [mysql (⭐15)](https://github.com/voronkovich/mysql.plugin.zsh) - Adds some functions for dealing with `mysql`.
 *   [node-path (⭐3)](https://github.com/andyrichardson/zsh-node-path) - Automatically adds the `npm` bin of your current directory to your path.
 *   [nodenv (c-uo) (⭐0)](https://github.com/C-uo/zsh-nodenv) - Looks for `nodenv` in your working directory and loads it when found.
-*   [npms (⭐5)](https://github.com/torifat/npms) - Utility powered by [fzf (⭐49k)](https://github.com/junegunn/fzf) for using npm scripts interactively. Requires [fzf (⭐49k)](https://github.com/junegunn/fzf) and [jq](https://stedolan.github.io/jq/).
+*   [npms (⭐5)](https://github.com/torifat/npms) - Utility powered by [fzf (⭐50k)](https://github.com/junegunn/fzf) for using npm scripts interactively. Requires [fzf (⭐50k)](https://github.com/junegunn/fzf) and [jq](https://stedolan.github.io/jq/).
 *   [peco-history (⭐114)](https://github.com/jimeh/zsh-peco-history) - Search shell history with Peco when pressing `ctrl+R`.
 *   [pip-env (⭐4)](https://github.com/iboyperson/zsh-pipenv) - Automatic [pipenv](https://pipenv.readthedocs.io/en/latest/) activation upon entry into a `pipenv` project.
 *   [project (gko) (⭐19)](https://github.com/gko/project) - Create node/python/ruby projects both locally and on github(private or public repository).
 *   [rbenv (meroje) (⭐2)](https://github.com/Meroje/zsh-rbenv) - Inspired by [https://github.com/lukechilds/zsh-nvm/ (⭐1.9k)](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby `rbenv` environments.
-*   [session-sauce (⭐27)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐49k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
-*   [zpy (⭐38)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐6.5k)](https://github.com/jazzband/pip-tools).
+*   [session-sauce (⭐27)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐50k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
+*   [zpy (⭐40)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐6.6k)](https://github.com/jazzband/pip-tools).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [aws\_manager completions (⭐1)](https://github.com/EslamElHusseiny/aws_manager_plugin) - Add completions for the `aws_manager` CLI.
 *   [brew-services (⭐19)](https://github.com/vasyharan/zsh-brew-services) - Completion plugin for [homebrew](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/brew.sh) services.
 *   [cabal (d12frosted) (⭐0)](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
-*   [carapace (⭐74)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
+*   [carapace (⭐80)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
 *   [cargo (⭐16)](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
-*   [kubectl-fzf (⭐375)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐49k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
-*   [kubectl-plugin (⭐7)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
+*   [kubectl-fzf (⭐377)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐50k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
+*   [kubectl-plugin (⭐8)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 *   [rancher (⭐9)](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
 *   [test-kitchen (⭐7)](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen (⭐1.8k)](https://github.com/test-kitchen/test-kitchen)).
 
@@ -478,7 +478,7 @@
 
 *   [codemachine (⭐6)](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) - Displays decorators for `git` info, whether you're logged in via `ssh`, and the return code of last command.
 *   [neo (⭐3)](https://github.com/Saeed-MFarahani/Neo-ZSH-Theme/) - Includes decorators for `git` status, current directory, user\@hostname, time, and whether running as root.
-*   [tarcadia (⭐2)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
+*   [tarcadia (⭐2)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
 
 ## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -489,12 +489,12 @@
 *   [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the ArcGIS platform.
 *   [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
 *   [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
-*   [UrbanSim (⭐418)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
-*   [Pybikes (⭐492)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
-*   [Leafmap (⭐1.4k)](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
-*   [Prettymaps (⭐8.9k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
-*   [HerePy (⭐75)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
-*   [StreetTraffic (⭐24)](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
+*   [UrbanSim (⭐420)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
+*   [Pybikes (⭐498)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+*   [Leafmap (⭐1.5k)](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+*   [Prettymaps (⭐9k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
+*   [HerePy (⭐77)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
+*   [StreetTraffic (⭐25)](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 *   [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
 *   [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, urban morphology, land use, accessibility, and statistical aggregations.
 
@@ -509,7 +509,7 @@
 *   [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 *   [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 *   [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data.
-*   [BlenderGIS (⭐5.9k)](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+*   [BlenderGIS (⭐6k)](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
 
@@ -530,25 +530,19 @@
 
 ### Libraries / BASIC
 
-*   BASIC: - General -
-    *   🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
+*   🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
 
 ### Libraries / Go
 
-*   Go: - General -
-    *   🌎 [Go](https://go.dev/) [:octocat:](https://github.com/golang) - Official site. Statically typed, compiled programming language designed at Google.
+*   🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at Google. \[[GitHub](https://github.com/golang)]
 
 ### Libraries / Java
 
-*   Java: - General -
-    *   🌎 [Java](https://dev.java) [:octocat:](https://github.com/openjdk) - Official site. General-purpose language, runs on [Java virtual machines](https://en.wikipedia.org/wiki/Java_virtual_machine).
-    *   📚 [Learn Java](https://dev.java/learn/) - Official docs and tutorials.
-    *   📚 [OpenGL & GLSL Tutorials (⭐1.8k)](https://github.com/mattdesl/lwjgl-basics/wiki) - OpenGL / GLSL tutorials written for LWJGL and libGDX.
+*   🌎 [Java](https://dev.java) - General-purpose language, runs on [Java virtual machines](https://en.wikipedia.org/wiki/Java_virtual_machine). \[[GitHub](https://github.com/openjdk)]
 
 ### Libraries / Kotlin
 
-*   Kotlin: - General -
-    *   🌎 [Kotlin](https://kotlinlang.org/) [:octocat: (⭐44k)](https://github.com/JetBrains/kotlin) - Official site. General-purpose language by [JetBrains](https://www.jetbrains.com/), interoperates with Java.
+*   🌎 [Kotlin](https://kotlinlang.org/) - General-purpose language, interoperates with Java. \[[GitHub (⭐44k)](https://github.com/JetBrains/kotlin)]
 
 ### Specialty Topics / Lighting / Shadows
 
@@ -557,32 +551,19 @@
 
 ### Specialty Topics / Shaders
 
-*   Shaders: - General -
-    *   📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat: (⭐14k)](https://github.com/lettier/3d-game-shaders-for-beginners) - 🔥 Wide range of shaders to improve your games.
-    *   📚 [Book of Shaders](https://thebookofshaders.com) [:octocat: (⭐4.8k)](https://github.com/patriciogonzalezvivo/thebookofshaders) - 🔥 Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
-    *   🌎 [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat: (⭐203)](https://github.com/alaingalvan/CrossShader) - Cross compiling shaders. Convert between GLSL, HLSL, Metal and more.
-    *   🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Post processing, lighting, utlities and many, many more.
-    *   📚 [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - Differences between HLSL, GLSL, MSL, and WGSL.
-    *   📚 [Ronja Tutorials](https://www.ronja-tutorials.com/) - Great tutorials covering many shader techniques.
-    *   🌎 [Shader Park](https://shaderpark.com/) [:octocat: (⭐494)](https://github.com/shader-park/shader-park-core) - Shader programming in JavaScript.
-    *   🌎 [SHADERed](https://shadered.org/) [:octocat: (⭐3.7k)](https://github.com/dfranx/SHADERed) - Shader IDE, written in C++, open source (MIT). \[[Online Editor](https://shadered.org/app)]
-    *   🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
+*   📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) - 🔥 Shaders to improve your games. \[[Source (⭐14k)](https://github.com/lettier/3d-game-shaders-for-beginners)]
 
 ### Specialty Topics / Signed Distance Fields
 
-*   📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) - Amazing list of signed distance functions for basic 2D primitives.
-
-### Specialty Topics / Tiling
-
-*   📚 [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) - How to use tile bitmasking to auto-tile your level layouts.
+*   📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) - Signed distance functions for basic 2D primitives.
 
 ### Tools / Software / 2D Game Dev
 
-*   🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
+*   🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag & drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
 
 ### Tools / Software / Level Editors
 
-*   🆓 [Radiant](https://icculus.org/gtkradiant/) [:octocat: (⭐523)](https://github.com/TTimo/GtkRadiant) - Open source, cross platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games.
+*   🆓 [Radiant](https://icculus.org/gtkradiant/) - Cross-platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games. \[[Source (⭐524)](https://github.com/TTimo/GtkRadiant)]
 
 ### Tools / Software / Voxel
 
@@ -591,10 +572,10 @@
 ### Video Game Assets / Audio Assets
 
 *   Music
-    *   🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - Download unlimited high-quality loops and packs used for music creation.
-    *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Wonderful, original music tracks, free with attribution. Perfect for games.
+    *   🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - High-quality loops and packs used for music creation.
+    *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
     *   💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
-    *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Great mix of free and affordable music loops.
+    *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
     *   💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
     *   💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 
@@ -602,11 +583,11 @@
 
 ### Applications / Productivity
 
-*   [espanso (⭐6.7k)](https://github.com/espanso/espanso) — A cross-platform Text Expander written in Rust[![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
+*   [espanso (⭐6.8k)](https://github.com/espanso/espanso) — A cross-platform Text Expander written in Rust[![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
-*   [mprocs (⭐594)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
+*   [mprocs (⭐603)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
 
 ## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -620,7 +601,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-click-outside (⭐5)](https://github.com/mahdikhashan/vue3-click-outside) - Directive for Vue 3 to run a method on clicking outside of the binded element
+*   [vue3-click-outside (⭐7)](https://github.com/mahdikhashan/vue3-click-outside) - Directive for Vue 3 to run a method on clicking outside of the binded element
 
 ## [37. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -630,7 +611,7 @@
 
 ## [38. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
-### Projects Related to eBPF / Testing in Virtual Environments
+### Projects Related to eBPF / Tools
 
 *   [TripleCross (⭐1.3k)](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
@@ -638,20 +619,20 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [LiveStreamDVR (⭐178)](https://github.com/MrBrax/LiveStreamDVR) `⚠` - An automatic Twitch recorder capable of capturing live streams, chat messages and stream metadata. `MIT` `Python/Nodejs`
+*   [LiveStreamDVR (⭐181)](https://github.com/MrBrax/LiveStreamDVR) `⚠` - An automatic Twitch recorder capable of capturing live streams, chat messages and stream metadata. `MIT` `Python/Nodejs`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [LinkWarden (⭐508)](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links. ([Demo](https://linkwarden.netlify.app/)) `MIT` `Docker/Nodejs`
+*   [LinkWarden (⭐513)](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links. ([Demo](https://linkwarden.netlify.app/)) `MIT` `Docker/Nodejs`
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
-*   [Xandikos (⭐255)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python`
+*   [Xandikos (⭐259)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Screensy (⭐250)](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing solution for sharing your screen with WebRTC. ([Demo](https://screensy.stef.link)) `GPL-3.0` `Nodejs`
-*   [Shhh (⭐316)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
+*   [Screensy (⭐253)](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing solution for sharing your screen with WebRTC. ([Demo](https://screensy.stef.link)) `GPL-3.0` `Nodejs`
+*   [Shhh (⭐317)](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates. `MIT` `Python`
 *   [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code (⭐17k)](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
 
 ### Software / Communication - IRC
@@ -664,11 +645,11 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [cmyflix (⭐120)](https://github.com/farfalleflickan/cmyflix) `⚠` - Self-hosted, super lightweight Netflix alternative. `AGPL-3.0` `C`
+*   [cmyflix (⭐121)](https://github.com/farfalleflickan/cmyflix) `⚠` - Self-hosted, super lightweight Netflix alternative. `AGPL-3.0` `C`
 
 ### Software / Miscellaneous
 
-*   [MyPaas (⭐282)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
+*   [MyPaas (⭐284)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
 
 ### Software / Search Engines
 
@@ -682,7 +663,7 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [LeoColman/SimpleCpfValidator (⭐18)](https://github.com/LeoColman/SimpleCpfValidator) - Simple Brazilian taxpayer document (CPF) validator
+*   [LeoColman/SimpleCpfValidator (⭐19)](https://github.com/LeoColman/SimpleCpfValidator) - Simple Brazilian taxpayer document (CPF) validator
 
 ### Libraries/Frameworks / Misc
 
@@ -694,7 +675,7 @@
 
 ### Android / Tools
 
-*   [kiruto/debug-bottle (⭐846)](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
+*   [kiruto/debug-bottle (⭐847)](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 *   [didi/booster (⭐4.3k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications
 
 ## [41. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
@@ -711,12 +692,12 @@
 
 ### Collaborative Web Editors
 
-*   [CodiMD (⭐8.2k)](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
+*   [CodiMD (⭐8.3k)](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
 *   [WikiSuite](http://WikiSuite.org/): While Wikipedia is the broadest unified body of knowledge, WikiSuite is the most comprehensive and integrated Open Source enterprise solution. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need. Key components include [Virtualmin](https://wikisuite.org/Virtualmin), [Tiki Wiki CMS Groupware (aka TikiWiki)](https://wikisuite.org/Tiki-Wiki-CMS-Groupware), [Jitsi Meet](https://wikisuite.org/Jitsi-Meet), [MeshCentral](https://wikisuite.org/MeshCentral), [Syncthing](https://wikisuite.org/Syncthing) and [Manticore Search](https://wikisuite.org/Manticore-Search).
 
 ### Networking
 
-*   [Skywire (⭐62)](https://github.com/skycoin/skywire) is the Skycoin Project's communication primitive (analogous to MPLS, open-flow, TOX, mesh networking, darknet, i2p) that facilitates mesh networking both on traditional internet service provider infrastructure, and on individually owned wifi and radio equipment, allowing for a phased, incentivized approach to decentralization. [Skywire Overview](https://medium.com/skycoin/skywire-the-new-internet-for-the-new-world-6d09a8542c50) | [skycoin.net](https://skycoin.net/)
+*   [Skywire (⭐66)](https://github.com/skycoin/skywire) is the Skycoin Project's communication primitive (analogous to MPLS, open-flow, TOX, mesh networking, darknet, i2p) that facilitates mesh networking both on traditional internet service provider infrastructure, and on individually owned wifi and radio equipment, allowing for a phased, incentivized approach to decentralization. [Skywire Overview](https://medium.com/skycoin/skywire-the-new-internet-for-the-new-world-6d09a8542c50) | [skycoin.net](https://skycoin.net/)
 
 ### Social Networks
 
@@ -731,7 +712,7 @@
 
 ### Form Components / Star Rating
 
-*   [react-rating (⭐163)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+*   [react-rating (⭐167)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 
 ## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
@@ -741,16 +722,16 @@
 
 ### Utility / Diagnostics
 
-*   [xiyaowong/link-visitor.nvim (⭐21)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
-*   [sitiom/nvim-numbertoggle (⭐48)](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers.
+*   [xiyaowong/link-visitor.nvim (⭐22)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
+*   [sitiom/nvim-numbertoggle (⭐51)](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [kkharji/sqlite.lua (⭐311)](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for Lua and Neovim.
+*   [kkharji/sqlite.lua (⭐320)](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for Lua and Neovim.
 
 ### Session / Diagnostics
 
-*   [olimorris/persisted.nvim (⭐137)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
+*   [olimorris/persisted.nvim (⭐143)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
 
 ## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -764,7 +745,7 @@
 
 ### Open Source / Community
 
-*   [Ladle (⭐1.9k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
+*   [Ladle (⭐2k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 
 ---
 

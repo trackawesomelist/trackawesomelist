@@ -70,7 +70,7 @@
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐133)](https://github.com/netxms/netxms))
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐133)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐287)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Vue Org Chart (⭐286)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 
 ## [15. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

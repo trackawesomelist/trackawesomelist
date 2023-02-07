@@ -176,7 +176,7 @@
 
 *   [Pistache (⭐2.8k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
-*   [Served (⭐695)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
+*   [Served (⭐697)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 
 ## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -279,7 +279,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐213)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐215)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -339,7 +339,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Networking
 
-*   [Restbed (⭐1.7k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
+*   [Restbed (⭐1.8k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
 
 ## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -581,7 +581,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Geolocation
 
-*   [segseg (⭐6)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
+*   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 

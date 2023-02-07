@@ -80,7 +80,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐256)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐261)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
 ## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -124,7 +124,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-splide (⭐240)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
-*   [Vue Flow Form (⭐637)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
+*   [Vue Flow Form (⭐636)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 
 ## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -62,13 +62,13 @@
 
 ### Projects
 
-*   [karaoke-rs (⭐139)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
+*   [karaoke-rs (⭐140)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bean Mapping
 
-*   [JMapper (⭐198)](https://github.com/jmapper-framework/jmapper-core) - Uses byte code manipulation for lightning-fast mapping. Supports annotations and API or XML configuration.
+*   [JMapper (⭐201)](https://github.com/jmapper-framework/jmapper-core) - Uses byte code manipulation for lightning-fast mapping. Supports annotations and API or XML configuration.
 *   [ModelMapper (⭐2.1k)](https://github.com/modelmapper/modelmapper) - Intelligent object mapping library that automatically maps objects to each other.
 
 ### Build
@@ -98,7 +98,7 @@
 
 ### Code Generators
 
-*   [FreeBuilder (⭐796)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
+*   [FreeBuilder (⭐798)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
 *   [Joda-Beans](https://www.joda.org/joda-beans/) - Small framework that adds queryable properties to Java, enhancing JavaBeans.
 
 ### Compiler-compiler
@@ -125,17 +125,17 @@
 *   [Apache Orc](https://orc.apache.org) - Fast and efficient columnar storage format for Hadoop-based workloads.
 *   [Apache Parquet](https://parquet.apache.org) - Columnar storage format based on assembly algorithms from Google's paper on Dremel.
 *   [Apache Thrift](https://thrift.apache.org) - Data interchange format that originated at Facebook.
-*   [Big Queue (⭐519)](https://github.com/bulldog2011/bigqueue) - Fast and persistent queue based on memory-mapped files.
-*   [HyperMinHash-java (⭐48)](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.
-*   [Persistent Collection (⭐707)](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
-*   [Protobuf (⭐57k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
-*   [SBE (⭐2.7k)](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
+*   [Big Queue (⭐520)](https://github.com/bulldog2011/bigqueue) - Fast and persistent queue based on memory-mapped files.
+*   [HyperMinHash-java (⭐49)](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.
+*   [Persistent Collection (⭐710)](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
+*   [Protobuf (⭐58k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
+*   [SBE (⭐2.8k)](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
 *   [Tape (⭐2.4k)](https://github.com/square/tape) - Lightning-fast, transactional, file-based FIFO.
 *   [Wire (⭐3.9k)](https://github.com/square/wire) - Clean, lightweight protocol buffers.
 
 ### Database
 
-*   [eXist (⭐364)](https://github.com/eXist-db/exist) - NoSQL document database and application platform. (LGPL-2.1-only)
+*   [eXist (⭐369)](https://github.com/eXist-db/exist) - NoSQL document database and application platform. (LGPL-2.1-only)
 *   [Modality (⭐11)](https://github.com/arkanovicz/modality) - Lightweight ORM with database reverse engineering features.
 *   [Redisson (⭐20k)](https://github.com/redisson/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
 *   [requery (⭐3.1k)](https://github.com/requery/requery) - Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
@@ -153,18 +153,18 @@
 
 *   [AspectJ](https://www.eclipse.org/aspectj/) - Seamless aspect-oriented programming extension.
 *   [JavaSymbolSolver (⭐288)](https://github.com/javaparser/javasymbolsolver) - Symbol solver.
-*   [Manifold (⭐1.5k)](https://github.com/manifold-systems/manifold) - Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
+*   [Manifold (⭐1.6k)](https://github.com/manifold-systems/manifold) - Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
 
 ### Distributed Applications
 
 *   [Axon](https://axoniq.io) - Framework for creating CQRS applications.
 *   [Quasar](http://docs.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
-*   [ScaleCube Services (⭐565)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
+*   [ScaleCube Services (⭐567)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
 *   [Zuul (⭐12k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Distributed Transactions
 
-*   [Bitronix (⭐399)](https://github.com/bitronix/btm) - Simple but complete implementation of the JTA 1.1 API.
+*   [Bitronix (⭐401)](https://github.com/bitronix/btm) - Simple but complete implementation of the JTA 1.1 API.
 *   [Narayana](https://narayana.io) - Provides support for traditional ACID and compensation transactions, also complies with JTA, JTS and other standards. (LGPL-2.1-only)
 
 ### Distribution
@@ -180,7 +180,7 @@
 ### Financial
 
 *   [Square (⭐38)](https://github.com/square/connect-java-sdk) - Integration with the Square API.
-*   [Stripe (⭐636)](https://github.com/stripe/stripe-java) - Integration with the Stripe API.
+*   [Stripe (⭐638)](https://github.com/stripe/stripe-java) - Integration with the Stripe API.
 
 ### Formal Verification
 
@@ -199,7 +199,7 @@
 
 ### Imagery
 
-*   [Tess4J (⭐1.2k)](https://github.com/nguyenq/tess4j) - JNA wrapper for Tesseract OCR API.
+*   [Tess4J (⭐1.3k)](https://github.com/nguyenq/tess4j) - JNA wrapper for Tesseract OCR API.
 
 ### Logging
 
@@ -207,12 +207,12 @@
 
 ### Machine Learning
 
-*   [Smile (⭐5.6k)](https://github.com/haifengl/smile) - Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.
+*   [Smile (⭐5.7k)](https://github.com/haifengl/smile) - Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.
 
 ### Microservice
 
 *   [Armeria (⭐4.1k)](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
-*   [consul-api (⭐403)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
+*   [consul-api (⭐404)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
 *   [Helidon](https://helidon.io) - Two-style approach for writing microservices: Functional-reactive and as an implementation of MicroProfile.
 *   [Nacos](https://nacos.io) - Dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -220,8 +220,8 @@
 
 ### Miscellaneous
 
-*   [Membrane Service Proxy (⭐387)](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
-*   [PipelinR (⭐283)](https://github.com/sizovs/pipelinr) - Small utility library for using handlers and commands with pipelines.
+*   [Membrane Service Proxy (⭐393)](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
+*   [PipelinR (⭐294)](https://github.com/sizovs/pipelinr) - Small utility library for using handlers and commands with pipelines.
 *   [Simple Java Mail (⭐1k)](https://github.com/bbottema/simple-java-mail) - Mailing with a clean and fluent API.
 
 ### Performance analysis
@@ -242,7 +242,7 @@
 
 ### Testing / Miscellaneous
 
-*   [junit-dataprovider (⭐237)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
+*   [junit-dataprovider (⭐239)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
 
 ### Utility / Mocking
 
@@ -276,7 +276,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-universal-hooks (⭐177)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
+*   [react-universal-hooks (⭐178)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -861,7 +861,7 @@
 
 ### Platforms
 
-*   [ESP (⭐523)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+*   [ESP (⭐532)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

@@ -34,21 +34,21 @@
 ### GTFS Libraries / C
 
 *   [CGTFS (⭐4)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
-*   [RRRR Rapid Real-time Routing (⭐149)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+*   [RRRR Rapid Real-time Routing (⭐151)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 ### GTFS Libraries / Python
 
-*   [ESRI public-transit-tools (⭐129)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
-*   [gtfsdb (⭐125)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
-*   [gtfsman (⭐20)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
-*   [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐33)](https://github.com/CxAalto/gtfspy-webviz).
+*   [ESRI public-transit-tools (⭐134)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐131)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [gtfsman (⭐19)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
+*   [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐36)](https://github.com/CxAalto/gtfspy-webviz).
 *   [Make GTFS](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
 *   [Mapzen GTFS (⭐27)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
-*   [multigtfs (⭐49)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
+*   [multigtfs (⭐50)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
 
 ### GTFS Libraries / C#
 
-*   [GTFS Feed Parser (⭐55)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
+*   [GTFS Feed Parser (⭐56)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
 
 ### GTFS Libraries / Go
 
@@ -56,11 +56,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-schema (⭐25)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+*   [gtfs-schema (⭐26)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 
 ### GTFS Libraries / Ruby
 
-*   [GTFS-viz (⭐80)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐325)](https://github.com/vasile/transit-map) web application)
+*   [GTFS-viz (⭐82)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐330)](https://github.com/vasile/transit-map) web application)
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Tools / Libraries
 
-*   [color2k (⭐482)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐518)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -93,9 +93,9 @@
 
 ## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Machine Learning / General Purpouse Machine Learning
+### Machine Learning / General Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐619)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+*   [Little Ball of Fur (⭐621)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Algorithms and Data structures
 
-*   [blurhash.cr (⭐16)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐12k)](https://github.com/woltapp/blurhash) implementation
+*   [blurhash.cr (⭐17)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐13k)](https://github.com/woltapp/blurhash) implementation
 
 ## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

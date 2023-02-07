@@ -6102,7 +6102,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐298)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐308)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [18. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -6221,7 +6221,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐31)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐32)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 *   [StoryTeller Engine (⭐15)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
 ## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
@@ -6266,11 +6266,11 @@
 
 ### Game Engine
 
-*   [o3de (⭐5.8k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐5.9k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ### Reflection
 
-*   [config-loader (⭐121)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐127)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
 ## [30. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -6286,8 +6286,8 @@
 
 ### Utils
 
-*   [expect-playwright (⭐135)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐88)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐136)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐107)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [32. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -6309,7 +6309,7 @@
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐718)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐733)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
 ## [35. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
@@ -6337,13 +6337,13 @@
 
 ### Get Started
 
-*   [create-vite (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐52k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐91)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐80)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
-*   [vite-plugin-tips (⭐48)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
+*   [vite-plugin-restart (⭐92)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐81)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-tips (⭐46)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ### Libraries / Community
 
@@ -6420,12 +6420,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐87)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐90)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 *   [QuickTok (⭐24)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐111)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐115)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -6454,7 +6454,7 @@
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐6.9k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐7k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ### Software / Task Management & To-do Lists
 

@@ -61,7 +61,7 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐1.7k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐1.8k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -279,7 +279,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐352)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐353)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ### Components & Libraries / UI Utilities
 

@@ -155,7 +155,7 @@
 
 ### Content Management Systems
 
-*   [Silverstripe CMS (⭐40)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
+*   [Silverstripe CMS (⭐42)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 
 ### Hardware
 
@@ -163,7 +163,7 @@
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐109)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐111)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

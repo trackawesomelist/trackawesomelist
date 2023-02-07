@@ -63,7 +63,7 @@ git rebase master feature && git checkout master && git merge -
 
 *   [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
 *   [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
-*   [MSGPACK (⭐6.3k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+*   [MSGPACK (⭐6.4k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Sites & Organizations / Scala
 

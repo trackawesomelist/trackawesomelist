@@ -38,7 +38,7 @@
 
 ### Samples
 
-*   Khronos [Vulkan samples (⭐2.8k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.8k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+*   Khronos [Vulkan samples (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Miscellaneous
 
-*   [yGuard (⭐261)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+*   [yGuard (⭐267)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
 ## [14. Awesome Python](/content/vinta/awesome-python/README.md)
 

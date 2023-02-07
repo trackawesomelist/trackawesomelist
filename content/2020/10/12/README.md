@@ -30,13 +30,13 @@
 
 ### GraphCMS React + Apollo   [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
 
-*   [GraphCMS starter blog with React & Apollo Client (⭐499)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
+*   [GraphCMS starter blog with React & Apollo Client (⭐524)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web Servers
 
-*   [mufeedvh/binserve (⭐726)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
+*   [mufeedvh/binserve (⭐731)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Printing (⭐64)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
+*   [Blazor Printing (⭐65)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
 ## [14. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
@@ -109,7 +109,7 @@
 ### Tools
 
 *   💼 [tailwind-classes-sorter (⭐18)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
-*   💼 [prettier-plugin-tailwind (⭐429)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
+*   💼 [prettier-plugin-tailwind (⭐430)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
 
 ## [16. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 

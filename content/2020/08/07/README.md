@@ -38,11 +38,11 @@
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 
-### Blogs
+### Blogs / Misc
 
 *   [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
 
@@ -66,13 +66,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Prisma (⭐28k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+*   :octocat: [Prisma (⭐29k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
 
 ## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Logos
 
-*   [Devicon (⭐6.3k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
+*   [Devicon (⭐6.9k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
 ## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

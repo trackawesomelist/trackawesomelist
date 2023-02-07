@@ -78,11 +78,11 @@
 
 ### Frameworks / Runtimes
 
-*   [Flogo (⭐2.1k)](https://github.com/TIBCOSoftware/flogo) - Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
+*   [Flogo (⭐2.2k)](https://github.com/TIBCOSoftware/flogo) - Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 
 ### CSharp
 
-*   [Microdot (⭐1.4k)](https://github.com/gigya/microdot) - Open source .NET microservices framework.
+*   [Microdot (⭐1.5k)](https://github.com/gigya/microdot) - Open source .NET microservices framework.
 *   [Orleans](https://dotnet.github.io/orleans/) - Provides a straightforward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
 ### Node.js / Scala

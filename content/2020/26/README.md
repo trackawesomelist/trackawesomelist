@@ -37,11 +37,11 @@
 
 ### Cloud Data Warehousing / Playground
 
-*   [DDB-Table (⭐85)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+*   [DDB-Table (⭐86)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ### Validation / Playground
 
-*   [computed-types (⭐338)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐344)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -323,15 +323,15 @@
 
 ### Gaming
 
-*   [Flame (⭐651)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐664)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐115)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐116)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐161)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐162)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
 ## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -350,7 +350,7 @@
 ### Projects
 
 *   [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
-*   [Network Presence Detector (⭐363)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+*   [Network Presence Detector (⭐364)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 *   [P4wnP1 (⭐3.5k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 *   [PoisonTap (⭐5.9k)](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 
@@ -370,11 +370,11 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [HAProxy (⭐3.2k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
+*   [HAProxy (⭐3.4k)](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
 
 ### Job Schedulers / Workload Automation / Scala
 
-*   [Celery (⭐20k)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
+*   [Celery (⭐21k)](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 
 ### QUIC / Scala
 
@@ -402,7 +402,7 @@
 
 ### Driver crates / WIP
 
-*   [ublox-cellular-rs (⭐11)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
+*   [ublox-cellular-rs (⭐13)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
 ## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐246)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐253)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (  *a certain platform*  ) / Instagram
 
@@ -724,18 +724,18 @@ Language: English
 
 ### Individual components / Charts
 
-*   [ChartJs.Blazor (⭐571)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐60k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [ChartJs.Blazor (⭐575)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐60k)](https://github.com/chartjs/Chart.js) charts to Blazor.
 *   [GG.Net Data Visualization (⭐71)](https://github.com/pablofrommars/GGNet) - ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
-*   [Blazor-ApexCharts (⭐265)](https://github.com/joadan/Blazor-ApexCharts) - ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
-*   [Plotly.Blazor (⭐225)](https://github.com/LayTec-AG/Plotly.Blazor) - ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐15k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://plotly-blazor.azurewebsites.net/)).
+*   [Blazor-ApexCharts (⭐268)](https://github.com/joadan/Blazor-ApexCharts) - ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Plotly.Blazor (⭐227)](https://github.com/LayTec-AG/Plotly.Blazor) - ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐15k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://plotly-blazor.azurewebsites.net/)).
 
 ### Individual components / Date & time
 
-*   [BlazorDateRangePicker (⭐143)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+*   [BlazorDateRangePicker (⭐145)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐649)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐651)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ### Individual components / Others
 
@@ -781,7 +781,7 @@ Language: English
 
 ### Intermediate
 
-*   [Lisp Tips (⭐98)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐101)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
 ## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
@@ -1020,24 +1020,24 @@ Language: English
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐221)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐224)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.4k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
-*   [Shaark (⭐490)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.5k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
+*   [Shaark (⭐495)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
 
 ### Software / Search Engines
 
-*   [sist2 (⭐499)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
+*   [sist2 (⭐500)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
 
 ## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [Moon (⭐176)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐181)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -1151,9 +1151,9 @@ Language: English
 
 ### Applications
 
-*   [asm-cli-rust (⭐239)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [denoland/deno (⭐87k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐370)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐243)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
+*   [denoland/deno (⭐88k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐371)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.7k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐2.6k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
@@ -1223,7 +1223,7 @@ Language: English
 
 ### Files and Directories
 
-*   [waffle (⭐604)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐609)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [58. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 

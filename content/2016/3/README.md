@@ -456,17 +456,17 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### C++
 
-*   [ULib (⭐948)](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
+*   [ULib (⭐950)](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### Go / Erlang
 
-*   [Goa (⭐4.9k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
+*   [Goa (⭐5k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 *   [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 *   [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 
 ### Java VM / Java
 
-*   [QBit (⭐708)](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
+*   [QBit (⭐709)](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 *   [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 
 ### Node.js / Scala
@@ -475,14 +475,14 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Python / Scala
 
-*   [Nameko (⭐4.4k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
+*   [Nameko (⭐4.5k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 *   [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 
 ### Ruby / Scala
 
 *   [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 *   [Praxis (⭐298)](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
-*   [Scorched (⭐276)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
+*   [Scorched (⭐275)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 
 ### API Gateways / Edge Services / Scala
 
@@ -730,7 +730,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [om-tools (⭐438)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
+*   [om-tools (⭐437)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 
 ## [40. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -924,7 +924,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐721)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐722)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 ## [57. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -1020,7 +1020,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Date and Time
 
-*   [filtrex (⭐187)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
+*   [filtrex (⭐188)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 
 ### HTTP
 
@@ -1033,7 +1033,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐3.5k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐3.6k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### ORM and Datamapping
 

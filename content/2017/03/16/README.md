@@ -61,7 +61,7 @@
 
 ### Samples
 
-*   [SDF Font Demo (⭐204)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
+*   [SDF Font Demo (⭐205)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
 
 ---
 

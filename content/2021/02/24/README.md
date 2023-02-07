@@ -41,7 +41,7 @@
 
 ### Extending Content Editor
 
-*   [Sitecore Smart Commands (⭐9)](https://github.com/AlenPelin/Sitecore-Smart-Commands) - A shared-source module that contains smart copy, duplicate and clone commands in Content Editor, that implement so much wanted functionality missing by default.
+*   [Sitecore Smart Commands (⭐10)](https://github.com/AlenPelin/Sitecore-Smart-Commands) - A shared-source module that contains smart copy, duplicate and clone commands in Content Editor, that implement so much wanted functionality missing by default.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Mijin (⭐181)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+*   [Mijin (⭐183)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

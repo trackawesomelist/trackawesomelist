@@ -17,7 +17,7 @@
 
 ### Calendar
 
-*   [iCal.NET (⭐643)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+*   [iCal.NET (⭐650)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ### Functional programming
 
@@ -33,7 +33,7 @@
 
 ### Misc
 
-*   [FormHelper (⭐227)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
+*   [FormHelper (⭐231)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
 
 ### PDF
 
@@ -99,7 +99,7 @@ Free
 
 ### Tools / Libraries
 
-*   [Distinct Colors (⭐110)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [Distinct Colors (⭐113)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
 
 ## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -195,8 +195,8 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐730)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐81)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐736)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐83)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
@@ -204,21 +204,21 @@ Free
 
 ### Learn
 
-*   [Educational Games (⭐685)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐691)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐841)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐842)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐238)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐243)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.6k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐161)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Self Hosted (⭐117k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐164)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

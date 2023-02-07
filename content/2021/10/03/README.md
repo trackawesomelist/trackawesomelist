@@ -30,7 +30,7 @@
 
 ### Applications
 
-*   [SimpleX chat (⭐2.2k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+*   [SimpleX chat (⭐2.3k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -74,11 +74,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [weilbith/nvim-code-action-menu (⭐448)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
+*   [weilbith/nvim-code-action-menu (⭐458)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐152)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.5k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐159)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.5k)](https://github.com/honza/vim-snippets).
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Applications / Text editors
 
-*   [ilai-deutel/kibi (⭐893)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [ilai-deutel/kibi (⭐902)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

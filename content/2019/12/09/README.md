@@ -156,7 +156,7 @@ Topics: Elm, Visualizations\
 
 ### Software / Polls and Events
 
-*   [JD Esurvey](https://www.jdsoft.com/jd-esurvey.html) - Open source enterprise survey web application. ([Source Code (⭐221)](https://github.com/JD-Software/JDeSurvey)) `AGPL-3.0` `Java`
+*   [JD Esurvey](https://www.jdsoft.com/jd-esurvey.html) - Open source enterprise survey web application. ([Source Code (⭐220)](https://github.com/JD-Software/JDeSurvey)) `AGPL-3.0` `Java`
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

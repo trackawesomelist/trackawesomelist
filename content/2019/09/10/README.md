@@ -22,7 +22,7 @@
 
 ### CMS & Blogs
 
-*   [KikCMS (⭐51)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
+*   [KikCMS (⭐53)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 
 ### ODM
 
@@ -114,7 +114,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐145)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐153)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

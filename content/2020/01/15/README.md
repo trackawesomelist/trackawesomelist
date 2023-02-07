@@ -29,8 +29,8 @@
 ### Development tools / Build system
 
 *   Github actions
-    *   [icepuma/rust-action (⭐76)](https://github.com/icepuma/rust-action) — rust github action
-    *   [peaceiris/actions-mdbook (⭐232)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
+    *   [icepuma/rust-action (⭐77)](https://github.com/icepuma/rust-action) — rust github action
+    *   [peaceiris/actions-mdbook (⭐233)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
 
 ### Libraries / Text search
 
@@ -54,7 +54,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ETCD Manager (⭐339)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
+*   [ETCD Manager (⭐342)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -64,11 +64,11 @@
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Commercial / Open source / Other / unknown licence
+### Commercial / Open source / MIT
 
 *   [gnat-pro](https://www.adacore.com/gnatpro) - The GNAT Pro product line offers a comprehensive toolset (IDEs, debugger, librairies, dynamic and static analysis tools) for Ada, C and C++.
 
-### Commercial / Closed source / Other / unknown licence
+### Commercial / Closed source / MIT
 
 *   [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting all the major features of the Ada 83, Ada 95, Ada 2005 and Ada 2012 versions of the language.
 *   [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments.

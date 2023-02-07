@@ -123,17 +123,17 @@
 
 ### Community / Case study
 
-*   [Proposal (⭐64)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐65)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [shuttle (⭐1.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐1.7k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
 
 ### Development tools / Build system
 
-*   [Fleet (⭐2.2k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
+*   [Fleet (⭐2.3k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐28)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [ViTauri (⭐30)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -157,15 +157,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [junnplus/nvim-lsp-setup (⭐192)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+*   [junnplus/nvim-lsp-setup (⭐193)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐168)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐173)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐329)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐334)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

@@ -8,10 +8,6 @@
 
 ## [1. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
-### CLI
-
-*   [iredis (⭐2.2k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
-
 ### GUI
 
 *   [SQLTools (⭐1.1k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
@@ -79,7 +75,7 @@
 
 ### ORM
 
-*   [Permazen (⭐321)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐323)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [11. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
@@ -113,13 +109,13 @@
 
 ### Examples
 
-*   [sulu/sulu (⭐911)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
+*   [sulu/sulu (⭐936)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
 
 ## [14. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   Sascha Willems's [samples (⭐8.1k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐158)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐8.1k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐159)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
 ## [15. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -193,7 +189,7 @@
 
 ### Extensions
 
-*   [Next PWA (⭐2.7k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
+*   [Next PWA (⭐2.8k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 
 ## [22. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -214,7 +210,7 @@
 
 ### Projects
 
-*   [I Love Hue! (rs) (⭐15)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
+*   [I Love Hue! (rs) (⭐14)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
 
 ## [25. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -262,7 +258,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐1.9k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
+*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐2k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -290,7 +286,7 @@
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐38)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐39)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
 ## [34. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -328,16 +324,16 @@
 
 ### Component bundles
 
-*   [BlazorStrap (⭐846)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+*   [BlazorStrap (⭐847)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazored.Toast (⭐519)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
+*   [Blazored.Toast (⭐524)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
 
 ### Individual components / Others
 
-*   [Blazored.Typeahead (⭐375)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [Razor.SweetAlert2 (⭐128)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
+*   [Blazored.Typeahead (⭐380)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+*   [Razor.SweetAlert2 (⭐129)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
@@ -385,13 +381,17 @@
 
 ## [42. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
+### Development / Database
+
+*   [iredis (⭐2.2k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
+
 ### Development / Npm
 
-*   [wipe-modules (⭐325)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+*   [wipe-modules (⭐329)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 
 ### Just for Fun / Image Conversion
 
-*   [dankcli (⭐37)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
+*   [dankcli (⭐43)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## [43. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
 
@@ -515,7 +515,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [CoreUI Vue Admin Template (⭐3.1k)](https://github.com/coreui/coreui-free-vue-admin-template) - Open Source Admin Template powered by Vue.js
-*   [Akaunting (⭐5.8k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
+*   [Akaunting (⭐5.9k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
 ### Components & Libraries / Utilities
 
@@ -820,7 +820,7 @@
 
 ### Props from server / Mouse Events
 
-*   [axios-react (⭐38)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
+*   [axios-react (⭐39)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Databases / Lazy Load
 
@@ -831,17 +831,17 @@
 
 ### Configuration
 
-*   [toml++ (⭐964)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐988)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐262)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐266)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ### Logging
 
-*   [Logary (⭐518)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
+*   [Logary (⭐517)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
 
 ### Mathematics
 
@@ -861,13 +861,13 @@
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐201)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐203)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 *   [Spotify TUI (⭐14k)](https://github.com/Rigellute/spotify-tui) — A Spotify client for the terminal written in Rust. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
-*   [Spotifyd (⭐8.5k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [Spotifyd (⭐8.6k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐314)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
+*   [guoxbin/dtool (⭐315)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 
 ### Development tools / Profiling
 
@@ -1019,7 +1019,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐4.1k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐4.2k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ---
 

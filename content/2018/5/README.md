@@ -395,7 +395,7 @@
 
 ### Cryptography
 
-*   [digestpp (⭐150)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐154)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
@@ -403,7 +403,7 @@
 
 ### Debug
 
-*   [MinUnit (⭐455)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐461)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -439,7 +439,7 @@
 
 *   [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐52k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐53k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [44. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -451,7 +451,7 @@
 
 ### Go / Erlang
 
-*   [KrakenD (⭐5.3k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
+*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
 
 ### API Gateways / Edge Services / Scala
 

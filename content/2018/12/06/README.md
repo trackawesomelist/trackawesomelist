@@ -58,11 +58,11 @@
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Applications / Other / unknown licence
+### Applications / MIT
 
 *   [railway-simulation (⭐5)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [svd2ada (⭐53)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 

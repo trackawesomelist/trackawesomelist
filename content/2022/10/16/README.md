@@ -72,7 +72,7 @@
 
 ### AppImage consumption tools / Package managers
 
-*   [Bread (⭐24)](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
+*   [Bread (⭐27)](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
 
 ## [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Date and Time
 
-*   [go-anytime (⭐8)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+*   [go-anytime (⭐7)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
 
 ### Distributed Systems
 
@@ -102,7 +102,7 @@
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Go in 7 days (⭐116)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
+*   [Go in 7 days (⭐117)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
 *   [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
@@ -110,7 +110,7 @@
 ### Android / Libraries
 
 *   [skydoves/balloon (⭐2.9k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
-*   [ChuckerTeam/chucker (⭐2.9k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
+*   [ChuckerTeam/chucker (⭐3k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ## [10. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Utility / Diagnostics
 
-*   [folke/noice.nvim (⭐1.8k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [folke/noice.nvim (⭐1.9k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 
 ---
 

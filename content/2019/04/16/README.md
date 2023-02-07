@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 16, 2019
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,44 +39,38 @@
 
 *   [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Ticketing
-
-*   [Helpy](https://helpy.io) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io), [Source Code (⭐2.3k)](https://github.com/helpyio/helpy)) `MIT` `Ruby`
-
-## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab\_email (⭐51)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2011
 
 *   [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [librdkafka (⭐6.4k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [librdkafka (⭐6.5k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 
 ### Reflection
 
-*   [meta (⭐453)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐455)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
-*   [PHP-CPP (⭐1.3k)](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. \[Apache2] [website](http://www.php-cpp.com/)
+*   [PHP-CPP (⭐1.4k)](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. \[Apache2] [website](http://www.php-cpp.com/)
 
 ### Miscellaneous
 
 *   [CPPItertools (⭐1.2k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
 *   [mio (⭐1.4k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 
-## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Companion Screens
 
@@ -128,7 +122,7 @@
 *   [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 *   [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Project Management
 
@@ -148,25 +142,25 @@
 *   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
 *   [rhizome (⭐445)](https://github.com/ztellman/rhizome)
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 
 *   [mardix/flask-cloudy :fire::fire: (⭐238)](https://github.com/mardix/flask-cloudy) - Flask extension.
 
-## [11. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [10. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
-*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐41k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
+*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐43k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
 
 ### Production Ready Django + Docker   [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
 
-*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐64k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐65k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 *   [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐67k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐44k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
-*   [wemake-django-template (⭐1.6k)](https://github.com/wemake-services/wemake-django-template)
+*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐68k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐45k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
+*   [wemake-django-template (⭐1.7k)](https://github.com/wemake-services/wemake-django-template)
 
 ### User Behavior Analytics via Segment   [↗](https://awesomestacks.dev/user-behavior-analytics-via-segment) / Resources
 
@@ -175,7 +169,7 @@
 
 ### Streaming Analytics with Kafka, Spark, and Cassandra   [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
 
-*   [kafka-sparkstreaming-cassandra (⭐93)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
+*   [kafka-sparkstreaming-cassandra (⭐94)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
 *   [Applying the Lambda Architecture with Spark, Kafka, and Cassandra](https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture)
 *   [Streaming Analytics with Spark, Kafka, Cassandra, and Akka](https://databricks.com/session/streaming-analytics-with-spark-kafka-cassandra-and-akka)
 

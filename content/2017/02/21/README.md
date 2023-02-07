@@ -67,13 +67,13 @@
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Blogs
+### Blogs / Misc
 
 *   [Spently Blog](https://blog.spently.com/)
 
-### Statistics
+### Statistics / Misc
 
-*   [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
+*   [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

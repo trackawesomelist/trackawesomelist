@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [picotool (⭐324)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+*   [picotool (⭐328)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
 ## [2. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐309)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐312)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Queue
 

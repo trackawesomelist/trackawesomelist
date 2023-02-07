@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24, 2017
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,13 +26,7 @@
 
 *   [Create your first ReactJS application with NextJS *\[Spanish\]*](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
 
-## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
-
-### OS Images
-
-*   [FreeBSD](https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
-
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -42,7 +36,7 @@
 
 *   [vue-jalaali-datepicker (⭐13)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -58,7 +52,7 @@
 
 *   [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
 
-## [7. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+## [6. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### Python / General
 
@@ -78,7 +72,7 @@
 
 *   [In-depth Steam Bot Guide with Node.js (⭐498)](https://github.com/andrewda/node-steam-guide)
 
-## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Language Aware String Manipulation / Constituency Parsing
 
@@ -87,13 +81,13 @@
 *   [re2 (⭐87)](https://github.com/mudge/re2) -
     hight-speed Regular Expression library for Text Mining and Text Extraction.
 
-## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Content Disarm & Reconstruct
 
 *   [DocBleach (⭐130)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
-## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 

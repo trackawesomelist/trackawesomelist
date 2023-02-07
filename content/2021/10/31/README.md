@@ -33,15 +33,15 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Raveberry (⭐640)](https://github.com/raveberry/raveberry) - A multi-user music server with a focus on participation. ([Demo](https://demo.raveberry.party/)) `LGPL-3.0` `Python`
+*   [Raveberry (⭐647)](https://github.com/raveberry/raveberry) - A multi-user music server with a focus on participation. ([Demo](https://demo.raveberry.party/)) `LGPL-3.0` `Python`
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐9k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐9.4k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
 ### Software / Software Development - Testing
 
-*   [DeepfakeHTTP (⭐448)](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
+*   [DeepfakeHTTP (⭐451)](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
 
 ## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Infinite Scroll
 
-*   [af-virtual-scroll (⭐58)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
+*   [af-virtual-scroll (⭐59)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
 
 ## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

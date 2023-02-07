@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 22 - Apr 28, 2019
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -15,7 +15,7 @@
 
 ### Python / Symfony2
 
-*   [FastAPI (⭐53k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐54k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 
 ## [3. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
@@ -148,7 +148,7 @@
 *   [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 *   [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
 *   [FAQ (⭐9.3k)](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-*   ['Hello World' sample (⭐7.4k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
+*   ['Hello World' sample (⭐7.5k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 
 ### Tooling / Others
 
@@ -168,8 +168,8 @@
 *   [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 *   [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 *   [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
-*   [Practical samples of Blazor (⭐7.4k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
-*   [Practical samples of Blazor Server-Side (⭐7.4k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
+*   [Practical samples of Blazor (⭐7.5k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
+*   [Practical samples of Blazor Server-Side (⭐7.5k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 *   [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 *   [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
@@ -263,7 +263,7 @@ git commit -m "submodule updated"
 
 ## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 
@@ -359,47 +359,41 @@ git commit -m "submodule updated"
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐416)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐428)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Ticketing
-
-*   [Helpy](https://helpy.io) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io), [Source Code (⭐2.3k)](https://github.com/helpyio/helpy)) `MIT` `Ruby`
-
-## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab\_email (⭐51)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 
-## [33. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [32. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### History / 2011
 
 *   [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
-*   [librdkafka (⭐6.4k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
-*   [ZeroMQ (⭐8.2k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
+*   [librdkafka (⭐6.5k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [ZeroMQ (⭐8.3k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
 
 ### Reflection
 
-*   [meta (⭐453)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐455)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
-*   [PHP-CPP (⭐1.3k)](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. \[Apache2] [website](http://www.php-cpp.com/)
+*   [PHP-CPP (⭐1.4k)](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. \[Apache2] [website](http://www.php-cpp.com/)
 
 ### Miscellaneous
 
 *   [CPPItertools (⭐1.2k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
 *   [mio (⭐1.4k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 
-## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [34. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Companion Screens
 
@@ -451,7 +445,7 @@ git commit -m "submodule updated"
 *   [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 *   [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 
-## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [35. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Project Management
 
@@ -471,13 +465,13 @@ git commit -m "submodule updated"
 *   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
 *   [rhizome (⭐445)](https://github.com/ztellman/rhizome)
 
-## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [mardix/flask-cloudy :fire::fire: (⭐238)](https://github.com/mardix/flask-cloudy) - Flask extension.
 
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Environment Management
 
@@ -488,33 +482,33 @@ git commit -m "submodule updated"
 *   [Maestro (⭐120)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
 *   [Sonic Pi (⭐9.7k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
-## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐4.4k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐4.5k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 *   [numpy-ML (⭐12k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
-## [40. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [39. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Reversing
 
 *   [Ghidra](https://ghidra-sre.org/) - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
 
-## [41. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [40. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
-*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐41k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
+*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐43k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
 
 ### Production Ready Django + Docker   [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
 
-*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐64k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐65k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 *   [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐48k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
-*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐67k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐44k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
-*   [wemake-django-template (⭐1.6k)](https://github.com/wemake-services/wemake-django-template)
+*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐50k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
+*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐68k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐45k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
+*   [wemake-django-template (⭐1.7k)](https://github.com/wemake-services/wemake-django-template)
 
 ### Code Coverage & CI   [↗](https://awesomestacks.dev/code-coverage-and-ci) / Resources
 
@@ -532,7 +526,7 @@ git commit -m "submodule updated"
 
 ### Streaming Analytics with Kafka, Spark, and Cassandra   [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
 
-*   [kafka-sparkstreaming-cassandra (⭐93)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
+*   [kafka-sparkstreaming-cassandra (⭐94)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
 *   [Applying the Lambda Architecture with Spark, Kafka, and Cassandra](https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture)
 *   [Streaming Analytics with Spark, Kafka, Cassandra, and Akka](https://databricks.com/session/streaming-analytics-with-spark-kafka-cassandra-and-akka)
 
@@ -540,13 +534,13 @@ git commit -m "submodule updated"
 
 *   [Slack](https://slack.com) - [🛠️](https://stackshare.io/slack) - Where work flows.
 
-## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   (Incomplete) Sascha Willems's [samples port (⭐47)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
+*   (Incomplete) Sascha Willems's [samples port (⭐48)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 
-## [43. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [42. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Audio
 
@@ -599,7 +593,7 @@ git commit -m "submodule updated"
 *   [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
 *   [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 
-## [44. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [43. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -609,25 +603,25 @@ git commit -m "submodule updated"
 
 *   [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 
-## [45. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [44. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Videos
 
 *   [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
 
-## [46. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [45. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Quick demo Videos
 
 *   [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
 
-## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [46. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [Next UserAgent (⭐319)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent (⭐320)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
-## [48. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [47. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns
 

@@ -34,7 +34,7 @@
 
 ### Geolocation
 
-*   [segseg (⭐6)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
+*   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

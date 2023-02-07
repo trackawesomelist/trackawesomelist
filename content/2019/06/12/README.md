@@ -143,7 +143,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐53)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐54)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ---
 

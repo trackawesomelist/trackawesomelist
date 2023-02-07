@@ -69,7 +69,7 @@
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 

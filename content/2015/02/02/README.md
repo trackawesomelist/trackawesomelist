@@ -129,7 +129,7 @@
 
 ### Framework Components
 
-*   [addict (⭐646)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+*   [addict (⭐647)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 
 ### Books
 

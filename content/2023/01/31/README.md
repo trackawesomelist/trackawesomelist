@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2023
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 - Name: [**Beaudry Interactive**](https://www.binteractive.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: themed entertainment, museum exhibitions, live shows, and branded experiences
 
@@ -27,7 +27,7 @@
 
 - Name: [**Dome**](http://www.domecollective.com)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experience design studio that gathers designers, technologists, and strategists to solve unusual problems
 
@@ -36,7 +36,7 @@
 
 - Name: [**Intergalactic**](https://intergalactic.com)
 
-  Locations: ![Vancouver](https://img.shields.io/badge/-Vancouver-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[Vancouver] \[London]
 
   Keywords: mobile apps, interactive screens, web development, application design and visualization
 
@@ -45,7 +45,7 @@
 
 - Name: [**Left Field Labs**](https://www.leftfieldlabs.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: products, platforms, and services that solve fundamental human challenges
 
@@ -54,7 +54,7 @@
 
 - Name: [**S1T2**](https://s1t2.com/)
 
-  Locations: ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Sydney] \[Melbourne] \[Shanghai]
 
   Keywords: We create interactive experiences that immerse audiences in the future of storytelling through technology.
 
@@ -63,7 +63,7 @@
 
 - Name: [**SOSO**](https://www.sosolimited.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat) ![San Diego](https://img.shields.io/badge/-San%20Diego-lightgrey?style=flat)
+  Locations: \[Boston] \[San Diego]
 
   Keywords: delivering real human impact across physical and virtual space, placemaking and storytelling
 
@@ -72,7 +72,7 @@
 
 - Name: [**TAD**](https://technologyarchitecturedesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[London]
 
   Keywords: digital experiences, technology and architecture, designed to inspire people.
 
@@ -84,7 +84,7 @@
 
 - Name: [**Cortina Productions**](https://www.cortinaproductions.com/)
 
-  Locations: ![McLean, VA](https://img.shields.io/badge/-McLean%2C%20VA-lightgrey?style=flat)
+  Locations: \[McLean, VA]
 
   Keywords: artistry, content, and technology, we render the word to the story, the story to the medium, and the medium to the space.
 
@@ -93,7 +93,7 @@
 
 - Name: [**Northern Light Productions**](https://nlprod.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: immersive media environments, interactive experiences, or documentary films.
 
@@ -247,66 +247,49 @@
 
 *   [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
 
-## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐186)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-
-## [16. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [15. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online Books
 
 *   [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - An authorial set of fundamental Python recipes on Creative Coding and Computer Art, by Diego Inácio.
 
-## [17. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frameworks / Runtimes
 
 *   [Deno](https://deno.land/) - JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
 *   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐760)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
 
-## [19. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [18. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
 *   [XSM](https://gitlab.com/atnb/xsm) - A fully-featured hierarchical State Machine with parallel states, easy animation, random states and more.
 
-## [20. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 
-## [21. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [20. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Learn how to unleash the full potential of the Turing Complete type system of TypeScript!](https://type-level-typescript.com), 💵 online course with free first 5 chapters by [Gabriel Vergnaud](https://twitter.com/GabrielVergnaud)
 
-## [22. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [21. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475) Hamza Ahmad Madni, Muhammad Umer, Abid Ishaq, Nihal Abuzinadah, Oumaima Saidani, Shtwai Alsubai, Monia Hamdi, Imran Ashraf. (2023)
 
-## [23. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [22. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
@@ -314,4 +297,5 @@
 
 ---
 
+- Prev: [Feb 01, 2023](/content/2023/02/01/README.md)
 - Next: [Jan 30, 2023](/content/2023/01/30/README.md)

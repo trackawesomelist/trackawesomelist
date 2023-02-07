@@ -304,6 +304,8 @@ See also [Clache](#caching), that can save any object on disk.
 *   [neo4cl (⭐5)](https://github.com/equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2][89].
     *   and maybe: [cl-neo4j (⭐26)](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
 *   [vivace-graph (⭐125)](https://github.com/kraison/vivace-graph-v3) - graph database & Prolog implementation. Takes design inspiration from CouchDB, neo4j and AllegroGraph. It implements an ACID-compliant object graph model with user-defined indexes and map-reduce views. It also implements a master / slave replication scheme for redundancy and horizontal read scaling. Querying the graph is accomplished via a number of Lisp methods or via a Prolog-like query language. [MIT][200].
+    *   "I have used Vivace Graph as an online catalog for millions of products, as the back end for a complex, adaptable VoIP-based IVR, as well as data store for several complex big data analysis systems, and finally as the engine for two recommender systems." (issue #23)
+    *   "Why is vivace graph so fast? I have been comparing it with SQL-based approach and Neo4j, and vivace graph is much, much faster."
 
 and also:
 
@@ -766,6 +768,8 @@ The CLHS is available offline via an [archive](ftp://ftp.lispworks.com/pub/softw
 # Library Manager
 
 *   ⭐ [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
+    *   [Quicklisp bundles](https://quicklisp.org/beta/bundles.html) -  self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp.
+    *   [redist (⭐3)](https://github.com/shirakumo/redist) - facilities to produce Quicklisp distributions.
 *   [CLPM](https://gitlab.common-lisp.net/clpm/clpm) - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. [BSD\_2Clause][17].
 *   [Ultralisp](http://ultralisp.org/) - A Quicklisp distribution which updates every 5 minutes and to which one can add his project in one click. [BSD][15].
 *   👍[Roswell (⭐1.6k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
@@ -1063,8 +1067,11 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
 
 *   [numcl (⭐618)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
 *   [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
-*   [maxima](http://maxima.sourceforge.net/) - Computer algebra system. Not available on Quicklisp. [GNU GPL3][2].
-    *   also [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
+*   [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. Not available on Quicklisp. [GNU GPL3][2].
+    *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
+    *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
+    *   [Maxima on Jupyter (⭐157)](https://github.com/robert-dodier/maxima-jupyter)
+    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)).
 *   [Xecto (⭐38)](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD][15].
 *   [Petalisp (⭐272)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
@@ -1385,6 +1392,8 @@ Editor utilities:
 
 *   [Slite (⭐42)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0][89]
     *   Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
+
+For more: [Sabra Crolleton's extensive test frameworks comparison](https://sabracrolleton.github.io/testing-framework).
 
 # Utilities
 

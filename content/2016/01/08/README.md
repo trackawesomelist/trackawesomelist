@@ -18,13 +18,13 @@
 
 ### Storage / Scala
 
-*   [Secure Scuttlebutt (⭐62)](https://github.com/ssbc/docs) - P2P database of message-feeds.
+*   [Secure Scuttlebutt (⭐61)](https://github.com/ssbc/docs) - P2P database of message-feeds.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Image Processing
 
-*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐309)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Clops (⭐173)](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
+*   [Clops (⭐172)](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 
 ---
 

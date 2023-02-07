@@ -74,14 +74,10 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
-### Design
-
-*   [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-
 ### Ruby Clients
 
 *   [RESTClient (⭐5.2k)](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-*   [Spyke (⭐773)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐777)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 *   [excon (⭐1.1k)](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 
 ### Go Clients
@@ -92,11 +88,6 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 *   [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
 *   [sandman (⭐2.3k)](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
-*   [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
-
-### Go / Symfony2
-
-*   [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
 
 ## [7. Awesome Json](/content/burningtree/awesome-json/README.md)
 

@@ -53,7 +53,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [replic (⭐28)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
+*   [replic (⭐30)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-ansi-term (⭐23)](https://github.com/vindarel/cl-ansi-term) - print
     colorized text, horizontal lines, progress bars, (un)ordered lists
     and tables on ANSI-compliant terminals. [GPL3](http://www.gnu.org/copyleft/gpl.html).
@@ -64,10 +64,6 @@
     functions like a shell command, without the need to write a command
     line arguments parser. And it also can be used as a Make-like
     build-tool. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-
-### System administration / Third-party APIs
-
-*   [Adams (⭐175)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
 
 ### Date and time / Third-party APIs
 

@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [ZoneTree (⭐154)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
+*   [ZoneTree (⭐155)](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
 
 ## [2. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-stimulus-starter (⭐2)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
+*   [vite-tailwind-stimulus-starter (⭐3)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -81,13 +81,13 @@
 
 ### Feature Engineering / General
 
-*   [Feature Engine (⭐1.2k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Feature Engine (⭐1.2k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### ORM
 
-*   [bun (⭐1.8k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
+*   [bun (⭐1.9k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
 
 ---
 

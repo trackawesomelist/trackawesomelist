@@ -16,7 +16,7 @@
 
 ### Concurrency
 
-*   [cuda-api-wrappers (⭐548)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
+*   [cuda-api-wrappers (⭐559)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

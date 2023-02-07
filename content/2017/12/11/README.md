@@ -22,7 +22,7 @@
 
 ### Web Frameworks
 
-*   [Irked (⭐30)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x 3 Web and controller framework.
+*   [Irked (⭐29)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
 
 ## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐293)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 
 ## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

@@ -8,29 +8,35 @@
 
 ## [1. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+
+### Python / Symfony2
+
+*   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Source Code Repos
 
 *   [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
 
-## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Object
 
 *   [merge-objects (⭐2)](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [Google’s Site Reliability Engineering with Todd Underwood](https://softwareengineeringdaily.com/2016/06/14/googles-site-reliability-engineering-todd-underwood/)
 
-## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -40,7 +46,7 @@
 
 *   [urchin (⭐209)](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 
-## [6. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
+## [7. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
 ### Methods / Research Plan
 
@@ -186,36 +192,29 @@
 *   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
 *   [vueslack - 2300+ registered users worldwide](https://vueslack.slack.com/)
 
-## [8. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [9. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Tools / Miscellaneous
 
 *   [SharpScss (⭐53)](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
 
-## [9. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
+## [10. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 
 ### Hybrid Desktop / Resources-websites-projects
 
 *   [MacGap](https://github.com/MacGapProject)
 
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### NewSQL Databases
 
 *   [SenseiDB](http://senseidb.github.io/sensei/) - distributed, realtime, semi-structured database.
-
-## [11. Awesome Rest](/content/marmelab/awesome-rest/README.md)
-
-### Python / Symfony2
-
-*   [hug](http://www.hug.rest/) - Lightweight and fast API Framework.
-*   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

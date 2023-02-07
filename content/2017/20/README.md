@@ -117,8 +117,8 @@
 
 *   C#
     *   [by @shkolovy (⭐25)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms)
-    *   [by @justcoding121 (⭐972)](https://github.com/justcoding121/Advanced-Algorithms)
+    *   [by @aalhour (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @justcoding121 (⭐1.1k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ## [13. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -610,7 +610,7 @@
 
 ### Database
 
-*   [SimDB (⭐452)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store \[Apache2]
+*   [SimDB (⭐457)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store \[Apache2]
 
 ## [43. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 

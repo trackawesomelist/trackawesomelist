@@ -10,8 +10,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐573)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐948)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐575)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐951)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

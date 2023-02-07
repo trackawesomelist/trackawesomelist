@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐27k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐28k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Macros
 
-*   [crudry (⭐79)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
+*   [crudry (⭐78)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 
 ### ORM and Datamapping
 
@@ -127,7 +127,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [formsy-react (⭐754)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+*   [formsy-react (⭐759)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 
 ## [15. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

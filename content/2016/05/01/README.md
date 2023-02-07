@@ -87,7 +87,7 @@
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐360)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐361)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ---
 

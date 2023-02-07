@@ -36,7 +36,7 @@
 
 ### Authentication Authorisation
 
-*   [Vert.x-Pac4j (⭐117)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
+*   [Vert.x-Pac4j (⭐118)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Java VM / Clojure
 
-*   [Friboo (⭐117)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
+*   [Friboo (⭐118)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
 
 ### PHP / Scala
 
@@ -357,7 +357,7 @@ git rev-list --count <branch-name>
 
 *   [CUB (⭐65)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.4k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐1.9k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [NCCL (⭐2k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -414,7 +414,7 @@ git rev-list --count <branch-name>
 
 ### Game
 
-*   [MonoGame (⭐9.1k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐9.2k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ### ORM
 
@@ -686,7 +686,7 @@ git flow init -d
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐620)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐622)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -718,11 +718,11 @@ git flow init -d
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐84)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐83)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Testing
 
-*   [bypass (⭐867)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐871)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -759,12 +759,12 @@ git flow init -d
 
 ### Project Generators
 
-*   [crystal\_lib (⭐136)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐137)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
 *   [Kilt (⭐144)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐227)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Slang (⭐228)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks
 
@@ -780,7 +780,7 @@ git flow init -d
 
 ### Bindings
 
-*   [Vulkan-hpp (⭐2.4k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*   [Vulkan-hpp (⭐2.5k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 
 ## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

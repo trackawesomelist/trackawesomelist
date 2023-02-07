@@ -102,7 +102,7 @@
 
 ### Entertainment / Music
 
-*   [swaglyrics-for-spotify (⭐292)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+*   [swaglyrics-for-spotify (⭐297)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

@@ -17,7 +17,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ee-ts (⭐119)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+*   :octocat: [ee-ts (⭐121)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐145)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐146)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

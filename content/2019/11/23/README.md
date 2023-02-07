@@ -23,7 +23,7 @@
 ### Realizers
 
 *   [Genl (⭐22)](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
-*   [JSrealB (⭐17)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
+*   [JSrealB (⭐18)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Types / Playground
 
-*   [ts-types-utils (⭐55)](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript
+*   [ts-types-utils (⭐56)](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript
 
 ### Back-end API / Playground
 
@@ -41,7 +41,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [prelude.ts (⭐361)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+*   :octocat: [prelude.ts (⭐363)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
 
 ### Badges / Chrome Extensions
 

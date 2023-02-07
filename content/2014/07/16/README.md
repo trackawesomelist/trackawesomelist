@@ -58,7 +58,7 @@
 
 ### Caching
 
-*   [CacheCow (⭐815)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
+*   [CacheCow (⭐816)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
 
 ### Code Analysis and Metrics
 
@@ -74,7 +74,7 @@
 
 ### IoC
 
-*   [Castle Windsor (⭐1.4k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
+*   [Castle Windsor (⭐1.5k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
 *   [Autofac (⭐4.1k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 
 ### Logging
@@ -107,7 +107,7 @@
 ### WebSocket
 
 *   [Fleck (⭐2.1k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
-*   [Websocket-Sharp (⭐4.9k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+*   [Websocket-Sharp (⭐5k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -161,11 +161,11 @@
 ### Julia / General-Purpose Machine Learning
 
 *   [PGM (⭐50)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐304)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [Clustering (⭐306)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
-*   [Distributions (⭐948)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
+*   [Distributions (⭐955)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
 
 ### Lua / General-Purpose Machine Learning
 
@@ -202,7 +202,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐566)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐567)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -233,7 +233,7 @@
 
 ### Ruby / Data Analysis / Data Visualization
 
-*   [Bioruby (⭐366)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐365)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
@@ -247,7 +247,7 @@
 
 *   [adam (⭐937)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 *   [bioscala (⭐105)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
-*   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [BIDMach (⭐916)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ---
 

@@ -343,11 +343,11 @@
 
 ### Build Automation
 
-*   [Invoke-Build (⭐542)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐546)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Logging
 
-*   [StackExchange.Exceptional (⭐847)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐848)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### Queue
 

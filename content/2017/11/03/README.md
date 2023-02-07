@@ -155,7 +155,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Frameworks
 
-*   [abseil-cpp (⭐11k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
+*   [abseil-cpp (⭐12k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
 
 ### JSON
 

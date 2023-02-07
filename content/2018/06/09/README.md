@@ -60,7 +60,7 @@
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐7.9k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐8k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐227k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐234k)](https://github.com/sindresorhus/awesome) list.
 
 ### Contributing
 

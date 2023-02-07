@@ -22,10 +22,6 @@
 
 *   [Syndie](https://syndie.de) - Syndie is a libre system for operating distributed forums. `CC0-1.0` `Java`
 
-### Software / Communication - Email - Mail Transfer Agents
-
-*   [Qmail](https://cr.yp.to/qmail.html) - Secure Sendmail replacement. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`
-
 ### Software / URL Shorteners
 
 *   [Simple-URL-Shortener (⭐35)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
@@ -53,7 +49,7 @@
 ### Other Tools / Telegram
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
-    *   [pygreynoise (⭐134)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+    *   [pygreynoise (⭐135)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

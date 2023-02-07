@@ -83,15 +83,15 @@
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Services
+### Services / Misc
 
 *   [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 
-### Resources
+### Resources / Misc
 
-*   [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference
+*   [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference.
 
-### Statistics
+### Statistics / Misc
 
 *   [Mailchimp Research](http://mailchimp.com/resources/research/) - Mailchimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
 

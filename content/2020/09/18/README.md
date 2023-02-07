@@ -10,7 +10,7 @@
 
 ### AppImage developer tools / Deployment tools for Python applications
 
-*   [PyAppImage (⭐14)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
+*   [PyAppImage (⭐15)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐4.9k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐5k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Serialization
 
-*   [ProtoBuf (⭐273)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+*   [ProtoBuf (⭐276)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 
 ### Testing
 
@@ -119,7 +119,7 @@
 ### Tools
 
 *   [Open Live Writer (⭐2.4k)](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
-*   [Papercut (⭐2.4k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
+*   [Papercut (⭐2.5k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
 *   [SmartCode (⭐539)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
 
 ### UI Automation

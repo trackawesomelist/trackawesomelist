@@ -83,7 +83,7 @@
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 

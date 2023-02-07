@@ -26,7 +26,7 @@
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Services
+### Services / Misc
 
 *   [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 
@@ -78,7 +78,7 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐373)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐394)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 28, 2017
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -134,54 +134,47 @@
     *   [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
     *   [arduino-canbus-monitor (⭐234)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 
-## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
-
-### Ruby / Symfony2
-
-*   [Grape](http://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
-*   [Rails](http://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
-
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Reference material
 
 *   InfluxDB in IoT world. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/) | [Part 3: Plotting graphs using Grafana](https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/)
 
-## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [8. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Websites
 
 *   [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 
 *   [Front-end com Vue.js](https://www.casadocodigo.com.br/products/livro-frontend-vue) by Leonardo Vilarinho, Casa do Código. (November 2017)
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Accompanying Repos
 
 *   [aws-big-data-blog :fire::fire::fire: (⭐882)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [jarro2783/cxxopts (⭐3.3k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
+*   [jarro2783/cxxopts (⭐3.4k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
 
 ### Graphics
 
 *   [DirectXTK (⭐2.2k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
 
-## [13. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [12. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### iBeacon for Developers
 
 *   [Traveling with Beacons: Checked Luggage Made Easy](https://medium.com/@urish/traveling-with-beacons-checked-luggage-made-easy-bbd664765ea3)
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CMS
 

@@ -22,7 +22,7 @@
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [retro-gtfs (⭐46)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
+*   [retro-gtfs (⭐48)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

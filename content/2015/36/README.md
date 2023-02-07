@@ -276,28 +276,28 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Grunt Email Boilerplate (⭐286)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 
-### Articles
+### Articles / Misc
 
 *   [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
 
-### Design
+### Design / Misc
 
 *   [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
-### Blogs
+### Blogs / Misc
 
 *   [Litmus Blog](https://litmus.com/blog/)
 *   [Stylecampaign Blog](http://stylecampaign.com/blog/)
 
-### Testing
+### Testing / Misc
 
-*   [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt
-*   [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
+*   [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt.
+*   [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
 
 ## [8. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -325,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐509)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐512)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -577,7 +577,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐33)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.2k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.3k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -823,7 +823,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Web Frameworks
 
-*   [Kovert (⭐154)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
+*   [Kovert (⭐155)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
 ## [26. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -884,7 +884,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Algorithms and Data structures
 
-*   [bitmap (⭐30)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
+*   [bitmap (⭐31)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 *   [tfidf (⭐15)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 
 ### Office
@@ -893,7 +893,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Text and Numbers
 
-*   [money (⭐692)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐694)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 

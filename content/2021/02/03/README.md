@@ -120,7 +120,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Nacos (⭐24k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
+*   [Nacos (⭐25k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
 
 ### Serialization / Scala
 
@@ -156,8 +156,8 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Destructible Objects (⭐320)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
-*   [CRT Shader (⭐250)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
+*   [2D Destructible Objects (⭐328)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [CRT Shader (⭐251)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 
 ### Other / Godot version unknown
 
@@ -173,7 +173,7 @@
 
 ### Utilities
 
-*   [Contextual logging (⭐17)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
+*   [Contextual logging (⭐20)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
 
 ## [19. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
 
@@ -191,7 +191,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [LibrePhotos (⭐5k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
+*   [LibrePhotos (⭐5.1k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
 ## [22. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐248)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐255)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

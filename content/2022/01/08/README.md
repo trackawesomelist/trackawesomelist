@@ -83,13 +83,13 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Vaex (⭐7.6k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
+*   [Vaex (⭐7.7k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Command-Line Productivity
 
-*   [bashhub-server (⭐252)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+*   [bashhub-server (⭐256)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

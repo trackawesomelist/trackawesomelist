@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [datafusion (⭐3k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐3.1k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Libraries / Web programming
 
@@ -35,7 +35,7 @@
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐34)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐35)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

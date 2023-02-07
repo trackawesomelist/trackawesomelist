@@ -14,7 +14,7 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [yass (⭐21)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 

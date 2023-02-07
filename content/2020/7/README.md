@@ -218,7 +218,7 @@
 
 ### Audio Tools
 
-*   [matchering (⭐748)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+*   [matchering (⭐828)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -301,7 +301,7 @@
 
 ### Projects
 
-*   [web-view todomvc desktop app (⭐102)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.8k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.8k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.8k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
+*   [web-view todomvc desktop app (⭐103)](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view (⭐1.8k)](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view (⭐1.8k)](https://github.com/Boscop/web-view) also has a [demo (⭐1.8k)](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 *   [Kirk (⭐36)](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
 
 ### Crates / Wasm
@@ -319,9 +319,9 @@
 
 ### Related lists / Frameworks
 
-*   [Awesome Rust and WebAssembly (⭐526)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
-*   [Awesome WebAssembly (⭐7.4k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
-*   [Awesome Rust (⭐31k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [Awesome Rust and WebAssembly (⭐527)](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
+*   [Awesome WebAssembly (⭐7.5k)](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
+*   [Awesome Rust (⭐32k)](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
 ## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -402,7 +402,7 @@
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐6.5k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐6.6k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [24. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -424,11 +424,11 @@
 
 ### Applications / Database
 
-*   [Lucid (⭐308)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
+*   [Lucid (⭐310)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 
 ### Applications / Web Servers
 
-*   [wyhaya/see (⭐174)](https://github.com/wyhaya/see) — Static HTTP file server [![Build Status](https://api.travis-ci.org/wyhaya/see.svg?branch=master)](https://travis-ci.org/wyhaya/see)
+*   [wyhaya/see (⭐175)](https://github.com/wyhaya/see) — Static HTTP file server [![Build Status](https://api.travis-ci.org/wyhaya/see.svg?branch=master)](https://travis-ci.org/wyhaya/see)
 
 ### Libraries / Logging
 
@@ -487,7 +487,7 @@
 
 ### Programming Languages
 
-*   [Coq (⭐199)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐211)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ### Front-End Development
 
@@ -533,16 +533,16 @@
 
 ### Productivity / Calendars
 
-*   [gcalcli (⭐2.9k)](https://github.com/insanum/gcalcli) - Google calendar client.
+*   [gcalcli (⭐3k)](https://github.com/insanum/gcalcli) - Google calendar client.
 *   [khal (⭐2.1k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ### Files and Directories / Search
 
-*   [broot (⭐7.7k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+*   [broot (⭐8.1k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ### Images / Image Conversion
 
-*   [korkut (⭐351)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+*   [korkut (⭐355)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 
 ## [34. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -626,7 +626,7 @@
 
 ### Database
 
-*   [DBreeze (⭐454)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
+*   [DBreeze (⭐455)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
 
 ## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -704,11 +704,11 @@
 
 ### C, C++
 
-*   [Software-Evolution-Library (⭐133)](https://github.com/GrammaTech/sel) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Software-Evolution-Library (⭐136)](https://github.com/GrammaTech/sel) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### C
 
-*   [cl-bindgen (⭐22)](https://github.com/sdilts/cl-bindgen) - A command line tool and library for creating Common Lisp language bindings from C header files. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-bindgen (⭐23)](https://github.com/sdilts/cl-bindgen) - A command line tool and library for creating Common Lisp language bindings from C header files. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
@@ -783,7 +783,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐254)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
+*   [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code (⭐258)](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`
 
 ### Software / Task Management & To-do Lists
 
@@ -861,7 +861,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Photo / Image
 
-*   [react-particle-image (⭐386)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+*   [react-particle-image (⭐393)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 
 ### Miscellaneous
 
@@ -869,7 +869,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ### Miscellaneous / Lazy Load
 
-*   [react-demo-tab-cli (⭐47)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
+*   [react-demo-tab-cli (⭐48)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 
 ---
 

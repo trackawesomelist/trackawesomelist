@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Text Modes / Other / unknown licence
+### Text Modes / MIT
 
 *   [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
@@ -22,7 +22,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐303)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐304)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -30,7 +30,7 @@
 
 *   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐17k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
 *   [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙 (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-*   [I18next](https://www.i18next.com/) - [🐙 (⭐6.4k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
+*   [I18next](https://www.i18next.com/) - [🐙 (⭐6.6k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
 *   [Redux Saga](https://redux-saga.js.org/) - [🐙 (⭐22k)](https://github.com/redux-saga/redux-saga) - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
 
 ### GCP Kubernetes Stack   [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
@@ -68,7 +68,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐79)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐81)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
@@ -84,7 +84,7 @@
 
 ## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services
+### Services / Misc
 
 *   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 
@@ -147,12 +147,12 @@
 
 ### Persistent object databases
 
-*   [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork (⭐27)](https://github.com/40ants/cl-prevalence). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork (⭐28)](https://github.com/40ants/cl-prevalence). [LLGPL](http://opensource.franz.com/preamble.html).
     *   See also [cl-prevalence-multimaster (⭐3)](https://github.com/40ants/cl-prevalence-multimaster), to syncronize multiple cl-prevalence systems state.
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [fast-http (⭐331)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-http (⭐330)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Interfaces to other package managers
 
@@ -181,7 +181,7 @@
 
 *   [erlangen (⭐64)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 *   [Actors (⭐9)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
-*   [common-lisp-actors (⭐97)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [common-lisp-actors (⭐98)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [memento-mori (⭐30)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
 
 ### Date and time / Third-party APIs
@@ -372,7 +372,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Graphics / Image Conversion
 
-*   [pastel (⭐4.3k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+*   [pastel (⭐4.4k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
 ## [34. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -509,7 +509,7 @@ Topics: CSS, CSS in JS, React\
 ### Document
 
 *   [Arm](https://developer.arm.com/solutions/graphics/apis/vulkan)
-    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐525)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐530)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
     *   [Vulkan's Key Features on Arm Architecture](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Vulkan%20API%20key%20features%20on%20ARM%20architecture.pdf)
     *   [Porting a Graphics Engine to the Vulkan API](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
     *   [Get Your Engine Ready for Vulkan on Mobile](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Get%20Your%20Engine%20Ready%20for%20Vulkan%20on%20Mobile.pdf)
@@ -518,12 +518,12 @@ Topics: CSS, CSS in JS, React\
 
 ### Samples
 
-*   [Vulkan Best Practice for Mobile Developers Samples (⭐525)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+*   [Vulkan Best Practice for Mobile Developers Samples (⭐530)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 
 ### Tools
 
 *   [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
-*   [Arm - PerfDoc (⭐111)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
+*   [Arm - PerfDoc (⭐112)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
 ## [38. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -624,7 +624,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Open Source / Casual
 
-*   [Bob Box (⭐35)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+*   [Bob Box (⭐37)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 
 ### Open Source / Endless Runner
 
@@ -688,9 +688,9 @@ Topics: CSS, CSS in JS, React\
 
 ### Introspection
 
-*   [ClassGraph (⭐2.3k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
+*   [ClassGraph (⭐2.4k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
 *   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
-*   [Reflections (⭐4.3k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
+*   [Reflections (⭐4.4k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
 ## [54. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -763,7 +763,7 @@ Topics: CSS, CSS in JS, React\
 
 ### CLI
 
-*   [Lyra (⭐389)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐393)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Web Application Framework
 
@@ -937,7 +937,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐396)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐410)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -945,7 +945,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Groupware
 
-*   [HRCloud2 (⭐180)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
+*   [HRCloud2 (⭐182)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
 
 ### Software / Pastebins
 

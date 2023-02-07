@@ -16,7 +16,7 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐428)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐430)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
@@ -68,11 +68,11 @@
 ### Build Tools
 
 *   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
-*   [mad (⭐175)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+*   [mad (⭐176)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐446)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐448)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
@@ -80,7 +80,7 @@
 
 ### Files and Directories
 
-*   [fs (⭐217)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐221)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### HTTP
 

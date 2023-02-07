@@ -155,7 +155,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐611)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐625)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -185,13 +185,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-scroll-picker (⭐18)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue3-scroll-picker (⭐19)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
 ## [18. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Open Source / Community
 
-*   [TroisJS (⭐3.1k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+*   [TroisJS (⭐3.2k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
 ## [19. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 

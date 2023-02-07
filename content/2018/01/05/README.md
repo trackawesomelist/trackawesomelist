@@ -31,7 +31,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-chrome-extension-boilerplate (⭐244)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
+*   [vue-chrome-extension-boilerplate (⭐245)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
 
 ### Components & Libraries / UI Utilities
 

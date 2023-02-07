@@ -360,7 +360,7 @@
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [om-tools (⭐438)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
+*   [om-tools (⭐437)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 
 ## [23. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -443,7 +443,7 @@
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐3.5k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐3.6k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### Protocols
 

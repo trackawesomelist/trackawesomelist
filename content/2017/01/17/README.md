@@ -16,7 +16,7 @@
 
 ### Date and Time
 
-*   [timelier (⭐10)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
+*   [timelier (⭐11)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
 
 ### Third Party APIs
 

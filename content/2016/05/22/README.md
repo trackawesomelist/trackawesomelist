@@ -16,7 +16,7 @@
 
 ### Frameworks / Runtimes
 
-*   [Vert.X Toolbox (⭐107)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
+*   [Vert.X Toolbox (⭐109)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
 ### Node.js / Scala
 

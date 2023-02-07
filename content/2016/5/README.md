@@ -243,7 +243,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐141k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐142k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
 ## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -261,14 +261,14 @@ Webpage: <http://hanahaus.com/>
 
 ### Rust / General-Purpose Machine Learning
 
-*   [deeplearn-rs (⭐199)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐544)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [deeplearn-rs (⭐201)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+*   [rustlearn (⭐553)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
-*   [Audacity (⭐8.4k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+*   [Audacity (⭐8.8k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 
 ### Audio Libraries
 
@@ -287,13 +287,13 @@ Webpage: <http://hanahaus.com/>
 
 ### Free Music Scores
 
-*   [cellist/Lilypond-Sheet-Music (⭐114)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
+*   [cellist/Lilypond-Sheet-Music (⭐116)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 *   [ciconia/music (⭐19)](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 *   [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
-*   [Éditions Nicolas Sceaux (⭐40)](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
+*   [Éditions Nicolas Sceaux (⭐41)](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
 *   [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
-*   [Mutopia (⭐211)](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
-*   [wbsoft/lilymusic (⭐45)](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
+*   [Mutopia (⭐219)](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
+*   [wbsoft/lilymusic (⭐47)](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
 
 ### MIDI Tools & Libraries
 
@@ -302,27 +302,27 @@ Webpage: <http://hanahaus.com/>
 ### Music Notation
 
 *   [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
-*   [Frescobaldi (⭐587)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
+*   [Frescobaldi (⭐605)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 *   [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
-*   [Inknote (⭐152)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
+*   [Inknote (⭐151)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 *   [LibMEI (⭐58)](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 *   [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 *   [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
 *   [Lydown (⭐23)](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
-*   [MuseScore (⭐7.7k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
+*   [MuseScore (⭐9.1k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐509)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
-*   [Vexflow (⭐3.4k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
+*   [Verovio (⭐525)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Vexflow (⭐3.5k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming
 
-*   [Alda (⭐5.2k)](https://github.com/alda-lang/alda) - a music programming language for musicians.
-*   [Chuck (⭐569)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
-*   [CoffeeCollider (⭐217)](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
+*   [Alda (⭐5.3k)](https://github.com/alda-lang/alda) - a music programming language for musicians.
+*   [Chuck (⭐579)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
+*   [CoffeeCollider (⭐216)](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 *   [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 *   [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
-*   [IanniX (⭐289)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
-*   [Leipzig (⭐440)](https://github.com/ctford/leipzig) - a composition library for Overtone.
+*   [IanniX (⭐296)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
+*   [Leipzig (⭐442)](https://github.com/ctford/leipzig) - a composition library for Overtone.
 *   [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 *   [Nyquist](https://www.cs.cmu.edu/\~music/nyquist/) - a sound synthesis and composition language.
 *   [Overtone (⭐5.6k)](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
@@ -393,11 +393,11 @@ Webpage: <http://hanahaus.com/>
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
+*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
 
 ### Concurrency
 
-*   [ck (⭐2.1k)](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
+*   [ck (⭐2.2k)](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
 *   [junction (⭐1.3k)](https://github.com/preshing/junction) - A library of concurrent data structures in C++. \[BSD]
 *   [libcds (⭐2.2k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
 
@@ -464,11 +464,11 @@ git name-rev --name-only <SHA-1>
 
 ### Documentation
 
-*   [bureaucrat (⭐321)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐323)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
-*   [hello\_phoenix (⭐131)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
+*   [hello\_phoenix (⭐130)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
 
 ### Framework Components
 
@@ -481,7 +481,7 @@ git name-rev --name-only <SHA-1>
 ### ORM and Datamapping
 
 *   [inquisitor (⭐167)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
-*   [mongodb (⭐543)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐544)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 *   [udpflux (⭐3)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ### Protocols

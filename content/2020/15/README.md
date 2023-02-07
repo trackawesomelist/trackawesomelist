@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2020
 
-64 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -333,7 +333,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐985)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐1k)](https://github.com/megadose/toutatis)
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Go / Data Analysis / Data Visualization
 
-*   [dataframe-go (⭐917)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
+*   [dataframe-go (⭐924)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
 ## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -387,25 +387,19 @@
 
 *   [steam-inventory-stream (⭐9)](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams.
 
-## [16. Awesome](/content/craftcms/awesome/week/README.md)
-
-### Official Links
-
-*   **Dot All Conference** - [dotall.com](http://dotall.com)
-
-## [17. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [16. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
 *   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
 
-## [18. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / PHP
 
 *   [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
 
-## [19. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [18. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mod Loaders / Archives
 
@@ -472,53 +466,53 @@
 *   [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) - This mod adds multiple new textures to lots of blocks in the game, adding a wide variety of textures. (For editing units smaller than blocks see Chisel and Bits.)
 *   [FAWE](https://intellectualsites.github.io/download/fawe.html) - Stands for Fast Async WorldEdit. Based upon WorldEdit, it is simply faster, and adds lots more tools (i.e. brushes) to work with.
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / DNS
 
-*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.6k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
+*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.7k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 
-## [21. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [20. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
 *   [How They Test (⭐4.5k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
-## [22. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [21. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-sites / Git
 
 *   [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
 
-## [23. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [22. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
-*   [jest-playwright (⭐472)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐485)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐79)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐138k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐85k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐241)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐183)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [playwright-jest-examples (⭐80)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐142k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐88k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐249)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐195)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐14k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
-## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [23. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.4k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
-## [25. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [24. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
 *   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 
-## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [25. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Personality
 
@@ -534,19 +528,19 @@
 
 
 
-## [27. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [26. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Code Quality
 
 *   [Sider](https://sider.review/) - Automated code review.
 
-## [28. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [27. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [NCEAS Interaction Web data](https://iwdb.nceas.ucsb.edu/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships.
 
-## [29. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [28. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Research Papers / RFID NFC Tools
 
@@ -565,26 +559,26 @@
 
 *   [wrong baud](https://wrongbaud.github.io/)
 
-## [30. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [29. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Products
 
 *   [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 
-## [31. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [30. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 
 *   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
 *   [WebGL Month (⭐205)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Miscellaneous
 
 *   [husky (⭐29k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
-## [33. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -594,19 +588,19 @@
 
 *   [Learn out of mistakes. Postmortems to the rescue.](https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/)
 
-## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Opencast](https://anchor.fm/opencast) - Tecnologia, Software Livre e inovação em um bate-papo descontraído e cheio de referências ao mundo unix-like..
 
-## [35. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [34. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### WordPress / WPGraphQL Extensions
 
 *   [WPGraphQl Yoast SEO Plugin (⭐194)](https://github.com/ashhitch/wp-graphql-yoast-seo) - Exposes Yoast SEO data to the WPGraphQL Plugin.
 
-## [36. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [35. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Official
 
@@ -652,7 +646,7 @@
 
 *   [Telegram](https://t.me/wavesjapandevs) - DApps開発者のためのTelegramチャット.
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Security / Barcode
 
@@ -712,13 +706,13 @@
 
 *   [Azure Functions for Swift (⭐87)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
-## [38. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [37. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) Building web applications in [F#](https://dotnet.microsoft.com/languages/fsharp) following The Elm Architecture from first principles.
 
-## [39. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [38. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
@@ -733,13 +727,13 @@
 
 *   [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
 
-## [40. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [39. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [Scapy (⭐81)](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
 
-## [41. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [40. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
@@ -749,13 +743,13 @@
 
 *   [wagtail-admin-list-controls (⭐36)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
-## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [41. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### CSV
 
 *   [CodableCSV (⭐366)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
-## [43. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -776,7 +770,7 @@
 *   [critic.sh (⭐449)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 *   [esh (⭐166)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
 
-## [44. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [43. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
@@ -786,7 +780,7 @@
 *   [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Productivity-and-Time-Management.md)
 *   [Tools to Define Your Leadership Style](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Tools-to-Define-Your-Leadership-Style.md)
 
-## [45. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [44. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -804,7 +798,7 @@
 
 *   [Secrets Sync Action (⭐269)](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 
-## [46. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [45. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Word Processors
 
@@ -917,13 +911,13 @@
     tutorial on authoring a paper by seamlessly integrating with LaTeX
     commands within Org-mode.
 
-## [47. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [46. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Datasets / Sensor and Acuator Interfaces
 
 *   [Ford Autonomous Vehicle Dataset](https://avdata.ford.com/home/default.aspx) - Ford presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times.
 
-## [48. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [47. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### CMS
 
@@ -946,7 +940,7 @@
 
 *   [RPyC (⭐1.3k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
-## [49. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [48. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### API Wrapper
 
@@ -964,7 +958,7 @@
 
 *   [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
 
-## [50. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [49. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Java VM / Java
 
@@ -972,7 +966,7 @@
 
 ### Rust / Scala
 
-*   [Tarpc (⭐2.4k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐2.5k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Elasticity / Scala
 
@@ -981,7 +975,7 @@
 ### Messaging / Scala
 
 *   [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
-*   [Bull (⭐13k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
+*   [Bull (⭐14k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 *   [Nanomsg-NG](https://nng.nanomsg.org/) - Lightweight brokerless messaging.
 
 ### Security / Scala
@@ -992,25 +986,25 @@
 
 *   [QUIC-WG](https://quicwg.org/) - IETF Working Group that is chartered to deliver the next transport protocol for the Internet.
 
-## [51. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [50. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Keycloak Login with User Attribute (⭐19)](https://github.com/cnieg/keycloak-login-attribute)
 
-## [52. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [51. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Hypermedia Types
 
-*   [hate (⭐20)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
+*   [hate (⭐21)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 
-## [53. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [52. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [78 (⭐2)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
 
-## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -1022,9 +1016,9 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐238)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐241)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
-## [55. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [54. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / DDoS Tools
 
@@ -1038,19 +1032,19 @@
 
 *   [GitHub Advisories](https://github.com/advisories/) - Public vulnerability advisories published by or affecting codebases hosted by GitHub, including open source projects.
 
-## [56. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [55. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Service meshes
 
 *   [CodeQL](https://securitylab.github.com/tools/codeql) - Discover vulnerabilities across a codebase by performing queries against code as though it were data.
 
-## [57. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [56. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Design / Angular
 
 *   [Figmalion](https://figmalion.com). A biweekly curated newsletter about [Figma](https://www.figma.com/).
 
-## [58. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [57. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -1060,13 +1054,13 @@
 
 *   [EasyNetQ (⭐2.5k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
 
-## [59. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [58. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [RxDB (⭐19k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 
-## [60. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [59. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
@@ -1076,7 +1070,7 @@
 
 *   [debugger (⭐546)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
-## [61. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [60. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
@@ -1091,19 +1085,19 @@
 *   [Invoke-LiveResponse (⭐133)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
 *   [IRTriage (⭐115)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
-## [62. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [61. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Utilities
 
 *   [Grayscale Mode (⭐63)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT (⭐63)](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 
-## [63. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [62. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
 
-## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [63. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CDN and Protection
 

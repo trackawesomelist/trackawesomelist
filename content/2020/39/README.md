@@ -49,13 +49,13 @@
 
 ### Python / Computer Vision
 
-*   [pytessarct (⭐4.6k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐48k)](https://github.com/tesseract-ocr/tesseract).
+*   [pytessarct (⭐4.6k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐49k)](https://github.com/tesseract-ocr/tesseract).
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
-*   [json-schema-to-ts (⭐960)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+*   [json-schema-to-ts (⭐972)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 
 ## [7. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -163,7 +163,7 @@
 
 ### Audio Tools
 
-*   [Cecilia (⭐150)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+*   [Cecilia (⭐155)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 
 ## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -207,7 +207,7 @@
 
 ### Minifiers - HTML / Meetups
 
-*   [Minimize (⭐158)](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
+*   [Minimize (⭐161)](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
 
 ## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -271,7 +271,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Deployment / NLP
 
-*   [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python
+*   [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), a web framework for building APIs with Python
 *   [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 
 ### Reinforcement Learning / NLP
@@ -295,7 +295,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### HTTP
 
-*   [finch (⭐990)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐996)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ### YAML
 
@@ -317,7 +317,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Networking
 
-*   [Boost.Beast (⭐3.6k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[BSL-1.0] [website](https://www.boost.org/libs/beast)
+*   [Boost.Beast (⭐3.7k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[BSL-1.0] [website](https://www.boost.org/libs/beast)
 
 ## [31. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
@@ -425,13 +425,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kak-lsp/kak-lsp (⭐497)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kak-lsp/kak-lsp (⭐503)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐55)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.1k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐54)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.1k)](https://github.com/seek-oss/capsize).
 
 ## [40. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -598,9 +598,9 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Components & Libraries / UI Components
 
-*   [vue3-highcharts (⭐41)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
+*   [vue3-highcharts (⭐40)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
 *   [echarts-for-vue (⭐65)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
-*   [tsParticles (⭐4.7k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐4.8k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Frameworks
 
@@ -613,7 +613,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Components & Libraries / Utilities
 
 *   [rexios (⭐5)](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
-*   [vue-axillo (⭐7)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
+*   [vue-axillo (⭐8)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
 *   [v-bucket (⭐42)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 
 ### Components & Libraries / Integrations
@@ -634,7 +634,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Buttons
 
-*   [reactive-button (⭐100)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
+*   [reactive-button (⭐101)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
 ## [57. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -732,7 +732,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Framework Components
 
-*   [Shield (⭐46)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
+*   [Shield (⭐50)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
 
 ### Misc
 
@@ -742,12 +742,12 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Nextjs Blog Starter   [↗](https://awesomestacks.dev/nextjs-blog-starter) / Resources
 
-*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐94k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
-*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐85k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
+*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐100k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
+*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐88k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
 *   [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
 *   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐27k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
-*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐21k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
-*   [Nextjs Blog Starter (⭐483)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
+*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
+*   [Nextjs Blog Starter (⭐511)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
 *   [Nextjs Blog Starter Demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)
 
 ## [67. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
@@ -839,7 +839,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### CMS
 
-*   [BlazorShop (⭐224)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
+*   [BlazorShop (⭐225)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
 ## [75. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -973,7 +973,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Native
 
-*   [Aparapi (⭐424)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
+*   [Aparapi (⭐427)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
 
 ### PDF
 
@@ -981,16 +981,16 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Science / Other
 
-*   [Chart-FX (⭐377)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
-*   [LogicNG (⭐103)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
+*   [Chart-FX (⭐391)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
+*   [LogicNG (⭐104)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 
 ### Testing / Miscellaneous
 
-*   [LogCaptor (⭐210)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
+*   [LogCaptor (⭐217)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Graal (⭐336)](https://github.com/neomatrix369/awesome-graal)
+*   [Awesome Graal (⭐338)](https://github.com/neomatrix369/awesome-graal)
 
 ### People / Twitter
 
@@ -1000,7 +1000,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Contents / Business
 
-*   [Open E-Commerce App (⭐666)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
+*   [Open E-Commerce App (⭐672)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
 
 ---
 

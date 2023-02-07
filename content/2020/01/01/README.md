@@ -86,7 +86,7 @@
 
 ### CLI
 
-*   [tabulate (⭐1.4k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ \[MIT]
+*   [tabulate (⭐1.5k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ \[MIT]
 
 ### Integrated Development Environment
 

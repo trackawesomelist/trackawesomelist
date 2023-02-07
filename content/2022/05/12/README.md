@@ -70,7 +70,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-context (⭐1.2k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
+*   [nvim-treesitter/nvim-treesitter-context (⭐1.3k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
 
 ## [10. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

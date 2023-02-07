@@ -85,7 +85,7 @@
 
 ### Third Party APIs
 
-*   [telegex (⭐58)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
+*   [telegex (⭐59)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -269,7 +269,7 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐227)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
+*   [slowtec/tokio-modbus (⭐230)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
 
 ## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -303,10 +303,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Validation / Playground
 
-*   [zod (⭐16k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [zod (⭐18k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.3k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ow (⭐3.7k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.3k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐6.4k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## [17. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
@@ -357,11 +357,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Back-End Development
 
-*   [FastAPI (⭐5k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+*   [FastAPI (⭐5.1k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 
 ### Security
 
-*   [DevSecOps (⭐853)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+*   [DevSecOps (⭐874)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 ## [19. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -385,8 +385,8 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### General
 
-*   [css.gg (⭐8.7k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
-*   [Heroicons (⭐17k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
+*   [css.gg (⭐9k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
+*   [Heroicons (⭐18k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 
 ## [23. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -440,7 +440,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Utilities / General Tools
 
-*   [Ultra TabSaver (⭐229)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
+*   [Ultra TabSaver (⭐228)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
 ## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -460,7 +460,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ## [28. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [cubit (⭐70)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
@@ -742,7 +742,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [Vue Mini Shop (⭐265)](https://github.com/BosNaufal/vue-mini-shop)
 *   [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
 *   [Ngexplorer-vuejs-client (⭐2)](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for `Ngexplorer`
-*   [Vue Simple PWA (⭐195)](https://github.com/BosNaufal/vue-simple-pwa)
+*   [Vue Simple PWA (⭐194)](https://github.com/BosNaufal/vue-simple-pwa)
 *   [Tour of Heroes (Vue 2.0) (⭐29)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue (⭐2)](https://github.com/revue/revue) (redux bindings for Vue), `vue-router`, [Airbnb eslint (⭐131k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
 *   [ngexplorer-quasar (⭐9)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework (⭐23k)](https://github.com/rstoenescu/quasar-framework)
 *   [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with `Phoenix Framework`, **Vue** and **Vue Router** ([***demo***](https://phoenix-vue-auth.herokuapp.com))
@@ -751,7 +751,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp).
 *   [Chess Storybook Example (⭐13)](https://github.com/gustaYo/vue-chess-storybook) with Vue 2.0
 *   [X-Flowchart-Vue (⭐1.2k)](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue
-*   [X-WebDesktop-Vue (⭐387)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
+*   [X-WebDesktop-Vue (⭐388)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 *   [**PENV Starter**](https://github.com/jesalg/penv-starter) - A basic example of how to use VueJS, Express and PostgreSQL in conjunction.
 *   [Vue webpack typescript (⭐21)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
 
@@ -770,10 +770,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / UI Components
 
-*   [vue-ads-table-tree (⭐122)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
+*   [vue-ads-table-tree (⭐124)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
 *   [@voerro/vue-notifications (⭐1)](https://github.com/voerro/vue-notifications) - Simple Vue.js 2 notifications plugin with HTML and styling support.
-*   [vue-popperjs (⭐428)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
-*   [vue-final-modal (⭐526)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-popperjs (⭐429)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
+*   [vue-final-modal (⭐537)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 *   [vuerollr (⭐23)](https://github.com/japick/vuerollr) - Mouseover gallery plugin for Vue.js. Supports image and video.
 *   [v-digital-time-picker (⭐11)](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify.
 *   [vuesence-sliding-header (⭐42)](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
@@ -790,33 +790,33 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / Utilities
 
-*   [vue-concurrency (⭐270)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
+*   [vue-concurrency (⭐272)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 *   [@icare-jp/vue-props-type (⭐20)](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type.
 *   [zipkin-instrumentation-vue-resource (⭐8)](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for `vue-resource` that instruments outgoing HTTP requests with [Zipkin (⭐16k)](https://github.com/openzipkin/zipkin)
-*   [vue-i18n-service (⭐142)](https://github.com/f/vue-i18n-service) - Export and import `vue-i18n`'s SFC translations.
+*   [vue-i18n-service (⭐143)](https://github.com/f/vue-i18n-service) - Export and import `vue-i18n`'s SFC translations.
 *   [Vuenut (⭐307)](https://github.com/lusaxweb/vuenut) - is a component to develop faster and more fluently.
 *   [vue-automatic-import-loader (⭐24)](https://github.com/hunterliu1003/vue-automatic-import-loader) - webpack loader that auto import your Vue single file components by using a match function.
 
 ### Components & Libraries / Integrations
 
-*   [vue-telegram-login (⭐74)](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login)
+*   [vue-telegram-login (⭐75)](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login)
 *   [vue-telegram-passport (⭐5)](https://github.com/vchaptsev/vue-telegram-passport) - Vue Component for [Telegram Passport](https://telegram.org/blog/passport)
-*   [vue-yandex-metrika (⭐65)](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options
+*   [vue-yandex-metrika (⭐66)](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options
 
 ### Components & Libraries / Scaffold
 
-*   [Cookiecutter-Django-Vue (⭐551)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
+*   [Cookiecutter-Django-Vue (⭐554)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
 ## [50. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
-*   [Devii (⭐469)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐474)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ### Extensions
 
-*   [next-auth (⭐14k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+*   [next-auth (⭐15k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
 ## [51. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -877,8 +877,8 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Authentication
 
-*   [TheIdServer (⭐527)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐54)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐533)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐55)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 *   [Blazor-WASM-AzureAD-gRPC (⭐16)](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square\&cacheSeconds=86400) Blazor WASM, Azure AD, REST & gRPC.
 
 ### Individual components / API
@@ -1011,7 +1011,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐79)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐81)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
 
 ### Software / Software Development - Project Management
 

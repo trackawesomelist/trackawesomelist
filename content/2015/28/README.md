@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13 - Jul 19, 2015
 
-24 awesome lists updated this week.
+23 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -83,7 +83,7 @@
 
 ### Tools / Randomized Algorithms
 
-*   [interactive-coding-challenges (⭐26k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+*   [interactive-coding-challenges (⭐27k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## [12. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -239,13 +239,7 @@
 *   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 *   [awesome-computer-vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 
-## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
-
-### Mocking / Symfony2
-
-*   [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
-
-## [22. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [21. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -264,14 +258,14 @@
 
 
 
-## [23. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [22. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2015
 
 *   [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) \[19:17]
 *   [Andreas Gal: **Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA) \[14:15]
 
-## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / L companies
 

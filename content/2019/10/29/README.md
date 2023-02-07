@@ -38,7 +38,7 @@
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Services
+### Services / Misc
 
 *   [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 
@@ -50,11 +50,11 @@
 
 ### Software / Miscellaneous
 
-*   [Journal (⭐247)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
+*   [Journal (⭐250)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐627)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
+*   [OnTrack (⭐628)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -150,11 +150,11 @@
 ### Grammar
 
 *   [OpenCCG (⭐202)](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG.
-*   [EasyCCG (⭐58)](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
+*   [EasyCCG (⭐57)](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 
 ### Realizers
 
-*   [SimpleNLG (⭐774)](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
+*   [SimpleNLG (⭐780)](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
 *   [SimpleNLG DE (⭐16)](https://github.com/sebischair/SimpleNLG-DE) - German version of SimpleNLG 4.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)

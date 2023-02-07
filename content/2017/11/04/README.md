@@ -110,7 +110,7 @@ Topics: Tooling, Standards, webpack\
 *   [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) Stéphanie Florence Visser. (2016)
 *   [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) Krzysztof Urbański, Stanisław Gruszczyńsk. (2016)
 *   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/\~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
-*   [Understanding random forests: from theory to practice (⭐498)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
+*   [Understanding random forests: from theory to practice (⭐499)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
 
 ---
 

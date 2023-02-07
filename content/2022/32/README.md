@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08 - Aug 14, 2022
 
-65 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,7 +25,7 @@
 
 ### Audio
 
-*   [ViMusic (⭐2.6k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐3k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -58,7 +58,7 @@
 ### Apps / Outline Processor Markup Language
 
 *   [Unread](https://www.goldenhillsoftware.com/unread/) <sup>[400](https://t.me/s/aboutrss/400), [402](https://t.me/s/aboutrss/402), [666](https://t.me/s/aboutrss/666), [1232](https://t.me/s/aboutrss/1232)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/unread-2/id1363637349)
-*   [Read You (⭐1.5k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Read You (⭐1.6k)](https://github.com/Ashinch/ReadYou/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Ashinch/ReadYou/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://t.me/ReadYouApp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/taoso/webfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Matter Reader](https://hq.getmatter.com/) <sup>[1220](https://t.me/s/aboutrss/1220)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/matter-reader/id1501592184)
 *   [Folio Reader](https://foliorss.com/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.bakumon.rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -94,7 +94,6 @@
 
 ### FreshRSS / Outline Processor Markup Language
 
-*   <https://freshrss.uneasy.win/> by [胜之不易](https://uneasy.win/freshrss%e6%9c%8d%e5%8a%a1%e5%99%a8%e6%b5%8b%e8%af%95/) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Ffreshrss.uneasy.win%2F) <sup>[1207](https://t.me/s/aboutrss/1207)</sup>
 *   <https://rss.husay.cc> by [胡鹤仙](https://twitter.com/huhexian/status/1554282344668098561) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frss.husay.cc%2F) (Registration disabled)
 
 ### Telegram / Telegram RSS bots
@@ -144,7 +143,7 @@
 ### Multi-subject / Crypto or Blockchain relevant
 
 *   My Telegram channel sharing RSS feeds collected by others
-    *   [1](https://t.me/s/aboutrss/1071) [2](https://t.me/s/aboutrss/1099) [3](https://t.me/s/aboutrss/1143) [4](https://t.me/s/aboutrss/1195) [5](https://t.me/s/aboutrss/1210)
+    *   [1](https://t.me/s/aboutrss/1071) [2](https://t.me/s/aboutrss/1099) [3](https://t.me/s/aboutrss/1143) [4](https://t.me/s/aboutrss/1195) [5](https://t.me/s/aboutrss/1210) [6](https://t.me/s/aboutrss/1273) [7](https://t.me/s/aboutrss/1296)
 *   [Single Feed Sharing on Twitter](https://twitter.com/aboutRSS/timelines/1527857429467172864) <sup>[1221](https://t.me/s/aboutrss/1221)</sup>
 *   [RSS Feed Bundles Sharing on Twitter](https://twitter.com/aboutRSS/timelines/1527674304921362432) <sup>[1230](https://t.me/s/aboutrss/1230)</sup>
 
@@ -155,12 +154,12 @@
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
 
 *   Collections shared in the Telegram Channel
-    *   [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234), [42](https://t.me/s/aboutrss/1246), [43](https://t.me/s/aboutrss/1260),
+    *   [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234), [42](https://t.me/s/aboutrss/1246), [43](https://t.me/s/aboutrss/1260), , [44](https://t.me/s/aboutrss/1268), [45](https://t.me/s/aboutrss/1278), [46](https://t.me/s/aboutrss/1284), [47](https://t.me/s/aboutrss/1290), [48](https://t.me/s/aboutrss/1295),
 
 ### Tutorials when knowing how to run code / Crypto or Blockchain relevant
 
 *   Collections shared in the Telegram channel
-    *   [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217), [13](https://t.me/s/aboutrss/1243), [14](https://t.me/s/aboutrss/1249), [15](https://t.me/s/aboutrss/1263),
+    *   [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217), [13](https://t.me/s/aboutrss/1243), [14](https://t.me/s/aboutrss/1249), [15](https://t.me/s/aboutrss/1263), [16](https://t.me/s/aboutrss/1276), [17](https://t.me/s/aboutrss/1280), [18](https://t.me/s/aboutrss/1286), [19](https://t.me/s/aboutrss/1293),
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -264,8 +263,8 @@
 
 *   [cvideo (⭐0)](https://github.com/aubreypwd/zsh-plugin-cvideo) - Quickly compress video with `ffmpeg`.
 *   [download (⭐1)](https://github.com/aubreypwd/zsh-plugin-download) - Helper to download files with `aria2c`.
-*   [fzf-fasd (⭐50)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐49k)](https://github.com/junegunn/fzf) and [fasd (⭐5.8k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
-*   [fzf-z (⭐160)](https://github.com/andrewferrier/fzf-z) - Brings together the \*z- plugin and \*[fzf (⭐49k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
+*   [fzf-fasd (⭐50)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐50k)](https://github.com/junegunn/fzf) and [fasd (⭐5.8k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
+*   [fzf-z (⭐160)](https://github.com/andrewferrier/fzf-z) - Brings together the \*z- plugin and \*[fzf (⭐50k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
 *   [require (⭐0)](https://github.com/aubreypwd/zsh-plugin-require) - Adds ability to `require commandname` and then (if [brew](https://brew.sh) is installed) automatically `brew install commandname` if it isn't already installed.
 *   [xdg-basedir (⭐0)](https://github.com/mattmc3/zsh-xdg-basedir) - Supports [XDG](https://wiki.archlinux.org/index.php/XDG_Base_Directory) base directory settings.
 
@@ -405,7 +404,7 @@
 ### Sensors / Barometer
 
 *   [BMP390 (⭐2)](https://github.com/octaprog7/BMP390) - MicroPython module for BMP390 pressure & temperature sensor.
-*   [BMP180 (⭐3)](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
+*   [BMP180 (⭐2)](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
 
 ### Tutorials / SRAM
 
@@ -508,16 +507,16 @@
 ### Reporters
 
 *   [playwright-tesults-reporter (⭐0)](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
-*   [monocart-reporter (⭐7)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
-*   [allure-playwright (⭐125)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+*   [monocart-reporter (⭐14)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
+*   [allure-playwright (⭐138)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
 
 ## [39. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
-*   [neovim (⭐59k)](https://github.com/neovim/neovim) - Modern vim.
-*   [o (⭐190)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-*   [helix (⭐15k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+*   [neovim (⭐62k)](https://github.com/neovim/neovim) - Modern vim.
+*   [o (⭐229)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
+*   [helix (⭐19k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ## [40. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -529,7 +528,7 @@
 
 ### Specialty Topics / Animation Info
 
-*   📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Principles for using skeletons with ik for animation.
+*   📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Principles for using skeletons with IK for animation.
 
 ### Specialty Topics / Color Manipulation
 
@@ -537,17 +536,17 @@
 
 ### Specialty Topics / Entity Component Systems
 
-*   📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an eneity component system in C++.
+*   📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an ECS in C++.
 
 ## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [virtual-list (⭐8)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
+*   [virtual-list (⭐9)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
 
 ### Components & Libraries / Frameworks
 
-*   [Vitify Admin (⭐60)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+*   [Vitify Admin (⭐62)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
 ## [43. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -746,46 +745,46 @@
 ### Color / Diagnostics
 
 *   [lcheylus/overlength.nvim (⭐33)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
-*   [brenoprata10/nvim-highlight-colors (⭐113)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
+*   [brenoprata10/nvim-highlight-colors (⭐123)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/moonlight.nvim (⭐130)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
-*   [rebelot/kanagawa.nvim (⭐1.7k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
-*   [Mofiqul/adwaita.nvim (⭐123)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+*   [shaunsingh/moonlight.nvim (⭐134)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
+*   [rebelot/kanagawa.nvim (⭐1.8k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [Mofiqul/adwaita.nvim (⭐125)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 
 ### Utility / Diagnostics
 
-*   [rcarriga/nvim-notify (⭐1.8k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
+*   [rcarriga/nvim-notify (⭐1.9k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
 
 ### Debugging / Diagnostics
 
-*   [andrewferrier/debugprint.nvim (⭐89)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
+*   [andrewferrier/debugprint.nvim (⭐99)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [miversen33/import.nvim (⭐168)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
+*   [miversen33/import.nvim (⭐169)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐355)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐370)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
-*   [akinsho/git-conflict.nvim (⭐387)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
+*   [akinsho/git-conflict.nvim (⭐406)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 
 ### Editing Support / Diagnostics
 
-*   [Pocco81/TrueZen.nvim (⭐717)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
-*   [Pocco81/HighStr.nvim (⭐223)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
-*   [Pocco81/AutoSave.nvim (⭐344)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
-*   [gbprod/stay-in-place.nvim (⭐55)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
+*   [Pocco81/TrueZen.nvim (⭐727)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
+*   [Pocco81/HighStr.nvim (⭐228)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
+*   [Pocco81/AutoSave.nvim (⭐357)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
+*   [gbprod/stay-in-place.nvim (⭐59)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Abstract-IDE/Abstract (⭐138)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
+*   [Abstract-IDE/Abstract (⭐141)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
 *   [vi-tality/neovitality (⭐52)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
-*   [cstsunfu/.sea.nvim (⭐96)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+*   [cstsunfu/.sea.nvim (⭐97)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
 ## [52. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -818,19 +817,13 @@
 *   [Rosefinch](https://rosefinchapp.com) - Store and run SQL queries.
 *   [Nota](https://nota.md) - Pro writing app designed for local Markdown files.
 
-## [54. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
-
-### Public REST APIs To Use In Tests / Symfony2
-
-*   [The Cat API](http://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
-
-## [55. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [54. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Justice40](https://screeningtool.geoplatform.gov/en/methodology) - The purpose of the tool is to help Federal agencies identify disadvantaged communities that are marginalized, underserved, and overburdened by pollution. Combines multiple data sources at the census tract level across eight categories of criteria.
 
-## [56. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [55. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In German
 
@@ -838,31 +831,31 @@
 *   [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of scientific papers. Releasing roughly all two weeks.
 *   [Omega tau science & engineering podcast](https://omegataupodcast.net/) - A science and engineering podcast. Bilingual podcast, some episodes are english.
 
-## [57. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [56. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Community / Video Tutorials
 
 *   [Gatling Community](https://community.gatling.io/)
 
-## [58. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [57. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Archivematica](https://www.archivematica.org/en/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](https://sandbox.archivematica.org/administration/accounts/login/), [Source Code (⭐341)](https://github.com/artefactual/archivematica)) `AGPL-3.0-only` `Python`
-*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/demo), [Source Code (⭐275)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
-*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐316)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
+*   [Archivematica](https://www.archivematica.org/en/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](https://sandbox.archivematica.org/administration/accounts/login/), [Source Code (⭐344)](https://github.com/artefactual/archivematica)) `AGPL-3.0` `Python`
+*   [ArchivesSpace](https://archivesspace.org/) - Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. ([Demo](https://archivesspace.org/application/demo), [Source Code (⭐278)](https://github.com/archivesspace/archivesspace)) `ECL-2.0` `Ruby`
+*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐318)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 
 ### Software / Automation
 
 *   [feed2toot](https://feed2toot.readthedocs.io/en/latest/) - Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon. ([Source Code](https://gitlab.com/chaica/feed2toot)) `GPL-3.0` `Python`
-*   [Tube Archivist](https://www.tubearchivist.com/) `⚠` - Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. ([Source Code (⭐2.2k)](https://github.com/tubearchivist/tubearchivist)) `GPL-3.0` `Python`
+*   [Tube Archivist](https://www.tubearchivist.com/) `⚠` - Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. ([Source Code (⭐2.3k)](https://github.com/tubearchivist/tubearchivist)) `GPL-3.0` `Python`
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Buku (⭐5.4k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python`
-*   [Hackershare (⭐427)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev/en)) `MIT` `Ruby`
+*   [Buku (⭐5.5k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python`
+*   [Hackershare (⭐432)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev/en)) `MIT` `Ruby`
 *   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐1.8k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `PHP`
-*   [linkding (⭐2.8k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. ([Demo](https://demo.linkding.link/bookmarks)) `MIT` `Docker/Python/Nodejs`
+*   [linkding (⭐2.9k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
@@ -870,7 +863,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Databag (⭐109)](https://github.com/balzack/databag) - Federated messaging client for the web, iOS, and Android, supporting text, photos and video. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
+*   [Databag (⭐111)](https://github.com/balzack/databag) - Federated messaging client for the web, iOS, and Android, supporting text, photos and video. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 
 ### Software / Communication - SIP
 
@@ -891,114 +884,99 @@
 ### Software / Miscellaneous
 
 *   [asciinema (⭐2k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
-*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐600)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
+*   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐602)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
 *   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐2.9k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
 *   [OS.js](https://www.os-js.org/) - Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://demo.os-js.org/), [Source Code (⭐6.2k)](https://github.com/os-js/OS.js)) `BSD-2-Clause` `Nodejs`
-*   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐13k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
+*   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐14k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
 *   [TeslaMate (⭐3.5k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`
-*   [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code (⭐5k)](https://github.com/tmate-io/tmate)) `ISC` `C`
+*   [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code (⭐5.1k)](https://github.com/tmate-io/tmate)) `ISC` `C`
 
 ### Software / Photo and Video Galleries
 
-*   [This week in past (⭐12)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. ([Demo](http://152.70.175.46:80)) `MIT` `Docker/Rust`
+*   [This week in past (⭐11)](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. ([Demo](http://152.70.175.46:80)) `MIT` `Docker/Rust`
 *   [Thumbor](http://thumbor.org/) - A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ([Source Code (⭐9.3k)](https://github.com/thumbor/thumbor)) `MIT` `Python/Docker`
 
 ### Software / Remote Access
 
 *   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐3.6k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir`
 *   [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `Apache-2.0` `Java/C`
-*   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code (⭐1k)](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
-*   [Sshwifty (⭐1.3k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
-*   [Warpgate (⭐1.9k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
+*   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code (⭐1.1k)](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
+*   [Sshwifty (⭐1.4k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
+*   [Warpgate (⭐2k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
 
 ### Software / Search Engines
 
-*   [Manticore Search (⭐2.4k)](https://github.com/manticoresoftware/manticoresearch/) - Much faster alternative to Elasticsearch for full-text search and data analytics. Provides much lower response time for small, medium and big data. `GPL-2.0` `Docker/C++`
-
-### Software / Self-hosting Solutions
-
-*   [Discord Bot Dashboard (⭐236)](https://github.com/jareer12/Discord-Bot-Dashboard) `⚠` - A self-hosted platform to manage Discord bots and Node.js applications. `MIT` `Nodejs`
+*   [Manticore Search (⭐2.5k)](https://github.com/manticoresoftware/manticoresearch/) - Much faster alternative to Elasticsearch for full-text search and data analytics. Provides much lower response time for small, medium and big data. `GPL-2.0` `Docker/C++`
 
 ### Software / Software Development - Project Management
 
-*   [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
 *   [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. ([Source Code (⭐166)](https://github.com/nirix/traq)) `GPL-3.0` `PHP/Nodejs`
 
 ### Software / Status / Uptime pages
 
-*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐582)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
+*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐642)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
 
 ### Software / Task Management & To-do Lists
 
-*   [Minimalist Online Markdown Editor](http://markdown.pioul.fr) - The simplest and slickest online Markdown editor. ([Source Code (⭐231)](https://github.com/pioul/Minimalist-Online-Markdown-Editor)) `MIT` `Nodejs`
+*   [Minimalist Online Markdown Editor](http://markdown.pioul.fr) - The simplest and slickest online Markdown editor. ([Source Code (⭐232)](https://github.com/pioul/Minimalist-Online-Markdown-Editor)) `MIT` `Nodejs`
 
 ### Software / Ticketing
 
-*   [Peppermint](https://peppermint.sh/) - A simple ticket management tool with support for logs and multi-deployment. ([Source Code (⭐491)](https://github.com/Peppermint-Lab/peppermint)) `AGPL-3.0` `Docker`
-
-### List of Licenses / Wikis
-
-*   `BSD-2-Clause-FreeBSD` - [BSD 2-Clause FreeBSD License](http://www.freebsd.org/copyright/freebsd-license/)
-*   `CC0-1.0` - [Public Domain](https://creativecommons.org/share-your-work/public-domain/cc0/)
-*   `EUPL-1.2` - [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
-*   `GPL-1.0` - [GNU General Public License](https://www.gnu.org/licenses/old-licenses/gpl-1.0)
-*   `ISC` - [Internet Systems Consortium License](https://www.isc.org/licenses/)
-*   `Sendmail` - [Sendmail License](https://www.proofpoint.com/us/products/sendmail-sentrion/)
-*   `Ruby` - [Ruby License](http://www.ruby-lang.org/en/about/license.txt)
+*   [Peppermint](https://peppermint.sh/) - A simple ticket management tool with support for logs and multi-deployment. ([Source Code (⭐503)](https://github.com/Peppermint-Lab/peppermint)) `AGPL-3.0` `Docker`
 
 ### External Links / Wikis
 
 *   Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted/), [IndieWeb](https://indieweb.org/)
 
-## [59. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [58. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Editors
 
-*   [mix.nvim (⭐18)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐21)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 
-## [60. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [59. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-vite-app (⭐97)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
+*   [create-vite-app (⭐98)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 
 ### Templates / Vue 2
 
-*   [vitify-admin (⭐60)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
+*   [vitify-admin (⭐62)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 ### Templates / React
 
-*   [vite-mern-template (⭐11)](https://github.com/apicgg/vite-mern-template) - React 18 + TypeScript + Vite + Redux Toolkit + ESLint + React Router DOM + Axios + React Icons + React Toastify + Express + Mongoose.
-*   [Varsarr (⭐5)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
+*   [vite-mern-template (⭐14)](https://github.com/apicgg/vite-mern-template) - React 18 + TypeScript + Vite + Redux Toolkit + ESLint + React Router DOM + Axios + React Icons + React Toastify + Express + Mongoose.
+*   [Varsarr (⭐8)](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-mpa-plus (⭐62)](https://github.com/yzydeveloper/vite-plugin-mpa-plus) - More flexible MPA (multi-page application) supports html templates, path rewriting.
-*   [vite-plugin-print-urls (⭐6)](https://github.com/yzydeveloper/vite-plugin-print-urls) - Vite hmr and page reload will print server urls.
+*   [vite-plugin-print-urls (⭐7)](https://github.com/yzydeveloper/vite-plugin-print-urls) - Vite hmr and page reload will print server urls.
 
-## [61. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [60. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
-*   [hot-lib-reloader (⭐276)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
+*   [hot-lib-reloader (⭐288)](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 
 ### Libraries / Automotive
 
-*   [mbr/socketcan (⭐60)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
+*   [mbr/socketcan (⭐62)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
 
 ### Libraries / Database
 
 *   ORM \[[orm](https://crates.io/keywords/orm)]
-    *   [Brendonovich/prisma-client-rust (⭐853)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
+    *   [Brendonovich/prisma-client-rust (⭐897)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
     *   [diesel-rs/diesel (⭐9.8k)](https://github.com/diesel-rs/diesel) — an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/diesel-rs/diesel.svg?branch=master)](https://travis-ci.org/diesel-rs/diesel)
     *   [ivanceras/rustorm (⭐236)](https://github.com/ivanceras/rustorm) — an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg?branch=master)](https://travis-ci.org/ivanceras/rustorm)
     *   [rbatis/rbatis (⭐1.7k)](https://github.com/rbatis/rbatis) — Rust ORM Framework High Performance(JSON based) [![Build Status](https://api.travis-ci.org/zhuxiujia/rbatis.svg?branch=master)](https://travis-ci.org/zhuxiujia/rbatis)
-    *   [SeaQL/sea-orm (⭐3.5k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM for Rust [![Build Status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
+    *   [SeaQL/sea-orm (⭐3.6k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM for Rust [![Build Status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
 
 ### Libraries / Network programming
 
 *   Raknet
-    *   [b23r0/rust-raknet (⭐164)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
+    *   [b23r0/rust-raknet (⭐166)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 
 ### Libraries / Virtualization
 
@@ -1008,7 +986,7 @@
 
 *   [Discover Rust Libraries & Code Snippets](https://kandi.openweaver.com/explore/rust) - A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi
 
-## [62. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [61. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Image Search / Telegram
 
@@ -1016,27 +994,27 @@
 
 ### Other Tools / Telegram
 
-*   [CrowdSec (⭐5.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐6k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
-## [63. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [62. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Python / React
 
-*   [graphql-core (⭐458)](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v16.3.0 reference implementation
+*   [graphql-core (⭐462)](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v16.3.0 reference implementation
 
 ### .NET / React
 
-*   [EntityGraphQL (⭐311)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
-*   [ZeroQL (⭐142)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+*   [EntityGraphQL (⭐312)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
+*   [ZeroQL (⭐147)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
-## [64. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [63. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6-junit (⭐6)](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 *   [k6-expect (⭐1)](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
-## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 

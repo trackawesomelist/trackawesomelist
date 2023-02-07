@@ -48,7 +48,7 @@
 
 ### Applications
 
-*   [NewNode (⭐384)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+*   [NewNode (⭐388)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -112,43 +112,20 @@
 
 *   **Website** - [craftcms.com](https://craftcms.com)
 *   **Partners** - [craftcms.com/partners](https://craftcms.com/partners)
-*   **Licence Management** - [id.craftcms.com](https://id.craftcms.com)
 *   **Repository** - [github.com/craftcms/cms (⭐2.9k)](https://github.com/craftcms/cms)
 
 ### Community
 
 *   [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
-*   [Issues & Feedback (⭐2.9k)](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports.
-*   [Mijingo](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
-*   [Professionals](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
 *   [StackExchange](https://craftcms.stackexchange.com) - Q\&A for administrators, end users, developers and designers.
-*   [Straight Up Craft](http://straightupcraft.com/) - Tutorials, plugin directory, event listings and more.
 *   [Twitter](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is [`#craftcms`](https://twitter.com/hashtag/craftcms).
-
-### Plugins
-
-*   [Submit Craft 3 Plugins](https://id.craftcms.com)
-*   [Craft 2 Plugins](https://craftplug.in/)
-
-### Dev Tools / Tutorials
-
-*   [Plugin Factory](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P\&T’s Coding Standards.
-*   [Craft CLI (⭐139)](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
-*   [Craft CMS Bootstrap (⭐4)](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
-*   [Craft CMS Docker (⭐36)](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
-*   [Craft Scripts (⭐360)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
-*   [Craftman (⭐125)](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
-*   [Crafty Vagrant (⭐57)](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
-*   [Generator Craft Install (⭐56)](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
-*   [Happy Lager Demo Site (⭐8)](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
-*   [Nginx Craft (⭐294)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 
 ### Core Technologies
 
 *   [PHP](http://www.php.net/) - A popular general-purpose scripting language.
 *   [Yii](https://www.yiiframework.com/) - A fast, secure, and efficient PHP framework.
 *   [Twig](https://twig.symfony.com/) - The flexible, fast, and secure template engine for PHP.
-*   [MySQL](https://www.mysql.com/) - The world's most popular open source database .
+*   [MySQL](https://www.mysql.com/) - The world's most popular open source database.
 *   [PostgreSQL](https://www.postgresql.org/) - The world's most advanced open source database.
 
 ### Articles / Assets
@@ -357,6 +334,19 @@
 *   [Craft CMS 3 with Pixel & Tonic Founder Brandon Kelly!](https://devmode.fm/episodes/craft-cms-3-with-pixel-tonic-founder-brandon-kelly) - Get an insider’s view of the the devel­op­ment of Craft CMS 3.
 *   [Talk­ing Craft CMS 3 RC1!](https://devmode.fm/episodes/talking-craft-cms-rc1) - The inau­gur­al episode of the `dev​Mode​.fm` pod­cast.
 
+### Dev Tools / Tutorials
+
+*   [Craft CLI (⭐139)](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
+*   [Craft CMS Bootstrap (⭐4)](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
+*   [Craft CMS Docker (⭐36)](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
+*   [Craft Scripts (⭐359)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
+*   [Craftman (⭐125)](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
+*   [Crafty Vagrant (⭐57)](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
+*   [Generator Craft Install (⭐56)](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
+*   [Happy Lager Demo Site (⭐8)](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
+*   [Nginx Craft (⭐299)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
+*   [Plugin Factory](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P\&T’s Coding Standards.
+
 ### Organizations Using Craft / Tutorials
 
 *   [Agatha Christie](http://www.agathachristie.com)
@@ -436,7 +426,7 @@
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐53k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐54k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
@@ -711,7 +701,7 @@
 
 ### Resources / Tutorials
 
-*   [Kubernetes examples (⭐5.3k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
+*   [Kubernetes examples (⭐5.4k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
 ## [28. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -750,7 +740,7 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [RusticSOM (⭐26)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
+*   [RusticSOM (⭐27)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
 ## [33. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -768,7 +758,7 @@
 
 ### Applications / Games
 
-*   [citybound (⭐7.2k)](https://github.com/citybound/citybound) — The city sim you deserve
+*   [citybound (⭐7.3k)](https://github.com/citybound/citybound) — The city sim you deserve
 
 ### Applications / Operating systems
 
@@ -789,7 +779,6 @@
 ### Build Systems
 
 *   [clib (⭐4.5k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
-*   [waf](https://github.com/waf-project/waf) - Python-based framework for configuring, compiling and installing applications. \[BSD] [website](https://waf.io/)
 
 ## [37. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 

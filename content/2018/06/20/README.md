@@ -57,7 +57,7 @@
 
 ### Visualizations
 
-*   [gtfspy-webviz (⭐33)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐36)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy).
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -107,7 +107,7 @@
 
 *   [Ride Receipts (⭐138)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
 *   [Laqu-l (⭐130)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐125)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Minimal Notes (⭐123)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

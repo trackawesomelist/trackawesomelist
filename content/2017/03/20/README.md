@@ -50,55 +50,55 @@
 
 ### Awesome ClojureScript / Canvas
 
-*   [Quamolit (⭐2)](https://github.com/Quamolit/quamolit) – A tiny declarative animation library , inspired by React.
+*   [Quamolit (⭐3)](https://github.com/Quamolit/quamolit) – A tiny declarative animation library , inspired by React.
 
 ### Awesome ClojureScript / Data Serialization
 
 *   [Cljson (⭐63)](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
-*   [Transit (⭐317)](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
+*   [Transit (⭐319)](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 ### Awesome ClojureScript / Database
 
-*   [Konserve (⭐284)](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
+*   [Konserve (⭐289)](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
 
 ### Awesome ClojureScript / Development
 
-*   [cljs-devtools (⭐1k)](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
+*   [cljs-devtools (⭐1.1k)](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
 *   [lein-figwheel (⭐2.9k)](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
 
 ### Awesome ClojureScript / Document Object Model
 
 *   [Crate (⭐216)](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
-*   [Dommy (⭐757)](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
-*   [Kioo (⭐404)](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
-*   [Sablono (⭐681)](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
+*   [Dommy (⭐758)](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
+*   [Kioo (⭐403)](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
+*   [Sablono (⭐683)](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 ### Awesome ClojureScript / Graphics
 
-*   [geom (⭐863)](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
+*   [geom (⭐900)](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [Keybind (⭐85)](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
-*   [markdown-clj (⭐515)](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
-*   [reforms (⭐169)](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
+*   [markdown-clj (⭐521)](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
+*   [reforms (⭐170)](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
 *   [Sepal.clj (⭐28)](https://github.com/Cirru/sepal.clj) – A library to generate Clojure code from a vector of strings and vectors with macro system.
 
 ### Awesome ClojureScript / [React.js](https://facebook.github.io/react/)   Interface
 
-*   [re-com (⭐754)](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
+*   [re-com (⭐761)](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
 
 ### Awesome ClojureScript / State Management
 
 *   [plato (⭐29)](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
-*   [storage-atom (⭐186)](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
+*   [storage-atom (⭐187)](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Chestnut (⭐1.3k)](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
-*   [descjop (⭐393)](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
-*   [electron-template (⭐112)](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
-*   [WebFUI (⭐235)](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
+*   [descjop (⭐392)](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+*   [electron-template (⭐113)](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
+*   [WebFUI (⭐236)](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 ## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

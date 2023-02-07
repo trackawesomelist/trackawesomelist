@@ -122,7 +122,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐314)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐316)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ### Software / Games
 
@@ -186,7 +186,7 @@
 
 ### Applications
 
-*   [Cabal (⭐769)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐775)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -212,7 +212,7 @@
 
 ### Evaluation
 
-*   [compare-mt (⭐418)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
+*   [compare-mt (⭐428)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 
 ## [20. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -365,7 +365,7 @@
 
 ### Bindings
 
-*   [PasVulkan (⭐165)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
+*   [PasVulkan (⭐166)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
 
 ## [35. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -391,7 +391,7 @@
 
 ## [38. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### UML / Other / unknown licence
+### UML / MIT
 
 *   [ada-ml (⭐8)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 
@@ -489,8 +489,8 @@
 ### Development tools / IDEs
 
 *   Visual Studio
-    *   [dgriffen/rls-vs2017 (⭐111)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
-    *   [PistonDevelopers/VisualRust (⭐697)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
+    *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
+    *   [PistonDevelopers/VisualRust (⭐699)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
 ## [49. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -640,26 +640,26 @@
 
 ### For Developers
 
-*   [mkdkr (⭐315)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+*   [mkdkr (⭐322)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
 
 ### Shell Script Development
 
-*   [ansi (⭐454)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+*   [ansi (⭐467)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 *   [argbash (⭐1.2k)](https://github.com/matejak/argbash) - Bash argument parsing code generator
-*   [assert.sh (⭐466)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
-*   [async-bash (⭐118)](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
+*   [assert.sh (⭐471)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+*   [async-bash (⭐120)](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
 *   [bats (⭐7.1k)](https://github.com/sstephenson/bats) - Bash Automated Testing System
 *   [bash3boilerplate (⭐2k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
-*   [bashful (⭐575)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [bashful (⭐574)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 *   [bashify (⭐96)](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
-*   [bashing (⭐70)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
-*   [bashmanager (⭐86)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+*   [bashing (⭐69)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+*   [bashmanager (⭐85)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 *   [BashScriptTestingLibrary (⭐186)](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 *   [Bash Infinity (⭐5.4k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
-*   [bash\_unit (⭐526)](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
-*   [mo (⭐477)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
-*   [semver\_bash (⭐229)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
-*   [shfmt (⭐5.3k)](https://github.com/mvdan/sh) - Format bash programs
+*   [bash\_unit (⭐528)](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
+*   [mo (⭐479)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+*   [semver\_bash (⭐231)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+*   [shfmt (⭐5.4k)](https://github.com/mvdan/sh) - Format bash programs
 *   [shunit2 (⭐1.4k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
 ## [57. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
@@ -672,11 +672,11 @@
 
 ### Form Logic / Mouse Events
 
-*   [data-driven-forms (⭐235)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+*   [data-driven-forms (⭐239)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 
 ### Boilerplate / Mouse Events
 
-*   [phoenix (⭐150)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
+*   [phoenix (⭐149)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
 ## [59. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 

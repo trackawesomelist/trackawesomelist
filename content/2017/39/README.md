@@ -57,11 +57,11 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Traffic Server (⭐1.5k)](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
+*   [Traffic Server (⭐1.6k)](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
 
 ### Coordination & Governance / Scala
 
-*   [Fission Workflows (⭐344)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
+*   [Fission Workflows (⭐351)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -259,7 +259,7 @@
 
 ### Apps
 
-*   [Server Authentication with JWT (⭐104)](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
+*   [Server Authentication with JWT (⭐105)](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 *   [Cookie handler with server render (⭐15)](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 
 ## [26. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
@@ -383,7 +383,7 @@
 
 ### Git Tools
 
-*   [RepoZ (⭐838)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+*   [RepoZ (⭐842)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 
 ### IoC
 
@@ -419,7 +419,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐591)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐592)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 

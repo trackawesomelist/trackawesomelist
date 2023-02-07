@@ -63,23 +63,23 @@
 
 ### Formulars
 
-*   [forms (⭐39)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
+*   [forms (⭐40)](https://github.com/spawnproc/forms) - Erlang Business Documents Generator.
 
 ### Framework Components
 
-*   [phoenix\_live\_reload (⭐249)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+*   [phoenix\_live\_reload (⭐250)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 *   [phoenix\_pubsub\_postgres (⭐26)](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 *   [phoenix\_pubsub\_rabbitmq (⭐45)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 
 ### Frameworks
 
-*   [rest (⭐79)](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
+*   [rest (⭐80)](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 
 ### JSON
 
 *   [json\_pointer (⭐10)](https://github.com/xavier/json_pointer) - Implementation of RFC 6901 which defines a string syntax for identifying a specific value within a JSON document.
-*   [world\_json (⭐7)](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
+*   [world\_json (⭐6)](https://github.com/camshaft/world_json_ex) - topojson country and state/province collections for elixir/erlang.
 
 ### Lexical analysis
 
@@ -104,7 +104,7 @@
 
 ### Templating
 
-*   [mustache (⭐51)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
+*   [mustache (⭐52)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 
 ### Testing
 
@@ -117,7 +117,7 @@
 *   [ex\_rfc3986 (⭐9)](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL parser.
 *   [palette (⭐1)](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 *   [ref\_inspector (⭐12)](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
-*   [ua\_inspector (⭐101)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
+*   [ua\_inspector (⭐102)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 
 ### Third Party APIs
 

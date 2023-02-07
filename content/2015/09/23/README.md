@@ -72,15 +72,15 @@
 
 ### Push Notifications
 
-*   [PushSharp (⭐4.3k)](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
+*   [PushSharp (⭐4.4k)](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Design
+### Design / Misc
 
 *   [CSS Support](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for every popular mobile, web and desktop email client on the planet.
 
-### Resources
+### Resources / Misc
 
 *   [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 
@@ -98,11 +98,11 @@
 
 ### Application Skeleton
 
-*   [MVC (⭐804)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐805)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
-*   [phalcon-cron (⭐76)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
+*   [phalcon-cron (⭐78)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
 ## [13. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

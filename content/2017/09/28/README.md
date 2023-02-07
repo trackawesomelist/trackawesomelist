@@ -64,7 +64,7 @@
 
 ### Apps
 
-*   [Server Authentication with JWT (⭐104)](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
+*   [Server Authentication with JWT (⭐105)](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 *   [Cookie handler with server render (⭐15)](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 
 ---

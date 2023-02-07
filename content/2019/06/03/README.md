@@ -40,12 +40,12 @@
 
 ### Strapi CMS with Gatsby   [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
 
-*   [Strapi CMS](https://strapi.io) - [🐙 (⭐49k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
+*   [Strapi CMS](https://strapi.io) - [🐙 (⭐51k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
 
 ### Rock Solid Modern Rails   [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
 
 *   [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 (⭐52k)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
-*   [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 (⭐5.1k)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
+*   [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
 *   [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 (⭐18k)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
 *   [Heroku](https://heroku.com) - [🛠️](https://stackshare.io/heroku) Developer friendly web app infrastructure provider with seamless Ruby/Rails support.
 
@@ -56,11 +56,11 @@
 
 ### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
-*   [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙 (⭐34k)](https://github.com/php/php-src) - A popular general-purpose scripting language that is especially suited for web development.
+*   [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙 (⭐35k)](https://github.com/php/php-src) - A popular general-purpose scripting language that is especially suited for web development.
 
 ### GCP Kubernetes Stack   [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
 
-*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐93k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
+*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐95k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
 
 ### Rails Monitoring Stack   [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 
@@ -75,21 +75,21 @@
 
 ### Streaming Analytics with Kafka, Spark, and Cassandra   [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
 
-*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐23k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
-*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐34k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
-*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐7.6k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
+*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐24k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
+*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐35k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
+*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐7.8k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
 
 ### Self-Hosted Devops and Collaboration   [↗](https://awesomestacks.dev/self-hosted-devops-and-collaboration) / Resources
 
 *   [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 (⭐17k)](https://github.com/zulip/zulip) - Powerful open source team chat.
 *   [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 (⭐16k)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
-*   [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 (⭐32k)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
+*   [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 (⭐33k)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 *   [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
-*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐30k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
+*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐31k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
 
 ### React Native with Expo and Hasura   [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
-*   [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 (⭐28k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
+*   [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 
 ### Workflow Automation with GitHub, Jira and Jenkins   [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
 

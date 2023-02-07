@@ -131,7 +131,6 @@
 ### Online Compiler
 
 *   [Rextester](http://rextester.com/runcode) - Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.
-*   [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
 
 ### Coding Style
 
@@ -181,7 +180,7 @@
 
 ### Markdown
 
-*   [cmark (⭐90)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
+*   [cmark (⭐91)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 
 ### Miscellaneous
 
@@ -231,7 +230,7 @@
 
 ### Editors
 
-*   [Alchemist (⭐900)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
+*   [Alchemist (⭐901)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 
 ### Screencasts

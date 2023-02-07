@@ -8,15 +8,15 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [aws (⭐109)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 
-### Networking and Communication Middleware / Other / unknown licence
+### Networking and Communication Middleware / MIT
 
 *   [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 
@@ -145,7 +145,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Regular Expression
 
-*   [CTRE (⭐2.6k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
+*   [CTRE (⭐2.7k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -177,7 +177,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Ruby / Scala
 
-*   [Grape (⭐9.6k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
+*   [Grape (⭐9.7k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
 ---
 

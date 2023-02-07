@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐161)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐164)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ## [2. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Development tools / IDEs
 
-*   [lapce (⭐22k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
+*   [lapce (⭐23k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Node-RED (⭐341)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐344)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -58,8 +58,8 @@
 
 ### no-std crates / WIP
 
-*   [lorawan-encoding (⭐92)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
-*   [lorawan-device (⭐92)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
+*   [lorawan-encoding (⭐94)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
+*   [lorawan-device (⭐94)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -75,14 +75,14 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐106)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐111)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / TikTok
 
-*   [ProxiTok (⭐809)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
-    *   Official instance: <https://proxitok.herokuapp.com>
+*   [ProxiTok (⭐985)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
+    *   Official instance: <https://proxitok.pabloferreiro.es/>
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐90)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐95)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [15. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Communications / Ethernet
 
-*   [micropy-ENC28J60 (⭐11)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
+*   [micropy-ENC28J60 (⭐12)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
 
 ### Communications / IR
 

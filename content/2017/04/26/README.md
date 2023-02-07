@@ -23,7 +23,7 @@
 
 ### Files and Directories / Directory Navigation
 
-*   [PathPicker (⭐4.8k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+*   [PathPicker (⭐4.9k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

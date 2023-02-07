@@ -63,11 +63,11 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Traffic Server (⭐1.5k)](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
+*   [Traffic Server (⭐1.6k)](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
 
 ### Coordination & Governance / Scala
 
-*   [Fission Workflows (⭐344)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
+*   [Fission Workflows (⭐351)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

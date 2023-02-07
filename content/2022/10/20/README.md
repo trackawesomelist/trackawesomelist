@@ -18,28 +18,28 @@
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3307 | Last update: 12 Jan 2023
+Installs: 10000 | Stars: 3313 | Last update: 12 Jan 2023
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [gorbit99/codewindow.nvim (⭐205)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
+*   [gorbit99/codewindow.nvim (⭐223)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
 ## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Specialty Topics / Hair
 
-*   📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) [:octocat: (⭐34)](https://github.com/zadvorsky/three-fuzzy-mesh) - Simulating fur with cones and gravity.
+*   📚 [Fuzzy Meshes](https://medium.com/@Zadvorsky/fuzzy-meshes-4c7fd3910d6f) - Simulating fur with cones and gravity. \[[Source (⭐34)](https://github.com/zadvorsky/three-fuzzy-mesh)]
 
 ### Tools / Software / Generative Art
 
 *   Imaging
     *   💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
-    *   🆓 [Disco Diffusion](http://discodiffusion.com/) [:octocat: (⭐6.4k)](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for AI art and animations.
+    *   🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.\[[Source (⭐6.5k)](https://github.com/alembics/disco-diffusion)]
     *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
-    *   💸 [Replicate](https://replicate.com/) - Run open-source models with a cloud API.
-    *   💸 [Stable Diffusion (⭐38k)](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model.
+    *   💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
+    *   💸 [Stable Diffusion (⭐40k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
 
 ## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 

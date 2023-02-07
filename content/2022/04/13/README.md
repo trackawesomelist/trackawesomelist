@@ -8,70 +8,50 @@
 
 ## [1. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
-### Game Engines / AAA
-
-*   🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat: (⭐1.9k)](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
-
 ### Game Engines / Specialty
 
-*   💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. \[[Developer Website](http://www.geodstudio.net)]
+*   💰 [3dSen](https://geod.itch.io/3dnes) - Emulator that lets you play NES games in 3D. \[[Website](http://www.geodstudio.net)]
 
 ### Learning / Computer Graphics
 
 *   Awesome Collections
-    *   📚 [Awesome Graphics Libraries (⭐235)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
+    *   📚 [Awesome Graphics Libraries (⭐248)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
 
 ### Libraries / C
 
-*   C: - General -
-    *   📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent C tutorials that will guide you to learn C programming.
+*   📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 
 ### Libraries / C++
 
-*   C++: - General -
-    *   🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
-    *   🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C and C++ and standard libraries.
-    *   📚 [Learn C++](https://www.learncpp.com) - 🔥 Walks you through all the steps to write, compile, and debug C++.
-    *   📚 [Modern Cpp Features (⭐15k)](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
+*   🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
 
 ### Libraries / C#
 
-*   C#: - General -
-    *   📚 [Dot Net Perls](https://www.dotnetperls.com) - Amazing reference for the C# language.
+*   📚 [Dot Net Perls](https://www.dotnetperls.com) - Reference for the C# language.
 
 ### Libraries / Dart
 
-*   Dart: - General -
-    *   🌎 [Dart](https://dart.dev) [:octocat:](https://github.com/dart-lang/) - Official site. Client-optimized language for fast apps on any platform.
+*   🌎 [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. \[[GitHub](https://github.com/dart-lang/)]
 
 ### Libraries / Haxe
 
-*   Haxe: - General -
-    *   🌎 [Haxe](https://haxe.org) [:octocat: (⭐5.3k)](https://github.com/HaxeFoundation/haxe) - Official site. Very cool language used to produce cross-platform native code.
+*   🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. \[[GitHub (⭐5.3k)](https://github.com/HaxeFoundation/haxe)]
 
 ### Libraries / JavaScript
 
-*   JavaScript: - General -
-    *   📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Modern JavaScript programming, with examples.
-    *   🌎 [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network, great documentation and learning resource.
-    *   🌎 [W3 Schools](https://www.w3schools.com/default.asp) - Learn to code with the world's largest web developer site.
+*   📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Modern JavaScript programming, with examples.
 
 ### Libraries / Ruby
 
-*   Ruby: - General -
-    *   🌎 [Ruby](https://www.ruby-lang.org/en/) [:octocat: (⭐20k)](https://github.com/ruby/ruby) - Dynamic, open source programming language, focused on simplicity / productivity.
+*   🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub (⭐20k)](https://github.com/ruby/ruby)]
 
 ### Libraries / Rust
 
-*   Rust: - General -
-    *   🌎 [Rust](https://www.rust-lang.org) [:octocat:](https://github.com/rust-lang) - Language empowering everyone to build reliable and efficient software. \[[Docs](https://www.rust-lang.org/learn)]
+*   🌎 [Rust](https://www.rust-lang.org) - Empowering everyone to build quality software. \[[Docs](https://www.rust-lang.org/learn) | [GitHub](https://github.com/rust-lang)]
 
 ### Libraries / Zig
 
-*   Zig: - General -
-    *   🌎 [Zig](https://ziglang.org/) [:octocat: (⭐0)](https://github.com/michal-z/zig) - General-purpose programming language and toolchain. \[[Docs](https://ziglang.org/documentation/master/)]
-    *   🌎 [Zig Learn](https://ziglearn.org/) - Excellent Zig language resource.
-    *   📚 [Ziglings (⭐2k)](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
+*   🌎 [Zig](https://ziglang.org/) - General-purpose language and toolchain. \[[Docs](https://ziglang.org/documentation/master/) | [GitHub (⭐0)](https://github.com/michal-z/zig)]
 
 ### Specialty Topics / Fluid / Smoke
 
@@ -84,15 +64,11 @@
 
 ### Specialty Topics / Particles
 
-*   📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) - Excellent particle article by LearnOpenGL.
+*   📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) - Article by LearnOpenGL.
 
 ### Specialty Topics / Physics
 
-*   Physics: - General -
-    *   📚 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) - 🔥 How to keep physics stable with variable fps.
-    *   📚 [Game Physics from Scratch](https://brm.io/game-physics-for-beginners/) - Starting resource for game physics.
-    *   📚 [Intro to Physics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) - Part I: An Introduction to Rigid Body Dynamics.
-    *   📚 [Open Source Physics Engines](https://www.tapirgames.com/blog/open-source-physics-engines) - List of open source physics engines.
+*   📚 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) - 🔥 How to keep physics stable with variable fps.
 
 ### Specialty Topics / Scripting
 
@@ -105,17 +81,17 @@
 ### Tools / Software / Audio Tools
 
 *   Music
-    *   🆓 [Ardour](https://ardour.org) [:octocat: (⭐2.8k)](https://github.com/Ardour/ardour) - Free, open source, very capable. Record, edit, and mix.
-    *   🆓 [Audacity](https://www.audacityteam.org) [:octocat: (⭐8.6k)](https://github.com/audacity/audacity) - Cross-platform, multi-track audio editor and recorder.
-    *   🆓 [Bosca Ceoil](https://boscaceoil.net) - Free easy to use tool for creating music.
-    *   🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Incredible, complete music production package.
-    *   🆓 [FamiStudio](https://famistudio.org) [:octocat: (⭐1.1k)](https://github.com/BleuBleu/FamiStudio) - Music editor targeted at chiptune artists and NES homebrewers.
-    *   💸 [fmod](https://www.fmod.com) - (used for Hades, Celeste, Untitled Goose Game) Popular audio software for games.
-    *   🆓 [LMMS](https://lmms.io) [:octocat: (⭐6.3k)](https://github.com/lmms/lmms) - 🔥 Free, cross-platform music production software.
+    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐2.9k)](https://github.com/Ardour/ardour)]
+    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐8.8k)](https://github.com/audacity/audacity)]
+    *   🆓 [Bosca Ceoil](https://boscaceoil.net) - Easy to use tool for creating music.
+    *   🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
+    *   🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. \[[Source (⭐1.2k)](https://github.com/BleuBleu/FamiStudio)]
+    *   💸 [fmod](https://www.fmod.com) - Popular (Hades, Celeste, Untitled Goose Game) audio software for games.
+    *   🆓 [LMMS](https://lmms.io) - 🔥 Cross-platform music production software. \[[Source (⭐6.4k)](https://github.com/lmms/lmms)]
     *   🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
-    *   🆓 [Sound Box](https://sb.bitsnbites.eu) [:octocat: (⭐404)](https://github.com/mbitsnbites/soundbox) - Compose synthetic music in your browser. Great for small JavaScript demos.
-    *   🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful modular synthesizer with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
-    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) [:octocat: (⭐362)](https://github.com/keithclark/ZzFXM) - Music generator for use in tiny JavaScript productions.
+    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐405)](https://github.com/mbitsnbites/soundbox)]
+    *   🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
+    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐362)](https://github.com/keithclark/ZzFXM)]
 
 ### Tools / Software / Color / Palettes
 
@@ -123,39 +99,39 @@
 
 ### Tools / Software / Image Editors
 
-*   🆓 [GIMP](https://www.gimp.org) [:octocat: (⭐3.7k)](https://github.com/GNOME/gimp) - GNU Image Manipulation Program, free and open-source cross-platform image editor.
+*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐3.8k)](https://github.com/GNOME/gimp)]
 
 ### Tools / Software / Materials / Textures
 
-*   🆓 [ArmorLab](https://armorlab.org) [:octocat: (⭐159)](https://github.com/armory3d/armorlab) - Generate PBR materials by drag & dropping your photos.
+*   🆓 [ArmorLab](https://armorlab.org) - Generate PBR materials by drag & dropping your photos. \[[Source (⭐171)](https://github.com/armory3d/armorlab)]
 
 ### Tools / Software / Modeling Tools
 
-*   💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - One of the oldest software programs for 3D modeling and rendering.
+*   💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - Classic software for 3D modeling and rendering.
 
 ### Tools / Software / Particle Tools
 
-*   💸 [Particle Designer](https://www.71squared.com/particledesigner) - Powerful particle effects editor designed specifically for macOS.
+*   💸 [Particle Designer](https://www.71squared.com/particledesigner) - Powerful particle effects editor designed for macOS.
 
 ### Tools / Software / Pixel Art
 
-*   💸 [Aseprite](https://www.aseprite.org) [:octocat: (⭐20k)](https://github.com/aseprite/aseprite) - Animated sprite editor and pixel art tool.
+*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐20k)](https://github.com/aseprite/aseprite)]
 
 ### Tools / Software / Vector Editors
 
-*   🆓 [Inkscape](https://inkscape.org) [:octocat: (⭐1.4k)](https://github.com/inkscape/inkscape) - Free and open source vector graphics editor for Linux, Windows and macOS.
+*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐1.5k)](https://github.com/inkscape/inkscape)]
 
 ### Video Game Assets / Graphic Assets
 
-*   💸 [Flaticon](https://www.flaticon.com) - Nice vector icons and stickers.
+*   💸 [Flaticon](https://www.flaticon.com) - Quality vector icons and stickers.
 
 ### Video Game Assets / Material Assets
 
-*   🆓 [AmbientCG](https://ambientcg.com) - Public domain materials for physically based rendering.
+*   🆓 [AmbientCG](https://ambientcg.com) - Public domain materials for physically-based rendering.
 
 ### Video Game Assets / Model Assets
 
-*   🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Free 3D models, all the 3D assets on this site are licensed as public domain.
+*   🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Public domain 3D models.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -180,15 +156,15 @@
 
 ### Proprietary (non-standard) vendor APIs
 
-*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia (⭐381)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
+*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia (⭐388)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
 
 ### Software for Creating APIs
 
-*   [Navitia (⭐381)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
+*   [Navitia (⭐388)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
 
 ### GTFS Converters / Ruby
 
-*   [transit\_model (⭐37)](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) or NeTEx ([European standard format](http://netex-cen.eu/)).
+*   [transit\_model (⭐38)](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) or NeTEx ([European standard format](http://netex-cen.eu/)).
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -200,7 +176,7 @@
 
 ### Templates
 
-*   [rust-yew-axum-tauri-desktop (⭐56)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [rust-yew-axum-tauri-desktop (⭐57)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
 ## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 

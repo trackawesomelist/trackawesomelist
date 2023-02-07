@@ -14,9 +14,9 @@
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Social media / Web articles
+### Social media / OpenVPN
 
-*   [Forum](https://forum.qubes-os.org/)
+*   [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Tanoshi (⭐314)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
+*   [Tanoshi (⭐318)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Contents / Libraries
 
-*   [Datamol (⭐276)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+*   [Datamol (⭐278)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue CLI / Community
 
-*   [webpack-to-vite (⭐584)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
+*   [webpack-to-vite (⭐590)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

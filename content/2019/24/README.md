@@ -342,7 +342,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐513)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐515)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / UI Components
 
@@ -353,21 +353,21 @@
 
 ### Components & Libraries / Frameworks
 
-*   [CabloyJS (⭐709)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+*   [CabloyJS (⭐714)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-backtotop (⭐183)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
+*   [vue-backtotop (⭐182)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
 
 ## [17. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐4.6k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐581)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐479)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐134)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐4.7k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐593)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐489)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐138)](http://github.com/sslotin/algo)
 
 ## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -473,7 +473,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐53)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐54)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -481,9 +481,9 @@
 
 ### Julia / Natural Language Processing
 
-*   [Word Tokenizers (⭐85)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+*   [Word Tokenizers (⭐86)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
 *   [Corpus Loaders (⭐30)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
-*   [Embeddings (⭐67)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+*   [Embeddings (⭐70)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
 *   [Languages (⭐47)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐31)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
@@ -546,7 +546,7 @@
 
 ### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
-*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐71k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
+*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐72k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
 
 ## [37. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -615,7 +615,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐48)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐49)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -696,15 +696,15 @@
 ### Theory
 
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐470)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+    *   [Education (⭐473)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐460)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐468)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐622)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

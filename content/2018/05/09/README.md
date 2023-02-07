@@ -26,7 +26,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐300)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐304)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ## [4. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

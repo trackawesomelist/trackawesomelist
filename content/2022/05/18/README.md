@@ -82,19 +82,19 @@
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Terminal User Interface / Other / unknown licence
+### Terminal User Interface / MIT
 
 *   [linenoise-ada](https://git.sr.ht/\~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8)
 
-### Format Readers and Writers / Other / unknown licence
+### Format Readers and Writers / MIT
 
 *   [uri-ada](https://git.sr.ht/\~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 
-### Networking and Communication Middleware / Other / unknown licence
+### Networking and Communication Middleware / MIT
 
 *   [tlsada](https://git.sr.ht/\~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
 
-### Utilities / Other / unknown licence
+### Utilities / MIT
 
 *   [getopt-ada](https://git.sr.ht/\~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
 
@@ -124,7 +124,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐119)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐120)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ## [11. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -239,7 +239,7 @@
 
 *   [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL](http://opensource.franz.com/preamble.html).
     *   👍 has an incremental parser, allowing to parse big files.
-    *   see the [FXML (⭐24)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
+    *   see the [FXML (⭐26)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 
 ## [18. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
@@ -257,7 +257,7 @@
 
 ### Job Scheduler
 
-*   [Dagu (⭐557)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐575)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ---
 

@@ -60,7 +60,7 @@
 
 ### Directly On Top Of A RMDB
 
-*   [pREST (⭐3.5k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
+*   [pREST (⭐3.6k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
 ### Mocking / Symfony2
 

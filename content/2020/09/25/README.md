@@ -16,7 +16,7 @@
 
 ### Minifiers - HTML / Meetups
 
-*   [Minimize (⭐158)](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
+*   [Minimize (⭐161)](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
 
 ## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -101,7 +101,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Deployment / NLP
 
-*   [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python
+*   [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), a web framework for building APIs with Python
 *   [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 
 ### Reinforcement Learning / NLP
@@ -129,7 +129,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Components & Libraries / Utilities
 
-*   [vue-axillo (⭐7)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
+*   [vue-axillo (⭐8)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
 
 ## [14. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -172,7 +172,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Networking
 
-*   [Boost.Beast (⭐3.6k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[BSL-1.0] [website](https://www.boost.org/libs/beast)
+*   [Boost.Beast (⭐3.7k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[BSL-1.0] [website](https://www.boost.org/libs/beast)
 
 ## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

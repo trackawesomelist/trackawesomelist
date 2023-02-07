@@ -92,7 +92,7 @@
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [Publish-AppImage for .NET (⭐11)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
+*   [Publish-AppImage for .NET (⭐16)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 
 ## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Reference Resources / Workato
 
-*   [Custom Connector Docs (⭐37)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+*   [Custom Connector Docs (⭐38)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
 
 ### Learning Resources / Workato
 
@@ -128,7 +128,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-color-input (⭐10)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
+*   [vue-color-input (⭐11)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
 ## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐156)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐8.8k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐160)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

@@ -94,7 +94,7 @@
 
 ### Miscellaneous
 
-*   [fccf (⭐321)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
+*   [fccf (⭐323)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

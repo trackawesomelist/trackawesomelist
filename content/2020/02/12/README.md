@@ -14,11 +14,11 @@
 
 ### Applications / Database
 
-*   [Lucid (⭐308)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
+*   [Lucid (⭐310)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 
 ### Applications / Web Servers
 
-*   [wyhaya/see (⭐174)](https://github.com/wyhaya/see) — Static HTTP file server [![Build Status](https://api.travis-ci.org/wyhaya/see.svg?branch=master)](https://travis-ci.org/wyhaya/see)
+*   [wyhaya/see (⭐175)](https://github.com/wyhaya/see) — Static HTTP file server [![Build Status](https://api.travis-ci.org/wyhaya/see.svg?branch=master)](https://travis-ci.org/wyhaya/see)
 
 ### Libraries / Logging
 
@@ -76,7 +76,7 @@
 
 ### Programming Languages
 
-*   [Coq (⭐199)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐211)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -88,16 +88,16 @@
 
 ### Productivity / Calendars
 
-*   [gcalcli (⭐2.9k)](https://github.com/insanum/gcalcli) - Google calendar client.
+*   [gcalcli (⭐3k)](https://github.com/insanum/gcalcli) - Google calendar client.
 *   [khal (⭐2.1k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ### Files and Directories / Search
 
-*   [broot (⭐7.7k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+*   [broot (⭐8.1k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ### Images / Image Conversion
 
-*   [korkut (⭐351)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+*   [korkut (⭐355)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Database
 
-*   [DBreeze (⭐454)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
+*   [DBreeze (⭐455)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
 
 ---
 

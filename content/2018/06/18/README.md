@@ -69,7 +69,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐981)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -136,7 +136,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Security / Other
 
-*   [Jwks RSA (⭐155)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐160)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

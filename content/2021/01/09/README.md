@@ -16,7 +16,7 @@
 
 ### PlayCanvas
 
-*   [Engine (⭐8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8.1k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -32,7 +32,7 @@
 
 ### Learn
 
-*   [YouTubers (⭐3.8k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐3.9k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -56,7 +56,7 @@
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐229)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐239)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ## [8. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 

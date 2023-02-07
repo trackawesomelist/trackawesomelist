@@ -48,7 +48,7 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐620)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐622)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 
@@ -82,7 +82,7 @@
 
 ### Java VM / Clojure
 
-*   [Friboo (⭐117)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
+*   [Friboo (⭐118)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
 
 ### PHP / Scala
 

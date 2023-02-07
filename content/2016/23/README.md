@@ -23,7 +23,7 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐653)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐654)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐214)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐217)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -149,11 +149,11 @@
 
 *   [ANNetGPGPU (⭐93)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
 *   [Recast/Detour (⭐5.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [Veles (⭐896)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐8.3k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐8.4k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
@@ -161,7 +161,7 @@
 
 ### Web Application Framework
 
-*   [TreeFrog Framework (⭐1.1k)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). \[BSD] [website](http://www.treefrogframework.org/)
+*   [TreeFrog Framework (⭐1.2k)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). \[BSD] [website](http://www.treefrogframework.org/)
 
 ### Other Awesome Projects
 

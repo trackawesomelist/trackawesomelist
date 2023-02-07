@@ -121,7 +121,7 @@
 
 ### Boilerplates
 
-*   [NextJS Redux-Wrapper Material-UI (⭐125)](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 🤓 A boilerplate NextJS with Redux and Material UI.
+*   [NextJS Redux-Wrapper Material-UI (⭐127)](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 🤓 A boilerplate NextJS with Redux and Material UI.
 
 ## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Mods / Technology
 
-*   [Railcraft (⭐496)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
+*   [Railcraft (⭐497)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
 
 ### Mods / Utilities
 

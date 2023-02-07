@@ -10,14 +10,14 @@
 
 ### Issue Tracking and Project Management
 
-*   [easyretro.io](https://www.easyretro.io/) — Free simple and intuitive sprint retrospective tool
+*   [easyretro.io](https://www.easyretro.io/) — Simple and intuitive sprint retrospective tool. Free plan has 3 public boards and 1 survey per board per month.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Code Snapshot (⭐42)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [Dialogic (⭐2k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+*   [Code Snapshot (⭐43)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
+*   [Dialogic (⭐2.1k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
 *   [Scatter (⭐1.1k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)

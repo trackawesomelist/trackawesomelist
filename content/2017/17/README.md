@@ -50,7 +50,7 @@
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services
+### Services / Misc
 
 *   [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 *   [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
@@ -150,19 +150,19 @@
 
 ### Tutorial
 
-*   [vulkan-sxs (⭐15)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐44)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
+*   [vulkan-sxs (⭐15)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐45)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
 
 ### Tools
 
 *   [LoaderAndValidationLayers (⭐413)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
-*   [VulkanTools (⭐574)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. \[Apache Licence 2.0]
+*   [VulkanTools (⭐575)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
 
 ### Books
 
 *   [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-    *   [Book's Examples (⭐176)](https://github.com/PacktPublishing/Learning-Vulkan)
+    *   [Book's Examples (⭐178)](https://github.com/PacktPublishing/Learning-Vulkan)
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-    *   [Book's Examples (⭐627)](https://github.com/PacktPublishing/Vulkan-Cookbook)
+    *   [Book's Examples (⭐639)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 ## [12. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -211,7 +211,7 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐646)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐662)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -248,7 +248,7 @@
 
 ### Files and Directories / Directory Navigation
 
-*   [PathPicker (⭐4.8k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+*   [PathPicker (⭐4.9k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 
 ## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

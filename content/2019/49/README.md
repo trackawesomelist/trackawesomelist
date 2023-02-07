@@ -178,11 +178,11 @@
 
 ### Dialog
 
-*   [Chatito (⭐793)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
+*   [Chatito (⭐806)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 
 ### Neural Natural Language Generation
 
-*   [textgenrnn (⭐4.8k)](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+*   [textgenrnn (⭐4.9k)](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 
 ### Videos
 
@@ -299,7 +299,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐670)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐676)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -362,7 +362,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐972)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
+*   [gonic (⭐990)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
 
 ### Software / Money, Budgeting & Management
 
@@ -370,7 +370,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐982)](https://github.com/josephernest/writing)) `MIT` `Javascript`
+*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐983)](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 ### Software / Proxy
 
@@ -378,7 +378,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐1.9k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐2k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
 
 ## [27. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -418,7 +418,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐199)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐201)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ## [33. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
@@ -496,7 +496,7 @@
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐205)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS.rs (⭐208)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 
 ### Real-time / Real-time tools

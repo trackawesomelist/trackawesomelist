@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24 - Jul 30, 2017
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -427,8 +427,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐865)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
-*   [value-category-cheatsheet (⭐400)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐871)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
+*   [value-category-cheatsheet (⭐398)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -625,11 +625,11 @@
 
 ### JavaScript Engines
 
-*   [ClearScript (⭐1.3k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
+*   [ClearScript (⭐1.4k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 
 ### Logging
 
-*   [Essential Diagnostics (⭐63)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
+*   [Essential Diagnostics (⭐64)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 *   [Semantic Logging Application Block (SLAB) (⭐216)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
@@ -827,13 +827,7 @@
 
 *   [Create your first ReactJS application with NextJS *\[Spanish\]*](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
 
-## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
-
-### OS Images
-
-*   [FreeBSD](https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
-
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -843,7 +837,7 @@
 
 *   [vue-jalaali-datepicker (⭐13)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 
-## [48. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [47. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -864,7 +858,7 @@
 
 *   [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
 
-## [49. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [48. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Python / General
 
@@ -884,7 +878,7 @@
 
 *   [In-depth Steam Bot Guide with Node.js (⭐498)](https://github.com/andrewda/node-steam-guide)
 
-## [50. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [49. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Language Aware String Manipulation / Constituency Parsing
 
@@ -895,13 +889,13 @@
 *   [regex\_sample (⭐1)](https://github.com/mochizukikotaro/regex_sample) -
     sample string generation from a given Regular Expression.
 
-## [51. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [50. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Content Disarm & Reconstruct
 
 *   [DocBleach (⭐130)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
-## [52. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [51. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 

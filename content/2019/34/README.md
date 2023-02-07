@@ -107,9 +107,9 @@
 
 ## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Blogs
+### Blogs / Misc
 
-*   [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing
+*   [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 
 ## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐63)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
+*   [Mongo-Thingy (⭐65)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
@@ -161,7 +161,7 @@
 
 ### Tools / Web
 
-*   [Mongoku (⭐1.1k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
+*   [Mongoku (⭐1.2k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
 
 ## [15. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
@@ -254,7 +254,7 @@
 
 ### CLOS extensions
 
-*   [inlined-generic-function (⭐108)](https://github.com/guicho271828/inlined-generic-function) -
+*   [inlined-generic-function (⭐109)](https://github.com/guicho271828/inlined-generic-function) -
     Bringing the speed of Static Dispatch to CLOS. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [static-dispatch (⭐68)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
 
@@ -379,7 +379,7 @@
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐620)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐636)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## [31. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -428,15 +428,11 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐648)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐652)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ### Software / Communication - Custom Communication Systems
 
 *   [Syndie](https://syndie.de) - Syndie is a libre system for operating distributed forums. `CC0-1.0` `Java`
-
-### Software / Communication - Email - Mail Transfer Agents
-
-*   [Qmail](https://cr.yp.to/qmail.html) - Secure Sendmail replacement. ([Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -444,7 +440,7 @@
 
 ### Software / Polls and Events
 
-*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐300)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
+*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐302)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
 
 ### Software / URL Shorteners
 
@@ -531,7 +527,7 @@
 ### Other Tools / Telegram
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
-    *   [pygreynoise (⭐134)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+    *   [pygreynoise (⭐135)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 
 ## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 

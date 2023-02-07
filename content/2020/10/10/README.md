@@ -56,7 +56,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [BalmUI (⭐429)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
+*   [BalmUI (⭐431)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 

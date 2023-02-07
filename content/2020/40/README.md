@@ -225,11 +225,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Web
 
-*   [apollographql/apollo-android (⭐3.3k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
+*   [apollographql/apollo-android (⭐3.4k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐521)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐524)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -238,12 +238,12 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Coroutines
 
-*   [konrad-kaminski/spring-kotlin-coroutine (⭐410)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
-*   [marcoferrer/kroto-plus (⭐480)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
+*   [konrad-kaminski/spring-kotlin-coroutine (⭐411)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
+*   [marcoferrer/kroto-plus (⭐481)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [pardom/redux-kotlin (⭐270)](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin.
+*   [pardom/redux-kotlin (⭐269)](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin.
 *   [reactor/reactor-core (⭐4.4k)](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Streams Foundation for the JVM. Natively supports Kotlin, since 3.1.0.M3.
 
 ### Libraries/Frameworks / Serialization
@@ -254,8 +254,8 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Database
 
-*   [shyiko/levelkt (⭐12)](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
-*   [SubiyaCryolite/jds (⭐18)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
+*   [shyiko/levelkt (⭐13)](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
+*   [SubiyaCryolite/jds (⭐19)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
 *   [fluidsonic/fluid-mongo (⭐29)](https://github.com/fluidsonic/fluid-mongo) - Coroutine support for MongoDB built on top of the official Reactive Streams Java Driver
 
 ### Libraries/Frameworks / Tools
@@ -271,7 +271,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Continuous Integration
 
-*   [danger/kotlin (⭐407)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
+*   [danger/kotlin (⭐412)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
 
 ### Libraries/Frameworks / Code Generators
 
@@ -300,14 +300,14 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/Vulkan (⭐47)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8.1k)](https://github.com/SaschaWillems/Vulkan)
-*   [nwillc/ksvg (⭐75)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-*   [markaren/three.kt (⭐181)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
+*   [java-opengl-labs/Vulkan (⭐48)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8.2k)](https://github.com/SaschaWillems/Vulkan)
+*   [nwillc/ksvg (⭐74)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
+*   [markaren/three.kt (⭐182)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [breandan/kotlingrad (⭐484)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [breandan/kotlingrad (⭐486)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 
 ### Libraries/Frameworks / Command Line Interface
@@ -338,7 +338,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Kotlin Native / Projects
 
 *   [perses-games/konan-sfml (⭐18)](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example
-*   [JetBrains/kotlinconf-spinner (⭐594)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
+*   [JetBrains/kotlinconf-spinner (⭐598)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
 
 ## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -677,13 +677,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Official / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [flame\_gamepad (⭐41)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
+*   [flame\_gamepad (⭐45)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
 *   [flame\_geom (⭐4)](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
-*   [flame\_scrolling\_sprite (⭐17)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
+*   [flame\_scrolling\_sprite (⭐19)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [flame\_texturepacker (⭐16)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
+*   [flame\_texturepacker (⭐17)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
 ## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -813,11 +813,11 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Game Engine
 
-*   [nCine (⭐779)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐787)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐445)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐447)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -894,7 +894,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Contents / Health and Fitness
 
-*   [Covid19-Tracker (⭐32)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
+*   [Covid19-Tracker (⭐34)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
 
 ## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -914,18 +914,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐377)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐378)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### C++ / General-Purpose Machine Learning
 
 *   [skynet (⭐62)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
-*   [Hopsworks (⭐843)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
+*   [Hopsworks (⭐857)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
 ### Python / Natural Language Processing
 
 *   [colibri-core (⭐122)](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 *   [genius (⭐237)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
-*   [python-zpar (⭐49)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐133)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
+*   [python-zpar (⭐49)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐134)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
 *   [DeepPavlov (⭐6k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 
 ### C++ / Sequence Analysis
@@ -1588,11 +1588,11 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐611)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐625)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐32)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐33)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ### Miscellaneous / Lazy Load
 
@@ -1664,10 +1664,10 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Crypto News (⭐26)](https://github.com/Bartozzz/crypto-news) - allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
 *   [Epiboard (⭐309)](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features :new: :tada:
 *   [zhudyos/duic (⭐291)](https://github.com/zhudyos/duic) - Distributed configuration center :new:
-*   [Vuemmerce (⭐382)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
+*   [Vuemmerce (⭐387)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
 *   [Carpoolear (⭐80)](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
 *   [RosterWebApp (⭐19)](https://github.com/SnakeyHips/RosterWebApp) - Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
-*   [Eplee (⭐314)](https://github.com/Janglee123/eplee) - Sweet, simple epub reader made with Vue.js and Electron.js.
+*   [Eplee (⭐313)](https://github.com/Janglee123/eplee) - Sweet, simple epub reader made with Vue.js and Electron.js.
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1681,10 +1681,10 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Components & Libraries / UI Components
 
 *   [vue-tooltipster (⭐6)](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
-*   [@bananajs/vue3-book-component (⭐4)](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
+*   [@bananajs/vue3-book-component (⭐5)](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
 *   [@bananajs/vue2-book-component (⭐2)](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
 *   [vue-image-zoomer (⭐42)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
-*   [vue3-scroll-picker (⭐18)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue3-scroll-picker (⭐19)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
 ### Components & Libraries / UI Utilities
 
@@ -1706,7 +1706,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Open Source / Community
 
-*   [TroisJS (⭐3.1k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+*   [TroisJS (⭐3.2k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
 ## [93. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
@@ -1820,7 +1820,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Development tools / Services
 
-*   [deps.rs (⭐369)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐371)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [97. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -1918,7 +1918,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ## [101. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Build and Package / Other / unknown licence
+### Build and Package / MIT
 
 *   [ada4cmake (⭐4)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 

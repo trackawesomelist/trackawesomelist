@@ -34,7 +34,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ee-ts (⭐119)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+*   :octocat: [ee-ts (⭐121)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

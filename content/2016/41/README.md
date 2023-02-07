@@ -14,7 +14,7 @@
 
 ### Queue
 
-*   [RawRabbit (⭐724)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
+*   [RawRabbit (⭐725)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 

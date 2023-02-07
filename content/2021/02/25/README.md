@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [react-swipeable-list (⭐62)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+*   [react-swipeable-list (⭐64)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 
 ## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -76,11 +76,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Yacht (⭐2.3k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Yacht (⭐2.4k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-input-validator (⭐14)](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
+*   [vue-input-validator (⭐15)](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
 
 ### Components & Libraries / Utilities
 
@@ -287,7 +287,7 @@
 
 ### Plugins
 
-*   💼 [Content Placeholder (⭐101)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
+*   💼 [Content Placeholder (⭐102)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 
 ---
 

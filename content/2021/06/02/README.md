@@ -21,7 +21,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐395)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐396)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Files and Directories / Search
 
-*   [rare (⭐169)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+*   [rare (⭐184)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

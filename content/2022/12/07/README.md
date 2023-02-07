@@ -16,7 +16,7 @@
 
 ### ChatGPT API
 
-*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐2.4k)](https://github.com/rawandahmad698/PyChatGPT)
+*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐2.8k)](https://github.com/rawandahmad698/PyChatGPT)
 *   [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
 
 ### Other

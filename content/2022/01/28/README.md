@@ -36,22 +36,22 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Dim (⭐3.1k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
+*   [Dim (⭐3.2k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [ytdl-gui (⭐224)](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
-*   [uYouPlus (⭐3.3k)](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
-*   [SmartTubeNext (⭐7.6k)](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
-*   [ytcc (⭐141)](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
-*   [smtube (⭐29)](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
+*   [ytdl-gui (⭐235)](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
+*   [uYouPlus (⭐4.2k)](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
+*   [SmartTubeNext (⭐9k)](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+*   [ytcc (⭐147)](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
+*   [smtube (⭐31)](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
     *   Website: <https://www.smtube.org>
     *   SMTube is part of SMPlayer
     *   SMPlayer website: <https://www.smplayer.info>
-    *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐300)](https://github.com/smplayer-dev/smplayer)
-*   [minitube (⭐305)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
+    *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐344)](https://github.com/smplayer-dev/smplayer)
+*   [minitube (⭐311)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

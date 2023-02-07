@@ -88,11 +88,11 @@
 
 ### Carousel
 
-*   [react-image-magnify (⭐549)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
+*   [react-image-magnify (⭐552)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐72)](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐74)](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
 
 ## [11. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Projects
 
-*   [Flow.er (⭐46)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
+*   [Flow.er (⭐47)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 
 ## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -284,7 +284,7 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐893)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐903)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
@@ -315,7 +315,6 @@
 
 ### Issue Tracking and Project Management
 
-*   [saas.zentao.pm](https://saas.zentao.pm/) - An Application Lifecycle Management solution for Issue Tracking and Project Management, on-premise and open source version are available as well.
 *   [vabotu](https://vabotu.com/) - A collaborative tool for project management. Free and other plans are available. The Freelance plan is for 10 users, include messaging, task-boards, 5GB online storage, workspaces, export data.
 *   [Wikifactory](https://wikifactory.com/) — Product designing Service with Projects, VCS & Issues. Free plan offers unlimited projects & collaborators and 3GB storage.
 
@@ -386,7 +385,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐207)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐211)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [36. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -444,7 +443,7 @@
 
 ### Libraries / Python
 
-*   [Beanie (⭐972)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐1.1k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 
 ## [41. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
@@ -716,13 +715,13 @@
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf-bootstrap (⭐472)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐489)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Open-Source Projects
 
-*   [Ubuntu 20.04 (⭐2.7k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
+*   [Ubuntu 20.04 (⭐2.8k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
 
 ## [47. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -928,7 +927,7 @@
 
 *   [vue-datatable-url-sync (⭐24)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [vuex-masked-modules (⭐2)](https://github.com/Silksofthesoul/vuex-masked-modules) - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
-*   [vue-sse (⭐105)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
+*   [vue-sse (⭐106)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
 
 ## [55. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 

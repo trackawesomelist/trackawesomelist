@@ -10,7 +10,7 @@
 
 ### Productivity / HTTP Client
 
-*   [pubs (⭐226)](https://github.com/pubs/pubs) - Scientific bibliography manager.
+*   [pubs (⭐234)](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -135,14 +135,14 @@
 
 ### Overview / YouTube
 
-*   [Piped (⭐3.2k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
-    *   Official instance: <https://piped.kavin.rocks>
-    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐3.2k)](https://github.com/TeamPiped/Piped/wiki/Instances)
-    *   Installation guide for self-hosting: [https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md (⭐13)](https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md)
+*   [Piped (⭐3.9k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
+    *   Official instance: <https://piped.video>
+    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐3.9k)](https://github.com/TeamPiped/Piped/wiki/Instances)
+    *   Installation guide for self-hosting: [https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md (⭐14)](https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md)
 
 ### Overview / Reddit
 
-*   [Troddit (⭐331)](https://github.com/burhan-syed/troddit): A web client for Reddit
+*   [Troddit (⭐377)](https://github.com/burhan-syed/troddit): A web client for Reddit
     *   Official instance: <https://www.troddit.com>
 
 ### Overview / Google Search

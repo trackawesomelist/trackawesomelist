@@ -20,7 +20,7 @@
 
 ### Software / Password Managers
 
-*   [PassWall (⭐671)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
+*   [PassWall (⭐672)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -311,7 +311,7 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [appimaged (⭐273)](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).
+*   [appimaged (⭐278)](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).
 
 ## [18. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -324,9 +324,9 @@
 ### Web Scraping / Others
 
 *   [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
-*   [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the coure
+*   [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the core
 *   [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
-*   [twitterscraper (⭐2.2k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape twitter
+*   [twitterscraper (⭐2.2k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
 
 ### Data Manipulation / Data Frames
 
@@ -341,7 +341,7 @@
 ### Visualization / Automatic Plotting
 
 *   [HoloViews (⭐2.4k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐1.1k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [AutoViz (⭐1.2k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
 *   [SweetViz (⭐2.3k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP
@@ -402,15 +402,15 @@
 
 ### Backup
 
-*   [Dumpling (⭐266)](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+*   [Dumpling (⭐268)](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 
 ### Benchmarking
 
-*   [go-tpc (⭐117)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
+*   [go-tpc (⭐132)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 
 ### Binlog-Replication
 
-*   [DM (⭐455)](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
+*   [DM (⭐456)](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 
 ## [27. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -455,7 +455,7 @@
 
 ## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
 
@@ -564,12 +564,12 @@
 
 ### Individual components / API
 
-*   [Blazor.Canvas (⭐129)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
+*   [Blazor.Canvas (⭐133)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
-*   [bUnit - a testing library for Blazor components (⭐814)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [BlazorApplicationInsights (⭐123)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [bUnit - a testing library for Blazor components (⭐823)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
+*   [BlazorApplicationInsights (⭐124)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ### Others / Others
 
@@ -839,10 +839,10 @@
 
 *   [vue-grid-responsive (⭐27)](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.
 *   [vue-splash (⭐127)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
-*   [@geospoc/v-mapbox (⭐134)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
+*   [@geospoc/v-mapbox (⭐136)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 *   [ckeditor4-vue (⭐60)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-*   [vue-scratchable (⭐50)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
+*   [vue-scratchable (⭐49)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
 
 ### Components & Libraries / UI Utilities
 

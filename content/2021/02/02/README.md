@@ -88,16 +88,16 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Libraries / Task scheduling
 
-*   [delay-timer (⭐256)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
+*   [delay-timer (⭐258)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
     [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvim-lua/lsp-status.nvim (⭐544)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
-*   [RishabhRD/nvim-lsputils (⭐391)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
-*   [kosayoda/nvim-lightbulb (⭐549)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
+*   [nvim-lua/lsp-status.nvim (⭐548)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
+*   [RishabhRD/nvim-lsputils (⭐392)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
+*   [kosayoda/nvim-lightbulb (⭐557)](https://github.com/kosayoda/nvim-lightbulb) - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 
 ### (requires Neovim 0.5) / LSP Installer
 
@@ -106,7 +106,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Fuzzy Finder / Diagnostics
 
-*   [vijaymarupudi/nvim-fzf (⭐284)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
+*   [vijaymarupudi/nvim-fzf (⭐286)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 
 ### Git / Diagnostics
 
@@ -115,13 +115,13 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 ### Editing Support / Diagnostics
 
 *   [windwp/nvim-autopairs (⭐1.7k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs written by Lua.
-*   [monaqa/dial.nvim (⭐414)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
+*   [monaqa/dial.nvim (⭐448)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
 ## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Shopping
 
-*   [Yumniastic Food Shop App (⭐19)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
+*   [Yumniastic Food Shop App (⭐23)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
 ## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -134,7 +134,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Documentation / Symfony2
 
-*   [Optic (⭐1k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+*   [Optic (⭐1.1k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
 ## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -158,7 +158,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### 3D
 
-*   [g3d (⭐363)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
+*   [g3d (⭐371)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 
 ### Input
 
@@ -174,13 +174,13 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐302)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐311)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-headings (⭐50)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
+*   [react-headings (⭐51)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
 
 ### Miscellaneous / Lazy Load
 

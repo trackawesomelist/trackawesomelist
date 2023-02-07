@@ -89,7 +89,7 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐253)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐256)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -113,11 +113,11 @@
 
 ### Media
 
-*   [VLC (⭐69)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐72)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Work
 
-*   [Internships (⭐259)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐262)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ---
 

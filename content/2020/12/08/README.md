@@ -17,7 +17,7 @@
 ### Computer Vision
 
 *   [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
-*   [JavaCV (⭐6.3k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
+*   [JavaCV (⭐6.4k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
 ## [3. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

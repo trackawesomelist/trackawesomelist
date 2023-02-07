@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,19 +32,13 @@
 
 *   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - Simulate and combine micro-models to research their impact on the macro-features of social networks.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Math
-
-*   [muparser](http://beltoforion.de/article.php?a=muparser) - muParser is an extensible high performance math expression parser library written in C++. \[MIT]
-
-## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Developer Tools
 
 *   [Workbench Export to Migrations (⭐902)](https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations) - Workbench plugin for exporting Models to Laravel migrations
 
-## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -54,13 +48,13 @@
     *   [Lecture Notes](http://computationstructures.org/notes/tradeoffs/notes.html)
     *   [Labs-Assignments](http://computationstructures.org/exercises/cmos/lab.html)
 
-## [8. Colorful](/content/Siddharth11/Colorful/README.md)
+## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Color Palettes / Web App
 
 *   [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 
-## [9. Citizen Science](/content/dylanrees/citizen-science/README.md)
+## [8. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
 ### Literature / Citizen Science Theory
 

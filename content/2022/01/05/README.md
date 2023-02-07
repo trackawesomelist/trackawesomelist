@@ -26,10 +26,10 @@
 
 ### Chemistry
 
-*   [MADNESS (⭐147)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐147)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MADNESS (⭐148)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐148)](https://github.com/m-a-d-n-e-s-s/madness)
 *   [MPQC (⭐56)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐754)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐764)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -45,7 +45,7 @@
 
 ## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Other
+### Other / Platform-specific tools
 
 *   [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 

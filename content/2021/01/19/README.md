@@ -80,7 +80,7 @@
 
 ## [11. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3
 
@@ -122,7 +122,7 @@
 
 ### Demo
 
-*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
+*   [Sitecore MVP (⭐64)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 
 ## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

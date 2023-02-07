@@ -235,7 +235,6 @@
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [FeedBase](http://feedbase.io/) <sup>[495](https://t.me/s/aboutrss/495)</sup>
 *   [Feed Curator](https://vincode.io/feed-curator/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/us/app/feed-curator/id1458647758)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vincode-io/FeedCurator)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Discussion Forums / Crypto or Blockchain relevant
@@ -305,7 +304,7 @@
 
 ### Applications / Utilities
 
-*   [nomino (⭐470)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
+*   [nomino (⭐475)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

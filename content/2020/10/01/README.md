@@ -98,13 +98,13 @@
 
 ### Official / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [flame\_gamepad (⭐41)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
+*   [flame\_gamepad (⭐45)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
 *   [flame\_geom (⭐4)](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
-*   [flame\_scrolling\_sprite (⭐17)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
+*   [flame\_scrolling\_sprite (⭐19)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [flame\_texturepacker (⭐16)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
+*   [flame\_texturepacker (⭐17)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
 ## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@bananajs/vue3-book-component (⭐4)](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
+*   [@bananajs/vue3-book-component (⭐5)](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
 *   [@bananajs/vue2-book-component (⭐2)](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
 
 ### Components & Libraries / UI Utilities
@@ -251,7 +251,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐445)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐447)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -350,7 +350,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Contents / Health and Fitness
 
-*   [Covid19-Tracker (⭐32)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
+*   [Covid19-Tracker (⭐34)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
 
 ## [32. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -377,13 +377,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### C++ / General-Purpose Machine Learning
 
 *   [skynet (⭐62)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
-*   [Hopsworks (⭐843)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
+*   [Hopsworks (⭐857)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
 ### Python / Natural Language Processing
 
 *   [colibri-core (⭐122)](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 *   [genius (⭐237)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
-*   [python-zpar (⭐49)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐133)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
+*   [python-zpar (⭐49)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐134)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
 
 ### C++ / Sequence Analysis
 

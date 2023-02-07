@@ -81,7 +81,7 @@
 
 ### Non-English Content / Roguelike
 
-*   [Mandarin Chinese (中文) (⭐634)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Mandarin Chinese (中文) (⭐664)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ---
 

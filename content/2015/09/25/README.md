@@ -45,19 +45,19 @@
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
 *   [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
 *   [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
-*   [System (⭐594)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-*   [Tesla (⭐190)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+*   [System (⭐596)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [Tesla (⭐189)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐506)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐522)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 *   [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 ### Java VM / Scala
 
-*   [Colossus (⭐1.2k)](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
+*   [Colossus (⭐1.1k)](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 *   [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 *   [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
 *   [Skinny Micro (⭐57)](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
@@ -70,7 +70,6 @@
 *   [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 *   [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 *   [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
-*   [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 
 ### Serialization / Scala
 
@@ -79,7 +78,7 @@
 ### Storage / Scala
 
 *   [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
-*   [Reborn (⭐894)](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
+*   [Reborn (⭐900)](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 *   [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)

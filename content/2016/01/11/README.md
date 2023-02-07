@@ -41,7 +41,7 @@
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐251)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐252)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Utilities
@@ -140,7 +140,7 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 ### Issue Tracking and Project Management
 
-*   [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
+*   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. Free plan has 5GB for unlimited users.
 
 ## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

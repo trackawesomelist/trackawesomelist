@@ -20,7 +20,7 @@
 
 ### Cryptography
 
-*   [StreamCryptor (⭐122)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
+*   [StreamCryptor (⭐123)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 
 ### ORM
 

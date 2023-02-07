@@ -59,13 +59,13 @@
 
 ### AppImage developer tools / Libraries
 
-*   [QAppImageUpdate (⭐25)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
+*   [QAppImageUpdate (⭐26)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Translations (⭐68)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐71)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mpa (⭐159)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+*   [vite-plugin-mpa (⭐160)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 
 ### Vue CLI / Community
 

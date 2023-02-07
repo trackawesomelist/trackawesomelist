@@ -10,18 +10,18 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐803)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐802)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐482)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.3k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐374)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐652)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐482)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐417)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐709)](https://github.com/rsteca/sklearn-deap)
-*   [sklearn-evaluation (⭐356)](https://github.com/edublancas/sklearn-evaluation)
+*   [scikit-rebate (⭐375)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐654)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐483)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐418)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐711)](https://github.com/rsteca/sklearn-deap)
+*   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐5.2k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐265)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐267)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐666)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐3.1k)](https://github.com/rapidsai/cuml)
@@ -31,15 +31,15 @@
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐12k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐328)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐747)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐334)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐750)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐61k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐62k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐13k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.2k)](https://github.com/pytorch/text)
-*   [torchaudio (⭐1.9k)](https://github.com/pytorch/audio)
+*   [torchaudio (⭐2k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.2k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.5k)](https://github.com/pytorch/tnt)
 *   [PyVarInf (⭐342)](https://github.com/ctallec/pyvarinf)
@@ -48,18 +48,18 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.2k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐729)](https://github.com/itdxer/neupy)
+*   [NeuPy (⭐731)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐349)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐621)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐624)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐63)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐10)](https://github.com/bsautermeister/tensorlight)
-*   [Mesh TensorFlow (⭐1.3k)](https://github.com/tensorflow/mesh)
+*   [Mesh TensorFlow (⭐1.4k)](https://github.com/tensorflow/mesh)
 *   [TF-Agents (⭐2.4k)](https://github.com/tensorflow/agents)
 
 ### Deep Learning Packages / Keras Ecosystem
@@ -68,9 +68,9 @@
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib)
 *   [Hyperas (⭐2.1k)](https://github.com/maxpumperla/hyperas)
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
-*   [Hera (⭐495)](https://github.com/keplr-io/hera)
+*   [Hera (⭐493)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.2k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐437)](https://github.com/google/qkeras)
+*   [qkeras (⭐441)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -202,7 +202,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐575)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐579)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
 
 ---
 

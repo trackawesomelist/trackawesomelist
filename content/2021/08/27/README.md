@@ -143,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐97)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐102)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐412)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐572)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ## [17. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

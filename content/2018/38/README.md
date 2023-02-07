@@ -46,7 +46,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [SVM Explorer (⭐150)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
+*   [SVM Explorer (⭐151)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Concurrency
 
-*   [Async++ (⭐1.1k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
+*   [Async++ (⭐1.2k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
 
 ## [10. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -99,13 +99,13 @@
 
 ### Audio Tools
 
-*   [fre:ac (⭐896)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+*   [fre:ac (⭐959)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐8)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐98)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
-*   [lltag (⭐27)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
-*   [Rubyripper (⭐103)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+*   [K3b (⭐101)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [lltag (⭐28)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
+*   [Rubyripper (⭐104)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 *   [split2flac (⭐248)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
-*   [Whipper (⭐647)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
+*   [Whipper (⭐973)](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 *   [X Audio Copy (⭐3)](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
 ### Music Programming
@@ -163,7 +163,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐251)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐252)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -515,7 +515,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### Platforms
 
-*   [DigitalOcean (⭐294)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐297)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 

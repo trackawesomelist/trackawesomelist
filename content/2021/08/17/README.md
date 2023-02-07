@@ -22,7 +22,7 @@
 
 ### Overview / Spotify
 
-*   [psst (⭐7.1k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
+*   [psst (⭐7.3k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 
 ## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -39,19 +39,19 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [transitcast (⭐7)](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
+*   [transitcast (⭐8)](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
 
 ## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Clones
 
-*   [PicoLove (⭐621)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
+*   [PicoLove (⭐629)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
 ## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [ipfs-chat (⭐92)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐94)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -76,13 +76,13 @@
 
 ### Libraries / Scripting
 
-*   [metacall/core (⭐1.1k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
+*   [metacall/core (⭐1.2k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Finance
 
-*   [ticker (⭐4.4k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐4.5k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐298)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐318)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ---
 

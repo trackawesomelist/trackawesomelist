@@ -10,7 +10,7 @@
 
 ### Data Manipulation / Data Frames
 
-*   [swifter (⭐2.2k)](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+*   [swifter (⭐2.2k)](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 
 ### Data Manipulation / Pipelines
 
@@ -23,7 +23,7 @@
 *   [lucid (⭐4.5k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 *   [Netron (⭐21k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
 *   [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-*   [tensorboard-pytorch (⭐7.5k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...).
+*   [tensorboard-pytorch (⭐7.5k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -57,11 +57,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Crypto Dashboard (⭐212)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
+*   [Vue Crypto Dashboard (⭐214)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweetalert2 (⭐586)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
+*   [vue-sweetalert2 (⭐590)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 *   [vue-modality (⭐5)](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)

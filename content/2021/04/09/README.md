@@ -61,7 +61,7 @@
 ### Libraries / Network programming
 
 *   message-io
-    *   [lemunozm/message-io (⭐836)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
+    *   [lemunozm/message-io (⭐839)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 
 ## [9. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-components (⭐48)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
+*   [yew-components (⭐50)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
 ## [12. Awesome Math](/content/rossant/awesome-math/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [Test database (⭐3.2k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
+*   [Test database (⭐3.3k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -95,7 +95,7 @@
 ### Containers
 
 *   [robin-hood-hashing (⭐1.3k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐872)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-map (⭐889)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### Math
 
@@ -154,7 +154,7 @@
 
 ### Component Collections / Material Design
 
-*   [shards-react (⭐740)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
+*   [shards-react (⭐743)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
 
 ### Inspect / Lazy Load
 

@@ -10,14 +10,12 @@
 
 ### Messaging / Scala
 
-*   [Ascoltatori (⭐526)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
-*   [AMQP](http://www.amqp.org/) - Advanced Message Queuing Protocol.
-*   [MQTT](http://mqtt.org/) - MQ Telemetry Transport.
+*   [Ascoltatori (⭐525)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 *   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### REST / Scala
 
-*   [Apidoc (⭐543)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
+*   [Apidoc (⭐544)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 
 ### Articles & Papers / Scala
 

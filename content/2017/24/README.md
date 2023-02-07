@@ -67,7 +67,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐6.5k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐6.6k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Web Apps (open source)
 
-*   [Google I/O Transport Tracker (⭐547)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐547)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
+*   [Google I/O Transport Tracker (⭐554)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐554)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -465,7 +465,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 ### Projects Using Vue.js / Open Source
 
 *   [promptie (⭐87)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
-*   [Hare (⭐259)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
+*   [Hare (⭐258)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 
 ### Components & Libraries / UI Components
 
@@ -473,7 +473,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 

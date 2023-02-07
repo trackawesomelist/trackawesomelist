@@ -10,11 +10,11 @@
 
 ### Development / Devops
 
-*   [flog (⭐766)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+*   [flog (⭐815)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [share-cli (⭐285)](https://github.com/marionebl/share-cli) - Share files with your local network.
+*   [share-cli (⭐293)](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Just for Fun / Image Conversion
 

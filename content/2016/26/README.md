@@ -8,14 +8,9 @@
 
 ## [1. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
-### Design
-
-*   [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
-
 ### Ruby Clients
 
 *   [httparty (⭐5.6k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
-*   [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -85,7 +80,7 @@
 
 ## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 
@@ -350,11 +345,11 @@ git blame <file-name>
 
 ### Minification
 
-*   [Web Markup Minifier (⭐396)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐400)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ### Queue
 
-*   [Warewolf ESB (⭐259)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
+*   [Warewolf ESB (⭐260)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 
 ### Testing
 

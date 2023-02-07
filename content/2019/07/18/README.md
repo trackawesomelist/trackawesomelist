@@ -24,7 +24,7 @@
 
 ### Software / Proxy
 
-*   [SOCKS5Engine (⭐32)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
+*   [SOCKS5Engine (⭐39)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
 
 ## [4. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
@@ -57,7 +57,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### SIRI / Ruby
 
-*   [Edwig (⭐16)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+*   [Edwig (⭐17)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -65,28 +65,28 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [adalib (⭐16)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
-### Database / Other / unknown licence
+### Database / MIT
 
 *   [ada-base (⭐31)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
-### Generation / Other / unknown licence
+### Generation / MIT
 
 *   [ajunitgen (⭐1)](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [adagio (⭐3)](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 *   [agpl (⭐4)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 
-### Patterns / Other / unknown licence
+### Patterns / MIT
 
 *   [rxada (⭐12)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
 *   [parser-tools (⭐6)](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 
-### Utilities / Other / unknown licence
+### Utilities / MIT
 
 *   [licensing (⭐0)](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
 *   [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
@@ -94,7 +94,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [cstrings (⭐0)](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 *   [ada-bundler (⭐5)](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
 
-### Libraries / Other / unknown licence
+### Libraries / MIT
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 

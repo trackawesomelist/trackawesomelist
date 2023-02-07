@@ -68,7 +68,7 @@
 *   :octocat: [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
 *   :octocat: [xstream (⭐2.3k)](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
 *   :octocat: [TypeMoq (⭐422)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
-*   :octocat: [InversifyJS (⭐9.5k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+*   :octocat: [InversifyJS (⭐9.6k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
 ## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -81,10 +81,10 @@
 ### HTML
 
 *   [floki (⭐1.8k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-*   [html\_sanitize\_ex (⭐217)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+*   [html\_sanitize\_ex (⭐220)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 *   [modest\_ex (⭐32)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 *   [myhtmlex (⭐14)](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
-*   [readability (⭐196)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
+*   [readability (⭐197)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 
 ### XML
 

@@ -30,15 +30,15 @@
 
 ### Applications / System tools
 
-*   [orhun/systeroid (⭐785)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+*   [orhun/systeroid (⭐793)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐172)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
+*   [orhun/rustypaste (⭐176)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
 
 ### Development tools / Web Servers
 
-*   [git-cliff (⭐5k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
+*   [git-cliff (⭐5.2k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -70,7 +70,7 @@
 
 ## [9. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [chests (⭐3)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
 
@@ -150,17 +150,17 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐392)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐396)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/rasmus.nvim (⭐64)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐166)](https://github.com/rsms/sublime-theme) theme.
+*   [kvrohit/rasmus.nvim (⭐66)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐167)](https://github.com/rsms/sublime-theme) theme.
 
 ### Utility / Diagnostics
 
-*   [nkakouros-original/numbers.nvim (⭐18)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
+*   [nkakouros-original/numbers.nvim (⭐19)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 
 ## [17. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -202,70 +202,50 @@
 
 ## [20. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
-### Game Engines / AAA
-
-*   🎉 [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) [:octocat: (⭐1.9k)](https://github.com/aws/lumberyard) - (forked from CRYENGINE) AAA engine integrated with AWS and Twitch.
-
 ### Game Engines / Specialty
 
-*   💰 [3dSen](https://geod.itch.io/3dnes) - NES emulator that lets you play NES games in 3D. \[[Developer Website](http://www.geodstudio.net)]
+*   💰 [3dSen](https://geod.itch.io/3dnes) - Emulator that lets you play NES games in 3D. \[[Website](http://www.geodstudio.net)]
 
 ### Learning / Computer Graphics
 
 *   Awesome Collections
-    *   📚 [Awesome Graphics Libraries (⭐235)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
+    *   📚 [Awesome Graphics Libraries (⭐248)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
 
 ### Libraries / C
 
-*   C: - General -
-    *   📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent C tutorials that will guide you to learn C programming.
+*   📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 
 ### Libraries / C++
 
-*   C++: - General -
-    *   🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
-    *   🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C and C++ and standard libraries.
-    *   📚 [Learn C++](https://www.learncpp.com) - 🔥 Walks you through all the steps to write, compile, and debug C++.
-    *   📚 [Modern Cpp Features (⭐15k)](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
+*   🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
 
 ### Libraries / C#
 
-*   C#: - General -
-    *   📚 [Dot Net Perls](https://www.dotnetperls.com) - Amazing reference for the C# language.
+*   📚 [Dot Net Perls](https://www.dotnetperls.com) - Reference for the C# language.
 
 ### Libraries / Dart
 
-*   Dart: - General -
-    *   🌎 [Dart](https://dart.dev) [:octocat:](https://github.com/dart-lang/) - Official site. Client-optimized language for fast apps on any platform.
+*   🌎 [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. \[[GitHub](https://github.com/dart-lang/)]
 
 ### Libraries / Haxe
 
-*   Haxe: - General -
-    *   🌎 [Haxe](https://haxe.org) [:octocat: (⭐5.3k)](https://github.com/HaxeFoundation/haxe) - Official site. Very cool language used to produce cross-platform native code.
+*   🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. \[[GitHub (⭐5.3k)](https://github.com/HaxeFoundation/haxe)]
 
 ### Libraries / JavaScript
 
-*   JavaScript: - General -
-    *   📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Modern JavaScript programming, with examples.
-    *   🌎 [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network, great documentation and learning resource.
-    *   🌎 [W3 Schools](https://www.w3schools.com/default.asp) - Learn to code with the world's largest web developer site.
+*   📚 [Eloquent JavaScript](https://eloquentjavascript.net) - Modern JavaScript programming, with examples.
 
 ### Libraries / Ruby
 
-*   Ruby: - General -
-    *   🌎 [Ruby](https://www.ruby-lang.org/en/) [:octocat: (⭐20k)](https://github.com/ruby/ruby) - Dynamic, open source programming language, focused on simplicity / productivity.
+*   🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. \[[GitHub (⭐20k)](https://github.com/ruby/ruby)]
 
 ### Libraries / Rust
 
-*   Rust: - General -
-    *   🌎 [Rust](https://www.rust-lang.org) [:octocat:](https://github.com/rust-lang) - Language empowering everyone to build reliable and efficient software. \[[Docs](https://www.rust-lang.org/learn)]
+*   🌎 [Rust](https://www.rust-lang.org) - Empowering everyone to build quality software. \[[Docs](https://www.rust-lang.org/learn) | [GitHub](https://github.com/rust-lang)]
 
 ### Libraries / Zig
 
-*   Zig: - General -
-    *   🌎 [Zig](https://ziglang.org/) [:octocat: (⭐0)](https://github.com/michal-z/zig) - General-purpose programming language and toolchain. \[[Docs](https://ziglang.org/documentation/master/)]
-    *   🌎 [Zig Learn](https://ziglearn.org/) - Excellent Zig language resource.
-    *   📚 [Ziglings (⭐2k)](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
+*   🌎 [Zig](https://ziglang.org/) - General-purpose language and toolchain. \[[Docs](https://ziglang.org/documentation/master/) | [GitHub (⭐0)](https://github.com/michal-z/zig)]
 
 ### Specialty Topics / Fluid / Smoke
 
@@ -278,15 +258,11 @@
 
 ### Specialty Topics / Particles
 
-*   📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) - Excellent particle article by LearnOpenGL.
+*   📚 [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles) - Article by LearnOpenGL.
 
 ### Specialty Topics / Physics
 
-*   Physics: - General -
-    *   📚 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) - 🔥 How to keep physics stable with variable fps.
-    *   📚 [Game Physics from Scratch](https://brm.io/game-physics-for-beginners/) - Starting resource for game physics.
-    *   📚 [Intro to Physics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics) - Part I: An Introduction to Rigid Body Dynamics.
-    *   📚 [Open Source Physics Engines](https://www.tapirgames.com/blog/open-source-physics-engines) - List of open source physics engines.
+*   📚 [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/) - 🔥 How to keep physics stable with variable fps.
 
 ### Specialty Topics / Scripting
 
@@ -299,17 +275,17 @@
 ### Tools / Software / Audio Tools
 
 *   Music
-    *   🆓 [Ardour](https://ardour.org) [:octocat: (⭐2.8k)](https://github.com/Ardour/ardour) - Free, open source, very capable. Record, edit, and mix.
-    *   🆓 [Audacity](https://www.audacityteam.org) [:octocat: (⭐8.6k)](https://github.com/audacity/audacity) - Cross-platform, multi-track audio editor and recorder.
-    *   🆓 [Bosca Ceoil](https://boscaceoil.net) - Free easy to use tool for creating music.
-    *   🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Incredible, complete music production package.
-    *   🆓 [FamiStudio](https://famistudio.org) [:octocat: (⭐1.1k)](https://github.com/BleuBleu/FamiStudio) - Music editor targeted at chiptune artists and NES homebrewers.
-    *   💸 [fmod](https://www.fmod.com) - (used for Hades, Celeste, Untitled Goose Game) Popular audio software for games.
-    *   🆓 [LMMS](https://lmms.io) [:octocat: (⭐6.3k)](https://github.com/lmms/lmms) - 🔥 Free, cross-platform music production software.
+    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐2.9k)](https://github.com/Ardour/ardour)]
+    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐8.8k)](https://github.com/audacity/audacity)]
+    *   🆓 [Bosca Ceoil](https://boscaceoil.net) - Easy to use tool for creating music.
+    *   🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
+    *   🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. \[[Source (⭐1.2k)](https://github.com/BleuBleu/FamiStudio)]
+    *   💸 [fmod](https://www.fmod.com) - Popular (Hades, Celeste, Untitled Goose Game) audio software for games.
+    *   🆓 [LMMS](https://lmms.io) - 🔥 Cross-platform music production software. \[[Source (⭐6.4k)](https://github.com/lmms/lmms)]
     *   🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
-    *   🆓 [Sound Box](https://sb.bitsnbites.eu) [:octocat: (⭐404)](https://github.com/mbitsnbites/soundbox) - Compose synthetic music in your browser. Great for small JavaScript demos.
-    *   🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful modular synthesizer with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
-    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) [:octocat: (⭐362)](https://github.com/keithclark/ZzFXM) - Music generator for use in tiny JavaScript productions.
+    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐405)](https://github.com/mbitsnbites/soundbox)]
+    *   🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
+    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐362)](https://github.com/keithclark/ZzFXM)]
 
 ### Tools / Software / Color / Palettes
 
@@ -317,39 +293,39 @@
 
 ### Tools / Software / Image Editors
 
-*   🆓 [GIMP](https://www.gimp.org) [:octocat: (⭐3.7k)](https://github.com/GNOME/gimp) - GNU Image Manipulation Program, free and open-source cross-platform image editor.
+*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐3.8k)](https://github.com/GNOME/gimp)]
 
 ### Tools / Software / Materials / Textures
 
-*   🆓 [ArmorLab](https://armorlab.org) [:octocat: (⭐159)](https://github.com/armory3d/armorlab) - Generate PBR materials by drag & dropping your photos.
+*   🆓 [ArmorLab](https://armorlab.org) - Generate PBR materials by drag & dropping your photos. \[[Source (⭐171)](https://github.com/armory3d/armorlab)]
 
 ### Tools / Software / Modeling Tools
 
-*   💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - One of the oldest software programs for 3D modeling and rendering.
+*   💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - Classic software for 3D modeling and rendering.
 
 ### Tools / Software / Particle Tools
 
-*   💸 [Particle Designer](https://www.71squared.com/particledesigner) - Powerful particle effects editor designed specifically for macOS.
+*   💸 [Particle Designer](https://www.71squared.com/particledesigner) - Powerful particle effects editor designed for macOS.
 
 ### Tools / Software / Pixel Art
 
-*   💸 [Aseprite](https://www.aseprite.org) [:octocat: (⭐20k)](https://github.com/aseprite/aseprite) - Animated sprite editor and pixel art tool.
+*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐20k)](https://github.com/aseprite/aseprite)]
 
 ### Tools / Software / Vector Editors
 
-*   🆓 [Inkscape](https://inkscape.org) [:octocat: (⭐1.4k)](https://github.com/inkscape/inkscape) - Free and open source vector graphics editor for Linux, Windows and macOS.
+*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐1.5k)](https://github.com/inkscape/inkscape)]
 
 ### Video Game Assets / Graphic Assets
 
-*   💸 [Flaticon](https://www.flaticon.com) - Nice vector icons and stickers.
+*   💸 [Flaticon](https://www.flaticon.com) - Quality vector icons and stickers.
 
 ### Video Game Assets / Material Assets
 
-*   🆓 [AmbientCG](https://ambientcg.com) - Public domain materials for physically based rendering.
+*   🆓 [AmbientCG](https://ambientcg.com) - Public domain materials for physically-based rendering.
 
 ### Video Game Assets / Model Assets
 
-*   🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Free 3D models, all the 3D assets on this site are licensed as public domain.
+*   🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Public domain 3D models.
 
 ## [21. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -361,26 +337,26 @@
 
 ### Overview / YouTube
 
-*   [YouTube.js (⭐2.4k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
-*   [oleksis/youtube-dl-gui (⭐772)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+*   [YouTube.js (⭐2.5k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
+*   [oleksis/youtube-dl-gui (⭐886)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### Overview / Google Translate
 
-*   [Crow Translate (⭐969)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+*   [Crow Translate (⭐1.1k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
 ### Overview / Mastodon
 
-*   [Pinafore (⭐698)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
-*   [Sengi (⭐242)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
-*   [TheDesk (⭐167)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
-*   [Tootle (⭐396)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
-*   [Tusky (⭐1.4k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
+*   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
+*   [Sengi (⭐400)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+*   [TheDesk (⭐220)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
+*   [Tootle (⭐406)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+*   [Tusky (⭐1.9k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 *   [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
-*   [Hyperspace (⭐162)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+*   [Hyperspace (⭐176)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
 
 ### Overview / Telegram
 
-*   [Telegram-FOSS (⭐1.9k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+*   [Telegram-FOSS (⭐2k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
 ### Related projects / Other services
 
@@ -482,15 +458,15 @@
 
 ### Proprietary (non-standard) vendor APIs
 
-*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia (⭐381)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
+*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia (⭐388)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
 
 ### Software for Creating APIs
 
-*   [Navitia (⭐381)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
+*   [Navitia (⭐388)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
 
 ### GTFS Converters / Ruby
 
-*   [transit\_model (⭐37)](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) or NeTEx ([European standard format](http://netex-cen.eu/)).
+*   [transit\_model (⭐38)](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) or NeTEx ([European standard format](http://netex-cen.eu/)).
 
 ### Other multimodal data formats / Ruby
 
@@ -586,12 +562,12 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [nodo (⭐3)](https://github.com/nicolodiamante/nodo) - This plugin helps you prevent `node_modules` directories from filling your iCloud storage by un-syncing the directory or can save even more space by removing all `node_modules` directories within the chosen root directory.
-*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
+*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
 *   [silverstein-quotes (⭐0)](https://github.com/silversteinsoftware/silverstein_quotes) - Show a random quote from a Silverstein song during shell startup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
+*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 *   [ortiz (andres-ortizl) (⭐4)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐13)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
 
 ## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
@@ -615,13 +591,13 @@
 
 ### Templates / React
 
-*   [chrome-extension-boilerplate-react-vite (⭐323)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
-*   [vite-ant-design-pro (⭐45)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [chrome-extension-boilerplate-react-vite (⭐349)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
+*   [vite-ant-design-pro (⭐46)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
 *   [vite-react-proste (⭐7)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ### Electron / Integrations
 
-*   [electron-vite (⭐486)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+*   [electron-vite (⭐530)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 ## [40. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -640,15 +616,15 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐71)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐3)](https://github.com/slow/discord-utilities) package to block trackers.
-*   [WebCord (⭐852)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
+*   [Kernel (⭐72)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐3)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [WebCord (⭐943)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐2.1k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐2.1k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
 ## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [ydl\_api\_ng (⭐44)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
+*   [ydl\_api\_ng (⭐47)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 
 ### Software / Blogging Platforms
 
@@ -656,7 +632,7 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-*   [AgenDAV](https://agendav.github.io/agendav/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code (⭐534)](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
+*   [AgenDAV](https://agendav.github.io/agendav/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code (⭐537)](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
@@ -680,15 +656,15 @@
 
 ### Software / Photo and Video Galleries
 
-*   [MediaHut (⭐15)](https://github.com/Fortyseven/MediaHut/) - A truly single-file, no-database, drop-in PHP media gallery. ([Demo](https://media.Network47.org/)) `MIT` `PHP`
+*   [MediaHut (⭐16)](https://github.com/Fortyseven/MediaHut/) - A truly single-file, no-database, drop-in PHP media gallery. ([Demo](https://media.Network47.org/)) `MIT` `PHP`
 
 ### Software / Software Development - Localization
 
-*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code (⭐562)](https://github.com/tolgee/server)) `Apache-2.0` `Docker/Java`
+*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code (⭐584)](https://github.com/tolgee/server)) `Apache-2.0` `Docker/Java`
 
 ### Software / Ticketing
 
-*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐166)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl`
+*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐167)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl`
 *   [Roundup Issue Tracker](https://www.roundup-tracker.org/) - A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python`
 
 ## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
@@ -703,7 +679,7 @@
 
 ### Other Tools / Telegram
 
-*   [Sub3 Suite (⭐319)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐325)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [43. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -742,7 +718,7 @@
 
 ### Contents / Media
 
-*   [Movies App (⭐125)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
+*   [Movies App (⭐141)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 
 ## [46. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -782,16 +758,16 @@
 
 ### Projects
 
-*   [Crabtyper (⭐183)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+*   [Crabtyper (⭐187)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
 ### Templates
 
-*   [axum-yew-setup (⭐86)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
-*   [rust-yew-axum-tauri-desktop (⭐56)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [axum-yew-setup (⭐91)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
+*   [rust-yew-axum-tauri-desktop (⭐57)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
 ### Crates / Component Libraries
 
-*   [tailyew (⭐12)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+*   [tailyew (⭐13)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ## [48. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 

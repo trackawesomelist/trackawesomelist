@@ -72,14 +72,12 @@
 
 ### Messaging / Scala
 
-*   [Ascoltatori (⭐526)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
-*   [AMQP](http://www.amqp.org/) - Advanced Message Queuing Protocol.
-*   [MQTT](http://mqtt.org/) - MQ Telemetry Transport.
+*   [Ascoltatori (⭐525)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 *   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### REST / Scala
 
-*   [Apidoc (⭐543)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
+*   [Apidoc (⭐544)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 
 ### RPC / Scala
 
@@ -466,14 +464,14 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ## [22. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open source email templates.
 
-### Statistics
+### Statistics / Misc
 
 *   [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
-*   [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
+*   [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing.
 
 ## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -489,7 +487,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Markdown
 
-*   [Pandex (⭐55)](https://github.com/filterkaapi/pandex) - Lightweight Elixir wrapper for Pandoc. Converts Markdown, CommonMark, HTML, Latex, HTML, HTML5, opendocument, rtf, texttile, asciidoc to each other.
+*   [Pandex (⭐56)](https://github.com/filterkaapi/pandex) - Lightweight Elixir wrapper for Pandoc. Converts Markdown, CommonMark, HTML, Latex, HTML, HTML5, opendocument, rtf, texttile, asciidoc to each other.
 
 ### ORM and Datamapping
 

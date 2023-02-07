@@ -56,14 +56,14 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐184)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐190)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
-*   [graph-2-text (⭐145)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
-*   [Transformers (⭐73k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+*   [graph-2-text (⭐147)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
+*   [Transformers (⭐80k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
 ## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 

@@ -60,7 +60,7 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐9.9k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐10k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐213)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐215)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

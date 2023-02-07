@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 21, 2023
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Games / Other / unknown licence
+### Games / MIT
 
 *   [steamsky](https://www.laeran.pl/repositories/steamsky) - Roguelike in sky with a steampunk setting.
 
@@ -125,56 +125,7 @@
 *   [Desktop Cube (⭐452)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
 *   [Burn My Windows (⭐2.1k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐38)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐65)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐31)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐571)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Papers and References / AI Tools for Searching
 
@@ -184,7 +135,7 @@
 
 *   [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
 
-## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online Books
 
@@ -194,13 +145,13 @@
 
 *   [ml4a](https://ml4a.net/) - Machine learning for artists.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Low-code Platform
 
 *   [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
 
-## [8. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [7. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [Jaypore CI](https://www.jayporeci.in/)
 
@@ -218,60 +169,59 @@
 
 
 
-## [9. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [8. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Related Events / 2005
 
 *   [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
 
-## [10. Awesome V](/content/vlang/awesome-v/README.md)
+## [9. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Programming contests / IntelliJ & CLion & GoLand etc
 
 *   [Rosetta Code in V](https://rosettacode.org/wiki/Category:V_\(Vlang\)) - Solutions for Rosetta Code in V.
 
-## [11. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [DiskerNet (⭐3.2k)](https://github.com/dosyago/DiskerNet) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 
-## [12. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [11. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Study and Education / Others
 
 *   [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online.
 
-## [13. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Templates
+
+*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
+
+### VM-Hardening
+
+*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - A user who frequently travels with a Qubes laptop holding sensitive data may be at a much higher risk of Evil Maid attacks than a home user with a stationary Qubes desktop.
+*   [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
 
 ### Desktop Customization
 
-*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
+*   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 
-### Security
-
-*   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
-
-### Exploitation Tools / Unikernel-like
+### Exploitation Tools / OpenVPN
 
 *   [MemProcFS (⭐1.8k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐31)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+    *   [MemProcFS-Plugins (⭐30)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
-### Advanced Topics / Web articles
+### Qubes OS Legends / OpenVPN
 
-*   [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
-*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
-*   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
+*   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 
-### Qubes OS Legends / Web articles
-
-*   [Core Team](https://www.qubes-os.org/team/#core-team)
-
-### Streamers / Web articles
+### Streamers / OpenVPN
 
 *   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -279,15 +229,15 @@
 
 ### Software / Recipe Management
 
-*   [Bar Assistant (⭐42)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐96)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
-## [15. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [14. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
 *   [Open Gamma Detector (⭐120)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 
-## [16. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
@@ -301,7 +251,7 @@
 
 *   [svelte-form-builder (⭐8)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
-## [17. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Mobile / Angular
 
@@ -309,4 +259,5 @@
 
 ---
 
+- Prev: [Jan 22, 2023](/content/2023/01/22/README.md)
 - Next: [Jan 20, 2023](/content/2023/01/20/README.md)

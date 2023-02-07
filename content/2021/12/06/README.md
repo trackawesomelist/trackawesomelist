@@ -62,7 +62,7 @@
 
 ### Java / Deep Learning
 
-*   [deepjavalibrary/djl (⭐2.9k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
+*   [deepjavalibrary/djl (⭐3k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vueuse (⭐13k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
+*   [vueuse (⭐14k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
 *   [localize-vue-2x (⭐1)](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 
 ## [14. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)

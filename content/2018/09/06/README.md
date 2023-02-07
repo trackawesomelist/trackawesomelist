@@ -75,7 +75,7 @@
 
 ### Resources / Examples
 
-*   [ASP.NET Core Vue Starter CLI 3.0 (⭐533)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
+*   [ASP.NET Core Vue Starter CLI 3.0 (⭐534)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
 
 ### Components & Libraries / UI Utilities
 

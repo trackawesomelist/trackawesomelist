@@ -10,7 +10,7 @@
 
 ### Networking
 
-*   [ExPcap (⭐26)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
+*   [ExPcap (⭐27)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

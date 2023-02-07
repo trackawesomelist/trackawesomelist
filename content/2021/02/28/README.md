@@ -23,7 +23,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ByteHub (⭐48)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
+*   [ByteHub (⭐50)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
 
 ## [4. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Oblecto (⭐134)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
+*   [Oblecto (⭐135)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [changedetection.io (⭐7.5k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
+*   [changedetection.io (⭐7.9k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -85,14 +85,14 @@
 
 ### Yaml
 
-*   [mini-yaml (⭐159)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
-*   [yaml-cpp (⭐3.8k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
+*   [mini-yaml (⭐161)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [yaml-cpp (⭐3.9k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Productivity
 
-*   [Journapi (⭐6)](https://github.com/ChangJoo-Park/journapi_flutter) - Bullet journal application made with Flutter and GetX. by [ChangJoo Park](https://github.com/ChangJoo-Park)
+*   [Journapi (⭐7)](https://github.com/ChangJoo-Park/journapi_flutter) - Bullet journal application made with Flutter and GetX. by [ChangJoo Park](https://github.com/ChangJoo-Park)
 
 ## [12. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

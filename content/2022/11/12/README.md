@@ -32,7 +32,7 @@
 
 ### Software / Pastebins
 
-*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐1k)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
+*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐1.1k)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -42,7 +42,7 @@
 
 ### Resources / Tutorials
 
-*   [Sharded Cluster with Docker Compose (⭐241)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+*   [Sharded Cluster with Docker Compose (⭐255)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
 ---
 

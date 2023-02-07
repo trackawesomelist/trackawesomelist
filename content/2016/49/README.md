@@ -297,19 +297,15 @@
 
 ## [31. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
-### Polyglot
-
-*   [CoAP](http://coap.technology/impls.html) - Constrained application protocol implementations.
-
 ### Go / Erlang
 
 *   [Gizmo (⭐3.7k)](https://github.com/nytimes/gizmo) - Microservices toolkit.
-*   [RPCX (⭐7.3k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+*   [RPCX (⭐7.4k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
-*   [Disruptor (⭐15k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
-*   [HTTP Remoting (⭐73)](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
+*   [Disruptor (⭐16k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
+*   [HTTP Remoting (⭐76)](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 *   [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 
 ### Java VM / Scala
@@ -318,8 +314,7 @@
 
 ### Python / Scala
 
-*   [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
-*   [Web.py (⭐5.7k)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
+*   [Web.py (⭐5.8k)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 
 ### API Gateways / Edge Services / Scala
 
@@ -327,7 +322,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐785)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐791)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ### Testing / Scala
 
@@ -336,7 +331,6 @@
 ### Articles & Papers / Scala
 
 *   [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Consistency as logical monotonicity.
-*   [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) - Critical advice about some problems regarding a microservices approach.
 *   [ROCAS](http://resources.1060research.com/docs/2015/Resource-Oriented-Computing-Adaptive-Systems-ROCAS-1.2.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Resource Oriented Computing for Adaptive Systems.
 *   [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Understanding software ecosystems: a strategic modeling approach.
 *   [Your Server as a Function](http://monkey.org/\~marius/funsrv.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.

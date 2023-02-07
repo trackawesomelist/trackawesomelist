@@ -60,7 +60,7 @@
 
 ### Algorithms and Data structures
 
-*   [flow (⭐1.3k)](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage.
+*   [flow (⭐1.4k)](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Individual components / CSS
 
-*   [BlazorAnimation (⭐67)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
+*   [BlazorAnimation (⭐78)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
 
 ## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

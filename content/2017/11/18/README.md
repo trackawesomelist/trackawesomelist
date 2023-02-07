@@ -22,7 +22,7 @@
 
 ### CLI
 
-*   [Taywee/args (⭐1k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
+*   [Taywee/args (⭐1.1k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
 *   [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. \[MIT]
 
 ## [4. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)

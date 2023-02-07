@@ -54,7 +54,7 @@
 
 ### Articles and Presentations / Hardware Offload
 
-*   [hBPF - eBPF in hardware (⭐332)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
+*   [hBPF - eBPF in hardware (⭐335)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
 
 ---
 

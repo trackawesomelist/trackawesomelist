@@ -130,15 +130,15 @@
 
 ### Files and Directories / Search
 
-*   [fselect (⭐3.3k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [fselect (⭐3.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 
 ### Just for Fun / Image Conversion
 
-*   [cowsay (⭐284)](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
-*   [fortune (⭐261)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
+*   [cowsay (⭐298)](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
+*   [fortune (⭐287)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 *   [ponysay (⭐1.1k)](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-*   [yosay (⭐198)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
-*   [lolcat (⭐5.2k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+*   [yosay (⭐200)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+*   [lolcat (⭐5.4k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 
 ---
 

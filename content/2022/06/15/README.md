@@ -200,11 +200,11 @@
 
 ### Templates / Elm
 
-*   [elm\_vite\_tailwind\_template (⭐14)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+*   [elm\_vite\_tailwind\_template (⭐16)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 ### Frameworks / Community
 
-*   [Rakkas (⭐796)](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react](https://img.shields.io/badge/-React-4ab2cf)
+*   [Rakkas (⭐822)](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
 ## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -255,16 +255,16 @@
 
 ### no-std crates / WIP
 
-*   [drogue-device (⭐133)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐11)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
-*   [embedded-update (⭐6)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐67)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [drogue-device (⭐138)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+*   [ector (⭐12)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [embedded-update (⭐7)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
+*   [embedded-tls (⭐71)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ## [14. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 
-*   [EaseProbe (⭐1.4k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
+*   [EaseProbe (⭐1.5k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
 
 ## [15. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
@@ -277,7 +277,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [git-sync (⭐42)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [smartcache (⭐13)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
+*   [smartcache (⭐14)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

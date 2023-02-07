@@ -29,7 +29,7 @@
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐194)](https://github.com/eclipse/corrosion)
+    *   [Eclipse Corrosion (⭐196)](https://github.com/eclipse/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Compression
 
-*   [LZ4 (⭐7.8k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐7.9k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ### Game Engine
 
-*   [raylib (⭐11k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐12k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
 ## [13. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -153,13 +153,13 @@
 
 ### Tools / Playground
 
-*   [type-config (⭐14)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+*   [type-config (⭐15)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
-*   [tallboy (⭐49)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+*   [tallboy (⭐48)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ### HTML Builders
 
@@ -208,31 +208,31 @@
 
 ### Samples
 
-*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐862)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
+*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐872)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
 ## [23. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### React Firebase starter   [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
 *   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐19k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐82k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
-*   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐17k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
+*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐84k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+*   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐18k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
 *   [react-firebase-starter (⭐4.4k)](https://github.com/kriasoft/react-firebase-starter)
 
 ### MEVN: Mongo Express Vue Node   [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 
-*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐59k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐91k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐60k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 *   [Welcome to Vue-Express-Mongo BoilerPlate](http://vemapp.moleculer.services/)
 
 ### React starter kit   [↗](https://awesomestacks.dev/react-starter-kit) / Resources
 
-*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐91k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 *   [react-starter-kit (⭐22k)](https://github.com/kriasoft/react-starter-kit)
 
 ### vue-starter   [↗](https://awesomestacks.dev/vue-starter) / Resources
 
-*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐44k)](https://github.com/prettier/prettier) - An opinionated code formatter.
+*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐45k)](https://github.com/prettier/prettier) - An opinionated code formatter.
 *   [vue-starter](https://vue-starter.herokuapp.com/docs/)
 
 ### Vue Enterprise Boilerplate   [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
@@ -338,7 +338,7 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐671)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐670)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 

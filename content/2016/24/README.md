@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13 - Jun 19, 2016
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,19 +67,12 @@
 
 *   [Composer Primer](https://daylerees.com/composer-primer/)
 
-## [6. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
-
-### Design
-
-*   [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
-*   [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
-
-## [7. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [6. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Libraries
 
 *   [Color Thief (⭐11k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐811)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐813)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐622)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
@@ -91,20 +84,20 @@
 *   [Designing in color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
 *   [Color Realism and Color Science](http://web.mit.edu/abyrne/www/ColorRealism.html)
 
-## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Spark Summit 2016 Keynote by Jeff Dean
 
-## [9. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [8. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [d3-bar (⭐173)](https://github.com/tj/d3-bar) - Bar chart
 *   [d3-heatmap (⭐242)](https://github.com/tj/d3-heatmap) - Heatmap
 
-## [10. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
+## [9. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
 ### Generic Info
 
@@ -122,20 +115,20 @@
 *   [qwickie](https://marketplace.eclipse.org/content/qwickie) - [Eclipse](http://www.eclipse.org/) plugin for the Java Webframework Wicket
 *   [WicketForge (⭐31)](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket.
 
-## [11. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [10. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Operating System / Firmwares for ESP based Devices
 
 *   [mqttpc (⭐10)](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
 *   [mqttwatchdir (⭐33)](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker.
 
-## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Subtitling
 
 *   [EBU-TT-D W3C XML Schema (⭐7)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 
-## [13. Bots](/content/hackerkid/bots/week/README.md)
+## [12. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Platform Documentation
 
@@ -186,7 +179,7 @@
 *   [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 *   [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 
-## [14. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [13. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -200,13 +193,13 @@
 *   [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
 *   [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) - Audio visualization with amazing analyser by Tim Pietrusky.
 
-## [15. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [14. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Scheduled/Recurrence Jobs / Omniauth
 
 *   [Rufus-Scheduler (⭐2.3k)](https://github.com/jmettraux/rufus-scheduler) - Rufus-scheduler is a Ruby gem for scheduling pieces of code (jobs). It understands running a job AT a certain time, IN a certain time, EVERY x time or simply via a CRON statement.
 
-## [16. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [15. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Sites for Practice / Contest Calendars
 
@@ -225,7 +218,7 @@
 
 
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -242,7 +235,7 @@
 *   [ru.crystal-lang.org](http://ru.crystal-lang.org/) - Russian
 *   [tw.crystal-lang.org](http://tw.crystal-lang.org/) - Chinese Traditional
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
@@ -252,7 +245,7 @@
 
 *   [VisualEffectView (⭐959)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
-## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -277,7 +270,7 @@
 *   [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 *   [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 
-## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
@@ -291,13 +284,13 @@
 
 *   [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
 
-## [21. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [20. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Reporters / JavaScript
 
 *   [tap-notify (⭐59)](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
 
-## [22. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [21. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -306,7 +299,7 @@
     *   [Assignments](http://courses.cms.caltech.edu/cs179/)
     *   [Lecture Notes](http://courses.cms.caltech.edu/cs179/)
 
-## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
@@ -317,13 +310,13 @@
 
 *   [engsoccerdata (⭐697)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
 
-## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [Zero-Allocation-Hashing (⭐691)](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
-## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic MapReduce
 
@@ -343,13 +336,13 @@
 *   [Netflix/aminator :fire::fire::fire: (⭐931)](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
 *   [Spinnaker/spinnaker :fire::fire::fire::fire::fire: (⭐8.7k)](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 
-## [26. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [25. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blogs
 
 *   [Serverless Code](https://serverlesscode.com) - Blog about everything serverless related.
 
-## [27. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [26. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### Compatibility
 
@@ -365,7 +358,7 @@
 *   **[Getting Started](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/workflow/getting-started.md)**: Step by step guides for setting up a frontend development workflow.
 *   **[Package Management](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/workflow/package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
 
-## [28. Awesome Unicode](/content/jagracey/Awesome-Unicode/week/README.md)
+## [27. Awesome Unicode](/content/jagracey/Awesome-Unicode/week/README.md)
 
 ### One-To-Many Case Mappings / Wait a second... what did I just read?
 
@@ -376,7 +369,7 @@
 
 *   [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 
-## [29. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [28. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
@@ -573,7 +566,7 @@
     *   Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [\[Web\] (⭐89)](https://github.com/shenwei1231/DeepContour)
     *   Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\] (⭐1.6k)](https://github.com/s9xie/hed)
 
-## [30. Tips](/content/git-tips/tips/week/README.md)
+## [29. Tips](/content/git-tips/tips/week/README.md)
 
 ## Changes staged for commit
 
@@ -674,7 +667,7 @@ git log --oneline master..<branch-name> | tail -1
 git log --reverse master..<branch-name> | head -6
 ```
 
-## [31. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -688,7 +681,7 @@ git log --reverse master..<branch-name> | head -6
 
 *   Slack <https://slack.engineering/>
 
-## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -706,13 +699,13 @@ git log --reverse master..<branch-name> | head -6
 
 *   [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 
-## [33. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [32. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / Combobox
 
 *   [CbAutoComplete (⭐16)](https://github.com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=15002)
 
-## [34. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [33. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Readings
 

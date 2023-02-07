@@ -38,7 +38,7 @@
 
 ### Contents / Finance
 
-*   [Currency Alarm (⭐3)](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
+*   [Currency Alarm (⭐4)](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -49,7 +49,7 @@
     *   [by @indy256 (⭐1.7k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
     *   [by @patmorin (⭐1.1k)](https://github.com/patmorin/ods)
-    *   [by @btjanaka (⭐2)](https://github.com/btjanaka/algorithm-problems)
+    *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -69,7 +69,7 @@
 ### Frameworks
 
 *   [n2o (⭐1.3k)](https://github.com/synrc/n2o) - Distributed Application Server.
-*   [nitro (⭐49)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+*   [nitro (⭐52)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 
 ### ORM and Datamapping
 
@@ -81,13 +81,13 @@
 
 ### Validations
 
-*   [form (⭐39)](https://github.com/synrc/form) - Document forms and validation library.
+*   [form (⭐40)](https://github.com/synrc/form) - Document forms and validation library.
 
 ## [7. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
-### Tools
+### Tools / Platform-specific tools
 
-*   [attranslate (⭐272)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐277)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Bindings
 
-*   [vulkan-zig (⭐192)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐197)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ## [11. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
@@ -126,19 +126,13 @@
 
 *   [Coessentiality](http://coessentiality.net) - A genome-wide almanac of co-essential modules assigns function to uncharacterized genes.
 
-## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
-
-### Security configurations / Firewall appliances or distributions
-
-*   [Bunkerized-nginx (⭐2.8k)](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
-
-## [13. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [12. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Model Explanation / NLP
 
-*   [Shapley (⭐188)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐189)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 
-## [14. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [13. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Localization
 
@@ -148,29 +142,35 @@
 
 *   [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 
-## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-transpile-modules (⭐1.1k)](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node\_modules. Useful for monorepos.
 
-## [16. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### User Interface
 
 *   [lablgtk](https://garrigue.github.io/lablgtk/) — GTK2 and GTK3 bindings for OCaml with various higher-level facilities to define GUIs.
 
-## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [16. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Models
 
 *   [django-mptt (⭐2.7k)](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 
-## [18. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [17. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Plugins
 
 *   [Spark (⭐286)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish.
+
+## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+
+### API Gateways / Edge Services / Scala
+
+*   [Bunkerized-nginx (⭐2.8k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
 
 ## [19. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -206,19 +206,19 @@
 
 ### Containers
 
-*   [Sitecore Docker Examples (⭐63)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
+*   [Sitecore Docker Examples (⭐65)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 
 ### Demo
 
-*   [Lighthouse Demo (⭐79)](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
+*   [Lighthouse Demo (⭐80)](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 
 ### Helix
 
-*   [Sitecore Helix Examples (⭐72)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
+*   [Sitecore Helix Examples (⭐73)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
 
 ### Maintenance
 
-*   [Sifon (⭐11)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities.
+*   [Sifon (⭐10)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities.
 
 ### SPE (Sitecore PowerShell Extension)
 
@@ -349,7 +349,7 @@
 
 ### Concurrency
 
-*   [concurrencpp (⭐1.2k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+*   [concurrencpp (⭐1.3k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -502,7 +502,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-lang-router (⭐57)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
+*   [vue-lang-router (⭐58)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
 
 ### Components & Libraries / Utilities
 

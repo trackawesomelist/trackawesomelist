@@ -79,11 +79,7 @@
 ### Go / Erlang
 
 *   [Go-micro (⭐20k)](https://github.com/micro/go-micro) - A distributed systems development framework.
-*   [Micro (⭐11k)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
-
-### Security / Scala
-
-*   [Databunker](https://paranoidguy.com/) - Personally identifiable information (PII) storage service built to comply with GDPR.
+*   [Micro (⭐12k)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

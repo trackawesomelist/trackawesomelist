@@ -10,14 +10,14 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐59)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
+*   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐61)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
 *   [gitbash (⭐0)](https://github.com/eddieantonio/gitbash-zsh-theme/) - Mimics the default prompt from [Git for Windows](https://gitforwindows.org/). Includes `git` status, user\@host and current directory decorators.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Source Code (⭐88)](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`
+*   [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Source Code (⭐87)](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -43,13 +43,13 @@
 
 ### Android / Multiplatform
 
-*   [Reedyuk/blue-falcon (⭐223)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
+*   [Reedyuk/blue-falcon (⭐229)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Goroutines
 
-*   [go-actor (⭐22)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
+*   [go-actor (⭐24)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
 
 ## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -70,17 +70,17 @@
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-patch-env (⭐3)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
-*   [vite-plugin-conditional-compile (⭐12)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+*   [vite-plugin-conditional-compile (⭐13)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [smjonas/live-command.nvim (⭐284)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
+*   [smjonas/live-command.nvim (⭐287)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
 
 ### Comment / Diagnostics
 
-*   [JoosepAlviste/nvim-ts-context-commentstring (⭐689)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
+*   [JoosepAlviste/nvim-ts-context-commentstring (⭐707)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
 
 ## [11. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -187,11 +187,11 @@
 
 ### Projects
 
-*   [tchatche.rs (⭐100)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
+*   [tchatche.rs (⭐101)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 
 ### Crates / Utils
 
-*   [Yew-Template (⭐21)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
+*   [Yew-Template (⭐25)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
 ## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

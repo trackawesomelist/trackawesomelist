@@ -97,7 +97,7 @@
 
 ### Code Generators
 
-*   [Record-Builder (⭐354)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
+*   [Record-Builder (⭐372)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 
 ### People / Twitter
 

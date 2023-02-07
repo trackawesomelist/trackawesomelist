@@ -41,7 +41,7 @@
 
 ### Software / Miscellaneous
 
-*   [Flox (⭐1.1k)](https://github.com/devfake/flox) `⚠` - Self hosted movie, TV series and anime watch list with a 3-point rating system. Uses The Movie Database backend for information. ([Demo](https://flox-demo.pyxl.dev/)) `MIT` `PHP`
+*   [Flox (⭐1.2k)](https://github.com/devfake/flox) `⚠` - Self hosted movie, TV series and anime watch list with a 3-point rating system. Uses The Movie Database backend for information. ([Demo](https://flox-demo.pyxl.dev/)) `MIT` `PHP`
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

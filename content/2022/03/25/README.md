@@ -16,7 +16,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [JJazzLab-X (⭐234)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+*   [JJazzLab-X (⭐252)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -37,8 +37,8 @@
 
 ### Tools / Administration
 
-*   [k8s-backup-mongodb (⭐26)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
-*   [mgob (⭐770)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
+*   [k8s-backup-mongodb (⭐29)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+*   [mgob (⭐768)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -93,34 +93,34 @@
 
 ### Integrations
 
-*   [artillery-engine-playwright (⭐65)](https://github.com/artilleryio/artillery-engine-playwright) - Load testing with Playwright.
+*   [artillery-engine-playwright (⭐85)](https://github.com/artilleryio/artillery-engine-playwright) - Load testing with Playwright.
 
 ### Language Support
 
-*   [playwright-dotnet (⭐1.7k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
-*   [playwright-perl (⭐18)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
+*   [playwright-dotnet (⭐1.8k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
+*   [playwright-perl (⭐19)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐250)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐273)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐162)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
+*   [toppair/reach.nvim (⭐168)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [mvysny/vaadin-on-kotlin (⭐166)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
+*   [mvysny/vaadin-on-kotlin (⭐167)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [Vue Naive (⭐593)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [Vue Naive (⭐611)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 
 ### Framework-agnostic Plugins / Transformers
 

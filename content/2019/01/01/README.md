@@ -79,11 +79,11 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Machine Learning / Other / unknown licence
+### Machine Learning / MIT
 
 *   [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
 
-### Patterns / Other / unknown licence
+### Patterns / MIT
 
 *   [ada-promises (⭐6)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 

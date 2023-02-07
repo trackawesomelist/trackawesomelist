@@ -63,13 +63,13 @@ Installs: 2000 | Stars: 337 | Last update: n/a
 
 ### Tools / Misc
 
-*   [txtai (⭐3.1k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐3.2k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐804)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐812)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

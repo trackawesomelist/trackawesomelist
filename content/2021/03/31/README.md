@@ -60,7 +60,7 @@
 
 ### Bundle Analyzer / Meetups
 
-*   [BundleStats (⭐298)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+*   [BundleStats (⭐316)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Integrations
 
-*   [chrome-aws-lambda (⭐2.8k)](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
+*   [chrome-aws-lambda (⭐2.9k)](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

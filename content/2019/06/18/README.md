@@ -22,11 +22,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐408)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐414)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐25)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐26)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
@@ -50,7 +50,7 @@
 
 ### Testing
 
-*   [fake\_server (⭐71)](https://github.com/bernardolins/fake_server) - FakeServer is an HTTP server that simulates response and makes testing external APIs easier.
+*   [fake\_server (⭐70)](https://github.com/bernardolins/fake_server) - FakeServer is an HTTP server that simulates response and makes testing external APIs easier.
 
 ### Utilities
 

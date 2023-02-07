@@ -137,7 +137,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Resume (⭐97)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
+*   📁 [Resume (⭐98)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
 
 ## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

@@ -11,7 +11,7 @@
 ### Components & Libraries / Frameworks
 
 *   [Vue-Low-Code (⭐288)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
-*   [Figma-Low-Code (⭐624)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
+*   [Figma-Low-Code (⭐626)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-rough (⭐24)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
+*   [vue-rough (⭐23)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

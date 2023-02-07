@@ -46,8 +46,6 @@
 
 ### Videos
 
-*   [Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - Upcoming events and latest recordings.
-    *   [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - Archive only.
 *   [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
 
 ### Templates
@@ -84,7 +82,7 @@
 *   [Kotlin Client (⭐15)](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 *   [Polkadot-JS API (⭐1k)](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
 *   [Python Interface (⭐183)](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
-*   [Rust API Client (⭐200)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputing Systems AG](https://www.scs.ch/).
+*   [Rust API Client (⭐200)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 
 ### Mobile
 
@@ -162,7 +160,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jbyuki/carrot.nvim (⭐19)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
+*   [jbyuki/carrot.nvim (⭐20)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
 
 ## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -186,7 +184,7 @@
 
 ### Templates
 
-*   [Yew PWA Minimal (⭐31)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
+*   [Yew PWA Minimal (⭐30)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 
 ---
 

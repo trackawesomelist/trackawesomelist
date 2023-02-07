@@ -106,18 +106,13 @@
 
 ### Tools / Desktop
 
-*   [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
-*   [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
 *   [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
-*   [Robo 3T (⭐9.1k)](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
-*   [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
 
 ### Tools / Development
 
-*   [mgodatagen (⭐283)](https://github.com/feliixx/mgodatagen) - Random data generator
-*   [Mongo Playground](https://mongoplayground.net) - Online query playground
-*   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
-*   [Mongoeye (⭐148)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+*   [mgodatagen (⭐284)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [Mongo Seeding (⭐499)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongoeye (⭐150)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Tools / Monitoring
@@ -126,7 +121,7 @@
 
 ### Tools / Web
 
-*   [mongo-express (⭐4.8k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
+*   [mongo-express (⭐4.9k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
 *   [mongoadmin (⭐250)](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
 *   [mongri (⭐75)](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
 
@@ -136,7 +131,7 @@
 *   [Leanote (⭐11k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐13k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
-*   [SaaS Boilerplate (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [SaaS Boilerplate (⭐3.3k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
@@ -247,11 +242,11 @@
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐662)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐664)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
 ### Software / Pastebins
 
-*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐276)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
+*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐278)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
 
 ## [19. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 

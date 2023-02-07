@@ -76,7 +76,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-cleave-component (⭐283)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+*   [vue-cleave-component (⭐284)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

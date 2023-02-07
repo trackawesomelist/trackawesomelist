@@ -111,7 +111,7 @@
 
 ### Contents / Data
 
-*   [Synthea Patient Generator (⭐1.5k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+*   [Synthea Patient Generator (⭐1.6k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ## [8. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

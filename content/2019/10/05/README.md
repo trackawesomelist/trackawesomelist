@@ -16,13 +16,13 @@
 
 ### Data Manipulation / Data Frames
 
-*   [pandas\_flavor (⭐260)](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
+*   [pandas\_flavor (⭐263)](https://github.com/Zsailer/pandas_flavor) - A package that allows writing your own flavor of Pandas easily.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐350)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐354)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
 
 ## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 

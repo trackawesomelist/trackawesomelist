@@ -49,7 +49,7 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C
-    *   [by @fragglet (⭐2.8k)](https://github.com/fragglet/c-algorithms)
+    *   [by @fragglet (⭐2.9k)](https://github.com/fragglet/c-algorithms)
     *   [by @TheAlgorithms (⭐15k)](https://github.com/TheAlgorithms/C)
 
 ## [7. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)

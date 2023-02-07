@@ -54,7 +54,7 @@
 
 ### Python / Natural Language Processing
 
-*   [BigARTM (⭐633)](https://github.com/bigartm/bigartm) - topic modelling platform.
+*   [BigARTM (⭐635)](https://github.com/bigartm/bigartm) - topic modelling platform.
 
 ## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

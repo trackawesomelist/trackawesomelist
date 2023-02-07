@@ -21,7 +21,7 @@
 
 ### GitHub
 
-*   [productive-box (⭐420)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+*   [productive-box (⭐424)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

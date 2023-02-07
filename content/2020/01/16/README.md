@@ -86,7 +86,7 @@
 
 ### General
 
-*   [Picon (⭐12)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
+*   [Picon (⭐14)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 
 ## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -107,8 +107,8 @@
 
 ### Financial
 
-*   [Parity (⭐500)](https://github.com/paritytrading/parity) - Platform for trading venues.
-*   [Philadelphia (⭐277)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
+*   [Parity (⭐499)](https://github.com/paritytrading/parity) - Platform for trading venues.
+*   [Philadelphia (⭐282)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 
 ## [16. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -190,7 +190,7 @@
 
 ### Notification
 
-*   [cogo-toast (⭐669)](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, \~3.5K. *(No refs / provider needed 😊)*
+*   [cogo-toast (⭐670)](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, \~3.5K. *(No refs / provider needed 😊)*
 
 ### Chart
 
@@ -202,7 +202,7 @@
 
 ### Form Components / Input Types
 
-*   [react-numpad (⭐130)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
+*   [react-numpad (⭐131)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 
 ### Form Components / Sortable List
 
@@ -238,18 +238,18 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [data-driven-motion (⭐531)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+*   [data-driven-motion (⭐532)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-mt-svg-lines (⭐355)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 *   [react-spring (⭐25k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
-*   [react-transitive-number (⭐208)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
+*   [react-transitive-number (⭐209)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 *   [velocity-react (⭐3k)](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
-*   [react-particles-bg (⭐561)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+*   [react-particles-bg (⭐560)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Responsive / Syntax Highlight
 
 *   [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from *badge* to *tree table*.
-*   [carbon (⭐6.2k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
+*   [carbon (⭐6.3k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
 *   [chakra-ui (⭐31k)](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
 *   [evergreen (⭐12k)](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
 *   [gestalt (⭐4.1k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.

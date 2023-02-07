@@ -14,7 +14,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [SVM Explorer (⭐150)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
+*   [SVM Explorer (⭐151)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Concurrency
 
-*   [Async++ (⭐1.1k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
+*   [Async++ (⭐1.2k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

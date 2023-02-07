@@ -31,7 +31,7 @@
 
 ### AppImage consumption tools / Package managers
 
-*   [Bread (⭐24)](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
+*   [Bread (⭐27)](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [ironclad](https://nongnu.org/ironclad) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐22)](https://github.com/streaksu/Gloire).
 
@@ -76,7 +76,7 @@
 
 ### Templates / Godot 3.5+
 
-*   [bendn's Godot Template (⭐5)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐2)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
+*   [bendn's Godot Template (⭐9)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐3)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
 
 ### Unofficial Godot builds / Godot version unknown
 
@@ -84,8 +84,8 @@
 
 ### Other / Godot version unknown
 
-*   [godot-actions (⭐7)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
-*   [Godot Package Manager (⭐2)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
+*   [godot-actions (⭐9)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
+*   [Godot Package Manager (⭐3)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 
 ## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -155,7 +155,7 @@
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐149)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐151)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
 ## [14. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -191,14 +191,14 @@
 
 ### Tools
 
-*   💼🔧 [tailwindcss-vite-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-vite-plugin (⭐17)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Stable Diffusion / For text-to-image
 
 *   [NovelAI Improvements on Stable Diffusion | by NovelAI | Oct, 2022 | Medium](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
-*   [ashawkey/stable-dreamfusion (⭐3.5k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+*   [ashawkey/stable-dreamfusion (⭐3.6k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 
 ## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -311,32 +311,32 @@
 
 ### (requires Neovim 0.5)
 
-*   [jose-elias-alvarez/typescript.nvim (⭐333)](https://github.com/jose-elias-alvarez/typescript.nvim) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
+*   [jose-elias-alvarez/typescript.nvim (⭐350)](https://github.com/jose-elias-alvarez/typescript.nvim) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 
 ### Media / Diagnostics
 
-*   [samodostal/image.nvim (⭐77)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
-*   [adelarsq/image\_preview.nvim (⭐32)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
+*   [samodostal/image.nvim (⭐85)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
+*   [adelarsq/image\_preview.nvim (⭐40)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 
 ### Note Taking / Diagnostics
 
-*   [ostralyan/scribe.nvim (⭐14)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
+*   [ostralyan/scribe.nvim (⭐15)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
 
 ### Utility / Diagnostics
 
-*   [folke/noice.nvim (⭐1.8k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [folke/noice.nvim (⭐1.9k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 
 ### Scrollbar / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.map (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
+*   [echasnovski/mini.nvim#mini.map (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 
 ### Editing Support / Diagnostics
 
-*   [smjonas/live-command.nvim (⭐284)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
+*   [smjonas/live-command.nvim (⭐287)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
 
 ### Comment / Diagnostics
 
-*   [JoosepAlviste/nvim-ts-context-commentstring (⭐689)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
+*   [JoosepAlviste/nvim-ts-context-commentstring (⭐707)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
 
 ### Game / Diagnostics
 
@@ -435,12 +435,12 @@
 
 *   [note-to-yew (⭐2)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
 *   [yew-d3-example (⭐20)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
-*   [zzhack (⭐227)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
-*   [tchatche.rs (⭐100)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
+*   [zzhack (⭐247)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
+*   [tchatche.rs (⭐101)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 
 ### Crates / Utils
 
-*   [Yew-Template (⭐21)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
+*   [Yew-Template (⭐25)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
 ## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -458,8 +458,8 @@
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐5.3k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐564)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐224)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [Data science your way (⭐567)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐226)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
@@ -476,7 +476,7 @@
 *   [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 *   [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 *   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-*   [AI Expert Roadmap (⭐23k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+*   [AI Expert Roadmap (⭐24k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 *   [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 *   [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 *   [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
@@ -666,7 +666,7 @@
 
 ### Hobby / Book Deals (Affiliated) 🛍
 
-*   [Awesome Music Production (⭐589)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐632)](https://github.com/ad-si/awesome-music-production)
 
 ## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -715,20 +715,20 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fd (⭐2)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐49k)](https://github.com/junegunn/fzf) to browse directories.
-*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐488)](https://github.com/tokuhirom/plenv) version manager based on jenv.
-*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
+*   [fd (⭐2)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐50k)](https://github.com/junegunn/fzf) to browse directories.
+*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐492)](https://github.com/tokuhirom/plenv) version manager based on jenv.
+*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 *   [senv (⭐0)](https://github.com/joepvd/senv) - Report presence of sensitive environment variables in the prompt
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐59)](https://github.com/lets-cli/lets) cli task runner.
-*   [ssh (sunlei) (⭐30)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
+*   [ssh (sunlei) (⭐33)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
 *   [ssh (zpm-zsh) (⭐17)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐59)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
+*   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐61)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
 *   [gitbash (⭐0)](https://github.com/eddieantonio/gitbash-zsh-theme/) - Mimics the default prompt from [Git for Windows](https://gitforwindows.org/). Includes `git` status, user\@host and current directory decorators.
 *   [simple (drNoob13) (⭐0)](https://github.com/drNoob13/SimpleZshTheme/) - Includes decorators for python virtual environment, `git` status and current directory.
 
@@ -744,7 +744,7 @@
 
 ### Examples
 
-*   [OliverOverend/gym-simplifiedtetris (⭐4)](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
+*   [OliverOverend/gym-simplifiedtetris (⭐5)](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
 
 ## [46. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -763,13 +763,13 @@
 *   :money\_with\_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 *   :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 *   🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
-*   :tada: [Pixel Composer (⭐144)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
+*   :tada: [Pixel Composer (⭐189)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
 *   :moneybag: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 *   :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: \[axys] ([https://github.com/axys1/axys (⭐278)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+*   :tada: \[axys] ([https://github.com/axys1/axys (⭐296)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 
 ### Game Jams / Voxel Editors
 
@@ -794,22 +794,22 @@
 ### Libraries/Frameworks / Misc
 
 *   [nickhristov/krakdown (⭐12)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
-*   [cretz/asmble (⭐547)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
+*   [cretz/asmble (⭐550)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 
 ### Projects / Android
 
 *   [deva666/NewsReader (⭐22)](https://github.com/deva666/NewsReader) - Android app for reading news
-*   [zt64/Hyperion (⭐379)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
+*   [zt64/Hyperion (⭐384)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
 
 ### Android / Libraries
 
 *   [skydoves/balloon (⭐2.9k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
-*   [ChuckerTeam/chucker (⭐2.9k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
+*   [ChuckerTeam/chucker (⭐3k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ### Android / Multiplatform
 
-*   [Reedyuk/blue-falcon (⭐223)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
-*   [cossacklabs/themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
+*   [Reedyuk/blue-falcon (⭐229)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
+*   [cossacklabs/themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
 
 ### Android / Boilerplate
 
@@ -819,7 +819,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [MetricFu (⭐611)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+*   [MetricFu (⭐613)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
 
 ### Other / [Other](#other-1)
 
@@ -841,11 +841,11 @@
 
 ### Software / Automation
 
-*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐219)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Ruby`
+*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐221)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Ruby`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Source Code (⭐88)](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`
+*   [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Source Code (⭐87)](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`
 
 ### Software / Software Development - IDE & Tools
 
@@ -855,34 +855,34 @@
 
 ### Community plugins
 
-*   [File opener (⭐32)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
+*   [File opener (⭐34)](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [OTA Updater (⭐215)](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
-*   [Crisp (⭐3)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+*   [OTA Updater (⭐221)](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
+*   [Crisp (⭐4)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 *   [Flash (⭐8)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 *   [Mute (⭐1)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-*   [Native Geocoder (⭐12)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+*   [Native Geocoder (⭐13)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 *   [Screen recorder (⭐4)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [Purchases (⭐30)](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-*   [In app Browser (⭐7)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+*   [Purchases (⭐38)](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [In app Browser (⭐9)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
 
 ### [Capawesome plugins](https://capawesome.io/)
 
-*   [Background tasks (⭐44)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-*   [Badge (⭐62)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
+*   [Background tasks (⭐45)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
+*   [Badge (⭐65)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
 *   Firebase
-    *   [Analytics (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
-    *   [App (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
-    *   [Auth (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
-    *   [Performance (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
-    *   [Crashlytics (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
-*   [Screen orientation (⭐20)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-*   [Native updates (⭐97)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
-*   [File picker (⭐38)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
-*   [Managed configuration (⭐4)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
-*   [Photo editor (⭐6)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+    *   [Analytics (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
+    *   [App (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
+    *   [Auth (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
+    *   [Performance (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
+    *   [Crashlytics (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
+*   [Screen orientation (⭐24)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
+*   [Native updates (⭐103)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+*   [File picker (⭐45)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
+*   [Managed configuration (⭐5)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+*   [Photo editor (⭐7)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
 ## [55. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
@@ -898,12 +898,12 @@
 
 ### Continuous Integration
 
-*   [gotestfmt (⭐350)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
-*   [woodpecker (⭐2k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+*   [gotestfmt (⭐352)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
+*   [woodpecker (⭐2.1k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 ### Date and Time
 
-*   [go-anytime (⭐8)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+*   [go-anytime (⭐7)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
 
 ### Distributed Systems
 
@@ -915,7 +915,7 @@
 
 ### Goroutines
 
-*   [go-actor (⭐22)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
+*   [go-actor (⭐24)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
 
 ### Utilities
 
@@ -923,7 +923,7 @@
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Go in 7 days (⭐116)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
+*   [Go in 7 days (⭐117)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
 *   [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 
 ## [57. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
@@ -934,19 +934,19 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [tailwindcss-vite-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
+*   [tailwindcss-vite-plugin (⭐17)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cp (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
+*   [vite-plugin-cp (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-external (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Provides a way of excluding dependencies from the runtime code and output bundles.
-*   [vite-plugin-mock-data (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
-*   [vite-plugin-reverse-proxy (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
+*   [vite-plugin-external (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Provides a way of excluding dependencies from the runtime code and output bundles.
+*   [vite-plugin-mock-data (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
+*   [vite-plugin-reverse-proxy (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
 *   [vite-plugin-patch-env (⭐3)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
-*   [vite-plugin-conditional-compile (⭐12)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+*   [vite-plugin-conditional-compile (⭐13)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 
 ## [58. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -1225,7 +1225,7 @@
 
 ### Teamworking Tools
 
-*   [See this section for Discord mods and alternative clients (⭐7.8k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
+*   [See this section for Discord mods and alternative clients (⭐8k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
 
 ### Translation and Speech-to-Text
 

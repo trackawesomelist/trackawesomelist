@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lunar-calendar-pro (⭐62)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+*   [vue-lunar-calendar-pro (⭐63)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 
 ---
 

@@ -80,7 +80,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐313)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐320)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐45)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐47)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Logging
 
-*   [ULogViewer (⭐81)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐82)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ## [17. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

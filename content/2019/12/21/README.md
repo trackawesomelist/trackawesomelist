@@ -404,41 +404,41 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Runtimes / Other / unknown licence
+### Runtimes / MIT
 
 *   [cortex-gnat-rts (⭐52)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 
-### Unit Test, Testing / Other / unknown licence
+### Unit Test, Testing / MIT
 
 *   [scripted-testing (⭐0)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
-### Verification / Other / unknown licence
+### Verification / MIT
 
 *   [acats (⭐7)](https://github.com/simonjwright/ACATS) - The Ada Conformity Assessment Test Suite, customised for GCC.
 *   [acats-grading (⭐1)](https://github.com/simonjwright/ACATS-grading) - Tools for grading ACATS results, modified for Unix-like systems.
 
-### UML / Other / unknown licence
+### UML / MIT
 
 *   [coldframe (⭐6)](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
 *   [xia (⭐3)](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Drivers / Other / unknown licence
+### Drivers / MIT
 
 *   [multiplexed-io (⭐0)](https://github.com/simonjwright/multiplexed-io) - This contains explorations, for AdaPilot, of implementing drivers for the AdaRacer MCU, using the Ravenscar profile of Ada 2012 from AdaCore and device bindings generated using SVD2Ada.
 
-### Generators and Translators / Other / unknown licence
+### Generators and Translators / MIT
 
 *   [cappulada (⭐14)](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
 *   [asis2xml (⭐2)](https://github.com/simonjwright/asis2xml) - Converts Ada sources’ ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
 
-### Shells, Interpreters and Emulators / Other / unknown licence
+### Shells, Interpreters and Emulators / MIT
 
 *   [analytical-engine (⭐9)](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage’s Analytical Engine.
 
-### Misc / Other / unknown licence
+### Misc / MIT
 
 *   [dhondt (⭐4)](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
 

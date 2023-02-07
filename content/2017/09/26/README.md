@@ -10,7 +10,7 @@
 
 ### Git Tools
 
-*   [RepoZ (⭐838)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+*   [RepoZ (⭐842)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐591)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐592)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

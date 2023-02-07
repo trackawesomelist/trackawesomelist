@@ -22,7 +22,7 @@
 
 ### Miscellaneous
 
-*   [Stacks (⭐2.9k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+*   [Stacks (⭐3k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -80,7 +80,7 @@
 
 ### RESTful API with Java and Spring Boot   [↗](https://awesomestacks.dev/res-tful-api-with-java-and-spring-boot) / Resources
 
-*   [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 (⭐64k)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+*   [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 (⭐65k)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 *   [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 (⭐14k)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
 *   [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 

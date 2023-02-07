@@ -10,7 +10,7 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [XApp Thumbnailers (⭐21)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
+*   [XApp Thumbnailers (⭐23)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 
 ### AppImage consumption tools / Linux distributions
 
@@ -52,7 +52,7 @@
 
 *   [A Byte of Vim](http://www.swaroopch.com/notes/vim/) - Swaroop (PDF)
 *   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
-*   [Learn Vim (the Smart Way) (⭐9.1k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) (:construction: *in process*)
+*   [Learn Vim (the Smart Way) (⭐9.2k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) (:construction: *in process*)
 *   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 *   [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito
 *   [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) - Steve Losh
@@ -66,7 +66,7 @@
 
 ## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
-### Public Data Resources / Equity and Environmental Justice
+### Public Data Resources / Housing
 
 *   [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM) - The latest (2022) Urban Land Institute Terwilliger Center Home Attainability Index.  A resource for understanding the extent to which a housing market provides a range of choices attainable to regional workforces providing insights into a wide range of factors for selected communities across the United States.
 
@@ -74,7 +74,7 @@
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [leap (⭐6)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+*   [leap (⭐7)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Utilities
 
-*   [remote-touchpad (⭐357)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
+*   [remote-touchpad (⭐362)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 

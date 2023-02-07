@@ -28,7 +28,7 @@
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Macchiato (⭐374)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
+*   [Macchiato (⭐375)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 
 ## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -275,7 +275,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### Third-party APIs
 
-*   [awscr-signer (⭐18)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
+*   [awscr-signer (⭐20)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
 
 ## [17. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
@@ -296,7 +296,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### Configuration & Discovery / Scala
 
-*   [Microphone (⭐454)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
+*   [Microphone (⭐459)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
 *   [Registrator (⭐4.6k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 
 ## [19. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
@@ -624,11 +624,11 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### CSV
 
-*   [nimble\_csv (⭐678)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+*   [nimble\_csv (⭐681)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ### Protocols
 
-*   [protox (⭐225)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+*   [protox (⭐227)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 
 ### Third Party APIs
 

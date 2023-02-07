@@ -34,7 +34,7 @@
 
 ### Audio
 
-*   [libsoundio (⭐1.6k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
+*   [libsoundio (⭐1.7k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
 
 ### Coding Style Tools
 
@@ -56,7 +56,6 @@
 
 ### Productivity and Time
 
-*   [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
 *   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -64,7 +63,6 @@
 ### Multimedia
 
 *   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
-*   [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 
 ### Graphics
 
@@ -77,7 +75,6 @@
 ### System and Customization
 
 *   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
-*   [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
 ### Utilities
 

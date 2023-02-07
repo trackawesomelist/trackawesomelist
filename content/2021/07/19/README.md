@@ -29,7 +29,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot SQLite (⭐430)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+*   [Godot SQLite (⭐444)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Related Awesome Lists / Galleries
 
-*   [margaretmz/awesome-ai-art-design (⭐20)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+*   [margaretmz/awesome-ai-art-design (⭐21)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [justinpinkney/awesome-pretrained-stylegan2 (⭐1.1k)](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
@@ -117,7 +117,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Fluxor (⭐888)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
+*   [Fluxor (⭐896)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
 
 ## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Reading and Writing Tools / Journaling
 
-*   [linked (⭐634)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [linked (⭐646)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ### Audio and Video Tools / File Sharing
 
@@ -176,11 +176,11 @@
 
 ### Contents / Entertainment
 
-*   [AnimSearch (⭐51)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [AnimSearch (⭐61)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ### Contents / Productivity
 
-*   [LibreTrack (⭐121)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [LibreTrack (⭐143)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
 ---
 

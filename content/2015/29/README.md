@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20 - Jul 26, 2015
 
-32 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -357,11 +357,11 @@ git config --global core.autocrlf false
 
 ### Game Engine
 
-*   [Panda3D (⭐3.6k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐3.7k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ### Networking
 
-*   [cpr (⭐5.2k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://whoshuu.github.io/cpr/)
+*   [cpr (⭐5.2k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -402,26 +402,20 @@ git config --global core.autocrlf false
 
 *   [Cornell University – Data Structures and Functional Programming](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php).
 
-## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
-
-### Querying / Symfony2
-
-*   [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
-
-## [25. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [24. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Development APIs / File
 
 *   [File system API](http://www.w3.org/TR/file-system-api/)
 
-## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Podcasts / Other
 
 *   [willianjusten/awesome-svg (⭐4.4k)](https://github.com/willianjusten/awesome-svg)
 *   [davidsonfellipe/awesome-wpo (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo)
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
@@ -431,19 +425,19 @@ git config --global core.autocrlf false
 
 *   [Shouldly (⭐1.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 
-## [28. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [27. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Git / Extensions
 
 *   [git-semver (⭐350)](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 
-## [29. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [28. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
 *   [Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns) - Presentation by [Nick Johnstone](https://twitter.com/widdnz)
 
-## [30. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [29. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Talks
 
@@ -461,7 +455,7 @@ git config --global core.autocrlf false
 *   [OpenGL Tutorial](http://www.opengl-tutorial.org) by **Bonder Wu**
 *   [OpenGL Tutorial](http://www.songho.ca/opengl) by **Song Ho Ahn**
 
-## [31. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [30. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Programming Languages / CSS
 
@@ -475,7 +469,7 @@ git config --global core.autocrlf false
 
 *   Thinking Forth Project Thinking Forth Project ([PDF](http://www.dnd.utwente.nl/\~tim/colorforth/Leo-Brodie/thinking-forth.pdf), cc-nc-sa)
 
-## [32. Amas](/content/sindresorhus/amas/week/README.md)
+## [31. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 

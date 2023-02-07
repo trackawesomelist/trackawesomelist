@@ -1071,6 +1071,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Logging infos and messages.*
 
 *   [bunyan (⭐91)](https://github.com/bunyan-logger/bunyan) - Bunyan: An Elixir Logger.
+*   [ecto\_dev\_logger (⭐124)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
 *   [exlager (⭐66)](https://github.com/khia/exlager) - Elixir binding for lager.
 *   [exsentry (⭐23)](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
 *   [gelf\_logger (⭐28)](https://github.com/jschniper/gelf_logger) - A Logger backend that will generate Graylog Extended Log Format (GELF) messages.

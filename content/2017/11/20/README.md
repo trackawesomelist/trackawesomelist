@@ -110,7 +110,7 @@
 
 ### Math
 
-*   [OpenBLAS (⭐4.9k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 

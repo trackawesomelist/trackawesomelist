@@ -14,7 +14,7 @@
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Services
+### Services / Misc
 
 *   [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 *   [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
@@ -24,9 +24,9 @@
 ### Books
 
 *   [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-    *   [Book's Examples (⭐176)](https://github.com/PacktPublishing/Learning-Vulkan)
+    *   [Book's Examples (⭐178)](https://github.com/PacktPublishing/Learning-Vulkan)
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-    *   [Book's Examples (⭐627)](https://github.com/PacktPublishing/Vulkan-Cookbook)
+    *   [Book's Examples (⭐639)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 ## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

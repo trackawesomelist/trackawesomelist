@@ -59,7 +59,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐99)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐101)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -67,22 +67,22 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐286)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐287)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
-*   [micro (⭐20k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+*   [micro (⭐21k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Productivity / Time Tracking
 
-*   [Timewarrior (⭐866)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
-*   [Watson (⭐2.1k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
+*   [Timewarrior (⭐915)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+*   [Watson (⭐2.2k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 
 ### Files and Directories / Search
 
-*   [fd (⭐25k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐26k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## [9. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -554,7 +554,7 @@
 
 ### Resources / Examples
 
-*   [Large scale Vue.js application boilerplate + Vuex (⭐261)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
+*   [Large scale Vue.js application boilerplate + Vuex (⭐260)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -613,7 +613,7 @@
 
 ### Icons
 
-*   [iconify-react (⭐182)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐183)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
@@ -847,7 +847,7 @@
 
 ## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
 

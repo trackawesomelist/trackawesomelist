@@ -108,8 +108,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([Source Code (⭐4k)](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.6k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.7k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
 
 ## [7. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -135,7 +134,7 @@
 
 ### Bash scripts / Godot version unknown
 
-*   [build-godot (⭐48)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐48)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
+*   [build-godot (⭐49)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono (⭐49)](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
 
 ## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -159,17 +158,17 @@
 
 ### Miscellaneous
 
-*   [Urban & Regional Planning (⭐123)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Urban & Regional Planning (⭐129)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
 ## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
-*   [pico8-deploy (⭐17)](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
+*   [pico8-deploy (⭐19)](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
 
 ## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### DevOps / Other / unknown licence
+### DevOps / MIT
 
 *   [septum (⭐356)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
@@ -333,11 +332,13 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
     *   [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
     *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 *   Node
-    *   [Real world design patterns with Node.js (⭐186)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+    *   [Real world design patterns with Node.js (⭐227)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
     *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 *   Python
     *   [design-patterns (⭐36k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐1.7k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [PyPattyrn (⭐1.8k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [Python Design Patterns](https://python-patterns.guide/)
+    *   [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 
 ### Books
@@ -377,7 +378,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐42)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐52)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
 ## [28. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
@@ -457,7 +458,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐395)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐396)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 
 ## [37. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -485,7 +486,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Files and Directories / Search
 
-*   [rare (⭐169)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+*   [rare (⭐184)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
 ## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -569,14 +570,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Official Links
 
 *   **Craft Commerce** - [craftcms.com/commerce](https://craftcms.com/commerce)
-*   **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
-*   **Craft CMS Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
-*   **Craft CMS 3 Docs** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
-*   **Craft CMS 2 Docs** - [craftcms.com/docs/2.x](https://craftcms.com/docs/2.x/) - [Class Reference](https://docs.craftcms.com/api/v2)
-*   **Craft Commerce 3 Docs** - [craftcms.com/docs/commerce/3.x](https://craftcms.com/docs/commerce/3.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v3)
-*   **Craft Commerce 2 Docs** - [craftcms.com/docs/commerce/2.x](https://craftcms.com/docs/commerce/2.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v2)
-*   **Craft Commerce 1 Docs** - [craftcms.com/docs/commerce/1.x](https://craftcms.com/docs/commerce/1.x/)
-*   **Craft Nitro 2 Docs** - [craftcms.com/docs/nitro/2.x](https://craftcms.com/docs/nitro/2.x/)
+*   **Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
 *   **Knowledge Base** - [craftcms.com/knowledge-base](https://craftcms.com/knowledge-base)
 
 ### Videos / Nitro
@@ -731,7 +725,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Python / General-Purpose Machine Learning
 
-*   [FEDOT (⭐485)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
+*   [FEDOT (⭐489)](https://github.com/nccr-itmo/FEDOT): An AutoML framework for the automated design of composite modelling pipelines. It can handle classification, regression, and time series forecasting tasks on different types of data (including multi-modal datasets).
 
 ### Python / Reinforcement Learning
 
@@ -741,7 +735,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### CLOS extensions
 
-*   [polymorphic functions (⭐41)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
+*   [polymorphic functions (⭐42)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
     *   polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
     *   for differences with specialization-store and fast-generic-functions, see its README.
 
@@ -805,7 +799,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐90)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐92)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ### Form Components / Image Editing
 
@@ -813,8 +807,8 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Form Components / Rich Text Editor
 
-*   [react-codemirror (⭐695)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
-*   [react-monacoeditor (⭐201)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
+*   [react-codemirror (⭐717)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
+*   [react-monacoeditor (⭐202)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
 
 ### Reporter / Visibility Reporter
 
@@ -852,7 +846,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS (⭐79)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐80)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ### Planning Coding Resources / Python
 
@@ -867,7 +861,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Components & Libraries / UI Components
 
 *   [v3confirm (⭐4)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
-*   [vue-pdf-embed (⭐188)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+*   [vue-pdf-embed (⭐198)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 ### Components & Libraries / UI Utilities
 
@@ -906,7 +900,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐362)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐366)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -966,7 +960,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐181)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐185)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -1081,7 +1075,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Vert.x Event Bus Extensions
 
-*   [Eventbus Service (⭐5)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
+*   [Eventbus Service (⭐7)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
 
 ## [77. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 

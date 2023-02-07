@@ -10,7 +10,7 @@
 
 ### Development tools
 
-*   [Open Watcom V2 (⭐719)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
+*   [Open Watcom V2 (⭐742)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
 ## [2. Awesome Msr](/content/dspinellis/awesome-msr/README.md)

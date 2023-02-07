@@ -39,7 +39,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Shaman (⭐442)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
+*   [Shaman (⭐448)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
 
 ### Elasticity / Scala
 
@@ -47,7 +47,7 @@
 
 ### Messaging / Scala
 
-*   [Mist (⭐653)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
+*   [Mist (⭐656)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

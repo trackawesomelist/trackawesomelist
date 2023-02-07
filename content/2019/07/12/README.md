@@ -77,7 +77,7 @@
 
 ### Development / Books
 
-*   [foy (⭐216)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐222)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ## [7. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 

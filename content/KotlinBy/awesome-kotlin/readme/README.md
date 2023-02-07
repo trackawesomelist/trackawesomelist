@@ -186,7 +186,7 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [Aallam/openai-kotlin (⭐127)](https://github.com/Aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+*   [Aallam/openai-kotlin (⭐129)](https://github.com/Aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 *   [z-huang/InnerTune (⭐943)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 *   [google-developer-training/android-kotlin-fundamentals-starter-apps (⭐988)](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps) - android-kotlin-fundamentals-starter-apps
 *   [mukul500/AnimeXStream (⭐2.3k)](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.

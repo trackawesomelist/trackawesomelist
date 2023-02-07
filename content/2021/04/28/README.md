@@ -17,16 +17,16 @@
 ### Libraries
 
 *   Other API Interop and Implementations
-    *   [visor (⭐38)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
+    *   [visor (⭐39)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
     *   [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. \[Apache License 2.0]
-    *   [rostkatze (⭐79)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
+    *   [rostkatze (⭐78)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
     *   [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
-    *   [VUDA (⭐448)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
-    *   [clspv (⭐506)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
+    *   [VUDA (⭐454)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
+    *   [clspv (⭐514)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
     *   [MoltenVK (⭐3.8k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
     *   [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. \[MIT]
     *   [glo / OpenGL Overload (⭐277)](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
-    *   [gfx-portability (⭐363)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
+    *   [gfx-portability (⭐365)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
 
 ### Bindings
 
@@ -36,7 +36,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-easter-egg-trigger (⭐8)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site.
+*   [vue-easter-egg-trigger (⭐8)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue 2 site. [Vue 3 (⭐2)](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) version also available.
 
 ## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -50,17 +50,13 @@
 
 *   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
 
-### Software / Communication - Custom Communication Systems
-
-*   [Chaskiq](https://chaskiq.io) - Full featured livechat, helpcenter and CRM as an alternative to Intercom & Drift, Crisp and others. ([Source Code (⭐2.3k)](https://github.com/chaskiq/chaskiq)) `AGPL-3.0` `Ruby`
-
 ### Software / Communication - SIP
 
 *   [Yeti-Switch](https://yeti-switch.org/) - Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://yeti-switch.org/demo.html), [Source Code](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐191)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐196)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -114,7 +110,7 @@
 
 ### Templates / Vue 3
 
-*   [vivu (⭐59)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
+*   [vivu (⭐60)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 
 ---
 

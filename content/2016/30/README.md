@@ -405,7 +405,7 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐832)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐841)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -457,7 +457,7 @@
 
 ### Libraries / Python
 
-*   [minimongo (⭐326)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
+*   [minimongo (⭐328)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
 ## [37. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -520,7 +520,7 @@
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐140)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐141)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ### ORM
 
@@ -528,7 +528,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐326)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐328)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [42. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -569,7 +569,7 @@
 
 ### Geolocation
 
-*   [geohash (⭐22)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
+*   [geohash (⭐24)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 
 ### HTTP
 
@@ -583,7 +583,7 @@
 
 *   [ecto (⭐5.7k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
 *   [ecto\_ordered (⭐39)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐972)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [postgrex (⭐976)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 *   [sql\_dust (⭐115)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
@@ -597,7 +597,7 @@
 ### Third Party APIs
 
 *   [bandwidth (⭐4)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
-*   [kane (⭐93)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
+*   [kane (⭐94)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
 *   [semver (⭐2)](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 
 ### Utilities

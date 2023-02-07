@@ -91,7 +91,7 @@
 
 ### GUI
 
-*   [WinApi (⭐751)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+*   [WinApi (⭐754)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### State machines
 
@@ -287,7 +287,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐387)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐388)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 

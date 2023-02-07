@@ -86,11 +86,11 @@
 ### HTML generators and templates / Isomorphic web frameworks
 
 *   ⭐ [Djula (⭐130)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
-    *   [cl-djula-tailwind (⭐6)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
+    *   [cl-djula-tailwind (⭐7)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
 
 ### Apps / Third-party APIs
 
-*   [Resolve (⭐30)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
+*   [Resolve (⭐32)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
 ## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

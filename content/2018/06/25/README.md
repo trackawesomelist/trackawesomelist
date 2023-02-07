@@ -72,7 +72,7 @@
 
 ### Development Tools
 
-*   [Vert.x health check (⭐10)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
+*   [Vert.x health check (⭐11)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
 ## [6. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐764)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐766)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -105,10 +105,6 @@
 *   [tools.trace (⭐339)](https://github.com/clojure/tools.trace)
 
 ## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Internet and Networking
-
-*   [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 
 ### Office
 

@@ -225,7 +225,7 @@
 
 ### Files and Directories / Directory Navigation
 
-*   [autojump (⭐14k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
+*   [autojump (⭐15k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
 
 ---
 

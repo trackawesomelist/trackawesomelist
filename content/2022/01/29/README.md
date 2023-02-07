@@ -10,7 +10,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-watch-and-run (⭐262)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐267)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Local
 
-*   [Photok (⭐275)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
+*   [Photok (⭐277)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
 *   [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
 ### Desktop / Alternative clients/modifications of Discord:
@@ -78,7 +78,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-json-search (⭐12)](https://github.com/Uninen/vue-json-search) - Headless Vue 3.x component for easy and simple json-based search
+*   [vue-json-search (⭐13)](https://github.com/Uninen/vue-json-search) - Headless Vue 3.x component for easy and simple json-based search
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

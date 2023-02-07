@@ -8,17 +8,17 @@
 
 ## [1. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Email boilerplate (⭐3.8k)](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 *   [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 
-### Services
+### Services / Misc
 
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 *   [Postal (⭐12k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
-### Copy
+### Copy / Misc
 
 *   [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
@@ -26,7 +26,7 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐5.5k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐5.6k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

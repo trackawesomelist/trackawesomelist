@@ -16,7 +16,7 @@
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐718)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐715)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Loader
 
-*   [react-spinners-css (⭐306)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+*   [react-spinners-css (⭐307)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -536,11 +536,11 @@
 ### Deep Learning / TensorFlow
 
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib) - Keras community contributions. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [Hyperas (⭐2.1k)](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Hyperas (⭐2.1k)](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A straightforward wrapper for a convenient hyperparameter. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [Hera (⭐495)](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [Hera (⭐493)](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, and get metrics streamed to a dashboard in your browser. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Spektral (⭐2.2k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [qkeras (⭐437)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [qkeras (⭐441)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Visualization / General Purposes
 
@@ -549,13 +549,13 @@
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐394)](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
+*   [animatplot (⭐396)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ### Reinforcement Learning / NLP
 
-*   [Coach (⭐2.2k)](https://github.com/NervanaSystems/coach) - Easy experimentation with state of the art Reinforcement Learning algorithms.
+*   [Coach (⭐2.2k)](https://github.com/NervanaSystems/coach) - Easy experimentation with state-of-the-art Reinforcement Learning algorithms.
 *   [garage (⭐1.6k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
-*   [OpenAI Baselines (⭐13k)](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
+*   [OpenAI Baselines (⭐14k)](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
 *   [Stable Baselines (⭐3.7k)](https://github.com/hill-a/stable-baselines) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
 *   [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
 *   [Horizon (⭐3.3k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
@@ -568,25 +568,25 @@
 
 *   [Horovod (⭐13k)](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
-*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed machine learning platform.
+*   [Veles (⭐896)](https://github.com/Samsung/veles) - Distributed machine learning platform.
 *   [Jubatus (⭐701)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 *   [DMTK (⭐2.8k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-*   [dask-ml (⭐835)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [dask-ml (⭐837)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Distributed (⭐1.4k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
 ### Quantum Computing / NLP
 
-*   [PennyLane (⭐1.6k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐1.7k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [Verovio (⭐518)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐525)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ### Compression
 
-*   [bit7z (⭐325)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
+*   [bit7z (⭐347)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
 
 ### Integrated Development Environment
 

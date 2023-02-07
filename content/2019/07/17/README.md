@@ -17,10 +17,10 @@
 ### Development / Boilerplate
 
 *   [yo (⭐3.6k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
-*   [boilr (⭐1.5k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
-*   [cookiecutter (⭐18k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [mevn-cli (⭐783)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
-*   [scaffold-static (⭐118)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
+*   [cookiecutter (⭐19k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+*   [mevn-cli (⭐796)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+*   [scaffold-static (⭐117)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐520)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐524)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### Libraries / Go
 
-*   [gosnmp/gosnmp (⭐924)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
+*   [gosnmp/gosnmp (⭐933)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
 
 ### Libraries / Java
 
@@ -33,7 +33,7 @@
 
 ### Libraries / JavaScript
 
-*   [node-net-snmp (⭐164)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
+*   [node-net-snmp (⭐166)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 
 ### Tools / CLIs
 
@@ -72,21 +72,13 @@
 *   [rfc5592](https://www.rfc-editor.org/rfc/rfc5592.txt) - Secure Shell Transport Model for the Simple Network Management Protocol (SNMP).
 *   [rfc7630](https://www.rfc-editor.org/rfc/rfc7630.txt) - HMAC-SHA-2 Authentication Protocols in the User-based Security Model (USM) for SNMPv3.
 
-## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
-
-### Overview / Instagram
-
-*   [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
-    *   On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at [https://github.com/mendel5/alternative-front-ends/issues/28 (⭐2.9k)](https://github.com/mendel5/alternative-front-ends/issues/28) and <https://austinhuang.me/barinsta> .
-    *   Fork of Barinsta: <https://codeberg.org/avalos/barinsta> - "This fork is unofficial unless community decides otherwise. C\&D letters will be ignored."
-
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐607)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐613)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
-## [5. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Arcade
 
@@ -104,12 +96,12 @@
 
 *   [Stendhal (⭐408)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace (⭐74)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐137)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐80)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐148)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 
@@ -117,9 +109,9 @@
 
 ### Server Applications
 
-*   [dummy (⭐167)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
+*   [dummy (⭐169)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 
-## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
@@ -130,13 +122,13 @@
 *   [Tailscale](https://tailscale.com/) - Managed freemium mesh VPN service built on top of WireGuard.
 *   [tinc](https://tinc-vpn.org/) - Free Software mesh VPN implemented entirely in userspace that supports expandable network space, bridged ethernet segments, and more.
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS2TelegramChannel / Docsify
 
 *   [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 
-## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 

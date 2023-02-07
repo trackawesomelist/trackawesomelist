@@ -16,7 +16,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐4.7k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐4.8k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [archlinux (⭐3)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [archlinux (⭐3)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [MLEM (⭐573)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
+*   [MLEM (⭐589)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

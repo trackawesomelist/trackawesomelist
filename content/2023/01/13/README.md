@@ -59,12 +59,12 @@
 ### Templates / Vue 3
 
 *   [vite-vue-h5-app (⭐2)](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
-*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vulcan (⭐4)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-qiniu-oss (⭐3)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
-*   [vite-plugin-stylelint (⭐12)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
+*   [vite-plugin-qiniu-oss (⭐4)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
+*   [vite-plugin-stylelint (⭐11)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -72,7 +72,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [unplugin-imagemin (⭐43)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+*   [unplugin-imagemin (⭐48)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -82,14 +82,14 @@
 
 ### Applications
 
-*   [DB3 Network (⭐78)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+*   [DB3 Network (⭐111)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 
 ## [7. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Transistor Software plugins](https://www.transistorsoft.com//)
 
 *   [Background Geolocation (⭐48)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-*   [Background Fetch (⭐45)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+*   [Background Fetch (⭐47)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 *   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -113,7 +113,7 @@
 
 ### Projects / Godot 3.5+
 
-*   [GATT - Godot Autotile Texture Templater (⭐11)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
+*   [GATT - Godot Autotile Texture Templater (⭐17)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 
 ## [11. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [axkirillov/easypick.nvim (⭐183)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+*   [axkirillov/easypick.nvim (⭐189)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
 ### Session / Diagnostics
 
-*   [gennaro-tedesco/nvim-possession (⭐8)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
+*   [gennaro-tedesco/nvim-possession (⭐21)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
 ---
 

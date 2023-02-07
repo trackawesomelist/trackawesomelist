@@ -89,7 +89,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [goBrowser (⭐113)](https://github.com/xataz/gobrowser) - Simple http file browser. `GPL-3.0` `Go`
+*   [goBrowser (⭐115)](https://github.com/xataz/gobrowser) - Simple http file browser. `GPL-3.0` `Go`
 
 ### Software / Learning and Courses
 
@@ -133,11 +133,11 @@
 
 ### Networking
 
-*   [MQTT-C (⭐569)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐578)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 
 ### Reflection
 
-*   [Nameof (⭐1.5k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
+*   [Nameof (⭐1.6k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
 
 ## [10. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 

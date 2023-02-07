@@ -16,7 +16,7 @@
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐613)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
+*   [oauth2 (⭐619)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lumino (⭐62)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-lumino (⭐63)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

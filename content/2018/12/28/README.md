@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [praetorian (⭐56)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+*   [praetorian (⭐57)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Awesome ClojureScript / Validation
 
-*   [form-validator-cljs (⭐53)](https://github.com/kwladyka/form-validator-cljs) – Validate forms with spec and fn.
+*   [form-validator-cljs (⭐54)](https://github.com/kwladyka/form-validator-cljs) – Validate forms with spec and fn.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

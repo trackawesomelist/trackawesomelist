@@ -17,7 +17,7 @@
 ### Awesome ClojureScript / State Management
 
 *   [component (⭐2k)](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
-*   [mount (⭐1.1k)](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
+*   [mount (⭐1.2k)](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
 
 ## [3. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 

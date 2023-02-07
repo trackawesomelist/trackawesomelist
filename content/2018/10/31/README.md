@@ -22,7 +22,7 @@
 
 ### Contents / Libraries
 
-*   [Node-hl7-parser (⭐31)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
+*   [Node-hl7-parser (⭐33)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
 
 ## [4. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 

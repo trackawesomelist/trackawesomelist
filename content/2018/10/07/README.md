@@ -6,36 +6,11 @@
 
 
 
-## [1. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
-
-### Popular Packages / Utilities
-
-*   [Laravel Love (⭐987)](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
-
-### Application Hosting / Third-party Service Integration
-
-*   [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
-
-## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
-
-### Gem Generators
-
-*   [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
-
-## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
-
-### System Programming
-
-*   **Embedded systems**
-    *   [OMicroB (⭐110)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
-    *   [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - An OCaml virtual machine for PIC18 micro-controlers.
-    *   [ocaml-esp32 (⭐17)](https://github.com/sadiqj/ocaml-esp32) - A compiler for ESP32 SoC.
-
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [homebox (⭐349)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
+*   [homebox (⭐360)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 *   [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`
 
 ### Software / Content Management Systems (CMS)
@@ -47,12 +22,30 @@
 
 *   [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([Source Code (⭐8.8k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
 
-### List of Licenses / Wikis
+## [2. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
-*   `GFDL-1.1-only` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-only.html)
-*   `GFDL-1.1-or-later` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-or-later.html)
-*   `GFDL-1.2-only` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-only.html)
-*   `GFDL-1.2-or-later` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-or-later.html)
+### Popular Packages / Utilities
+
+*   [Laravel Love (⭐987)](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
+
+### Application Hosting / Third-party Service Integration
+
+*   [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
+
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+### Gem Generators
+
+*   [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
+
+## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+
+### System Programming
+
+*   **Embedded systems**
+    *   [OMicroB (⭐110)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
+    *   [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - An OCaml virtual machine for PIC18 micro-controlers.
+    *   [ocaml-esp32 (⭐17)](https://github.com/sadiqj/ocaml-esp32) - A compiler for ESP32 SoC.
 
 ## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

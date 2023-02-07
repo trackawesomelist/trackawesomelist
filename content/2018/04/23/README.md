@@ -16,7 +16,7 @@
 
 ### Game Engine
 
-*   [EnTT (⭐7.6k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐7.7k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

@@ -161,11 +161,11 @@
 
 ### Compression
 
-*   [zlib-ng (⭐12)](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+*   [zlib-ng (⭐13)](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
 
 ### Miscellaneous
 
-*   [ub-canaries (⭐161)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
+*   [ub-canaries (⭐162)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 
 ### Debugger
 
@@ -198,7 +198,7 @@
 
 ### Visual Studio Plugins
 
-*   [Git Diff Margin (⭐278)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
+*   [Git Diff Margin (⭐279)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 
 ## [16. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -323,16 +323,16 @@
 
 ### Images
 
-*   [identicon (⭐24)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
+*   [identicon (⭐25)](https://github.com/rbishop/identicon) - An Elixir library for generating 5x5 identicons.
 
 ### Logging
 
-*   [logfmt (⭐24)](https://github.com/jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
+*   [logfmt (⭐25)](https://github.com/jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
 
 ### ORM and Datamapping
 
-*   [caylir (⭐21)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
-*   [mysql (⭐344)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [caylir (⭐22)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
+*   [mysql (⭐345)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐7)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Third Party APIs
@@ -341,7 +341,7 @@
 
 ### Reading
 
-*   [xElixir (⭐529)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐532)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

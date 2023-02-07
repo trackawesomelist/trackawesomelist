@@ -10,23 +10,23 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐663)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐670)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
 
-### Unit Test, Testing / Other / unknown licence
+### Unit Test, Testing / MIT
 
 *   [gnatbdd (⭐5)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 
-### System Modeling / Other / unknown licence
+### System Modeling / MIT
 
 *   [ada-fuzzy (⭐3)](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
 *   [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 

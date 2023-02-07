@@ -42,7 +42,7 @@
 
 ### Development Environment
 
-*   [Git Hooks (⭐826)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐832)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
@@ -410,12 +410,10 @@
 
 *   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 *   [Pdftag (⭐59)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
-*   [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 *   [Marker (⭐771)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
-*   [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
 *   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -423,7 +421,6 @@
 ### Multimedia
 
 *   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
-*   [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 
 ### Graphics
@@ -437,7 +434,6 @@
 ### System and Customization
 
 *   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
-*   [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
 ### Utilities
 
@@ -501,7 +497,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐671)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐678)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -529,7 +525,7 @@
 
 ### Audio
 
-*   [libsoundio (⭐1.6k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
+*   [libsoundio (⭐1.7k)](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
 
 ### Networking
 

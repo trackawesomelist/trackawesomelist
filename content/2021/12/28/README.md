@@ -66,7 +66,7 @@
 ### C bindings
 
 *   [fftw.cr (⭐12)](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
-*   [wasmer-crystal (⭐77)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
+*   [wasmer-crystal (⭐81)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -109,11 +109,11 @@
 
 ### Reference Resources / Power Platform (Microsoft)
 
-*   [Microsoft Power Fx (⭐2.8k)](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
+*   [Microsoft Power Fx (⭐2.9k)](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Fx Samples (⭐71)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
+*   [Power Fx Samples (⭐78)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
 
 ### Blogs / Power Platform (Microsoft)
 
@@ -169,7 +169,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Work Hours (⭐44)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
+*   [Work Hours (⭐45)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
 
 ---
 

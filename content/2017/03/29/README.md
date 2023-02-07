@@ -50,7 +50,7 @@
 *   Ruby
     *   [by @kanwei (⭐2.6k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐632)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐653)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 
 ## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

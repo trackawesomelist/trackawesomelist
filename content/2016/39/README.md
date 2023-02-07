@@ -165,7 +165,7 @@ Webpage: N/A
 
 ### Database Drivers/Clients
 
-*   [crystal-mysql (⭐101)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
+*   [crystal-mysql (⭐102)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
 *   [crystal-sqlite3 (⭐119)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
@@ -245,7 +245,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐390)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐392)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [24. Tips](/content/git-tips/tips/week/README.md)
 
@@ -397,7 +397,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### GUI
 
-*   [ScintillaNET (⭐901)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+*   [ScintillaNET (⭐904)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
 
 ### Image Processing
 

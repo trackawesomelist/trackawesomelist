@@ -36,7 +36,7 @@
 
 ### Authorization
 
-*   [canada (⭐420)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐425)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Miscellaneous
 
@@ -58,7 +58,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [LinqOptimizer (⭐463)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+*   [LinqOptimizer (⭐464)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 
 ### Continuous Integration
 

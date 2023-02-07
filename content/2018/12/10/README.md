@@ -237,7 +237,7 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### Application Frameworks
 
-*   [ABP (⭐9.3k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
+*   [ABP (⭐9.4k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
 
 ### Books
 

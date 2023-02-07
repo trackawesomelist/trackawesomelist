@@ -75,7 +75,7 @@
 
 ### XML
 
-*   [TinyXML++ (⭐88)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
+*   [TinyXML++ (⭐90)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -113,22 +113,22 @@
 ### Files and Directories / Deleting, Copying, and Renaming
 
 *   [trash-cli (⭐1.1k)](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
-*   [empty-trash-cli (⭐107)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+*   [empty-trash-cli (⭐113)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 
 ### Files and Directories / Directory Navigation
 
-*   [pm (⭐174)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+*   [pm (⭐173)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 *   [z (⭐15k)](https://github.com/rupa/z) - z is the new j, yo.
 
 ### Images / Gif Creation
 
-*   [gifsicle (⭐3k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
-*   [ttygif (⭐3.7k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
-*   [ttygif (⭐257)](https://github.com/sugyan/ttygif) - ttyrec to gif.
+*   [gifsicle (⭐3.2k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+*   [ttygif (⭐3.8k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
+*   [ttygif (⭐261)](https://github.com/sugyan/ttygif) - ttyrec to gif.
 
 ### Graphics / Image Conversion
 
-*   [sparkly-cli (⭐124)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+*   [sparkly-cli (⭐125)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
 ## [10. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -410,7 +410,7 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Haskell / Symfony2
 
-*   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
+*   [Rest for Haskell (⭐387)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
 ## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 

@@ -48,7 +48,7 @@
 
 ### Version Control / Git
 
-*   [dev-time (⭐176)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+*   [dev-time (⭐177)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
 ## [5. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
@@ -280,7 +280,7 @@
 ### ORM
 
 *   [AsyncPoco (⭐127)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐816)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [NPoco (⭐815)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
 ## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

@@ -49,7 +49,7 @@
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
 *   [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.

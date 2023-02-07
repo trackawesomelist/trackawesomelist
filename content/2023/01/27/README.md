@@ -26,7 +26,7 @@
 
 ### Overview / Spotify
 
-*   [spotifyd (⭐8.5k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
+*   [spotifyd (⭐8.6k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
 
 ### Overview / Medium
 
@@ -41,9 +41,9 @@
 
 ### Overview / Quora
 
-*   [Quetre (⭐191)](https://github.com/zyachel/quetre): A libre front-end for Quora
+*   [Quetre (⭐207)](https://github.com/zyachel/quetre): A libre front-end for Quora
     *   Official website: <https://quetre.iket.me/>
-    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐191)](https://github.com/zyachel/quetre#instances)
+    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐207)](https://github.com/zyachel/quetre#instances)
 
 ## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Libreddit (⭐4k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
+*   [Libreddit (⭐4.1k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
 
 ### Software / Communication - XMPP - Web Clients
 
@@ -85,7 +85,7 @@
 
 *   [Magento Open Source (⭐10k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
 *   [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) - Customizable, real-time reactive, Javascript commerce platform (formerly Reaction Commerce). ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
-*   [Open Source POS (⭐2.7k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
+*   [Open Source POS (⭐2.8k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
 *   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐210)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
@@ -151,4 +151,5 @@
 
 ---
 
+- Prev: [Jan 28, 2023](/content/2023/01/28/README.md)
 - Next: [Jan 26, 2023](/content/2023/01/26/README.md)

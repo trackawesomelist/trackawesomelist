@@ -52,7 +52,7 @@
 
 ### Go / Erlang
 
-*   [KrakenD (⭐5.3k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
+*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
 
 ### API Gateways / Edge Services / Scala
 

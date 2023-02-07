@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐161)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐169)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ## [2. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Contents / Finance
 
-*   [Auction (⭐25)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
+*   [Auction (⭐29)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
 
 ## [10. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 

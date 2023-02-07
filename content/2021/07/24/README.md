@@ -16,8 +16,8 @@
 
 ### Templates / Vue 3
 
-*   [vitesse-lite (⭐721)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
-*   [vitesse-webext (⭐1.7k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
+*   [vitesse-lite (⭐731)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-webext (⭐1.8k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -173,8 +173,8 @@
 
 ### Contents / Tools
 
-*   [Weather (⭐15)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
-*   [FlutterWeather (⭐107)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [Weather (⭐18)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
+*   [FlutterWeather (⭐153)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

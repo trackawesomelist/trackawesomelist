@@ -2,7 +2,7 @@
 
 A curated list of awesome projects related to eBPF.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zoidbergwill/awesome-ebpf/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) · ⭐ 2.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zoidbergwill/awesome-ebpf/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) · ⭐ 2.9K · 🏷️ Platforms
 
 [ [Daily](/content/zoidbergwill/awesome-ebpf/README.md) / [Weekly](/content/zoidbergwill/awesome-ebpf/week/README.md) / Overview ]
 
@@ -115,7 +115,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 *   [Linux Extended BPF (eBPF) Tracing Tools](https://www.brendangregg.com/ebpf.html) - An in-depth collection of information around examples of performance analysis tools using eBPF. Contains also a section at the end of the page about other resources.
 
-*   [Beginner's guide to eBPF (⭐445)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
+*   [Beginner's guide to eBPF (⭐446)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
 ### BPF Internals
 
@@ -223,7 +223,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 *   [linux/tools/testing/selftests/bpf](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/testing/selftests/bpf) - In the kernel tree: Linux BPF selftests, with many eBPF programs.
 *   [prototype-kernel/kernel/samples/bpf (⭐259)](https://github.com/netoptimizer/prototype-kernel/tree/master/kernel/samples/bpf) - Jesper Dangaard Brouer's prototype-kernel repository contains some additional examples that can be compiled outside of kernel infrastructure.
 *   [iproute2/examples/bpf/](https://git.kernel.org/pub/scm/network/iproute2/iproute2-next.git/tree/examples/bpf) - Some networking programs to attach to the TC interface.
-*   [Netronome sample network applications (⭐78)](https://github.com/Netronome/bpf-samples/) - Provides basic but complete examples of eBPF applications also compatible with hardware offload.
+*   [Netronome sample network applications (⭐79)](https://github.com/Netronome/bpf-samples/) - Provides basic but complete examples of eBPF applications also compatible with hardware offload.
 *   [bcc/examples (⭐17k)](https://github.com/iovisor/bcc/tree/master/examples) - Examples coming along with the bcc tools, mostly about tracing.
 *   [bcc/tools (⭐17k)](https://github.com/iovisor/bcc/tree/master/tools) - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.
 *   [MPLSinIP sample (⭐38)](https://github.com/fzakaria/eBPF-mpls-encap-decap) - A heavily commented sample demonstrating how to encapsulate & decapsulate MPLS within IP. The code is commented for those new to BPF development.
@@ -254,12 +254,12 @@ If you are new to eBPF, you may want to try the links described as "introduction
 ### libbpf
 
 *   [libbpf](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/lib/bpf) - A C library used for handling BPF objects (programs and maps), and manipulating ELF object files containing them. It is shipped with the kernel and [mirrored on GitHub (⭐1.3k)](https://github.com/libbpf/libbpf).
-*   [libbpf-bootstrap (⭐488)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐489)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ### Go libraries
 
 *   [cilium/ebpf (⭐4k)](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-*   [libbpfgo (⭐412)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
+*   [libbpfgo (⭐413)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
 *   [gobpf (⭐1.9k)](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
 
 ### Aya
@@ -430,7 +430,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 *   [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - A mailing list specially dedicated to XDP programming (both for architecture or for asking for help).
 *   [IO Visor mailing list](http://lists.iovisor.org/pipermail/iovisor-dev/) - BPF is at the heart of the project, and is regularly discussed on the mailing list.
 *   [@IOVisor Twitter account](https://twitter.com/IOVisor)
-*   [The XDP Collaboration Project (⭐202)](https://github.com/xdp-project/xdp-project) - A GitHub repository with notes and ideas regarding the future evolutions of XDP.
+*   [The XDP Collaboration Project (⭐203)](https://github.com/xdp-project/xdp-project) - A GitHub repository with notes and ideas regarding the future evolutions of XDP.
 
 ## Other Lists of Resources on eBPF
 

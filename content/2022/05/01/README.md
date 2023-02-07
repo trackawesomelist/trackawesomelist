@@ -33,7 +33,7 @@
 
 ### [zplug](https://github.com/zplug/zplug)
 
-*   Unlike [antigen (⭐7.4k)](https://github.com/zsh-users/antigen), no ZSH plugin files (`*.plugin.zsh`) are required
+*   Unlike [antigen (⭐7.5k)](https://github.com/zsh-users/antigen), no ZSH plugin files (`*.plugin.zsh`) are required
 
 ### [zpm](https://github.com/zpm-zsh/zpm)
 
@@ -63,7 +63,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-hbs-admin (⭐89)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
+*   [vue-hbs-admin (⭐90)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
 *   [vite-vue-proste (⭐9)](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 
 ---

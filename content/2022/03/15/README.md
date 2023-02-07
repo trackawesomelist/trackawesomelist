@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐7.1k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
+*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐7.2k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Angular / Integrations
 
-*   [@nxext/angular-vite (⭐336)](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
+*   [@nxext/angular-vite (⭐343)](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
 
 ## [3. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/nvim-regexplainer (⭐429)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
+*   [bennypowers/nvim-regexplainer (⭐440)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -85,13 +85,6 @@
 *   Gain in-depth knowledge of the Go standard library
 *   Use Go for concurrent/parallel tasks
 *   Use Go for client- and server-side development
-
-## [12. Awesome Math](/content/rossant/awesome-math/README.md)
-
-### Youtube Series
-
-*   [Mathologer](https://www.youtube.com/c/Mathologer)
-*   [The Math District](https://www.youtube.com/TheMathDistrict)
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### Creative Uses of Generative AI Tools / Deforum
 
-*   [AgaMiko/pixel\_character\_generator (⭐89)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+*   [AgaMiko/pixel\_character\_generator (⭐90)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
 ### Image Synthesis / Promptism
 
@@ -41,7 +41,7 @@
 
 ### Related Awesome Lists / Galleries
 
-*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐246)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐248)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
 ## [5. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram Nearby Map (⭐470)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+*   [Telegram Nearby Map (⭐480)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 ### Keywords Discovery and Research / Telegram
 

@@ -84,7 +84,7 @@
 
 ### CLI
 
-*   [docopt.cpp (⭐983)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
+*   [docopt.cpp (⭐985)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 
 ## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -190,7 +190,7 @@
 
 ### Contents / Tools
 
-*   [picotool (⭐324)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+*   [picotool (⭐328)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
 ## [18. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -203,7 +203,7 @@
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐309)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐312)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Embedded Systems
 

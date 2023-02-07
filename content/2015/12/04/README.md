@@ -48,7 +48,7 @@
 
 ### Testing
 
-*   [Bogus (⭐6.6k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐6.7k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 
 ## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

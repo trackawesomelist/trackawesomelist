@@ -35,7 +35,7 @@
 ### Blockchain
 
 *   [Cocol (⭐19)](https://github.com/cocol-project/cocol) - A minimal blockchain testbed
-*   [secp256k1.cr (⭐39)](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
+*   [secp256k1.cr (⭐42)](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Driver crates / WIP
 
-*   [MAX31855 (⭐3)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
+*   [MAX31855 (⭐4)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
 
 ## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [crisp-react (⭐157)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐160)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
 ## [12. Awesome Python](/content/vinta/awesome-python/README.md)
 

@@ -47,7 +47,7 @@
 
 ### Containers
 
-*   [dynamic\_bitset (⭐118)](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. \[MIT]
+*   [dynamic\_bitset (⭐120)](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. \[MIT]
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Touch Bar Simulator (⭐1.7k)](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Touch Bar Simulator (⭐1.8k)](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
 
@@ -83,7 +83,7 @@
 
 ### Learn
 
-*   [Product Management (⭐944)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
+*   [Product Management (⭐958)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 
 ## [8. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

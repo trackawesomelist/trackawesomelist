@@ -52,7 +52,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dynamic-marquee (⭐120)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
+*   [vue-dynamic-marquee (⭐119)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Individual components / Others
 
-*   [BlazorMonaco (⭐224)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐33k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
+*   [BlazorMonaco (⭐234)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐33k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
 
 ## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

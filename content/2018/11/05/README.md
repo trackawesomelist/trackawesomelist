@@ -92,7 +92,7 @@
 
 ### IoC
 
-*   [DryIoc (⭐813)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐816)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

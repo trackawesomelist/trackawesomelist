@@ -103,7 +103,7 @@
 ### CMS
 
 *   [JHipster.NET (⭐271)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
-*   [RapidCMS (⭐249)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
+*   [RapidCMS (⭐252)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Phone Number Research / Telegram
 
-*   [PhoneInfoga (⭐8.8k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+*   [PhoneInfoga (⭐9.1k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 
 ## [15. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -138,9 +138,9 @@
 ### Integration
 
 *   REST
-    *   [Vert.x REST Client (⭐39)](https://github.com/hubrick/vertx-rest-client) - A REST client for Vert.x with support for RxJava and request caching.
-    *   [Retrofit adapter for Vert.x (⭐30)](https://github.com/vietj/retrofit-vertx) - A highly scalable adapter for Retrofit with Vert.x.
-    *   [openapi4j adapter for Vert.x (⭐86)](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) - OpenAPI 3 request validator and router factory alternative.
+    *   [Vert.x REST Client (⭐40)](https://github.com/hubrick/vertx-rest-client) - A REST client for Vert.x with support for RxJava and request caching.
+    *   [Retrofit adapter for Vert.x (⭐31)](https://github.com/vietj/retrofit-vertx) - A highly scalable adapter for Retrofit with Vert.x.
+    *   [openapi4j adapter for Vert.x (⭐94)](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) - OpenAPI 3 request validator and router factory alternative.
     *   [Vert.x Effect HTTP client (⭐2)](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive HTTP client using [Vert.x Effect (⭐2)](https://github.com/imrafaelmerino/vertx-effect) with OAuth support and retry, fallback and recovery operations.
 
 ### Middleware

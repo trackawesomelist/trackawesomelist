@@ -44,7 +44,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐152)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐153)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

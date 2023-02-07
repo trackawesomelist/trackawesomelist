@@ -86,7 +86,6 @@
 ### Design
 
 *   [HTTP API design guide extracted from work on the Heroku Platform API (⭐14k)](https://github.com/interagent/http-api-design)
-*   [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
 
 ### SaaS Tools / Symfony2
 

@@ -34,11 +34,11 @@
 
 ### Tutorial
 
-*   [Vulkan Demos and Tutorials (⭐68)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
+*   [Vulkan Demos and Tutorials (⭐69)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
 
 ### Samples
 
-*   [Simple RTX Vulkan raytracing tutorials (⭐327)](https://github.com/iOrange/rtxON). \[MIT]
+*   [Simple RTX Vulkan raytracing tutorials (⭐334)](https://github.com/iOrange/rtxON). \[MIT]
 
 ## [6. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

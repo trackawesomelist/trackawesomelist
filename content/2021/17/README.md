@@ -16,19 +16,19 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐91)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐95)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
-*   [Cassandra (⭐210)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
+*   [Cassandra (⭐215)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Transpiling
 
-*   [perf-monitor-rs (⭐156)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+*   [perf-monitor-rs (⭐157)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Form Components / Select
 
-*   [react-column-select (⭐11)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
+*   [react-column-select (⭐12)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Projects
 
-*   [Fullstack-Rust (⭐64)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
+*   [Fullstack-Rust (⭐65)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
 
 ### Books / Frameworks
 
@@ -332,7 +332,7 @@
 
 ### Go / Erlang
 
-*   [go-zero (⭐21k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
+*   [go-zero (⭐22k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
 
 ## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -366,16 +366,16 @@
 ### Libraries
 
 *   Other API Interop and Implementations
-    *   [visor (⭐38)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
+    *   [visor (⭐39)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
     *   [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. \[Apache License 2.0]
-    *   [rostkatze (⭐79)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
+    *   [rostkatze (⭐78)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
     *   [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
-    *   [VUDA (⭐448)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
-    *   [clspv (⭐506)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
+    *   [VUDA (⭐454)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
+    *   [clspv (⭐514)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
     *   [MoltenVK (⭐3.8k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
     *   [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. \[MIT]
     *   [glo / OpenGL Overload (⭐277)](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
-    *   [gfx-portability (⭐363)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
+    *   [gfx-portability (⭐365)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
 
 ### Bindings
 
@@ -385,7 +385,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-easter-egg-trigger (⭐8)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site.
+*   [vue-easter-egg-trigger (⭐8)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue 2 site. [Vue 3 (⭐2)](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) version also available.
 
 ### Components & Libraries / Utilities
 
@@ -403,17 +403,13 @@
 
 *   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
 
-### Software / Communication - Custom Communication Systems
-
-*   [Chaskiq](https://chaskiq.io) - Full featured livechat, helpcenter and CRM as an alternative to Intercom & Drift, Crisp and others. ([Source Code (⭐2.3k)](https://github.com/chaskiq/chaskiq)) `AGPL-3.0` `Ruby`
-
 ### Software / Communication - SIP
 
 *   [Yeti-Switch](https://yeti-switch.org/) - Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://yeti-switch.org/demo.html), [Source Code](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐191)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐196)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ### Software / Miscellaneous
 
@@ -478,7 +474,7 @@
 
 ### Templates / Vue 3
 
-*   [vivu (⭐59)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
+*   [vivu (⭐60)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 
 ## [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -490,7 +486,7 @@
 
 ### Related projects / Other services
 
-*   [StreetComplete (⭐2.9k)](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
+*   [StreetComplete (⭐3.1k)](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
 
 ## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 

@@ -201,7 +201,7 @@
 
 ### Microservices
 
-*   [Resilience4j (⭐8.4k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
+*   [Resilience4j (⭐8.5k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
 ## [18. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 

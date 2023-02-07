@@ -16,7 +16,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐163)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐168)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

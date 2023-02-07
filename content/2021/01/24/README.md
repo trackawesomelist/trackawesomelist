@@ -22,7 +22,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐751)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐758)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

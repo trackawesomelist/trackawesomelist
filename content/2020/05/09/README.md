@@ -76,7 +76,7 @@
 
 ### Imagery
 
-*   [image-comparison (⭐246)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
+*   [image-comparison (⭐253)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 ## [7. Services Engineering](/content/mmcgrana/services-engineering/README.md)
 

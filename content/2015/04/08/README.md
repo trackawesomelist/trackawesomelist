@@ -28,7 +28,7 @@
 
 ### Image Processing
 
-*   [Video++ (⭐692)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐693)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Math
 

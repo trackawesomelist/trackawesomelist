@@ -19,7 +19,7 @@
 *   Visual Studio Code
     *   [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
     *   [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
-    *   [GUT Visual Studio Code Extension (⭐15)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
+    *   [GUT Visual Studio Code Extension (⭐16)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
     *   [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code (Godot 3.x).
 
 ### Unofficial Godot builds / Godot version unknown
@@ -158,7 +158,7 @@
 
 ### Processes and Threads
 
-*   [werk (⭐18)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
+*   [werk (⭐19)](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -191,7 +191,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐575)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐579)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
 
 ## [14. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
@@ -212,18 +212,18 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐803)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐802)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐482)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.3k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐374)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐652)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐482)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐417)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐709)](https://github.com/rsteca/sklearn-deap)
-*   [sklearn-evaluation (⭐356)](https://github.com/edublancas/sklearn-evaluation)
+*   [scikit-rebate (⭐375)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐654)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐483)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐418)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐711)](https://github.com/rsteca/sklearn-deap)
+*   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐5.2k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐265)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐267)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐666)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐3.1k)](https://github.com/rapidsai/cuml)
@@ -233,15 +233,15 @@
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐12k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐328)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐747)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐334)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐750)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐61k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐62k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐13k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.2k)](https://github.com/pytorch/text)
-*   [torchaudio (⭐1.9k)](https://github.com/pytorch/audio)
+*   [torchaudio (⭐2k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.2k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.5k)](https://github.com/pytorch/tnt)
 *   [PyVarInf (⭐342)](https://github.com/ctallec/pyvarinf)
@@ -250,18 +250,18 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.2k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐729)](https://github.com/itdxer/neupy)
+*   [NeuPy (⭐731)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐349)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐621)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐624)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐63)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐10)](https://github.com/bsautermeister/tensorlight)
-*   [Mesh TensorFlow (⭐1.3k)](https://github.com/tensorflow/mesh)
+*   [Mesh TensorFlow (⭐1.4k)](https://github.com/tensorflow/mesh)
 *   [TF-Agents (⭐2.4k)](https://github.com/tensorflow/agents)
 
 ### Deep Learning Packages / Keras Ecosystem
@@ -270,9 +270,9 @@
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib)
 *   [Hyperas (⭐2.1k)](https://github.com/maxpumperla/hyperas)
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
-*   [Hera (⭐495)](https://github.com/keplr-io/hera)
+*   [Hera (⭐493)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.2k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐437)](https://github.com/google/qkeras)
+*   [qkeras (⭐441)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -289,7 +289,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐460)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐468)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [16. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -693,11 +693,11 @@
 ### Programming Languages
 
 *   [R (⭐5.3k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐410)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+    *   [Learning (⭐415)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ### Gaming
 
-*   [CHIP-8 (⭐96)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
+*   [CHIP-8 (⭐99)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 
 ### Business
 
@@ -705,7 +705,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐77)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐82)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -754,7 +754,7 @@ Free (Open Source)
 
 ### Software / Document Management
 
-*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐845)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
+*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐859)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
 
 ### Software / Polls and Events
 
@@ -899,7 +899,7 @@ Free (Open Source)
 
 *   [Stellar Admin Boilerplate (⭐15)](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 *   [Vue-Low-Code (⭐288)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
-*   [Figma-Low-Code (⭐624)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
+*   [Figma-Low-Code (⭐626)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 
 ## [42. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -1231,7 +1231,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### HTTP clients / Interfaces to other package managers
 
-*   👍 [Dexador (⭐299)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Dexador (⭐301)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
 
 ### Units / Third-party APIs
 
@@ -1255,11 +1255,11 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ## [64. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK.
 
-### System Modeling / Other / unknown licence
+### System Modeling / MIT
 
 *   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 

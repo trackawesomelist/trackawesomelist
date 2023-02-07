@@ -28,11 +28,11 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐7.8k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐7.9k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐195)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐196)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

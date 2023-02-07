@@ -79,7 +79,7 @@
 
 ### Contents / Clones
 
-*   [PX8 (⭐885)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+*   [PX8 (⭐892)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## [8. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
@@ -277,7 +277,7 @@
 ### Contents / Data
 
 *   [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
-*   [Synthea Patient Generator (⭐1.5k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+*   [Synthea Patient Generator (⭐1.6k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ## [22. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -303,7 +303,7 @@
 
 ### Node.js
 
-*   [Expressa (⭐403)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+*   [Expressa (⭐409)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 
 ### SaaS Tools / Symfony2
 
@@ -319,11 +319,11 @@
 
 ### Command Line Applications
 
-*   [optimus (⭐151)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
+*   [optimus (⭐154)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
 
 ### Feature Flags and Toggles
 
-*   [flippant (⭐88)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+*   [flippant (⭐89)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
 *   [molasses (⭐74)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ### Geolocation
@@ -336,7 +336,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_rut (⭐111)](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
+*   [ecto\_rut (⭐112)](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
 
 ### Queue
 

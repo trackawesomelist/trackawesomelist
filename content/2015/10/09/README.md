@@ -31,17 +31,17 @@
 
 ### Testing
 
-*   [BDDfy (⭐393)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
+*   [BDDfy (⭐395)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
 
 ## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [Bardo (⭐92)](https://github.com/pleasetrythisathome/bardo) – A Clojure(Script) library for functional interpolation and transitions.
+*   [Bardo (⭐93)](https://github.com/pleasetrythisathome/bardo) – A Clojure(Script) library for functional interpolation and transitions.
 
 ### Awesome ClojureScript / Routing
 
-*   [Bidi (⭐969)](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
+*   [Bidi (⭐974)](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

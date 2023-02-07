@@ -55,7 +55,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐995)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐1k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-uuid (⭐64)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
+*   [vue-uuid (⭐65)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

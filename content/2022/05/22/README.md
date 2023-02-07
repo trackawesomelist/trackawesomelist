@@ -34,7 +34,7 @@
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐205)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐206)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -52,21 +52,21 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐16)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐21)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace-spec (⭐4)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐3)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Functional
 
-*   [valor (⭐10)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
+*   [valor (⭐11)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
 ### Goroutines
 
-*   [async-job (⭐5)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
+*   [async-job (⭐6)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
 
 ## [9. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 

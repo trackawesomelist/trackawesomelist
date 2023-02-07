@@ -98,7 +98,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Reagi (⭐224)](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
+*   [Reagi (⭐227)](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 
 ## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

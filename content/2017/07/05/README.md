@@ -87,7 +87,7 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐303)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐305)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -99,11 +99,11 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐640)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐639)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐35)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐36)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

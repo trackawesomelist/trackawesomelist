@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2023
 
-25 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -241,44 +241,34 @@
 
 *   [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
 
-## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐186)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-## [19. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [18. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### VM-Hardening
 
 *   [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
 
-### Exploitation Tools / Xen Exploitation
+### Xen Exploitation / OpenVPN
 
 *   [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
 *   [Hypervisor Vulnerability Research \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
 
-### Exploitation Tools / Web articles
+### Web articles / OpenVPN
 
 *   [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 
-## [20. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [19. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Cryptocurrency
 
 *   [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
-## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [20. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### 3rd party GTFS URL directories
 
 *   [TransitData.io](https://transitdata.io/) - A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available.
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -288,13 +278,13 @@
 
 *   [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and let's you publish SQL queries as managed HTTP APIs. No time limit on free-tier, 10GB storage + 1000 API requests per day.
 
-## [23. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [22. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 3D / Godot 3.2+
 
 *   [Tanks of Freedom II (⭐28)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
-## [24. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [23. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Game Engines / Popular
 
@@ -445,7 +435,7 @@
     *   🎉 [Cereal (⭐3.4k)](https://github.com/USCiLab/cereal) - Header-only C++11 serialization library.
     *   🎉 [Cista++ (⭐1.1k)](https://github.com/felixguendling/cista) - Simple, high-performance serialization & reflection library.
     *   🎉 [FlatBuffers (⭐20k)](https://github.com/google/flatbuffers) - (by Google) Efficient cross-platform serialization library.
-    *   🎉 [JSON for Modern C++ (⭐33k)](https://github.com/nlohmann/json) - 🔥 JSON for Modern C++.
+    *   🎉 [JSON for Modern C++ (⭐33k)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     *   🎉 [Protobuf (⭐58k)](https://github.com/protocolbuffers/protobuf) - (by Google) Protocol Buffers, for platform-neutral serialized data.
     *   🎉 [RapidJSON (⭐13k)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 *   C++: Terrain
@@ -464,7 +454,7 @@
 *   C#: Game Framework
     *   🎉 [FNA (⭐1.7k)](https://github.com/FNA-XNA/FNA) - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
     *   🎉 [Monofoxe (⭐302)](https://github.com/Martenfur/Monofoxe) - Game engine designed to simplify working with MonoGame.
-    *   🎉 [MonoGame (⭐9.1k)](https://github.com/MonoGame/MonoGame) - 🔥 Framework for creating cross-platform games. \[[Website](https://www.monogame.net/)]
+    *   🎉 [MonoGame (⭐9.2k)](https://github.com/MonoGame/MonoGame) - 🔥 Framework for creating cross-platform games. \[[Website](https://www.monogame.net/)]
     *   🎉 [Nez (⭐1.5k)](https://github.com/prime31/Nez) - Feature-rich 2D framework that sits on top of MonoGame.
     *   🎉 [Protogame (⭐173)](https://github.com/RedpointGames/Protogame) - (built on MonoGame) Cross-platform 2D/3D game engine.
 *   C#: Graphics - 3D
@@ -604,7 +594,7 @@
     *   🎉 [p5.js (⭐19k)](https://github.com/processing/p5.js) - Library for creative coding. \[[Website](https://p5js.org)]
     *   🎉 [Paper.js (⭐14k)](https://github.com/paperjs/paper.js) - The swiss army knife of vector graphics. \[[Examples](http://paperjs.org/)]
     *   🎉 [Pencil.js (⭐244)](https://github.com/pencil-js/pencil.js) - Modular interactive 2D drawing library. \[[Examples](https://pencil.js.org/)]
-    *   🎉 [PixiJS (⭐39k)](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library. \[[Awesome (⭐642)](https://github.com/cursedcoder/awesome-pixijs) | [Editor (⭐183)](https://github.com/Megabyteceer/thing-editor) | [Website](https://pixijs.com/)]
+    *   🎉 [PixiJS (⭐39k)](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library. \[[Awesome (⭐642)](https://github.com/cursedcoder/awesome-pixijs) | [Editor (⭐183)](https://github.com/Megabyteceer/thing-editor) | [Essentials (⭐189)](https://github.com/ShukantPal/pixi-essentials) | [Website](https://pixijs.com/)]
     *   🎉 [Pts (⭐4.9k)](https://github.com/williamngan/pts) - Library for visualization and creative coding. \[[Examples](https://ptsjs.org)]
     *   🎉 [Scrawl-canvas (⭐236)](https://github.com/KaliedaRik/Scrawl-canvas) - Library for working with the canvas element.
     *   🎉 [Stage.js (⭐2.3k)](https://github.com/shakiba/stage.js) - 2D rendering engine for game development. \[[Examples](https://piqnt.com/stage.js/)]
@@ -618,11 +608,11 @@
     *   🎉 [Litescene.js (⭐327)](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by [WebGLStudio](https://webglstudio.org).
     *   🎉 [LUME (⭐918)](https://github.com/lume/lume) - Simplifies the creation of interactive 2D/3D experiences.
     *   ⭐ [OGL (⭐3k)](https://github.com/oframe/ogl) - 🔥 Fast, powerful, minimal WebGL library. \[[Examples](https://oframe.github.io/ogl/examples)]
-    *   🎉 [PicoGL.js (⭐760)](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library. \[[Examples](https://tsherif.github.io/picogl.js/)]
+    *   🎉 [PicoGL.js (⭐762)](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library. \[[Examples](https://tsherif.github.io/picogl.js/)]
     *   🎉 [Pixi3D (⭐606)](https://github.com/jnsmalm/pixi3d) - 3D renderer for PixiJS, seamless integration with 2D apps. \[[Examples](https://pixi3d.org/)]
     *   🎉 [RedGL (⭐150)](https://github.com/redcamel/RedGL2) - JavaScript 3D WebGL library.
     *   🎉 [Regl (⭐4.8k)](https://github.com/regl-project/regl) - Fast functional WebGL.
-    *   🎉 [Three.js (⭐88k)](https://github.com/mrdoob/three.js/) - 🔥 General-purpose 3D library. \[[Awesome (⭐352)](https://github.com/0xAxiome/awesome-threejs) | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
+    *   🎉 [Three.js (⭐89k)](https://github.com/mrdoob/three.js/) - 🔥 General-purpose 3D library. \[[Awesome (⭐352)](https://github.com/0xAxiome/awesome-threejs) | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
     *   🎉 [TWGL (⭐2.3k)](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library. \[[Examples](http://twgljs.org/)]
     *   📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
     *   📚 [WebGL / WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries.
@@ -654,7 +644,7 @@
     *   🎉 [Tweakpane (⭐2.5k)](https://github.com/cocopon/tweakpane) - Compact gui for fine-tuning values.
     *   🎉 [uil (⭐504)](https://github.com/lo-th/uil) - Simple JavaScript gui.
     *   🎉 [w2ui (⭐2.4k)](https://github.com/vitmalina/w2ui) - Gui widgets for modern web apps.
-    *   🎉 [Zebkit (⭐922)](https://github.com/barmalei/zebkit) - 🔥 Canvas rendered UI component libary.
+    *   🎉 [Zebkit (⭐922)](https://github.com/barmalei/zebkit) - Canvas rendered UI component libary.
 *   JavaScript: Input
     *   🎉 [Joycon.js (⭐86)](https://github.com/barhatsor/joycon.js) - JavaScript controller functionality.
     *   ❓ [Mesekai (⭐19)](https://github.com/Neleac/Mesekai) - Real-time motion tracking.
@@ -808,7 +798,7 @@
     *   🔥 - Hot, Amazing Resource!
     *   🌎 - Website
 
-## [25. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
@@ -816,4 +806,5 @@
 
 ---
 
+- Prev: [Feb 04, 2023](/content/2023/02/04/README.md)
 - Next: [Feb 02, 2023](/content/2023/02/02/README.md)

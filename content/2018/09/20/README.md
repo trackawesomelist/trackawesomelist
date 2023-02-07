@@ -10,7 +10,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐251)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐252)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
 
 ### Software / Ticketing
 

@@ -145,7 +145,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Shaman (⭐442)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
+*   [Shaman (⭐448)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
 
 ### Elasticity / Scala
 
@@ -153,7 +153,7 @@
 
 ### Messaging / Scala
 
-*   [Mist (⭐653)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
+*   [Mist (⭐656)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
 
 ## [5. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -452,7 +452,7 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ## [31. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 
@@ -600,7 +600,7 @@ Webpage: <http://www.tosci.com/>
 ### Framework Components
 
 *   [scrivener\_headers (⭐47)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
-*   [scrivener\_html (⭐119)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
+*   [scrivener\_html (⭐120)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 
 ### HTTP
 

@@ -69,11 +69,11 @@ Topics: React, Forms, CSS Grid\
 
 ### Form Components / Emoji picker
 
-*   [interweave-emoji-picker (⭐877)](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase.
+*   [interweave-emoji-picker (⭐885)](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase.
 
 ### Form Components / Miscellaneous
 
-*   [interweave (⭐877)](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
+*   [interweave (⭐885)](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 
 ### Responsive / Syntax Highlight
 

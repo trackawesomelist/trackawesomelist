@@ -27,7 +27,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Developer Roadmap (⭐3.1k)](https://github.com/s4kibs4mi/java-developer-roadmap)
+*   [Java Developer Roadmap (⭐3.2k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

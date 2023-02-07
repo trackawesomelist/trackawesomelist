@@ -42,7 +42,7 @@
 
 ### Bindings
 
-*   [nvk (⭐877)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
+*   [nvk (⭐878)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

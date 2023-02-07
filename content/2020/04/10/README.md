@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,19 +35,13 @@
 
 *   [steam-inventory-stream (⭐9)](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams.
 
-## [5. Awesome](/content/craftcms/awesome/README.md)
-
-### Official Links
-
-*   **Dot All Conference** - [dotall.com](http://dotall.com)
-
-## [6. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [5. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
 *   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Security / Barcode
 
@@ -61,65 +55,65 @@
 
 *   [LightRoute (⭐94)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / PHP
 
 *   [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
 
-## [9. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [8. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mod Loaders / Archives
 
 *   [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / DNS
 
-*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.6k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
+*   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.7k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 
-## [11. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [10. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
 *   [How They Test (⭐4.5k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
-## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-sites / Git
 
 *   [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
 
-## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Testing
 
 *   [Detect Flaky Tests with BuildPulse (⭐7)](https://github.com/Workshop64/buildpulse-action)
 
-## [14. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [13. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
-*   [jest-playwright (⭐472)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐485)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐79)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐138k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐85k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐241)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐183)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [playwright-jest-examples (⭐80)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐142k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐88k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐249)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐195)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐14k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
-## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.4k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

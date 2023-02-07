@@ -20,7 +20,7 @@
 
 ### External Services
 
-*   [movie-box (⭐20)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+*   [movie-box (⭐21)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Form Components / Rich Text Editor
 
-*   [react-editor (⭐52)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+*   [react-editor (⭐54)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 
 ### Framework bindings / integrations / Mouse Events
 
@@ -166,17 +166,13 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐318)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐320)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐179)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
-
-### Applications / Web
-
-*   [WildDuck Mail Server](https://wildduck.email/) - Scalable high availability email server that uses MongoDB for email storage
+*   [mongotail (⭐180)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ## [17. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -434,11 +430,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [goro (⭐351)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
+*   [goro (⭐353)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐307)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐308)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ## [42. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -448,13 +444,13 @@
 
 ## [43. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
-*   [SimpleLogin (⭐3.3k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3.4k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [44. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
@@ -520,17 +516,17 @@
 
 ## [46. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Encryption / Other / unknown licence
+### Encryption / MIT
 
 *   [ada-keystore (⭐29)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [ada-language-server (⭐179)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 *   [ada-lsp (⭐11)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
 *   [ada-lsp-client (⭐1)](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 
-### Cryptography / Other / unknown licence
+### Cryptography / MIT
 
 *   [fletcher (⭐0)](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher\_16 checksum computation algorithm.
 *   [base58-ada (⭐4)](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
@@ -543,11 +539,11 @@
 *   [stotp (⭐7)](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 *   [xxhash-ada (⭐1)](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
 
-### Simulation / Other / unknown licence
+### Simulation / MIT
 
 *   [ghdl (⭐1.8k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [hungarian (⭐1)](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 
@@ -574,7 +570,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐577)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐579)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [50. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -590,7 +586,7 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐8.8k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [orhun/kmon (⭐1.7k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
 
 ## [52. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
@@ -617,7 +613,7 @@
 
 ### Gaming
 
-*   [Game Remakes (⭐340)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐345)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ### Databases
 
@@ -627,7 +623,7 @@
 
 ### Version Control / Git
 
-*   [semantic-git-commit-cli (⭐132)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
+*   [semantic-git-commit-cli (⭐133)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 
 ## [56. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 

@@ -114,7 +114,7 @@
 ### HAL implementation crates / Silicon Labs
 
 *   [`tomu-hal`](https://github.com/fudanchii/imtomu-rs)
-    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐67)](https://github.com/im-tomu/tomu-bootloader) directly from application via `toboot_config` macro.
+    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐69)](https://github.com/im-tomu/tomu-bootloader) directly from application via `toboot_config` macro.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -188,7 +188,7 @@
 ### Document Processing
 
 *   [docx4j](https://www.docx4java.org/trac/docx4j) - Create and manipulate Microsoft Open XML files.
-*   [zerocell (⭐68)](https://github.com/creditdatamw/zerocell) - Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
+*   [zerocell (⭐69)](https://github.com/creditdatamw/zerocell) - Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
 
 ## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Lambdo (⭐14)](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
+*   [Lambdo (⭐15)](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -263,7 +263,7 @@
 *   Push Notifications
     *   [Onesignal (⭐15)](https://github.com/jklingsporn/vertx-push-onesignal) - Send push notifications to (mobile/web) apps from your Vert.x application with [OneSignal](https://onesignal.com/).
 *   CNCF CloudEvents
-    *   [CloudEvents.io Java SDK (⭐293)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐293)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
+    *   [CloudEvents.io Java SDK (⭐309)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐309)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
 
 ### Config
 
@@ -497,12 +497,12 @@
 
 ### Applications / Games
 
-*   [rsaarelm/magog (⭐347)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
-*   [Thinkofname/rust-quake (⭐57)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
+*   [rsaarelm/magog (⭐345)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
+*   [Thinkofname/rust-quake (⭐56)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐364)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐369)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
@@ -510,7 +510,7 @@
 
 ### Applications / Utilities
 
-*   [brycx/checkpwn (⭐95)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+*   [brycx/checkpwn (⭐97)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
 
 ### Development tools / IDEs
 
@@ -524,23 +524,23 @@
 ### Libraries / Game development
 
 *   Game Engines
-    *   [Bevy (⭐21k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐22k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
     *   [ggez (⭐3.6k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
     *   [Kiss3d](http://kiss3d.org) — A Keep It Simple, Stupid 3d graphics engine written with Rust [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
-    *   [oxidator (⭐259)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
+    *   [oxidator (⭐262)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
     *   [Piston](https://www.piston.rs/) — [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
     *   [Unrust (⭐369)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐274)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
+*   [autopilot-rs/autopilot-rs (⭐279)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
 
 ### Libraries / Macro
 
 *   cute
-    *   [mattgathu/cute (⭐307)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
+    *   [mattgathu/cute (⭐308)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
 
 ## [42. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -577,7 +577,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-displacement-slideshow (⭐193)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+*   [vue-displacement-slideshow (⭐194)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
 ## [44. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 

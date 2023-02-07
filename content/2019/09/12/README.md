@@ -17,7 +17,7 @@
 
 ### Chart
 
-*   [react-chartjs-2 (⭐5.6k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
+*   [react-chartjs-2 (⭐5.7k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

@@ -32,7 +32,7 @@
 
 ### Resilience / Scala
 
-*   [Resilience4j (⭐8.3k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
+*   [Resilience4j (⭐8.5k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 
 ### HTTP/1.1 / Scala
 
@@ -264,7 +264,7 @@
 
 ### Lambda shorthands
 
-*   [cl-punch (⭐18)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-punch (⭐19)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

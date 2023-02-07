@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,9 +8,9 @@
 
 ## [1. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Testing
+### Testing / Misc
 
-*   [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
+*   [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 
 ## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -43,25 +43,19 @@
 
 *   [Graphql (⭐3.1k)](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Cloud Computing
-
-*   [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
-
-## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Database Drivers
 
 *   [Tortoise ORM (⭐3.3k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 
 *   [Documentation](http://docs.serverless.com) - Serverless.com Documentation.
 
-## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Talks
 

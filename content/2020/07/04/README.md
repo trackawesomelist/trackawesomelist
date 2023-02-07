@@ -187,7 +187,7 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐227)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
+*   [slowtec/tokio-modbus (⭐230)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
 
 ## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Development / Npm
 
-*   [wipe-modules (⭐325)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+*   [wipe-modules (⭐329)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -425,7 +425,7 @@
 
 ### Props from server / Mouse Events
 
-*   [axios-react (⭐38)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
+*   [axios-react (⭐39)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Databases / Lazy Load
 
@@ -436,13 +436,13 @@
 
 ### Configuration
 
-*   [toml++ (⭐964)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐988)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐262)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐266)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ---
 

@@ -47,7 +47,7 @@
 
 ### Tools and Apps / Task Management
 
-*   [Pomolectron (⭐568)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐571)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
 ## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -67,8 +67,8 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐243)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [jingle (⭐34)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+*   [ningle (⭐244)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐35)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
         *   includes an OpenAPI and Swagger UI demo.
 
 ### Other / Third-party APIs
@@ -263,11 +263,11 @@
 
 ### CMS
 
-*   [BlogEngine.NET (⭐907)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐906)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 
-*   [Valit (⭐314)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
+*   [Valit (⭐313)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 
 ## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -293,7 +293,7 @@
 
 ### Web Frameworks
 
-*   [Irked (⭐30)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x 3 Web and controller framework.
+*   [Irked (⭐29)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
 
 ### Examples
 
@@ -313,8 +313,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐293)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
-*   [vue-cleave-component (⭐283)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+*   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-cleave-component (⭐284)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [36. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 

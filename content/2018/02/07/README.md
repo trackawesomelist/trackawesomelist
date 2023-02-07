@@ -46,7 +46,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Miscellaneous
 
-*   [Vert.x Boot (⭐43)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
+*   [Vert.x Boot (⭐44)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
 
 ## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

@@ -21,7 +21,7 @@
 ### Physics
 
 *   [Simbody (⭐2k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
-*   [SOFA (⭐676)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
+*   [SOFA (⭐685)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
 ## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐70)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐78)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [12. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Courses
 
-*   [University of San Francisco (USF) Distributed Data System Class (MSDS 697) (⭐2)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
+*   [University of San Francisco (USF) Distributed Data System Class (MSDS 697)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
 
 ## [16. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -295,8 +295,8 @@
 
 ### Dialog
 
-*   [Plato (⭐950)](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
-*   [RNNLG (⭐493)](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
+*   [Plato (⭐957)](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
+*   [RNNLG (⭐492)](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
 
 ## [25. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
@@ -417,7 +417,7 @@
 
 ### General
 
-*   [Picon (⭐12)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
+*   [Picon (⭐14)](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
 
 ## [38. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -534,8 +534,8 @@
 ### Development tools / Build system
 
 *   Github actions
-    *   [icepuma/rust-action (⭐76)](https://github.com/icepuma/rust-action) — rust github action
-    *   [peaceiris/actions-mdbook (⭐232)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
+    *   [icepuma/rust-action (⭐77)](https://github.com/icepuma/rust-action) — rust github action
+    *   [peaceiris/actions-mdbook (⭐233)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
 
 ### Libraries / Text search
 
@@ -559,7 +559,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ETCD Manager (⭐339)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
+*   [ETCD Manager (⭐342)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
 
 ### Components & Libraries / UI Components
 
@@ -580,7 +580,7 @@
 
 ### Notification
 
-*   [cogo-toast (⭐669)](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, \~3.5K. *(No refs / provider needed 😊)*
+*   [cogo-toast (⭐670)](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, \~3.5K. *(No refs / provider needed 😊)*
 
 ### Chart
 
@@ -592,7 +592,7 @@
 
 ### Form Components / Input Types
 
-*   [react-numpad (⭐130)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
+*   [react-numpad (⭐131)](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 
 ### Form Components / Sortable List
 
@@ -628,18 +628,18 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [data-driven-motion (⭐531)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+*   [data-driven-motion (⭐532)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-mt-svg-lines (⭐355)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 *   [react-spring (⭐25k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
-*   [react-transitive-number (⭐208)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
+*   [react-transitive-number (⭐209)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 *   [velocity-react (⭐3k)](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
-*   [react-particles-bg (⭐561)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+*   [react-particles-bg (⭐560)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Responsive / Syntax Highlight
 
 *   [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from *badge* to *tree table*.
-*   [carbon (⭐6.2k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
+*   [carbon (⭐6.3k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
 *   [chakra-ui (⭐31k)](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
 *   [evergreen (⭐12k)](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
 *   [gestalt (⭐4.1k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
@@ -711,7 +711,7 @@
 
 ### Samples
 
-*   Khronos [Vulkan samples (⭐2.8k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.8k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+*   Khronos [Vulkan samples (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
 ## [54. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -801,12 +801,12 @@
 
 ### Financial
 
-*   [Parity (⭐500)](https://github.com/paritytrading/parity) - Platform for trading venues.
-*   [Philadelphia (⭐277)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
+*   [Parity (⭐499)](https://github.com/paritytrading/parity) - Platform for trading venues.
+*   [Philadelphia (⭐282)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 
 ### Miscellaneous
 
-*   [yGuard (⭐261)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+*   [yGuard (⭐267)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
 ## [60. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -998,11 +998,11 @@
 
 *   [gnat-ce](https://www.adacore.com/download) - GNAT Community edition. A release of AdaCore GNAT for free software developers, hobbyists, and students. The run-time libraries provided with GNAT Community are licensed under GPLv3 without linking exception. It supports Ada 2012 only.
 
-### Commercial / Open source / Other / unknown licence
+### Commercial / Open source / MIT
 
 *   [gnat-pro](https://www.adacore.com/gnatpro) - The GNAT Pro product line offers a comprehensive toolset (IDEs, debugger, librairies, dynamic and static analysis tools) for Ada, C and C++.
 
-### Commercial / Closed source / Other / unknown licence
+### Commercial / Closed source / MIT
 
 *   [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting all the major features of the Ada 83, Ada 95, Ada 2005 and Ada 2012 versions of the language.
 *   [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments.
@@ -1010,7 +1010,7 @@
 *   [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
 *   [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [havk (⭐21)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 

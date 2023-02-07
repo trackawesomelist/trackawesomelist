@@ -28,13 +28,13 @@
 
 ### Data Manipulation / Pipelines
 
-*   [dopanda (⭐431)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [dopanda (⭐432)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [nefarious (⭐705)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
+*   [nefarious (⭐713)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -97,13 +97,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Zeithub (⭐58)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+*   [Zeithub (⭐59)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [CNL (⭐554)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐559)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Bean Mapping
 
-*   [reMap (⭐102)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+*   [reMap (⭐103)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 
 ### Bytecode Manipulation
 
@@ -135,7 +135,7 @@
 
 ### Networking
 
-*   [ServiceTalk (⭐799)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
+*   [ServiceTalk (⭐808)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
 
 ### People / Twitter
 
@@ -144,7 +144,7 @@
 
 ## [16. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
 *   [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
 
@@ -236,7 +236,7 @@
 
 ### RESTful
 
-*   [REST API (⭐81)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐83)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ### Shop & Ecommerce
 
@@ -261,7 +261,7 @@
 ### Python / Reinforcement Learning
 
 *   [garage (⭐1.6k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐816)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [metaworld (⭐838)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -273,7 +273,7 @@
 
 ### Development Tools
 
-*   [openapi-generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [openapi-generator (⭐15k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## [27. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -291,21 +291,21 @@
 
 ### Mods / Building
 
-*   [WorldEdit (⭐2.6k)](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
+*   [WorldEdit (⭐2.7k)](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
 
 ### Server Plugins / Building
 
-*   [WorldGuard (⭐715)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
-*   [CraftBook (⭐275)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
+*   [WorldGuard (⭐729)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
+*   [CraftBook (⭐281)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 
 ### Web Applications / Building
 
-*   [Blessing Skin Server (⭐590)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+*   [Blessing Skin Server (⭐620)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 *   [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ### Development / Launchers
 
-*   [SchematicWebViewer (⭐40)](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
+*   [SchematicWebViewer (⭐42)](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
 
 ## [30. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
@@ -327,7 +327,7 @@
 
 ### Others
 
-*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐387)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
+*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐391)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ## [33. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -445,7 +445,7 @@
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐247)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐249)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 *   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐83)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 
 ## [39. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
@@ -518,7 +518,7 @@
 ### Evaluation
 
 *   [NLG-eval (⭐1.1k)](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
-*   [VizSeq (⭐408)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
+*   [VizSeq (⭐411)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
 
 ### Grammar
 
@@ -531,12 +531,12 @@
 
 ### Neural Natural Language Generation
 
-*   [Image Caption Generator (⭐143)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
-*   [Summary Generation From Structured Data (⭐183)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
+*   [Image Caption Generator (⭐144)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
+*   [Summary Generation From Structured Data (⭐185)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
 ### Products
 
-*   [Accelerated Text (⭐628)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+*   [Accelerated Text (⭐669)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
 *   [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ### Realizers
@@ -545,8 +545,8 @@
 
 ### Templating Languages
 
-*   [calyx (⭐60)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
-*   [nalgene (⭐54)](https://github.com/spro/nalgene) - Natural language generation language.
+*   [calyx (⭐59)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
+*   [nalgene (⭐55)](https://github.com/spro/nalgene) - Natural language generation language.
 *   [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output.
 
 ## [42. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
@@ -564,7 +564,7 @@
 
 ### Utilities / Theming and Customization
 
-*   [QuickWall (⭐182)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+*   [QuickWall (⭐180)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Command Line Learning / Internet Speedtest
 
@@ -572,8 +572,8 @@
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐57)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐154)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐60)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐161)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [44. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -651,7 +651,7 @@
 
 ### Web APIs / Scala
 
-*   [OpenAPI (⭐25k)](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
+*   [OpenAPI (⭐26k)](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
 
 ## [47. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 

@@ -44,7 +44,7 @@
 
 ### Software / Groupware
 
-*   [Tracim (⭐188)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
+*   [Tracim (⭐187)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

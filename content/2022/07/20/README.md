@@ -53,8 +53,8 @@
 
 ### Security
 
-*   [Cyber Security University (⭐322)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
-*   [Hacking Spots (⭐977)](https://github.com/daviddias/awesome-hacking-locations#readme)
+*   [Cyber Security University (⭐338)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+*   [Hacking Spots (⭐979)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Utility / Diagnostics
 
-*   [anuvyklack/fold-preview (⭐53)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
+*   [anuvyklack/fold-preview (⭐56)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
 
 ### Fennel / Diagnostics
 
@@ -86,7 +86,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [anuvyklack/pretty-fold.nvim (⭐298)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
+*   [anuvyklack/pretty-fold.nvim (⭐307)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
 
 ### Resource / Diagnostics
 
@@ -96,7 +96,7 @@
 
 ### Templates / React
 
-*   [stravital (⭐22)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
+*   [stravital (⭐23)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -104,11 +104,11 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐16)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐17)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 
 ### Symfony / Community
 
-*   [Vite Bundle (⭐88)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+*   [Vite Bundle (⭐96)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

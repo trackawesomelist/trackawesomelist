@@ -26,7 +26,7 @@
 
 ### AppImage consumption tools / Package managers
 
-*   [ayy (⭐15)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+*   [ayy (⭐16)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -39,25 +39,25 @@
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
-*   [Beginner's guide to eBPF (⭐426)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
+*   [Beginner's guide to eBPF (⭐446)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Storage / Scala
 
-*   [Citus (⭐7.5k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
+*   [Citus (⭐7.9k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [winterbe/expekt (⭐170)](https://github.com/winterbe/expekt) - BDD assertion library for Kotlin.
+*   [winterbe/expekt (⭐171)](https://github.com/winterbe/expekt) - BDD assertion library for Kotlin.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [FAIRshare (⭐59)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
+*   [FAIRshare (⭐60)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

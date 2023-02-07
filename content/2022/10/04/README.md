@@ -48,7 +48,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [einops (⭐6.2k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
+*   [einops (⭐6.3k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
 ## [7. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -312,7 +312,7 @@
 
 ### Reddit
 
-*   [Kbin (⭐75)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Kbin (⭐79)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
@@ -325,7 +325,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [jghauser/papis.nvim (⭐65)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
+*   [jghauser/papis.nvim (⭐69)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 
 ## [13. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -351,14 +351,6 @@
 - Website: <https://railway.app/>
 
   Description: **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.
-
-
-
-### Newsletters:
-
-- Website: [Smart Programming 101](https://www.michaelasiedu.com/newsletter)
-
-  Topics: Software development.
 
 
 

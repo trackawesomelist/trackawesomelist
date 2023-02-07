@@ -48,7 +48,7 @@
 
 ## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
 *   [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 *   [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
@@ -148,11 +148,11 @@
 ### Libraries / Encoding
 
 *   JSON
-    *   [importcjj/rust-ajson (⭐90)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
-    *   [maciejhirsz/json-rust (⭐501)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
-    *   [pikkr/pikkr (⭐614)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
+    *   [importcjj/rust-ajson (⭐91)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
+    *   [maciejhirsz/json-rust (⭐506)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
+    *   [pikkr/pikkr (⭐616)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
     *   [serde-rs/json (⭐3.6k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.6k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
-    *   [simd-lite/simd-json (⭐738)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
+    *   [simd-lite/simd-json (⭐759)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
 ## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -279,7 +279,7 @@
 
 ### Applications
 
-*   [Berty (⭐6.4k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+*   [Berty (⭐6.5k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
 
 ## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -305,7 +305,7 @@
 
 ### Azure
 
-*   [ARM templates for Sitecore (⭐138)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
+*   [ARM templates for Sitecore (⭐140)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
 *   [Sitecore Azure Content (⭐18)](https://github.com/olegburov/Sitecore-Azure-Content) - Articles on how to automate a deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 *   [Sitecore Advanced Azure Devops (⭐12)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on azure with flexible and generic scripts (requires a valid powershell Azure session to be connected and available).
 *   [Language Understanding (LUIS) Samples (⭐82)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
@@ -336,7 +336,7 @@
 
 ### Containers
 
-*   [Repository of Sitecore Docker images (⭐170)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
+*   [Repository of Sitecore Docker images (⭐171)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
 *   [Packer for Sitecore (⭐19)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 *   [Docker SOLR with SSL (⭐11)](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
 
@@ -366,7 +366,7 @@
 *   [Sitecore Habitat (⭐416)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
 *   [Sitecore.HabitatHome.Utilities (⭐41)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc.
 *   [Sitecore.HabitatHome.Commerce (⭐28)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
-*   [Sitecore.HabitatHome.Omni (⭐22)](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
+*   [Sitecore.HabitatHome.Omni (⭐23)](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
 *   [Sitecore.Demo.Group (⭐18)](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group Demo site - a developer example of a Habitat Based Demo.
 *   [Sitecore User Group UK (⭐5)](https://github.com/steviemcg/scuguk) - A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
 
@@ -380,13 +380,13 @@
 *   [Copy Version module (⭐0)](https://github.com/ParTech/Copy-Version) - Adds commands to the Content Editor that allow users to copy and paste the latest version of an item instead of the entire item. After installation, the "Copy version" and "Paste version" commands are accessible from the context menu in the content tree.
 *   [Browse Command (⭐3)](https://github.com/ParTech/Browse-Command) - Adds a command that allows the user to open an item from the Sitecore content tree in a new browser window. Sitecore does not offer this out-of-the-box, except for the Preview command which has the effect of entering preview mode, so given module will do exactly the same but without entering Preview mode.
 *   [Expand Descendants Command (⭐1)](https://github.com/ParTech/Expand-Descendants-Command#expand-descendants-command) - The module adds a command that allows the user to expand all descendants of an item from the Sitecore content tree.
-*   [Environment Styler for Sitecore (⭐3)](https://github.com/jammykam/Environment-Styler-for-Sitecore) - An environment specific styling (and text) on login screen and header ribbon for Sitecore.
+*   [Environment Styler for Sitecore (⭐4)](https://github.com/jammykam/Environment-Styler-for-Sitecore) - An environment specific styling (and text) on login screen and header ribbon for Sitecore.
 *   [InsertOptionsLoophole (⭐0)](https://github.com/TwentyGotoTen/InsertOptionsLoophole) - Prevents Sitecore users from bypassing insert options.
 *   [ScopeToThis (⭐1)](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) - Allows "scope to this" functionality a la Visual Studio on the Sitecore Content Editor tree.
 *   [DeviceEditorShortcuts (⭐0)](https://github.com/MartinMiles/DeviceEditorShortcuts) - A productivity improvement for Device Editor, showing datasource if set to that particular component and previewing that right from a pop-up click.
 *   [DmsGutters (⭐1)](https://github.com/markvanaalst/Sitecore.SharedSource.DmsGutters) - Content Editor gutters to indicate tested and personalized items.
 *   [Move Validator (⭐0)](https://github.com/Velir/Sitecore-MoveValidator) - Validate if an item can be moved to a new location based on insert options.
-*   [SitecoreFieldSuite (⭐7)](https://github.com/Velir/SitecoreFieldSuite) - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter.
+*   [SitecoreFieldSuite (⭐6)](https://github.com/Velir/SitecoreFieldSuite) - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter.
 
 ### Fields
 
@@ -402,7 +402,7 @@
 
 ### JSS
 
-*   [JSS (⭐228)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
+*   [JSS (⭐232)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example you can query against Sitecore's Content Search API.
 *   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
@@ -504,8 +504,8 @@
 
 ### Serialization
 
-*   [Rainbow (⭐31)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
-*   [Unicorn (⭐260)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
+*   [Rainbow (⭐32)](https://github.com/SitecoreUnicorn/Rainbow) - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
+*   [Unicorn (⭐261)](https://github.com/SitecoreUnicorn/Unicorn) - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
 *   [Sidekick (⭐46)](https://github.com/JeffDarchuk/SitecoreSidekick) - A framework for angularjs based microservice architecture operations.
 *   [Rhino (⭐12)](https://github.com/kamsar/Rhino) - An experimental serialization data provider for Sitecore.
 
@@ -574,17 +574,13 @@
 
 ## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Development
-
-*   [Tail](https://kag0.github.io/tail) - Enable infinite recursion using tail call optimization.
-
 ### Microservice
 
 *   [Sentinel (⭐20k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
 
 ### Utility / Mocking
 
-*   [Arthas (⭐31k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
+*   [Arthas (⭐32k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
 ## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -1026,7 +1022,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐341)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐346)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ### Components & Libraries / UI Components
 

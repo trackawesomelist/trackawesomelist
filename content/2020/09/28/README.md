@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐369)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐371)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -109,7 +109,7 @@
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Build and Package / Other / unknown licence
+### Build and Package / MIT
 
 *   [ada4cmake (⭐4)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 

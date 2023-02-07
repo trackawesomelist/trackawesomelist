@@ -8,19 +8,19 @@
 
 ## [1. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Platforms
+### Platforms / Localization and translation platforms
 
-*   [Locize](https://locize.com/) - The continuous localization management platform that powers up your development and translation.
+*   [Locize](https://locize.com/) - Proprietary translation platform.
 
-### Tools
+### Tools / Platform-specific tools
 
 *   [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
 
-### Articles
+### Articles / Platform-specific tools
 
 *   [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article about Globalization and localization in ASP.NET Core.
 
-### Other
+### Other / Platform-specific tools
 
 *   [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 *   [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
@@ -29,26 +29,21 @@
 
 ### Applications / Cryptocurrencies
 
-*   [ibc-rs (⭐296)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
+*   [ibc-rs (⭐311)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
-*   [bacon (⭐660)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
+*   [bacon (⭐677)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
 
 ### Libraries / Audio and Music
 
 *   [musitdev/portmidi-rs (⭐69)](https://github.com/musitdev/portmidi-rs) — [PortMidi](https://portmedia.sourceforge.net/portmidi/) bindings [![build badge](https://api.travis-ci.org/musitdev/portmidi-rs.svg?branch=master)](https://travis-ci.org/musitdev/portmidi-rs)
 
-### Libraries / Encoding
-
-*   TOML
-    *   [toml-rs/toml (⭐279)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
-
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-jdtls (⭐513)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
+*   [mfussenegger/nvim-jdtls (⭐532)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -69,7 +64,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [communism (⭐4)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
+*   [communism (⭐5)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -155,21 +150,21 @@
 
 ### Productivity / Calendars
 
-*   [birthday (⭐67)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+*   [birthday (⭐70)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 
 ### Utilities / Calendars
 
-*   [kill-tabs (⭐367)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
-*   [alex (⭐4.4k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+*   [kill-tabs (⭐374)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+*   [alex (⭐4.5k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### Utilities / Network Utilities
 
-*   [acmetool (⭐1.9k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
-*   [certificate-ripper (⭐259)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+*   [acmetool (⭐2k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
+*   [certificate-ripper (⭐365)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 
 ### Utilities / Theming and Customization
 
-*   [splash-cli (⭐502)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
+*   [splash-cli (⭐509)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
 
 ### Utilities / Shell Utilities
 
@@ -177,47 +172,47 @@
 
 ### Utilities / System Interaction Utilities
 
-*   [neofetch (⭐16k)](https://github.com/dylanaraps/neofetch) - System information tool.
+*   [neofetch (⭐17k)](https://github.com/dylanaraps/neofetch) - System information tool.
 *   [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
-*   [gzip-size-cli (⭐180)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
+*   [gzip-size-cli (⭐181)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Utilities / Markdown
 
-*   [glow (⭐10k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
+*   [glow (⭐12k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 
 ### Utilities / Security
 
-*   [hasha-cli (⭐65)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
+*   [hasha-cli (⭐66)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 
 ### Utilities / Browser Replacement
 
-*   [s (⭐2k)](https://github.com/zquestz/s) - Open a web search in your terminal.
-*   [hget (⭐321)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-*   [mapscii (⭐6.3k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
-*   [nasa-cli (⭐58)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
-*   [getnews.tech (⭐132)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-*   [trino (⭐124)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
-*   [translate-shell (⭐5.8k)](https://github.com/soimort/translate-shell) - Google Translate interface.
+*   [s (⭐2.1k)](https://github.com/zquestz/s) - Open a web search in your terminal.
+*   [hget (⭐324)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+*   [mapscii (⭐6.4k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+*   [nasa-cli (⭐62)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+*   [getnews.tech (⭐137)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
+*   [trino (⭐126)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
+*   [translate-shell (⭐6k)](https://github.com/soimort/translate-shell) - Google Translate interface.
 
 ### Utilities / Internet Speedtest
 
-*   [speedtest-net (⭐560)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+*   [speedtest-net (⭐573)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 *   [speed-test (⭐3.8k)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
-*   [speedtest-cli (⭐12k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-*   [bandwhich (⭐7.4k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+*   [speedtest-cli (⭐13k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+*   [bandwhich (⭐7.6k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ### Files and Directories / Directory Navigation
 
-*   [fz (⭐432)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
+*   [fz (⭐449)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 
 ### Version Control / Git
 
-*   [shallow-backup (⭐968)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+*   [shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### Version Control / Emoji
 
-*   [gitmoji-cli (⭐4k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
-*   [gitmoji-changelog (⭐335)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
+*   [gitmoji-cli (⭐4.1k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
+*   [gitmoji-changelog (⭐343)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
 
 ### Images / Emoji
 

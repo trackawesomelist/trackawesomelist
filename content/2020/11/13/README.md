@@ -41,7 +41,7 @@
 
 ### Plugins
 
-*   💙💼 [Aspect Ratio (⭐769)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
+*   💙💼 [Aspect Ratio (⭐776)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
 *   💙 [Forms (⭐2.9k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 *   🛑🧩💙 [Custom Forms (⭐1.6k)](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
 
@@ -84,7 +84,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [object-visualizer (⭐212)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
+*   [object-visualizer (⭐213)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
 ## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

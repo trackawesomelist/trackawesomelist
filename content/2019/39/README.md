@@ -18,11 +18,7 @@
 
 ### Blockchain
 
-*   [Nethermind (⭐809)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
-
-### Database Drivers
-
-*   [Storage.Net (⭐596)](https://github.com/aloneguid/storage) - Generic storage abstractions and implementations for popular cloud storage providers like Amazon S3, Azure Service Bus, Azure Event Hub, Azure Storage, Azure Data Lake Store and many others.
+*   [Nethermind (⭐824)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
 
 ### GUI
 
@@ -38,11 +34,11 @@
 
 ### Install tools
 
-*   [Onova (⭐369)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
+*   [Onova (⭐370)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
 ### Machine Learning and Data Science
 
-*   [Catalyst (⭐454)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+*   [Catalyst (⭐461)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
 ### Mathematics
 
@@ -54,11 +50,11 @@
 
 ### Queue
 
-*   [Gofer.NET (⭐479)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
+*   [Gofer.NET (⭐482)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
 
 ### Tools
 
-*   [Mockaco (⭐259)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
+*   [Mockaco (⭐267)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 *   [AnyStatus](https://www.anystat.us) - A desktop notifications app for monitoring CI/CD pipelines, servers, network, health and metrics. AnyStatus supports Azure DevOps, Jenkins, TeamCity, AppVeyor and more.
 
 ### Source Generator
@@ -770,23 +766,23 @@
 
 ### Awesome ClojureScript / Development
 
-*   [Ambly (⭐537)](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
+*   [Ambly (⭐535)](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
 *   [Instaparse (⭐89)](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 *   [lein-cljsbuild (⭐1.1k)](https://github.com/emezeske/lein-cljsbuild) – A Leiningen plugin to make ClojureScript development easy.
 *   [shadow-cljs (⭐2k)](https://github.com/thheller/shadow-cljs) – ClojureScript compilation made easy
-*   [Truss (⭐267)](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
+*   [Truss (⭐274)](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 ### Awesome ClojureScript / Document Object Model
 
-*   [Respo (⭐235)](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
+*   [Respo (⭐232)](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
 
 ### Awesome ClojureScript / Internationalization
 
-*   [Tempura (⭐239)](https://github.com/ptaoussanis/tempura) – A Clojure(Script) i18n library, succeeding Tower
+*   [Tempura (⭐242)](https://github.com/ptaoussanis/tempura) – A Clojure(Script) i18n library, succeeding Tower
 
 ### Awesome ClojureScript / [React.js](https://facebook.github.io/react/)   Interface
 
-*   [cljsx (⭐9)](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome (⭐11k)](https://github.com/snabbdom/snabbdom) and others.
+*   [cljsx (⭐10)](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome (⭐11k)](https://github.com/snabbdom/snabbdom) and others.
 *   [Om (⭐6.7k)](https://github.com/omcljs/om) – A powerful interface to React, makes use of its object oriented structures.
 *   [Quiescent (⭐609)](https://github.com/levand/quiescent) – It favors functional style, fully stateless.
 *   [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
@@ -794,13 +790,13 @@
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Manifold-cljs (⭐45)](https://github.com/dm3/manifold-cljs) – A port of [Manifold (⭐930)](https://github.com/ztellman/manifold) to ClojureScript.
+*   [Manifold-cljs (⭐46)](https://github.com/dm3/manifold-cljs) – A port of [Manifold (⭐948)](https://github.com/ztellman/manifold) to ClojureScript.
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Fulcro](http://fulcrologic.github.io/fulcro) – A library for development of single-page full-stack web applications in clj/cljs.
 *   [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) – A reagent compatible library without react.js dependency.
-*   [Precept (⭐644)](https://github.com/CoNarrative/precept) – A declarative programming framework.
+*   [Precept (⭐642)](https://github.com/CoNarrative/precept) – A declarative programming framework.
 
 ## [42. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -839,7 +835,7 @@
 
 ### Evaluation / NLP
 
-*   [sklearn-evaluation (⭐356)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -1027,39 +1023,39 @@
 
 ### Platforms
 
-*   [Actions on Google (⭐66)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+*   [Actions on Google (⭐67)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐91)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐77)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-*   [Ember (⭐175)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [KnockoutJS (⭐92)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐78)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [Ember (⭐176)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ### Back-End Development
 
-*   [Vagrant (⭐573)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Vagrant (⭐575)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
 *   [Pyramid (⭐530)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐600)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐85)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Phalcon (⭐602)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐86)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 *   [Lumen (⭐317)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ### Gaming
 
-*   [Haxe Game Development (⭐322)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐323)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ### Security
 
-*   [GDPR (⭐119)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+*   [GDPR (⭐123)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
 ### Business
 
-*   [Clean Tech (⭐375)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
+*   [Clean Tech (⭐376)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 
 ### Miscellaneous
 
-*   [Cytodata (⭐52)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
-*   [Advertising (⭐79)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+*   [Cytodata (⭐56)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+*   [Advertising (⭐81)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
 ## [57. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -1069,7 +1065,7 @@
 
 ## [58. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Testing
+### Testing / Misc
 
 *   [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 

@@ -29,7 +29,7 @@
 
 ### Software / Miscellaneous
 
-*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐12)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
+*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐13)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
 
 ## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -59,29 +59,29 @@
 
 ### Overview / YouTube
 
-*   [Youtube-viewer (⭐993)](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
-*   [Invidious-viewer (⭐12)](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
-*   [Youtube-dl (⭐114k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
-*   [Alltube (⭐2.6k)](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
-*   [Vividl (⭐210)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
-*   [Tartube (⭐1.2k)](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-*   [Plumber (⭐35)](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
-*   [ViewTube (⭐602)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
+*   [Youtube-viewer (⭐1k)](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
+*   [Invidious-viewer (⭐13)](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
+*   [Youtube-dl (⭐117k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+*   [Alltube (⭐2.7k)](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
+*   [Vividl (⭐251)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
+*   [Tartube (⭐1.3k)](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+*   [Plumber (⭐46)](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
+*   [ViewTube (⭐643)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
 ### Overview / Twitter
 
-*   [Shitter (⭐110)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
-*   [Harpy (⭐1.6k)](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
-*   [Twidere X (⭐814)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
+*   [Shitter (⭐139)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
+*   [Harpy (⭐1.8k)](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
+*   [Twidere X (⭐900)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
 *   [Tweeterr (⭐4)](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
-*   [Tweet-app (⭐53)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
-*   [Tweepy (⭐9.2k)](https://github.com/tweepy/tweepy): Twitter for Python
+*   [Tweet-app (⭐57)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
+*   [Tweepy (⭐9.4k)](https://github.com/tweepy/tweepy): Twitter for Python
 
 ### Overview / Reddit
 
-*   [RedditClient (⭐12)](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
-*   [Eddrit (⭐13)](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
-*   [Top of Reddit (⭐21)](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
+*   [RedditClient (⭐13)](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
+*   [Eddrit (⭐17)](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
+*   [Top of Reddit (⭐22)](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
 ### Overview / Hacker News
 
@@ -89,13 +89,13 @@
 
 ### Redirection / Other services
 
-*   [Privacy Redirect (⭐1.5k)](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
+*   [Privacy Redirect (⭐1.6k)](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, & Google Maps requests to privacy friendly alternatives
     *   [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
     *   [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
 ### Related projects / Other services
 
-*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
+*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
     *   [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
     *   [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
@@ -143,24 +143,24 @@
 
 ## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [lace (⭐5)](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 
-### Automation / Other / unknown licence
+### Automation / MIT
 
 *   [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
 *   [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A is a framework for designing industrial automation applications using the Ada language.
 
-### UML / Other / unknown licence
+### UML / MIT
 
 *   [umbrello](https://umbrello.kde.org/) - Unified Modelling Language (UML) diagram program based on KDE Technology. Outputs Ada.
 
-### Science / Other / unknown licence
+### Science / MIT
 
 *   [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
 
-### Shells, Interpreters and Emulators / Other / unknown licence
+### Shells, Interpreters and Emulators / MIT
 
 *   [a-shell (⭐13)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 
@@ -278,7 +278,7 @@
 
 ### Reflection
 
-*   [Refureku (⭐177)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
+*   [Refureku (⭐179)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
 
 ## [29. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -310,11 +310,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-windicss (⭐817)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
+*   [vite-plugin-windicss (⭐821)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html (⭐348)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+*   [vite-plugin-html (⭐355)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
 ## [33. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -423,7 +423,7 @@
 
 ### Types / Playground
 
-*   [typetype (⭐336)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+*   [typetype (⭐340)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 
 ## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -447,22 +447,22 @@
 ### Router / Mouse Events
 
 *   [wouter (⭐4.8k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
-*   [redux-first-history (⭐368)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+*   [redux-first-history (⭐374)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Overlay
 
-*   [reboron (⭐27)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
+*   [reboron (⭐28)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 
 ### Form Components / Color Picker
 
-*   [react-colorful (⭐2.4k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
+*   [react-colorful (⭐2.5k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 
 ## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
-*   [hush (⭐98)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
-*   [hush\_aws\_secrets\_manager (⭐18)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
+*   [hush (⭐113)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
+*   [hush\_aws\_secrets\_manager (⭐19)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
 *   [hush\_gcp\_secret\_manager (⭐18)](https://github.com/gordalina/hush_gcp_secret_manager) - Google Secret Manager provider for hush.
 
 ### Feature Flags and Toggles
@@ -471,7 +471,7 @@
 
 ### Templating
 
-*   [temple (⭐403)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple (⭐404)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Testing
 
@@ -479,7 +479,7 @@
 
 ### Text and Numbers
 
-*   [bitcoinex (⭐36)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
+*   [bitcoinex (⭐37)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
 ## [42. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -500,7 +500,7 @@
 
 ### Applications / Audio and Music
 
-*   [ncspot (⭐3.4k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
+*   [ncspot (⭐3.5k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
 
 ### Applications / Database
 
@@ -566,20 +566,20 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐310)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐319)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐399)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐411)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot GamePad (⭐103)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐745)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [Godot GamePad (⭐104)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [SmartShape2D (⭐753)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 
-*   [Godex (⭐760)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [Godex (⭐781)](https://github.com/GodotECS/godex) - An entity component system library.
 
 ## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -594,17 +594,17 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NxShell (⭐711)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
+*   [NxShell (⭐719)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 
 ### Components & Libraries / UI Components
 
-*   [vue-dd-form (⭐75)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+*   [vue-dd-form (⭐77)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 *   [@alireza-ab/vue-persian-datepicker (⭐32)](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 
 ### Components & Libraries / Frameworks
 
 *   [Native script (⭐5k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
-*   [Vue Native (⭐8.4k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
+*   [Vue Native (⭐8.3k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
 ### Components & Libraries / UI Utilities
 

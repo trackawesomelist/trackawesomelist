@@ -16,7 +16,7 @@
 
 ### Talks
 
-*   [Phosphorum (⭐361)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
+*   [Phosphorum (⭐360)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Math
 
-*   [MIRACL (⭐521)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐528)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ### Miscellaneous
 
@@ -196,8 +196,8 @@
 ### Awesome TypeScript Essential Resources
 
 *   :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
-*   :octocat: [Microsoft/TypeScript on Github (⭐87k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
-*   :octocat:[The official TypeScript Roadmap (⭐87k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+*   :octocat: [Microsoft/TypeScript on Github (⭐88k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+*   :octocat:[The official TypeScript Roadmap (⭐88k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 *   :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 
 ### Build Systems / Playground
@@ -398,7 +398,7 @@ git worktree add --detach <path> HEAD
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐939)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐940)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

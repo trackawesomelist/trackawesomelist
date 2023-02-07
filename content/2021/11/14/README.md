@@ -20,7 +20,7 @@
 
 ### Data Store / Mouse Events
 
-*   [teaful (⭐671)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐674)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

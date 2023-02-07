@@ -55,7 +55,7 @@
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Games / Other / unknown licence
+### Games / MIT
 
 *   [mine-detector (⭐1)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 
@@ -63,7 +63,7 @@
 
 ### General
 
-*   [VSCode Icons (⭐725)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐742)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Configuration
 
-*   [libconfig (⭐961)](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. \[LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
+*   [libconfig (⭐966)](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. \[LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 
 ---
 

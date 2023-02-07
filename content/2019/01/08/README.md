@@ -77,10 +77,10 @@
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Testing
+### Testing / Misc
 
-*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
-*   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
+*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

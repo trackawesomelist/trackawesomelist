@@ -30,17 +30,13 @@
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Development
-
-*   [Tail](https://kag0.github.io/tail) - Enable infinite recursion using tail call optimization.
-
 ### Microservice
 
 *   [Sentinel (⭐20k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
 
 ### Utility / Mocking
 
-*   [Arthas (⭐31k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
+*   [Arthas (⭐32k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

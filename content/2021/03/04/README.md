@@ -29,7 +29,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [shared-row (⭐16)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
+*   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 
 ## [5. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -47,15 +47,15 @@
 
 ### C++
 
-*   [Sogou Workflow (⭐9.4k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
+*   [Sogou Workflow (⭐9.9k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 
 ### Coordination & Governance / Scala
 
-*   [Temporal (⭐5.5k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
+*   [Temporal (⭐6.2k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 
 ### Storage / Scala
 
-*   [Parquet (⭐1.2k)](https://github.com/apache/parquet-format) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+*   [Parquet (⭐1.3k)](https://github.com/apache/parquet-format) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 
 ## [8. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

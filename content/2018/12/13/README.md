@@ -71,7 +71,7 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Slimv\_box (⭐11)](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
+*   [Slimv\_box (⭐12)](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
 
 ---
 

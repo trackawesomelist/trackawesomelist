@@ -26,15 +26,15 @@
 
 ### Programming Languages
 
-*   [OCaml (⭐2.3k)](https://github.com/ocaml-community/awesome-ocaml#readme)
+*   [OCaml (⭐2.4k)](https://github.com/ocaml-community/awesome-ocaml#readme)
 
 ### Front-End Development
 
-*   [Aurelia (⭐304)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐305)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
-*   [Email Newsletters (⭐3.1k)](https://github.com/zudochkin/awesome-newsletters#readme)
+*   [Email Newsletters (⭐3.2k)](https://github.com/zudochkin/awesome-newsletters#readme)
 
 ### Hardware
 
@@ -61,7 +61,7 @@
 
 ### Debug
 
-*   [check (⭐925)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐930)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 

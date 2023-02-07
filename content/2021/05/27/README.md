@@ -128,7 +128,7 @@
 
 ### Apps / Testing
 
-*   [Golem Test Harness (Goth) (⭐10)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
+*   [Golem Test Harness (Goth) (⭐11)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
 *   [Golem-afl (⭐2)](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
 *   [Golem Cargo Test (⭐2)](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
 *   [Golem SLATE (⭐5)](https://github.com/deutschklub/golem-slate) - Open source repository for Golem SLATE described in the above Apps section.
@@ -158,7 +158,7 @@
 
 ### Apps / Finance
 
-*   [ZKSync .csv export (⭐0)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
+*   [ZKSync .csv export (⭐1)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
 
 ### Apps / RNG
 
@@ -187,8 +187,8 @@
 
 *   [Golem Provider Terraform (⭐2)](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
 *   [Automatic Golem (⭐7)](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
-*   [Golem Provider Node (⭐12)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
-*   [Golem Provider node (⭐4)](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
+*   [Golem Provider Node (⭐13)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
+*   [Golem Provider node (⭐5)](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
 
 ### Learning Resources / Presentations and Workshop Material
 
@@ -225,7 +225,7 @@
 
 ## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Continuous Integration / Other / unknown licence
+### Continuous Integration / MIT
 
 *   [ada-actions (⭐17)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
 
@@ -240,7 +240,7 @@
 
 ### Overview / YouTube
 
-*   [ytmdl (⭐2.5k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+*   [ytmdl (⭐2.6k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 
 ## [18. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -270,11 +270,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐218)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐228)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐430)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐441)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ---
 

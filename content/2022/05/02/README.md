@@ -22,17 +22,17 @@
 
 ### Software / Communication - SIP
 
-*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐33)](https://github.com/rtckit/eqivo)) `MIT` `PHP`
+*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐35)](https://github.com/rtckit/eqivo)) `MIT` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Noisedash (⭐203)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs`
+*   [Noisedash (⭐207)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs`
 
 ### Software / Time Tracking
 
-*   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐7.8k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
+*   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐8k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
 *   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2k)](https://github.com/kevinpapst/kimai2/)) `MIT` `PHP`
-*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐634)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
+*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐643)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
 ## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
@@ -54,27 +54,27 @@
 
 ### Completion / Diagnostics
 
-*   [hrsh7th/nvim-cmp (⭐4.6k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
-    *   [lukas-reineke/cmp-under-comparator (⭐116)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
+*   [hrsh7th/nvim-cmp (⭐4.7k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
+    *   [lukas-reineke/cmp-under-comparator (⭐118)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
 
 ### Session / Diagnostics
 
-*   [Shatur/neovim-session-manager (⭐280)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
+*   [Shatur/neovim-session-manager (⭐285)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [AstroNvim/AstroNvim (⭐6.2k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
+*   [AstroNvim/AstroNvim (⭐6.4k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
 
 ## [7. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Frameworks
 
-*   [Blaze (⭐90)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
+*   [Blaze (⭐91)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
 *   [Sushi (⭐85)](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
 
 ### Contents / Integration
 
-*   [Google HCLS Data Harmonization (⭐123)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
+*   [Google HCLS Data Harmonization (⭐130)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 

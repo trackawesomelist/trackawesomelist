@@ -26,7 +26,7 @@
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Services
+### Services / Misc
 
 *   [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 
@@ -57,9 +57,9 @@
 ### Parser Library
 
 *   [Sprache (⭐2.1k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-*   [Pidgin (⭐676)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
-*   [FParsec (⭐456)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
-*   [Superpower (⭐902)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
+*   [Pidgin (⭐684)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+*   [FParsec (⭐459)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+*   [Superpower (⭐906)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 ## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

@@ -63,11 +63,11 @@
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### 3D / Other / unknown licence
+### 3D / MIT
 
 *   [ada-doom-3 (⭐237)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
-### Multimedia / Other / unknown licence
+### Multimedia / MIT
 
 *   [ada-3ds (⭐4)](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 

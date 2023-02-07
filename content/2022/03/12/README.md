@@ -24,7 +24,7 @@
 
 ### Utility / Diagnostics
 
-*   [jghauser/fold-cycle.nvim (⭐47)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+*   [jghauser/fold-cycle.nvim (⭐48)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 
 ## [4. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -54,13 +54,13 @@
 ### Domain
 
 *   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐274)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+*   [cluster.ws & wip.la (⭐289)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐63)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐65)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -94,27 +94,27 @@
 
 ### Overview / YouTube Music
 
-*   [th-ch/youtube-music (⭐2.3k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+*   [th-ch/youtube-music (⭐2.8k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
 
 ### Overview / Reddit
 
-*   [Dawn (⭐422)](https://github.com/Tunous/Dawn): Open-source Reddit app
+*   [Dawn (⭐435)](https://github.com/Tunous/Dawn): Open-source Reddit app
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-    *   Forked from Dank: [https://github.com/saket/Dank (⭐808)](https://github.com/saket/Dank)
+    *   Forked from Dank: [https://github.com/saket/Dank (⭐809)](https://github.com/saket/Dank)
 *   [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
     *   Official instance: <https://kddit.kalli.st>
     *   `[Proxy]`
 
 ### Overview / Reuters
 
-*   [Neuters (⭐25)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
-    *   Official instance: <https://boxcat.site>
+*   [Neuters (⭐34)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
+    *   Official instance: <https://neuters.de>
 
 ## [13. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [goblin (⭐48)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
+*   [goblin (⭐49)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 
 ## [14. GoBooks](/content/dariubs/GoBooks/README.md)
 

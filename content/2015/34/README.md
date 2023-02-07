@@ -162,7 +162,7 @@ This book teaches the fundamental concepts and tools behind reporting modern dat
 
 *   [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
 *   [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
-*   [MSGPACK (⭐6.3k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+*   [MSGPACK (⭐6.4k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Sites & Organizations / Scala
 
@@ -247,7 +247,7 @@ This is a less efficient version of the FallbackResource directive (because usin
 
 ### Native Apps (open source)
 
-*   [OpenTripPlanner Android (⭐128)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
+*   [OpenTripPlanner Android (⭐127)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 *   [OpenTripPlanner iOS (⭐65)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 
 ### Native Apps (closed source)
@@ -343,48 +343,48 @@ git add --all && git commit --amend --no-edit
 
 ## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 
-### Templates
+### Templates / Misc
 
 *   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-*   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
+*   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
 *   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐681)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐684)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
 *   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
-### Tools
+### Tools / Misc
 
 *   [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
 
-### Articles
+### Articles / Misc
 
 *   [Darylldoyle Gulp workflow (⭐166)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 
-### Resources
+### Resources / Misc
 
 *   [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
 *   [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 
-### Inspirations
+### Inspirations / Misc
 
 *   [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
 *   [Milled](http://milled.com/)
 *   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
 *   [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
-### Testing
+### Testing / Misc
 
 *   [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
-*   [Litmus](https://litmus.com/) - Test and track your emails with Litmus
+*   [Litmus](https://litmus.com/) - Test and track your emails with Litmus.
 *   [Campaign Monitor](https://www.campaignmonitor.com/testing/) - Test your design in all the different email client with Campaign Monitor.
 
-### Learning
+### Learning / Misc
 
 *   [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 *   [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
@@ -401,7 +401,7 @@ git add --all && git commit --amend --no-edit
 ### Compilers, Transpilers and Languages
 
 *   [ClojureCLR (⭐1.4k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
-*   [Mono-basic (⭐101)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+*   [Mono-basic (⭐100)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
 *   [Netjs (⭐944)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 
 ### Testing
@@ -645,7 +645,7 @@ git add --all && git commit --amend --no-edit
 
 ### Database
 
-*   [redis3m (⭐183)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
+*   [redis3m (⭐185)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
 
 ### Miscellaneous
 

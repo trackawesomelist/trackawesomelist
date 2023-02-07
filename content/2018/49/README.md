@@ -204,11 +204,11 @@
 
 ## [20. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Applications / Other / unknown licence
+### Applications / MIT
 
 *   [railway-simulation (⭐5)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [svd2ada (⭐53)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
@@ -227,7 +227,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐637)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐636)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ## [23. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -477,7 +477,7 @@
 
 ### Language Support
 
-*   [EcmaScript (⭐832)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
+*   [EcmaScript (⭐850)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
 
 ## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

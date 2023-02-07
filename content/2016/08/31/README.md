@@ -42,7 +42,7 @@
 
 ### Video
 
-*   [ffmpex (⭐190)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐191)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 

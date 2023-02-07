@@ -53,7 +53,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
 *   [Polkadot (⭐6.5k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
-*   [Substrate (⭐7.8k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Substrate (⭐7.9k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

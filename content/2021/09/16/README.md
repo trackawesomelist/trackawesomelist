@@ -10,7 +10,7 @@
 
 ### AppImage consumption tools / Package managers
 
-*   [AppMan (⭐30)](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
+*   [AppMan (⭐37)](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -132,13 +132,13 @@
 
 ### Audio
 
-*   [micropython-buzzer (⭐12)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
+*   [micropython-buzzer (⭐11)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
 
 ### Communications / APIs
 
 *   [micropython\_pushbullet (⭐2)](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
 *   [esp32-youtube-display (⭐15)](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
-*   [micropython-spotify-web-api (⭐9)](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
+*   [micropython-spotify-web-api (⭐10)](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
 
 ### Communications / Bluetooth
 
@@ -146,7 +146,7 @@
 
 ### Communications / Cryptography
 
-*   [ucryptoauthlib (⭐32)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure Python for MicroPython.
+*   [ucryptoauthlib (⭐33)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure Python for MicroPython.
 *   [micropython-cryptomsg (⭐2)](https://github.com/jacklinquan/micropython-cryptomsg) - A MicroPython module to encrypt and decrypt messages with AES CBC mode.
 
 ### Communications / FTP
@@ -159,7 +159,7 @@
 
 ### Communications / Radio
 
-*   [ESP32-433Mhz-Receiver-and-Tools (⭐4)](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433MHz receiver written in MicroPython and tools for Windows.
+*   [ESP32-433Mhz-Receiver-and-Tools (⭐5)](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433MHz receiver written in MicroPython and tools for Windows.
 
 ### Communications / Serial
 
@@ -167,11 +167,11 @@
 
 ### Communications / SOCKS
 
-*   [micropython-socks (⭐2)](https://github.com/kost/micropython-socks) - MicroPython library implementing SOCKS server.
+*   [micropython-socks (⭐3)](https://github.com/kost/micropython-socks) - MicroPython library implementing SOCKS server.
 
 ### Communications / WiFi
 
-*   [WiFiManager (⭐258)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+*   [WiFiManager (⭐263)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
 ### Display / LCD Character
 
@@ -185,17 +185,17 @@
 
 ### Display / LEDs
 
-*   [ws2812-SPI (⭐18)](https://github.com/nickovs/ws2812-SPI) - An efficient MicroPython WS2812 (NeoPixel) driver.
+*   [ws2812-SPI (⭐19)](https://github.com/nickovs/ws2812-SPI) - An efficient MicroPython WS2812 (NeoPixel) driver.
 *   [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - Tiny driver to control an RGB LED with PWM.
 
 ### IO / Keyboard
 
-*   [pico-rgbkeypad (⭐43)](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
-*   [micropython-aiobutton (⭐3)](https://github.com/jacklinquan/micropython-aiobutton) - A MicroPython module for asyncio button.
+*   [pico-rgbkeypad (⭐46)](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
+*   [micropython-aiobutton (⭐4)](https://github.com/jacklinquan/micropython-aiobutton) - A MicroPython module for asyncio button.
 
 ### IO / Shift Registers
 
-*   [micropython-74hc595 (⭐17)](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
+*   [micropython-74hc595 (⭐18)](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
 *   [MicroPython-SN74HCS264](https://gitlab.com/olivierlenoir/MicroPython-SN74HCS264) - MicroPython Driver for SN74HCS264 8-Bit Parallel-Out Serial Shift Registers With Schmitt-Trigger Inputs and Inverted Outputs.
 
 ### Motion / DC Motor
@@ -224,7 +224,7 @@
 
 ### Sensors / Motion Inertial
 
-*   [flight\_controller (⭐50)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
+*   [flight\_controller (⭐51)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 *   [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
 
 ### Sensors / Pressure
@@ -233,7 +233,7 @@
 
 ### Sensors / Proximity
 
-*   [uPy\_APDS9960 (⭐6)](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for ESP8266 using APDS9960.
+*   [uPy\_APDS9960 (⭐7)](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for ESP8266 using APDS9960.
 
 ### Sensors / Temperature Analog
 
@@ -270,11 +270,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-wasm-pack (⭐126)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐4.8k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-wasm-pack (⭐129)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐4.9k)](https://github.com/rustwasm/wasm-pack), the simple way.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require (⭐26)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
+*   [vite-plugin-require (⭐28)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
 
 ---
 

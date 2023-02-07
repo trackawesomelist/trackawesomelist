@@ -36,7 +36,7 @@
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [cubit (⭐70)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
@@ -118,7 +118,7 @@
 *   [Vue Mini Shop (⭐265)](https://github.com/BosNaufal/vue-mini-shop)
 *   [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
 *   [Ngexplorer-vuejs-client (⭐2)](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for `Ngexplorer`
-*   [Vue Simple PWA (⭐195)](https://github.com/BosNaufal/vue-simple-pwa)
+*   [Vue Simple PWA (⭐194)](https://github.com/BosNaufal/vue-simple-pwa)
 *   [Tour of Heroes (Vue 2.0) (⭐29)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue (⭐2)](https://github.com/revue/revue) (redux bindings for Vue), `vue-router`, [Airbnb eslint (⭐131k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
 *   [ngexplorer-quasar (⭐9)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework (⭐23k)](https://github.com/rstoenescu/quasar-framework)
 *   [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with `Phoenix Framework`, **Vue** and **Vue Router** ([***demo***](https://phoenix-vue-auth.herokuapp.com))
@@ -127,7 +127,7 @@
 *   [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp).
 *   [Chess Storybook Example (⭐13)](https://github.com/gustaYo/vue-chess-storybook) with Vue 2.0
 *   [X-Flowchart-Vue (⭐1.2k)](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue
-*   [X-WebDesktop-Vue (⭐387)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
+*   [X-WebDesktop-Vue (⭐388)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 *   [**PENV Starter**](https://github.com/jesalg/penv-starter) - A basic example of how to use VueJS, Express and PostgreSQL in conjunction.
 *   [Vue webpack typescript (⭐21)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
 
@@ -146,9 +146,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ads-table-tree (⭐122)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
+*   [vue-ads-table-tree (⭐124)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
 *   [@voerro/vue-notifications (⭐1)](https://github.com/voerro/vue-notifications) - Simple Vue.js 2 notifications plugin with HTML and styling support.
-*   [vue-popperjs (⭐428)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
+*   [vue-popperjs (⭐429)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
 
 ### Components & Libraries / Frameworks
 
@@ -162,18 +162,18 @@
 
 *   [@icare-jp/vue-props-type (⭐20)](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type.
 *   [zipkin-instrumentation-vue-resource (⭐8)](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for `vue-resource` that instruments outgoing HTTP requests with [Zipkin (⭐16k)](https://github.com/openzipkin/zipkin)
-*   [vue-i18n-service (⭐142)](https://github.com/f/vue-i18n-service) - Export and import `vue-i18n`'s SFC translations.
+*   [vue-i18n-service (⭐143)](https://github.com/f/vue-i18n-service) - Export and import `vue-i18n`'s SFC translations.
 *   [Vuenut (⭐307)](https://github.com/lusaxweb/vuenut) - is a component to develop faster and more fluently.
 
 ### Components & Libraries / Integrations
 
-*   [vue-telegram-login (⭐74)](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login)
+*   [vue-telegram-login (⭐75)](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login)
 *   [vue-telegram-passport (⭐5)](https://github.com/vchaptsev/vue-telegram-passport) - Vue Component for [Telegram Passport](https://telegram.org/blog/passport)
-*   [vue-yandex-metrika (⭐65)](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options
+*   [vue-yandex-metrika (⭐66)](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options
 
 ### Components & Libraries / Scaffold
 
-*   [Cookiecutter-Django-Vue (⭐551)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
+*   [Cookiecutter-Django-Vue (⭐554)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -709,9 +709,9 @@ Notes:
 
 ### Projects Using Vue.js / Open Source
 
-*   [Wiki.js (⭐19k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-*   [vue-speech-streaming (⭐65)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
-*   [My Animation List (⭐72)](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
+*   [Wiki.js (⭐20k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+*   [vue-speech-streaming (⭐66)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
+*   [My Animation List (⭐73)](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
 *   [vue-input-streaming (⭐24)](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
 
 ---

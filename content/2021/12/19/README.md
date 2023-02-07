@@ -82,7 +82,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐318)](https://github.com/novitae/sterraxcyl)
+*   [Sterra (⭐328)](https://github.com/novitae/sterraxcyl)
 
 ---
 

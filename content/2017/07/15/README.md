@@ -21,7 +21,7 @@
 
 ### Other Awesome Projects
 
-*   [awesome (⭐234k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐236k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐7.8k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
@@ -43,7 +43,7 @@
 
 ### Version Control / Git
 
-*   [git-secret (⭐3k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
+*   [git-secret (⭐3.1k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

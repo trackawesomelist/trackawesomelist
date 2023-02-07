@@ -187,7 +187,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐522)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐525)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -198,7 +198,7 @@
 
 ### Media
 
-*   [FFmpeg (⭐810)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐828)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 ## [17. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
@@ -286,7 +286,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐822)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐823)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
@@ -298,7 +298,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.6k)](https://github.com/Theano/Theano).
+*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
 
 ## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 

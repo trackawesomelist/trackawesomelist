@@ -28,7 +28,7 @@
 
 ### Search Engines
 
-*   [librengine (⭐36)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐39)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [saveourtool/diktat (⭐417)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
+*   [saveourtool/diktat (⭐422)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-easy-data-table (⭐231)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
+*   [vue3-easy-data-table (⭐247)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 
 ## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Libraries / Community
 
-*   [vavite (⭐220)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vavite (⭐227)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

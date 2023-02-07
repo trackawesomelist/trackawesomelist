@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2021
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
 ### Financial
 
-*   [Cassandre (⭐434)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
+*   [Cassandre (⭐448)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
 
 ### Machine Learning
 
@@ -42,11 +42,11 @@
 
 ### Testing / Miscellaneous
 
-*   [ConsoleCaptor (⭐15)](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
+*   [ConsoleCaptor (⭐19)](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
 
 ### Workflow Orchestration Engines / Mocking
 
-*   [flowable (⭐5.9k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐6k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -59,12 +59,6 @@
 ### Python / Computer Vision
 
 *   [computer-vision-in-action (⭐1.8k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
-
-## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-### VPN
-
-*   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 
 ---
 

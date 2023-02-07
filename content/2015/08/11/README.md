@@ -1,24 +1,18 @@
 # Awesome List Updates on Aug 11, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rest](/content/marmelab/awesome-rest/README.md)
-
-### Python / Symfony2
-
-*   [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
-
-## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [1. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [react-native (⭐106k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
-## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 
@@ -54,19 +48,19 @@
 *   [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 *   [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 
-## [4. Awesome Standard](/content/standard/awesome-standard/README.md)
+## [3. Awesome Standard](/content/standard/awesome-standard/README.md)
 
 ### forks
 
 *   **[obama](https://www.npmjs.com/package/obama)** - Move forward and standardize with Obama
 
-## [5. Amas](/content/sindresorhus/amas/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these organizations anything!
 
 *   [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
 
-## [6. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [5. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Articles
 
@@ -112,7 +106,7 @@ PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`.
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
-## [7. Tips](/content/git-tips/tips/README.md)
+## [6. Tips](/content/git-tips/tips/README.md)
 
 ## Before deleting untracked files/directory, do a dry run to get the list of these files/directories
 

@@ -97,11 +97,11 @@
 
 ### Audio Libraries
 
-*   [mxml (⭐20)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
+*   [mxml (⭐19)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 
 ### Music Notation
 
-*   [MusicKit (⭐110)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -329,7 +329,7 @@ git log --first-parent
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dora (⭐599)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
+*   [Dora (⭐600)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 *   [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 
 ## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)

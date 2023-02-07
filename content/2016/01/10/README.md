@@ -70,7 +70,6 @@
 
 ### PaaS
 
-*   [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
 *   [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
 
 ### BaaS

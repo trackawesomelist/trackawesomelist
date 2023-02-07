@@ -147,12 +147,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [coya (⭐44)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
+*   [coya (⭐45)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 ### Components & Libraries / Frameworks
 
-*   [Inkline (⭐1.1k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐155)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Inkline (⭐1.2k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐159)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 ---
 

@@ -30,7 +30,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-datepicker2 (⭐224)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
+*   [react-datepicker2 (⭐225)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
 
 ## [4. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 
@@ -178,7 +178,6 @@
 *   [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
 *   [circleci.com](https://circleci.com/) — Free for one concurrent build
 *   [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
-*   [ligurio/awesome-ci (⭐3.1k)](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
 
 ### Testing
 
@@ -340,7 +339,7 @@
 *   [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
 *   [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
 *   [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
-*   [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too.
+*   [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too. Free plan has unlimited private diagrams for single user.
 *   [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
 *   [GraphQL Inspector](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector ouputs a list of changes between two GraphQL schemas. Every change is precisely explained and marked as breaking, non-breaking or dangerous.
 *   [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
@@ -351,11 +350,10 @@
 *   [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
 *   [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
 *   [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams up to 10
-*   [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams
+*   [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams. Free plan has: 1 workspace with unlimited tasks and projects; 1GB file storage; 1 week project history; 5 attendees per video meeting.
 *   [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
-*   [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free, Premium and Team plans are available. Discounts provided for eligible users.
+*   [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free plan has: 5 active projects, 5 users in project, file uploading up to 5MB, 3 filters, 1 week activity history.
 *   [trello.com](https://trello.com/) — Board-based project management. Unlimited Personal Boards, 10 Team Boards.
-*   [vivifyscrum.com](https://www.vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
 *   [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
 
 ### Storage and Media Processing
@@ -397,7 +395,6 @@
 ### Data Visualization on Maps
 
 *   [carto.com](https://carto.com/) — Create maps and geospatial APIs from your data and public data.
-*   [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data.
 *   [graphhopper.com](https://www.graphhopper.com/) A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching.
 *   [here](https://developer.here.com/) — APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
 *   [opencagedata.com](https://opencagedata.com) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day.

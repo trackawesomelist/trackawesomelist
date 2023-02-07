@@ -38,7 +38,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [google-drive-upload (⭐605)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+*   [google-drive-upload (⭐628)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ## [6. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 

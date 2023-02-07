@@ -17,18 +17,18 @@
 
 ### C
 
-*   [Libasyncd (⭐165)](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
+*   [Libasyncd (⭐168)](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
 *   [Onion (⭐1.9k)](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and web applications.
 
 ### C++
 
-*   [Pion (⭐294)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
+*   [Pion (⭐292)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [pgmpy (⭐2.2k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
+*   [pgmpy (⭐2.3k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

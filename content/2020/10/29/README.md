@@ -20,7 +20,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐460)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐468)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐77)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐82)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [7. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 

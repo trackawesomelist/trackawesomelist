@@ -127,7 +127,7 @@
 
 ### Bindings
 
-*   [vulkan (⭐122)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
+*   [vulkan (⭐124)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -139,7 +139,7 @@
 
 ### External Services
 
-*   [steam-box (⭐126)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐127)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -317,7 +317,7 @@
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐46)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐48)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ---
 

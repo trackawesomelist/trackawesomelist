@@ -763,7 +763,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐653)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐657)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -793,7 +793,7 @@
 ### Testing
 
 *   [apocryphal (⭐16)](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
-*   [ex\_parameterized (⭐25)](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
+*   [ex\_parameterized (⭐26)](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 
 ### Text and Numbers
 

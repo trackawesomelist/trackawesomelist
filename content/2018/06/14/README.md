@@ -49,7 +49,7 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime documentation (⭐373)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐373)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
+*   [GTFS-realtime documentation (⭐394)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐394)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

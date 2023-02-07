@@ -38,10 +38,6 @@
 
 *   [Next Routes (⭐2.4k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 
-### Apps
-
-*   [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
-
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Search engine and framework
@@ -66,7 +62,7 @@
 
 ### Messaging / Scala
 
-*   [RocketMQ (⭐18k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
+*   [RocketMQ (⭐19k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 
 ### Storage / Scala
 
@@ -74,7 +70,7 @@
 *   [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 *   [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
 *   [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
-*   [InfluxDB (⭐24k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+*   [InfluxDB (⭐25k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 *   [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 *   [Voldemort (⭐2.6k)](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
 
@@ -92,7 +88,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐323)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐324)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 
 ## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

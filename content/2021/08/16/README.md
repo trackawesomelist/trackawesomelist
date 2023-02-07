@@ -10,7 +10,7 @@
 
 ### Gaming
 
-*   [Godot (⭐4k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+*   [Godot (⭐4.1k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -63,11 +63,11 @@
 
 ### Applications / Cryptocurrencies
 
-*   [interBTC (⭐192)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [interBTC (⭐195)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐110)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐111)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -129,24 +129,27 @@
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called Qubes.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 
-### VPN
+### Clearnet & Anonymous Networking / Wireguard
 
-*   [How To make a VPN Gateway in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
-*   [WireGuard (⭐201)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
+*   [WireGuard (⭐205)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
-### Videos
+### Clearnet & Anonymous Networking / OpenVPN
+
+*   [How To make a VPN Gateway in Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+
+### Optics and Extra Info / OpenVPN
 
 *   [3mdeb](https://3mdeb.com/)
-*   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
 *   [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
+*   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
 
-### Social media / Web articles
+### Social media / OpenVPN
 
-*   [Discord](https://discord.gg/YMUbTt7ZRG)
-*   [Facebook](https://www.facebook.com/QubesOS/)
-*   [LinkedIn](https://www.linkedin.com/company/qubes-os/)
-*   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
-*   [Twitter](https://twitter.com/QubesOS)
+*   [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
+*   [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
+*   [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
+*   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - General Qubes OS matrix room
+*   [Twitter](https://twitter.com/QubesOS) - Qubes OS Twitter account
 
 ---
 

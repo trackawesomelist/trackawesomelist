@@ -16,7 +16,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-readline (⭐36)](https://github.com/vindarel/cl-readline) - a set of
+*   [cl-readline (⭐35)](https://github.com/vindarel/cl-readline) - a set of
     functions to edit lines as they are typed in, to maintain a list of
     previously-entered command lines, to recall and reedit them and
     perform csh-like history expansion.  Emacs and vi editing
@@ -73,7 +73,7 @@
 
 ### Examples and funny stuff
 
-*   [crystal-patterns (⭐280)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
+*   [crystal-patterns (⭐279)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
 
 ## [11. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 

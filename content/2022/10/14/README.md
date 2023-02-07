@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [ironclad](https://nongnu.org/ironclad) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐22)](https://github.com/streaksu/Gloire).
 
@@ -16,7 +16,7 @@
 
 ### Templates / Godot 3.5+
 
-*   [bendn's Godot Template (⭐5)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐2)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
+*   [bendn's Godot Template (⭐9)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐3)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
 
 ### Unofficial Godot builds / Godot version unknown
 
@@ -24,8 +24,8 @@
 
 ### Other / Godot version unknown
 
-*   [godot-actions (⭐7)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
-*   [Godot Package Manager (⭐2)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
+*   [godot-actions (⭐9)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
+*   [Godot Package Manager (⭐3)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -56,8 +56,8 @@
 
 ### Media / Diagnostics
 
-*   [samodostal/image.nvim (⭐77)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
-*   [adelarsq/image\_preview.nvim (⭐32)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
+*   [samodostal/image.nvim (⭐85)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
+*   [adelarsq/image\_preview.nvim (⭐40)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 
 ### Game / Diagnostics
 
@@ -100,7 +100,7 @@
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐149)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐151)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
 ## [13. GoBooks](/content/dariubs/GoBooks/README.md)
 

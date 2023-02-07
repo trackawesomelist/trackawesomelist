@@ -62,7 +62,7 @@
 
 ### Algorithms and Data structures
 
-*   [graphlb (⭐19)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
+*   [graphlb (⭐20)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

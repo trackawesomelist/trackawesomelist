@@ -135,7 +135,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Hauk (⭐446)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐446)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
+*   [Hauk (⭐449)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐449)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 
 ## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -154,11 +154,11 @@
 
 ### Table
 
-*   [rsuite-table (⭐616)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
+*   [rsuite-table (⭐617)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 
 ### Chart
 
-*   [react-chartjs-2 (⭐5.6k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
+*   [react-chartjs-2 (⭐5.7k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 
 ## [23. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -347,7 +347,7 @@
 
 ### CMS & Blogs
 
-*   [KikCMS (⭐51)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
+*   [KikCMS (⭐53)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 
 ### ODM
 
@@ -440,7 +440,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐145)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐153)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [42. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -519,7 +519,7 @@
 
 ## [47. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [yass (⭐21)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 

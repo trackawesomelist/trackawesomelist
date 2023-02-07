@@ -154,7 +154,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [tmux (⭐27k)](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
+*   [tmux (⭐28k)](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
 
 ### Communication / File Sharing
 
@@ -197,25 +197,31 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) – Transitioning from Vapor 2 to Vapor 3 with a real world project.
 
-## [19. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Backups
+
+*   [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
+
+## [20. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Maintainers / Chinese
 
 *   [@ZYSzys](https://github.com/ZYSzys)
 
-## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Online / Playground
 
 *   [TypeScript playground](https://agentcooper.github.io/typescript-play/) by @agentcooper, supports multiple TS versions and compiler targets
 
-## [21. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [22. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
 *   [aioinflux (⭐159)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 
-## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [23. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
@@ -225,7 +231,7 @@
 *   [Raw Vulkan](https://alain.xyz/blog/raw-vulkan) - Overview on how to program a Vulkan application from the ground up.
 *   [Tutorial by Overv](https://vulkan-tutorial.com/) and [its github repository (⭐2.4k)](https://github.com/Overv/VulkanTutorial). \[CC BY-SA 4.0]
 
-## [23. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [24. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Data Management
 
@@ -244,25 +250,15 @@
     *   [Flume UDP Source (⭐8)](https://github.com/whitepages/flume-udp-source)
     *   [.Net FlumeNG Clients (⭐17)](https://github.com/marksl/DotNetFlumeNG.Clients)
 
-## [24. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   10words - <https://10words.io>
 
-## [25. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Software / Backups
-
-*   [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
-
-### Software / Monitoring
-
-*   [ElastiFlow (⭐2.4k)](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
-
 ## [26. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services
+### Services / Misc
 
 *   [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 
@@ -292,7 +288,7 @@
 
 ### Go / Erlang
 
-*   [go-api-boilerplate (⭐678)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
+*   [go-api-boilerplate (⭐705)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 
 ## [31. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
@@ -346,7 +342,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [V·oogle (⭐42)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
+*   [V·oogle (⭐41)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
 
 ## [36. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -394,8 +390,8 @@
 
 ### Contents / Tools
 
-*   [PICO-EC (⭐40)](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
-*   [PICO-Tween (⭐65)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
+*   [PICO-EC (⭐41)](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
+*   [PICO-Tween (⭐66)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 *   [p8 (⭐39)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 
 ## [41. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
@@ -476,11 +472,11 @@
 
 ### Concurrency
 
-*   [Intel Parallel STL (⭐647)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
+*   [Intel Parallel STL (⭐652)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
 
 ### Containers
 
-*   [ring\_span lite (⭐127)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
+*   [ring\_span lite (⭐129)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
 
 ---
 

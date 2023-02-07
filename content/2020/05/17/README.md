@@ -82,13 +82,13 @@
 
 ### Programming Languages
 
-*   [Python (⭐153k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-    *   [Asyncio (⭐3.8k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
+*   [Python (⭐155k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+    *   [Asyncio (⭐3.9k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐514)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [CircuitPython (⭐516)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
     *   [Data Science (⭐1.7k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-    *   [Typing (⭐1.2k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐779)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [Typing (⭐1.3k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
+    *   [MicroPython (⭐798)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
 ## [12. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
@@ -112,14 +112,13 @@
 
 ### Storage / Database
 
-*   [uPyMySQL (⭐15)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
+*   [uPyMySQL (⭐16)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 *   [micropython-redis (⭐19)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 *   [picoredis (⭐7)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 *   [micropg (⭐15)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 
 ### Community / SRAM
 
-*   [Slack](https://slack-micropython.herokuapp.com/) - Get an automated invite to the micropython.slack.com workspace.
 *   [MicroPython on Facebook](https://www.facebook.com/micropython) - Like MicroPython on Facebook for competitions, news and updates.
 *   [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) - Regular meetup at CCHS in Melbourne, Australia.
 

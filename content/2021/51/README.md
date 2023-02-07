@@ -477,7 +477,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐116)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐35k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐120)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐35k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -492,22 +492,15 @@
 
 ### Websites
 
-*   [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - Tame your Outlook with these tips in order to get a little bit closer to the awesome *Inbox Zero*.
-*   [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
-*   [Inbox Zero](http://www.43folders.com/izero) - Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
-*   [Lifehacker](http://lifehacker.com/) - The go-to blog for tips, tricks, and downloads for getting things done.
 *   [Pomodoro Technique](http://pomodorotechnique.com/) - Slice your tasks in 25 minute packages and get more done in less time.
 *   [r/Productivity](https://www.reddit.com/r/productivity/) - Productivity subreddit.
-*   [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - A little trick that has been keeping my desktop clean for years now.
 *   [ShortLib](https://shortlib.netlify.app/) - Collection of hundreds of shortcuts for Windows, Mac and Linux.
-*   [The Bullet Journal](http://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 *   [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
 
 ### Books
 
 *   [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - Deep work is the ability to focus without distraction on a cognitively demanding task.
 *   [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035\&cat=3\&page) - A very simple and efficient time-management method.
-*   [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ### Tools and Apps / File Management
 
@@ -520,7 +513,6 @@
 ### Tools and Apps / Note Management
 
 *   [Evernote](https://evernote.com/) - Evernote can basically become your second brain and remember everything for you.
-*   [Google Keep](http://www.google.com/keep/) - A nice and simple note management system tightly integrated with Google products.
 *   [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 *   [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 *   [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
@@ -533,7 +525,6 @@
 
 *   [Airtable](https://airtable.com/) - Mix of spreadsheet and database to help organize work.
 *   [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
-*   [Any.do](http://www.any.do/) - Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
 *   [GitHub Projects](https://github.com/features/project-management/) - A lesser known feature of GitHub, makes it easy to tie your project management process to your code.
 *   [Hitask](https://hitask.com) - Easy Project and Task Management for Teams.
 *   [KanbanFlow](https://kanbanflow.com) - Kanban method task board with Pomodoro technique.
@@ -541,12 +532,11 @@
 *   [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
 *   [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 *   [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
-*   [Taskwarrior](http://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 *   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐643)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐648)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
@@ -559,12 +549,7 @@
 
 *   [Awesome AutoHotKey (⭐2.2k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 *   [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called *recipes*) between web services in order to make the web work for you and boost your productivity.
-*   [Tasker](http://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (*e.g.* automatically turn on wifi when you arrive home).
 *   [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
-
-### Tools and Apps / Knowledge Management
-
-*   [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
 
 ### Tools and Apps / Screen Capture
 
@@ -667,13 +652,13 @@
 
 *   [Debanding Material Shader (⭐22)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
 *   [Dijkstra map for Godot (⭐60)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
-*   [Discord.gd (⭐88)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
+*   [Discord.gd (⭐90)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
 ## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
-*   [Relayboard Control (⭐2)](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
+*   [Relayboard Control (⭐3)](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
 
 ## [22. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -884,7 +869,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐69)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [33. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
@@ -919,14 +904,14 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐313)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐320)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [darkredz/Zeko-SQL-Builder (⭐86)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
-*   [TouK/krush (⭐232)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
+*   [darkredz/Zeko-SQL-Builder (⭐87)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
+*   [TouK/krush (⭐236)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
 
 ### Libraries/Frameworks / Misc
 
@@ -952,7 +937,7 @@
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐45)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐47)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [41. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -982,7 +967,7 @@
 
 ### Logging
 
-*   [ULogViewer (⭐81)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐82)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ## [44. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -1028,7 +1013,7 @@
 
 *   [cargo-flash](https://probe.rs/docs/tools/cargo-flash/) A small cargo subcommand to download your binary to your target chip. - ![crates.io](https://img.shields.io/crates/v/cargo-flash.svg)
 *   [cargo-embed](https://probe.rs/docs/tools/cargo-embed/) A superset of cargo-flash with additional useful features like configuration file support, a RTT terminal or a GDB server. - ![crates.io](https://img.shields.io/crates/v/cargo-embed.svg)
-*   [Embassy start (⭐17)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐1.4k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐20)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐1.5k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ### Real-time / Real-time Operating System (RTOS)
 
@@ -1064,108 +1049,100 @@
 ### Call to Action
 
 *   Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-*   Just create an [issue (⭐2.9k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+*   Just create an [issue (⭐3.4k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
 
 ### Overview / YouTube
 
-*   [Invidious (⭐8.6k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
+*   [Invidious (⭐9.3k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
     *   Home page: <https://invidious.io>
-    *   Invidious instances: [https://github.com/iv-org/documentation/blob/master/docs/instances.md (⭐177)](https://github.com/iv-org/documentation/blob/master/docs/instances.md)
+    *   Invidious instances: <https://docs.invidious.io/instances/>
     *   Invidious instances API: <https://api.invidious.io>
-    *   Installation guide for self-hosting: <https://docs.invidious.io/Installation.md>
+    *   Installation guide for self-hosting: <https://docs.invidious.io/installation/>
 *   [CloudTube](https://git.sr.ht/\~cadence/cloudtube): Alternative front-end for Invidious
     *   Official instance: <https://tube.cadence.moe>
     *   Installation guide for self-hosting: <https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md>
-*   [FreeTube (⭐6k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
-*   [Invuedious (⭐24)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
+*   [FreeTube (⭐6.7k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+*   [Invuedious (⭐30)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
     *   Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
-*   [TubeSync (⭐808)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
-*   [TubeArchivist (⭐1.8k)](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
-*   [ytfzf (⭐2.8k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
+*   [TubeSync (⭐959)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+*   [TubeArchivist (⭐2.2k)](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
+*   [ytfzf (⭐3k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
 ### Overview / Reddit
 
 *   [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
     *   Official instance: <https://teddit.net>
-    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐167)](https://github.com/teddit-net/teddit#instances)
-    *   [Github mirror repository (⭐167)](https://github.com/teddit-net/teddit)
+    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐181)](https://github.com/teddit-net/teddit#instances)
+    *   [Github mirror repository (⭐181)](https://github.com/teddit-net/teddit)
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
-*   [Libreddit (⭐3.6k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-    *   Official instance: [libredd.it](https://libredd.it)
-    *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐3.6k)](https://github.com/spikecodes/libreddit#instances)
+*   [Libreddit (⭐4.1k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+    *   Official instance: [libreddit.spike.codes](https://libreddit.spike.codes)
+    *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐4.1k)](https://github.com/spikecodes/libreddit#instances)
 *   [Xeddit (⭐10)](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
     *   Official instance: [xeddit.com](https://www.xeddit.com)
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
 *   [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
-*   [Infinity (⭐2.3k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
+*   [Infinity (⭐2.7k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 *   [Slide (⭐1.7k)](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
 
-### Overview / Instagram
-
-*   [Bibliogram](https://sr.ht/\~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
-    *   Unfortunately, Bibliogram is being discontinued. See <https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram>
-    *   Official instance: <https://bibliogram.art>
-    *   Public instances: <https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md>
-    *   Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
-
 ### Overview / Spotify
 
-*   [Spotiqueue (⭐73)](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
-*   [spot (⭐1.6k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
+*   [Spotiqueue (⭐75)](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
+*   [spot (⭐1.7k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
 
 ### Overview / Google Search
 
-*   [Whoogle Search (⭐6.4k)](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
-    *   Public instances: [https://github.com/benbusby/whoogle-search#public-instances (⭐6.4k)](https://github.com/benbusby/whoogle-search#public-instances)
+*   [Whoogle Search (⭐7k)](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
+    *   Public instances: [https://github.com/benbusby/whoogle-search#public-instances (⭐7k)](https://github.com/benbusby/whoogle-search#public-instances)
 
 ### Overview / Google Translate
 
-*   [Lingva Translate (⭐738)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+*   [Lingva Translate (⭐964)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
     *   Official instance: [lingva.ml](https://lingva.ml)
-    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐738)](https://github.com/TheDavidDelta/lingva-translate#instances)
+    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐964)](https://github.com/TheDavidDelta/lingva-translate#instances)
 *   [SimplyTranslate](https://sr.ht/\~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
     *   Official instance: [simplytranslate.org](https://simplytranslate.org)
     *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
-*   [SimplyTranslate Mobile (⭐89)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
+*   [SimplyTranslate Mobile (⭐106)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
 *   [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
-*   [DeepL Android (⭐268)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+*   [DeepL Android (⭐292)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
 ### Overview / Facebook
 
-*   [SlimSocial (⭐239)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
-*   [Frost (⭐870)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+*   [SlimSocial (⭐244)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
+*   [Frost (⭐915)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Overview / Apple AirPlay
 
-*   [RPiPlay (⭐4.4k)](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
-*   [air-pi-play (⭐1.3k)](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
+*   [RPiPlay (⭐4.5k)](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
+*   [air-pi-play (⭐1.4k)](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 
 ### Overview / Hacker News
 
 *   [Hackerweb (⭐1.2k)](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
     *   Official instance: <https://hackerweb.app>
     *   About Hackerweb: <https://hackerwebapp.com>
-*   [Hckrnws (⭐37)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
+*   [Hckrnws (⭐50)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
     *   Official instance: <https://www.hckrnws.com>
 
 ### Overview / Other services
 
-*   [vaultwarden (⭐19k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-*   [snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
-*   [hedgedoc (⭐3.3k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
-*   [etherpad-lite (⭐13k)](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
-*   [gitea (⭐33k)](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
+*   [vaultwarden (⭐22k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [snapdrop (⭐15k)](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
+*   [hedgedoc (⭐3.6k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
+*   [etherpad-lite (⭐14k)](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
+*   [gitea (⭐34k)](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
 
 ### Redirection / Other services
 
-*   [Farside (⭐291)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
-*   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
+*   [Farside (⭐355)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
+*   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
 
 ### Related projects / Other services
 
@@ -1175,7 +1152,7 @@
 
 ### Typescript Project Starters
 
-*   :octocat: [samchon/backend (⭐533)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐457)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐182)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
+*   :octocat: [samchon/backend (⭐542)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐488)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐186)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
 
 ## [52. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 

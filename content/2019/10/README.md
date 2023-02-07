@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 11 - Mar 17, 2019
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -420,11 +420,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Trilium Notes (⭐19k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
-
-### List of Licenses / Wikis
-
-*   `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
+*   [Trilium Notes (⭐20k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
 
 ## [23. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -433,7 +429,7 @@
 *   [Bongo (⭐481)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐60)](https://github.com/icza/minquery) - MongoDB cursor that paginates
-*   [mongo-go-driver (⭐7.1k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
+*   [mongo-go-driver (⭐7.2k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Libraries / Java
 
@@ -544,19 +540,7 @@
 
 *   [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 
-## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
-
-### Youtube Series
-
-*   [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?view=1\&sort=da\&flow=grid)
-*   [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-*   [NPTEL](https://www.youtube.com/watch?v=VVYLpmKRfQ8\&list=PL6C92B335BD4238AB)
-*   [Prof. Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo\&list=PL5102DFDC6790F3D0)
-*   [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk\&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-*   [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw\&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-*   [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0\&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-
-## [36. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [35. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Boy Color / Opcodes
 
@@ -576,19 +560,19 @@
 
 *   [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) - How to algorithmically decode Game Boy instructions (as opposed to writing one huge switch-case statement).
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Pixelfed (⭐3.9k)](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
 
-## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Microsoft Recommenders (⭐15k)](https://github.com/Microsoft/Recommenders): Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Email
 
@@ -598,13 +582,13 @@
 
 *   [transfer\_more](https://git.sceptique.eu/Sceptique/transfer_more) - Clone of transfer.sh to uploads files
 
-## [40. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [39. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Women Make](https://womenmake.com/) - A community where women are in the forefront.
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -649,7 +633,7 @@
 
 ### Git Tools
 
-*   [GitExtensions (⭐6.7k)](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. <https://gitextensions.github.io/>
+*   [GitExtensions (⭐6.8k)](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. <https://gitextensions.github.io/>
 
 ### Graphics
 
@@ -704,11 +688,11 @@
 
 *   [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
-*   [miniz (⭐1.6k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
+*   [miniz (⭐1.7k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
 
 ### Containers
 
@@ -727,7 +711,7 @@
 *   [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 *   [foonathan::blog()](https://foonathan.net/index.html)
 
-## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Code check/review, debug
 
@@ -737,7 +721,7 @@
 *   [delphiunitsizes (⭐13)](https://github.com/VilleKrumlinde/delphiunitsizes). `[Delphi]` Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
 *   [MapFileStats](https://www.delphitools.info/other-tools/mapfilestats). `[Delphi]` Tool that provides simple binary size statistics from .MAP files (any Delphi version up to at least Delphi XE5).
 
-## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Third party Guides
 
@@ -751,7 +735,7 @@
 
 *   [Doric Design System Foundation (⭐94)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
-## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Sliders
 
@@ -777,13 +761,13 @@
 
 *   [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 
-## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Related
 
 *   [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 
-## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -821,7 +805,7 @@
 
 *   [Decidim (⭐1.2k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
-## [48. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [47. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -831,7 +815,7 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
-## [49. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [48. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Build Tools
 
@@ -877,7 +861,7 @@
 
 *   [Seed Docker image](https://hub.docker.com/r/tindzk/seed/tags) - Docker image for cross-platform builds with [Seed (⭐237)](https://github.com/tindzk/seed).
 
-## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -899,7 +883,7 @@
 
 *   [NWebsec (⭐509)](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET <http://www.nwebsec.com>.
 
-## [51. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [50. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Style
 
@@ -910,13 +894,13 @@
 
 *   [Jasmine (⭐94)](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
 
-## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Static Analysis / Linting
 
@@ -931,13 +915,13 @@
 *   [Trigger multiple GitLab CI Pipeline (⭐60)](https://github.com/appleboy/gitlab-ci-action)
 *   [Trigger multiple Jenkins Jobs (⭐78)](https://github.com/appleboy/jenkins-action)
 
-## [54. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [53. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Games
 
 *   [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 
-## [55. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [54. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -946,28 +930,28 @@
 *   [I Can't Do It All: My Burnout Story](https://dev.to/molly_struve/i-cant-do-it-all-my-burnout-story-1e54) - By Molly Struve.
 *   [My Mental Health Toolbelt](https://medium.com/@taylorotwell/my-mental-health-toolbelt-9b9fdd4ae149) - By Taylor Otwell.
 
-## [56. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [55. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment
 
-*   [newsboat (⭐2.2k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
+*   [newsboat (⭐2.3k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Development / Devops
 
-*   [htconvert (⭐178)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+*   [htconvert (⭐180)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 
 ### Development / Release
 
-*   [release-it (⭐5.7k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [np (⭐6.8k)](https://github.com/sindresorhus/np) - A better `npm publish`.
+*   [release-it (⭐6.1k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [np (⭐7k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 
 ### Development / Npm
 
-*   [npm-name-cli (⭐270)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [npm-user-cli (⭐27)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
-*   [npm-home (⭐179)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
-*   [pkg-dir-cli (⭐20)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-*   [npm-check-updates (⭐7.6k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
+*   [npm-name-cli (⭐271)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [npm-user-cli (⭐28)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
+*   [npm-home (⭐182)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+*   [pkg-dir-cli (⭐21)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
+*   [npm-check-updates (⭐7.9k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ### Productivity / HTTP Client
 
@@ -975,17 +959,17 @@
 
 ### Utilities / Network Utilities
 
-*   [get-port-cli (⭐125)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
-*   [is-reachable-cli (⭐20)](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
+*   [get-port-cli (⭐129)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
+*   [is-reachable-cli (⭐22)](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
 
 ### Utilities / Theming and Customization
 
 *   [wallpaper-cli (⭐152)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
-*   [themer (⭐4.9k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+*   [themer (⭐5k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 
 ### Data Manipulation / JSON
 
-*   [fx (⭐15k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+*   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 *   [vj (⭐68)](https://github.com/busyloop/vj) - Makes JSON human readable.
 
 ### Data Manipulation / Text
@@ -998,22 +982,22 @@
 
 ### Files and Directories / Search
 
-*   [fselect (⭐3.3k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [fselect (⭐3.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 
 ### Just for Fun / Image Conversion
 
-*   [cowsay (⭐284)](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
-*   [quote-cli (⭐68)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-*   [fortune (⭐261)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
+*   [cowsay (⭐298)](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
+*   [quote-cli (⭐72)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
+*   [fortune (⭐287)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 *   [ponysay (⭐1.1k)](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-*   [yosay (⭐198)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
-*   [lolcat (⭐5.2k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+*   [yosay (⭐200)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+*   [lolcat (⭐5.4k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 
 ### Just for Fun / Emoji
 
-*   [emoj (⭐2.2k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-*   [emoji-finder (⭐19)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-*   [oji (⭐693)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+*   [emoj (⭐2.3k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+*   [emoji-finder (⭐23)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
+*   [oji (⭐696)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ---
 

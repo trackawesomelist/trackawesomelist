@@ -26,7 +26,7 @@
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐492)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐499)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [3. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐435)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐438)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -67,7 +67,7 @@
 
 ### i18n / Third-party APIs
 
-*   [enchant (⭐15)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
+*   [enchant (⭐16)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

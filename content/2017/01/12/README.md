@@ -54,7 +54,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### CSV
 
-*   [nimble\_csv (⭐678)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+*   [nimble\_csv (⭐681)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -66,7 +66,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### Third-party APIs
 
-*   [awscr-signer (⭐18)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
+*   [awscr-signer (⭐20)](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
 
 ## [8. Awesome Standard](/content/standard/awesome-standard/README.md)
 

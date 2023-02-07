@@ -24,7 +24,7 @@
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
 *   [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
 
@@ -60,12 +60,12 @@
 
 ### Utilities / Theming and Customization
 
-*   [QuickWall (⭐182)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+*   [QuickWall (⭐180)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐57)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐154)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐60)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐161)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -134,7 +134,7 @@
 
 ### RESTful
 
-*   [REST API (⭐81)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐83)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -155,7 +155,7 @@
 ### Python / Reinforcement Learning
 
 *   [garage (⭐1.6k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐816)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [metaworld (⭐838)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

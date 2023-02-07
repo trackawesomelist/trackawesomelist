@@ -55,7 +55,7 @@
 
 *   [ueberauth (⭐1.4k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
 *   [ueberauth\_facebook (⭐74)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
-*   [ueberauth\_github (⭐95)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
+*   [ueberauth\_github (⭐96)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
 *   [ueberauth\_google (⭐145)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
 *   [ueberauth\_identity (⭐78)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 *   [ueberauth\_slack (⭐23)](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
@@ -66,7 +66,7 @@
 
 ### Utilities
 
-*   [crutches (⭐125)](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
+*   [crutches (⭐124)](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
 *   [erlsh (⭐62)](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)

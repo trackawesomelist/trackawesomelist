@@ -120,11 +120,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [goro (⭐351)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
+*   [goro (⭐353)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐307)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐308)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ---
 

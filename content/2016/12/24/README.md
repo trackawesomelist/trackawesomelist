@@ -99,7 +99,7 @@
 
 ### Debug
 
-*   [backward-cpp (⭐2.8k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
+*   [backward-cpp (⭐2.9k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
 
 ## [6. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 

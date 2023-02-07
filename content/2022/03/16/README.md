@@ -10,7 +10,7 @@
 
 ### Development tools / Web Servers
 
-*   [comtrya (⭐272)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
+*   [comtrya (⭐282)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐312)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐331)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -69,7 +69,7 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐45)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
+*   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐46)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
 
 ## [9. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -314,7 +314,7 @@
 
 ### Form Components / Rich Text Editor
 
-*   [react-simple-code-editor (⭐1.2k)](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
+*   [react-simple-code-editor (⭐1.3k)](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

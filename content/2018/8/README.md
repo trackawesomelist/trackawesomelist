@@ -657,7 +657,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐262)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐269)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### JSON
 
@@ -675,7 +675,13 @@
 
 *   [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
 
-## [40. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Debug
+
+*   [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
+
+## [41. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Books
 
@@ -685,21 +691,11 @@
 
 *   [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
 
-## [41. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [42. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [modern-cmake-sample (⭐581)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
-
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
-
-### Debug
-
-*   [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
-
-### Other Awesome Projects
-
-*   [C++ Awesome Pack (⭐171)](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
 
 ## [43. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -733,8 +729,8 @@
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.1k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust [![build badge](https://api.travis-ci.org/kkawakam/rustyline.svg?branch=master)](https://travis-ci.org/kkawakam/rustyline)
-    *   [MovingtoMars/liner (⭐71)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality [![build badge](https://api.travis-ci.org/MovingtoMars/liner.svg?branch=master)](https://travis-ci.org/MovingtoMars/liner)
+    *   [kkawakam/rustyline (⭐1.2k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust [![build badge](https://api.travis-ci.org/kkawakam/rustyline.svg?branch=master)](https://travis-ci.org/kkawakam/rustyline)
+    *   [MovingtoMars/liner (⭐72)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality [![build badge](https://api.travis-ci.org/MovingtoMars/liner.svg?branch=master)](https://travis-ci.org/MovingtoMars/liner)
     *   [murarth/linefeed (⭐176)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader [![build badge](https://api.travis-ci.org/murarth/linefeed.svg?branch=master)](https://travis-ci.org/murarth/linefeed)
     *   [srijs/rust-copperline (⭐25)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
 
@@ -770,7 +766,7 @@
 
 ### Samples
 
-*   Sascha Willems's [Vulkan-glTF-PBR (⭐657)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
+*   Sascha Willems's [Vulkan-glTF-PBR (⭐671)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
 ## [51. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 

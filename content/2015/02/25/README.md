@@ -41,7 +41,7 @@
 
 *   [edgarex (⭐1)](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
 *   [everex (⭐10)](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
-*   [pusher (⭐20)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
+*   [pusher (⭐22)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 
 ## [2. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
 

@@ -65,10 +65,6 @@
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
-### Office
-
-*   [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
-
 ### Multimedia
 
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.

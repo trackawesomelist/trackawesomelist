@@ -117,7 +117,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Talks
 
-*   [Phanbook (⭐302)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+*   [Phanbook (⭐303)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 
 ### Conferences / Communities
 
@@ -135,7 +135,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Boilerplates
 
-*   [next-starter (⭐25)](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in.
+*   [next-starter (⭐26)](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in.
 
 ## [12. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -147,7 +147,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Tools / Playground
 
-*   [typed-install (⭐96)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -281,7 +281,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Visualizations
 
-*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐334)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐341)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
 ## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -357,7 +357,7 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐332)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐333)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 
@@ -410,7 +410,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Game Engine
 
-*   [EnTT (⭐7.6k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐7.7k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 

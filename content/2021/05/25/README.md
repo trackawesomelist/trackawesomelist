@@ -51,7 +51,7 @@
 
 ## [7. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Articles
+### Articles / Platform-specific tools
 
 *   [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
 
@@ -65,17 +65,17 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/assimp (⭐83)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+*   [kotlin-graphics/assimp (⭐84)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐415)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐425)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Templates / React
 
-*   [react-vite-admin (⭐151)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+*   [react-vite-admin (⭐152)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 
 ### React / Presets
 
@@ -99,7 +99,7 @@
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐644)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐649)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -126,11 +126,11 @@
 
 ### Networking
 
-*   [Commons-networking (⭐5)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
+*   [Commons-networking (⭐8)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
 
 ### Template Engine / Other
 
-*   [StringTemplate (⭐844)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
+*   [StringTemplate (⭐855)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
 
 ### Workflow Orchestration Engines / Mocking
 

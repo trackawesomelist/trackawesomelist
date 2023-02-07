@@ -8,11 +8,11 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### VSCode Extensions / Other / unknown licence
+### VSCode Extensions / MIT
 
 *   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐179)](https://github.com/AdaCore/ada_language_server).
 
-### Sound / Other / unknown licence
+### Sound / MIT
 
 *   [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
@@ -70,11 +70,11 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐213)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐217)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐329)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐337)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-file-toolbar-menu (⭐117)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
+*   [vue-file-toolbar-menu (⭐121)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 
 ## [14. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

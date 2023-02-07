@@ -34,7 +34,7 @@
 
 ### Python / Symfony2
 
-*   [Flask-Potion (⭐491)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+*   [Flask-Potion (⭐489)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 

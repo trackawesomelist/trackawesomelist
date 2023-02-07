@@ -59,8 +59,8 @@
 
 ### IoC
 
-*   [Microsoft.Extensions.DependencyInjection (⭐877)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
-*   [Scrutor (⭐2.7k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
+*   [Microsoft.Extensions.DependencyInjection (⭐875)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
+*   [Scrutor (⭐2.8k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
 ### Markdown Processors
 

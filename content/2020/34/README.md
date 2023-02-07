@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐545)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐557)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -338,12 +338,12 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐51k)](https://github.com/vitejs/vite)
-*   [Awesome Vue (⭐67k)](https://github.com/vuejs/awesome-vue)
+*   [GitHub Repo (⭐52k)](https://github.com/vitejs/vite)
+*   [Awesome Vue (⭐68k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐2.8k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Icônes (⭐2.9k)](https://github.com/antfu/icones) - Icon explorer with instant search.
 *   [Awesome CN Café (⭐64)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 *   [Todo Example (⭐25)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
@@ -368,24 +368,24 @@
 
 ### Contents / Business
 
-*   [Minsk8 (⭐53)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
+*   [Minsk8 (⭐55)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 
 ### Contents / Finance
 
-*   [Money Tracker (⭐46)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
-*   [Piggyvault (⭐351)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Money Tracker (⭐47)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
+*   [Piggyvault (⭐367)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐805)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐827)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
-*   [TuneIN (⭐134)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
+*   [TuneIN (⭐141)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐613)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐617)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [18. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -651,12 +651,12 @@
 
 ### Framework Components
 
-*   [graphql (⭐116)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql (⭐118)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
 *   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### GUI Development
 
-*   [Iu (⭐60)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐176)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
+*   [Iu (⭐61)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐175)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
 
 ### HTTP
 
@@ -664,7 +664,7 @@
 
 ### Unofficial
 
-*   [crystal-koans (⭐32)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
+*   [crystal-koans (⭐34)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
 
 ## [24. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -755,7 +755,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐68)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐70)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -798,7 +798,7 @@
 
 ### GitHub
 
-*   [github-stats-box (⭐86)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐88)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
 ## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -857,7 +857,7 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐371)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐373)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [41. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -898,10 +898,10 @@
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐3.7k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
-*   [Deep High-Resolution-Net (⭐3.9k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
+*   [Scikit-Opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Deep High-Resolution-Net (⭐4k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 *   [dream-creator (⭐56)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
-*   [Lucent (⭐520)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
+*   [Lucent (⭐524)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 
 ### Python / Reinforcement Learning
 
@@ -985,7 +985,7 @@
 
 ## [52. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - ASN.1, MQTT client and server/broker implementation, B-trees, Multiple connection TCP servers, Chebyshev series, Mutexes, Cryptography, Objects and handles to, Doubly-linked webs and lists, ODBC bindings, Blackboards (lock-free), OpenSSL bindings, ELV/eQ-3 MAX! client implementation, Parsers, Events (plain, pulse, array of), Persistent objects and handles to, GNUTLS bindings, Persistent storage and handles to, Graphs (directed, weighted, acyclic, trees), Pools, HTTP implementation, Sets and maps, FIFO (lock-free), SMTP client implementation, IEEE 754, SQLite bindings, Inter-process communication, Stacks, Interfacing Julia language, Streams, JSON, Strings editing, LDAP, Tables (maps of strings), MODBUS client implementation, Unbounded arrays.
 
@@ -1140,11 +1140,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐367)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐369)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-toast-snackbar (⭐127)](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
+*   [vuetify-toast-snackbar (⭐128)](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
 
 ### Components & Libraries / UI Utilities
 

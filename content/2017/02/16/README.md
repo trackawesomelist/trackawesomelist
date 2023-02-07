@@ -41,7 +41,7 @@ Webpage: <http://www.novaarcada.pt/>
 
 ### Awesome ClojureScript / Documentation
 
-*   [codox (⭐637)](https://github.com/weavejester/codox) – A tool for generating API documentation from Clojure or ClojureScript source code.
+*   [codox (⭐641)](https://github.com/weavejester/codox) – A tool for generating API documentation from Clojure or ClojureScript source code.
 
 ## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

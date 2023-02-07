@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 15, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,17 +10,17 @@
 
 ### Applications / Games
 
-*   [thetawavegame/thetawave-legacy (⭐191)](https://github.com/thetawavegame/thetawave-legacy) - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
+*   [thetawavegame/thetawave-legacy (⭐190)](https://github.com/thetawavegame/thetawave-legacy) - A space shooter game that strives to be an entry point for new game developers to make their first contributions. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
 
 ### Applications / Observability
 
-*   [vectordotdev/vector (⭐12k)](https://github.com/vectordotdev/vector) — A High-Performance, Logs, Metrics, & Events Router.
+*   [vectordotdev/vector (⭐13k)](https://github.com/vectordotdev/vector) — A High-Performance, Logs, Metrics, & Events Router.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3.2+
 
-*   [Lorien (⭐3.6k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+*   [Lorien (⭐3.7k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -129,22 +129,22 @@
 ### Audio
 
 *   [micropython-jq6500 (⭐16)](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
-*   [micropython-i2s-examples (⭐99)](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
+*   [micropython-i2s-examples (⭐102)](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
 *   [micropython-osc (⭐42)](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
 
 ### Communications / APIs
 
-*   [micropython-utelegram (⭐51)](https://github.com/jordiprats/micropython-utelegram) - Telegram API wrapper for MicroPython.
+*   [micropython-utelegram (⭐55)](https://github.com/jordiprats/micropython-utelegram) - Telegram API wrapper for MicroPython.
 *   [uEagle (⭐3)](https://github.com/jcalbert/uEagle) - MicroPython Rainforest EAGLE client.
 *   [micropython-youtube-api (⭐9)](https://github.com/UnexpectedMaker/micropython-youtube-api) - YouTube API in MicroPython.
 *   [micropython\_esp8266\_tweetbot (⭐9)](https://github.com/ayoko/micropython_esp8266_tweetbot) - Tweet bot for MicroPython v1.8.4 (ESP8266).
 *   [telegram-upy (⭐34)](https://github.com/gabrielebarola/telegram-upy) - Telegram API wrapper for MicroPython.
-*   [micropython-thingspeak (⭐13)](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
+*   [micropython-thingspeak (⭐12)](https://github.com/radeklat/micropython-thingspeak) - Library for sending data to thingspeak.com from IoT devices running MicroPython (such as ESP8266).
 
 ### Communications / Bluetooth
 
-*   [MicroPythonBLEHID (⭐101)](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
-*   [upyble (⭐8)](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
+*   [MicroPythonBLEHID (⭐104)](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
+*   [upyble (⭐10)](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
 
 ### Communications / CAN
 
@@ -153,21 +153,21 @@
 
 ### Communications / Cryptography
 
-*   [ucrypto (⭐11)](https://github.com/dmazzella/ucrypto) - MicroPython package for doing fast RSA and elliptic curve cryptography, specifically digital signatures. ECDSA API design inspired from fastecdsa and implementation based on tomsfastmath.
-*   [embit (⭐44)](https://github.com/diybitcoinhardware/embit) - A minimal Bitcoin library for MicroPython and Python 3 with a focus on embedded systems.
+*   [ucrypto (⭐12)](https://github.com/dmazzella/ucrypto) - MicroPython package for doing fast RSA and elliptic curve cryptography, specifically digital signatures. ECDSA API design inspired from fastecdsa and implementation based on tomsfastmath.
+*   [embit (⭐46)](https://github.com/diybitcoinhardware/embit) - A minimal Bitcoin library for MicroPython and Python 3 with a focus on embedded systems.
 *   [microotp (⭐18)](https://github.com/gdassori/microotp) - An ESP8266 MicroPython OTP Generator.
 *   [micropython-rsa-signing (⭐14)](https://github.com/artem-smotrakov/micropython-rsa-signing) - RSA signing on MicroPython.
 
 ### Communications / DNS
 
 *   [tinydns (⭐22)](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
-*   [micropython-captiveportal (⭐8)](https://github.com/metachris/micropython-captiveportal) -  Minimal async captive portal for MicroPython (compatible with uasyncio v3/MicroPython 1.13+ as well as earlier versions).
+*   [micropython-captiveportal (⭐9)](https://github.com/metachris/micropython-captiveportal) -  Minimal async captive portal for MicroPython (compatible with uasyncio v3/MicroPython 1.13+ as well as earlier versions).
 *   [Micropython-DNSServer-Captive-Portal (⭐11)](https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal) - MicroPython WiFi AP Captive Portal with DNS and Web Server.
 
 ### Communications / GSM
 
-*   [micropython-sim800 (⭐12)](https://github.com/olablt/micropython-sim800) - MicroPython driver for SIM800.
-*   [sim800 (⭐6)](https://github.com/basanovase/sim800) - Library for interfacing with SIM800 module in MicroPython.
+*   [micropython-sim800 (⭐13)](https://github.com/olablt/micropython-sim800) - MicroPython driver for SIM800.
+*   [sim800 (⭐8)](https://github.com/basanovase/sim800) - Library for interfacing with SIM800 module in MicroPython.
 
 ### Communications / IoT
 
@@ -186,7 +186,7 @@
 *   [LightLora\_MicroPython (⭐20)](https://github.com/MZachmann/LightLora_MicroPython) - Lightweight Interrupt-driven Semtech SX127x Library for MicroPython.
 *   [sx127x\_esp (⭐8)](https://github.com/azorg/sx127x_esp) - Connect Ra-01 module base on LoRaTM sx127x chip to ESP8266/ESP32 under MicroPython.
 *   [nanoserver (⭐5)](https://github.com/gradoj/nanoserver) - MicroPython embedded LoRaWAN server.
-*   [micropySX126X (⭐34)](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
+*   [micropySX126X (⭐35)](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
 
 ### Communications / Modbus
 
@@ -216,9 +216,9 @@
 
 ### Communications / OTA
 
-*   [micropython-ota-updater (⭐300)](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython.
+*   [micropython-ota-updater (⭐302)](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython.
 *   [Micropython-ESP32-OTA (⭐11)](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - MicroPython updater based on rdehuyss/micropython-ota-updater.
-*   [senko (⭐55)](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
+*   [senko (⭐56)](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
 
 ### Communications / Radio
 
@@ -228,7 +228,7 @@
 
 ### Communications / REPL
 
-*   [FBConsole (⭐37)](https://github.com/boochow/FBConsole) - Framebuffer console class for MicroPython.
+*   [FBConsole (⭐36)](https://github.com/boochow/FBConsole) - Framebuffer console class for MicroPython.
 
 ### Communications / RFID
 
@@ -236,12 +236,12 @@
 
 ### Communications / RTC
 
-*   [micropython-ds1302-rtc (⭐22)](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
-*   [DS3231micro (⭐10)](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
+*   [micropython-ds1302-rtc (⭐23)](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
+*   [DS3231micro (⭐11)](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
 
 ### Communications / Serialization
 
-*   [micropython-msgpack (⭐16)](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
+*   [micropython-msgpack (⭐19)](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
 *   [micropython-uprotobuf (⭐18)](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
 *   [minipb (⭐37)](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 
@@ -251,33 +251,32 @@
 
 ### Communications / VoIP
 
-*   [uPyVoip (⭐10)](https://github.com/RetepRelleum/uPyVoip) - VoIP for MicroPython ESP32 with Interactive Voice Response.
+*   [uPyVoip (⭐11)](https://github.com/RetepRelleum/uPyVoip) - VoIP for MicroPython ESP32 with Interactive Voice Response.
 
 ### Communications / Web
 
-*   [micropython-nanoweb (⭐75)](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
+*   [micropython-nanoweb (⭐77)](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
 *   [MicroWebCli (⭐45)](https://github.com/jczic/MicroWebCli) - A micro HTTP web client for MicroPython (used on Pycom modules & ESP32).
 *   [micropython-configserver (⭐15)](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a web server to configure WiFi networks.
 *   [micropython-aioweb (⭐11)](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
 
 ### Display / E-Paper
 
-*   [Inkplate-micropython (⭐52)](https://github.com/e-radionicacom/Inkplate-micropython) - MicroPython driver for Inkplate boards.
 *   [micropython-inkplate6 (⭐16)](https://github.com/tve/micropython-inkplate6) - MicroPython driver for the Inkplate 6.
 *   [eink (⭐11)](https://github.com/chevdor/eink) - An eInk, ePaper display driver for MicroPython and ESP32.
 *   [micropython\_DEPG0213BN (⭐10)](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN eInk display found on the TTGO T5 V2.3 ESP32 boards.
 
 ### Display / Fonts
 
-*   [micropython-font-to-py (⭐255)](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
-*   [ssd1306big (⭐16)](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel SSD1306 OLED display.
+*   [micropython-font-to-py (⭐262)](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
+*   [ssd1306big (⭐15)](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel SSD1306 OLED display.
 
 ### Display / Graphics
 
-*   [micropython-stage (⭐23)](https://github.com/python-ugame/micropython-stage) - A MicroPython port of the Stage game library.
+*   [micropython-stage (⭐25)](https://github.com/python-ugame/micropython-stage) - A MicroPython port of the Stage game library.
 *   [micropython-png (⭐6)](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
 *   [mpy-img-decoder (⭐19)](https://github.com/remixer-dec/mpy-img-decoder) - PNG and JPEG decoder / parser / renderer in pure MicroPython.
-*   [micropython-oled-progressbars (⭐6)](https://github.com/follower46/micropython-oled-progressbars) - A collection of progress bars for use with ESP8266 and ESP32 on OLED displays.
+*   [micropython-oled-progressbars (⭐7)](https://github.com/follower46/micropython-oled-progressbars) - A collection of progress bars for use with ESP8266 and ESP32 on OLED displays.
 *   [microplot (⭐13)](https://github.com/romilly/microplot) - Simple MicroPython plotting package.
 
 ### Display / LCD Graphic
@@ -286,24 +285,23 @@
 
 ### Display / LCD TFT
 
-*   [st7789\_mpy (⭐298)](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
-*   [st7789py\_mpy (⭐64)](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
+*   [st7789\_mpy (⭐306)](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
+*   [st7789py\_mpy (⭐65)](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
 *   [ili9342c\_mpy (⭐31)](https://github.com/russhughes/ili9342c_mpy) - ILI9342C Fast 'C' Driver for MicroPython (M5Stack Core).
 *   [gc9a01py (⭐18)](https://github.com/russhughes/gc9a01py) - GC9A01 Display driver in MicroPython.
-*   [gc9a01\_mpy (⭐26)](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
-*   [st7735-esp8266-micropython (⭐13)](https://github.com/cheungbx/st7735-esp8266-micropython) - An ESP8266 MicroPython library for ST7735 160x80, 128x128, 128x160 TFT LCD displays.
+*   [gc9a01\_mpy (⭐32)](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
+*   [st7735-esp8266-micropython (⭐14)](https://github.com/cheungbx/st7735-esp8266-micropython) - An ESP8266 MicroPython library for ST7735 160x80, 128x128, 128x160 TFT LCD displays.
 *   [TTGO-ST7789-MicroPython (⭐15)](https://github.com/schumixmd/TTGO-ST7789-MicroPython) - MicroPython ST7789 display driver for TTGO T-Display ESP32 CP2104 WiFi Bluetooth Module 1.14 Inch LCD.
 
 ### Display / LEDs
 
-*   [Hybotics\_Micropython\_HT16K33 (⭐36)](https://github.com/hybotics/Hybotics_Micropython_HT16K33) - MicroPython driver for the HT16K33, a LED matrix, 7-Segment Numeric, and 14-Segment Alphanumeric display driver IC.
 *   [micropython-rgbled (⭐11)](https://github.com/Warringer/micropython-rgbled) - This wrapper module aims to reduce the work needed to work with NeoPixel (WS2812) and DotStar (APA102) RGB LED strips and matrixes.
-*   [micropython\_fastled (⭐17)](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
-*   [micropython\_quickled (⭐2)](https://github.com/thebaron88/micropython_quickled) - MicroPython module which allows Python to pump data into the WS2811 LEDs at full speed.
+*   [micropython\_fastled (⭐18)](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
+*   [micropython\_quickled](https://github.com/thebaron88/micropython_quickled) - MicroPython module which allows Python to pump data into the WS2811 LEDs at full speed.
 
 ### Display / OLED
 
-*   [micropython-ssd1309 (⭐15)](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 Monochrome OLED Display Driver.
+*   [micropython-ssd1309 (⭐17)](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 Monochrome OLED Display Driver.
 
 ### Display / Printer
 
@@ -326,7 +324,7 @@
 
 *   [encoderLib (⭐6)](https://github.com/BramRausch/encoderLib) - MicroPython library to handle a rotary encoder.
 *   [rotary-encoder (⭐17)](https://github.com/gurgleapps/rotary-encoder) - MicroPython code to drive a KY-040 rotary encoder.
-*   [micropython-encoder-knob (⭐1)](https://github.com/infinite-tree/micropython-encoder-knob) - A very simple lightweight encoder knob library with button support.
+*   [micropython-encoder-knob (⭐2)](https://github.com/infinite-tree/micropython-encoder-knob) - A very simple lightweight encoder knob library with button support.
 
 ### IO / Waveform Generator
 
@@ -348,8 +346,8 @@
 
 ### Sensors / Barometer
 
-*   [micropython\_bme280\_i2c (⭐10)](https://github.com/triplepoint/micropython_bme280_i2c) - A MicroPython module for communicating with the Bosch BME280 temperature, humidity, and pressure sensor.
-*   [MicroPython-BME280 (⭐7)](https://github.com/neliogodoi/MicroPython-BME280) - Driver to digital sensor of Temperature, Pressure and Humidity.
+*   [micropython\_bme280\_i2c (⭐9)](https://github.com/triplepoint/micropython_bme280_i2c) - A MicroPython module for communicating with the Bosch BME280 temperature, humidity, and pressure sensor.
+*   [MicroPython-BME280 (⭐6)](https://github.com/neliogodoi/MicroPython-BME280) - Driver to digital sensor of Temperature, Pressure and Humidity.
 
 ### Sensors / Battery
 
@@ -358,25 +356,25 @@
 ### Sensors / Biometric
 
 *   [micropython-fingerprint (⭐10)](https://github.com/chrisb2/micropython-fingerprint) - MicroPython library for reading Grow and ZhianTec fingerprint sensors.
-*   [MAX30102-MicroPython-driver (⭐30)](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
+*   [MAX30102-MicroPython-driver (⭐32)](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
 
 ### Sensors / Camera
 
-*   [esp32-cam-micropython (⭐72)](https://github.com/shariltumin/esp32-cam-micropython) - MicroPython ESP32-CAM.
+*   [esp32-cam-micropython (⭐73)](https://github.com/shariltumin/esp32-cam-micropython) - MicroPython ESP32-CAM.
 *   [uPyCam (⭐102)](https://github.com/lemariva/uPyCam) - Take a photo with an ESP32-CAM running MicroPython.
 *   [OV2640\_uPy (⭐7)](https://github.com/FunPythonEC/OV2640_uPy) - OV2640 camera library for MicroPython.
 *   [MQTT-Cam (⭐5)](https://github.com/jono-allen/MQTT-Cam) - ESP32-CAM MicroPython MQTT AWS S3 Uploader.
 
 ### Sensors / Current
 
-*   [INA219 (⭐5)](https://github.com/robert-hh/INA219) - INA219 MicroPython driver.
+*   [INA219 (⭐6)](https://github.com/robert-hh/INA219) - INA219 MicroPython driver.
 *   [TI\_INA226\_micropython (⭐16)](https://github.com/elschopi/TI_INA226_micropython) - MicroPython driver for Texas Instruments INA226 power measuring IC.
 
 ### Sensors / Distance Laser
 
 *   [VL53L0X (⭐21)](https://github.com/uceeatz/VL53L0X) - MicroPython Library for LiDAR Sensor VL53L0X.
 *   [vl53l1x\_pico (⭐6)](https://github.com/drakxtwo/vl53l1x_pico) - MicroPython driver for the VL53L1X ToF sensor.
-*   [tf-luna-micropython (⭐7)](https://github.com/davmoz/tf-luna-micropython) - A simple MicroPython I2C library for TF-Luna LiDAR Module.
+*   [tf-luna-micropython (⭐8)](https://github.com/davmoz/tf-luna-micropython) - A simple MicroPython I2C library for TF-Luna LiDAR Module.
 
 ### Sensors / Distance Ultrasonic
 
@@ -433,7 +431,7 @@
 
 ### Storage / Database
 
-*   [MicroPyDatabase (⭐6)](https://github.com/sungkhum/MicroPyDatabase) - A low-memory JSON-based database for MicroPython.
+*   [MicroPyDatabase (⭐8)](https://github.com/sungkhum/MicroPyDatabase) - A low-memory JSON-based database for MicroPython.
 *   [micropython-firebase-realtime-database (⭐9)](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
 
 ### Threading / SRAM
@@ -456,47 +454,33 @@
 
 *   [micropython-usyslog (⭐13)](https://github.com/kfricke/micropython-usyslog) - Simple remote syslog client for MicroPython.
 
-### IDEs / SRAM
-
-*   [BIPES](https://bipes.net.br/beta2/ui/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: <https://github.com/BIPES>.
-
-### Logging / SRAM
-
-*   [micropython-ulogger (⭐20)](https://github.com/Li-Lian1069/micropython-ulogger) - Lightweight log module customized for MicroPython.
-
 ### Shells / On Host
 
-*   [ampy (⭐628)](https://github.com/scientifichackers/ampy) - Utility to interact with a MicroPython board over a serial connection.
+*   [ampy (⭐629)](https://github.com/scientifichackers/ampy) - Utility to interact with a MicroPython board over a serial connection.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Completion / Diagnostics
 
-*   [jameshiew/nvim-magic (⭐182)](https://github.com/jameshiew/nvim-magic) - Framework for integrating AI code assistance.
+*   [jameshiew/nvim-magic (⭐185)](https://github.com/jameshiew/nvim-magic) - Framework for integrating AI code assistance.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/substrata.nvim (⭐90)](https://github.com/kvrohit/substrata.nvim) - A cold, dark color scheme written in Lua ported from [arzg/vim-substrata (⭐179)](https://github.com/arzg/vim-substrata) theme.
+*   [kvrohit/substrata.nvim (⭐92)](https://github.com/kvrohit/substrata.nvim) - A cold, dark color scheme written in Lua ported from [arzg/vim-substrata (⭐179)](https://github.com/arzg/vim-substrata) theme.
 
-## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
-
-### RSSHub / Outline Processor Markup Language
-
-*   <https://rsshub.uneasy.win/> by [胜之不易](https://uneasy.win/) <sup>[70](https://t.me/s/aboutrss/70)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https://rsshub.uneasy.win)
-
-## [12. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Data Structure
 
 *   [quetie (⭐110)](https://github.com/TomerAberbach/quetie) - Just the cutest and tiniest queue/deque implementation!
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-federation (⭐820)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
+*   [vite-plugin-federation (⭐866)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -596,7 +580,7 @@
 
 
 
-## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tutorials
 

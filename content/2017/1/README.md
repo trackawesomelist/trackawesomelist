@@ -45,7 +45,7 @@ git rev-parse --show-toplevel
 
 ### Go / Erlang
 
-*   [Nano (⭐42)](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
+*   [Nano (⭐44)](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
 
 ## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -98,7 +98,7 @@ git rev-parse --show-toplevel
 
 ### Build Systems / Playground
 
-*   [Zwitterion (⭐554)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Zwitterion (⭐555)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
 ## [12. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -303,11 +303,11 @@ git rev-parse --show-toplevel
 
 ### Date and Time
 
-*   [crontab (⭐81)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
+*   [crontab (⭐82)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐237)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐240)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ### Testing
 

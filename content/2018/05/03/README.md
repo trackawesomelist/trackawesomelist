@@ -100,7 +100,7 @@
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐53k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐54k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 

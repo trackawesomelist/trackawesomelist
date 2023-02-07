@@ -2,7 +2,7 @@
 
 A curated list of software and architecture related design patterns.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/DovAmir/awesome-design-patterns/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) · ⭐ 21K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/DovAmir/awesome-design-patterns/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) · ⭐ 26K · 🏷️ Computer Science
 
 [ [Daily](/content/DovAmir/awesome-design-patterns/README.md) / [Weekly](/content/DovAmir/awesome-design-patterns/week/README.md) / Overview ]
 
@@ -42,11 +42,11 @@ A curated list of software and architecture related design patterns.
 ## Programming Language Design Patterns
 
 *   AngularJS
-    *   [design patterns (⭐1.9k)](https://github.com/mgechev/angularjs-in-patterns)
+    *   [design patterns (⭐2k)](https://github.com/mgechev/angularjs-in-patterns)
 
 *   C#
-    *   [design-patterns (⭐1.9k)](https://github.com/abishekaditya/DesignPatterns)
-    *   [design-patterns-for-human (⭐1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐2k)](https://github.com/abishekaditya/DesignPatterns)
+    *   [design-patterns-for-human (⭐1.1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [Design Patterns Library (⭐1.6k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
 
 *   C++
@@ -67,8 +67,8 @@ A curated list of software and architecture related design patterns.
     *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 
 *   JavaScript
-    *   [es6 design patterns (⭐254)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-    *   [humans (⭐3.2k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [es6 design patterns (⭐276)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+    *   [humans (⭐3.3k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐1.7k)](https://github.com/nnupoor/js_designpatterns)
     *   [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
@@ -76,7 +76,7 @@ A curated list of software and architecture related design patterns.
     *   [design-patterns (⭐5.5k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
 *   Node
-    *   [Real world design patterns with Node.js (⭐186)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+    *   [Real world design patterns with Node.js (⭐227)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
     *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 
 *   Object Oriented
@@ -85,17 +85,19 @@ A curated list of software and architecture related design patterns.
     *   [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 
 *   PHP
-    *   [humans (⭐36k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [humans (⭐37k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
 
 *   Python
     *   [design-patterns (⭐36k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐1.7k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [PyPattyrn (⭐1.8k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [Python Design Patterns](https://python-patterns.guide/)
+    *   [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 
 *   React
     *   [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-    *   [react-bits (⭐14k)](https://github.com/vasanthk/react-bits)
+    *   [react-bits (⭐15k)](https://github.com/vasanthk/react-bits)
     *   [reactpatterns.com](https://reactpatterns.com)
 
 *   Ruby
@@ -105,13 +107,13 @@ A curated list of software and architecture related design patterns.
     *   [design-patterns](https://rust-unofficial.github.io/patterns/)
 
 *   Scala
-    *   [design-patterns (⭐131)](https://github.com/josephguan/scala-design-patterns)
+    *   [design-patterns (⭐142)](https://github.com/josephguan/scala-design-patterns)
 
 *   Swift
     *   [design-patterns (⭐14k)](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 *   TypeScript
-    *   [design-patterns (⭐4.6k)](https://github.com/torokmark/design_patterns_in_typescript)
+    *   [design-patterns (⭐4.7k)](https://github.com/torokmark/design_patterns_in_typescript)
 
 *   UML
     *   [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
@@ -121,7 +123,7 @@ A curated list of software and architecture related design patterns.
     *   [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 
 *   Elixir
-    *   [design-patterns (⭐561)](https://github.com/joshnuss/design-patterns-in-elixir)
+    *   [design-patterns (⭐568)](https://github.com/joshnuss/design-patterns-in-elixir)
 
     *   [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
 
@@ -131,7 +133,7 @@ A curated list of software and architecture related design patterns.
 *   [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 *   [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
 *   [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.
-*   [system-design-primer (⭐205k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+*   [system-design-primer (⭐209k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 *   [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
 *   [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
 
@@ -201,7 +203,7 @@ A curated list of software and architecture related design patterns.
 *   [kubernetes (⭐2k)](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 *   [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design) - Container Design Patterns for Kubernetes Pods Design.
 *   [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
-*   [kubernetes patterns (⭐27)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
+*   [kubernetes patterns (⭐28)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 *   [kubernetes patterns book](https://k8spatterns.io/)
 *   [cdk patterns](https://cdkpatterns.com/) - cdk patterns.
 *   [CDK Construct Catalog](https://awscdk.io/) - CDK construct catalog.
@@ -248,7 +250,7 @@ A curated list of software and architecture related design patterns.
 
 ## Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐227k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐234k)](https://github.com/sindresorhus/awesome) list.
 
 ## Contributing
 

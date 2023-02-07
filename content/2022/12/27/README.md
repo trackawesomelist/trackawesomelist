@@ -38,12 +38,6 @@
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
-### Remote Jobs:
-
-- Website: <https://remotefrontendjobs.com>
-
-
-
 ### UI Inspiration:
 
 - Website: <https://landings.dev>
@@ -54,11 +48,11 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐1.8k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐2.4k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐83)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐102)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

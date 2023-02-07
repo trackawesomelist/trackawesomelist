@@ -54,7 +54,7 @@
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [gnatcoll-json (⭐5)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
 

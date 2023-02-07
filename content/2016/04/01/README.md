@@ -16,7 +16,7 @@
 
 ### Editors
 
-*   [Alchemist.vim (⭐659)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐658)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

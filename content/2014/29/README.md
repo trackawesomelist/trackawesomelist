@@ -365,7 +365,7 @@
 *   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 *   [algorithms (⭐4.7k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐2.9k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [papers-we-love (⭐68k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐69k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ### Concurrency
 
@@ -405,7 +405,7 @@
 ### Github Libraries / Randomized Algorithms
 
 *   [CoffeeScript (⭐36)](https://github.com/BrunoRB/algorithms.coffee)
-*   [Erlang (⭐142)](https://github.com/aggelgian/erlang-algorithms)
+*   [Erlang (⭐143)](https://github.com/aggelgian/erlang-algorithms)
 *   [Scala (⭐1.4k)](https://github.com/vkostyukov/scalacaster)
 
 ## [14. Awesome Play1](/content/PerfectCarl/awesome-play1/week/README.md)
@@ -613,11 +613,11 @@
 ### Build Automation
 
 *   [Psake (⭐1.5k)](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
-*   [Invoke-Build (⭐542)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐546)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Caching
 
-*   [CacheCow (⭐815)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
+*   [CacheCow (⭐816)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
 
 ### Code Analysis and Metrics
 
@@ -625,7 +625,7 @@
 
 ### Database
 
-*   [BrightstarDb (⭐444)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+*   [BrightstarDb (⭐446)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
 
 ### Database Drivers
 
@@ -641,14 +641,14 @@
 
 ### IoC
 
-*   [Castle Windsor (⭐1.4k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
+*   [Castle Windsor (⭐1.5k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
 *   [Autofac (⭐4.1k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 
 ### Logging
 
 *   [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
 *   [Serilog (⭐6k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
-*   [StackExchange.Exceptional (⭐847)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐848)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### MVVM
 
@@ -687,7 +687,7 @@
 ### WebSocket
 
 *   [Fleck (⭐2.1k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
-*   [Websocket-Sharp (⭐4.9k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+*   [Websocket-Sharp (⭐5k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ## [16. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
@@ -757,15 +757,15 @@
 ### Julia / General-Purpose Machine Learning
 
 *   [PGM (⭐50)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐304)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [Clustering (⭐306)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
-*   [Distributions (⭐948)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
+*   [Distributions (⭐955)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐323)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐325)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Lua / General-Purpose Machine Learning
 
@@ -802,7 +802,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐566)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐567)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -826,10 +826,10 @@
 ### Python / Data Analysis / Data Visualization
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
-*   [PyMC (⭐7.2k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
+*   [PyMC (⭐7.3k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 *   [zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
-*   [SymPy (⭐9.9k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-*   [statsmodels (⭐8k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
+*   [SymPy (⭐10k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [statsmodels (⭐8.1k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
@@ -856,7 +856,7 @@
 ### Ruby / Data Analysis / Data Visualization
 
 *   [SciRuby](http://sciruby.com/)
-*   [Bioruby (⭐366)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐365)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
@@ -876,12 +876,12 @@
 
 *   [adam (⭐937)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 *   [bioscala (⭐105)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
-*   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [BIDMach (⭐916)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 *   [Figaro (⭐751)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐151k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐153k)](https://github.com/vinta/awesome-python)
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

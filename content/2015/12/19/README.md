@@ -73,22 +73,22 @@ git update-index --no-assume-unchanged <file_name>
 ### Files and Directories / Deleting, Copying, and Renaming
 
 *   [trash-cli (⭐1.1k)](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
-*   [empty-trash-cli (⭐107)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+*   [empty-trash-cli (⭐113)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 
 ### Files and Directories / Directory Navigation
 
-*   [pm (⭐174)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+*   [pm (⭐173)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 *   [z (⭐15k)](https://github.com/rupa/z) - z is the new j, yo.
 
 ### Images / Gif Creation
 
-*   [gifsicle (⭐3k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
-*   [ttygif (⭐3.7k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
-*   [ttygif (⭐257)](https://github.com/sugyan/ttygif) - ttyrec to gif.
+*   [gifsicle (⭐3.2k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+*   [ttygif (⭐3.8k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
+*   [ttygif (⭐261)](https://github.com/sugyan/ttygif) - ttyrec to gif.
 
 ### Graphics / Image Conversion
 
-*   [sparkly-cli (⭐124)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+*   [sparkly-cli (⭐125)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
 ---
 

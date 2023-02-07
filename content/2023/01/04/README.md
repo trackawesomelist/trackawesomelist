@@ -34,7 +34,7 @@
 
 ### ChatGPT API
 
-*   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐495)](https://github.com/terry3041/pyChatGPT)
+*   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐721)](https://github.com/terry3041/pyChatGPT)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -79,13 +79,13 @@
 
 ### Shells / On Host
 
-*   [mpbridge (⭐11)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronise and manage files on a MicroPython running device.
+*   [mpbridge (⭐16)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GraphQL
 
-*   [ZeroQL (⭐147)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐151)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -111,19 +111,19 @@
 
 ### (requires Neovim 0.5)
 
-*   [idanarye/nvim-buffls (⭐2)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
+*   [idanarye/nvim-buffls (⭐4)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐3)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐9)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 
-*   [idanarye/nvim-channelot (⭐2)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
+*   [idanarye/nvim-channelot (⭐3)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
 
 ### Code Runner / Diagnostics
 
-*   [idanarye/nvim-moonicipal (⭐4)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
+*   [idanarye/nvim-moonicipal (⭐9)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 
 ## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -135,7 +135,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Speedster (⭐1.8k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
+*   [Speedster (⭐2.1k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
 
 ## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

@@ -14,7 +14,7 @@
 
 ### Deep Learning / Others
 
-*   [jax (⭐21k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+*   [jax (⭐22k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 
 ### Data Manipulation / Data Frames
 
@@ -23,23 +23,23 @@
 
 ### Data Manipulation / Pipelines
 
-*   [Hamilton (⭐762)](https://github.com/stitchfix/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
+*   [Hamilton (⭐856)](https://github.com/stitchfix/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
 
 ### Data Manipulation / Synthetic Data
 
-*   [ydata-synthetic (⭐850)](https://github.com/ydataai/ydata-synthetic) - A package to generate synthetic tabular and time-series data leveraging the state of the art generative models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [ydata-synthetic (⭐861)](https://github.com/ydataai/ydata-synthetic) - A package to generate synthetic tabular and time-series data leveraging the state-of-the-art generative models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ### Model Explanation / NLP
 
-*   [dalex (⭐1.2k)](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and eXplanation. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"><img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired/ported lib">
+*   [dalex (⭐1.2k)](https://github.com/ModelOriented/DALEX) - moDel Agnostic Language for Exploration and explanation. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"><img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired/ported lib">
 
 ### Optimization / NLP
 
-*   [OR-Tools](https://developers.google.com/optimization) - An open source software suite for optimization by Google; provides a unified programming interface to a half dozen solvers: SCIP, GLPK, GLOP, CP-SAT, CPLEX, and Gurobi.
+*   [OR-Tools](https://developers.google.com/optimization) - An open-source software suite for optimization by Google; provides a unified programming interface to a half dozen solvers: SCIP, GLPK, GLOP, CP-SAT, CPLEX, and Gurobi.
 
 ### Experimentation / NLP
 
-*   [mlflow (⭐13k)](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle.
+*   [mlflow (⭐14k)](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle.
 *   [dvc (⭐11k)](https://github.com/iterative/dvc) - Data Version Control | Git for Data & Models | ML Experiments Management.
 
 ### Computations / NLP
@@ -83,23 +83,23 @@
 
 ### Business
 
-*   [Engineering Strategy (⭐270)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+*   [Engineering Strategy (⭐324)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 2D / Godot 3.2+
 
-*   [Falling Square (⭐2)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
+*   [Falling Square (⭐4)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Yazeed1s/oh-lucy.nvim (⭐88)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+*   [Yazeed1s/oh-lucy.nvim (⭐107)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
 
 ### Editing Support / Diagnostics
 
-*   [shortcuts/no-neck-pain.nvim (⭐139)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
+*   [shortcuts/no-neck-pain.nvim (⭐203)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
 
 ---
 

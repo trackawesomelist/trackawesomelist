@@ -34,7 +34,7 @@
 
 ### Development / Release
 
-*   [clog (⭐772)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐783)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐475)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐488)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
@@ -59,7 +59,7 @@
 
 ### Networking
 
-*   [Restinio (⭐923)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [Restinio (⭐930)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
 
 ### Podcasts
 

@@ -90,7 +90,7 @@
 
 ### Bindings
 
-*   [nvk (⭐877)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
+*   [nvk (⭐878)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
 
 ## [9. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -862,19 +862,19 @@
 
 ### Electron React Boilerplate   [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
 
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐196k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
 *   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Electron React Boilerplate website](https://electron-react-boilerplate.js.org/)
 
 ### Victor Hugo boilerplate   [↗](https://awesomestacks.dev/victor-hugo-boilerplate) / Resources
 
 *   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐62k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
-*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐63k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐65k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 *   [netlify-templates/victor-hugo (⭐1.5k)](https://github.com/netlify-templates/victor-hugo)
 
 ### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐98k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐99k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 *   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐44k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
 *   [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - A compute service that runs your code in response to events.
 *   [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - Fully managed NoSQL database service.
@@ -884,15 +884,15 @@
 ### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
 *   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐41k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
-*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐9.9k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-*   [wemake-vue-template (⭐719)](https://github.com/wemake-services/wemake-vue-template)
+*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐10k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+*   [wemake-vue-template (⭐724)](https://github.com/wemake-services/wemake-vue-template)
 
 ### Vue with Electron   [↗](https://awesomestacks.dev/vue-with-electron) / Resources
 
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
-*   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐29k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
-*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐104k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-*   [electron-builder](https://www.electron.build) - [🐙 (⭐12k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
+*   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐30k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
+*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐106k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [electron-builder](https://www.electron.build) - [🐙 (⭐13k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 *   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Vue.js & Electron: The easy way. – Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
 *   [How to use Vue.js with Electron and Vuex](https://alligator.io/vuejs/vue-electron/)
@@ -921,10 +921,10 @@
 ### Algolia site search   [↗](https://awesomestacks.dev/algolia-site-search) / Resources
 
 *   [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
-*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐254)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
-*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐175)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
-*   [hugo-algolia (⭐42)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐42)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
-*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
+*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐264)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
+*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐176)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
+*   [hugo-algolia (⭐45)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐45)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
+*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.1k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
 *   [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/)
 
 ### Workflow Automation with GitHub, Jira and Jenkins   [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
@@ -940,10 +940,10 @@
 ### Ethereum DApp   [↗](https://awesomestacks.dev/ethereum-d-app) / Resources
 
 *   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐19k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
-*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐16k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
+*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐17k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
 *   [Truffle](https://truffleframework.com/truffle) - [🐙 (⭐14k)](https://github.com/trufflesuite/truffle) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
-*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.1k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
-*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐882)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
+*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.2k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
+*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐892)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
 
 ### Rails Monitoring Stack   [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 
@@ -951,8 +951,8 @@
 
 ### React Native with Expo and Hasura   [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
-*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐105k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
-*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐18k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
+*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐107k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
+*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐19k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
 *   [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 *   [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 *   [Tutorial: Fullstack React Native with GraphQL and Authentication](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a/)
@@ -960,7 +960,7 @@
 
 ### Unity Game Development boilerplate   [↗](https://awesomestacks.dev/unity-Game-Development-boilerplate) / Resources
 
-*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐9.7k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
+*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐10k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
 *   [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙 (⭐5)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
 *   [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 *   [First steps with Plastic SCM in Unity](https://www.youtube.com/playlist?list=PL29P1RRr5_NzEhAustJCTwdahs60JvcMm)
@@ -974,7 +974,7 @@
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐369)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐370)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -1015,15 +1015,15 @@
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐606)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐612)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
-*   [firecracker-microvm/firecracker (⭐20k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload  [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [firecracker-microvm/firecracker (⭐21k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload  [Firecracker Microvm](https://firecracker-microvm.github.io/)
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐797)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐809)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -1033,7 +1033,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐503)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐505)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -1045,20 +1045,20 @@
 
 ### Libraries / Automotive
 
-*   [oefd/tokio-socketcan (⭐29)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
+*   [oefd/tokio-socketcan (⭐30)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
 
 ### Libraries / Command-line
 
 *   Style
-    *   [LukasKalbertodt/bunt (⭐202)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
+    *   [LukasKalbertodt/bunt (⭐204)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
     *   [LukasKalbertodt/term-painter (⭐75)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output [![build badge](https://api.travis-ci.org/LukasKalbertodt/term-painter.svg?branch=master)](https://travis-ci.org/LukasKalbertodt/term-painter)
     *   [mackwic/colored (⭐1.2k)](https://github.com/mackwic/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
-    *   [ogham/rust-ansi-term (⭐408)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
-    *   [SergioBenitez/yansi (⭐170)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
+    *   [ogham/rust-ansi-term (⭐413)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
+    *   [SergioBenitez/yansi (⭐171)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐49)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐50)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -1068,10 +1068,10 @@
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐7.6k)](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
-    *   [dylanmckay/protocol (⭐157)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [actix/actix (⭐7.7k)](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
+    *   [dylanmckay/protocol (⭐158)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
     *   [libpnet/libpnet (⭐1.8k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking [![build badge](https://api.travis-ci.org/libpnet/libpnet.svg?branch=master)](https://travis-ci.org/libpnet/libpnet)
-    *   [smoltcp-rs/smoltcp (⭐2.8k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
+    *   [smoltcp-rs/smoltcp (⭐2.9k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
     *   [tokio-rs/tokio (⭐19k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
 
 ### Libraries / Parsing
@@ -1099,7 +1099,7 @@
 
 ### Game Engine
 
-*   [Spring (⭐2.9k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Graphics
 
@@ -1107,7 +1107,7 @@
 
 ### Math
 
-*   [universal (⭐296)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license] [website](http://www.stillwater-sc.com/assets/content/stillwater-universal-sw.html)
+*   [universal (⭐301)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ### Reflection
 
@@ -1115,7 +1115,7 @@
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐422)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐430)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [39. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -1250,23 +1250,23 @@
 
 ### Contents / Frameworks
 
-*   [FHIR Server for Azure (⭐941)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+*   [FHIR Server for Azure (⭐943)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 
 ## [48. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Programming Language Design Patterns
 
 *   AngularJS
-    *   [design patterns (⭐1.9k)](https://github.com/mgechev/angularjs-in-patterns)
+    *   [design patterns (⭐2k)](https://github.com/mgechev/angularjs-in-patterns)
 *   JavaScript
-    *   [es6 design patterns (⭐254)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-    *   [humans (⭐3.2k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [es6 design patterns (⭐276)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+    *   [humans (⭐3.3k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐1.7k)](https://github.com/nnupoor/js_designpatterns)
     *   [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 *   Scala
-    *   [design-patterns (⭐131)](https://github.com/josephguan/scala-design-patterns)
+    *   [design-patterns (⭐142)](https://github.com/josephguan/scala-design-patterns)
 *   TypeScript
-    *   [design-patterns (⭐4.6k)](https://github.com/torokmark/design_patterns_in_typescript)
+    *   [design-patterns (⭐4.7k)](https://github.com/torokmark/design_patterns_in_typescript)
 *   UML
     *   [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
     *   [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
@@ -1277,14 +1277,14 @@
 
 ### DevOps & containers
 
-*   [kubernetes patterns (⭐27)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
+*   [kubernetes patterns (⭐28)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 
 ## [49. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Binlog-Replication
 
-*   [Kingbus (⭐853)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-*   [mysql-ripple (⭐364)](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+*   [Kingbus (⭐856)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
+*   [mysql-ripple (⭐367)](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -1309,7 +1309,7 @@
 
 ### Atom / Third-party APIs
 
-*   [SLIMA (⭐60)](https://github.com/neil-lindquist/slima) allows you to
+*   [SLIMA (⭐61)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 

@@ -10,7 +10,7 @@
 
 ### Talks
 
-*   [Phanbook (⭐302)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+*   [Phanbook (⭐303)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 
 ### Conferences / Communities
 
@@ -28,7 +28,7 @@
 
 ### Boilerplates
 
-*   [next-starter (⭐25)](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in.
+*   [next-starter (⭐26)](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in.
 
 ## [4. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Tools / Playground
 
-*   [typed-install (⭐96)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

@@ -57,7 +57,7 @@
 
 ### Loader
 
-*   [react-loader-spinner (⭐708)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
+*   [react-loader-spinner (⭐717)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
 
 ### Form Components / Miscellaneous
 
@@ -71,14 +71,14 @@
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/substitute.nvim (⭐220)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
-*   [gbprod/yanky.nvim (⭐324)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
+*   [gbprod/substitute.nvim (⭐233)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
+*   [gbprod/yanky.nvim (⭐332)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 
 ## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Docs / React
 
-*   [spectaql (⭐785)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
+*   [spectaql (⭐809)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 
 ---
 

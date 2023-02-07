@@ -163,7 +163,7 @@
 
 ### Libraries / Python
 
-*   [μMongo (⭐427)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+*   [μMongo (⭐429)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ## [11. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

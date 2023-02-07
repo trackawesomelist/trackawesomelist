@@ -45,7 +45,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-quill (⭐503)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
+*   [vue-quill (⭐514)](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Jekyll Landing Website Starter (⭐66)](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
+*   🚀 [Jekyll Landing Website Starter (⭐71)](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
 
 ## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -178,11 +178,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [ray-x/navigator.lua (⭐896)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰.
+*   [ray-x/navigator.lua (⭐909)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰.
 
 ### Version Manager / Diagnostics
 
-*   [NTBBloodbath/nvenv (⭐43)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
+*   [NTBBloodbath/nvenv (⭐42)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 
 ---
 

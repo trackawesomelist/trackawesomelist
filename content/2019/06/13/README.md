@@ -42,7 +42,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-backtotop (⭐183)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
+*   [vue-backtotop (⭐182)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -55,10 +55,10 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐4.6k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐581)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐479)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐134)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐4.7k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐593)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐489)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐138)](http://github.com/sslotin/algo)
 
 ---
 

@@ -53,7 +53,7 @@
 
 ### Frameworks / Runtimes
 
-*   [GPars (⭐234)](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
+*   [GPars (⭐232)](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
 
 ### API Gateways / Edge Services / Scala
 

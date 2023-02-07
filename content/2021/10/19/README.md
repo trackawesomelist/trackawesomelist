@@ -22,8 +22,8 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [smartcore (⭐420)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
-*   [linfa (⭐2.2k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
+*   [smartcore (⭐447)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+*   [linfa (⭐2.3k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [vizzu (⭐1.6k)](https://github.com/vizzuhq/vizzu-lib)
+*   [vizzu (⭐1.7k)](https://github.com/vizzuhq/vizzu-lib)
 
 ## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -146,7 +146,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-starter (⭐93)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+*   [vite-react-ts-starter (⭐96)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -163,7 +163,7 @@
 
 ## [13. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
-### Projects Related to eBPF / Testing in Virtual Environments
+### Projects Related to eBPF / Observability
 
 *   [pixie (⭐4.2k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 
@@ -236,7 +236,7 @@
 
 ### Libraries / Caching
 
-*   [al8n/stretto (⭐313)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
+*   [al8n/stretto (⭐320)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

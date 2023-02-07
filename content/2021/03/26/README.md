@@ -31,7 +31,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [Reforms.js (⭐12)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
+*   [Reforms.js (⭐13)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 
 ## [4. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Development / Books
 
-*   [just (⭐7.4k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐10k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐326)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐335)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

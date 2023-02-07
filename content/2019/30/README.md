@@ -402,7 +402,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [kitty (⭐17k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [kitty (⭐18k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
 
@@ -424,7 +424,7 @@
 
 ### Testing / Scala
 
-*   [Hoverfly (⭐1.9k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
+*   [Hoverfly (⭐2k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
 
 ## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -785,7 +785,6 @@
 *   [BlazorPrettyCode (⭐35)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
 *   [Blazor.EventAggregator (⭐101)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
 *   [Blazor Gamepad (⭐20)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor Hotkeys (⭐115)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
 *   [Blazor.LocalFiles (⭐45)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.
 
@@ -799,11 +798,11 @@
 
 ### Development / Database
 
-*   [sqlline (⭐534)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐546)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐5k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐5.4k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [46. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -822,7 +821,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel File Manager (⭐940)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+*   [Laravel File Manager (⭐942)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ## [48. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 

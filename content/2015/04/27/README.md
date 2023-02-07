@@ -40,30 +40,30 @@
 
 ### Awesome ClojureScript / Database
 
-*   [Datascript (⭐4.9k)](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
+*   [Datascript (⭐5k)](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 *   [Jaki (⭐16)](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 
 ### Awesome ClojureScript / Document Object Model
 
 *   [cljs-binding (⭐57)](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
-*   [Hiccups (⭐197)](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
-*   [Hickory (⭐538)](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+*   [Hiccups (⭐200)](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
+*   [Hickory (⭐573)](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 
 ### Awesome ClojureScript / Internationalization
 
-*   [Tower (⭐271)](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
+*   [Tower (⭐272)](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
 
 ### Awesome ClojureScript / JavaScript Interoperability
 
-*   [Pylon (⭐48)](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
+*   [Pylon (⭐49)](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [inflections-clj (⭐202)](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
+*   [inflections-clj (⭐204)](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 
 ### Awesome ClojureScript / Routing
 
-*   [Silk (⭐219)](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
+*   [Silk (⭐218)](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 ### Awesome ClojureScript / State Management
 
@@ -75,7 +75,7 @@
 
 ### Awesome ClojureScript / Validation
 
-*   [Bouncer (⭐358)](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
+*   [Bouncer (⭐360)](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
 
 ---
 

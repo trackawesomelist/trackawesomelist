@@ -10,7 +10,7 @@
 
 ### Software / Pastebins
 
-*   [Snibox](https://snibox.github.io/) - Code snippets manager with attractive tag-oriented interface. ([Demo](https://snibox-demo.herokuapp.com/), [Source Code (⭐1.5k)](https://github.com/snibox/snibox)) `MIT` `Ruby`
+*   [Snibox](https://snibox.github.io/) - Code snippets manager with attractive tag-oriented interface. ([Source Code (⭐1.6k)](https://github.com/snibox/snibox)) `MIT` `Ruby`
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

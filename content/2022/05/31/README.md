@@ -22,7 +22,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐442)](https://github.com/bolt/core)) `MIT` `PHP`
+*   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐448)](https://github.com/bolt/core)) `MIT` `PHP`
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-cem (⭐10)](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
+*   [vite-plugin-cem (⭐13)](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -100,19 +100,19 @@
 
 ### Configuration
 
-*   [config (⭐28)](https://github.com/num30/config) - configure you app using file, environment variables, or flags in two lines of code
+*   [config (⭐29)](https://github.com/num30/config) - configure you app using file, environment variables, or flags in two lines of code
 
 ### Financial
 
-*   [fpdecimal (⭐16)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
+*   [fpdecimal (⭐17)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
 
 ### Functional
 
-*   [mo (⭐1.2k)](https://github.com/samber/mo) - Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...).
+*   [mo (⭐1.3k)](https://github.com/samber/mo) - Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...).
 
 ### Dependency Injection
 
-*   [do (⭐767)](https://github.com/samber/do) - A dependency injection framework based on Generics.
+*   [do (⭐800)](https://github.com/samber/do) - A dependency injection framework based on Generics.
 
 ### Translation
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -58,25 +58,19 @@
 
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 
-## [9. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Utilities
-
-*   [RecApp (⭐101)](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
-
-## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [tldr (⭐667)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 
-## [11. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [10. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Tutorials
 
 *   [Vagrant Online Courses at Classpert](https://classpert.com/vagrant) List of Vagrant Online Courses (free and paid)
 
-## [12. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
+## [11. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
 
 ### Commercial integrations
 

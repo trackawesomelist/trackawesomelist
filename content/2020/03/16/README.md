@@ -20,7 +20,7 @@
 
 ### Utils
 
-*   [playwright-fluent (⭐91)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐107)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Time / Date / Age
 
-*   [react-google-flight-datepicker (⭐362)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
+*   [react-google-flight-datepicker (⭐363)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
 
 ### CSS / Style / Mouse Events
 

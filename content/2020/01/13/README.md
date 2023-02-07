@@ -169,7 +169,7 @@
 
 *   [gnat-ce](https://www.adacore.com/download) - GNAT Community edition. A release of AdaCore GNAT for free software developers, hobbyists, and students. The run-time libraries provided with GNAT Community are licensed under GPLv3 without linking exception. It supports Ada 2012 only.
 
-### OS and Kernels / Other / unknown licence
+### OS and Kernels / MIT
 
 *   [havk (⭐21)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 

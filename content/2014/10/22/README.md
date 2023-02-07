@@ -10,7 +10,7 @@
 
 ### Configuration
 
-*   [dotenv (⭐208)](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
+*   [dotenv (⭐209)](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

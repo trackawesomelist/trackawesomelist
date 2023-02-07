@@ -80,7 +80,7 @@
 
 ### Miscellaneous
 
-*   [react-pdf (⭐6.7k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+*   [react-pdf (⭐6.8k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 
 ### Form Components / Date / Time picker
 
@@ -109,7 +109,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tabler-icons (⭐132)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐14k)](https://github.com/tabler/tabler-icons) SVG icons.
+*   [vue-tabler-icons (⭐134)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐14k)](https://github.com/tabler/tabler-icons) SVG icons.
 *   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
@@ -145,8 +145,8 @@
 
 ### Projects
 
-*   [Internet Chronometer (⭐103)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
-*   [Pi-KVM (⭐5.5k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+*   [Internet Chronometer (⭐105)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
+*   [Pi-KVM (⭐5.6k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
 ## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

@@ -8,9 +8,9 @@
 
 ## [1. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools
+### Tools / Platform-specific tools
 
-*   [Polyglot (⭐323)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+*   [Polyglot (⭐324)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 *   [Globalize (⭐4.7k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
@@ -66,7 +66,7 @@
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid (⭐285)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid (⭐292)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ### Rollup Plugins / Included in Vite
 

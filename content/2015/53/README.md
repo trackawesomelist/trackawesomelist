@@ -79,11 +79,11 @@
 
 ### C++ / Gesture Detection
 
-*   [grt (⭐793)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+*   [grt (⭐794)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 ### Python / General-Purpose Machine Learning
 
-*   [pgmpy (⭐2.2k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
+*   [pgmpy (⭐2.3k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -119,16 +119,16 @@
 
 ### C
 
-*   [Libasyncd (⭐165)](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
+*   [Libasyncd (⭐168)](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
 *   [Onion (⭐1.9k)](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and web applications.
 
 ### C++
 
-*   [Pion (⭐294)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
+*   [Pion (⭐292)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 
 ### Messaging / Scala
 
-*   [Malamute (⭐304)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
+*   [Malamute (⭐305)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
 
 ### REST / Scala
 

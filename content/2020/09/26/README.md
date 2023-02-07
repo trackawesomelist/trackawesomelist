@@ -34,7 +34,7 @@
 
 ### HTTP
 
-*   [finch (⭐990)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐996)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Audio Tools
 
-*   [Cecilia (⭐150)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+*   [Cecilia (⭐155)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 
 ## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

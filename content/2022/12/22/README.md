@@ -10,7 +10,7 @@
 
 ### Using ChatGPT in other apps
 
-*   [GPT AI Assistant using LINE and Vercel (⭐552)](https://github.com/memochou1993/gpt-ai-assistant)
+*   [GPT AI Assistant using LINE and Vercel (⭐753)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Self-hosted
 
-*   [Memos (⭐5.4k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐5.6k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -63,11 +63,11 @@
 
 ### Data Validation / NLP
 
-*   [great\_expectations (⭐7.8k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-*   [pandera (⭐1.9k)](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library.
+*   [great\_expectations (⭐7.9k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+*   [pandera (⭐1.9k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
 *   [deepchecks (⭐2.3k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [evidently (⭐3.1k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐688)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [TensorFlow Data Validation (⭐693)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Tools
 
-*   [rpi-cookstrap (⭐6)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+*   [rpi-cookstrap (⭐5)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 
 ## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -132,7 +132,7 @@
 
 - Name: [**Taller Estampa**](https://www.tallerestampa.com)
 
-  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat)
+  Locations: \[Barcelona]
 
   Keywords: group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.
 
@@ -144,7 +144,7 @@
 
 - Name: [**Cascade**](https://cascadeshow.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: interactive art experience
 
@@ -156,7 +156,7 @@
 
 - Name: [**SuperUber**](https://www.superuber.com/)
 
-  Locations: ![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat)
+  Locations: \[Rio de Janeiro] \[São Paulo]
 
   Keywords: experiences that blend art, technology, architecture and design
 
@@ -168,7 +168,7 @@
 
 - Name: [**Eyeo**](https://www.eyeofestival.com/)
 
-  Locations: ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+  Locations: \[Melbourne]
 
   Keywords: a gathering for the creative technology community
 
@@ -177,7 +177,7 @@
 
 - Name: [**ISEA**](https://isea2022.isea-international.org/)
 
-  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Barcelona] \[Paris]
 
   Keywords: the crossroads where art, design, science, technology and society meet
 
@@ -186,7 +186,7 @@
 
 - Name: [**SXSW**](https://www.sxsw.com/)
 
-  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat)
+  Locations: \[Austin]
 
   Keywords: film, music, interactive arts
 
@@ -198,7 +198,7 @@
 
 - Name: [**Goldsmiths**](https://www.gold.ac.uk/pg/ma-computational-arts/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: a degree which develops your arts practice through the expressive world of creative computation
 
@@ -207,7 +207,7 @@
 
 - Name: [**ITP**](https://tisch.nyu.edu/itp)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.
 
@@ -216,7 +216,7 @@
 
 - Name: [**MIT Medialab**](https://media.mit.edu/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration
 
@@ -225,7 +225,7 @@
 
 - Name: [**Paris College of Art**](https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: designed for those who are interested in exploring the wide-ranging creative field of New Media
 
@@ -234,7 +234,7 @@
 
 - Name: [**University of the Arts**](https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: computational technologies in the context of creative computing research
 
@@ -246,7 +246,7 @@
 
 ### Contents / Tools
 
-*   [RSA Encryption (⭐21)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+*   [RSA Encryption (⭐23)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
 ## [14. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -270,11 +270,11 @@
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐362)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐551)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐3.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐4.1k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ### Inbox: Text and Natural Language Processing / ChatGPT
 

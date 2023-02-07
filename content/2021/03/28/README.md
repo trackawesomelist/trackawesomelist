@@ -29,7 +29,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-elements (⭐528)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
+*   [vue-stripe-elements (⭐529)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
 
 ### Components & Libraries / Dev Tools
 

@@ -500,15 +500,15 @@ RewriteRule ^robots.txt - [L]
 
 ## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [aws (⭐109)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 
-### Networking and Communication Middleware / Other / unknown licence
+### Networking and Communication Middleware / MIT
 
 *   [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 
@@ -561,7 +561,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Data validation / Third-party APIs
 
-*   [clavier (⭐15)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -650,13 +650,13 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Regular Expression
 
-*   [CTRE (⭐2.6k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
+*   [CTRE (⭐2.7k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
 ## [48. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Ruby / Scala
 
-*   [Grape (⭐9.6k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
+*   [Grape (⭐9.7k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
 ## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -781,7 +781,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐142)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐143)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
 ## [62. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -1157,14 +1157,14 @@ Topics: HTML, CSS, JavaScript, WebGL\
 ### Samples
 
 *   [LunarG's Samples (⭐1.3k)](https://github.com/LunarG/VulkanSamples)
-*   [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
+*   [Vulkan Basic Graphics Samples (⭐22)](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 
 ### Khronos
 
 *   Quick Reference Sheets
     *   [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *   [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
-*   [Conformance Tests (CTS) (⭐429)](https://github.com/KhronosGroup/Vulkan-CTS)
+*   [Conformance Tests (CTS) (⭐431)](https://github.com/KhronosGroup/Vulkan-CTS)
 *   Conferences and Presentations
     *   [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *   [2016 UK Chapter: Moving to Vulkan](https://www.khronos.org/developers/library/2016-uk-chapter-moving-to-vulkan)

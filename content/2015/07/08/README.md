@@ -16,7 +16,7 @@
 
 ### Tools / Randomized Algorithms
 
-*   [interactive-coding-challenges (⭐26k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+*   [interactive-coding-challenges (⭐27k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## [3. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
 

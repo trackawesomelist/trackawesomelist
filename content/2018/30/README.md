@@ -151,17 +151,17 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐535)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐536)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Work
 
-*   [Code Review (⭐3.7k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐3.8k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
 *   [Calculators (⭐117)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
-*   [Captcha (⭐936)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Captcha (⭐941)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -321,7 +321,7 @@
 
 *   [vue2-image-loader (⭐6)](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
 *   [@owumaro/vue-date-range-picker (⭐28)](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
-*   [vue-autonumeric (⭐86)](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
+*   [vue-autonumeric (⭐87)](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
 
 ## [25. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -333,7 +333,7 @@
 ### Other Awesomes / Ephemera
 
 *   [awesome-generative-art (⭐1.5k)](https://github.com/kosmos/awesome-generative-art)
-*   [awesome-creative-coding (⭐10k)](https://github.com/terkelg/awesome-creative-coding)
+*   [awesome-creative-coding (⭐11k)](https://github.com/terkelg/awesome-creative-coding)
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -431,7 +431,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Web Frameworks
 
-*   [Vert.x Vaadin (⭐40)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
+*   [Vert.x Vaadin (⭐41)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 
 ## [37. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -480,7 +480,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Utilities / General Tools
 
-*   [Mac Cache Cleaner (⭐204)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac Cache Cleaner (⭐206)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [41. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 

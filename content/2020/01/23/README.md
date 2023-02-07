@@ -10,8 +10,8 @@
 
 ### Python / Computer Vision
 
-*   [Detectron (⭐25k)](https://github.com/facebookresearch/Detectron) - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. **\[Deprecated]**
-*   [Detecto (⭐576)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
+*   [Detectron (⭐26k)](https://github.com/facebookresearch/Detectron) - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. **\[Deprecated]**
+*   [Detecto (⭐577)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -35,7 +35,7 @@
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
-*   [oster (⭐264)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
+*   [oster (⭐267)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 

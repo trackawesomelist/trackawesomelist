@@ -37,7 +37,7 @@
 
 ### Code Generators
 
-*   [Geci (⭐113)](https://github.com/verhas/javageci) - Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
+*   [Geci (⭐114)](https://github.com/verhas/javageci) - Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
 *   [JPA Buddy ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.jpa-buddy.com) - Plugin for IntelliJ IDEA. Provides visual tools for generating JPA entities, Spring Data JPA repositories, Liquibase changelogs and SQL scripts. Offers automatic Liquibase/Flyway script generation by comparing model to DB, and reverse engineering JPA entities from DB tables.
 
 ### Miscellaneous
@@ -62,7 +62,7 @@
 
 ### Form Components / Toggle
 
-*   [@anatoliygatt/heart-switch (⭐414)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
+*   [@anatoliygatt/heart-switch (⭐417)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 
 ## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -103,7 +103,7 @@
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐610)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐614)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
 
 ---
 

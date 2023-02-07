@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ByteHub (⭐48)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
+*   [ByteHub (⭐50)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
 
 ## [2. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -46,14 +46,14 @@
 
 ### Yaml
 
-*   [mini-yaml (⭐159)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
-*   [yaml-cpp (⭐3.8k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
+*   [mini-yaml (⭐161)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [yaml-cpp (⭐3.9k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
 
 ## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Productivity
 
-*   [Journapi (⭐6)](https://github.com/ChangJoo-Park/journapi_flutter) - Bullet journal application made with Flutter and GetX. by [ChangJoo Park](https://github.com/ChangJoo-Park)
+*   [Journapi (⭐7)](https://github.com/ChangJoo-Park/journapi_flutter) - Bullet journal application made with Flutter and GetX. by [ChangJoo Park](https://github.com/ChangJoo-Park)
 
 ## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Misc
 
-*   [anyolite (⭐125)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
+*   [anyolite (⭐127)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -96,16 +96,16 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-windicss-starter (⭐173)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
+*   [vite-vue2-windicss-starter (⭐174)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-node (⭐624)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
+*   [vite-plugin-node (⭐647)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-importer (⭐47)](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
-*   [vite-plugin-banner (⭐41)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
+*   [vite-plugin-importer (⭐48)](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
+*   [vite-plugin-banner (⭐43)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -113,13 +113,13 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-tsconfig-paths (⭐670)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
+*   [vite-tsconfig-paths (⭐693)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 *   [vite-plugin-theme (⭐111)](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐604)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐52k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐606)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 ### Vue / Routing
 
@@ -127,16 +127,16 @@
 
 ### Vue / Loaders
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐464)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐302)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐468)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐311)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 ### Vue / SSG
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐907)](https://github.com/antfu/vite-ssg) - Server-side generation.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐917)](https://github.com/antfu/vite-ssg) - Server-side generation.
 
 ### Vue / Ecosystem
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-i18n-resources (⭐24)](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-i18n-resources (⭐26)](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 
 ## [14. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -192,7 +192,7 @@
 
 ### Miscellaneous
 
-*   [react-swipeable-list (⭐62)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+*   [react-swipeable-list (⭐64)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 
 ## [21. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Plugins
 
-*   💼 [Content Placeholder (⭐101)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
+*   💼 [Content Placeholder (⭐102)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -458,15 +458,15 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Oblecto (⭐134)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
+*   [Oblecto (⭐135)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [changedetection.io (⭐7.5k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
+*   [changedetection.io (⭐7.9k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 
 ### Software / Pastebins
 
-*   [FlashPaper (⭐165)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
+*   [FlashPaper (⭐171)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
 
 ## [37. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -484,22 +484,22 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Yacht (⭐2.3k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
-*   [Antares SQL (⭐946)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
+*   [Yacht (⭐2.4k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Antares SQL (⭐963)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 
 ### Components & Libraries / UI Components
 
 *   [vue-content-loader (⭐2.9k)](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
-*   [vue-lunar-calendar-pro (⭐62)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
-*   [vue-socials (⭐22)](https://github.com/webistomin/vue-socials) - 💬 Social media share buttons and counts for Vue.js.
+*   [vue-lunar-calendar-pro (⭐63)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+*   [vue-socials (⭐24)](https://github.com/webistomin/vue-socials) - 💬 Social media share buttons and counts for Vue.js.
 
 ### Components & Libraries / Frameworks
 
-*   [Mijin (⭐181)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+*   [Mijin (⭐183)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-input-validator (⭐14)](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
+*   [vue-input-validator (⭐15)](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
 
 ### Components & Libraries / Utilities
 
@@ -515,9 +515,9 @@
 
 ### Distribution
 
-*   [boon (⭐115)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
-*   [love-release (⭐436)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
-*   [makelove (⭐77)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
+*   [boon (⭐117)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+*   [love-release (⭐438)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
+*   [makelove (⭐79)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 
 ## [42. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -848,7 +848,7 @@
 
 ### Extending Content Editor
 
-*   [Sitecore Smart Commands (⭐9)](https://github.com/AlenPelin/Sitecore-Smart-Commands) - A shared-source module that contains smart copy, duplicate and clone commands in Content Editor, that implement so much wanted functionality missing by default.
+*   [Sitecore Smart Commands (⭐10)](https://github.com/AlenPelin/Sitecore-Smart-Commands) - A shared-source module that contains smart copy, duplicate and clone commands in Content Editor, that implement so much wanted functionality missing by default.
 
 ### Frameworks
 
@@ -867,17 +867,17 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Ridiculous Coding (⭐591)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
+*   [Ridiculous Coding (⭐599)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
 *   [Funexpected Flash Tools (⭐15)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
-*   [Shell Fur (⭐227)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
+*   [Shell Fur (⭐228)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
 
 ### Modules / Godot 3.2+
 
 *   [Flash Module (⭐25)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
-*   [GodotAIGym (⭐150)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
+*   [GodotAIGym (⭐152)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 
 ## [53. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
@@ -1072,7 +1072,7 @@
 
 ### Libraries / Text processing
 
-*   [becheran/wildmatch (⭐39)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
+*   [becheran/wildmatch (⭐41)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 
 ## [58. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Utilities
 
-*   [erlang-history (⭐497)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐498)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

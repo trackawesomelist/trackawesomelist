@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2023
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -50,21 +50,47 @@
 
 *   [AlgoPoaP](https://github.com/AlgoPoaP) - Proof of Attendance Protocol (and much more) on Algorand.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Chat Bot
+
+- Name: [Vacay](https://usevacay.com/chatbot)
+
+  Title: Vacation Chat Agent.
+
+  Description: This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Slides & Web Design
+
+- Name: [Piggy](https://piggy.to/magic)
+
+  Title: Mobile Content Creator.
+
+  Description: Creating stunning content on your phone just got easy.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Encoding
 
 *   TOML
     *   [tamasfe/taplo (⭐604)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] — A TOML toolkit written in Rust [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
-    *   [toml-rs/toml (⭐279)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
+    *   [toml-rs/toml (⭐306)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
 
-## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Games / Others
 
 *   [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
 
-## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [10. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Social
 
@@ -91,4 +117,5 @@
 
 ---
 
+- Prev: [Jan 26, 2023](/content/2023/01/26/README.md)
 - Next: [Jan 24, 2023](/content/2023/01/24/README.md)

@@ -74,7 +74,7 @@
 
 ### Frameworks / Runtimes
 
-*   [Grenache (⭐208)](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
+*   [Grenache (⭐207)](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
 
 ## [7. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐337)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐340)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -505,11 +505,11 @@
 
 ### Database Drivers/Clients
 
-*   [leveldb (⭐40)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
+*   [leveldb (⭐39)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
 
 ### Examples and funny stuff
 
-*   [exercism-crystal (⭐65)](https://github.com/exercism/crystal) - Exercism exercises
+*   [exercism-crystal (⭐66)](https://github.com/exercism/crystal) - Exercism exercises
 
 ### Game Development
 
@@ -525,12 +525,12 @@
 
 ### Network Protocols
 
-*   [jwt (⭐197)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+*   [jwt (⭐198)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
 *   [msgpack-crystal (⭐129)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐718)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐722)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
@@ -545,7 +545,7 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐485)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐487)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
@@ -554,10 +554,10 @@
 *   TextMate
     *   [Crystal.tmbundle (⭐18)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐389)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐394)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐242)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐245)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 

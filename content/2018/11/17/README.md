@@ -32,7 +32,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐371)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐378)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [4. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -61,7 +61,7 @@
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Learning
+### Learning / Misc
 
 *   [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Responsive email course by Justine Jordan and Jason Rodriguez.
 

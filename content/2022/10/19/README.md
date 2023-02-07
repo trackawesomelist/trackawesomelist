@@ -10,13 +10,13 @@
 
 ### Template Engine
 
-*   [Handlebars.Net (⭐959)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
+*   [Handlebars.Net (⭐967)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [vint (⭐664)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
+*   [vint (⭐666)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-vroom (⭐7)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
+*   [vue-vroom (⭐8)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 
 ## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

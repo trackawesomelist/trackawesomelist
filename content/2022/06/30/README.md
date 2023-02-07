@@ -22,27 +22,27 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Akula (⭐789)](https://github.com/akula-bft/akula) - Rust Ethereum Execution Layer (EL) Client (WIP)
-*   [ethabi (⭐376)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
+*   [Akula (⭐794)](https://github.com/akula-bft/akula) - Rust Ethereum Execution Layer (EL) Client (WIP)
+*   [ethabi (⭐386)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
 *   [ethers-rs (⭐1.5k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
-*   [etk (⭐248)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
-*   [Foundry (⭐5.1k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
-*   [Lighthouse (⭐2.1k)](https://github.com/sigp/lighthouse) — Rust Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
-*   [mev-inspect-rs (⭐434)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
-*   [opensea-rs (⭐226)](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.
-*   [revm (⭐520)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust.
-*   [svm-rs (⭐115)](https://github.com/roynalnaruto/svm-rs) - Solidity-Compiler Version Manager.
+*   [etk (⭐257)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
+*   [Foundry (⭐5.3k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
+*   [Lighthouse (⭐2.2k)](https://github.com/sigp/lighthouse) — Rust Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
+*   [mev-inspect-rs (⭐436)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
+*   [opensea-rs (⭐227)](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.
+*   [revm (⭐544)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust.
+*   [svm-rs (⭐117)](https://github.com/roynalnaruto/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Libraries / Command-line
 
 *   Prompt
     *   [hashmismatch/terminal\_cli.rs (⭐47)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)]  — build an interactive command prompt [![build badge](https://api.travis-ci.org/hashmismatch/terminal_cli.rs.svg?branch=master)](https://travis-ci.org/hashmismatch/terminal_cli.rs)
     *   [starship/starship](https://starship.rs/) \[[starship](https://crates.io/crates/starship)]  — A minimal, blazing fast, and extremely customizable prompt for any shell [![Build status](https://github.com/starship/starship/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/starship/starship/actions)
-    *   [ynqa/promkit (⭐71)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![Build status](https://github.com/ynqa/promkit/workflows/promkit/badge.svg?branch=master)](https://github.com/ynqa/promkit/actions)
+    *   [ynqa/promkit (⭐73)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![Build status](https://github.com/ynqa/promkit/workflows/promkit/badge.svg?branch=master)](https://github.com/ynqa/promkit/actions)
 
 ### Libraries / Cryptography
 
-*   [gakonst/ark-circom (⭐143)](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
+*   [gakonst/ark-circom (⭐146)](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -60,13 +60,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dirty\_cat (⭐637)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
+*   [dirty\_cat (⭐650)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [argon-dashboard-vue3 (⭐127)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
+*   [argon-dashboard-vue3 (⭐131)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -86,7 +86,7 @@
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Articles
+### Articles / Misc
 
 *   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails.
 

@@ -56,13 +56,13 @@
 
 ### Miscellaneous
 
-*   [Food (⭐128)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Food (⭐130)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐599)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐603)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 

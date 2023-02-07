@@ -109,7 +109,7 @@
 
 *   [cauldron (⭐73)](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 *   [httpoison (⭐2.1k)](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
-*   [httpotion (⭐723)](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
+*   [httpotion (⭐724)](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 
 ### ORM and Datamapping
 
@@ -124,7 +124,7 @@
 ### Text and Numbers
 
 *   [colors (⭐7)](https://github.com/lidashuang/colors) - Colors util written in Elixir.
-*   [decimal (⭐412)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
+*   [decimal (⭐414)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 *   [inflex (⭐365)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 *   [uuid (⭐345)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
@@ -133,7 +133,7 @@
 *   [currently (⭐4)](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 *   [dpd\_client (⭐1)](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 *   [dropbox (⭐13)](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
-*   [facebook (⭐133)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+*   [facebook (⭐134)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 *   [reap (⭐4)](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)

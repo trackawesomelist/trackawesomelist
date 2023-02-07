@@ -31,18 +31,17 @@
 
 ### Libraries / Rust
 
-*   [mongodb-rust-driver (⭐1.1k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
+*   [mongodb-rust-driver (⭐1.2k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
 
 ### Tools / Desktop
 
-*   [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
 *   [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [CXXGraph (⭐184)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐192)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 
 ## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -54,7 +53,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐26)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐27)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

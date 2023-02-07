@@ -70,7 +70,7 @@
 
 ### ORM and Datamapping
 
-*   [mongodb\_driver (⭐172)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
+*   [mongodb\_driver (⭐174)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
 
 ## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [clml (⭐250)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [clml (⭐251)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

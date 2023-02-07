@@ -8,11 +8,11 @@
 
 ## [1. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
-*   [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
+*   [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email.
 
-### Inspirations
+### Inspirations / Misc
 
 *   [Really good emails Codepen](http://codepen.io/reallygoodemails/)
 

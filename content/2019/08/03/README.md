@@ -67,14 +67,14 @@
 
 *   React
     *   [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-    *   [react-bits (⭐14k)](https://github.com/vasanthk/react-bits)
+    *   [react-bits (⭐15k)](https://github.com/vasanthk/react-bits)
     *   [reactpatterns.com](https://reactpatterns.com)
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Cloudflare (⭐360)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [Cloudflare (⭐366)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐543)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐555)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Font
 
@@ -119,11 +119,11 @@
 
 ### Image Processing
 
-*   [Leptonica (⭐1.3k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
+*   [Leptonica (⭐1.4k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
 
 ### Serialization
 
-*   [Cap'n Proto (⭐9.5k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
+*   [Cap'n Proto (⭐9.6k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
 
 ### Machine Learning
 
@@ -131,12 +131,12 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐751)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐766)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 
 *   [DPDK (⭐2.2k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
-*   [PF\_RING™ (⭐2.3k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
+*   [PF\_RING™ (⭐2.4k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 
 ### Robotics
 
@@ -148,7 +148,7 @@
 
 ### Integrated Development Environment
 
-*   [YouCompleteMe (⭐24k)](https://github.com/ycm-core/YouCompleteMe) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+*   [YouCompleteMe (⭐25k)](https://github.com/ycm-core/YouCompleteMe) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 
 ---
 

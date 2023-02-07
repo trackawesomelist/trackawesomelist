@@ -33,7 +33,7 @@
 
 ### Tools
 
-*   [Pieman (⭐198)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
+*   [Pieman (⭐197)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 

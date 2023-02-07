@@ -82,7 +82,7 @@
 
 ### Miscellaneous
 
-*   [expyplot (⭐28)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
+*   [expyplot (⭐29)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

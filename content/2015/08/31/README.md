@@ -47,7 +47,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐33)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.2k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.3k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [5. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Web Frameworks
 
-*   [Kovert (⭐154)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
+*   [Kovert (⭐155)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
 ## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
@@ -185,7 +185,7 @@
 
 ### Text and Numbers
 
-*   [money (⭐692)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐694)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [11. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

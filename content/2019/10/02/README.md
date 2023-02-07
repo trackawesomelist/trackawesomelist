@@ -11,7 +11,6 @@
 ### Internet and Networking
 
 *   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
-*   [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 
 ## [2. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

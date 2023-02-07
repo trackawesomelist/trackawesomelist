@@ -28,7 +28,7 @@
 
 ### Projects
 
-*   [Lomorage (⭐127)](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
+*   [Lomorage (⭐134)](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 
 ## [5. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 

@@ -176,8 +176,8 @@
 
 ### Community
 
-*   [GitHub (⭐99k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐99k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐100k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐100k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -207,7 +207,7 @@
 
 ### Miscellaneous
 
-*   [jsweet (⭐1.3k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
+*   [jsweet (⭐1.4k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 
 ## [15. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -231,7 +231,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐331)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐332)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## [19. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -243,7 +243,7 @@
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [Raspberry Pi 4 builds (⭐227)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
+*   [Raspberry Pi 4 builds (⭐231)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
 ## [21. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -365,7 +365,7 @@
 
 ### Front-End Development
 
-*   [Svelte (⭐785)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+*   [Svelte (⭐803)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
 ### Back-End Development
 
@@ -373,7 +373,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐211)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐229)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ## [26. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
@@ -474,7 +474,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐129)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐135)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
 ## [35. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
@@ -641,9 +641,9 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Miscellaneous
 
-*   [fastcomments-react (⭐4)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
+*   [fastcomments-react (⭐3)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
 *   [react-pulse-text (⭐12)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
-*   [@restpace/schema-form (⭐34)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
+*   [@restpace/schema-form (⭐35)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
 
 ### Device Input / Keyboard Events
 
@@ -670,11 +670,11 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ## [46. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
-### Apps
+### Apps / Platform-specific tools
 
 *   [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
 
-### Tools
+### Tools / Platform-specific tools
 
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
@@ -682,7 +682,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 *   [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Technology aimed at helping teams effortlessly localize websites.
 
-### Articles
+### Articles / Platform-specific tools
 
 *   [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: i18n and l10n.
 *   [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing your app.
@@ -693,14 +693,14 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 *   [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
 
-### Blogs
+### Blogs / Platform-specific tools
 
 *   [Speakt](https://speakt.com/blog/) - Well-rounded resource, offering in-depth information from the best professionals in the industry on everything related to translation.
 *   [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
 *   [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
 *   [Between Translations](http://foxdocs.biz/BetweenTranslations/) - Run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
 
-### Online Courses
+### Online Courses / Platform-specific tools
 
 *   [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of internationalization and internationalization for digital products provided by the University of Washington.
 *   [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - English grammar course for beginners provided by the University of California.
@@ -709,13 +709,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
 *   [Machine Translation](https://www.coursera.org/learn/machinetranslation) - Explains the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
 
-### Books
+### Books / Platform-specific tools
 
 *   [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information) - Establishes background in NLP and statistics, then develops the basics through to current research. By the end readers can build their own translation systems. The author is [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
 *   [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information) - This introduction to machine translation starts from the basics of neural network methods and reaches the state of the art, while giving historical, linguistic, and applied context. Code examples in Python give a hands-on blueprint for implementation. The author is still Philipp Koehn.
 *   [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory and practice of translation from a variety of linguistic and cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ\&hl=en) and [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 
-### Other
+### Other / Platform-specific tools
 
 *   [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
 
@@ -761,7 +761,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐468)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐471)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -769,7 +769,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Software / Money, Budgeting & Management
 
-*   [Tabby (⭐61)](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0-only` `PHP`
+*   [Tabby (⭐62)](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0` `PHP`
 
 ## [52. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -781,15 +781,15 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Python / Computer Vision
 
-*   [Learnergy (⭐57)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
+*   [Learnergy (⭐58)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 
 ### Python / Natural Language Processing
 
-*   [NALP (⭐21)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
+*   [NALP (⭐22)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
 
 ### Python / General-Purpose Machine Learning
 
-*   [OPFython (⭐29)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
+*   [OPFython (⭐30)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 
 ## [54. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -950,11 +950,11 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Utils / Third-party APIs
 
 *   [calispel (⭐25)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.1k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 
 ### Apps / Third-party APIs
 
-*   [cl-phonetic (⭐22)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
+*   [cl-phonetic (⭐23)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
 *   [cl-string-generator (⭐20)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs
@@ -1019,15 +1019,15 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Resources / Tutorials
 
-*   [Building a realtime quiz with VueJS using a starter kit (⭐48)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
+*   [Building a realtime quiz with VueJS using a starter kit (⭐49)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐632)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐635)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
-*   [Realtime quiz framework (⭐48)](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
+*   [Realtime quiz framework (⭐49)](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1035,18 +1035,18 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-toasts (⭐133)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
-*   [vue-use-sound (⭐311)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
-*   [@vueform/multiselect (⭐562)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
+*   [vue-my-toasts (⭐132)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
+*   [vue-use-sound (⭐319)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
+*   [@vueform/multiselect (⭐569)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 
 ### Components & Libraries / Frameworks
 
 *   [element3 (⭐3.2k)](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
-*   [Qui (⭐229)](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
+*   [Qui (⭐230)](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
 
 ### Components & Libraries / Utilities
 
-*   [vue-catch-hrefs (⭐3)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
+*   [vue-catch-hrefs (⭐4)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
 
 ---
 

@@ -40,7 +40,7 @@
 
 ### Misc
 
-*   [Guard (⭐676)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐682)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Packages / Security
 
-*   [themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ### Packages / Authorization
 

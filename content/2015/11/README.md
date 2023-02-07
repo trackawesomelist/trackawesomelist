@@ -111,11 +111,11 @@
 
 ### Date and Time
 
-*   [tzdata (⭐260)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐261)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
-*   [estree (⭐96)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐97)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
@@ -127,8 +127,8 @@
 
 ### Framework Components
 
-*   [corsica (⭐463)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐373)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐464)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐384)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐164)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -152,7 +152,7 @@
 
 ### Testing
 
-*   [white\_bread (⭐213)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
+*   [white\_bread (⭐214)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
 
 ### Text and Numbers
 

@@ -35,7 +35,7 @@
 
 ### Software / File Transfer & Synchronization
 
-*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐7.9k)](https://github.com/owncloud/core), [Clients (⭐7.9k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP`
+*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8k)](https://github.com/owncloud/core), [Clients (⭐8k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP`
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -56,7 +56,7 @@
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [bonfire (⭐781)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [bonfire (⭐797)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
 ## [9. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
@@ -221,7 +221,7 @@ Language: English
 
 ### Applications / Utilities
 
-*   [nomino (⭐470)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
+*   [nomino (⭐475)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 
 ## [16. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -247,7 +247,7 @@ Language: English
 
 ### Tools / Playground
 
-*   [SweetIQ/schemats (⭐990)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
+*   [SweetIQ/schemats (⭐991)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 
 ## [19. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -371,7 +371,7 @@ Language: English
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐115k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐117k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 *   [Substats API](https://substats.spencerwoo.com/)
 
 ### TTRSS / Outline Processor Markup Language
@@ -467,7 +467,6 @@ Language: English
 
 ### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
-*   [FeedBase](http://feedbase.io/) <sup>[495](https://t.me/s/aboutrss/495)</sup>
 *   [Feed Curator](https://vincode.io/feed-curator/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/us/app/feed-curator/id1458647758)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vincode-io/FeedCurator)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Discussion Forums / Crypto or Blockchain relevant
@@ -550,7 +549,7 @@ Language: English
 
 ### Software / Automation
 
-*   [YoutubeDL-Material (⭐1.7k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
+*   [YoutubeDL-Material (⭐1.8k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -581,7 +580,7 @@ Language: English
 
 *   [TodoMVC Vue 3 Composition API (⭐121)](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
 *   [TodoMVC Vue (⭐28)](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
-*   [Movie search app with Composition API (⭐40)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
+*   [Movie search app with Composition API (⭐41)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 
 ### Projects Using Vue.js / Open Source
 
@@ -676,7 +675,7 @@ Language: English
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐620)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐627)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -731,7 +730,7 @@ Language: English
 
 ### Others / Others
 
-*   [BlazorWebView (⭐129)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
+*   [BlazorWebView (⭐128)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
 
 ## [39. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -829,7 +828,7 @@ Language: English
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [replic (⭐28)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
+*   [replic (⭐30)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-ansi-term (⭐23)](https://github.com/vindarel/cl-ansi-term) - print
     colorized text, horizontal lines, progress bars, (un)ordered lists
     and tables on ANSI-compliant terminals. [GPL3](http://www.gnu.org/copyleft/gpl.html).
@@ -840,10 +839,6 @@ Language: English
     functions like a shell command, without the need to write a command
     line arguments parser. And it also can be used as a Make-like
     build-tool. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-
-### System administration / Third-party APIs
-
-*   [Adams (⭐175)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
 
 ### Date and time / Third-party APIs
 
@@ -1051,7 +1046,7 @@ Language: English
 
 ### Audio / Video
 
-*   [material-ui-audio-player (⭐61)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
+*   [material-ui-audio-player (⭐63)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 
 ### UI Animation / Syntax Highlight
 

@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [ydl\_api\_ng (⭐44)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
+*   [ydl\_api\_ng (⭐47)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -18,7 +18,7 @@
 
 ### Software / Software Development - Localization
 
-*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code (⭐562)](https://github.com/tolgee/server)) `Apache-2.0` `Docker/Java`
+*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code (⭐584)](https://github.com/tolgee/server)) `Apache-2.0` `Docker/Java`
 
 ### Software / Ticketing
 

@@ -16,7 +16,13 @@
 
 *   [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
 
-## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Debug
+
+*   [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
+
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Books
 
@@ -26,21 +32,11 @@
 
 *   [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
 
-## [3. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [4. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [modern-cmake-sample (⭐581)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
-
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Debug
-
-*   [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
-
-### Other Awesome Projects
-
-*   [C++ Awesome Pack (⭐171)](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -74,8 +70,8 @@
 ### Libraries / Command-line
 
 *   Line editor
-    *   [kkawakam/rustyline (⭐1.1k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust [![build badge](https://api.travis-ci.org/kkawakam/rustyline.svg?branch=master)](https://travis-ci.org/kkawakam/rustyline)
-    *   [MovingtoMars/liner (⭐71)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality [![build badge](https://api.travis-ci.org/MovingtoMars/liner.svg?branch=master)](https://travis-ci.org/MovingtoMars/liner)
+    *   [kkawakam/rustyline (⭐1.2k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust [![build badge](https://api.travis-ci.org/kkawakam/rustyline.svg?branch=master)](https://travis-ci.org/kkawakam/rustyline)
+    *   [MovingtoMars/liner (⭐72)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality [![build badge](https://api.travis-ci.org/MovingtoMars/liner.svg?branch=master)](https://travis-ci.org/MovingtoMars/liner)
     *   [murarth/linefeed (⭐176)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader [![build badge](https://api.travis-ci.org/murarth/linefeed.svg?branch=master)](https://travis-ci.org/murarth/linefeed)
     *   [srijs/rust-copperline (⭐25)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
 

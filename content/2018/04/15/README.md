@@ -22,7 +22,7 @@
 
 ### Concurrency
 
-*   [Intel Parallel STL (⭐647)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
+*   [Intel Parallel STL (⭐652)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
 
 ## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [tmux (⭐27k)](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
+*   [tmux (⭐28k)](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tmux/tmux)
 
 ### Utilities / System Related Tools
 

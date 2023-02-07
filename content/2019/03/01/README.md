@@ -103,7 +103,7 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [cl-aws-runtime-test (⭐31)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
+*   [cl-aws-runtime-test (⭐32)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -142,23 +142,23 @@
 
 ### Entertainment / Social Media
 
-*   [facebook-cli (⭐372)](https://github.com/specious/facebook-cli) - Facebook command line interface.
+*   [facebook-cli (⭐376)](https://github.com/specious/facebook-cli) - Facebook command line interface.
 
 ### Utilities / macOS
 
-*   [active-win-cli (⭐44)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
+*   [active-win-cli (⭐50)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 
 ### Files and Directories / File Managers
 
-*   [nnn (⭐15k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+*   [nnn (⭐16k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Files and Directories / Directory Navigation
 
-*   [goto (⭐813)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+*   [goto (⭐826)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ### Images / Image Conversion
 
-*   [imgp (⭐901)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
+*   [imgp (⭐928)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

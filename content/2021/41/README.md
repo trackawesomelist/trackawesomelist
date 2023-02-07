@@ -55,7 +55,7 @@
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐34)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐35)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -182,7 +182,7 @@
 
 ### Code Generators
 
-*   [Record-Builder (⭐354)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
+*   [Record-Builder (⭐372)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 
 ### People / Twitter
 
@@ -222,11 +222,11 @@
 
 ### Applications
 
-*   [datafusion (⭐3k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐3.1k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐161)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐169)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ### Libraries / Web programming
 
@@ -294,7 +294,7 @@
 
 ### Contents / Finance
 
-*   [Auction (⭐25)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
+*   [Auction (⭐29)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
 
 ## [29. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
@@ -354,7 +354,7 @@
 
 ## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Inspirations
+### Inspirations / Misc
 
 *   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
 
@@ -472,7 +472,7 @@
 
 ## [40. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
-### Tools
+### Tools / Platform-specific tools
 
 *   [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 
@@ -558,7 +558,7 @@
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐239)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐239)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
+*   [Majorsoft Blazor Components (⭐245)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐245)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### Individual components / Others
 
@@ -595,7 +595,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-shared-modules (⭐17)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
+*   [vite-plugin-shared-modules (⭐18)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
 ## [55. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
@@ -680,7 +680,7 @@
 
 *   [redbpf examples (⭐1.5k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
 
-### Projects Related to eBPF / Testing in Virtual Environments
+### Projects Related to eBPF / Tools
 
 *   [redbpf (⭐1.5k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
@@ -699,7 +699,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐132)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐137)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [65. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 

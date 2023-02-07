@@ -27,7 +27,7 @@
 ### Assembly Manipulation
 
 *   [Fody (⭐3.9k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
-*   [ILRepack (⭐967)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
+*   [ILRepack (⭐971)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 
 ### CLI
 

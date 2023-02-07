@@ -60,28 +60,28 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Grunt Email Boilerplate (⭐286)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 
-### Articles
+### Articles / Misc
 
 *   [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - An email design workflow by By Lee Munroe.
 
-### Design
+### Design / Misc
 
 *   [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/) - I looked at the navigation of 50 responsive retail emails. Here is a breakdown of the patterns I discovered.
 
-### Blogs
+### Blogs / Misc
 
 *   [Litmus Blog](https://litmus.com/blog/)
 *   [Stylecampaign Blog](http://stylecampaign.com/blog/)
 
-### Testing
+### Testing / Misc
 
-*   [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt
-*   [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
+*   [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt.
+*   [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp.
 
 ---
 

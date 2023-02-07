@@ -472,11 +472,11 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 ### Math
 
-*   [OpenBLAS (⭐4.9k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ### Multimedia
 
-*   [MediaInfoLib (⭐494)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+*   [MediaInfoLib (⭐496)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
 ## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 

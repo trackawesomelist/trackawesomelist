@@ -16,7 +16,7 @@
 
 ### Errors and Exception Handling
 
-*   [OK (⭐585)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐586)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Version Control / Git
 
-*   [git-standup (⭐7.2k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+*   [git-standup (⭐7.3k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 
 ## [7. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

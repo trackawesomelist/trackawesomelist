@@ -50,7 +50,7 @@
 
 ### Compression
 
-*   [LZ4 (⭐7.8k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐7.9k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Tools / Playground
 
-*   [type-config (⭐14)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+*   [type-config (⭐15)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

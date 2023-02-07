@@ -73,7 +73,6 @@
 *   [Ebert](https://ebertapp.io/) - Continuous static analysis.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
-*   [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
 *   [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
 *   [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 *   [StyleCI](https://styleci.io/) - PHP code style review.
@@ -87,7 +86,6 @@
 *   [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
 *   [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 *   [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
-*   [Shippable](https://www.shippable.com/) - DevOps automation.
 *   [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
 
 ### Dependency Management
@@ -95,7 +93,6 @@
 *   [pyup.io](https://pyup.io/) - Python dependency management.
 *   [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 *   [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
-*   [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ### Package Management
 
@@ -111,7 +108,6 @@
 ### Monitoring
 
 *   [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
-*   [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
 
 ### Localization
 
@@ -154,7 +150,7 @@
 
 ### Testing / Scala
 
-*   [Goreplay (⭐16k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
+*   [Goreplay (⭐17k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 
 ## [10. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -370,16 +366,10 @@
 
 ## [28. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
-### Office
-
-*   [NFO Viewer (⭐114)](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
-
 ### Multimedia
 
-*   [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 *   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
-*   [Pulseeffect (⭐4.4k)](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 
 ### Graphics
 
@@ -392,10 +382,6 @@
 ### System and Customization
 
 *   [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-
-### Utilities
-
-*   [Peek (⭐9.5k)](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 
 ### Applets / Design Tooling
 
@@ -515,7 +501,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [LeafPlayer (⭐147)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐216)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [JSON Editor (⭐215)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
@@ -627,7 +613,7 @@
 
 ### Eventhandling
 
-*   [event\_bus (⭐658)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐657)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 

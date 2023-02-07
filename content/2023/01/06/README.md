@@ -16,22 +16,22 @@
 
 ### Downloading, Installing, Upgrading, and Building
 
-*   [Building (⭐3)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
+*   [Building (⭐2)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
 *   [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
 
-### Exploitation Tools / Unikernel-like
+### Exploitation Tools / OpenVPN
 
 *   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
-*   [LeechCore (⭐276)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+*   [LeechCore (⭐278)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-### Releases / Web articles
+### Releases / OpenVPN
 
-*   [Release notes](https://www.qubes-os.org/doc/releases/notes/)
-*   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
-*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
-*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+*   [Release notes](https://www.qubes-os.org/doc/releases/notes/) - Developer documentation Notes
+*   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/) -  Developer Release Schedules
+*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/) - This page details the level and period of support for releases of operating systems in the Qubes ecosystem.
+*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/) - Testing new Qubes OS releases and updates is one of the most helpful ways in which you can contribute to the Qubes OS Project.
 
 ## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -116,13 +116,13 @@
 
 ### Syntax / Diagnostics
 
-*   [LhKipp/nvim-nu (⭐37)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
+*   [LhKipp/nvim-nu (⭐45)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [brew (wintermi) (⭐1)](https://github.com/wintermi/zsh-brew) - Simple plugin for the [Homebrew](https://brew.sh/) Package Manager.
+*   [brew (wintermi) (⭐3)](https://github.com/wintermi/zsh-brew) - Simple plugin for the [Homebrew](https://brew.sh/) Package Manager.
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.

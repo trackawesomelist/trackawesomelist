@@ -94,7 +94,7 @@
 
 ### OCR Tools / Telegram
 
-*   [OCRmyPDF (⭐8k)](https://github.com/jbarlow83/OCRmyPDF/)
+*   [OCRmyPDF (⭐8.1k)](https://github.com/jbarlow83/OCRmyPDF/)
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

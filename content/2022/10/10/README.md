@@ -59,7 +59,7 @@
 
 ### Examples
 
-*   [OliverOverend/gym-simplifiedtetris (⭐4)](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
+*   [OliverOverend/gym-simplifiedtetris (⭐5)](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
 
 ## [7. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -78,13 +78,13 @@
 *   :money\_with\_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 *   :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 *   🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
-*   :tada: [Pixel Composer (⭐144)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
+*   :tada: [Pixel Composer (⭐189)](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
 *   :moneybag: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 *   :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: \[axys] ([https://github.com/axys1/axys (⭐278)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+*   :tada: \[axys] ([https://github.com/axys1/axys (⭐296)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 
 ### Game Jams / Voxel Editors
 
@@ -106,7 +106,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [MetricFu (⭐611)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+*   [MetricFu (⭐613)](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
 
 ### Other / [Other](#other-1)
 
@@ -128,7 +128,7 @@
 
 ### Software / Automation
 
-*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐219)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Ruby`
+*   [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Source Code (⭐221)](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - IDE & Tools
 
@@ -138,29 +138,29 @@
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [OTA Updater (⭐215)](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
-*   [Crisp (⭐3)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+*   [OTA Updater (⭐221)](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
+*   [Crisp (⭐4)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 *   [Flash (⭐8)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 *   [Mute (⭐1)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-*   [Native Geocoder (⭐12)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+*   [Native Geocoder (⭐13)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 *   [Screen recorder (⭐4)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [Purchases (⭐30)](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-*   [In app Browser (⭐7)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+*   [Purchases (⭐38)](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [In app Browser (⭐9)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
 
 ### [Capawesome plugins](https://capawesome.io/)
 
-*   [Background tasks (⭐44)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-*   [Badge (⭐62)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
+*   [Background tasks (⭐45)](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
+*   [Badge (⭐65)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
 *   Firebase
-    *   [Analytics (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
-    *   [App (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
-    *   [Auth (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
-    *   [Performance (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
-    *   [Crashlytics (⭐183)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
-*   [Screen orientation (⭐20)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-*   [Native updates (⭐97)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
-*   [File picker (⭐38)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
-*   [Photo editor (⭐6)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+    *   [Analytics (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
+    *   [App (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
+    *   [Auth (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
+    *   [Performance (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
+    *   [Crashlytics (⭐191)](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
+*   [Screen orientation (⭐24)](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
+*   [Native updates (⭐103)](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+*   [File picker (⭐45)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
+*   [Photo editor (⭐7)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
 ## [16. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Continuous Integration
 
-*   [woodpecker (⭐2k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+*   [woodpecker (⭐2.1k)](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 ### Utilities
 
@@ -186,13 +186,13 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cp (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
+*   [vite-plugin-cp (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-external (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Provides a way of excluding dependencies from the runtime code and output bundles.
-*   [vite-plugin-mock-data (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
-*   [vite-plugin-reverse-proxy (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
+*   [vite-plugin-external (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Provides a way of excluding dependencies from the runtime code and output bundles.
+*   [vite-plugin-mock-data (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
+*   [vite-plugin-reverse-proxy (⭐26)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
 
 ## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -417,7 +417,7 @@
 
 ### Teamworking Tools
 
-*   [See this section for Discord mods and alternative clients (⭐7.8k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
+*   [See this section for Discord mods and alternative clients (⭐8k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
 
 ### Translation and Speech-to-Text
 

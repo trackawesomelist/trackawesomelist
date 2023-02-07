@@ -16,7 +16,7 @@
 
 ### Related projects / Other services
 
-*   [StreetComplete (⭐2.9k)](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
+*   [StreetComplete (⭐3.1k)](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

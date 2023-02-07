@@ -83,8 +83,8 @@
 
 *   C#
     *   [by @shkolovy (⭐25)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms)
-    *   [by @justcoding121 (⭐972)](https://github.com/justcoding121/Advanced-Algorithms)
+    *   [by @aalhour (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @justcoding121 (⭐1.1k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ---
 

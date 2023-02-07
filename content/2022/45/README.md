@@ -14,7 +14,7 @@
 
 ### YouTube
 
-*   [Youtube-Local (⭐308)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐312)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [2. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Software / Pastebins
 
-*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐1k)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
+*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐1.1k)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
@@ -119,13 +119,13 @@
 
 ### Resources / Tutorials
 
-*   [Sharded Cluster with Docker Compose (⭐241)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+*   [Sharded Cluster with Docker Compose (⭐255)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
 ## [11. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Shell Script Development
 
-*   [Bashmatic (⭐86)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+*   [Bashmatic (⭐91)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Android / Projects
 
-*   [AnkitSuda/Rebound (⭐117)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+*   [AnkitSuda/Rebound (⭐119)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
 
 ## [13. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
@@ -281,7 +281,7 @@
 ### Programming Language Design Patterns
 
 *   Elixir
-    *   [design-patterns (⭐561)](https://github.com/joshnuss/design-patterns-in-elixir)
+    *   [design-patterns (⭐568)](https://github.com/joshnuss/design-patterns-in-elixir)
 
     *   [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
 
@@ -309,11 +309,11 @@
 
 ### Uncategorized
 
-*   [sitemap-format (⭐2)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
+*   [sitemap-format (⭐3)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
 
 ### Performance
 
-*   [go-instrument (⭐66)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+*   [go-instrument (⭐67)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 
 ## [31. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -333,7 +333,7 @@
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
+Installs: 264 | Stars: 31 | Last update: 10 Aug 2022
 
 ## [34. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -430,7 +430,7 @@ Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ### Applications / Cryptocurrencies
 
-*   [cairo-rs (⭐268)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
+*   [cairo-rs (⭐271)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
 
 ### Applications / Web
 
@@ -458,7 +458,7 @@ Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ### [Capgo plugins](https://capgo.app/)
 
-*   [Native audio (⭐3)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+*   [Native audio (⭐5)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 *   [Native market (⭐3)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [Camera preview (⭐0)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
@@ -486,31 +486,31 @@ Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ### (requires Neovim 0.5)
 
-*   [ranjithshegde/ccls.nvim (⭐36)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
+*   [ranjithshegde/ccls.nvim (⭐37)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 
 ### Programming Languages Support / Diagnostics
 
-*   [Julian/lean.nvim (⭐108)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
+*   [Julian/lean.nvim (⭐112)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 
 ### Golang / Diagnostics
 
-*   [ray-x/go.nvim (⭐849)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
+*   [ray-x/go.nvim (⭐864)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [NFrid/markdown-togglecheck (⭐4)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+*   [NFrid/markdown-togglecheck (⭐5)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [bluz71/vim-nightfly-colors (⭐544)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
+*   [bluz71/vim-nightfly-colors (⭐557)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 
 ### Winbar / Diagnostics
 
-*   [utilyre/barbecue.nvim (⭐111)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐138)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 
 ### Code Runner / Diagnostics
 
-*   [hkupty/iron.nvim (⭐589)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+*   [hkupty/iron.nvim (⭐600)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -518,11 +518,11 @@ Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/treesj (⭐253)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
+*   [Wansmer/treesj (⭐281)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
 
 ### Split and Window / Diagnostics
 
-*   [nvim-zh/colorful-winsep.nvim (⭐193)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+*   [nvim-zh/colorful-winsep.nvim (⭐218)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
 ## [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -534,14 +534,14 @@ Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [yarn-extra-completion (⭐39)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐416)](https://github.com/lukechilds/zsh-better-npm-completion).
-*   [yt-dlp (⭐1)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐38k)](https://github.com/yt-dlp/yt-dlp).
+*   [yarn-extra-completion (⭐39)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐418)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yt-dlp (⭐3)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐38k)](https://github.com/yt-dlp/yt-dlp).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [air (⭐0)](https://github.com/Ivan-Kuzmichev/air) - Minimalist theme with `git` status decorations.
-*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐9.3k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐9.3k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
-*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐147)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
+*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐9.6k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐9.6k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐149)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 *   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 
@@ -549,13 +549,13 @@ Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [GalvinGao/gofiber-template (⭐14)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
+*   [GalvinGao/gofiber-template (⭐17)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 
 ## [52. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [OpenMetricLearning (⭐406)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
+*   [OpenMetricLearning (⭐430)](https://github.com/OML-Team/open-metric-learning) - A PyTorch-based framework to train and validate the models producing high-quality embeddings.
 *   [SKBEL (⭐16)](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
 
 ### Tools / Misc

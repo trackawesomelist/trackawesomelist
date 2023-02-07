@@ -58,7 +58,7 @@
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐63)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
+*   [Mongo-Thingy (⭐65)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
@@ -68,7 +68,7 @@
 
 ### Tools / Web
 
-*   [Mongoku (⭐1.1k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
+*   [Mongoku (⭐1.2k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐648)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐652)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

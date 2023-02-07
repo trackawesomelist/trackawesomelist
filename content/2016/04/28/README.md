@@ -11,7 +11,7 @@
 ### Tools / Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [GradStop.js (⭐153)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [GradStop.js (⭐152)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 
 ### Tools / Web App
 
@@ -146,7 +146,7 @@
 
 ### Machine Learning
 
-*   [Fido (⭐413)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐412)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ---
 

@@ -79,11 +79,11 @@
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐51)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐52)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐15)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐17)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Database Tools
 
-*   [dynago (⭐6)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [dynago (⭐7)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 
 ---
 

@@ -76,7 +76,7 @@
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐7.9k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐8k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Awesome ClojureScript / Client/Server Communication
 
-*   [cljs-ajax (⭐642)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
+*   [cljs-ajax (⭐653)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 
 ## [19. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -406,7 +406,7 @@
 *   Kotlin
     *   [design-patterns (⭐5.5k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 *   PHP
-    *   [humans (⭐36k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [humans (⭐37k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
 *   Ruby
     *   [design-patterns (⭐2.2k)](https://github.com/davidgf/design-patterns-in-ruby)
@@ -419,7 +419,7 @@
 
 *   [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 *   [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
-*   [system-design-primer (⭐205k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+*   [system-design-primer (⭐209k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ### Cloud Architecture
 
@@ -461,7 +461,7 @@
 
 ### Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐227k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐234k)](https://github.com/sindresorhus/awesome) list.
 
 ### Contributing
 
@@ -477,7 +477,7 @@
 
 ### Tools
 
-*   [Pieman (⭐198)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
+*   [Pieman (⭐197)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [36. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -531,8 +531,8 @@
 
 ### Mobile
 
-*   [json-mop (⭐55)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐102)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [json-mop (⭐56)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐104)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ### Non-deterministic, logic programming
 

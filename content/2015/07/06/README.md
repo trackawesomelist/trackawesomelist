@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,13 +29,7 @@
 *   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 *   [awesome-computer-vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 
-## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
-
-### Mocking / Symfony2
-
-*   [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
-
-## [5. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -54,14 +48,14 @@
 
 
 
-## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [5. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2015
 
 *   [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) \[19:17]
 *   [Andreas Gal: **Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA) \[14:15]
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / T companies
 

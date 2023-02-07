@@ -40,7 +40,7 @@
 ### Programming Language Design Patterns
 
 *   Elixir
-    *   [design-patterns (⭐561)](https://github.com/joshnuss/design-patterns-in-elixir)
+    *   [design-patterns (⭐568)](https://github.com/joshnuss/design-patterns-in-elixir)
 
     *   [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
 
@@ -64,7 +64,7 @@
 
 ### Uncategorized
 
-*   [sitemap-format (⭐2)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
+*   [sitemap-format (⭐3)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -90,7 +90,7 @@
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 240 | Stars: 29 | Last update: 10 Aug 2022
+Installs: 264 | Stars: 31 | Last update: 10 Aug 2022
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

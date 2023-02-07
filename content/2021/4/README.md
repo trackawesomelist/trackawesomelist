@@ -34,24 +34,24 @@
 
 ### Platforms
 
-*   [DOS (⭐298)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+*   [DOS (⭐301)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Twitter
 
-*   [Nitter (⭐5.9k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
+*   [Nitter (⭐6.7k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
     *   Official instance: [nitter.net](https://nitter.net)
-    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐5.9k)](https://github.com/zedeus/nitter/wiki/Instances)
+    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐6.7k)](https://github.com/zedeus/nitter/wiki/Instances)
     *   Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
 ### Overview / Reddit
 
-*   [Updoot (⭐56)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
+*   [Updoot (⭐58)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
 ### Overview / Hacker News
 
-*   [HN-search (⭐447)](https://github.com/algolia/hn-search): Algolia Hacker News search
+*   [HN-search (⭐454)](https://github.com/algolia/hn-search): Algolia Hacker News search
     *   Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity\&page=0\&dateRange=last24h\&type=all)
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
@@ -62,7 +62,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pwa (⭐1.7k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+*   [vite-plugin-pwa (⭐1.8k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 
 ### Rollup Plugins / Covered by default in Vite
 
@@ -107,7 +107,7 @@
 
 ### Machine Learning
 
-*   [oneDAL (⭐533)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐537)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
 ## [9. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
@@ -210,7 +210,7 @@
 
 ### Contents / Text Editors Language Support
 
-*   Emacs: [pico8-mode (⭐20)](https://github.com/Kaali/pico8-mode)
+*   Emacs: [pico8-mode (⭐21)](https://github.com/Kaali/pico8-mode)
 
 ## [19. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
@@ -414,15 +414,15 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 ### Open source DOS libraries / Sound Blaster/OPL3
 
 *   [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
-*   [LoveDOS (⭐629)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
-*   [DOS-VGA-Game (⭐10)](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
+*   [LoveDOS (⭐633)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
+*   [DOS-VGA-Game (⭐11)](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
 
 ### Homebrew games with source code / Sound Blaster/OPL3
 
-*   [DOS Defender (⭐109)](https://github.com/skeeto/dosdefender-ld31) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
+*   [DOS Defender (⭐111)](https://github.com/skeeto/dosdefender-ld31) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
 *   [Dungeons of Noudar (⭐36)](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
 *   [Emeritus Pong](https://sourceforge.net/projects/empong/) - Pong clone for DOS, Windows and Linux. Uses PC speaker for sound on DOS.
-*   [Floppy Bird (⭐876)](https://github.com/icebreaker/floppybird) - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
+*   [Floppy Bird (⭐879)](https://github.com/icebreaker/floppybird) - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
 *   [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/\~geotz/dos/) - Turbo Pascal with few games in C and C++. Games include Nibbles, Connect Four, Ms Pacman clone and two arcade/platform games. One of them (ra2) was written using Allegro. Utilities are all written in Turbo Pascal, these include game system routines, file and disk utilities and terminate-and-stay-resident programs (TSR).
 *   [Gridfighter 3D](https://porta2note.itch.io/gridfighter-3d) - '80s style arcade shooter written in Quickbasic. Also the very first known DOS game that supports Oculus Rift VR headset.
     *   [GitHub repository (⭐3)](https://github.com/porta2note/gridfighter3d)
@@ -431,7 +431,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
     *   [Source code download link](http://www.doshaven.eu/downloads/537)
 *   [NetHack (⭐2.2k)](https://github.com/NetHack/NetHack) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 *   [Piskworks (⭐8)](https://github.com/berk76/piskworks) - Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.
-*   [Ptakovina (⭐13)](https://github.com/berk76/tetris) - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
+*   [Ptakovina (⭐14)](https://github.com/berk76/tetris) - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 *   [sudoku86](https://sourceforge.net/projects/sudoku86/) - Sudoku clone written in C. Runs on 8086/8088 CPU, uses CGA, MCGA or VGA graphics and uses a mouse.
 *   [Tetris](http://www.doshaven.eu/game/tetris/) - Tetris clone written in assembly.
     *   [Source code download link](http://www.doshaven.eu/downloads/373)
@@ -454,16 +454,16 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 *   [Catacomb (⭐135)](https://github.com/CatacombGames/Catacomb) - 2D top-down shooter developed by Softdisk (later becoming id Software). Supports EGA and CGA graphics. Written in Turbo Pascal and assembly.
 *   [Catacomb 3D (⭐176)](https://github.com/CatacombGames/Catacomb3D) - First-person shooter in fantasy setting developed by Softdisk (later becoming id Software). Features pseudo-3D graphics with raycasting technique. Supports EGA graphics. Written in C and assembly. Compiled with Borland C++ 3.1.
 *   [Commander Keen in Keen Dreams (⭐1.9k)](https://github.com/keendreams/keen) - Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered "Keen 3.5"), but was not widely released. Written in C and assembly.
-*   [Descent (⭐331)](https://github.com/videogamepreservation/descent) - First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.
+*   [Descent (⭐333)](https://github.com/videogamepreservation/descent) - First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.
 *   [Descent II (⭐67)](https://github.com/videogamepreservation/descent2) - Sequel to Descent. Written in C and assembly.
-*   [Doom (⭐9.6k)](https://github.com/id-Software/DOOM) - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+*   [Doom (⭐9.8k)](https://github.com/id-Software/DOOM) - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
 *   [Duke Nukem 3D](https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html) - FPS developed by Apogee featuring the iconic character Duke Nukem. Written in C. Compiled with Watcom C/C++ 10.0.
     *   [Source code download link](https://web.archive.org/web/20160403223736/http://www.classicdosgames.com/files/source/duke3dsource.zip)
 *   [Heretic (⭐32)](https://github.com/OpenSourcedGames/Heretic) - Dark fantasy FPS running on id Software's Doom engine.
-*   [Hovertank 3D (⭐220)](https://github.com/FlatRockSoft/Hovertank3D) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.
+*   [Hovertank 3D (⭐223)](https://github.com/FlatRockSoft/Hovertank3D) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.
 *   [Quake (⭐3.9k)](https://github.com/id-Software/Quake) - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
     *   [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
-*   [Rise of the Triad: Dark War (⭐72)](https://github.com/videogamepreservation/rott) - FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.
+*   [Rise of the Triad: Dark War (⭐73)](https://github.com/videogamepreservation/rott) - FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.
 *   [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - Side-scrolling shoot 'em up created by David L. Clark in 1984. The game involves piloting a Sopwith biplane, attempting to bomb enemy buildings while avoiding fire from enemy planes and various other obstacles.
     *   [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - Code analysis by MaiZure.
 *   [Wolfenstein 3D (⭐1.8k)](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
@@ -589,7 +589,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐305)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐311)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [30. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -683,7 +683,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Projects / Godot 3.2+
 
-*   [ProtonGraph (⭐901)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐912)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 ### Plugins and scripts / Various Godot versions
 
@@ -923,7 +923,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐386)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐388)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ### Libraries / Automotive
 
@@ -935,11 +935,11 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Libraries / Cryptography
 
-*   [cossacklabs/themis (⭐1.6k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
+*   [cossacklabs/themis (⭐1.7k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 
 ### Libraries / Date and time
 
-*   [time-rs/time (⭐684)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
+*   [time-rs/time (⭐697)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
 
 ## [50. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -996,7 +996,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Daisy UI (⭐17k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+*   🧩 [Daisy UI (⭐18k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 
 ## [55. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
@@ -1028,7 +1028,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 ### External Services
 
 *   [blog-box (⭐2)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
-*   [medium-stat-box (⭐36)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
+*   [medium-stat-box (⭐37)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
 ### GitHub
 

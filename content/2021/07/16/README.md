@@ -10,7 +10,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐31)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐32)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -63,8 +63,8 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐91)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐80)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐92)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐81)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

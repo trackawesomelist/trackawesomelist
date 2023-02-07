@@ -39,7 +39,7 @@
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Blogs
+### Blogs / Misc
 
 *   [Myemma Blog](http://myemma.com/content-hub)
 *   [Postmarkapp Blog](http://blog.postmarkapp.com/)

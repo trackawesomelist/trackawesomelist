@@ -92,7 +92,7 @@ Webpage: <https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/>
 ### Integration
 
 *   Server-Sent Events
-    *   [jEaSSE (⭐58)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
+    *   [jEaSSE (⭐59)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
     *   [vertx-sse (⭐38)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)

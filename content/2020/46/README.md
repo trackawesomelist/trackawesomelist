@@ -32,7 +32,7 @@
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Unit Test, Testing / Other / unknown licence
+### Unit Test, Testing / MIT
 
 *   [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
     language.  It is loosely modelled after JUnit and some ideas from AUnit.
@@ -106,7 +106,7 @@
 
 ### Plugins
 
-*   💙💼 [Aspect Ratio (⭐769)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
+*   💙💼 [Aspect Ratio (⭐776)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
 *   💙 [Forms (⭐2.9k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 *   🛑🧩💙 [Custom Forms (⭐1.6k)](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
 
@@ -1023,7 +1023,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [object-visualizer (⭐212)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
+*   [object-visualizer (⭐213)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1119,7 +1119,7 @@
 
 ## [30. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services
+### Services / Misc
 
 *   [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 
@@ -1197,7 +1197,7 @@
 
 ### Tools
 
-*   [bitfield (⭐20)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
+*   [bitfield (⭐21)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
 
 ### Clojure
 
@@ -1269,7 +1269,7 @@
 
 ### Software / Automation
 
-*   [Podgrab (⭐957)](https://github.com/akhilrex/podgrab) - Lightweight podcast manager and automatic podcast episode downloader. It will monitor podcasts for your and download them automatically whenever a new episode goes live. `GPL-3.0` `Docker/Go`
+*   [Podgrab (⭐974)](https://github.com/akhilrex/podgrab) - Lightweight podcast manager and automatic podcast episode downloader. It will monitor podcasts for your and download them automatically whenever a new episode goes live. `GPL-3.0` `Docker/Go`
 
 ## [46. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -1363,7 +1363,7 @@
 
 ### Algorithms and Data structures
 
-*   [flow (⭐1.3k)](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage.
+*   [flow (⭐1.4k)](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage.
 
 ### Third Party APIs
 
@@ -1408,7 +1408,7 @@
 
 ### Individual components / CSS
 
-*   [BlazorAnimation (⭐67)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
+*   [BlazorAnimation (⭐78)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
 
 ### Others / Others
 

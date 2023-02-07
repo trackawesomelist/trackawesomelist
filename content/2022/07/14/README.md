@@ -31,7 +31,7 @@
 
 ### Algorithms and Data structures
 
-*   [csuuid (⭐12)](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
+*   [csuuid (⭐13)](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
 *   [secure-remote-password (⭐4)](https://github.com/spider-gazelle/secure-remote-password) - SRP-6a protocol for authentication over an insecure network
 
 ## [4. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
@@ -66,7 +66,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-ml-benchmarks (⭐24)](https://github.com/nikolaydubina/go-ml-benchmarks) — benchmarks of machine learning inference for Go.
+*   [go-ml-benchmarks (⭐25)](https://github.com/nikolaydubina/go-ml-benchmarks) — benchmarks of machine learning inference for Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -101,11 +101,11 @@
 
 ### PaaS
 
-*   [Divio](https://www.divio.com/) - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, Requires card and no custom domain support.
+*   [Divio](https://www.divio.com/) - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects. Requires card and no custom domain support.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-*   [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.
+*   [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 minutes tunnel life time.
 
 ### Game Development
 
@@ -121,7 +121,7 @@
 ### Editable data grid / spreadsheet
 
 *   [AG Grid (⭐9.5k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-*   [MUI X Data grid (⭐2.2k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
+*   [MUI X Data grid (⭐2.3k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 
 ### Audio / Video
 
@@ -129,11 +129,11 @@
 
 ### Device Input / Keyboard Events
 
-*   [react-keyboard-navigator (⭐15)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐16)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
 
 ### Form Logic / Mouse Events
 
-*   [react-client-validation (⭐2)](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
+*   [react-client-validation (⭐4)](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
 
 ### Miscellaneous / Lazy Load
 
@@ -157,7 +157,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐39)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐45)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

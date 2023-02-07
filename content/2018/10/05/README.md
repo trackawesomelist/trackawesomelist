@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [NetOffice (⭐576)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+*   [NetOffice (⭐578)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -64,8 +64,8 @@
 
 ### Memory Allocation
 
-*   [Hoard (⭐925)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
-*   [jemalloc (⭐7.6k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [Hoard (⭐934)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
+*   [jemalloc (⭐7.7k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 
@@ -95,7 +95,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-perfect-scrollbar (⭐269)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
+*   [vue2-perfect-scrollbar (⭐271)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
 ## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

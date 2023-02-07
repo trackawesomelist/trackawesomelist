@@ -76,7 +76,7 @@
 
 ### Node.js / Scala
 
-*   [Cote (⭐2.2k)](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
+*   [Cote (⭐2.3k)](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 
 ### PHP / Scala
 
@@ -127,7 +127,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐367)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐372)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

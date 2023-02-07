@@ -235,7 +235,7 @@
 
 ### Visualizations
 
-*   [gtfspy-webviz (⭐33)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐36)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy).
 
 ## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -287,15 +287,15 @@
 
 ### Software / File Transfer & Synchronization
 
-*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐7.9k)](https://github.com/owncloud/core), [Clients (⭐7.9k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP`
+*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8k)](https://github.com/owncloud/core), [Clients (⭐8k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP`
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.1k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
 
 ### Software / Ticketing
 
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐749)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
+*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐755)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 
 ### External Links / Wikis
 
@@ -468,7 +468,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Caching
 
-*   [nebulex (⭐981)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -527,7 +527,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Converters
 
-*   [money (⭐25)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
+*   [money (⭐26)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ### Framework Components
 
@@ -614,7 +614,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [Ride Receipts (⭐138)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
 *   [Laqu-l (⭐130)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐125)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Minimal Notes (⭐123)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ### Components & Libraries / UI Utilities
 
@@ -625,7 +625,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Security / Other
 
-*   [Jwks RSA (⭐155)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐160)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

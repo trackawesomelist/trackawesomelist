@@ -38,14 +38,14 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐310)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐319)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Native script (⭐5k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
-*   [Vue Native (⭐8.4k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
+*   [Vue Native (⭐8.3k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
 ## [6. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 

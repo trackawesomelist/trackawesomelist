@@ -265,23 +265,23 @@
 
 ### Awesome ClojureScript / Development
 
-*   [Ambly (⭐537)](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
+*   [Ambly (⭐535)](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
 *   [Instaparse (⭐89)](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 *   [lein-cljsbuild (⭐1.1k)](https://github.com/emezeske/lein-cljsbuild) – A Leiningen plugin to make ClojureScript development easy.
 *   [shadow-cljs (⭐2k)](https://github.com/thheller/shadow-cljs) – ClojureScript compilation made easy
-*   [Truss (⭐267)](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
+*   [Truss (⭐274)](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 ### Awesome ClojureScript / Document Object Model
 
-*   [Respo (⭐235)](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
+*   [Respo (⭐232)](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
 
 ### Awesome ClojureScript / Internationalization
 
-*   [Tempura (⭐239)](https://github.com/ptaoussanis/tempura) – A Clojure(Script) i18n library, succeeding Tower
+*   [Tempura (⭐242)](https://github.com/ptaoussanis/tempura) – A Clojure(Script) i18n library, succeeding Tower
 
 ### Awesome ClojureScript / [React.js](https://facebook.github.io/react/)   Interface
 
-*   [cljsx (⭐9)](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome (⭐11k)](https://github.com/snabbdom/snabbdom) and others.
+*   [cljsx (⭐10)](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome (⭐11k)](https://github.com/snabbdom/snabbdom) and others.
 *   [Om (⭐6.7k)](https://github.com/omcljs/om) – A powerful interface to React, makes use of its object oriented structures.
 *   [Quiescent (⭐609)](https://github.com/levand/quiescent) – It favors functional style, fully stateless.
 *   [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
@@ -289,13 +289,13 @@
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Manifold-cljs (⭐45)](https://github.com/dm3/manifold-cljs) – A port of [Manifold (⭐930)](https://github.com/ztellman/manifold) to ClojureScript.
+*   [Manifold-cljs (⭐46)](https://github.com/dm3/manifold-cljs) – A port of [Manifold (⭐948)](https://github.com/ztellman/manifold) to ClojureScript.
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Fulcro](http://fulcrologic.github.io/fulcro) – A library for development of single-page full-stack web applications in clj/cljs.
 *   [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) – A reagent compatible library without react.js dependency.
-*   [Precept (⭐644)](https://github.com/CoNarrative/precept) – A declarative programming framework.
+*   [Precept (⭐642)](https://github.com/CoNarrative/precept) – A declarative programming framework.
 
 ## [17. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 

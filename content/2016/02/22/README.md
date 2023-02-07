@@ -37,17 +37,17 @@
 
 ### Libraries / C
 
-*   [mongo-c-driver (⭐753)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐756)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### Libraries / C++
 
-*   [mongo-cxx-driver (⭐928)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
+*   [mongo-cxx-driver (⭐936)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### Libraries / C#/.NET
 
 *   [mongo-csharp-driver (⭐2.9k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
 *   [MongoDB Messaging (⭐57)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
-*   [MongoRepository (⭐307)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [MongoRepository (⭐306)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Libraries / Erlang
 
@@ -55,7 +55,7 @@
 
 ### Libraries / Haskell
 
-*   [mongodb (⭐162)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
+*   [mongodb (⭐164)](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
 
 ### Libraries / Java
 
@@ -70,7 +70,7 @@
 
 *   [Mongoose (⭐25k)](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
 *   [Moonridge (⭐65)](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
-*   [node-mongodb-native (⭐9.6k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+*   [node-mongodb-native (⭐9.7k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Libraries / Lisp
 
@@ -79,12 +79,12 @@
 
 ### Libraries / PHP
 
-*   [laravel-mongodb (⭐6.3k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+*   [laravel-mongodb (⭐6.4k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
 
 ### Libraries / Python
 
 *   [MongoLog (⭐132)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
-*   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
+*   [PyMongo (⭐3.8k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 *   [scrapy-mongodb (⭐351)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
 
 ### Libraries / Ruby
@@ -93,16 +93,16 @@
 
 ### Libraries / Scala
 
-*   [ReactiveMongo (⭐836)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
+*   [ReactiveMongo (⭐837)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
 
 ### Tools / Administration
 
-*   [mongoctl (⭐177)](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
+*   [mongoctl (⭐178)](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
 
 ### Tools / Deployment
 
-*   [ansible-role-mongodb (⭐326)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
-*   [chef-mongodb (⭐365)](https://github.com/edelight/chef-mongodb) - Chef cookbook
+*   [ansible-role-mongodb (⭐327)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
+*   [chef-mongodb (⭐364)](https://github.com/edelight/chef-mongodb) - Chef cookbook
 
 ### Tools / Monitoring
 

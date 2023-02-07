@@ -292,7 +292,7 @@ You can find them listed on the [Neovim wiki (⭐62k)](https://github.com/neovim
 *   [SidOfc/carbon.nvim (⭐114)](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer written in Lua.
 *   [dinhhuy258/sfm.nvim (⭐11)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 *   [kiran94/s3edit.nvim (⭐26)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
-*   [stevearc/oil.nvim (⭐380)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐381)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 *   [EdvinVikstrom/filetree.nvim (⭐11)](https://github.com/EdvinVikstrom/filetree.nvim) - A beautiful and fast file manager easy to customize.
 
 ### Project
@@ -777,7 +777,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [gbprod/stay-in-place.nvim (⭐59)](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
 *   [echasnovski/mini.nvim#mini.ai (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-ai.md) - Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some builtin textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more.
 *   [Wansmer/treesj (⭐281)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
-*   [shortcuts/no-neck-pain.nvim (⭐202)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
+*   [shortcuts/no-neck-pain.nvim (⭐203)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
 *   [debugloop/telescope-undo.nvim (⭐140)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 *   [chrisgrieser/nvim-various-textobjs (⭐102)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
 *   [XXiaoA/ns-textobject.nvim (⭐19)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
@@ -907,7 +907,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [otavioschwanck/mood-nvim (⭐39)](https://github.com/otavioschwanck/mood-nvim) - Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
 *   [ldelossa/nvim-ide (⭐577)](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer heavily inspired by VSCode.
 *   [jonathandion/web-dev.nvim (⭐36)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
-*   [linrongbin16/lin.nvim (⭐4)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
+*   [linrongbin16/lin.nvim (⭐5)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 
 ## External
 

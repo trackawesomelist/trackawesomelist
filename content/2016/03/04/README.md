@@ -30,7 +30,7 @@
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [Foundation for Emails (⭐7.7k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 
@@ -38,7 +38,7 @@
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐916)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐923)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

@@ -229,15 +229,15 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐6.4k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐6.5k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Pylearn2 (⭐2.7k)](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano (⭐9.6k)](https://github.com/Theano/Theano). **\[Deprecated]**
+*   [Pylearn2 (⭐2.7k)](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano (⭐9.7k)](https://github.com/Theano/Theano). **\[Deprecated]**
 
 ### Tools / Misc
 
-*   [Kedro (⭐7.9k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐8k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
 ## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
@@ -443,7 +443,7 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C
-    *   [by @fragglet (⭐2.8k)](https://github.com/fragglet/c-algorithms)
+    *   [by @fragglet (⭐2.9k)](https://github.com/fragglet/c-algorithms)
     *   [by @TheAlgorithms (⭐15k)](https://github.com/TheAlgorithms/C)
 
 ## [38. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
@@ -530,7 +530,7 @@
 
 ## [44. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Services
+### Services / Misc
 
 *   [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 
@@ -546,15 +546,11 @@
 
 ### Software / Miscellaneous
 
-*   [Journal (⭐247)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
+*   [Journal (⭐250)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐627)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
-
-### List of Licenses / Wikis
-
-*   `ZPL-1.2` - [Zope Public License 1.2](http://zpl.pub/page/zplv12)
+*   [OnTrack (⭐628)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
 
 ## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -679,16 +675,16 @@
 ### Grammar
 
 *   [OpenCCG (⭐202)](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG.
-*   [EasyCCG (⭐58)](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
-*   [CCG Lab (⭐22)](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
+*   [EasyCCG (⭐57)](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
+*   [CCG Lab (⭐24)](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 
 ### Narrative Generation
 
-*   [Random Story Generator (⭐59)](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
+*   [Random Story Generator (⭐60)](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
 
 ### Realizers
 
-*   [SimpleNLG (⭐774)](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
+*   [SimpleNLG (⭐780)](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
 *   [SimpleNLG DE (⭐16)](https://github.com/sebischair/SimpleNLG-DE) - German version of SimpleNLG 4.
 
 ## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
@@ -801,7 +797,7 @@
 
 ### Issue Tracking and Project Management
 
-*   [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free, paid plans with more options
+*   [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free plan has 2 boards, 2 users, without atachments or files.
 
 ### Design and UI
 
@@ -3891,13 +3887,13 @@
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐242)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐253)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
 ## [72. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Data Manipulation / Data Frames
 
-*   [pandas-log (⭐206)](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
+*   [pandas-log (⭐206)](https://github.com/eyaltrabelsi/pandas-log) - A package that allows providing feedback about basic pandas operations and finds both business logic and performance issues.
 
 ### Optimization / NLP
 
@@ -3907,7 +3903,7 @@
 
 ### Software / Monitoring
 
-*   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS.
+*   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS. ([Source Code (⭐62k)](https://github.com/netdata/netdata)) `GPL-3.0` `C`
 
 ---
 

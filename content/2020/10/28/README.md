@@ -24,7 +24,7 @@
 ### Programming Languages
 
 *   [R (⭐5.3k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐410)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+    *   [Learning (⭐415)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

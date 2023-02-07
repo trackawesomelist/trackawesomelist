@@ -54,7 +54,7 @@
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐72)](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐74)](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

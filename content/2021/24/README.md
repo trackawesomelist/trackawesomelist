@@ -10,21 +10,21 @@
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [DSP on STM32F407G-DISC1 (⭐18)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
+*   [DSP on STM32F407G-DISC1 (⭐19)](https://github.com/jacobrosenthal/dsp-discoveryf4-rust/) Unofficial oxidization of the [Digital Signal Processing using Arm Cortex-M based Microcontrollers: Theory and Practice](https://www.amazon.com/Digital-Signal-Processing-Cortex-M-Microcontrollers/dp/1911531166) book. The book isn't necessary to enjoy the examples and learn a functional DSP Rust coding style.
 
 ### no-std crates / WIP
 
-*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐793)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
+*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐815)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
-*   [ka-table (⭐444)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐452)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ### Loader
 
-*   [react-block-ui (⭐289)](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
+*   [react-block-ui (⭐290)](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 
 ## [3. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐3k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐3.1k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [11. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
@@ -207,8 +207,8 @@
 
 *   [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
 *   [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
-*   [BON 2 (⭐169)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
-*   [Bearded Octo Nemesis (⭐130)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+*   [BON 2 (⭐172)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
+*   [Bearded Octo Nemesis (⭐131)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
 ## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -232,7 +232,7 @@
 
 ### Software / Blogging Platforms
 
-*   [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://demo.htmly.com/), [Source Code (⭐861)](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
+*   [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://demo.htmly.com/), [Source Code (⭐871)](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
 
 ### Software / Groupware
 
@@ -240,7 +240,7 @@
 
 ### Software / Pastebins
 
-*   [pasty (⭐153)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`
+*   [pasty (⭐156)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -256,15 +256,15 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-externals (⭐105)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
+*   [vite-plugin-externals (⭐108)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
 
 ### Libraries / Community
 
-*   [vite-ssr (⭐664)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [vite-ssr (⭐673)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ### Frameworks / Community
 
-*   [vitedge (⭐663)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [vitedge (⭐667)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ## [18. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -349,8 +349,8 @@
 
 ### Resources / Examples
 
-*   [Google Keep Clone with Vue + Firestore (⭐86)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
-*   [Vue 3 Shopping Cart (⭐76)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
+*   [Google Keep Clone with Vue + Firestore (⭐89)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
+*   [Vue 3 Shopping Cart (⭐78)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
 
 ### Components & Libraries / UI Components
 
@@ -635,7 +635,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐178)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐180)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Database Tools
 
@@ -657,11 +657,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐149)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐150)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐188)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐189)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -675,7 +675,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐309)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐319)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [45. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
@@ -700,8 +700,8 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐414)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
-*   [jwstegemann/fritz2 (⭐487)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [hexagonkt/hexagon (⭐416)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [jwstegemann/fritz2 (⭐489)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ### Libraries/Frameworks / Misc
 
@@ -779,11 +779,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [stevearc/aerial.nvim (⭐720)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
+*   [stevearc/aerial.nvim (⭐746)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐104)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐108)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -791,11 +791,11 @@
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐205)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐209)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐592)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐606)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [54. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 

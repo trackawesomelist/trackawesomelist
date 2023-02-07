@@ -10,7 +10,7 @@
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐106)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐107)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -175,11 +175,11 @@
 
 ### Files and Directories / Files
 
-*   [chokidar-cli (⭐718)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
+*   [chokidar-cli (⭐732)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 
 ### Just for Fun / Image Conversion
 
-*   [pokeget (⭐9)](https://github.com/talwat/pokeget) - Display sprites of pokemon.
+*   [pokeget (⭐14)](https://github.com/talwat/pokeget) - Display sprites of pokemon.
 
 ## [6. Computer Science](/content/ossu/computer-science/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Networking
 
-*   [gldap (⭐83)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
+*   [gldap (⭐84)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 

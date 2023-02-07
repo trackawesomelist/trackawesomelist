@@ -42,7 +42,7 @@
 
 ### Querying HTML/DOM / Isomorphic web frameworks
 
-*   👍 [lquery (⭐76)](https://github.com/Shinmera/lquery) - A jQuery-like HTML/DOM manipulation library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   👍 [lquery (⭐77)](https://github.com/Shinmera/lquery) - A jQuery-like HTML/DOM manipulation library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

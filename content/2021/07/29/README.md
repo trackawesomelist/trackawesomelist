@@ -16,7 +16,7 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐172)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐176)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐494)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐505)](https://github.com/chengpeiquan/learning-vue3)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -52,15 +52,15 @@
 
 ### Databases
 
-*   [TypeDB (⭐47)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+*   [TypeDB (⭐49)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 
 ### Decentralized Systems
 
-*   [Stacks (⭐76)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+*   [Stacks (⭐79)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ### Miscellaneous
 
-*   [Scriptable (⭐751)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+*   [Scriptable (⭐756)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

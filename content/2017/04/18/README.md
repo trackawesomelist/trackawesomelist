@@ -16,11 +16,11 @@
 
 ### Command Line Applications
 
-*   [optimus (⭐151)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
+*   [optimus (⭐154)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
 
 ### Feature Flags and Toggles
 
-*   [flippant (⭐88)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+*   [flippant (⭐89)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
 *   [molasses (⭐74)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ### Geolocation
@@ -33,7 +33,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_rut (⭐111)](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
+*   [ecto\_rut (⭐112)](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
 
 ### Release Management
 

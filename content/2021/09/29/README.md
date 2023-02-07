@@ -22,7 +22,7 @@
 
 ### Software / Ticketing
 
-*   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐102)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
+*   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐104)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -53,7 +53,7 @@
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 *   [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
-*   [Papers we love (⭐68k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐69k)](https://github.com/papers-we-love/papers-we-love)
 *   [Programming](https://en.wikibooks.org/wiki/Category%3aComputer_programming) - Wikibooks
 *   [Red Gate Books](http://www.red-gate.com/community/books/index)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
@@ -86,24 +86,13 @@
 *   [Text Algorithms](http://igm.univ-mlv.fr/\~mac/REC/text-algorithms.pdf) (PDF)
 *   [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 
-### Theoretical Computer Science
+### Programming
 
 *   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
-*   [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
-*   [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
-*   [Category Theory for Programmers (⭐10k)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
 *   [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
-*   [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
 *   [Introduction to Computer Science](http://www.cse.iitd.ernet.in/\~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
-*   [Introduction to Computing](http://www.computingbook.org)
-*   [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
-*   [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/\~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
-*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/\~scott/pl/book/dist/) - Scott F. Smith
+*   [Introduction to Computing](http://www.computingbook.org) - David Evans
 *   [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
-*   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
-*   [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/\~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
-*   [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/\~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
-*   [Semantics with Applications: A Formal Introduction](http://www.cs.ru.nl/\~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
 *   [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 *   [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 
@@ -179,7 +168,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐119)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
+*   [2D Game Development: From Zero To Hero (⭐120)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) (:construction: *in process*)
 *   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
@@ -314,7 +303,7 @@
 *   [Mathematics, MTH101A](http://home.iitk.ac.in/\~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐41)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐43)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [Online Statistics Education](http://onlinestatbook.com) - David Lane
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
@@ -455,6 +444,20 @@
 *   [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 *   [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
+### Theoretical Computer Science
+
+*   [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/\~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
+*   [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
+*   [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
+*   [Category Theory for Programmers (⭐10k)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
+*   [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
+*   [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
+*   [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/\~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
+*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/\~scott/pl/book/dist/) - Scott F. Smith
+*   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
+*   [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/\~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
+*   [Semantics with Applications: A Formal Introduction](http://www.cs.ru.nl/\~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
+
 ### Programming Paradigms
 
 *   [Flow based Programming](http://jpaulmorrison.com/fbp/) - J Paul Morrison
@@ -482,7 +485,7 @@
 ### Search Engines
 
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.5k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐61)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐61)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐62)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐62)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
@@ -525,7 +528,7 @@
 *   [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 *   [Software Engineering for Internet Applications](http://philip.greenspun.com/seia/)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐341)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐344)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 *   [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 *   [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
@@ -555,12 +558,12 @@
 
 ### Plugins
 
-*   🛑💼 [Scroll Snap (⭐173)](https://github.com/innocenzi/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
+*   🛑💼 [Scroll Snap (⭐174)](https://github.com/innocenzi/tailwindcss-scroll-snap) - Adds `scroll-snap` utilities.
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
-*   🧩 [Tailwind Datepicker (⭐106)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+*   🧩 [Tailwind Datepicker (⭐110)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

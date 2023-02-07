@@ -63,63 +63,63 @@
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Runtimes / Other / unknown licence
+### Runtimes / MIT
 
 *   [ada-runtime (⭐32)](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 
-### Games / Other / unknown licence
+### Games / MIT
 
 *   [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga](https://sourceforge.net/projects/gnoga/).
 *   [buttons (⭐2)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐76)](https://github.com/AdaCore/gtkada) Button Mania game.
 *   [play-2048 (⭐2)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐20)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐25)](https://github.com/pmderodat/ada-toml) for saving state.
 *   [bingada (⭐4)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐76)](https://github.com/AdaCore/gtkada)
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [gneiss (⭐22)](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime (⭐32)](https://github.com/Componolit/ada-runtime)
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
 *   [gtkada (⭐76)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 *   [template-parser (⭐5)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
-### Compression / Other / unknown licence
+### Compression / MIT
 
 *   [zip-ada (⭐16)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 *   [dcf-ada (⭐5)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐16)](https://github.com/zertovitch/zip-ada)).
 
-### Format Readers and Writers / Other / unknown licence
+### Format Readers and Writers / MIT
 
 *   [protobuf-ada (⭐12)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 *   [protobuf (⭐19)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka](http://forge.ada-ru.org/matreshka).
 *   [ada-toml (⭐25)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
-### Graphics and Multimedia / Other / unknown licence
+### Graphics and Multimedia / MIT
 
 *   [asfml (⭐20)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
-### Utilities / Other / unknown licence
+### Utilities / MIT
 
 *   [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser (⭐5)](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 
-### Office / Other / unknown licence
+### Office / MIT
 
 *   [hunter (⭐21)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐76)](https://github.com/AdaCore/gtkada)) file manager for Linux.
 
-### Simulation / Other / unknown licence
+### Simulation / MIT
 
 *   [eagle-lander (⭐26)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐76)](https://github.com/AdaCore/gtkada)/Cairo).
 
-### Generators and Translators / Other / unknown licence
+### Generators and Translators / MIT
 
 *   [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of [matreshka](http://forge.ada-ru.org/matreshka).
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [tp7-ada-gtkada (⭐3)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
 *   [tp7-ada-gnoga (⭐4)](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga](https://sourceforge.net/projects/gnoga/).

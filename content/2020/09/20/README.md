@@ -10,7 +10,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐247)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐246)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Fortran / General-Purpose Machine Learning
 
-*   [neural-fortran (⭐254)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
+*   [neural-fortran (⭐261)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
     Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 ### Python / Natural Language Processing

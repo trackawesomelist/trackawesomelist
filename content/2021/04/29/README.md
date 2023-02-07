@@ -241,7 +241,7 @@
 
 ### Go / Erlang
 
-*   [go-zero (⭐21k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
+*   [go-zero (⭐22k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
 
 ## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

@@ -16,8 +16,8 @@
 
 ### External Services
 
-*   [music-box (⭐96)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
-*   [strava-box (⭐34)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+*   [music-box (⭐97)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [strava-box (⭐35)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -27,7 +27,7 @@
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Testing
+### Testing / Misc
 
 *   [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 
@@ -51,7 +51,7 @@
 
 ### Custom Scrollbar
 
-*   [react-custom-scroll (⭐437)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
+*   [react-custom-scroll (⭐438)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 
 ## [8. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

@@ -40,7 +40,7 @@
 
 ### Awesome ClojureScript / Client/Server Communication
 
-*   [Fetch (⭐206)](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
+*   [Fetch (⭐209)](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 ## [6. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

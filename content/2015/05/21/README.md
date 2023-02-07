@@ -10,7 +10,7 @@
 
 ### Awesome ClojureScript / JavaScript Interoperability
 
-*   [Jayq (⭐409)](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
+*   [Jayq (⭐410)](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐152)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐153)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -178,7 +178,7 @@
 ### Awesome ClojureScript / State Management
 
 *   [component (⭐2k)](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
-*   [mount (⭐1.1k)](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
+*   [mount (⭐1.2k)](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
 
 ## [22. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
@@ -242,7 +242,7 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐190)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐204)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

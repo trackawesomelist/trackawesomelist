@@ -16,7 +16,7 @@
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Mies (⭐369)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
+*   [Mies (⭐370)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
 
 ## [3. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

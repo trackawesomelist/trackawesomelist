@@ -28,7 +28,7 @@
 
 ### Machine Learning and Data Science
 
-*   [Accord.NET Extensions (⭐332)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+*   [Accord.NET Extensions (⭐333)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

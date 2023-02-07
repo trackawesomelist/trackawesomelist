@@ -69,10 +69,6 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
-### Node.js
-
-*   [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
-
 ### Go / Symfony2
 
 *   [go-restful (⭐4.7k)](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.

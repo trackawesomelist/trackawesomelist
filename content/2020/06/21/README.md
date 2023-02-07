@@ -87,7 +87,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Movie Paradise (⭐23)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
+*   [Movie Paradise (⭐24)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 
 ## [9. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tslog (⭐962)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+*   :octocat: [tslog (⭐978)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐73)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐74)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
 
 ---
 

@@ -89,7 +89,7 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐833)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐836)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
@@ -97,16 +97,16 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐336)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-*   [VisualFSharp (⭐3.3k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
+*   [IronScheme (⭐338)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [VisualFSharp (⭐3.4k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database
 
-*   [Event Store (⭐4.7k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
+*   [Event Store (⭐4.8k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
 
 ### Documentation
 
-*   [SourceBrowser (⭐914)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
+*   [SourceBrowser (⭐918)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
 
 ### E-Commerce and Payments
 

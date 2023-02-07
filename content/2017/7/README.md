@@ -119,7 +119,7 @@
 
 ### Awesome ClojureScript / Documentation
 
-*   [codox (⭐637)](https://github.com/weavejester/codox) – A tool for generating API documentation from Clojure or ClojureScript source code.
+*   [codox (⭐641)](https://github.com/weavejester/codox) – A tool for generating API documentation from Clojure or ClojureScript source code.
 
 ## [16. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -389,7 +389,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Validations
 
-*   [jeaux (⭐12)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
+*   [jeaux (⭐11)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 
 ## [40. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -720,7 +720,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### C++ / Natural Language Processing
 
-*   [frog (⭐70)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
+*   [frog (⭐72)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
 *   [ucto (⭐58)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition

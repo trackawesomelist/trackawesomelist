@@ -17,7 +17,7 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [del-cli (⭐265)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
+*   [del-cli (⭐271)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -336,7 +336,7 @@
 
 ### Testing
 
-*   [Bogus (⭐6.6k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐6.7k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 *   [FsCheck (⭐1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Source Generator

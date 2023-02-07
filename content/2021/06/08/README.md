@@ -16,13 +16,13 @@
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐1.8k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+*   [sindrets/diffview.nvim (⭐1.9k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Markdown Editor
 
-*   [react-simplemde-editor (⭐660)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.8k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-simplemde-editor (⭐662)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.8k)](https://github.com/Ionaru/easy-markdown-editor).
 
 ## [4. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 

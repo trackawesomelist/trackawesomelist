@@ -110,9 +110,9 @@
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Blogs
+### Blogs / Misc
 
-*   [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing
+*   [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 
 ---
 

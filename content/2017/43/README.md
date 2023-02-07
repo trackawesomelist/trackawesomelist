@@ -71,18 +71,24 @@
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 
-## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [7. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+
+### Python / Symfony2
+
+*   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
+
+## [8. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Object
 
 *   [merge-objects (⭐2)](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
 *   [deep-object-diff (⭐818)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -92,7 +98,7 @@
 
 *   [urchin (⭐209)](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 
-## [9. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [10. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Methods / Research Plan
 
@@ -238,24 +244,17 @@
 *   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
-## [10. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [11. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [SharpScss (⭐53)](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
 
-## [11. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [12. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### Hybrid Desktop / Resources-websites-projects
 
 *   [MacGap](https://github.com/MacGapProject)
-
-## [12. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
-
-### Python / Symfony2
-
-*   [hug](http://www.hug.rest/) - Lightweight and fast API Framework.
-*   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 
 ## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -319,11 +318,11 @@
 
 ### Misc
 
-*   [DeviceId (⭐515)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐526)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐437)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐438)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 

@@ -20,7 +20,7 @@
 
 ### External Services
 
-*   [movie-box (⭐20)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+*   [movie-box (⭐21)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Form Components / Rich Text Editor
 
-*   [react-editor (⭐52)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+*   [react-editor (⭐54)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 
 ### Framework bindings / integrations / Mouse Events
 

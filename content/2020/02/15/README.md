@@ -232,7 +232,7 @@
 
 ### Audio Tools
 
-*   [matchering (⭐748)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+*   [matchering (⭐828)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

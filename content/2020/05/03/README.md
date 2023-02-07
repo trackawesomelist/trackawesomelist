@@ -11,8 +11,8 @@
 ### Tools / Libraries
 
 *   [granim.js (⭐5.1k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient (⭐172)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
-*   [TinyColor (⭐4.4k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [tinygradient (⭐175)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [TinyColor (⭐4.5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ## [2. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kouts/vue-modal (⭐96)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
+*   [@kouts/vue-modal (⭐97)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 
 ## [7. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 

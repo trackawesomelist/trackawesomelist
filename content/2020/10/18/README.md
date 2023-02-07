@@ -124,7 +124,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-tabs (⭐28)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
+*   [vue3-tabs (⭐30)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 
 ## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

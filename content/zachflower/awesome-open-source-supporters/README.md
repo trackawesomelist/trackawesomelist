@@ -2,7 +2,7 @@
 
 ⭐️ A curated list of companies that offer their services for free to Open Source projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 539 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 555 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/zachflower/awesome-open-source-supporters/week/README.md) / [Overview](/content/zachflower/awesome-open-source-supporters/readme/README.md) ]
 
@@ -168,7 +168,6 @@
 *   [Ebert](https://ebertapp.io/) - Continuous static analysis.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
-*   [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
 *   [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
 *   [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 *   [StyleCI](https://styleci.io/) - PHP code style review.
@@ -181,7 +180,6 @@
 *   [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
 *   [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 *   [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
-*   [Shippable](https://www.shippable.com/) - DevOps automation.
 *   [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
 
 ### Dependency Management
@@ -189,7 +187,6 @@
 *   [pyup.io](https://pyup.io/) - Python dependency management.
 *   [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 *   [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
-*   [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ### Package Management
 
@@ -205,7 +202,6 @@
 ### Monitoring
 
 *   [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
-*   [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
 
 ### Localization
 

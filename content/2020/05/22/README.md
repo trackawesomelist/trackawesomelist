@@ -158,7 +158,7 @@
 
 ### Just for Fun / Image Conversion
 
-*   [ricksay (⭐41)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+*   [ricksay (⭐43)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

@@ -195,7 +195,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TSTL (⭐523)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
+*   :octocat: [TSTL (⭐527)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
     *   :octocat: [ECol (⭐8)](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
     *   :octocat: [TGrid (⭐94)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
     *   :octocat: [Mutex-Server (⭐23)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.

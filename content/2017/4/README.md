@@ -32,7 +32,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐830)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐326)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐848)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐334)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -631,8 +631,8 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Related Lists
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.1k)](https://github.com/kgryte/awesome-peer-to-peer)
-*   [https://github.com/retrohacker/awesome-p2p (⭐139)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐525)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/retrohacker/awesome-p2p (⭐140)](https://github.com/retrohacker/awesome-p2p)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐526)](https://github.com/Kikobeats/awesome-network-js)
 *   [https://github.com/steve-vincent/awesome-decentralized (⭐183)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>

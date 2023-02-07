@@ -32,7 +32,7 @@
 
 ### Email Alias Services (Anonymous Forwarding)
 
-*   [SimpleLogin (⭐3.3k)](https://github.com/simple-login/app)
+*   [SimpleLogin (⭐3.4k)](https://github.com/simple-login/app)
 *   [AnonAddy (⭐2.1k)](https://github.com/anonaddy/anonaddy)
 
 ### Alternative Frontends

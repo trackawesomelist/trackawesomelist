@@ -55,7 +55,7 @@
 
 ### Statistics
 
-*   [simple\_stat\_ex (⭐13)](https://github.com/Tyler-pierce/simplestatex) - Ecto compatible library for simple stat keeping by time period.
+*   [simple\_stat\_ex (⭐12)](https://github.com/Tyler-pierce/simplestatex) - Ecto compatible library for simple stat keeping by time period.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

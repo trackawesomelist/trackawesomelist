@@ -66,8 +66,8 @@
 
 ### General
 
-*   [IconPark (⭐6.5k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
-*   [Remix Icon (⭐4.9k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
+*   [IconPark (⭐6.8k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
+*   [Remix Icon (⭐5.1k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
 ## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

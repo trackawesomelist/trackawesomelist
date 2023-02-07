@@ -44,7 +44,7 @@
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Inspirations
+### Inspirations / Misc
 
 *   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
 
@@ -161,7 +161,7 @@
 
 ## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools
+### Tools / Platform-specific tools
 
 *   [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 

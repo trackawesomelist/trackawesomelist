@@ -29,7 +29,6 @@
 *   [Ebert](https://ebertapp.io/) - Continuous static analysis.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
-*   [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
 *   [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
 *   [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 *   [StyleCI](https://styleci.io/) - PHP code style review.
@@ -42,7 +41,6 @@
 *   [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
 *   [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 *   [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
-*   [Shippable](https://www.shippable.com/) - DevOps automation.
 *   [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
 
 ### Dependency Management
@@ -50,7 +48,6 @@
 *   [pyup.io](https://pyup.io/) - Python dependency management.
 *   [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 *   [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
-*   [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ### Package Management
 
@@ -66,7 +63,6 @@
 ### Monitoring
 
 *   [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
-*   [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
 
 ### Localization
 
@@ -105,7 +101,7 @@
 
 ### Testing / Scala
 
-*   [Goreplay (⭐16k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
+*   [Goreplay (⭐17k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 
 ## [4. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 

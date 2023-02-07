@@ -48,8 +48,6 @@
 ### Community
 
 *   [Craft Cookbook](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
-*   [Craft Link List](http://craftlinklist.com/) - Curated publication collecting interesting links.
-*   [CraftX](https://craftx.io/) - Open source site built on Craft 3, and community of web professionals hosting hangouts.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -59,7 +57,7 @@
 
 ### Debug
 
-*   [fff (⭐550)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
+*   [fff (⭐560)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
 
 ### Articles
 
@@ -111,7 +109,7 @@
 
 ### GTFS Validators / Ruby
 
-*   [GTFS Data Package Specification (⭐20)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
+*   [GTFS Data Package Specification (⭐19)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 
 ## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -386,8 +384,8 @@
 
 ### Datetime
 
-*   [DateTimeExtensions (⭐468)](https://github.com/joaomatossilva/DateTimeExtensions) - Common Date Time operations on the form of extensions to `System.DateTime`, including holidays and working days calculations on several culture locales.
-*   [Exceptionless.DateTimeExtensions (⭐219)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various `DateTime`, `DateTimeOffset`, `TimeSpan` extension methods.
+*   [DateTimeExtensions (⭐469)](https://github.com/joaomatossilva/DateTimeExtensions) - Common Date Time operations on the form of extensions to `System.DateTime`, including holidays and working days calculations on several culture locales.
+*   [Exceptionless.DateTimeExtensions (⭐220)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various `DateTime`, `DateTimeOffset`, `TimeSpan` extension methods.
 
 ### Deployment
 
@@ -397,7 +395,7 @@
 ### Distributed Computing
 
 *   [Akka.net (⭐4.3k)](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community-driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
-*   [Zebus (⭐269)](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, highly versatile, peer-to-peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
+*   [Zebus (⭐271)](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, highly versatile, peer-to-peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
 
 ### E-Commerce and Payments
 
@@ -411,7 +409,7 @@
 
 ### Event aggregator and messenger
 
-*   [Mediator.Net (⭐328)](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
+*   [Mediator.Net (⭐329)](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
 
 ### Game
 
@@ -431,11 +429,11 @@
 ### HTML and CSS
 
 *   [dotless (⭐696)](https://github.com/dotless/dotless) - .NET port of the Ruby Less CSS lib <http://www.dotlesscss.org>
-*   [ExCSS (⭐270)](https://github.com/TylerBrinks/ExCSS) - CSS3 parser library for C#
+*   [ExCSS (⭐271)](https://github.com/TylerBrinks/ExCSS) - CSS3 parser library for C#
 
 ### HTTP
 
-*   [Http.fs (⭐308)](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
+*   [Http.fs (⭐307)](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 *   [RestSharp (⭐8.9k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
 *   [EasyHttp (⭐956)](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 
@@ -462,13 +460,13 @@
 
 ### Logging
 
-*   [NLog (⭐5.7k)](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight logging
+*   [NLog (⭐5.8k)](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight logging
 *   [Logazmic (⭐53)](https://github.com/ihtfw/Logazmic) - Open source NLog viewer for Windows
 
 ### Mail
 
-*   [FluentEmail (⭐2.4k)](https://github.com/lukencode/FluentEmail) - A fluent wrapper for System.Net.Mail with Razor templating support.
-*   [PreMailer.Net (⭐588)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
+*   [FluentEmail (⭐2.5k)](https://github.com/lukencode/FluentEmail) - A fluent wrapper for System.Net.Mail with Razor templating support.
+*   [PreMailer.Net (⭐589)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
 
 ### Metrics
 
@@ -482,17 +480,17 @@
 
 ### MVVM
 
-*   [Win Application Framework (WAF) (⭐641)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+*   [Win Application Framework (WAF) (⭐645)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
 ### Object to object mapping
 
 *   [TinyMapper (⭐641)](https://github.com/TinyMapper/TinyMapper) - A tiny and quick object mapper for .NET.
-*   [ExpressMapper (⭐299)](https://github.com/fluentsprings/ExpressMapper) - A lightweight, lighting fast .NET mapper to map one type of object(s) to another in automated and easy way. ExpressMapper relies completely on the expression trees.
+*   [ExpressMapper (⭐298)](https://github.com/fluentsprings/ExpressMapper) - A lightweight, lighting fast .NET mapper to map one type of object(s) to another in automated and easy way. ExpressMapper relies completely on the expression trees.
 
 ### ORM
 
-*   [Dapper.FastCRUD (⭐431)](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
-*   [Insight.Database (⭐774)](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
+*   [Dapper.FastCRUD (⭐433)](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
+*   [Insight.Database (⭐779)](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 
 ### Package Management
 
@@ -509,7 +507,7 @@
 ### Search
 
 *   [PlainElastic.Net (⭐158)](https://github.com/Yegoroff/PlainElastic.Net) - Plain .NET client for ElasticSearch
-*   [SolrNet (⭐904)](https://github.com/SolrNet/SolrNet) - Solr client for .NET
+*   [SolrNet (⭐905)](https://github.com/SolrNet/SolrNet) - Solr client for .NET
 
 ### Serialization
 
@@ -517,7 +515,7 @@
 
 ### State machines
 
-*   [Automatonymous (⭐685)](https://github.com/MassTransit/Automatonymous) - A state machine library for .NET - allows you to write fluent style state machines
+*   [Automatonymous (⭐689)](https://github.com/MassTransit/Automatonymous) - A state machine library for .NET - allows you to write fluent style state machines
 
 ### Static Site Generators
 
@@ -533,7 +531,7 @@
 
 ### WebSocket
 
-*   [NetGain (⭐916)](https://github.com/StackExchange/NetGain) - A high performance WebSocket server library powering Stack Overflow.
+*   [NetGain (⭐917)](https://github.com/StackExchange/NetGain) - A high performance WebSocket server library powering Stack Overflow.
 
 ## [30. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
@@ -594,7 +592,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-stroll (⭐154)](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
+*   [vue-stroll (⭐155)](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
 
 ## [34. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
@@ -2811,7 +2809,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-readline (⭐36)](https://github.com/vindarel/cl-readline) - a set of
+*   [cl-readline (⭐35)](https://github.com/vindarel/cl-readline) - a set of
     functions to edit lines as they are typed in, to maintain a list of
     previously-entered command lines, to recall and reedit them and
     perform csh-like history expansion.  Emacs and vi editing
@@ -2926,11 +2924,11 @@
 
 ### Examples and funny stuff
 
-*   [crystal-patterns (⭐280)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
+*   [crystal-patterns (⭐279)](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
 
 ### Machine Learning
 
-*   [ai4cr (⭐26)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐708)](https://github.com/SergioFierens/ai4r))
+*   [ai4cr (⭐26)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐711)](https://github.com/SergioFierens/ai4r))
 
 ## [57. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 

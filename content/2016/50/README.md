@@ -205,7 +205,7 @@
 
 *   [lessmd (⭐127)](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 *   [cost-of-modules (⭐2.8k)](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-*   [localtunnel (⭐15k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 ### Packages / Text
 

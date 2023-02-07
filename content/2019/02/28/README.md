@@ -72,7 +72,7 @@
 
 ### Cluster Managers
 
-*   [Consul Cluster Manager (⭐17)](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
+*   [Consul Cluster Manager (⭐18)](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

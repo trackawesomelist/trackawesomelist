@@ -234,11 +234,11 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 ## [11. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Design
+### Design / Misc
 
 *   [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - This guide is a brief summary of email best practices that we have learned from managing mail servers.
 
-### Blogs
+### Blogs / Misc
 
 *   [Myemma Blog](http://myemma.com/content-hub)
 *   [Postmarkapp Blog](http://blog.postmarkapp.com/)

@@ -30,7 +30,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐497)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [SOMPY (⭐498)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
 *   [HDBScan (⭐91)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
@@ -55,7 +55,7 @@
 
 ### Environment Management
 
-*   [rcm.cr (⭐45)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
+*   [rcm.cr (⭐44)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

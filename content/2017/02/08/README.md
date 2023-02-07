@@ -22,7 +22,7 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐190)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐204)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

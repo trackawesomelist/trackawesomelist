@@ -75,15 +75,15 @@
 
 ### Deployment
 
-*   [DbUp (⭐1.8k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
+*   [DbUp (⭐1.9k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐476)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐477)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ### Office
 
-*   [ExcelDna (⭐989)](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
+*   [ExcelDna (⭐1k)](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
 
 ## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -334,7 +334,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### JSON
 
-*   [jose (⭐270)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐271)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ### Natural Language Processing (NLP)
 

@@ -78,7 +78,7 @@
 
 ### Version Control / Git
 
-*   [dev-time (⭐176)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+*   [dev-time (⭐177)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

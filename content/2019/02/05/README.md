@@ -13,11 +13,11 @@
 *   [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 *   [Geany (⭐17)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 *   [Gedit (⭐16)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
-*   [Sublime Text (⭐64)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
+*   [Sublime Text (⭐65)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐129)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐139)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Libraries / PHP
 
-*   [PHPMongo ODM (⭐240)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+*   [PHPMongo ODM (⭐239)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
 *   [yadm (⭐83)](https://github.com/formapro/yadm) - Fast schemaless ODM
 

@@ -48,7 +48,7 @@
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/activity-tracker (⭐59)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
+*   [dkandalov/activity-tracker (⭐60)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 
 ## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

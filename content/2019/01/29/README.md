@@ -77,22 +77,22 @@
 
 ### General
 
-*   [Byte Size Icons (⭐3.7k)](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
+*   [Byte Size Icons (⭐3.8k)](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
 *   [Eva icons (⭐8.4k)](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 *   [Evil icons (⭐5k)](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 *   [Feather (⭐23k)](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
-*   [Font Awesome (⭐70k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
-*   [Ion icons (⭐16k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
+*   [Font Awesome (⭐71k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
+*   [Ion icons (⭐17k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
 *   [Material design icons (⭐47k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://material.io/tools/icons))
-*   [Octicons (⭐7.5k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
+*   [Octicons (⭐7.6k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 *   [Open Iconic (⭐3.5k)](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
 *   Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
 
 ### Logos
 
-*   [Cryptocurrency icons (⭐2.3k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
-*   [Dev icons (⭐2.5k)](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
-*   [Simple icons (⭐14k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
+*   [Cryptocurrency icons (⭐2.4k)](https://github.com/atomiclabs/cryptocurrency-icons#readme) - A set of icons for all the main cryptocurrencies and altcoins. ([Website](http://cryptoicons.co))
+*   [Dev icons (⭐2.6k)](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
+*   [Simple icons (⭐15k)](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
 
 ### Other / CSS only
 
@@ -102,7 +102,7 @@
 
 ### Strong Naming
 
-*   [Strong Namer (⭐310)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
+*   [Strong Namer (⭐311)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
 ## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 

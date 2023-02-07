@@ -47,7 +47,7 @@
 
 ### Software
 
-*   [Forecast the US demand for electricity (⭐90)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+*   [Forecast the US demand for electricity (⭐92)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 
 ## [6. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Productivity / HTTP Client
 
-*   [papis (⭐901)](https://github.com/papis/papis) - Extensible document and bibliography manager.
+*   [papis (⭐964)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -77,19 +77,19 @@
 
 ### Concurrency
 
-*   [rotor (⭐231)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
+*   [rotor (⭐241)](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. \[MIT]
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Artificial Intelligence
 
-*   [smartcorelib/smartcore (⭐434)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
+*   [smartcorelib/smartcore (⭐447)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [@zougt/vite-plugin-theme-preprocessor (⭐136)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
+*   [@zougt/vite-plugin-theme-preprocessor (⭐137)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 
 ## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Community plugins
 
-*   [App-icon (⭐37)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
+*   [App-icon (⭐38)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 
 ### Other plugins
 
@@ -248,7 +248,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [RexMex (⭐258)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐595)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [ChemicalX (⭐602)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 *   [Deepchecks (⭐2.3k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
@@ -275,7 +275,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐88)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐98)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ### UI Libraries, Components & Templates
 
@@ -360,7 +360,7 @@
 ### C bindings
 
 *   [fftw.cr (⭐12)](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
-*   [wasmer-crystal (⭐77)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
+*   [wasmer-crystal (⭐81)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
 
 ## [33. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -396,11 +396,11 @@
 
 ### Reference Resources / Power Platform (Microsoft)
 
-*   [Microsoft Power Fx (⭐2.8k)](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
+*   [Microsoft Power Fx (⭐2.9k)](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Fx Samples (⭐71)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
+*   [Power Fx Samples (⭐78)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
 
 ### Blogs / Power Platform (Microsoft)
 
@@ -457,7 +457,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Work Hours (⭐44)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
+*   [Work Hours (⭐45)](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/niteoweb/work-hours-mac)
 
 ### Utilities / General Tools
 
@@ -671,11 +671,11 @@
 
 ### Git Tools
 
-*   [Husky.Net (⭐367)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
+*   [Husky.Net (⭐374)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
 ### Tools
 
-*   [CSharpier (⭐531)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐45k)](https://github.com/prettier/prettier) printing process.
+*   [CSharpier (⭐544)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐45k)](https://github.com/prettier/prettier) printing process.
 
 ## [41. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -697,7 +697,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐4.3k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐4.4k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -788,8 +788,8 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐226)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
-*   [titanzero/zephyrium (⭐19)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
+*   [luisiacc/gruvbox-baby (⭐229)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
+*   [titanzero/zephyrium (⭐21)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
 
 ## [50. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 

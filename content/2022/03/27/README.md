@@ -14,7 +14,7 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Text Modes / Other / unknown licence
+### Text Modes / MIT
 
 *   [ob-ada-spark (⭐7)](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK support for org-babel : Evaluate source code blocks with Gnu Emacs and org files.
 
@@ -32,24 +32,20 @@
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Document Management
-
-*   [Paperless-ngx (⭐5.4k)](https://github.com/paperless-ngx/paperless-ngx) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/)) `GPL-3.0` `Python`
-
 ### Software / Knowledge Management Tools
 
-*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐196)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.1k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
+*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐199)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.2k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
 
 ### Software / Miscellaneous
 
 *   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐253)](https://github.com/koillection/koillection)) `MIT` `PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐256)](https://github.com/koillection/koillection)) `MIT` `PHP`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Dev Tools
 
-*   [vue-unicorn-log (⭐5)](https://github.com/webdevnerdstuff/vue-unicorn-log) - A magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible.
+*   [vue-unicorn-log (⭐6)](https://github.com/webdevnerdstuff/vue-unicorn-log) - A magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible.
 
 ### Components & Libraries / Scaffold
 
@@ -59,13 +55,13 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaunsingh/nyoom.nvim (⭐614)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
+*   [shaunsingh/nyoom.nvim (⭐672)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Databases
 
-*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐44k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐44k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐45k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐45k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 
 ### Home Assistants
 

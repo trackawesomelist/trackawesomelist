@@ -55,7 +55,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐88)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐98)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ### UI Libraries, Components & Templates
 
@@ -65,7 +65,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [titanzero/zephyrium (⭐19)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
+*   [titanzero/zephyrium (⭐21)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Git Tools
 
-*   [Husky.Net (⭐367)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
+*   [Husky.Net (⭐374)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
 ## [15. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

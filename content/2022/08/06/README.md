@@ -16,10 +16,10 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [completions (clarketm) (⭐44)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐5.8k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐91)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐9)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
-*   [completions (zchee) (⭐91)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
+*   [completions (clarketm) (⭐45)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐5.8k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐93)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐9)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
+*   [completions (zchee) (⭐93)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
 *   [completions (zsh-users) (⭐5.8k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
-*   [fzshell (⭐57)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
+*   [fzshell (⭐60)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
 *   [osx-zsh-completions (⭐9)](https://github.com/nilsonholger/osx-zsh-completions) - Tab completions for some macOS-specific commands like `launchctl`.
 *   [pipx (⭐1)](https://github.com/omBratteng/zsh-plugin-pipx) - Tab completions for [pipx (⭐5.9k)](https://github.com/pypa/pipx).
 
@@ -44,7 +44,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [godot-ply (⭐169)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
+*   [godot-ply (⭐182)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

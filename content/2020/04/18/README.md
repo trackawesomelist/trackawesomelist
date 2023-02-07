@@ -22,13 +22,13 @@
 
 ### Software / Automation
 
-*   [YoutubeDL-Material (⭐1.7k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
+*   [YoutubeDL-Material (⭐1.8k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [bonfire (⭐781)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [bonfire (⭐797)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
 ## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 

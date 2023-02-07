@@ -316,7 +316,7 @@
 
 ### Tools
 
-*   🎨🔧💼 [Colorkraken (⭐13)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
+*   🎨🔧💼 [Colorkraken (⭐14)](https://github.com/Bouhoum/colorkraken) - Color shades generator for Tailwind CSS.
 
 ### UI Libraries, Components & Templates
 
@@ -336,7 +336,7 @@
 
 ## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Other
+### Other / Platform-specific tools
 
 *   [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
 

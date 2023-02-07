@@ -22,7 +22,7 @@
 
 *   [Pistache (⭐2.8k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
-*   [Served (⭐695)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
+*   [Served (⭐697)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

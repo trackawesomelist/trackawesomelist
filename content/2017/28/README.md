@@ -40,14 +40,14 @@
 
 ### Other Awesome Projects
 
-*   [awesome (⭐234k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐236k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐7.8k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
-*   [git-secret (⭐3k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
+*   [git-secret (⭐3.1k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -122,13 +122,13 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐440)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐442)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Clients
 
-*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -323,11 +323,11 @@
 
 ### Converters
 
-*   [sass.cr (⭐31)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
+*   [sass.cr (⭐30)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
 
 ### Email
 
-*   [crystal-email (⭐110)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
+*   [crystal-email (⭐111)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
 
 ### Science and Data analysis
 
@@ -459,11 +459,11 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Material Dashboard (⭐160)](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
-*   [Explore-Github (⭐53)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
+*   [Explore-Github (⭐54)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 
 ### Components & Libraries / UI Components
 
-*   [v-money (⭐744)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+*   [v-money (⭐745)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ## [39. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 

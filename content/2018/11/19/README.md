@@ -38,11 +38,11 @@
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 
-### Blogs
+### Blogs / Misc
 
 *   [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 

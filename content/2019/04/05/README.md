@@ -10,7 +10,7 @@
 
 ### CLI Utils
 
-*   [tallboy (⭐49)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+*   [tallboy (⭐48)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -29,7 +29,7 @@
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐194)](https://github.com/eclipse/corrosion)
+    *   [Eclipse Corrosion (⭐196)](https://github.com/eclipse/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

@@ -40,7 +40,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [ferros (⭐70)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
+*   [ferros (⭐72)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Enigma Reloaded (⭐57)](https://github.com/enigma-reloaded/enigma-reloaded) - DIY Message and file encryption for any platform. `GPL-3.0` `Javascript`
+*   [Enigma Reloaded (⭐58)](https://github.com/enigma-reloaded/enigma-reloaded) - DIY Message and file encryption for any platform. `GPL-3.0` `Javascript`
 
 ### Software / File Transfer - Web-based File Managers
 
@@ -76,7 +76,7 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐5.3k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Go`
+*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐5.4k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Go`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -84,7 +84,7 @@
 
 ### Software / Ticketing
 
-*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐960)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs`
+*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐974)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs`
 
 ### Software / Wikis
 
@@ -94,7 +94,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [catppuccin/nvim (⭐1.9k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
+*   [catppuccin/nvim (⭐2k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

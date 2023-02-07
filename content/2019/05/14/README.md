@@ -111,10 +111,10 @@
 
 ### Development Environment
 
-*   [GitHub (⭐742)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+*   [GitHub (⭐748)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
     *   [Browser Extensions (⭐2.6k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
     *   [Cheat Sheet (⭐39k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
-    *   [Pinned Gists (⭐1.5k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+    *   [Pinned Gists (⭐1.6k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
 ## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -126,18 +126,18 @@
 
 ### Contents / Finance
 
-*   [Bit Alarm (⭐148)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
+*   [Bit Alarm (⭐152)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
 
 ### Contents / Productivity
 
-*   [Flutter Todo (⭐104)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
-*   [Notes App (⭐347)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
+*   [Flutter Todo (⭐107)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
+*   [Notes App (⭐357)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
 *   [WhatTodo (⭐1k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 
 ### Contents / Tools
 
-*   [Wallpaper (⭐278)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
-*   [Zefyr (⭐2.1k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
+*   [Wallpaper (⭐280)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
+*   [Zefyr (⭐2.2k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 
 ---
 

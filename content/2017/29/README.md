@@ -167,7 +167,7 @@
 
 ### C++
 
-*   [Restbed (⭐1.7k)](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
+*   [Restbed (⭐1.8k)](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
 
 ## [19. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -623,7 +623,7 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐898)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐901)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [RAN! (⭐2.2k)](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 *   [Next Simple Blog (⭐547)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
@@ -633,11 +633,11 @@
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 *   [Relate (⭐329)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 *   [Password (⭐111)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐123)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 *   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
-*   [Jet Chat (⭐10)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
+*   [Jet Chat (⭐9)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐50)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐831)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐834)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
 *   [Mailto (⭐164)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
@@ -660,7 +660,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dialog-drag (⭐172)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
+*   [vue-dialog-drag (⭐173)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 *   [vue-ya-semantic-modal (⭐20)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 
 ### Components & Libraries / Utilities

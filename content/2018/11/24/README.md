@@ -14,7 +14,7 @@
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Blogs
+### Blogs / Misc
 
 *   [HTML Email Blog](https://htmlemail.io/blog/)
 
@@ -50,7 +50,7 @@
 
 ### JSON
 
-*   [sajson (⭐546)](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
+*   [sajson (⭐547)](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

@@ -83,7 +83,7 @@
 
 ### Logging
 
-*   [Sejil (⭐109)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
+*   [Sejil (⭐110)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

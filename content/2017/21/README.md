@@ -40,7 +40,7 @@
 
 ### Utilities
 
-*   [Vert.x Web Accesslog (⭐23)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
+*   [Vert.x Web Accesslog (⭐25)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
 ## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -148,10 +148,6 @@
 ### Extensions
 
 *   [Next Routes (⭐2.4k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
-
-### Apps
-
-*   [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -372,7 +368,7 @@
 
 ### Node.js / Scala
 
-*   [Cote (⭐2.2k)](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
+*   [Cote (⭐2.3k)](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 
 ### PHP / Scala
 
@@ -385,7 +381,7 @@
 
 ### Messaging / Scala
 
-*   [RocketMQ (⭐18k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
+*   [RocketMQ (⭐19k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 
 ### Storage / Scala
 
@@ -393,7 +389,7 @@
 *   [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 *   [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
 *   [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
-*   [InfluxDB (⭐24k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+*   [InfluxDB (⭐25k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 *   [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 *   [Voldemort (⭐2.6k)](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
 
@@ -442,11 +438,11 @@
 
 ### Networking
 
-*   [Breep (⭐110)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐111)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ### Miscellaneous
 
-*   [Kangaru (⭐367)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐372)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -457,7 +453,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐323)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐324)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 *   [vue2-simplert (⭐216)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 *   [vue-model-autoset (⭐18)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
@@ -497,7 +493,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐384)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐386)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 

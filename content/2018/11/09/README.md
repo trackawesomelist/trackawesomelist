@@ -14,7 +14,7 @@
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
+### Templates / Misc
 
 *   [Postmark Transactional Email Templates (⭐2.6k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 

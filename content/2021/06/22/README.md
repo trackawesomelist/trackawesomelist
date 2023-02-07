@@ -35,16 +35,16 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Java
-    *   [by @jpa99 (⭐102)](https://github.com/jpa99/Algorithms)
-    *   [by @phishman3579 (⭐4.1k)](https://github.com/phishman3579/java-algorithms-implementation)
+    *   [by @jpa99 (⭐106)](https://github.com/jpa99/Algorithms)
+    *   [by @phishman3579 (⭐4.2k)](https://github.com/phishman3579/java-algorithms-implementation)
     *   [by @asmolich (⭐14)](https://github.com/asmolich/algorithms)
     *   [by @psjava (⭐70)](https://github.com/psjava/psjava)
     *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
-    *   [by @pedrovgs (⭐2.7k)](https://github.com/pedrovgs/Algorithms)
+    *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
     *   [by @Erdos-Graph-Framework (⭐111)](https://github.com/Erdos-Graph-Framework/Erdos)
-    *   [by @deepak-malik (⭐117)](https://github.com/deepak-malik/Data-Structures-In-Java)
+    *   [by @deepak-malik (⭐131)](https://github.com/deepak-malik/Data-Structures-In-Java)
     *   [by @yusufcakal (⭐22)](https://github.com/yusufcakal/algorithms)
-    *   [by @FarheenB (⭐128)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+    *   [by @FarheenB (⭐131)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 
 ## [6. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 

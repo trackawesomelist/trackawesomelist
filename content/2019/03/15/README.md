@@ -219,7 +219,7 @@ Free
 
 ### Testing / Scala
 
-*   [Hikaku (⭐182)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+*   [Hikaku (⭐186)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
 ## [12. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -235,7 +235,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐7.4k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐7.5k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 

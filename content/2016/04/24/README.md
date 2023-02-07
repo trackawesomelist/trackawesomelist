@@ -35,8 +35,8 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Fabio (⭐7k)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
-*   [Neutrino (⭐299)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
+*   [Fabio (⭐7.1k)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
+*   [Neutrino (⭐300)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

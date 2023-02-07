@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27 - Dec 03, 2017
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -103,13 +103,8 @@
 
 ### Software / ChatOps
 
-*   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
-*   [Abot (⭐2.2k)](https://github.com/itsabot/abot) - A digital assistant framework in Go.
-*   [CloudBot (⭐266)](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
-*   [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
-*   [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
-*   [Lazlo (⭐148)](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
-*   [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+*   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code (⭐16k)](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
+*   [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code (⭐429)](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
 
 ### Software / Automation
 
@@ -145,21 +140,17 @@
 
 ### Software / Client management
 
-*   [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
-*   [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
-*   [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
+*   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐8.8k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
 ### Software / Cloning
 
-*   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
-*   [Fog](https://www.fogproject.org/) - Another computer cloning solution.
+*   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
+*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code (⭐842)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 ### Software / Cloud Computing
 
-*   [AppScale (⭐2.4k)](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
-*   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
-*   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
-*   [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
+*   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code (⭐1.3k)](https://github.com/apache/cloudstack))
+*   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code (⭐2.4k)](https://github.com/cobbler/cobbler))
 *   [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 *   [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
 *   [OpenStack](https://www.openstack.org/) - Build private and public clouds.
@@ -168,8 +159,8 @@
 
 ### Software / Virtualization
 
-*   [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
 *   [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
+*   [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
 *   [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 *   [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
 *   [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
@@ -190,7 +181,7 @@
 *   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐54)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 *   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐95k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
+*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐96k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
 *   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 *   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 *   [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -213,7 +204,6 @@
 
 ### Software / Configuration Management Database
 
-*   [Clusto (⭐290)](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 *   [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 *   [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 *   [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
@@ -230,8 +220,6 @@
 *   [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 *   [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 *   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
-*   [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-*   [sup (⭐2.4k)](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 *   [Vlad the Deployer (⭐353)](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
 ### Software / Distributed Filesystems
@@ -318,57 +306,42 @@
 
 ### Software / Mail Clients
 
-*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
-*   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
-*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
-*   [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
-*   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
-*   [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
+*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree))
+*   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code (⭐2.7k)](https://github.com/imapsync/imapsync))
+*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt))
+*   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code (⭐61)](https://github.com/sylpheed-mail/sylpheed))
 
 ### Software / Monitoring
 
-*   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode (⭐331)](https://github.com/opinkerfi/adagios), [Documentation (⭐331)](https://github.com/opinkerfi/adagios/wiki))
-*   [Alerta (⭐2.2k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
-*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
-*   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-*   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
+*   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐331)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
+*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+*   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code (⭐5.4k)](https://github.com/arachnys/cabot)) `MIT` `Python`
+*   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.3k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 *   [cadvisor (⭐14k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐14k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
-*   [Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
-*   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
-*   [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
-*   [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
-*   [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
-*   [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
-*   [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
-*   [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
-*   [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
+*   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐329)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
+*   [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support. ([Source Code (⭐3k)](https://github.com/librenms/librenms)) `GPL-3.0` `PHP`
+*   [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems. ([Source Code](https://bitbucket.org/tildeslash/monit/src/master/)) `AGPL-3.0` `C`
+*   [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool. ([Source Code (⭐1.7k)](https://github.com/munin-monitoring/munin)) `GPL-2.0` `Perl/Shell`
+*   [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features. ([Source Code (⭐132)](https://github.com/naemon/naemon-core)) `GPL-2.0` `C`
+*   [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code (⭐1.2k)](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
 *   [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 *   [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 *   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
-*   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
-*   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
-*   [psdash (⭐2.4k)](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask.
-*   [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
-*   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
-*   [rtop (⭐2k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
-*   [Sensu](https://sensuapp.org/) - Monitoring framework.
-*   [ServerStatus BotoX (⭐786)](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
-*   [ServerStatus moejda (⭐355)](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
-*   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
-*   [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
-*   [Vector (⭐3.6k)](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
-*   [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
-*   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
-*   [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+*   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code (⭐2.1k)](https://github.com/phpservermon/phpservermon))
+*   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code (⭐1.3k)](https://github.com/phpsysinfo/phpsysinfo))
+*   [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
+*   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code (⭐4.2k)](https://github.com/riemann/riemann))
+*   [rtop (⭐2k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code (⭐2k)](https://github.com/rapidloop/rtop))
+*   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code (⭐384)](https://github.com/sni/Thruk))
+*   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
 
 ### Software / Network Configuration Management
 
-*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code (⭐1.7k)](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)) - `GPLv3`
-*   [Oxidized (⭐2.2k)](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
-*   [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
-*   [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
-*   [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
-*   [trigger (⭐548)](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
+*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code (⭐1.7k)](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
+*   [Oxidized (⭐2.2k)](https://github.com/ytti/oxidized) - Network device configuration backup tool. `Apache-2.0` `Ruby`
+*   [phpIPAM](http://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code (⭐1.8k)](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
+*   [RANCID](http://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code (⭐77)](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
+*   [rConfig](http://www.rconfig.com/) - Network device configuration management tool. ([Source Code (⭐102)](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
 
 ### Software / Newsletters
 
@@ -499,7 +472,7 @@
 ### Integration
 
 *   Mail
-    *   [SMTP (⭐30)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
+    *   [SMTP (⭐31)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
     *   [vertx-smtp-server (⭐5)](https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus.
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
@@ -513,7 +486,7 @@
 ### Development tools / IDEs
 
 *   [Sublime Text](https://www.sublimetext.com/)
-    *   [rust-lang/rust-enhanced (⭐704)](https://github.com/rust-lang/rust-enhanced) — official Rust package
+    *   [rust-lang/rust-enhanced (⭐708)](https://github.com/rust-lang/rust-enhanced) — official Rust package
 
 ## [15. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -594,7 +567,7 @@
 
 ### GTFS Converters / Ruby
 
-*   [GTFS-OSM-Sync (⭐83)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
+*   [GTFS-OSM-Sync (⭐86)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
 
 ## [22. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -629,7 +602,7 @@
 
 ### Applications
 
-*   [RemoteRetro (⭐538)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
+*   [RemoteRetro (⭐540)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
 *   [uai\_shot (⭐53)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 
 ### Macros
@@ -784,26 +757,19 @@
     *   [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
     *   [arduino-canbus-monitor (⭐234)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 
-## [31. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
-
-### Ruby / Symfony2
-
-*   [Grape](http://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
-*   [Rails](http://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
-
-## [32. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [31. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Reference material
 
 *   InfluxDB in IoT world. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/) | [Part 3: Plotting graphs using Grafana](https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/)
 
-## [33. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [32. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -821,7 +787,7 @@
 
 *   [vue-input-number (⭐13)](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -831,7 +797,7 @@
 
 *   [aws-big-data-blog :fire::fire::fire: (⭐882)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
@@ -840,12 +806,12 @@
 
 ### CLI
 
-*   [jarro2783/cxxopts (⭐3.3k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
+*   [jarro2783/cxxopts (⭐3.4k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
 
 ### Debug
 
 *   [Catch2 (⭐16k)](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD. \[BSL-1.0]
-*   [CppUTest (⭐1.1k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
+*   [CppUTest (⭐1.2k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
 
 ### Graphics
 
@@ -861,12 +827,12 @@
 *   [Boost.Python](http://www.boost.org/doc/libs/1_65_1/libs/python/doc/html/index.html) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost]
 *   [cppimport (⭐1.1k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
 *   [CppSharp (⭐2.5k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
-*   [Cython (⭐7.5k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
+*   [Cython (⭐7.6k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
 *   [JavaCpp (⭐4k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
 *   [libffi (⭐2.7k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
 *   [nbind (⭐1.9k)](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. \[MIT]
 *   [pybind11 (⭐12k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
-*   [SWIG (⭐4.8k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
+*   [SWIG (⭐4.9k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
 
 ### Build Systems
 
@@ -874,15 +840,15 @@
 
 ### Static Code Analysis
 
-*   [include-what-you-use (⭐3.1k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
+*   [include-what-you-use (⭐3.2k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 
-## [37. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [36. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### iBeacon for Developers
 
 *   [Traveling with Beacons: Checked Luggage Made Easy](https://medium.com/@urish/traveling-with-beacons-checked-luggage-made-easy-bbd664765ea3)
 
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
@@ -892,23 +858,23 @@
 
 *   [rib](http://rib.godfat.org) - A lightweight and extensible IRB replacement.
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Mail
 
-*   [StrongGrid (⭐159)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐161)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ### Tools
 
-*   [posh-dotnet (⭐40)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
+*   [posh-dotnet (⭐41)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
 
-## [40. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [39. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Zulip
 
 *   [Errbot](http://errbot.io/) + [adapter (⭐4)](https://github.com/zulip/errbot-backend-zulip) (Python)
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Clack plugins
 
@@ -918,7 +884,7 @@
 
 *   [SmackJack (⭐18)](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT](https://opensource.org/licenses/MIT).
 
-## [42. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [41. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Germany 🇩🇪
 

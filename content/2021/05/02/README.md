@@ -22,7 +22,7 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐91)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐95)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Databases
 
-*   [Cassandra (⭐210)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
+*   [Cassandra (⭐215)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Transpiling
 
-*   [perf-monitor-rs (⭐156)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+*   [perf-monitor-rs (⭐157)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Form Components / Select
 
-*   [react-column-select (⭐11)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
+*   [react-column-select (⭐12)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
 
 ---
 

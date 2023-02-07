@@ -22,7 +22,7 @@
 
 ### General
 
-*   [Fluent System Icons (⭐4.2k)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent System Icons (⭐4.4k)](https://github.com/microsoft/fluentui-system-icons#fluent-system-icons) - A collection of familiar, friendly and modern icons from Microsoft.
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

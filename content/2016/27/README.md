@@ -120,7 +120,7 @@
 
 ### Logging
 
-*   [Exceptionless (⭐492)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐495)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ## [11. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-db (⭐263)](https://github.com/crystal-lang/crystal-db) - Common db api
+*   [crystal-db (⭐262)](https://github.com/crystal-lang/crystal-db) - Common db api
 
 ## [14. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -230,7 +230,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐492)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐499)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [22. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -316,7 +316,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 ### Benchmarking
 
 *   [benchee (⭐1.2k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir!
-*   [benchfella (⭐498)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+*   [benchfella (⭐501)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
 *   [bmark (⭐68)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography

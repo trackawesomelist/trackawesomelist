@@ -304,7 +304,7 @@
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐379)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐380)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -323,7 +323,7 @@
 
 ### JavaScript Clients
 
-*   [traverson (⭐426)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐428)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ## [24. Typography](/content/deanhume/typography/week/README.md)
 

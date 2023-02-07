@@ -28,11 +28,11 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐256)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐259)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐51)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐52)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Various Godot versions
 
@@ -289,7 +289,7 @@
 
 ### Evaluation
 
-*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐477)](https://github.com/google-research/bleurt)
+*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐502)](https://github.com/google-research/bleurt)
 
 ### Papers and Articles
 

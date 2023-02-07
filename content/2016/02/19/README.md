@@ -93,7 +93,7 @@
 
 ### Samples
 
-*   [vkcube (⭐92)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐93)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
@@ -110,7 +110,7 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐772)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐782)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

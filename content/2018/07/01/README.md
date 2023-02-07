@@ -186,7 +186,7 @@
 
 ### Media
 
-*   [CSCore (⭐1.9k)](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
+*   [CSCore (⭐2k)](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

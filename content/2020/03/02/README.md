@@ -22,11 +22,11 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐193)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐197)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [tcl-ada-shell (⭐5)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 

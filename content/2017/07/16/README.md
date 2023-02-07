@@ -27,7 +27,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Explore-Github (⭐53)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
+*   [Explore-Github (⭐54)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

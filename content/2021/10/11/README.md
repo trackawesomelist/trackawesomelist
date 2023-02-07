@@ -62,7 +62,7 @@
 
 *   [redbpf examples (⭐1.5k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
 
-### Projects Related to eBPF / Testing in Virtual Environments
+### Projects Related to eBPF / Tools
 
 *   [redbpf (⭐1.5k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
@@ -76,7 +76,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐132)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐137)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Pattern Recognition and Machine Learning (⭐5.6k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
+*   [Pattern Recognition and Machine Learning (⭐5.7k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
 
 ### Python / Data Analysis / Data Visualization
 
@@ -376,11 +376,11 @@
 
 ### Biology
 
-*   [Wham (⭐93)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
+*   [Wham (⭐92)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
 
 ### Concurrency
 
-*   [Boost.Compute (⭐1.3k)](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. \[Boost]
+*   [Boost.Compute (⭐1.4k)](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. \[Boost]
 
 ### Debug
 
@@ -397,11 +397,11 @@
 
 ### Inter-process communication
 
-*   [simple-rpc-cpp (⭐32)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
+*   [simple-rpc-cpp (⭐34)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
 
 ### Machine Learning
 
-*   [Minerva (⭐682)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐683)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
@@ -427,7 +427,7 @@
 
 ### Coding Style
 
-*   [google-styleguide (⭐32k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐33k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -454,12 +454,12 @@
 
 ### Framework Components
 
-*   [crudex (⭐20)](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
+*   [crudex (⭐19)](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
 *   [plug\_auth (⭐66)](https://github.com/bitgamma/plug_auth) - Collection of authentication-related plugs.
 
 ### JSON
 
-*   [jsonapi (⭐452)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐454)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -480,7 +480,7 @@
 
 ### Queue
 
-*   [honeydew (⭐707)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐706)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -498,7 +498,7 @@
 
 ### Awesome ClojureScript / Reactive Programming
 
-*   [Javelin (⭐758)](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
+*   [Javelin (⭐762)](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
 
 ### Awesome ClojureScript / State Management
 

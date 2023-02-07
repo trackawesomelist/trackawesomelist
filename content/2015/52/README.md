@@ -234,7 +234,7 @@ git checkout <deleting_commit> -- <file_path>
 
 *   [Dominator (⭐73)](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
 *   [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
-*   [Freactive (⭐393)](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
+*   [Freactive (⭐394)](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 *   [json-html (⭐158)](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
 
 ## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -322,7 +322,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Debug
 
-*   [benchmark (⭐7.1k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
+*   [benchmark (⭐7.2k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
 *   [Google Mock (⭐29k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
 *   [Google Test (⭐29k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 

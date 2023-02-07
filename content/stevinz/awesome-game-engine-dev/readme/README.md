@@ -553,7 +553,7 @@ This would include things typically not found in low-level game engines, app / g
     *   🎉 [Cereal (⭐3.4k)](https://github.com/USCiLab/cereal) - Header-only C++11 serialization library.
     *   🎉 [Cista++ (⭐1.1k)](https://github.com/felixguendling/cista) - Simple, high-performance serialization & reflection library.
     *   🎉 [FlatBuffers (⭐20k)](https://github.com/google/flatbuffers) - (by Google) Efficient cross-platform serialization library.
-    *   🎉 [JSON for Modern C++ (⭐33k)](https://github.com/nlohmann/json) - 🔥 JSON for Modern C++.
+    *   🎉 [JSON for Modern C++ (⭐33k)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     *   🎉 [Protobuf (⭐58k)](https://github.com/protocolbuffers/protobuf) - (by Google) Protocol Buffers, for platform-neutral serialized data.
     *   🎉 [RapidJSON (⭐13k)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 *   C++: Terrain
@@ -591,7 +591,7 @@ This would include things typically not found in low-level game engines, app / g
 *   C#: Game Framework
     *   🎉 [FNA (⭐1.7k)](https://github.com/FNA-XNA/FNA) - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
     *   🎉 [Monofoxe (⭐302)](https://github.com/Martenfur/Monofoxe) - Game engine designed to simplify working with MonoGame.
-    *   🎉 [MonoGame (⭐9.1k)](https://github.com/MonoGame/MonoGame) - 🔥 Framework for creating cross-platform games. \[[Website](https://www.monogame.net/)]
+    *   🎉 [MonoGame (⭐9.2k)](https://github.com/MonoGame/MonoGame) - 🔥 Framework for creating cross-platform games. \[[Website](https://www.monogame.net/)]
     *   🎉 [Nez (⭐1.5k)](https://github.com/prime31/Nez) - Feature-rich 2D framework that sits on top of MonoGame.
     *   🎉 [Protogame (⭐173)](https://github.com/RedpointGames/Protogame) - (built on MonoGame) Cross-platform 2D/3D game engine.
 *   C#: Graphics - 3D
@@ -641,7 +641,7 @@ This would include things typically not found in low-level game engines, app / g
 
 *   📚 [Awesome Haxe (⭐84)](https://github.com/nadako/awesome-haxe#readme) - Awesome curated list of useful Haxe links.
 *   📚 [Awesome Haxe Game Dev (⭐323)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Awesome list of game dev resources for Haxe.
-*   🌎 [Haxe](https://haxe.org) - 🔥 Produce cross-platform native code. \[[GitHub (⭐5.3k)](https://github.com/HaxeFoundation/haxe)]
+*   🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. \[[GitHub (⭐5.3k)](https://github.com/HaxeFoundation/haxe)]
 *   📚 [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 *   Haxe: Animation
     *   🎉 [Actuate (⭐147)](https://github.com/jgranick/actuate) - Flexible, fast "tween" library.
@@ -817,7 +817,7 @@ This would include things typically not found in low-level game engines, app / g
     *   🎉 [p5.js (⭐19k)](https://github.com/processing/p5.js) - Library for creative coding. \[[Website](https://p5js.org)]
     *   🎉 [Paper.js (⭐14k)](https://github.com/paperjs/paper.js) - The swiss army knife of vector graphics. \[[Examples](http://paperjs.org/)]
     *   🎉 [Pencil.js (⭐244)](https://github.com/pencil-js/pencil.js) - Modular interactive 2D drawing library. \[[Examples](https://pencil.js.org/)]
-    *   🎉 [PixiJS (⭐39k)](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library. \[[Awesome (⭐642)](https://github.com/cursedcoder/awesome-pixijs) | [Editor (⭐183)](https://github.com/Megabyteceer/thing-editor) | [Website](https://pixijs.com/)]
+    *   🎉 [PixiJS (⭐39k)](https://github.com/pixijs/pixijs) - 🔥 Fast, lightweight 2D library. \[[Awesome (⭐642)](https://github.com/cursedcoder/awesome-pixijs) | [Editor (⭐183)](https://github.com/Megabyteceer/thing-editor) | [Essentials (⭐189)](https://github.com/ShukantPal/pixi-essentials) | [Website](https://pixijs.com/)]
     *   🎉 [Pts (⭐4.9k)](https://github.com/williamngan/pts) - Library for visualization and creative coding. \[[Examples](https://ptsjs.org)]
     *   🎉 [Scrawl-canvas (⭐236)](https://github.com/KaliedaRik/Scrawl-canvas) - Library for working with the canvas element.
     *   🎉 [Stage.js (⭐2.3k)](https://github.com/shakiba/stage.js) - 2D rendering engine for game development. \[[Examples](https://piqnt.com/stage.js/)]
@@ -831,11 +831,11 @@ This would include things typically not found in low-level game engines, app / g
     *   🎉 [Litescene.js (⭐327)](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by [WebGLStudio](https://webglstudio.org).
     *   🎉 [LUME (⭐918)](https://github.com/lume/lume) - Simplifies the creation of interactive 2D/3D experiences.
     *   ⭐ [OGL (⭐3k)](https://github.com/oframe/ogl) - 🔥 Fast, powerful, minimal WebGL library. \[[Examples](https://oframe.github.io/ogl/examples)]
-    *   🎉 [PicoGL.js (⭐760)](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library. \[[Examples](https://tsherif.github.io/picogl.js/)]
+    *   🎉 [PicoGL.js (⭐762)](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library. \[[Examples](https://tsherif.github.io/picogl.js/)]
     *   🎉 [Pixi3D (⭐606)](https://github.com/jnsmalm/pixi3d) - 3D renderer for PixiJS, seamless integration with 2D apps. \[[Examples](https://pixi3d.org/)]
     *   🎉 [RedGL (⭐150)](https://github.com/redcamel/RedGL2) - JavaScript 3D WebGL library.
     *   🎉 [Regl (⭐4.8k)](https://github.com/regl-project/regl) - Fast functional WebGL.
-    *   🎉 [Three.js (⭐88k)](https://github.com/mrdoob/three.js/) - 🔥 General-purpose 3D library. \[[Awesome (⭐352)](https://github.com/0xAxiome/awesome-threejs) | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
+    *   🎉 [Three.js (⭐89k)](https://github.com/mrdoob/three.js/) - 🔥 General-purpose 3D library. \[[Awesome (⭐352)](https://github.com/0xAxiome/awesome-threejs) | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
     *   🎉 [TWGL (⭐2.3k)](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library. \[[Examples](http://twgljs.org/)]
     *   📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
     *   📚 [WebGL / WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries.
@@ -882,7 +882,7 @@ This would include things typically not found in low-level game engines, app / g
     *   🎉 [Tweakpane (⭐2.5k)](https://github.com/cocopon/tweakpane) - Compact gui for fine-tuning values.
     *   🎉 [uil (⭐504)](https://github.com/lo-th/uil) - Simple JavaScript gui.
     *   🎉 [w2ui (⭐2.4k)](https://github.com/vitmalina/w2ui) - Gui widgets for modern web apps.
-    *   🎉 [Zebkit (⭐922)](https://github.com/barmalei/zebkit) - 🔥 Canvas rendered UI component libary.
+    *   🎉 [Zebkit (⭐922)](https://github.com/barmalei/zebkit) - Canvas rendered UI component libary.
 *   JavaScript: Input
     *   🎉 [Joycon.js (⭐86)](https://github.com/barhatsor/joycon.js) - JavaScript controller functionality.
     *   ❓ [Mesekai (⭐19)](https://github.com/Neleac/Mesekai) - Real-time motion tracking.
@@ -1157,7 +1157,7 @@ This would include things typically not found in low-level game engines, app / g
 *   Soft Body
     *   📚 [Blob Physics](https://cowboyprogramming.com/2007/01/05/blob-physics/) - Using verlet physics to simulate 2D blobs.
     *   🌎 [Oryol: Bullet Cloth](https://floooh.github.io/oryol-samples/wasm/BulletPhysicsCloth.html) - Bullet Physics 3D cloth using the Oryol game framework. \[[Source (⭐77)](https://github.com/floooh/oryol-samples/blob/master/src/BulletPhysicsCloth/BulletPhysicsCloth.cc)]
-    *   🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) - 3D soft body volumes using Ammo.js and Three.js. \[[Source (⭐88k)](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html)]
+    *   🌎 [Three.js: Ammo Volume](https://threejs.org/examples/?q=physics#physics_ammo_volume) - 3D soft body volumes using Ammo.js and Three.js. \[[Source (⭐89k)](https://github.com/mrdoob/three.js/blob/master/examples/physics_ammo_volume.html)]
 *   Verlet Physics
     *   📚 [Making a Verlet Physics Engine](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbetterprogramming.pub%2Fmaking-a-verlet-physics-engine-in-javascript-1dff066d7bc5) - Under the hood of a 2D physics engine in JavaScript.
 *   Water / Buoyancy
@@ -1189,7 +1189,7 @@ This would include things typically not found in low-level game engines, app / g
 *   🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
 *   Bloom
     *   📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) - Techniques used for bloom lighting, presented in OpenGL.
-    *   🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) - WebGL bloom postprocessing using Three.js. \[[Source (⭐88k)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html)]
+    *   🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) - WebGL bloom postprocessing using Three.js. \[[Source (⭐89k)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html)]
     *   📚 [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) - How to add support for a bloom effect.
 *   Displacement
     *   📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) - Basic vertex displacement shader using Three.js.
@@ -1213,7 +1213,7 @@ This would include things typically not found in low-level game engines, app / g
     *   📚 [Sketchy Outling](https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html) - Article on producing a sketchy outline look.
 *   Pixelation
     *   📚 [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) - Useful GLSL postprocessing shaders for pixel art games.
-    *   🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) - WebGL pixelation postprocessing using Three.js. \[[Source (⭐88k)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html)]
+    *   🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) - WebGL pixelation postprocessing using Three.js. \[[Source (⭐89k)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html)]
 *   Postprocessing
     *   📚 [Image Editor Effects](https://alain.xyz/blog/image-editor-effects) - WebGL image filters / effects shaders. \[[Source (⭐80)](https://github.com/alaingalvan/image-editor-effects)]
 *   Upscaling

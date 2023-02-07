@@ -67,7 +67,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐6.5k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐6.6k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

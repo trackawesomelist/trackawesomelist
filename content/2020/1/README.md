@@ -10,7 +10,7 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐248)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐255)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -201,7 +201,7 @@
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐670)](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐692)](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
 
 ## [23. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -255,7 +255,7 @@
 
 ### CLI
 
-*   [tabulate (⭐1.4k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ \[MIT]
+*   [tabulate (⭐1.5k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ \[MIT]
 
 ### Integrated Development Environment
 
@@ -445,7 +445,7 @@
 
 ### Machine Learning
 
-*   [Cadmium (⭐194)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐195)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
 
 ### Misc
 
@@ -463,7 +463,7 @@
 
 *   [cargo-web (⭐1.1k)](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 *   [wabt (⭐5.1k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-*   [binaryen (⭐6.1k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+*   [binaryen (⭐6.2k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
 ### Books / Frameworks
 
@@ -474,7 +474,7 @@
 
 *   [Percy (⭐2.1k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 *   [Seed (⭐3.6k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
-*   [Smithy (⭐340)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
+*   [Smithy (⭐341)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
 ## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 

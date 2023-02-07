@@ -52,11 +52,11 @@
 
 ### Applications
 
-*   [tiny (⭐813)](https://github.com/osa1/tiny) — A terminal IRC client
+*   [tiny (⭐819)](https://github.com/osa1/tiny) — A terminal IRC client
 
 ### Applications / Security tools
 
-*   [phra/rustbuster (⭐468)](https://github.com/phra/rustbuster) — A Comprehensive Web Fuzzer and Content Discovery Tool
+*   [phra/rustbuster (⭐472)](https://github.com/phra/rustbuster) — A Comprehensive Web Fuzzer and Content Discovery Tool
 
 ### Applications / System tools
 
@@ -64,13 +64,13 @@
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐203)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐205)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐619)](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐570)](https://github.com/dalek-cryptography/ed25519-dalek) — Pure Rust implementation of Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek (⭐255)](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
+*   [dalek-cryptography/curve25519-dalek (⭐623)](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐574)](https://github.com/dalek-cryptography/ed25519-dalek) — Pure Rust implementation of Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐258)](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
 *   [debris/tiny-keccak (⭐169)](https://github.com/debris/tiny-keccak) — Pure Rust implementation of the Keccak family (SHA3)
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
@@ -128,8 +128,8 @@
 
 ### Events
 
-*   [Events in Italy (⭐145)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-*   [Events in the Netherlands (⭐50)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+*   [Events in Italy (⭐146)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
+*   [Events in the Netherlands (⭐51)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

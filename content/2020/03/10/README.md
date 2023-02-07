@@ -36,7 +36,7 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Vlime (⭐378)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
+*   [Vlime (⭐382)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

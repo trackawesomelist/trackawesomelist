@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Pretter, Eslint etc. configs. ✨
+*   [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
 
 ## [2. Tools](/content/lvwzhen/tools/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
+*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9.1k)](https://github.com/Peltoche/lsd).
 
 ## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -32,104 +32,19 @@
 
 ## [5. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### System Requirements
-
-*   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
-*   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
-*   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
-*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
-
-### Downloading, Installing, Upgrading, and Building
-
-*   [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
-
-### How-to guides
-
-*   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/)
-*   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/)
-*   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
-*   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/)
-*   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/)
-*   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/)
-*   [How to update](https://www.qubes-os.org/doc/how-to-update/)
-*   [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/)
-*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/)
-*   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/)
-*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/)
-*   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/)
-
-### Templates
-
-*   [Creating a NetBSD VM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
-*   [Customizing Fedora minimal templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
-*   [Customizing Windows 7 templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
-*   [Debian templates](https://www.qubes-os.org/doc/templates/debian/)
-*   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/)
-*   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/)
-*   [Pentesting: BlackArch (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
-*   [Pentesting: Kali (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
-*   [Pentesting: PTF (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
-*   [Pentesting: Parrot](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
-*   [Template: CentOS (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-*   [Template: Gentoo (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-*   [Template: Ubuntu (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
-*   [Template: Whonix (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-*   [Template: Windows (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
-*   [Templates](https://www.qubes-os.org/doc/templates/)
-*   [Tips for Using Linux in an HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
-*   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
-
-### Desktop Customization
-
-*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
-*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-
-### Security
-
-*   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-*   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
-*   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
-*   [Firewall](https://www.qubes-os.org/doc/firewall/)
-*   [Reducing the fingerprint of the text-based web browser w3m (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
-*   [Running Tails in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
-*   [Signal (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
-*   [Split GPG](https://www.qubes-os.org/doc/split-gpg/)
-*   [Split SSH (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
-*   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt)
-*   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
-*   [Using Multi-Factor Authentication with Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
-*   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-*   [Whonix for Privacy & Anonymity (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-*   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
-
-### System / Web articles
+### System Information & Requirements
 
 *   [Architecture](https://www.qubes-os.org/doc/architecture/)
 *   [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
-*   [Networking](https://www.qubes-os.org/doc/networking/)
-*   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
-*   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
-*   [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
+*   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
+*   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers.
+*   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
+*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware.
 *   [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
 *   [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
 *   [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
-*   [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
-*   [Template manager](https://www.qubes-os.org/doc/template-manager/)
-
-### Services / Web articles
-
-*   [Admin API](https://www.qubes-os.org/doc/admin-api/)
-*   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
-*   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
-*   [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
-*   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
-*   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
-*   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
-
-### Advanced Topics / Web articles
-
+*   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
+*   [Networking](https://www.qubes-os.org/doc/networking/)
 *   [Config files](https://www.qubes-os.org/doc/config-files/)
 *   [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
 *   [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)
@@ -140,27 +55,109 @@
 *   [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 *   [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
 *   [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-*   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
 *   [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
 *   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
 
-### Qubes OS Legends / Web articles
+### Downloading, Installing, Upgrading, and Building
+
+*   [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
+
+### How-to guides
+
+*   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
+*   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files.
+*   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
+    *   [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
+*   [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
+*   [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen.
+*   [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
+*   [How to update](https://www.qubes-os.org/doc/how-to-update/) - This page is about updating your system while staying on the same supported version of Qubes OS.
+*   [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - Unlike other devices (USB, block, mic), PCI devices need to be attached on VM-bootup.
+*   [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/) - Attaching USB devices to VMs requires a USB Qube.
+*   [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/) - This page is part of device handling in Qubes.
+*   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/) - This is an overview of device handling in Qubes OS.
+*   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight Qube that can be created quickly and will self-destruct when closed.
+*   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
+
+### Templates
+
+*   [Creating a NetBSD VM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM.
+*   [Customizing Fedora minimal templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations.
+*   [Customizing Windows 7 templates (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services.
+*   [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
+*   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
+*   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
+*   [Pentesting: BlackArch (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
+*   [Pentesting: Kali (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
+*   [Pentesting: PTF (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Template: CentOS (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md) - You can install the CentOS template, provided by Qubes in ready to use binary package.
+*   [Template: Gentoo (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  You can install the Gentoo template, provided by Qubes in ready to use binary package.
+*   [Template: Ubuntu (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
+*   [Template: Whonix (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
+*   [Template: Windows (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
+    *   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
+*   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
+*   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
+*   [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
+*   [Tips for Using Linux in an HVM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain.
+*   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
+
+### VM-Hardening
+
+*   [Anonymizing your MAC Address (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
+*   [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
+*   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
+    *   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
+*   [Firewall](https://www.qubes-os.org/doc/firewall/) - Every Qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
+*   [Reducing the fingerprint of the text-based web browser w3m (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
+*   [Running Tails in Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
+*   [Signal (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - It uses end-to-end encryption to secure all communications.
+*   [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app Qube.
+*   [Split SSH (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
+*   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt) - Instead of directly attaching an encrypted LUKS1 partition from a source VM such as sys-usb to a destination VM and decrypting it there.
+*   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
+*   [Using Multi-Factor Authentication with Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
+*   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
+*   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
+*   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
+*   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
+*   [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online.
+
+### Desktop Customization
+
+*   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesomewm with the patches for Qubes.
+*   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
+*   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+
+### Qubes OS Server / OpenVPN
+
+*   [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
+*   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
+*   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
+*   [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
+
+### Qubes OS Legends / OpenVPN
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
     *   [Blog](https://blog.invisiblethings.org/) - Personal Blog.
+    *   [Subverting the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - - Xen 0wning Trilogy
+        Part One
+    *   [Preventing and Detecting Xen Hypervisor Subversions \[PDF\]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
+        Part Two
+    *   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 
-### Training and Materials / Web articles
+### Training and Materials / OpenVPN
 
 *   [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
-### Streamers / Web articles
+### Streamers / OpenVPN
 
-*   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
+*   [xn0px90](https://twitch.tv/xn0px90) - First Full Time Info-Sec Qubes-OS Streamer!
 
-### Social media / Web articles
+### Social media / OpenVPN
 
-*   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
+*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
 
 ## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -178,7 +175,7 @@
 
 ### Querying / Symfony2
 
-*   [RestQA (⭐55)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
+*   [RestQA (⭐59)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
 ## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -191,13 +188,13 @@
 
 ### 3D / Godot 3.2+
 
-*   [Boom (⭐2)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
+*   [Boom (⭐11)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### ToDos
 
-*   [ididit! (⭐105)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
+*   [ididit! (⭐113)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
 ### Articles / Others
 
@@ -214,7 +211,7 @@
 
 ### File Explorer / Diagnostics
 
-*   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐381)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ## [14. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -224,10 +221,10 @@
     *   [codestats-box (⭐5)](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
     *   [codestats-box-python (⭐5)](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
 *   LeetCode (<https://leetcode.com/>)
-    *   [leetcode-box (⭐4)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
+    *   [leetcode-box (⭐5)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
     *   [leetcode-solved-box (⭐0)](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
 *   Spotify (<https://spotify.com/>)
-    *   [spotify-box (⭐103)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
+    *   [spotify-box (⭐107)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
     *   [spotify-box (⭐7)](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
     *   [spotify-gist (⭐1)](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
 *   WakaTime (<https://wakatime.com/>)

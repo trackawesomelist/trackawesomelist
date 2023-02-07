@@ -16,11 +16,11 @@
 
 ### Audio Libraries
 
-*   [mxml (⭐20)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
+*   [mxml (⭐19)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 
 ### Music Notation
 
-*   [MusicKit (⭐110)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

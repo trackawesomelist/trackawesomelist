@@ -28,7 +28,7 @@
 
 ### Contents / Tools
 
-*   [NetworkArch (⭐8)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
+*   [NetworkArch (⭐11)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,13 +58,13 @@
 
 ### Relational Database Drivers
 
-*   [KSQL (⭐205)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
+*   [KSQL (⭐207)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### VPNs / Alternative clients/modifications of Discord:
 
-*   [Free VPNs](https://techcrunch.com/2020/09/24/free-vpn-bad-for-privacy/) from Google Play or any appstore. These services are not free as they will suck your connections data, keep logs and profile you to [sell your data to advertisers](https://thenextweb.com/news/be-cautious-free-vpns-are-selling-your-data-to-3rd-parties). If a government wants to track someone, such apps will be the first ones to fall.
+*   [Free VPNs](https://techcrunch.com/2020/09/24/free-vpn-bad-for-privacy/) from Google Play or any appstore. These services are not free as they will suck your connections' data, keep logs and profile you to [sell your data to advertisers](https://thenextweb.com/news/be-cautious-free-vpns-are-selling-your-data-to-3rd-parties). If a government wants to track someone, such apps will be the first ones to fall.
 
 ---
 

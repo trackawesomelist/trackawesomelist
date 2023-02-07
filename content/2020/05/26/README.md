@@ -50,7 +50,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐378)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
+*   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐380)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 
 ## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Neural Natural Language Generation
 
-*   [This Word Does Not Exist (⭐966)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
+*   [This Word Does Not Exist (⭐971)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-text-middle-ellipsis (⭐8)](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
+*   [vue-text-middle-ellipsis (⭐9)](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
 *   [vue-toggles (⭐44)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ---

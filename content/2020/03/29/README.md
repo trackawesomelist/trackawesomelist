@@ -54,7 +54,7 @@
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
 *   [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 *   [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
@@ -71,7 +71,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐341)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐346)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

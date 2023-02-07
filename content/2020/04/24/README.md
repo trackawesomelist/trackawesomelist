@@ -75,7 +75,7 @@ Language: English
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Streama (⭐9.2k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
+*   [Streama (⭐9.3k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
 
 ## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -135,7 +135,7 @@ Language: English
 
 ### ORM
 
-*   [EntityFramework.Exceptions (⭐649)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+*   [EntityFramework.Exceptions (⭐659)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
 
 ---
 

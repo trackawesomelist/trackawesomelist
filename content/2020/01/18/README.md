@@ -50,7 +50,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐70)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐78)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

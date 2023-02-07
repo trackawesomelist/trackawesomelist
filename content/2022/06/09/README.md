@@ -20,19 +20,19 @@
 
 ### Contents / Libraries
 
-*   [Android FHIR SDK (⭐297)](https://github.com/google/android-fhir) - The Android FHIR SDK
+*   [Android FHIR SDK (⭐301)](https://github.com/google/android-fhir) - The Android FHIR SDK
 *   [FHIRKit Client (⭐139)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
 *   [FHIRModels (⭐134)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
 
 ### Contents / Integration
 
-*   [Open eHealth Integration Platform (⭐138)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
+*   [Open eHealth Integration Platform (⭐139)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐43)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [qalendar (⭐46)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Jam](https://jamshelf.com/) - Jam is an open source alternative to Clubhouse: private audio chat rooms to talk to friends and family. ([Demo](https://jam.systems/), [Source Code (⭐1.1k)](https://github.com/jam-systems/jam)) `AGPL-3.0` `Docker/Nodejs`
+*   [Jam](https://jamshelf.com/) - Jam is an open source alternative to Clubhouse: private audio chat rooms to talk to friends and family. ([Demo](https://jam.systems/), [Source Code (⭐1.2k)](https://github.com/jam-systems/jam)) `AGPL-3.0` `Docker/Nodejs`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -60,7 +60,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐49k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐50k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 
 ## [8. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 

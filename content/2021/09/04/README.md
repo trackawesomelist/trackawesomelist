@@ -17,17 +17,17 @@
 
 ### Tools / Misc
 
-*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐3k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐3.2k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [yt-dlp (⭐34k)](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+*   [yt-dlp (⭐38k)](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 
 ### Overview / Other services
 
-*   [ArchiveBox (⭐14k)](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
+*   [ArchiveBox (⭐15k)](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 *   [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
 
 ## [4. Awesome Webxr](/content/msub2/awesome-webxr/README.md)

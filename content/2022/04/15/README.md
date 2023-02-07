@@ -20,7 +20,7 @@
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [chests (⭐3)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
 
@@ -55,32 +55,32 @@
 
 ### Overview / YouTube
 
-*   [YouTube.js (⭐2.4k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
-*   [oleksis/youtube-dl-gui (⭐772)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+*   [YouTube.js (⭐2.5k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
+*   [oleksis/youtube-dl-gui (⭐886)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### Overview / Google Translate
 
-*   [Crow Translate (⭐969)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+*   [Crow Translate (⭐1.1k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
 ### Overview / Mastodon
 
-*   [Pinafore (⭐698)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
-*   [Sengi (⭐242)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
-*   [TheDesk (⭐167)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
-*   [Tootle (⭐396)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
-*   [Tusky (⭐1.4k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
+*   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
+*   [Sengi (⭐400)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+*   [TheDesk (⭐220)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
+*   [Tootle (⭐406)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+*   [Tusky (⭐1.9k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 *   [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
-*   [Hyperspace (⭐162)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+*   [Hyperspace (⭐176)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
 
 ### Overview / Telegram
 
-*   [Telegram-FOSS (⭐1.9k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+*   [Telegram-FOSS (⭐2k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-ant-design-pro (⭐45)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [vite-ant-design-pro (⭐46)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
 *   [vite-react-proste (⭐7)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
@@ -151,7 +151,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailyew (⭐12)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+*   [tailyew (⭐13)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

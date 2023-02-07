@@ -149,7 +149,7 @@
 
 ### i18n
 
-*   [xgettext-template (⭐79)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+*   [xgettext-template (⭐80)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -1394,7 +1394,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐190)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐191)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
@@ -2264,7 +2264,7 @@
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐505)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐504)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [38. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 

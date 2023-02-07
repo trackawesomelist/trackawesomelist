@@ -20,7 +20,7 @@
 
 ### Release Management
 
-*   [eliver (⭐53)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
+*   [eliver (⭐54)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 
 ### Testing
 
@@ -28,7 +28,7 @@
 
 ### Text and Numbers
 
-*   [stemmer (⭐143)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [stemmer (⭐144)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ### Third Party APIs
 

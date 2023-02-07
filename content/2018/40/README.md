@@ -263,7 +263,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### 3D
 
-*   [bump-3dpd (⭐61)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+*   [bump-3dpd (⭐59)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 
 ### Helpers
 
@@ -272,19 +272,19 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### OO
 
-*   [knife.base (⭐357)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐367)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
-*   [loveblobs (⭐59)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
+*   [loveblobs (⭐60)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 
 ### Shaders
 
-*   [Moonshine (⭐448)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+*   [Moonshine (⭐454)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ### Tweening
 
-*   [knife.timer (⭐357)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐367)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 
@@ -494,7 +494,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-perfect-scrollbar (⭐269)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
+*   [vue2-perfect-scrollbar (⭐271)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
 ## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -591,8 +591,8 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Memory Allocation
 
-*   [Hoard (⭐925)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
-*   [jemalloc (⭐7.6k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [Hoard (⭐934)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
+*   [jemalloc (⭐7.7k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ### PDF
 
@@ -654,18 +654,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Tools / Desktop
 
-*   [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
-*   [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
 *   [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
-*   [Robo 3T (⭐9.1k)](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
-*   [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
 
 ### Tools / Development
 
-*   [mgodatagen (⭐283)](https://github.com/feliixx/mgodatagen) - Random data generator
-*   [Mongo Playground](https://mongoplayground.net) - Online query playground
-*   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
-*   [Mongoeye (⭐148)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+*   [mgodatagen (⭐284)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [Mongo Seeding (⭐499)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongoeye (⭐150)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Tools / Monitoring
@@ -674,7 +669,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Tools / Web
 
-*   [mongo-express (⭐4.8k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
+*   [mongo-express (⭐4.9k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
 *   [mongoadmin (⭐250)](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
 *   [mongri (⭐75)](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
 
@@ -684,7 +679,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Leanote (⭐11k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐13k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
-*   [SaaS Boilerplate (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [SaaS Boilerplate (⭐3.3k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
 ## [49. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
@@ -715,7 +710,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐478)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐479)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ### Libraries / Markup language
 
@@ -747,11 +742,11 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Logging
 
-*   [Sentry (⭐444)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
+*   [Sentry (⭐445)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
 ### Office
 
-*   [NetOffice (⭐576)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+*   [NetOffice (⭐578)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
 
 ### ORM
 
@@ -779,7 +774,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Querying / Symfony2
 
-*   [HTTP Prompt (⭐8.6k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
+*   [HTTP Prompt (⭐8.7k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 *   [Insomnia (⭐26k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [56. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
@@ -793,12 +788,12 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [homebox (⭐349)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
+*   [homebox (⭐360)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 *   [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐232)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
+*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐233)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -815,22 +810,15 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐662)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐664)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
 ### Software / Pastebins
 
-*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐276)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
+*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐278)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
 
 ### Software / Software Development - Project Management
 
 *   [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable GitHub clone powered by Scala. ([Source Code (⭐8.8k)](https://github.com/gitbucket/gitbucket)) `Apache-2.0` `Scala/Java`
-
-### List of Licenses / Wikis
-
-*   `GFDL-1.1-only` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-only.html)
-*   `GFDL-1.1-or-later` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-or-later.html)
-*   `GFDL-1.2-only` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-only.html)
-*   `GFDL-1.2-or-later` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-or-later.html)
 
 ## [58. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
@@ -1680,7 +1668,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Boilerplates
 
-*   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+*   [csprance/next-smrt (⭐56)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## [82. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -1692,7 +1680,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Courses
 
-*   [UCLA: Tools in Data Science (STATS 418) (⭐128)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
+*   [UCLA: Tools in Data Science (STATS 418) (⭐129)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
 *   [GWU: Data Mining (Decision Sciences 6279) (⭐227)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.

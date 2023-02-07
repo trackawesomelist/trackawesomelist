@@ -28,7 +28,7 @@
 
 ### Software / Blogging Platforms
 
-*   [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://demo.htmly.com/), [Source Code (⭐861)](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
+*   [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://demo.htmly.com/), [Source Code (⭐871)](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -44,7 +44,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-externals (⭐105)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
+*   [vite-plugin-externals (⭐108)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [jwstegemann/fritz2 (⭐487)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [jwstegemann/fritz2 (⭐489)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

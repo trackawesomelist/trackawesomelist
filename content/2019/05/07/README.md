@@ -10,7 +10,7 @@
 
 ### Development / Npm
 
-*   [updates (⭐79)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+*   [updates (⭐82)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

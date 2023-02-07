@@ -65,15 +65,15 @@
 
 ### Files and Directories / Files
 
-*   [webtorrent-cli (⭐860)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+*   [webtorrent-cli (⭐905)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 
 ### Other Awesome Lists / Emoji
 
-*   [awesome-git-addons (⭐1.6k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
-*   [awesome-shell (⭐25k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+*   [awesome-git-addons (⭐1.7k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+*   [awesome-shell (⭐26k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 *   [awesome-zsh-plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-*   [awesome-nodejs clis (⭐47k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+*   [awesome-nodejs clis (⭐49k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
@@ -94,7 +94,7 @@
 ### Types / Playground
 
 *   [typesync (⭐1.3k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐9.7k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [type-fest (⭐9.9k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 

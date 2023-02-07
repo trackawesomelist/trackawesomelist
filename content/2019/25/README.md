@@ -10,7 +10,7 @@
 
 ### Memory Allocation
 
-*   [mimalloc (⭐7.6k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
+*   [mimalloc (⭐7.8k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
 
 ## [2. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Miscellaneous
 
-*   [Stacks (⭐2.9k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+*   [Stacks (⭐3k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -164,7 +164,7 @@
 
 ### RESTful API with Java and Spring Boot   [↗](https://awesomestacks.dev/res-tful-api-with-java-and-spring-boot) / Resources
 
-*   [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 (⭐64k)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+*   [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 (⭐65k)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 *   [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 (⭐14k)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
 *   [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 
@@ -176,7 +176,7 @@
 
 ### .Net Core
 
-*   [Bike (⭐115)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
+*   [Bike (⭐114)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
@@ -214,11 +214,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐408)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐414)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐25)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐26)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
@@ -242,7 +242,7 @@
 
 ### Testing
 
-*   [fake\_server (⭐71)](https://github.com/bernardolins/fake_server) - FakeServer is an HTTP server that simulates response and makes testing external APIs easier.
+*   [fake\_server (⭐70)](https://github.com/bernardolins/fake_server) - FakeServer is an HTTP server that simulates response and makes testing external APIs easier.
 
 ### Utilities
 
@@ -376,7 +376,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
 *   [Polkadot (⭐6.5k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
-*   [Substrate (⭐7.8k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Substrate (⭐7.9k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
 ## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 

@@ -35,21 +35,27 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ## Platforms
 
-**I18n.**
+### Localization and translation platforms
 
 *   [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
-*   [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
 *   [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
 *   [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
-*   [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
-*   [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-*   [Traduora (⭐1.7k)](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+*   [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
 *   [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
-*   [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
-*   [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 *   [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 *   [Lokalise](https://lokalise.com/) - Translation platform for developers.
-*   [Locize](https://locize.com/) - The continuous localization management platform that powers up your development and translation.
+*   [Locize](https://locize.com/) - Proprietary translation platform.
+
+### Project management
+
+*   [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
+*   [Traduora (⭐1.7k)](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+
+### Platform-specific tools
+
+*   [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
+*   [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
+*   [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 
 ## Apps
 

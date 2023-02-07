@@ -44,7 +44,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-scratchable (⭐50)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
+*   [vue-scratchable (⭐49)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
 
 ## [6. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -90,7 +90,7 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [appimaged (⭐273)](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).
+*   [appimaged (⭐278)](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -103,9 +103,9 @@
 ### Web Scraping / Others
 
 *   [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
-*   [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the coure
+*   [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the core
 *   [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
-*   [twitterscraper (⭐2.2k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape twitter
+*   [twitterscraper (⭐2.2k)](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
 
 ### Data Manipulation / Data Frames
 
@@ -120,7 +120,7 @@
 ### Visualization / Automatic Plotting
 
 *   [HoloViews (⭐2.4k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐1.1k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [AutoViz (⭐1.2k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
 *   [SweetViz (⭐2.3k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP

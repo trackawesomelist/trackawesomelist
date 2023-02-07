@@ -59,7 +59,7 @@
 
 ### Security / Scala
 
-*   [Identity Server (⭐8.9k)](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core.
+*   [Identity Server (⭐9k)](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core.
 
 ## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 

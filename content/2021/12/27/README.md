@@ -117,7 +117,7 @@
 
 ### Tools
 
-*   [CSharpier (⭐531)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐45k)](https://github.com/prettier/prettier) printing process.
+*   [CSharpier (⭐544)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐45k)](https://github.com/prettier/prettier) printing process.
 
 ## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐4.3k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐4.4k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -181,7 +181,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐226)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
+*   [luisiacc/gruvbox-baby (⭐229)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
 
 ## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

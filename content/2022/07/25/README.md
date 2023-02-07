@@ -25,7 +25,7 @@
 
 - Name: [**1024 Architecture**](https://www.1024architecture.net/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: architectural and digital works, orchestrated sound and light scores
 
@@ -34,7 +34,7 @@
 
 - Name: [**Acrylicize**](https://www.acrylicize.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat)
+  Locations: \[London] \[NYC] \[Seattle]
 
   Keywords: harness the power of art and creativity to help people fall in love with spaces
 
@@ -43,7 +43,7 @@
 
 - Name: [**Ada**](https://a-da.co/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experience innovation and design agency that partners with the world's most ambitious visionaries and brands in the culture, arts and social impact space
 
@@ -52,7 +52,7 @@
 
 - Name: [**Adirondack Studios**](https://www.adkstudios.com/)
 
-  Locations: ![Glens Falls, NY](https://img.shields.io/badge/-Glens%20Falls%2C%20NY-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat) ![Orlando](https://img.shields.io/badge/-Orlando-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat)
+  Locations: \[Glens Falls, NY] \[Dubai] \[Orlando] \[Shanghai] \[LA] \[Singapore]
 
   Keywords: concept, schematic, design, construction, fabrication, installation, support
 
@@ -61,7 +61,7 @@
 
 - Name: [**Alt Ethos**](https://altethos.com/)
 
-  Locations: ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat)
+  Locations: \[Denver]
 
   Keywords: experiential, metaverse, and event design agency
 
@@ -70,7 +70,7 @@
 
 - Name: [**Art + Com**](https://artcom.de/en/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: media sculptures, data installations, new media
 
@@ -79,7 +79,7 @@
 
 - Name: [**Augmented Magic**](https://www.augmented-magic.com/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: augmented magic shows, digital installations
 
@@ -88,7 +88,7 @@
 
 - Name: [**AV Controls**](https://www.av-controls.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: site-specific technology installations, digital landmarks
 
@@ -97,7 +97,7 @@
 
 - Name: [**Barbarian**](https://wearebarbarian.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: marketing and advertising, new media
 
@@ -106,7 +106,7 @@
 
 - Name: [**Blackbow**](https://www.blackbow.cn/)
 
-  Locations: ![Beijing](https://img.shields.io/badge/-Beijing-lightgrey?style=flat)
+  Locations: \[Beijing]
 
   Keywords: projection mapping, digital art and cultural experiences
 
@@ -115,7 +115,7 @@
 
 - Name: [**Blublu**](http://www.blu-blu.com/)
 
-  Locations: ![Hangzhou](https://img.shields.io/badge/-Hangzhou-lightgrey?style=flat)
+  Locations: \[Hangzhou]
 
   Keywords: projection mapping, immersive experiences for museums and workspace
 
@@ -124,7 +124,7 @@
 
 - Name: [**Bluecadet**](https://www.bluecadet.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Philadelphia] \[NYC]
 
   Keywords: experience design across digital and physical environments, visitor centers
 
@@ -133,7 +133,7 @@
 
 - Name: [**BRDG Studios**](https://www.brdg.co/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat)
+  Locations: \[Philadelphia]
 
   Keywords: digital moments in physical spaces, retail environments, art galleries, events
 
@@ -142,7 +142,7 @@
 
 - Name: [**BREAKFAST**](https://breakfastny.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: software-/hardware-driven artworks, flip discs
 
@@ -151,7 +151,7 @@
 
 - Name: [**Breeze Creative**](https://www.breezecreative.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Miami](https://img.shields.io/badge/-Miami-lightgrey?style=flat)
+  Locations: \[NYC] \[Miami]
 
   Keywords: interactive experience design, family entertainment, museums, playgrounds, educational institutions
 
@@ -160,7 +160,7 @@
 
 - Name: [**C\&G Partners**](https://www.cgpartnersllc.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: branding, digital installations, exhibits and environments, signage, wayfinding, websites
 
@@ -169,7 +169,7 @@
 
 - Name: [**Charcoalblue**](https://www.charcoalblue.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![UK](https://img.shields.io/badge/-UK-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[Melbourne] \[Chicago] \[UK] \[London]
 
   Keywords: amazing spaces where stories are told and experiences are shared
 
@@ -178,7 +178,7 @@
 
 - Name: [**Cinimod Studio**](https://www.cinimodstudio.com)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: location based work where technology, environment, content and real life interaction meet
 
@@ -187,7 +187,7 @@
 
 - Name: [**Code and Theory**](https://www.codeandtheory.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Manila](https://img.shields.io/badge/-Manila-lightgrey?style=flat)
+  Locations: \[NYC] \[San Francisco] \[London] \[Manila]
 
   Keywords: strategically driven, digital-first agency that lives at the intersection of creativity and technology
 
@@ -196,7 +196,7 @@
 
 - Name: [**Comuzi**](https://www.comuzi.xyz/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
 
@@ -205,7 +205,7 @@
 
 - Name: [**Deeplocal**](https://www.deeplocal.com/)
 
-  Locations: ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: \[Pittsburgh]
 
   Keywords: creative engineers, inventors, interactive experiences, human stories
 
@@ -214,7 +214,7 @@
 
 - Name: [**Design I/O**](https://www.design-io.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[NYC] \[San Francisco]
 
   Keywords: immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space
 
@@ -223,7 +223,7 @@
 
 - Name: [**Digifun**](http://www.digitalfun.net/)
 
-  Locations: ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Shanghai]
 
   Keywords: projection mapping, new media art education
 
@@ -232,7 +232,7 @@
 
 - Name: [**Dimensional Innovations**](https://dimin.com/)
 
-  Locations: ![Kansas City](https://img.shields.io/badge/-Kansas%20City-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: \[Kansas City] \[Atlanta] \[Minneapolis] \[Denver] \[LA] \[Pittsburgh]
 
   Keywords: experience design, interactive experiences, brand activation
 
@@ -241,7 +241,7 @@
 
 - Name: [**dotdotdash**](https://dotdotdash.io/)
 
-  Locations: ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Portland] \[LA] \[NYC]
 
   Keywords: innovation agency that seamlessly blends the physical and digital
 
@@ -250,7 +250,7 @@
 
 - Name: [**Downstream**](https://downstream.com/)
 
-  Locations: ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+  Locations: \[Portland] \[Amsterdam] \[Melbourne]
 
   Keywords: strategy + design + content + technology
 
@@ -259,7 +259,7 @@
 
 - Name: [**Envoy**](https://www.weareenvoy.com/)
 
-  Locations: ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![San Diego](https://img.shields.io/badge/-San%20Diego-lightgrey?style=flat)
+  Locations: \[Chicago] \[LA] \[San Diego]
 
   Keywords: transform environments into exceptional experiences, formerly Leviathan
 
@@ -268,7 +268,7 @@
 
 - Name: [**ESI Design**](https://esidesign.nbbj.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: transforms places into experiences, immersive deisgn, architectural scale
 
@@ -277,7 +277,7 @@
 
 - Name: [**Extrapolation Factory**](https://extrapolationfactory.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: research studio, futures studies, collaborative prototyping
 
@@ -286,7 +286,7 @@
 
 - Name: [**Fast Horse**](https://www.fasthorseinc.com/)
 
-  Locations: ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat)
+  Locations: \[Minneapolis]
 
   Keywords: a truly integrated creative agency
 
@@ -295,7 +295,7 @@
 
 - Name: [**FIELD**](https://www.field.io/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: future aesthetics for design, motion, experiential
 
@@ -304,7 +304,7 @@
 
 - Name: [**Float4**](https://float4.com/en/)
 
-  Locations: ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Montreal] \[NYC]
 
   Keywords: integrates digital experiences into physical spaces to amplify their identity
 
@@ -313,7 +313,7 @@
 
 - Name: [**fuse**](https://www.fuseworks.it/en/)
 
-  Locations: ![Modena, Italy](https://img.shields.io/badge/-Modena%2C%20Italy-lightgrey?style=flat)
+  Locations: \[Modena, Italy]
 
   Keywords: live-media performances, experimentation, electronic music, digital arts
 
@@ -322,7 +322,7 @@
 
 - Name: [**Future Colossal**](https://www.futurecolossal.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experiential technologies in advertising and entertainment and art
 
@@ -331,7 +331,7 @@
 
 - Name: [**Gallagher Design**](https://www.gallagherdesign.com/)
 
-  Locations: ![DC](https://img.shields.io/badge/-DC-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat)
+  Locations: \[DC] \[NYC] \[Portland] \[Singapore]
 
   Keywords: harmony between technology, narrative, and physical design
 
@@ -340,7 +340,7 @@
 
 - Name: [**Game Seven**](https://www.gamesevenmktg.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: intersection of sport and culture, brand stories
 
@@ -349,7 +349,7 @@
 
 - Name: [**Geeksart**](http://geeks-art.com/)
 
-  Locations: ![Guangzhou](https://img.shields.io/badge/-Guangzhou-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Guangzhou] \[Shanghai]
 
   Keywords: media sculptures, new media exhibition
 
@@ -358,7 +358,7 @@
 
 - Name: [**Giant Spoon**](https://giantspoon.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: translate cultural trends into big ideas, experiential, gaming
 
@@ -367,7 +367,7 @@
 
 - Name: [**Hettema Group**](https://thehettemagroup.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: experiential, exhibit, live shows, theme parks, retail, dining, museums
 
@@ -376,7 +376,7 @@
 
 - Name: [**Hotel Creative**](https://hotelcreative.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: retail, branding, exhibitions, events
 
@@ -385,7 +385,7 @@
 
 - Name: [**Hovercraft**](https://www.hovercraftstudio.com/)
 
-  Locations: ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat)
+  Locations: \[Denver] \[Portland]
 
   Keywords: interactive installations, site-specific content, retail, sports
 
@@ -394,7 +394,7 @@
 
 - Name: [**Hush Studios**](https://heyhush.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: marketing and advertising, retail and DTC, archtecture
 
@@ -403,7 +403,7 @@
 
 - Name: [**IMG SRC**](https://www.imgsrc.co.jp/)
 
-  Locations: ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[Tokyo]
 
   Keywords: full-service communication agency focusing on websites, installations, and R\&D
 
@@ -412,7 +412,7 @@
 
 - Name: [**Invisible North**](https://www.invisiblenorth.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: culturally fluent, thoughtful experiences, bring brands to life
 
@@ -421,7 +421,7 @@
 
 - Name: [**Jam3**](https://www.jam3.com)
 
-  Locations: ![Toronto](https://img.shields.io/badge/-Toronto-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Montevideo](https://img.shields.io/badge/-Montevideo-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat)
+  Locations: \[Toronto] \[LA] \[Montevideo] \[Amsterdam]
 
   Keywords: create modern experiences for tomorrow's brands
 
@@ -430,7 +430,7 @@
 
 - Name: [**Jason Sherwood Design**](https://jasonsherwooddesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: television and broadway and concert stage design
 
@@ -439,7 +439,7 @@
 
 - Name: [**Listen**](https://wearelisten.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: sensory-driven brand assets, modern cultural landscape, sound, experiences
 
@@ -448,7 +448,7 @@
 
 - Name: [**Lorem Ipsum**](https://loremipsumcorp.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Moscow](https://img.shields.io/badge/-Moscow-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[Moscow] \[London]
 
   Keywords: experience design, narrative, physical and digital environments
 
@@ -457,7 +457,7 @@
 
 - Name: [**m ss ng p eces**](https://mssngpeces.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: new wave production and entertainment partner for content and immersive experiences that inspire culture
 
@@ -466,7 +466,7 @@
 
 - Name: [**Magnopus**](https://www.magnopus.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[LA] \[London]
 
   Keywords: unite the physical and digital worlds with extraordinary experiences
 
@@ -475,7 +475,7 @@
 
 - Name: [**Manifold**](https://www.wearemanifold.com/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat)
+  Locations: \[San Francisco] \[LA] \[Portland]
 
   Keywords: we hire smart people and get out of their way
 
@@ -484,7 +484,7 @@
 
 - Name: [**Map**](http://mapprojectoffice.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: industrial designers who believe great design can solve problems
 
@@ -493,7 +493,7 @@
 
 - Name: [**Marshmallow Laser Feast**](https://www.marshmallowlaserfeast.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: leaving a slug trail of sensory nuggets as we journey through the cosmos
 
@@ -502,7 +502,7 @@
 
 - Name: [**Midnight Commercial**](http://midnightcommercial.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: unite the disparate digital and physical worlds
 
@@ -511,7 +511,7 @@
 
 - Name: [**MindBuffer**](https://mindbuffer.net/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: audiovisual research and digital design studio
 
@@ -520,7 +520,7 @@
 
 - Name: [**Moment Factory**](https://momentfactory.com/home)
 
-  Locations: ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Montreal] \[LA] \[London] \[Tokyo] \[Paris] \[NYC]
 
   Keywords: shows, destinations, content, interactive, scenography
 
@@ -529,7 +529,7 @@
 
 - Name: [**Momentum Worldwide**](https://www.momentumww.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Athens](https://img.shields.io/badge/-Athens-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Bogota](https://img.shields.io/badge/-Bogota-lightgrey?style=flat) ![Bucharest](https://img.shields.io/badge/-Bucharest-lightgrey?style=flat) ![Cairo](https://img.shields.io/badge/-Cairo-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat) ![Frankfurt](https://img.shields.io/badge/-Frankfurt-lightgrey?style=flat) ![Gothenburg](https://img.shields.io/badge/-Gothenburg-lightgrey?style=flat) ![Lima](https://img.shields.io/badge/-Lima-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Madrid](https://img.shields.io/badge/-Madrid-lightgrey?style=flat) ![Manchester](https://img.shields.io/badge/-Manchester-lightgrey?style=flat) ![Mexico City](https://img.shields.io/badge/-Mexico%20City-lightgrey?style=flat) ![Milan](https://img.shields.io/badge/-Milan-lightgrey?style=flat) ![New Delhi](https://img.shields.io/badge/-New%20Delhi-lightgrey?style=flat) ![Santiago](https://img.shields.io/badge/-Santiago-lightgrey?style=flat) ![Sao Paulo](https://img.shields.io/badge/-Sao%20Paulo-lightgrey?style=flat) ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat) ![Seoul](https://img.shields.io/badge/-Seoul-lightgrey?style=flat) ![St. Louis](https://img.shields.io/badge/-St.%20Louis-lightgrey?style=flat) ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Toronto](https://img.shields.io/badge/-Toronto-lightgrey?style=flat) ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[NYC] \[Athens] \[Atlanta] \[Bogota] \[Bucharest] \[Cairo] \[Chicago] \[Dubai] \[Frankfurt] \[Gothenburg] \[Lima] \[London] \[Madrid] \[Manchester] \[Mexico City] \[Milan] \[New Delhi] \[Santiago] \[Sao Paulo] \[Seattle] \[Seoul] \[St. Louis] \[Sydney] \[Toronto] \[Tokyo]
 
   Keywords: disruptive, entertaining, shareable, unforgettable experiences for clients and their fans
 
@@ -538,7 +538,7 @@
 
 - Name: [**Motse**](https://www.behance.net/motseart/projects)
 
-  Locations: ![Shenzhen](https://img.shields.io/badge/-Shenzhen-lightgrey?style=flat)
+  Locations: \[Shenzhen]
 
   Keywords: digital art
 
@@ -547,7 +547,7 @@
 
 - Name: [**MSCHF**](https://mschf.xyz/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: viral stunts and products, trying to do stuff that the world can't even define
 
@@ -556,7 +556,7 @@
 
 - Name: [**mycotoo**](https://mycotoo.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat)
+  Locations: \[LA] \[Barcelona]
 
   Keywords: entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide
 
@@ -565,7 +565,7 @@
 
 - Name: [**NCompass**](https://ncompassonline.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: brand and marketing solutions creating experiences that integrate the latest technology and creative
 
@@ -574,7 +574,7 @@
 
 - Name: [**NeoPangea**](https://www.neopangea.com/)
 
-  Locations: ![Reading, PA](https://img.shields.io/badge/-Reading%2C%20PA-lightgrey?style=flat)
+  Locations: \[Reading, PA]
 
   Keywords: microsites, games, VR/AR, digital, social
 
@@ -583,7 +583,7 @@
 
 - Name: [**NGX Interactive**](https://ngxinteractive.com/)
 
-  Locations: ![Vancouver](https://img.shields.io/badge/-Vancouver-lightgrey?style=flat)
+  Locations: \[Vancouver]
 
   Keywords: pushing new technologies to create experiences that are vivid and meaningful
 
@@ -592,7 +592,7 @@
 
 - Name: [**Night Kitchen**](https://www.whatscookin.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat)
+  Locations: \[Philadelphia]
 
   Keywords: dynamic digital experiences, online exhibitions, digital strategy, storytelling
 
@@ -601,7 +601,7 @@
 
 - Name: [**Nowhere**](https://studionowhere.com/)
 
-  Locations: ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Shanghai]
 
   Keywords: marketing events, interactive experiences
 
@@ -610,7 +610,7 @@
 
 - Name: [**Oat Foundry**](https://www.oatfoundry.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat)
+  Locations: \[Philadelphia]
 
   Keywords: split-flap displays, electromechanical stuff, think tank, products, experiences
 
@@ -619,7 +619,7 @@
 
 - Name: [**Onformative**](https://onformative.com/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: studio for digital art and design, challenge the boundaries between art and design and technology
 
@@ -628,7 +628,7 @@
 
 - Name: [**Optimist**](https://optimistinc.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![Hamburg](https://img.shields.io/badge/-Hamburg-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat) ![Prague](https://img.shields.io/badge/-Prague-lightgrey?style=flat)
+  Locations: \[LA] \[NYC] \[London] \[Amsterdam] \[Hamburg] \[Berlin] \[Prague]
 
   Keywords: architects of subculture, creative, design, strategy, production, content, brand experience
 
@@ -637,7 +637,7 @@
 
 - Name: [**Patten Studio**](https://www.pattenstudio.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: informed by research at the MIT Media Lab, experiences that connect people
 
@@ -646,7 +646,7 @@
 
 - Name: [**Potion Design**](https://www.potiondesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: design and technology studio, interactive, musuems
 
@@ -655,7 +655,7 @@
 
 - Name: [**pretty bloody simple**](https://www.prettybloodysimple.com)
 
-  Locations: ![Munich](https://img.shields.io/badge/-Munich-lightgrey?style=flat)
+  Locations: \[Munich]
 
   Keywords: interactive experiences, analog and digital, musuems
 
@@ -664,7 +664,7 @@
 
 - Name: [**Rare Volume**](https://rarevolume.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: design and technology studio, interactive video walls
 
@@ -673,7 +673,7 @@
 
 - Name: [**Red Paper Heart**](https://redpaperheart.com)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: art from real world interaction
 
@@ -682,7 +682,7 @@
 
 - Name: [**Relative Scale**](https://relativescale.com/)
 
-  Locations: ![Raleigh](https://img.shields.io/badge/-Raleigh-lightgrey?style=flat)
+  Locations: \[Raleigh]
 
   Keywords: bespoke digital products and experiences for brands and institutions
 
@@ -691,7 +691,7 @@
 
 - Name: [**Rosie Lee Creative**](https://rosieleecreative.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[London] \[Amsterdam] \[NYC]
 
   Keywords: design, creative, digital and consultancy
 
@@ -700,7 +700,7 @@
 
 - Name: [**Second Story**](https://secondstory.com/)
 
-  Locations: ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Atlanta] \[Portland] \[NYC]
 
   Keywords: exhibition, interactive, software, experience, hardware, VR, AR, projection
 
@@ -709,7 +709,7 @@
 
 - Name: [**Seeeklab**](https://www.seeeklab.com/en/)
 
-  Locations: ![Xiamen](https://img.shields.io/badge/-Xiamen-lightgrey?style=flat)
+  Locations: \[Xiamen]
 
   Keywords: marketing events, interactive installation
 
@@ -718,7 +718,7 @@
 
 - Name: [**space150**](https://www.space150.com/)
 
-  Locations: ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Minneapolis] \[LA] \[NYC]
 
   Keywords: a tech-driven creative agency
 
@@ -727,7 +727,7 @@
 
 - Name: [**Special Projects**](https://specialprojects.studio/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: design and innovation agency that reveals user needs and transforms them into experiences and products
 
@@ -736,7 +736,7 @@
 
 - Name: [**Staat**](https://www.staat.com/)
 
-  Locations: ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat)
+  Locations: \[Amsterdam]
 
   Keywords: branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail
 
@@ -745,7 +745,7 @@
 
 - Name: [**Stimulant**](https://stimulant.com/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[San Francisco]
 
   Keywords: experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications
 
@@ -754,7 +754,7 @@
 
 - Name: [**StoreyStudio**](https://www.storeystudio.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: spatial design, set design, window displays, moving image
 
@@ -763,7 +763,7 @@
 
 - Name: [**Studio Black**](https://www.studioblack.org/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[LA] \[NYC]
 
   Keywords: technical production, design advisory, content management, digital content
 
@@ -772,7 +772,7 @@
 
 - Name: [**Studio Elsewhere**](https://www.studioelsewhere.co/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: bio-experiential design and technology to support brain health
 
@@ -781,7 +781,7 @@
 
 - Name: [**Superfly**](https://superf.ly/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: create shared experiences that shape how the world plays & connects
 
@@ -790,7 +790,7 @@
 
 - Name: [**Team Epiphany**](https://www.teamepiphany.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: influencer marketing, IRL, vertical integration
 
@@ -799,7 +799,7 @@
 
 - Name: [**Tellart**](https://www.tellart.com/)
 
-  Locations: ![Providence](https://img.shields.io/badge/-Providence-lightgrey?style=flat) ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[Providence] \[Amsterdam] \[San Francisco]
 
   Keywords: transformative experiences, invention, physical & digital experiences, new technologies
 
@@ -808,7 +808,7 @@
 
 - Name: [**The Gathery**](http://www.thegathery.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: editorially-born creative agency specializing in brand marketing and content creation
 
@@ -817,7 +817,7 @@
 
 - Name: [**The Lab at Rockwell Group**](https://www.labatrockwellgroup.com)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: architecture and design, branded experiences, immersive environments, pop ups
 
@@ -826,7 +826,7 @@
 
 - Name: [**The Projects**](http://theprojects.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat)
+  Locations: \[London] \[LA] \[NYC] \[Sydney]
 
   Keywords: brand consultancy, meaningful experiences, tell stories
 
@@ -835,7 +835,7 @@
 
 - Name: [**Thinkwell**](https://thinkwellgroup.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![Abu Dhabi](https://img.shields.io/badge/-Abu%20Dhabi-lightgrey?style=flat) ![Riyadh](https://img.shields.io/badge/-Riyadh-lightgrey?style=flat)
+  Locations: \[LA] \[Montreal] \[Abu Dhabi] \[Riyadh]
 
   Keywords: strategy, experience design, production, master planning, entertainment destinations, branded attractions, interactive media installations, events, museums, expos
 
@@ -844,7 +844,7 @@
 
 - Name: [**Tool**](https://www.toolofna.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: help brands and agencies with ideation, content, and experience production that generate buzz
 
@@ -853,7 +853,7 @@
 
 - Name: [**Trivium Interactive**](https://www.triviuminteractive.com/)
 
-  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+  Locations: \[Boston]
 
   Keywords: experience design and production
 
@@ -862,7 +862,7 @@
 
 - Name: [**Two Goats**](https://www.twogoats.us/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[NYC] \[LA] \[London]
 
   Keywords: AR, interactive branded experiences
 
@@ -871,7 +871,7 @@
 
 - Name: [**Unified Field**](https://www.unifiedfield.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces
 
@@ -880,7 +880,7 @@
 
 - Name: [**UNIT9**](https://www.unit9.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[London] \[LA] \[NYC] \[Berlin]
 
   Keywords: innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors
 
@@ -889,7 +889,7 @@
 
 - Name: [**Upswell**](https://hello-upswell.com/)
 
-  Locations: ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat)
+  Locations: \[Portland]
 
   Keywords: digital and physical content first experiences
 
@@ -898,7 +898,7 @@
 
 - Name: [**VTProDesign**](https://vtprodesign.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: high tech robotics and projection mapping
 
@@ -907,7 +907,7 @@
 
 - Name: [**VVOX**](https://volvoxlabs.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: high-end design, code, fabrication, sound
 
@@ -916,7 +916,7 @@
 
 - Name: [**We Are Royale**](https://weareroyale.com/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat)
+  Locations: \[LA] \[Seattle]
 
   Keywords: frontlines of design & technology to arm brands with the creative to turn audiences into advocates
 
@@ -925,7 +925,7 @@
 
 - Name: [**Wonderlabs**](https://www.wonderlabsstudio.com/)
 
-  Locations: ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Shanghai]
 
   Keywords: marketing events, interactive installation
 
@@ -934,7 +934,7 @@
 
 - Name: [**XORXOR**](https://www.xorxor.hu)
 
-  Locations: ![Budapest](https://img.shields.io/badge/-Budapest-lightgrey?style=flat)
+  Locations: \[Budapest]
 
   Keywords: collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design
 
@@ -943,7 +943,7 @@
 
 - Name: [**Yellow Studio**](https://yellowstudio.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: artistically-minded design, tv/concert/event production design, set design
 
@@ -953,18 +953,9 @@
 
 ### Collectives & Practices
 
-- Name: [**Cuttefish**](https://www.thecuttlefish.com/)
-
-  Locations: ![USA](https://img.shields.io/badge/-USA-lightgrey?style=flat)
-
-  Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.thecuttlefish.com%2F)
-
-
 - Name: [**Dave + Gabe**](https://www.daveandgabe.care/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: interactive installation studio, real-time animation, generative 3D sound
 
@@ -973,7 +964,7 @@
 
 - Name: [**NONOTAK Studio**](https://www.nonotak.com/)
 
-  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[Paris]
 
   Keywords: light and sound installations, ethereal, immersive, dreamlike
 
@@ -982,7 +973,7 @@
 
 - Name: [**panGenerator**](https://pangenerator.com/)
 
-  Locations: ![Warsaw](https://img.shields.io/badge/-Warsaw-lightgrey?style=flat)
+  Locations: \[Warsaw]
 
   Keywords: new media art and design collective, mixing bits & atoms
 
@@ -991,7 +982,7 @@
 
 - Name: [**Random International**](https://www.random-international.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[London] \[Berlin]
 
   Keywords: experimental practice within contemporary art, human condition in an increasingly mechanised world
 
@@ -1000,7 +991,7 @@
 
 - Name: [**Smooth Technology**](https://smooth.technology/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: cutting-edge technology and artistic sensibility, wireless wearables, create the impossible
 
@@ -1009,7 +1000,7 @@
 
 - Name: [**teamLab**](https://www.teamlab.art/)
 
-  Locations: ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[Tokyo]
 
   Keywords: full-room interactive projection mapping, interdisciplinary group of ultratechnologists
 
@@ -1018,7 +1009,7 @@
 
 - Name: [**United Visual Artists**](https://www.uva.co.uk/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+  Locations: \[London]
 
   Keywords: new technologies with traditional media, site-specific, instruments that manipulate perception
 
@@ -1027,7 +1018,7 @@
 
 - Name: [**WHYIXD**](https://www.whyixd.com/)
 
-  Locations: ![Taiwan](https://img.shields.io/badge/-Taiwan-lightgrey?style=flat)
+  Locations: \[Taiwan]
 
   Keywords: cross-disciplinary art installations, dance, architecture, music
 
@@ -1036,7 +1027,7 @@
 
 - Name: [**Zebradog**](https://www.zebradog.com/)
 
-  Locations: ![Madison](https://img.shields.io/badge/-Madison-lightgrey?style=flat)
+  Locations: \[Madison]
 
   Keywords: communication design and the built environment, higher education
 
@@ -1048,7 +1039,7 @@
 
 - Name: [**29 Rooms (Vice Media Group)**](https://www.29rooms.com/)
 
-  Locations: ![USA](https://img.shields.io/badge/-USA-lightgrey?style=flat)
+  Locations: \[USA]
 
   Keywords: multi-sensory installations, performances, and workshops
 
@@ -1057,7 +1048,7 @@
 
 - Name: [**Color Factory**](https://www.colorfactory.co/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Houston](https://img.shields.io/badge/-Houston-lightgrey?style=flat)
+  Locations: \[NYC] \[Houston]
 
   Keywords: collaborative interactive exhibit
 
@@ -1066,7 +1057,7 @@
 
 - Name: [**Meow Wolf**](https://meowwolf.com/)
 
-  Locations: ![Santa Fe](https://img.shields.io/badge/-Santa%20Fe-lightgrey?style=flat)
+  Locations: \[Santa Fe]
 
   Keywords: immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration
 
@@ -1075,7 +1066,7 @@
 
 - Name: [**Museum of Ice Cream**](https://www.museumoficecream.com/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[San Francisco] \[NYC]
 
   Keywords: transforms concepts and dreams into spaces that provoke imagination and creativity
 
@@ -1084,7 +1075,7 @@
 
 - Name: [**PopUpMob**](https://popupmob.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+  Locations: \[NYC] \[LA] \[London] \[Paris]
 
   Keywords: one-stop shop for pop up experiences
 
@@ -1096,7 +1087,7 @@
 
 - Name: [**Bednark**](https://builtbybednark.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: full-service fabrication, production, install
 
@@ -1105,7 +1096,7 @@
 
 - Name: [**Pink Sparrow**](https://www.pinksparrow.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[NYC] \[LA]
 
   Keywords: environmental design, project management
 
@@ -1114,7 +1105,7 @@
 
 - Name: [**Visionary Effects**](http://www.visionaryeffects.com/)
 
-  Locations: ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: \[Pittsburgh]
 
   Keywords: old-school manufacturing processes with digital design and fabrication
 
@@ -1126,7 +1117,7 @@
 
 - Name: [**Dera Lee Productions**](http://www.deralee.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: theatre arts, story-telling
 
@@ -1135,7 +1126,7 @@
 
 - Name: [**GPJ**](https://www.gpj.com/)
 
-  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat) ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat) ![Dallas](https://img.shields.io/badge/-Dallas-lightgrey?style=flat) ![Detroit](https://img.shields.io/badge/-Detroit-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Nashville](https://img.shields.io/badge/-Nashville-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Silicon Valley](https://img.shields.io/badge/-Silicon%20Valley-lightgrey?style=flat)
+  Locations: \[Austin] \[Boston] \[Dallas] \[Detroit] \[LA] \[Nashville] \[NYC] \[San Francisco] \[Silicon Valley]
 
   Keywords: immersive events and experiences
 
@@ -1144,7 +1135,7 @@
 
 - Name: [**Sparks**](https://wearesparks.com/)
 
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![Detroit](https://img.shields.io/badge/-Detroit-lightgrey?style=flat) ![Connecticut](https://img.shields.io/badge/-Connecticut-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Las Vegas](https://img.shields.io/badge/-Las%20Vegas-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat)
+  Locations: \[Philadelphia] \[Detroit] \[Connecticut] \[Atlanta] \[LA] \[Las Vegas] \[NYC] \[San Francisco] \[Shanghai]
 
   Keywords: trade show, experiential, retail
 
@@ -1156,7 +1147,7 @@
 
 - Name: [**Carlo Ratti Associatti**](https://carloratti.com/)
 
-  Locations: ![Torino, Italy](https://img.shields.io/badge/-Torino%2C%20Italy-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![UK](https://img.shields.io/badge/-UK-lightgrey?style=flat)
+  Locations: \[Torino, Italy] \[NYC] \[UK]
 
   Keywords: design and innovation office, MIT Media Lab: Senseable City Lab
 
@@ -1165,7 +1156,7 @@
 
 - Name: [**Gensler**](https://dxd.gensler.com/)
 
-  Locations: ![Worldwide](https://img.shields.io/badge/-Worldwide-lightgrey?style=flat)
+  Locations: \[Worldwide]
 
   Keywords: built environment with integrated capabilities in strategy, design, technology, data, and architecture
 
@@ -1174,7 +1165,7 @@
 
 - Name: [**Olson Kundig**](https://olsonkundig.com/)
 
-  Locations: ![Seattle](https://img.shields.io/badge/-Seattle-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[Seattle] \[NYC]
 
   Keywords: architecture, vessel that supports specific art installations, seamless spatial experience
 
@@ -1183,7 +1174,7 @@
 
 - Name: [**SOFTlab**](https://softlabnyc.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: mixes research and creativity and technology with a strong desire to make working fun
 
@@ -1192,7 +1183,7 @@
 
 - Name: [**Universal Design Studio**](http://www.universaldesignstudio.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[London] \[NYC]
 
   Keywords: driven by a deeply held belief in the transformative power of well designed and finely crafted spaces
 
@@ -1204,7 +1195,7 @@
 
 - Name: [**\&Walsh**](https://andwalsh.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: brand strategy, art direction, design and production across all platforms
 
@@ -1213,7 +1204,7 @@
 
 - Name: [**Framestore**](https://www.framestore.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat)
+  Locations: \[London] \[NYC] \[Montreal]
 
   Keywords: virtual, augmented and mixed realities, location-based entertainment, and theme park rides
 
@@ -1222,7 +1213,7 @@
 
 - Name: [**ManvsMachine**](https://mvsm.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[London] \[LA]
 
   Keywords: multidimensional creative studio
 
@@ -1231,7 +1222,7 @@
 
 - Name: [**Media Monks**](https://www.mediamonks.com/)
 
-  Locations: ![Amsterdam](https://img.shields.io/badge/-Amsterdam-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat) ![Stockholm](https://img.shields.io/badge/-Stockholm-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Mexico City](https://img.shields.io/badge/-Mexico%20City-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat) ![Buenos Aires](https://img.shields.io/badge/-Buenos%20Aires-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat)
+  Locations: \[Amsterdam] \[London] \[Dubai] \[Stockholm] \[NYC] \[LA] \[San Francisco] \[Mexico City] \[São Paulo] \[Buenos Aires] \[Shanghai] \[Singapore]
 
   Keywords: creative production
 
@@ -1240,7 +1231,7 @@
 
 - Name: [**R/GA**](https://www.rga.com/)
 
-  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![Portland](https://img.shields.io/badge/-Portland-lightgrey?style=flat) ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat) ![Bucharest](https://img.shields.io/badge/-Bucharest-lightgrey?style=flat) ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![Buenos Aires](https://img.shields.io/badge/-Buenos%20Aires-lightgrey?style=flat) ![Santiago](https://img.shields.io/badge/-Santiago-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat) ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat) ![Shanghai](https://img.shields.io/badge/-Shanghai-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat) ![Sydney](https://img.shields.io/badge/-Sydney-lightgrey?style=flat) ![Tokyo](https://img.shields.io/badge/-Tokyo-lightgrey?style=flat)
+  Locations: \[Austin] \[Chicago] \[LA] \[NYC] \[Portland] \[San Francisco] \[Berlin] \[Bucharest] \[London] \[Buenos Aires] \[Santiago] \[São Paulo] \[Melbourne] \[Shanghai] \[Singapore] \[Sydney] \[Tokyo]
 
   Keywords: business, experience, and marketing transformation
 
@@ -1249,7 +1240,7 @@
 
 - Name: [**The Mill**](https://www.themill.com/)
 
-  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Chicago](https://img.shields.io/badge/-Chicago-lightgrey?style=flat) ![Bangalore](https://img.shields.io/badge/-Bangalore-lightgrey?style=flat) ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[London] \[NYC] \[LA] \[Chicago] \[Bangalore] \[Berlin]
 
   Keywords: experience makers, media and brand activation, innovative design, and inventive technologies
 
@@ -1261,7 +1252,7 @@
 
 - Name: [**Art Processors**](https://www.artprocessors.net/)
 
-  Locations: ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+  Locations: \[Melbourne]
 
   Keywords: specialist interactive media and exhibition design
 
@@ -1270,7 +1261,7 @@
 
 - Name: [**Exploratorium**](https://www.exploratorium.edu/)
 
-  Locations: ![San Francisco](https://img.shields.io/badge/-San%20Francisco-lightgrey?style=flat)
+  Locations: \[San Francisco]
 
   Keywords: exhibits made in-house, public-facing workshop
 
@@ -1279,7 +1270,7 @@
 
 - Name: [**GSM Project**](https://gsmproject.com/en/)
 
-  Locations: ![Montreal](https://img.shields.io/badge/-Montreal-lightgrey?style=flat) ![Singapore](https://img.shields.io/badge/-Singapore-lightgrey?style=flat) ![Dubai](https://img.shields.io/badge/-Dubai-lightgrey?style=flat)
+  Locations: \[Montreal] \[Singapore] \[Dubai]
 
   Keywords: content first, exhibitions
 
@@ -1288,7 +1279,7 @@
 
 - Name: [**Ideum**](https://www.ideum.com/)
 
-  Locations: ![Albuquerque](https://img.shields.io/badge/-Albuquerque-lightgrey?style=flat)
+  Locations: \[Albuquerque]
 
   Keywords: interactive exhibits and exhibitions, integrated hardware products
 
@@ -1297,7 +1288,7 @@
 
 - Name: [**Iglhaut + von Grote**](http://iglhaut-vongrote.de/en/)
 
-  Locations: ![Berlin](https://img.shields.io/badge/-Berlin-lightgrey?style=flat)
+  Locations: \[Berlin]
 
   Keywords: scenography, spatial mise-en-scène
 
@@ -1306,7 +1297,7 @@
 
 - Name: [**Local Projects**](https://localprojects.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: experience Designers pushing the boundaries of human interaction
 
@@ -1315,7 +1306,7 @@
 
 - Name: [**Monadnock Media**](https://monadnock.org/)
 
-  Locations: ![Massachusetts](https://img.shields.io/badge/-Massachusetts-lightgrey?style=flat)
+  Locations: \[Massachusetts]
 
   Keywords: multimedia experiences for museums, historic sites and public places
 
@@ -1324,7 +1315,7 @@
 
 - Name: [**Roto**](https://roto.com/)
 
-  Locations: ![Columbus, OH](https://img.shields.io/badge/-Columbus%2C%20OH-lightgrey?style=flat)
+  Locations: \[Columbus, OH]
 
   Keywords: experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking.
 
@@ -1333,7 +1324,7 @@
 
 - Name: [**Thinc**](https://www.thincdesign.com/)
 
-  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+  Locations: \[NYC]
 
   Keywords: provoke meaningful conversations about the world in which we live
 
@@ -1351,7 +1342,7 @@
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐64)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐65)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -1394,22 +1385,21 @@
 
 ### Software / E-commerce
 
-*   [Reaction Commerce](https://reactioncommerce.com/) - Customizable, real-time reactive, Javascript commerce platform. ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
-*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐480)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.getsaleor.com/), [Source Code (⭐18k)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
+*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐484)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
+*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐18k)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐575)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
+*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐578)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
 
 ### Software / Note-taking & Editors
 
-*   [Memos (⭐5.4k)](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Demo](https://memos.onrender.com/)) `MIT` `Docker/Go`
+*   [Memos (⭐5.6k)](https://github.com/usememos/memos) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Demo](https://memos.onrender.com/)) `MIT` `Docker/Go`
 
 ### Software / Personal Dashboards
 
-*   [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code (⭐9.5k)](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs`
-*   [Jump (⭐317)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `PHP`
+*   [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code (⭐9.6k)](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs`
+*   [Jump (⭐326)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `PHP`
 *   [Web-Portal (⭐90)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 
 ### Software / Proxy
@@ -1430,7 +1420,7 @@
 
 ### Crates / Hooks
 
-*   [Bounce (⭐74)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐59k)](https://github.com/reduxjs/redux) and [Recoil (⭐18k)](https://github.com/facebookexperimental/Recoil).
+*   [Bounce (⭐75)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐59k)](https://github.com/reduxjs/redux) and [Recoil (⭐18k)](https://github.com/facebookexperimental/Recoil).
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -1452,7 +1442,7 @@
 
 ## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Math / Other / unknown licence
+### Math / MIT
 
 *   [geo-energy-math (⭐6)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018)
 
@@ -1466,18 +1456,17 @@
 
 ### Form Components / Toggle
 
-*   [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
 *   [ui-switch (⭐1)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
 
 ## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [williamboman/mason.nvim (⭐3.3k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [williamboman/mason.nvim (⭐3.4k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Everblush/everblush.nvim (⭐124)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
+*   [Everblush/everblush.nvim (⭐130)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
 
 ## [19. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

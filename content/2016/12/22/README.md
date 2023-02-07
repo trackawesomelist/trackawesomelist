@@ -16,7 +16,7 @@
 
 ### Command Line Applications
 
-*   [loki (⭐79)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐80)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 

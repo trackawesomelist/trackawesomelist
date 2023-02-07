@@ -144,15 +144,15 @@
 
 ### Development / Books
 
-*   [foy (⭐216)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐222)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ### Development / Devops
 
-*   [flog (⭐766)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+*   [flog (⭐815)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [share-cli (⭐285)](https://github.com/marionebl/share-cli) - Share files with your local network.
+*   [share-cli (⭐293)](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Just for Fun / Image Conversion
 
@@ -276,7 +276,7 @@
 
 ### Examples and funny stuff
 
-*   [coderplanets.com (⭐221)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
+*   [coderplanets.com (⭐222)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
 
 ## [19. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
@@ -306,7 +306,7 @@
 
 ### Projects
 
-*   [Stratux (⭐925)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
+*   [Stratux (⭐929)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -626,7 +626,7 @@
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [gtfs-realtime-translators (⭐19)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
+*   [gtfs-realtime-translators (⭐20)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
 
 ## [41. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 

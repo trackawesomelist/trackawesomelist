@@ -35,7 +35,7 @@
 
 - Name: [**Cognition**](https://cognitionlabs.io/)
 
-  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+  Locations: \[LA]
 
   Keywords: an interactive studio designed to enrich experiences by building creative technology with human empathy
 
@@ -51,7 +51,7 @@
 
 ### UI
 
-*   [cimgui-love (⭐45)](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
+*   [cimgui-love (⭐49)](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

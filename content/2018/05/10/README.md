@@ -26,7 +26,7 @@
 
 ### System
 
-*   [baked\_file\_system (⭐161)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [baked\_file\_system (⭐164)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
 *   [hardware (⭐70)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)

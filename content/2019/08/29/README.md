@@ -77,12 +77,12 @@
 
 *   [go-ngram (⭐108)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
 *   [paicehusk (⭐29)](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm. *\[Deprecated]*
-*   [go-porterstemmer (⭐183)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
+*   [go-porterstemmer (⭐184)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
 
 ### Go / General-Purpose Machine Learning
 
 *   [birdland (⭐40)](https://github.com/rlouf/birdland) - A recommendation library in Go.
-*   [leaves (⭐366)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
+*   [leaves (⭐370)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
 *   [go-ml-transpiler (⭐66)](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
 *   [golearn (⭐8.7k)](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
 *   [goml (⭐1.4k)](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
@@ -93,7 +93,7 @@
 
 ### Go / Spatial analysis and geometry
 
-*   [go-geom (⭐645)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
+*   [go-geom (⭐650)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
 *   [gogeo (⭐1.5k)](https://github.com/golang/geo) - Spherical geometry in Go.
 
 ### Go / Data Analysis / Data Visualization
@@ -103,14 +103,14 @@
 *   [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - Implementations of optimization algorithms.
 *   [gonum/plot](https://godoc.org/gonum.org/v1/plot) - A plotting library.
 *   [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - A statistics library.
-*   [glot (⭐376)](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot.
+*   [glot (⭐378)](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot.
 *   [globe (⭐1.6k)](https://github.com/mmcloughlin/globe) - Globe wireframe visualization.
 *   [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) - General-purpose graph library.
 *   [go-graph (⭐96)](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language. **\[Deprecated]**
 
 ### Credits / Misc
 
-*   References for Go were mostly cut-and-pasted from [gopherdata (⭐801)](https://github.com/gopherdata/resources/tree/master/tooling)
+*   References for Go were mostly cut-and-pasted from [gopherdata (⭐805)](https://github.com/gopherdata/resources/tree/master/tooling)
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Software / Learning and Courses
 
-*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐222)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
+*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐224)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
 
 ### Software / Miscellaneous
 

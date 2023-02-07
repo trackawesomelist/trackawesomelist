@@ -100,7 +100,7 @@
 
 ### Logging
 
-*   [Sentry (⭐444)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
+*   [Sentry (⭐445)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
 ## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -150,7 +150,7 @@
 
 ### 3D
 
-*   [bump-3dpd (⭐61)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+*   [bump-3dpd (⭐59)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 
 ### Helpers
 
@@ -159,19 +159,19 @@
 
 ### OO
 
-*   [knife.base (⭐357)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐367)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
-*   [loveblobs (⭐59)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
+*   [loveblobs (⭐60)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 
 ### Shaders
 
-*   [Moonshine (⭐448)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+*   [Moonshine (⭐454)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ### Tweening
 
-*   [knife.timer (⭐357)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐367)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 

@@ -109,7 +109,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐637)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐636)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ---
 

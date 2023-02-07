@@ -253,7 +253,7 @@ Free
 
 ### Testing / Scala
 
-*   [Hikaku (⭐182)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+*   [Hikaku (⭐186)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
 ## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -310,7 +310,7 @@ Free
 
 ### Development / Release
 
-*   [clog (⭐772)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐783)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -328,7 +328,7 @@ Free
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐475)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐488)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
@@ -443,7 +443,7 @@ Free
 
 ### Tools / Community Chat Rooms
 
-*   [xargo (⭐991)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
+*   [xargo (⭐998)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
     *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐241)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
 
 ### HAL implementation crates / STMicroelectronics
@@ -465,7 +465,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐7.4k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐7.5k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ### Interoperability
 
@@ -480,7 +480,7 @@ Free
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐602)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐607)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [32. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -514,7 +514,7 @@ Free
 
 ### Extensions
 
-*   [next-i18next (⭐4k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
+*   [next-i18next (⭐4.1k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
 *   [Serverless Framework plugin for Next.js (⭐4k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
@@ -525,18 +525,18 @@ Free
 
 ### Math
 
-*   [SymEngine (⭐926)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐934)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
-*   [Restinio (⭐923)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [Restinio (⭐930)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
 *   [cpp-netlib/uri (⭐129)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[BSL-1.0]
 *   [restclient-cpp (⭐1.4k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
-*   [uriparser (⭐260)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [uriparser (⭐264)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ### Build Systems
 
-*   [Vcpkg (⭐17k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
+*   [Vcpkg (⭐18k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
 
 ### Podcasts
 
@@ -548,7 +548,7 @@ Free
 
 ## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [boehmgc-ada (⭐5)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 

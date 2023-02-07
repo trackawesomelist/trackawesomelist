@@ -25,7 +25,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐170k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.6k)](https://github.com/Theano/Theano).
+*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

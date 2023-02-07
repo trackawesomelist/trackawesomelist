@@ -171,7 +171,7 @@
 
 ### Contents / Tools
 
-*   [pico2png (⭐20)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
+*   [pico2png (⭐21)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 *   [Pico8Utils (⭐45)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## [15. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
@@ -301,7 +301,7 @@ Where hackers and security experts come to train.
 
 *   [ueberauth (⭐1.4k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
 *   [ueberauth\_facebook (⭐74)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
-*   [ueberauth\_github (⭐95)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
+*   [ueberauth\_github (⭐96)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
 *   [ueberauth\_google (⭐145)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
 *   [ueberauth\_identity (⭐78)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 *   [ueberauth\_slack (⭐23)](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
@@ -321,7 +321,7 @@ Where hackers and security experts come to train.
 
 ### Utilities
 
-*   [crutches (⭐125)](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
+*   [crutches (⭐124)](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
 *   [erlsh (⭐62)](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 
 ## [24. Tips](/content/git-tips/tips/week/README.md)

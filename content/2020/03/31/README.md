@@ -20,13 +20,13 @@
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
 
-### Self-Hosted Services
+### Self-Hosted Services / Misc
 
-*   [SimpleLogin (⭐3.3k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3.4k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -92,15 +92,15 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Encryption / Other / unknown licence
+### Encryption / MIT
 
 *   [ada-keystore (⭐29)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [ada-language-server (⭐179)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 
-### Simulation / Other / unknown licence
+### Simulation / MIT
 
 *   [ghdl (⭐1.8k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 

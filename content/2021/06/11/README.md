@@ -33,7 +33,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-dts (⭐516)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+*   [vite-plugin-dts (⭐534)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [michaelbull/kotlin-result (⭐721)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
+*   [michaelbull/kotlin-result (⭐734)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 
 ## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -89,11 +89,11 @@
 
 ### Editing Support / Diagnostics
 
-*   [nacro90/numb.nvim (⭐379)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
+*   [nacro90/numb.nvim (⭐384)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
 
 ### Formatting / Diagnostics
 
-*   [mhartington/formatter.nvim (⭐712)](https://github.com/mhartington/formatter.nvim) - A format runner written in Lua.
+*   [mhartington/formatter.nvim (⭐723)](https://github.com/mhartington/formatter.nvim) - A format runner written in Lua.
 
 ## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 

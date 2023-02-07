@@ -46,7 +46,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Geo2tz (⭐47)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
+*   [Geo2tz (⭐48)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

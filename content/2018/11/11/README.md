@@ -16,7 +16,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [emel (⭐92)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
+*   [emel (⭐93)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

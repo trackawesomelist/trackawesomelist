@@ -20,12 +20,12 @@
 
 ### Caching
 
-*   [con\_cache (⭐850)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐851)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
 *   [coverex (⭐97)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
-*   [excoveralls (⭐751)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+*   [excoveralls (⭐758)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Date and Time
 
@@ -34,7 +34,7 @@
 
 ### Files and Directories
 
-*   [dir\_walker (⭐39)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+*   [dir\_walker (⭐40)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 
 ### Frameworks
 
@@ -44,12 +44,12 @@
 
 ### Geolocation
 
-*   [geo (⭐565)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐567)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐77)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐891)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [porcelain (⭐892)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐41)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
@@ -74,7 +74,7 @@
 ### Testing
 
 *   [amrita (⭐199)](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
-*   [excheck (⭐316)](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
+*   [excheck (⭐317)](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 *   [hound (⭐1.3k)](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
 
 ### Other Awesome Lists

@@ -52,7 +52,7 @@
 
 ### Git / Diagnostics
 
-*   [AckslD/nvim-gfold.lua (⭐34)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐215)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐35)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐219)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -87,32 +87,32 @@
 
 ### ⚙️ Middlewares / 🔗 External
 
-*   [adaptor (⭐150)](https://github.com/gofiber/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
+*   [adaptor (⭐155)](https://github.com/gofiber/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
 *   [helmet (⭐71)](https://github.com/gofiber/helmet) - Helps secure your apps by setting various HTTP headers.
-*   [jwt (⭐362)](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
-*   [keyauth (⭐61)](https://github.com/gofiber/keyauth) - Key auth middleware provides a key based authentication.
-*   [redirect (⭐14)](https://github.com/gofiber/redirect) - Redirect middleware for Fiber.
+*   [jwt (⭐366)](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
+*   [keyauth (⭐65)](https://github.com/gofiber/keyauth) - Key auth middleware provides a key based authentication.
+*   [redirect (⭐15)](https://github.com/gofiber/redirect) - Redirect middleware for Fiber.
 *   [rewrite (⭐13)](https://github.com/gofiber/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
-*   [storage (⭐150)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
-*   [template (⭐181)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
-*   [websocket (⭐257)](https://github.com/gofiber/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
+*   [storage (⭐152)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
+*   [template (⭐182)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
+*   [websocket (⭐263)](https://github.com/gofiber/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [fibersentry (⭐66)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
-*   [fiberzap (⭐66)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
-*   [otelfiber (⭐66)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
-*   [paseto (⭐66)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
-*   [swagger (⭐66)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
+*   [fibersentry (⭐71)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
+*   [fiberzap (⭐71)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
+*   [otelfiber (⭐71)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
+*   [paseto (⭐71)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
+*   [swagger (⭐71)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [gofiber/recipes (⭐2k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
+*   [gofiber/recipes (⭐2.1k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
 
 ### 🛠️ Tools / 🌱 Third Party
 
 *   [go-dawn/dawn (⭐8)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
-*   [tompston/gomakeme (⭐5)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
+*   [tompston/gomakeme (⭐6)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -139,7 +139,7 @@
 
 ### Tools - Miscellaneous / React
 
-*   [amplication (⭐9.2k)](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
+*   [amplication (⭐9.3k)](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
 
 ## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

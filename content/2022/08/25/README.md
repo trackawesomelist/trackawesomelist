@@ -34,7 +34,7 @@
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐488)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐558)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -63,14 +63,14 @@
 
 *   [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)
 
-### Software Architecture
-
-*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
-
-### Theoretical Computer Science
+### Programming
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
 *   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+
+### Software Architecture
+
+*   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

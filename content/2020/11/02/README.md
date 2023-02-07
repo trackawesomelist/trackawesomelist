@@ -75,15 +75,15 @@
 
 ### Entertainment / Video
 
-*   [editly (⭐3.7k)](https://github.com/mifi/editly) - Declarative video editing.
+*   [editly (⭐3.9k)](https://github.com/mifi/editly) - Declarative video editing.
 
 ### Data Manipulation / Processors
 
-*   [jq (⭐23k)](https://github.com/stedolan/jq) - JSON processor.
-*   [yq (⭐2k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐3.7k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
-*   [yaml-cli (⭐75)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
-*   [ramda-cli (⭐545)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+*   [jq (⭐24k)](https://github.com/stedolan/jq) - JSON processor.
+*   [yq (⭐2.1k)](https://github.com/kislyuk/yq) - YAML processor.
+*   [dasel (⭐4k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [yaml-cli (⭐79)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
+*   [ramda-cli (⭐550)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
 ### Data Manipulation / JSON
 
@@ -92,7 +92,7 @@
 
 ### Data Manipulation / Columns
 
-*   [parse-columns-cli (⭐58)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
+*   [parse-columns-cli (⭐59)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 *   [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
@@ -398,7 +398,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐6k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐6.1k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 

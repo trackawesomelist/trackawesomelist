@@ -18,7 +18,7 @@
 
 *   [Gifski (⭐6.5k)](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
 *   [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features.
-*   [terminalizer (⭐13k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
+*   [terminalizer (⭐14k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
 
 ## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -34,7 +34,7 @@
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Code Search and Browsing
+### Code Generation
 
 *   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
 
@@ -49,7 +49,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cpea2506/one\_monokai.nvim (⭐52)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
+*   [cpea2506/one\_monokai.nvim (⭐60)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
 
 ## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

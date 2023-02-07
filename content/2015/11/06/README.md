@@ -71,7 +71,7 @@
 
 ### CLI
 
-*   [docopt.cpp (⭐983)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
+*   [docopt.cpp (⭐985)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 
 ---
 

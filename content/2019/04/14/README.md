@@ -26,15 +26,15 @@
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐422)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐430)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
 *   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐41k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
-*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐9.9k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-*   [wemake-vue-template (⭐719)](https://github.com/wemake-services/wemake-vue-template)
+*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐10k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+*   [wemake-vue-template (⭐724)](https://github.com/wemake-services/wemake-vue-template)
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 

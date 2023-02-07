@@ -22,11 +22,11 @@
 
 ### Tutorial
 
-*   [Vulkan Demos and Tutorials (⭐68)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
+*   [Vulkan Demos and Tutorials (⭐69)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
 
 ### Samples
 
-*   [Simple RTX Vulkan raytracing tutorials (⭐327)](https://github.com/iOrange/rtxON). \[MIT]
+*   [Simple RTX Vulkan raytracing tutorials (⭐334)](https://github.com/iOrange/rtxON). \[MIT]
 
 ## [4. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
@@ -110,12 +110,12 @@
 ### General
 
 *   [Super Tiny Icons (⭐14k)](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
-*   [Weather icons (⭐6.5k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
+*   [Weather icons (⭐6.6k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 
 ### Logos
 
-*   [Browser Logos (⭐5.7k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
-*   [Cryptocoins (⭐822)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
+*   [Browser Logos (⭐5.8k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
+*   [Cryptocoins (⭐823)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
 
 ### Special
 
@@ -159,10 +159,6 @@
 ### Software / Software Development - Project Management
 
 *   [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
-
-### List of Licenses / Wikis
-
-*   `BSD-3-Clause-Attribution` - [BSD with attribution](https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution)
 
 ## [16. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -209,7 +205,6 @@
 
 *   [Craft Coding Challenge](https://craftcodingchallenge.com/) - A training ground for Craft CMS developers to test and improve their coding skills.
 *   [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
-*   [Slack](https://craftcms.com/slack) - Join the Slack group dedicated to Craft CMS discussion.
 
 ### Articles / Plugins
 
@@ -295,9 +290,9 @@
 ### Parser Library
 
 *   [Sprache (⭐2.1k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-*   [Pidgin (⭐676)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
-*   [FParsec (⭐456)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
-*   [Superpower (⭐902)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
+*   [Pidgin (⭐684)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+*   [FParsec (⭐459)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+*   [Superpower (⭐906)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 ## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -352,15 +347,15 @@
 
 ## [38. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Tools
+### Tools / Misc
 
 *   [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
 
-### Services
+### Services / Misc
 
 *   [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 
-### Blogs
+### Blogs / Misc
 
 *   [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 *   [HTML Email Blog](https://htmlemail.io/blog/)
@@ -399,7 +394,7 @@
 
 ### JSON
 
-*   [sajson (⭐546)](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
+*   [sajson (⭐547)](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
 
 ### Serialization
 

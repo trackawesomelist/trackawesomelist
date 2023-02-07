@@ -81,7 +81,7 @@
 ### Golem
 
 *   [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
-*   [Yagna GitHub (⭐264)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
+*   [Yagna GitHub (⭐274)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
 
 ### Apps
 
@@ -109,7 +109,7 @@
 
 ### Apps / Machine Learning
 
-*   [DeML-Golem (⭐31)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
+*   [DeML-Golem (⭐32)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
 
 ### Apps / Deep Learning
 

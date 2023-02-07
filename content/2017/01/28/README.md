@@ -36,7 +36,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐830)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐326)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐848)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐334)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

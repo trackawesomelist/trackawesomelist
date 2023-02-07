@@ -58,24 +58,24 @@
 
 ## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [lace (⭐5)](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 
-### Automation / Other / unknown licence
+### Automation / MIT
 
 *   [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
 *   [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A is a framework for designing industrial automation applications using the Ada language.
 
-### UML / Other / unknown licence
+### UML / MIT
 
 *   [umbrello](https://umbrello.kde.org/) - Unified Modelling Language (UML) diagram program based on KDE Technology. Outputs Ada.
 
-### Science / Other / unknown licence
+### Science / MIT
 
 *   [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
 
-### Shells, Interpreters and Emulators / Other / unknown licence
+### Shells, Interpreters and Emulators / MIT
 
 *   [a-shell (⭐13)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 
@@ -89,8 +89,8 @@
 
 ### Configuration
 
-*   [hush (⭐98)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
-*   [hush\_aws\_secrets\_manager (⭐18)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
+*   [hush (⭐113)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
+*   [hush\_aws\_secrets\_manager (⭐19)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
 *   [hush\_gcp\_secret\_manager (⭐18)](https://github.com/gordalina/hush_gcp_secret_manager) - Google Secret Manager provider for hush.
 
 ## [12. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)

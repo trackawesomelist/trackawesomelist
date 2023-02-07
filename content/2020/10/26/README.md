@@ -168,7 +168,7 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   👍 [Dexador (⭐299)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Dexador (⭐301)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
 
 ### Units / Third-party APIs
 
@@ -192,11 +192,11 @@
 
 ## [14. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK.
 
-### System Modeling / Other / unknown licence
+### System Modeling / MIT
 
 *   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 

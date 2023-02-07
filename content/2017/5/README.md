@@ -234,7 +234,7 @@
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [Hydrosphere Mist (⭐317)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
+*   [Hydrosphere Mist (⭐318)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 
 ## [14. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
@@ -324,7 +324,7 @@
 
 ### CLI Builders
 
-*   [admiral (⭐130)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+*   [admiral (⭐131)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
 
 ## [22. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -340,7 +340,7 @@
 
 ### Containers
 
-*   [Hopscotch map (⭐578)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐582)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -537,11 +537,11 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 ### Geolocation
 
-*   [topo (⭐127)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐128)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 
-*   [Monkey (⭐128)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
+*   [Monkey (⭐127)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
 
 ### Miscellaneous
 

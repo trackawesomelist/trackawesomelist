@@ -140,11 +140,11 @@
 
 ### Audio / Video
 
-*   [react-player (⭐7.2k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐7.3k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐388)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐387)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
@@ -184,16 +184,12 @@
 
 ### Portal / Mouse Events
 
-*   [react-layer-stack (⭐158)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
+*   [react-layer-stack (⭐157)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
 
 ### Data Store / Mouse Events
 
 *   [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 *   [redux-batched-actions (⭐1k)](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
-
-### Form Logic / Mouse Events
-
-*   [formcat (⭐112)](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 
 ### Props from server / Mouse Events
 
@@ -208,7 +204,7 @@
 
 *   [generator-starhackit (⭐1.3k)](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 *   [react-redux-universal-hot-example (⭐12k)](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
-*   [relay-fullstack (⭐992)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
+*   [relay-fullstack (⭐993)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
 *   [universal-redux (⭐462)](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 
 ### Utilities / Mouse Events
@@ -230,7 +226,7 @@
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐897)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 

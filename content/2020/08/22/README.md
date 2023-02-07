@@ -26,7 +26,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐51k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐52k)](https://github.com/vitejs/vite)
 
 ## [4. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
@@ -65,19 +65,19 @@
 
 ### Contents / Finance
 
-*   [Piggyvault (⭐351)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Piggyvault (⭐367)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐805)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐827)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
-*   [TuneIN (⭐134)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
+*   [TuneIN (⭐141)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐613)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐617)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 

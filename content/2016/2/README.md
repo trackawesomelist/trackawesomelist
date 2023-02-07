@@ -508,7 +508,7 @@ git commit --amend --reset-author --no-edit
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐251)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐252)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Queue
@@ -560,11 +560,11 @@ git commit --amend --reset-author --no-edit
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [cpy-cli (⭐279)](https://github.com/sindresorhus/cpy-cli) - Copies files.
+*   [cpy-cli (⭐292)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 
 ### Files and Directories / Files
 
-*   [file-type-cli (⭐66)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+*   [file-type-cli (⭐68)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
 ## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -760,7 +760,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 ### Issue Tracking and Project Management
 
-*   [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
+*   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. Free plan has 5GB for unlimited users.
 
 ## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 

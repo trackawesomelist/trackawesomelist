@@ -30,7 +30,7 @@
 
 ### Miscellaneous / React
 
-*   [GraphVinci (⭐42)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
+*   [GraphVinci (⭐44)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 
 ### Ruby Examples / React
 
@@ -43,7 +43,7 @@
 
 ### Databases / React
 
-*   [LunaSec](https://www.lunasec.io/) - Key-Value Database for encrypting/tokenizing sensitive data with [GraphQL support](https://www.lunasec.io/docs/pages/getting-started/dedicated-tokenizer/graphql/) to authorize requests. - [Source Code (⭐1.2k)](https://github.com/lunasec-io/lunasec)
+*   [LunaSec](https://www.lunasec.io/) - Key-Value Database for encrypting/tokenizing sensitive data with [GraphQL support](https://www.lunasec.io/docs/pages/getting-started/dedicated-tokenizer/graphql/) to authorize requests. - [Source Code (⭐1.3k)](https://github.com/lunasec-io/lunasec)
 
 ## [4. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

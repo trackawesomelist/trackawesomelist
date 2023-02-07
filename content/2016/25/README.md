@@ -422,7 +422,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐497)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [SOMPY (⭐498)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
 *   [HDBScan (⭐91)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
@@ -448,7 +448,7 @@ git remote add <remote-nickname> <remote-url>
 
 ### Environment Management
 
-*   [rcm.cr (⭐45)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
+*   [rcm.cr (⭐44)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## [28. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -519,12 +519,12 @@ git remote add <remote-nickname> <remote-url>
 ### Contents / Tools
 
 *   [pico-test (⭐33)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
-*   [Lib-Pico8 (⭐155)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+*   [Lib-Pico8 (⭐158)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 *   [pico8-missing-builtins (⭐20)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 
 ### Contents / Hacks - undocumented PICO-8 features
 
-*   [p8keyboard.js (⭐17)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+*   [p8keyboard.js (⭐18)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 
 ## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

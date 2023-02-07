@@ -36,11 +36,11 @@
 
 ### Middleware
 
-*   [Gateleen (⭐69)](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
+*   [Gateleen (⭐70)](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
 
 ### Examples
 
-*   [Vert.x Music Store (⭐63)](https://github.com/tsegismont/vertx-musicstore) - An example application on how to build Vert.x applications with RxJava.
+*   [Vert.x Music Store (⭐66)](https://github.com/tsegismont/vertx-musicstore) - An example application on how to build Vert.x applications with RxJava.
 *   [Vert.x PostgreSQL Starter (⭐33)](https://github.com/BillyYccc/vertx-postgresql-starter) - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and PostgreSQL.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -99,7 +99,7 @@
 
 *   [Awesome Audio Visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐884)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐899)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ## [13. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Go / Erlang
 
-*   [Enduro/X ASG (⭐33)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
+*   [Enduro/X ASG (⭐35)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
 
 ## [16. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -146,7 +146,7 @@
 ### Plugins and scripts / Godot version unknown
 
 *   [Easing Script (⭐45)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-*   [gdutils (⭐92)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+*   [gdutils (⭐93)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 
 ### Godot script editor syntax themes / Godot version unknown
 
@@ -214,7 +214,7 @@
 
 ### Misc
 
-*   [ConsoleTableExt (⭐288)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+*   [ConsoleTableExt (⭐293)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 
 ## [28. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -249,17 +249,17 @@
 ### Extensions
 
 *   [Next Plugin Graphql (⭐54)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐763)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next With Apollo (⭐764)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Feeds
 
-*   [atomex (⭐37)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐38)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 
-*   [skooma (⭐131)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [skooma (⭐132)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 
 ## [34. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -276,7 +276,7 @@
 
 ### CLI
 
-*   [replxx (⭐603)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
+*   [replxx (⭐606)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
 ### Static Code Analysis
 
@@ -296,7 +296,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XMR Miner (⭐493)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
+*   [XMR Miner (⭐494)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
 *   [XMR Paper (⭐4)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 *   [JoyProxy (⭐12)](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
 *   [activity-automation (⭐4)](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
@@ -337,7 +337,7 @@
 ### Miscellaneous
 
 *   [cl-svg (⭐36)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [Varjo (⭐201)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [Varjo (⭐202)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

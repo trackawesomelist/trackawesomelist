@@ -10,7 +10,7 @@
 
 ### Development / Devops
 
-*   [ops (⭐1k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+*   [ops (⭐1.1k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 
 ## [2. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 

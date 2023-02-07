@@ -48,7 +48,7 @@
 
 ### Editors
 
-*   [Alchemist (⭐900)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
+*   [Alchemist (⭐901)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 
 ## [2. Typography](/content/deanhume/typography/README.md)

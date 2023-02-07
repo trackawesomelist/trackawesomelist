@@ -100,7 +100,7 @@
 
 ## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Platforms
+### Platforms / Localization and translation platforms
 
 *   [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 
@@ -108,7 +108,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐169)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
+*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐168)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -130,7 +130,7 @@
 
 ### Loader
 
-*   [react-spinners (⭐2.4k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-spinners (⭐2.5k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 *   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
 ## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)

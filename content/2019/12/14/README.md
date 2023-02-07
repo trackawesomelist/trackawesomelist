@@ -16,7 +16,7 @@
 
 ### Music Notation
 
-*   [Digital Music Stand (⭐23)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
+*   [Digital Music Stand (⭐26)](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   [IUP (⭐117)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA). IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
+*   [IUP (⭐118)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA). IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
 
 ## [6. Awesome React](/content/enaqx/awesome-react/README.md)
 

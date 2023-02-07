@@ -66,7 +66,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-realworld-example-app (⭐4k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐10k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [Daily (⭐11k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
@@ -293,7 +293,7 @@
 
 ### Lambda shorthands
 
-*   [cl-punch (⭐18)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-punch (⭐19)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -368,7 +368,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### SIRI / Ruby
 
-*   [Edwig (⭐16)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+*   [Edwig (⭐17)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
 
 ## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -376,28 +376,28 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [adalib (⭐16)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
-### Database / Other / unknown licence
+### Database / MIT
 
 *   [ada-base (⭐31)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
-### Generation / Other / unknown licence
+### Generation / MIT
 
 *   [ajunitgen (⭐1)](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [adagio (⭐3)](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 *   [agpl (⭐4)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 
-### Patterns / Other / unknown licence
+### Patterns / MIT
 
 *   [rxada (⭐12)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Other / unknown licence
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
 *   [parser-tools (⭐6)](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 
-### Utilities / Other / unknown licence
+### Utilities / MIT
 
 *   [licensing (⭐0)](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
 *   [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
@@ -405,7 +405,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [cstrings (⭐0)](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 *   [ada-bundler (⭐5)](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
 
-### Libraries / Other / unknown licence
+### Libraries / MIT
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
@@ -628,7 +628,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐520)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐524)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ### Developer Tools / Command Line Tools
 
@@ -659,18 +659,18 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 ### Development / Boilerplate
 
 *   [yo (⭐3.6k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
-*   [boilr (⭐1.5k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
-*   [cookiecutter (⭐18k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [mevn-cli (⭐783)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
-*   [scaffold-static (⭐118)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
+*   [cookiecutter (⭐19k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+*   [mevn-cli (⭐796)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+*   [scaffold-static (⭐117)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐473)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
-*   [Ultimate Plumber (⭐7.8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
+*   [has (⭐498)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [Ultimate Plumber (⭐7.9k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-*   [undollar (⭐111)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
-*   [pipe\_exec (⭐47)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+*   [undollar (⭐123)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
+*   [pipe\_exec (⭐49)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ## [34. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -702,7 +702,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Resilience / Scala
 
-*   [Resilience4j (⭐8.3k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
+*   [Resilience4j (⭐8.5k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 
 ### HTTP/1.1 / Scala
 
@@ -749,7 +749,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐904)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐910)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -842,11 +842,11 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐257)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐260)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ### Software / Proxy
 
-*   [SOCKS5Engine (⭐32)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
+*   [SOCKS5Engine (⭐39)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
 
 ## [47. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

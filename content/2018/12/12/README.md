@@ -24,19 +24,19 @@
 
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
-*   [somafm-cli (⭐112)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-*   [mpd (⭐1.7k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+*   [somafm-cli (⭐117)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+*   [mpd (⭐1.8k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
-*   [musikcube (⭐3.3k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+*   [musikcube (⭐3.4k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 
 ### Development / Text Editors
 
-*   [emacs (⭐3.6k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
+*   [emacs (⭐3.8k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
 *   [vim (⭐29k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
 
 ### Files and Directories / File Managers
 
-*   [ranger (⭐12k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [ranger (⭐13k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 *   [midnight-commander (⭐1.9k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)

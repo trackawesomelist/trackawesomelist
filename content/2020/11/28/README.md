@@ -99,11 +99,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐9.7k)](https://github.com/tinode/chat), [Clients (⭐250)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
+*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐9.8k)](https://github.com/tinode/chat), [Clients (⭐251)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
 
 ### Software / Polls and Events
 
-*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Demo](https://demo.gancio.org/), [Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
+*   [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
 
 ## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -121,46 +121,52 @@
 
 ### Translations
 
-*   [English (⭐65)](https://github.com/mbiesiad/awesome-translations)
-*   [Polish (⭐65)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐71)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐71)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
-### Platforms
+### Platforms / Localization and translation platforms
 
 *   [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
-*   [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
 *   [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
 *   [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
-*   [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
+*   [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
+
+### Platforms / Project management
+
 *   [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
 *   [Traduora (⭐1.7k)](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
 
-### Apps
+### Platforms / Platform-specific tools
 
-*   [RTranslator (⭐85)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
-*   [Crow Translate (⭐1k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+*   [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
+
+### Apps / Platform-specific tools
+
+*   [RTranslator (⭐87)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+*   [Crow Translate (⭐1.1k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐15k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 *   [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 
-### Tools
+### Tools / Platform-specific tools
 
-*   [deep-translator (⭐812)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [deep-translator (⭐844)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 *   [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 *   [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
 *   [i18n Ally (⭐2.7k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
-*   [Pootle (⭐1.4k)](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
-*   [Translator (⭐920)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+*   [Pootle (⭐1.5k)](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+*   [Translator (⭐947)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 *   [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 
-### Articles
+### Articles / Platform-specific tools
 
 *   [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
 *   [Stack Overflow Q\&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 *   [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
 
-### Other
+### Other / Platform-specific tools
 
 *   [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 *   [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.

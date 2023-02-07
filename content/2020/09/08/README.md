@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-router-tab (⭐424)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-router-tab (⭐423)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -383,13 +383,13 @@
 ### C, C++
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [cl-ssh-keys (⭐11)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-ssh-keys (⭐12)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-bcrypt (⭐10)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   see also [cl-pass (⭐25)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
-*   [burgled-batteries (⭐106)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
+*   [burgled-batteries (⭐107)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -403,7 +403,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐571)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐574)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [15. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -412,10 +412,10 @@
 *   Python
     *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
     *   [by @prakhar1989 (⭐2.9k)](https://github.com/prakhar1989/Algorithms)
-    *   [by @laurentluce (⭐265)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐51)](https://github.com/nbro/ands)
+    *   [by @laurentluce (⭐264)](https://github.com/laurentluce/python-algorithms)
+    *   [by @nbro (⭐50)](https://github.com/nbro/ands)
     *   [by @keon (⭐22k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐602)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐615)](https://github.com/vinta/fuck-coding-interviews)
 
 ## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -452,7 +452,7 @@
 
 ### GUI Development
 
-*   [crystal-imgui (⭐52)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐54)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ---
 

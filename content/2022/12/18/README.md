@@ -10,16 +10,16 @@
 
 ### Using ChatGPT in other apps
 
-*   [ChatGPT for Slack bot (⭐79)](https://github.com/pedrorito/ChatGPTSlackBot)
+*   [ChatGPT for Slack bot (⭐122)](https://github.com/pedrorito/ChatGPTSlackBot)
 
 ### Coding
 
-*   [Explain runtime error message with ChatGPT (⭐318)](https://github.com/shobrook/stackexplain)
-*   ⭐️ [PR code review using ChatGPT (⭐181)](https://github.com/kxxt/chatgpt-action)
+*   [Explain runtime error message with ChatGPT (⭐360)](https://github.com/shobrook/stackexplain)
+*   ⭐️ [PR code review using ChatGPT (⭐223)](https://github.com/kxxt/chatgpt-action)
 
 ### Other
 
-*   [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
+*   [Share your wildest ChatGPT conversations with one click (⭐282)](https://github.com/domeccleston/sharegpt)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐16)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐17)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -48,13 +48,13 @@
 ### Development tools / IDEs
 
 *   [Atom](https://github.blog/2022-06-08-sunsetting-atom/)
-    *   [rust-lang/atom-ide-rust (⭐238)](https://github.com/rust-lang/atom-ide-rust) — Rust IDE support for Atom, powered by the Rust Language Server (RLS) [![Build Status](https://api.travis-ci.com/rust-lang/atom-ide-rust.svg?branch=master)](https://app.travis-ci.com/grust-lang/atom-ide-rust)
+    *   [rust-lang/atom-ide-rust (⭐239)](https://github.com/rust-lang/atom-ide-rust) — Rust IDE support for Atom, powered by the Rust Language Server (RLS) [![Build Status](https://api.travis-ci.com/rust-lang/atom-ide-rust.svg?branch=master)](https://app.travis-ci.com/grust-lang/atom-ide-rust)
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
-*   [Supabase (⭐133)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐138)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐21)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
+*   [emileferreira/nvim-strict (⭐30)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

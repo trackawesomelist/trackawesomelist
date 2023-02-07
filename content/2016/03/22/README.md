@@ -39,7 +39,7 @@
 
 ### Awesome ClojureScript / Miscellaneous
 
-*   [reagent-forms (⭐337)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
+*   [reagent-forms (⭐338)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
 ## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 

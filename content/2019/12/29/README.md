@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [yew-react-example (⭐51)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+*   [yew-react-example (⭐52)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 
 ### Crates / Wasm
 
@@ -76,7 +76,7 @@
 
 ### Database
 
-*   [Leaf (⭐5.7k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
+*   [Leaf (⭐5.8k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
 
 ### Messaging
 

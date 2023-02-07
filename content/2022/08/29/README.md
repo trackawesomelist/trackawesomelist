@@ -10,7 +10,7 @@
 
 ### Image Analysis / Telegram
 
-*   [ExifLooter (⭐303)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐305)](https://github.com/aydinnyunus/exiflooter)
 
 ## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -324,7 +324,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-confirm-dialog (⭐28)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech\_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
+*   [vuejs-confirm-dialog (⭐30)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech\_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -360,7 +360,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [LeapChat](https://www.leapchat.org/) - Ephemeral, encrypted, in-browser chat rooms. ([Source Code (⭐151)](https://github.com/cryptag/leapchat)) `AGPL-3.0` `Docker/Nodejs/Shell`
+*   [LeapChat](https://www.leapchat.org/) - Ephemeral, encrypted, in-browser chat rooms. ([Source Code (⭐155)](https://github.com/cryptag/leapchat)) `AGPL-3.0` `Docker/Nodejs/Shell`
 
 ### Software / Miscellaneous
 
@@ -377,13 +377,13 @@
 
 ### Crates / Component Libraries
 
-*   [Yewprint (⭐352)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
+*   [Yewprint (⭐355)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [VDP (⭐645)](https://github.com/instill-ai/vdp) - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
+*   [VDP (⭐649)](https://github.com/instill-ai/vdp) - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
 *   [Comet](https://www.comet.com/) -  ML platform for tracking experiments, hyper-parameters, artifacts and more. It's deeply integrated with over 15+ deep learning frameworks and orchestration tools. Users can also use the platform to monitor their models in production.
 
 ---

@@ -28,21 +28,21 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-template-starter (⭐2)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
+*   [vite-vue2-ts-template-starter (⭐3)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-mock-extended (⭐37)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+*   [vitest-mock-extended (⭐40)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [ziontee113/color-picker.nvim (⭐167)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+*   [ziontee113/color-picker.nvim (⭐174)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Formatting / Diagnostics
 
-*   [mcauley-penney/tidy.nvim (⭐75)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
+*   [mcauley-penney/tidy.nvim (⭐79)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -100,11 +100,6 @@
   Description: **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 
 
-- Website: <https://docs.gitlab.com/ee/user/project/pages>
-
-  Description: **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.
-
-
 - Website: <https://stormkit.io>
 
   Description: **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.
@@ -133,9 +128,6 @@
 
 ### Learning Platforms:
 
-- Website: <https://freecodecamp.org>
-
-
 - Website: <https://www.lambdatest.com/learning-hub/>
 
 
@@ -146,12 +138,6 @@
 
 
 - Website: <https://testautomationu.applitools.com>
-
-
-- Website: <https://coursera.org>
-
-
-- Website: <https://edx.org>
 
 
 - Website: <https://khanacademy.org>
@@ -226,16 +212,7 @@
 
 ### Coding Challenge Platforms:
 
-- Website: <https://frontendmentor.io>
-
-
-- Website: <https://codewars.com>
-
-
 - Website: <https://topcoder.com>
-
-
-- Website: <https://codingame.com>
 
 
 - Website: <https://hackerrank.com>
@@ -250,9 +227,6 @@
 - Website: <https://codechef.com>
 
 
-- Website: <https://exercism.io>
-
-
 - Website: <https://leetcode.com>
 
 
@@ -263,6 +237,9 @@
 
 
 - Website: <https://codesignal.com>
+
+
+- Website: <https://frontendmentor.io>
 
 
 - Website: <https://devchallenges.io>
@@ -304,16 +281,10 @@
 - Website: <https://upwork.com>
 
 
-- Website: <https://freelancer.com>
-
-
 - Website: <https://peopleperhour.com>
 
 
 - Website: <https://simplyhired.com>
-
-
-- Website: <https://envato.com>
 
 
 - Website: <https://guru.com>
@@ -328,17 +299,11 @@
 - Website: <https://6nomads.com>
 
 
-- Website: <https://www.gun.io>
-
-
 - Website: <https://www.refrens.com>
 
 
 
 ### Remote Jobs:
-
-- Website: <https://flexjobs.com>
-
 
 - Website: <https://remote.co/remote-jobs>
 
@@ -397,9 +362,6 @@
 - Website: <https://visualhunt.com>
 
 
-- Website: <https://freephotos.cc>
-
-
 - Website: <https://picjumbo.com>
 
 
@@ -416,9 +378,6 @@
 
 
 - Website: <https://undraw.co/illustrations>
-
-
-- Website: <https://drawkit.io>
 
 
 - Website: <https://icons8.com/ouch>
@@ -457,9 +416,6 @@
 - Website: <https://icons8.com>
 
 
-- Website: <https://iconfinder.com>
-
-
 - Website: <https://material.io/resources/icons>
 
 
@@ -476,9 +432,6 @@
 
 
 - Website: <https://lineicons.com>
-
-
-- Website: <https://icons.modulz.app>
 
 
 - Website: <https://remixicon.com>
@@ -503,9 +456,6 @@
 
 
 - Website: <https://iconscout.com/unicons>
-
-
-- Website: <https://holasvg.com/icons>
 
 
 - Website: <https://fontello.com>
@@ -538,13 +488,7 @@
 - Website: <https://fontspace.com>
 
 
-- Website: <https://1001fonts.com>
-
-
 - Website: <https://ffonts.net>
-
-
-- Website: <https://fontfabric.com>
 
 
 - Website: <https://urbanfonts.com>
@@ -676,9 +620,6 @@
 - Website: [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
 
 
-- Website: [Modern Web](https://www.thisdot.co/modern-web)
-
-
 - Website: [DevDiscuss](https://dev.to/devdiscuss)
 
 
@@ -704,9 +645,6 @@
 
 
 - Website: [Sublime Text](https://www.sublimetext.com/)
-
-
-- Website: [Atom](https://atom.io/)
 
 
 - Website: [Brackets](http://brackets.io/)
@@ -775,9 +713,6 @@
 
 ### UI Inspiration:
 
-- Website: <https://uimovement.com>
-
-
 - Website: <https://uigarage.net>
 
 
@@ -796,14 +731,8 @@
 - Website: <https://www.behance.net>
 
 
-- Website: <https://tympanus.net>
-
-
 
 ### Docs:
-
-- Website: <https://developer.mozilla.org>
-
 
 - Website: <https://w3schools.com>
 
@@ -928,22 +857,13 @@
 
 ### Website Optimization Tools:
 
-- Website: [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
-
 - Website: [GTmetrix](https://gtmetrix.com/)
 
 
 - Website: [WebPageTest](https://www.webpagetest.org)
 
 
-- Website: [Yslow](http://yslow.org/)
-
-
 - Website: [web.dev](https://web.dev/measure/)
-
-
-- Website: [asayer](https://asayer.io/)
 
 
 - Website: [Optimizilla](https://imagecompressor.com/)
@@ -1010,19 +930,9 @@
   Topics: Accessibility.
 
 
-- Website: [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)
-
-  Topics: Responsive web design.
-
-
 - Website: [JAMstacked](https://jamstack.email/)
 
   Topics: JAMstack ecosystem.
-
-
-- Website: [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)
-
-  Topics: User Interface development.
 
 
 - Website: [Go Make Things](https://gomakethings.com/)
@@ -1111,11 +1021,6 @@
   Description: A simple and powerful JSON formatting tool
 
 
-- Website: [Codepng](https://codepng.app/)
-
-  Description: Convert your source code into awesome shareable images
-
-
 - Website: [yuyu.ai](https://yuyu.ai/)
 
   Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
@@ -1157,11 +1062,6 @@
   Description: Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features.
 
 
-- Website: [Vue Material](https://vuematerial.io/)
-
-  Description: Simple, lightweight and built exactly according to the Google Material Design specs.
-
-
 - Website: [BootstrapVue](https://bootstrap-vue.org/)
 
   Description: BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
@@ -1169,11 +1069,6 @@
 
 
 ### React UI libraries:
-
-- Website: [Material-UI](https://material-ui.com/)
-
-  Description: Simple and customizable component library to build faster, beautiful, and more accessible React applications.
-
 
 - Website: [Ant Design](https://ant.design/)
 
@@ -1267,7 +1162,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [tidytransit (⭐111)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+*   [tidytransit (⭐115)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
 
 ## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -1309,7 +1204,7 @@
 
 ### Plugins for Minecraft
 
-*   [No-Telemetry (⭐162)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+*   [No-Telemetry (⭐163)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
 ## [15. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

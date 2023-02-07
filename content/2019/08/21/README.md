@@ -14,7 +14,7 @@
 
 ### Software / Polls and Events
 
-*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐300)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
+*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐302)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
 
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐620)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐636)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## [11. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

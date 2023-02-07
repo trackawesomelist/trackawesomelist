@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   🧬 [Container Queries (⭐77)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
+*   🧬 [Container Queries (⭐76)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

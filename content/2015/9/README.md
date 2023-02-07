@@ -100,7 +100,7 @@
 
 *   [edgarex (⭐1)](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
 *   [everex (⭐10)](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
-*   [pusher (⭐20)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
+*   [pusher (⭐22)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 
 ## [10. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
 
@@ -406,7 +406,7 @@
 ### GUI
 
 *   [XWT (⭐1.3k)](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
-*   [Gtk# (⭐412)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
+*   [Gtk# (⭐413)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 
 ### Interoperability
 

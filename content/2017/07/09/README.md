@@ -32,7 +32,7 @@
 
 ### Learning / More Awesome
 
-*   📚 [Awesome JS Books (⭐54)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐55)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

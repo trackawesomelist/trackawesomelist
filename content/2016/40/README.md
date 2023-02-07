@@ -43,7 +43,7 @@
 *   [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 *   [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 *   [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
-*   [Movel (⭐129)](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
+*   [Movel (⭐131)](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
 *   [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 *   [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 
@@ -652,7 +652,7 @@
 
 ### CMS & Blogs
 
-*   [giada-www (⭐14)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
+*   [giada-www (⭐15)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 
 ### Websites / Tutorials
 
@@ -854,11 +854,11 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Swift (⭐5)](https://github.com/tobias/vertx-swift-eventbus) - Event bus client for [Apple's Swift](https://swift.org) using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [Python (⭐12)](https://github.com/jaymine/TCP-eventbus-client-Python) - Event bus client for Python using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [C# (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C-Sharp) - Event bus client for C# using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [C (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [Go (⭐27)](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Swift (⭐5)](https://github.com/tobias/vertx-swift-eventbus) - Event bus client for [Apple's Swift](https://swift.org) using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Python (⭐12)](https://github.com/jaymine/TCP-eventbus-client-Python) - Event bus client for Python using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [C# (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C-Sharp) - Event bus client for C# using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [C (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Go (⭐27)](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ### Miscellaneous
 

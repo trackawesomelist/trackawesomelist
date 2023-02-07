@@ -148,12 +148,12 @@
 
 ### Rust / Scala
 
-*   [Tarpc (⭐2.4k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐2.5k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Messaging / Scala
 
 *   [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
-*   [Bull (⭐13k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
+*   [Bull (⭐14k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 *   [Nanomsg-NG](https://nng.nanomsg.org/) - Lightweight brokerless messaging.
 
 ### Security / Scala
@@ -170,7 +170,7 @@
 
 ### Hypermedia Types
 
-*   [hate (⭐20)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
+*   [hate (⭐21)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 
 ## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

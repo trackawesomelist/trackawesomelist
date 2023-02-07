@@ -10,7 +10,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-simple-gql (⭐18)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
+*   [vite-plugin-simple-gql (⭐19)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -67,13 +67,13 @@
 
 ### Plugins
 
-*   💼🧬 [Radix (⭐1.2k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   💼🧬 [Radix (⭐1.3k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐8.5k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

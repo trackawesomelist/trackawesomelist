@@ -10,31 +10,25 @@
 
 ### Libraries / BASIC
 
-*   BASIC: - General -
-    *   🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
+*   🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
 
 ### Libraries / Go
 
-*   Go: - General -
-    *   🌎 [Go](https://go.dev/) [:octocat:](https://github.com/golang) - Official site. Statically typed, compiled programming language designed at Google.
+*   🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at Google. \[[GitHub](https://github.com/golang)]
 
 ### Libraries / Java
 
-*   Java: - General -
-    *   🌎 [Java](https://dev.java) [:octocat:](https://github.com/openjdk) - Official site. General-purpose language, runs on [Java virtual machines](https://en.wikipedia.org/wiki/Java_virtual_machine).
-    *   📚 [Learn Java](https://dev.java/learn/) - Official docs and tutorials.
-    *   📚 [OpenGL & GLSL Tutorials (⭐1.8k)](https://github.com/mattdesl/lwjgl-basics/wiki) - OpenGL / GLSL tutorials written for LWJGL and libGDX.
+*   🌎 [Java](https://dev.java) - General-purpose language, runs on [Java virtual machines](https://en.wikipedia.org/wiki/Java_virtual_machine). \[[GitHub](https://github.com/openjdk)]
 
 ### Libraries / Kotlin
 
-*   Kotlin: - General -
-    *   🌎 [Kotlin](https://kotlinlang.org/) [:octocat: (⭐44k)](https://github.com/JetBrains/kotlin) - Official site. General-purpose language by [JetBrains](https://www.jetbrains.com/), interoperates with Java.
+*   🌎 [Kotlin](https://kotlinlang.org/) - General-purpose language, interoperates with Java. \[[GitHub (⭐44k)](https://github.com/JetBrains/kotlin)]
 
 ## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Escape GraphMan (⭐144)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
+*   [Escape GraphMan (⭐146)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -50,7 +44,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
+*   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -108,7 +102,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [massCode (⭐4.3k)](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/massCodeIO/massCode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [massCode (⭐4.4k)](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/massCodeIO/massCode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Others
 

@@ -16,7 +16,7 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.3k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐3.4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -779,15 +779,15 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐7.8k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐7.9k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐195)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐196)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ### Package Management
 
-*   [Sleet (⭐293)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐294)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [42. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -801,7 +801,7 @@
 
 ### Template Engines
 
-*   [KorTE Template Engine (⭐71)](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
+*   [KorTE Template Engine (⭐72)](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
 
 ## [43. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 

@@ -10,14 +10,14 @@
 
 ### Front-End Development
 
-*   [MDBootstrap (⭐28)](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+*   [MDBootstrap (⭐29)](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 
 ## [2. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   PHP
-    *   [by @TheAlgorithms (⭐948)](https://github.com/TheAlgorithms/PHP)
+    *   [by @TheAlgorithms (⭐1.1k)](https://github.com/TheAlgorithms/PHP)
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -114,13 +114,89 @@
 
 *   [ROS2-Industrial training material (⭐139)](https://github.com/ros-industrial/ros2_i_training)
 
-## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Automation
+
+*   [Leon](https://getleon.ai) - Open-source personal assistant who can live on your server. ([Source Code (⭐12k)](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
+
+### Software / Blogging Platforms
+
+*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐187)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
+
+### Software / Communication - Custom Communication Systems
+
+*   [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Freenet) and chat on forums. ([Source Code (⭐867)](https://github.com/freenet/fred)) `GPL-2.0` `Java`
+
+### Software / Communication - Email - Complete Solutions
+
+*   [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code (⭐1.6k)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs`
+
+### Software / Communication - Social Networks and Forums
+
+*   [Commento](https://gitlab.com/commento/commento) - Commento is a discussion platform that you can embed on your blog, news articles, and any place where you want your readers to add comments. `MIT` `Go`
+*   [dyu comments (⭐60)](https://github.com/dyu/comments) - Real-time, markdown-enabled comment engine powered by leveldb. ([Demo](https://dyu.github.io/comments/real-time/)) `Apache-2.0` `Java`
+*   [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs`
+
+### Software / Community-Supported Agriculture (CSA)
+
+*   [teikei (⭐46)](https://github.com/teikei/teikei) - A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
+
+### Software / Feed Readers
+
+*   [newsdash (⭐44)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Nodejs`
+
+### Software / File Transfer & Synchronization
+
+*   [myDrive (⭐2.9k)](https://github.com/subnub/myDrive) - Fully featured online storage solution, upload/download files, photo/video viewer, and more, all through the web client. `GPL-3.0` `Nodejs`
+
+### Software / Games
+
+*   [QuakeJS (⭐80)](https://github.com/begleysm/quakejs) - QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. `MIT` `Nodejs`
+*   [The Battle for Wesnoth (⭐4.2k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++`
+*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐554)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
+
+### Software / Groupware
+
+*   [BlueMind](https://www.bluemind.net/en/) - Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support. ([Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)) `AGPL-3.0` `Java`
+
+### Software / Internet of Things (IoT)
+
+*   [WebThings Gateway](https://webthings.io/gateway/) - WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. ([Source Code (⭐2.5k)](https://github.com/WebThingsIO/gateway)) `MPL-2.0` `Nodejs`
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [OpenTripPlanner](https://www.opentripplanner.org/) - Multimodal trip planning software based on OpenStreetMap data and consuming published GTFS-formatted data to suggest routes using local public transit systems. ([Source Code (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner)) `LGPL-3.0` `Java/Javascript`
+
+### Software / Miscellaneous
+
+*   [CyberChef (⭐20k)](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
+*   [oTranscribe (⭐762)](https://github.com/oTranscribe/oTranscribe) - Free web app to take the pain out of transcribing recorded interviews. ([Demo](https://otranscribe.com/)) `MIT` `Javascript`
+*   [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code (⭐63k)](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`
+
+### Software / Note-taking & Editors
+
+*   [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code (⭐33k)](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript`
+
+### Software / Photo and Video Galleries
+
+*   [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code (⭐322)](https://github.com/xemle/home-gallery)) `MIT` `Nodejs`
+
+### Software / Polls and Events
+
+*   [Croodle (⭐144)](https://github.com/jelhan/croodle) - Croodle is an end-to-end encrypted web application to schedule a date or to do a poll on any topic. `MIT` `Javascript`
+
+### Software / Proxy
+
+*   [socks5-proxy-server (⭐51)](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Nodejs`
+
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / C companies
 
 *   Credit Karma <https://engineering.creditkarma.com/>
 
-## [11. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [12. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Misc
 
@@ -131,13 +207,13 @@
 *   [Devop Engineers](https://www.devopsengineers.com/)
 *   [SweetOps](https://slack.cloudposse.com/)
 
-## [12. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Spark
 
 *   [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) (⭐542)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CMS
 
@@ -159,45 +235,45 @@
 
 *   [Microsoft Clarity](https://clarity.microsoft.com/) - Session recording completely free with "no traffic limits", no project limits, and no sampling
 
-## [14. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [15. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Code
 
 *   [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
 *   [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
 
-## [15. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects / Games
 
 *   [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/Dungeons and Dragons Town and NPC Generator.
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [Solana (⭐9.9k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
+*   [Solana (⭐10k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
 
-## [17. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [18. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Magic](https://en.wikipedia.org/wiki/Magic_\(programming\)) - A magic program/piece of code is doing it's job but nobody knows how. Like in reality, magic doesn't actually exist. Once you understand it, it's not magic anymore.
 
-## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   :strawberry: [CakeDC/Enum plugin (⭐27)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 *   [LinkScanner plugin (⭐2)](https://github.com/mirko-pagliai/cakephp-link-scanner) - A plugin for recursively scanning links.
 
-## [19. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [20. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Assets/Placeholders
 
 *   :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
 
-## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [21. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
@@ -215,25 +291,25 @@
 *   [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 *   [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
 
-## [21. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [22. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
 
 *   [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models.
 
-## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [23. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### i18n / Mouse Events
 
 *   [react-localized (⭐5)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 
-## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [Downloader (⭐584)](https://github.com/bezzad/Downloader) - Downloader is a modern, fluent, asynchronous, testable and portable library for .NET. This is a multipart downloader with asynchronous progress events.
 
-## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [25. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -243,29 +319,29 @@
 
 *   [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
 
-## [25. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [26. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Management / ArtNet Libraries
 
 *   [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. `⚠ not free`
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Intel® oneAPI Data Analytics Library (⭐533)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+*   [Intel® oneAPI Data Analytics Library (⭐537)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 
 ### JavaScript / Demos and Scripts
 
 *   [Heroes Wear Masks](https://heroeswearmasks.fun/) - A fun TensorFlow\.js-based oracle that tells, whether one wears a face mask or not. It can even tell when one wears the mask incorrectly.
 
-## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [28. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Requestly](https://requestly.io/) - A lightweight proxy as a browser extension & desktop app to intercept & modify network requests. You can Modify Headers, Redirect Url, Mock API response, Delay/Throttle requests, etc.
 
-## [28. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [29. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Coding Challenge Platforms:
 
@@ -273,13 +349,13 @@
 
 
 
-## [29. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [30. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
 
-## [30. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [31. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Tutorials
 
@@ -298,7 +374,7 @@
 *   [Twitter](https://twitter.com/videolan) - The official VideoLAN Twitter account.
 *   [Reddit](https://www.reddit.com/r/vlc) - Unofficial VLC community on Reddit.
 
-## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -307,86 +383,6 @@
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-mock-server (⭐29)](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
-
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Archiving and Digital Preservation (DP)
-
-*   [Horahora (⭐798)](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`
-
-### Software / Automation
-
-*   [Leon](https://getleon.ai) - Open-source personal assistant who can live on your server. ([Source Code (⭐12k)](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
-
-### Software / Blogging Platforms
-
-*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐185)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
-
-### Software / Communication - Custom Communication Systems
-
-*   [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Freenet) and chat on forums. ([Source Code (⭐862)](https://github.com/freenet/fred)) `GPL-2.0` `Java`
-
-### Software / Communication - Email - Complete Solutions
-
-*   [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code (⭐1.6k)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs`
-
-### Software / Communication - Social Networks and Forums
-
-*   [Commento](https://gitlab.com/commento/commento) - Commento is a discussion platform that you can embed on your blog, news articles, and any place where you want your readers to add comments. `MIT` `Go`
-*   [dyu comments (⭐60)](https://github.com/dyu/comments) - Real-time, markdown-enabled comment engine powered by leveldb. ([Demo](https://dyu.github.io/comments/real-time/)) `Apache-2.0` `Java`
-*   [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs`
-
-### Software / Community-Supported Agriculture (CSA)
-
-*   [teikei (⭐46)](https://github.com/teikei/teikei) - A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
-
-### Software / Feed Readers
-
-*   [newsdash (⭐43)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Nodejs`
-
-### Software / File Transfer & Synchronization
-
-*   [myDrive (⭐2.8k)](https://github.com/subnub/myDrive) - Fully featured online storage solution, upload/download files, photo/video viewer, and more, all through the web client. ([Demo](https://mydrive-demo.herokuapp.com/)) `GPL-3.0` `Nodejs`
-
-### Software / Games
-
-*   [QuakeJS (⭐79)](https://github.com/begleysm/quakejs) - QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. `MIT` `Nodejs`
-*   [The Battle for Wesnoth (⭐4.2k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++`
-*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐553)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
-
-### Software / Groupware
-
-*   [BlueMind](https://www.bluemind.net/en/) - Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support. ([Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)) `AGPL-3.0` `Java`
-
-### Software / Internet of Things (IoT)
-
-*   [WebThings Gateway](https://webthings.io/gateway/) - WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. ([Source Code (⭐2.5k)](https://github.com/WebThingsIO/gateway)) `MPL-2.0` `Nodejs`
-
-### Software / Maps and Global Positioning System (GPS)
-
-*   [OpenTripPlanner](https://www.opentripplanner.org/) - Multimodal trip planning software based on OpenStreetMap data and consuming published GTFS-formatted data to suggest routes using local public transit systems. ([Source Code (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner)) `LGPL-3.0` `Java/Javascript`
-
-### Software / Miscellaneous
-
-*   [CyberChef (⭐20k)](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
-*   [oTranscribe (⭐757)](https://github.com/oTranscribe/oTranscribe) - Free web app to take the pain out of transcribing recorded interviews. ([Demo](https://otranscribe.com/)) `MIT` `Javascript`
-*   [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code (⭐63k)](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`
-
-### Software / Note-taking & Editors
-
-*   [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code (⭐33k)](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript`
-
-### Software / Photo and Video Galleries
-
-*   [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code (⭐305)](https://github.com/xemle/home-gallery)) `MIT` `Nodejs`
-
-### Software / Polls and Events
-
-*   [Croodle (⭐144)](https://github.com/jelhan/croodle) - Croodle is an end-to-end encrypted web application to schedule a date or to do a poll on any topic. `MIT` `Javascript`
-
-### Software / Proxy
-
-*   [socks5-proxy-server (⭐51)](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Nodejs`
 
 ## [33. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -457,7 +453,7 @@
 
 ### Templates
 
-*   [Blazor Hero (⭐2.9k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
+*   [Blazor Hero (⭐3k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
 
 ### Rapid Development Framework
 
@@ -465,10 +461,10 @@
 
 ### Component bundles
 
-*   [Radzen.Blazor (⭐2.1k)](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
+*   [Radzen.Blazor (⭐2.2k)](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
 *   [Blazority (⭐71)](https://github.com/blazority/support) - ![GitHub stars](https://img.shields.io/github/stars/blazority/support?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazority/support?style=flat-square\&cacheSeconds=86400) Blazor component library based on the Clarity UI design. 30+ components including Datagrid and Tree-view ([Docs & Demos](https://blazority.com)).
 *   [Start Blazoring](https://startblazoring.com) - A Blazor starter template built using your choice of [Blazorise](https://blazorise.com/) or [MudBlazor](https://mudblazor.com), with more UI library integration coming. It offers a myriad of features such as user registration, login, password reset, two factor; user management, roles, permissioning; background workers, logging, caching, email templates, localization and many more.
-*   [TabBlazor (⭐221)](https://github.com/joadan/TabBlazor) - ![last commit](https://img.shields.io/github/last-commit/joadan/TabBlazor?style=flat-square\&cacheSeconds=86400) Blazor Admin theme built on top of [Tabler UI (⭐33k)](https://github.com/tabler/tabler). Minimal javascript. [Demo](https://joadan.github.io/TabBlazor/).
+*   [TabBlazor (⭐224)](https://github.com/joadan/TabBlazor) - ![last commit](https://img.shields.io/github/last-commit/joadan/TabBlazor?style=flat-square\&cacheSeconds=86400) Blazor Admin theme built on top of [Tabler UI (⭐33k)](https://github.com/tabler/tabler). Minimal javascript. [Demo](https://joadan.github.io/TabBlazor/).
 *   [Blazor.Ionic (⭐32)](https://github.com/kukks/Blazor.Ionic) - ![GitHub stars](https://img.shields.io/github/stars/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=86400) Ionic framework integration for Blazor.
 *   [Blazor Controls Toolkit](https://blazorct.azurewebsites.net/) - Complete toolset for implementing commercial business applications. It includes the equivalent of all Bootstrap JavaScript components, all html5 input types with widgets fallbacks, advanced editable components like DataGrid, TreeView, DetailView, ModalDetail, DetailList. All components have default customizable templates, and support virtualizazion and Drag & Drop. Component rendering is meta-data driven, so component configuration is in part automatic, and in part can be driven with data annotations. The toolset includes also query tools, to issue complex local or remote queries, changes-tracking tools to send only the changed records to the server, advanced validation attributes, globalization tools, "Behaviors" that modify existing components, state management and save, and more.
 
@@ -486,7 +482,7 @@
 
 ### Individual components / Others
 
-*   [BlazorLocalizationSample (⭐10)](https://github.com/LazZiya/XLocalizer.Samples/tree/master/BlazorLocalizationSample) ![GitHub stars](https://img.shields.io/github/stars/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) ![last commit](https://img.shields.io/github/last-commit/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) The default project template localized using [XLocalizer (⭐108)](https://github.com/LazZiya/XLocalizer) with online translation and auto resource creating.
+*   [BlazorLocalizationSample (⭐10)](https://github.com/LazZiya/XLocalizer.Samples/tree/master/BlazorLocalizationSample) ![GitHub stars](https://img.shields.io/github/stars/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) ![last commit](https://img.shields.io/github/last-commit/LazZiya/XLocalizer.Samples?style=flat-square\&cacheSeconds=86400) The default project template localized using [XLocalizer (⭐111)](https://github.com/LazZiya/XLocalizer) with online translation and auto resource creating.
 *   [TimeCalc (⭐1)](https://github.com/michaelrp/TimeCalc) - ![last commit](https://img.shields.io/github/last-commit/michaelrp/TimeCalc?style=flat-square\&cacheSeconds=86400) An app to help keep track of speed cubing averages on the fly using Blazor WebAssembly. [Demo](https://www.timecalc.app/).
 *   [BlazorTimeline (⭐57)](https://github.com/Morasiu/BlazorTimeline) - ![stars](https://img.shields.io/github/stars/Morasiu/BlazorTimeline?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Morasiu/BlazorTimeline?style=flat-square\&cacheSeconds=86400) Responsive, vertical timeline component.
 
@@ -496,7 +492,7 @@
 
 ### Tooling / Others
 
-*   [Publish SPA for GitHub Pages (⭐35)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
+*   [Publish SPA for GitHub Pages (⭐37)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
 
 ## [36. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -534,8 +530,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-feather-icons (⭐576)](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
-*   [vue-feather (⭐129)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
+*   [vue-feather-icons (⭐578)](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
+*   [vue-feather (⭐130)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
 
 ## [41. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
@@ -570,7 +566,7 @@
 
 ### Chemistry
 
-*   [gromacs (⭐485)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
+*   [gromacs (⭐495)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
 
 ### Image Processing
 
@@ -587,11 +583,11 @@
 
 ### Reflection
 
-*   [clReflect (⭐228)](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. \[MIT]
+*   [clReflect (⭐231)](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. \[MIT]
 
 ### Miscellaneous
 
-*   [libsigc++ (⭐249)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
+*   [libsigc++ (⭐256)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 
 ### Compiler
 
@@ -613,11 +609,11 @@
 
 ### Overview / Reddit
 
-*   [Snew (⭐84)](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
+*   [Snew (⭐86)](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
 
 ### Related projects / Other services
 
-*   [Pluja's Awesome Privacy (⭐7.1k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
+*   [Pluja's Awesome Privacy (⭐8k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
 ## [47. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -633,7 +629,7 @@
 
 ### CLI Utils
 
-*   [meet (⭐34)](https://github.com/ryanprior/meet) - Start a jitsi meeting quickly from the comfort of your command line
+*   [meet (⭐35)](https://github.com/ryanprior/meet) - Start a jitsi meeting quickly from the comfort of your command line
 
 ### Network Protocols
 

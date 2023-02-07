@@ -56,7 +56,7 @@
 
 ### Game Engine
 
-*   [o3de (⭐5.8k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐5.9k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

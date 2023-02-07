@@ -30,7 +30,7 @@
 
 ### ORM
 
-*   [Permazen (⭐321)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐323)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [5. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Examples
 
-*   [sulu/sulu (⭐911)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
+*   [sulu/sulu (⭐936)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Samples
 
-*   Sascha Willems's [samples (⭐8.1k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐158)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐8.1k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐159)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Just for Fun / Image Conversion
 
-*   [dankcli (⭐37)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
+*   [dankcli (⭐43)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐4.1k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐4.2k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

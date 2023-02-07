@@ -36,7 +36,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐6.4k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`
+*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐6.5k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`
 
 ## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Tools
 
-*   💼 [clb (⭐90)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
+*   💼 [clb (⭐96)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Templates / Vue 3
 
-*   [vitespa (⭐35)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
+*   [vitespa (⭐36)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -71,43 +71,43 @@
 
 ### Entertainment / Books
 
-*   [medium-cli (⭐668)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+*   [medium-cli (⭐674)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
 ### Development / Books
 
-*   [gdb-dashboard (⭐8.9k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
-*   [iola (⭐109)](https://github.com/pvarentsov/iola) - Socket client with REST API.
+*   [gdb-dashboard (⭐9.1k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
+*   [iola (⭐116)](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### Productivity / Note Taking and Lists
 
-*   [nb (⭐4.8k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
+*   [nb (⭐5.1k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 
 ### Utilities / Math
 
-*   [mdlt (⭐146)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-*   [Qalculate (⭐1.1k)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+*   [mdlt (⭐152)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
+*   [Qalculate (⭐1.2k)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ### Version Control / Git
 
 *   [git commander (⭐1.1k)](https://github.com/golbin/git-commander) - Interactive git tool.
-*   [git-stats (⭐6k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
+*   [git-stats (⭐6.1k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 *   [tig (⭐11k)](https://github.com/jonas/tig) - Text-mode interface for git.
-*   [grv (⭐3.9k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
-*   [gitlab-cli (⭐250)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
+*   [grv (⭐4k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
+*   [gitlab-cli (⭐256)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 *   [git-extras (⭐16k)](https://github.com/tj/git-extras) - Git utilities.
-*   [gita (⭐1.2k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
-*   [readme-md-generator (⭐9.9k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
+*   [gita (⭐1.3k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
+*   [readme-md-generator (⭐10k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
 
 ### Version Control / GitHub
 
 *   [CLI GitHub (⭐421)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
-*   [Gistup (⭐485)](https://github.com/mbostock/gistup) - Manage GitHub gists.
+*   [Gistup (⭐490)](https://github.com/mbostock/gistup) - Manage GitHub gists.
 *   [hub (⭐22k)](https://github.com/github/hub) - Make git easier to use with GitHub.
-*   [git-labelmaker (⭐563)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
+*   [git-labelmaker (⭐562)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
 ### Images / Emoji
 
-*   [SVGO (⭐18k)](https://github.com/svg/svgo) - Optimize SVG files.
+*   [SVGO (⭐19k)](https://github.com/svg/svgo) - Optimize SVG files.
 
 ### Images / Gif Creation
 
@@ -119,15 +119,15 @@
 
 ### Screensavers / Image Conversion
 
-*   [cmatrix (⭐2.9k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
-*   [pipes.sh (⭐1.8k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
-*   [YuleLog (⭐50)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
-*   [cli-fireplace (⭐36)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+*   [cmatrix (⭐3.1k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
+*   [pipes.sh (⭐1.9k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
+*   [YuleLog (⭐51)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
+*   [cli-fireplace (⭐40)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ### Graphics / Image Conversion
 
-*   [cli-mandelbrot (⭐76)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-*   [lowcharts (⭐108)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
+*   [cli-mandelbrot (⭐77)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
+*   [lowcharts (⭐118)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

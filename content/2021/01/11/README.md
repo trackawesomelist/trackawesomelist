@@ -23,7 +23,7 @@
 
 ### Table
 
-*   [react-table (⭐20k)](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
+*   [react-table (⭐21k)](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

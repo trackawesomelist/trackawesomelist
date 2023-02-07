@@ -22,13 +22,13 @@
 
 ### Physics
 
-*   [Quantum++ (⭐401)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [Quantum++ (⭐402)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [ncmpcpp (⭐1.6k)](https://github.com/arybczak/ncmpcpp) - mpd client.
+*   [ncmpcpp (⭐1.7k)](https://github.com/arybczak/ncmpcpp) - mpd client.
 *   [beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and tagger.
 
 ### Entertainment / Video
@@ -41,7 +41,7 @@
 
 ### Files and Directories / Files
 
-*   [bat (⭐38k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+*   [bat (⭐39k)](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Platforms
 
-*   [KDE (⭐260)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+*   [KDE (⭐268)](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 
 ### Computer Science
 
@@ -111,8 +111,8 @@
 
 ### Miscellaneous
 
-*   [Cheminformatics (⭐475)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-*   [Prisma (⭐507)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+*   [Cheminformatics (⭐481)](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+*   [Prisma (⭐506)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 *   [Software Architecture (⭐1.7k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ---

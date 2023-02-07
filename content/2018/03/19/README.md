@@ -40,7 +40,7 @@
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐107)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
+*   [ptags (⭐108)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

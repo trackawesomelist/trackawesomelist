@@ -16,8 +16,8 @@
 
 ### Python / React
 
-*   [turms (⭐22)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
-*   [rath (⭐3)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
+*   [turms (⭐23)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
+*   [rath (⭐4)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -82,7 +82,7 @@
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐122)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐124)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
 ## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -822,7 +822,6 @@
 
 *   [Datadog APM](https://www.datadoghq.com/product/apm/) - End-to-end distributed tracing and APM at scale, correlated to all telemetry.
 *   [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
-*   [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
 *   [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 *   [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 

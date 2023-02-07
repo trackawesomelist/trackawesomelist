@@ -86,13 +86,13 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐305)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐311)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Text Editors Language Support
 
-*   Emacs: [pico8-mode (⭐20)](https://github.com/Kaali/pico8-mode)
+*   Emacs: [pico8-mode (⭐21)](https://github.com/Kaali/pico8-mode)
 
 ## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 

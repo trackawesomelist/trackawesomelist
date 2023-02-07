@@ -70,13 +70,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [justwrote/kjob (⭐59)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
+*   [justwrote/kjob (⭐60)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [log (⭐14)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
+*   [log (⭐13)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -89,7 +89,7 @@
 ### Datasets / Generative Adversarial Networks (GANs)
 
 *   [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai\&index=laion5B\&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
-*   [rom1504/clip-retrieval (⭐857)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+*   [rom1504/clip-retrieval (⭐913)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -111,25 +111,25 @@
 
 ### Health and Social Science
 
-*   [Biomedical Information Extraction (⭐231)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+*   [Biomedical Information Extraction (⭐232)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 *   [Diversity (⭐585)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-*   [Empathy in Engineering (⭐494)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+*   [Empathy in Engineering (⭐495)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 *   [Healthcare (⭐2.1k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 *   [Humane Technology (⭐2.9k)](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 *   [Mental Health (⭐2.6k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-*   [Neuroscience (⭐986)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+*   [Neuroscience (⭐990)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 
 ### Miscellaneous
 
-*   [Scientific Writing (⭐505)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐512)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [jim-at-jibba/ariake-vim-colors (⭐24)](https://github.com/jim-at-jibba/ariake-vim-colors) - A port of the great Atom theme. Dark and light with Tree-sitter support.
-*   [Th3Whit3Wolf/onebuddy (⭐92)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
-*   [ofirgall/ofirkai.nvim (⭐35)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
+*   [Th3Whit3Wolf/onebuddy (⭐93)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
+*   [ofirgall/ofirkai.nvim (⭐38)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -152,11 +152,11 @@
 
 ### Templates / Vue 3
 
-*   [vue-vite-tw-ts (⭐4)](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
+*   [vue-vite-tw-ts (⭐5)](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
 
 ### Open Source / Community
 
-*   [Vituum (⭐107)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+*   [Vituum (⭐110)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ---
 

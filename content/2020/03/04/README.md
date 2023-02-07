@@ -16,9 +16,9 @@
 
 ### Files and Directories / Directory Listing
 
-*   [alder (⭐204)](https://github.com/aweary/alder) - Minimal `tree` with colors.
-*   [exa (⭐20k)](https://github.com/ogham/exa) - Improved version of `ls`.
-*   [tre (⭐344)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [alder (⭐210)](https://github.com/aweary/alder) - Minimal `tree` with colors.
+*   [exa (⭐21k)](https://github.com/ogham/exa) - Improved version of `ls`.
+*   [tre (⭐434)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐38)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
@@ -99,11 +99,11 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐5k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐5.1k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 
-*   [Quill (⭐677)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐702)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -117,7 +117,7 @@
 
 ### WebSocket
 
-*   [Websocket.Client (⭐523)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐529)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
 ---
 

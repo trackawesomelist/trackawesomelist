@@ -238,7 +238,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐459)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐471)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -752,7 +752,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 ### JavaScript Engines
 
 *   [Jint (⭐3.2k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐745)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jurassic (⭐748)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 

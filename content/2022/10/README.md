@@ -34,63 +34,63 @@
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Runtimes / Other / unknown licence
+### Runtimes / MIT
 
 *   [ada-runtime (⭐32)](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 
-### Games / Other / unknown licence
+### Games / MIT
 
 *   [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga](https://sourceforge.net/projects/gnoga/).
 *   [buttons (⭐2)](https://github.com/andreacervetti/buttons) - A simple [gtkada (⭐76)](https://github.com/AdaCore/gtkada) Button Mania game.
 *   [play-2048 (⭐2)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml (⭐20)](https://github.com/mgrojo/ASFML) for graphics and [ada-toml (⭐25)](https://github.com/pmderodat/ada-toml) for saving state.
 *   [bingada (⭐4)](https://github.com/jfuica/bingada) - Bingo application in [gtkada (⭐76)](https://github.com/AdaCore/gtkada)
 
-### Components / Other / unknown licence
+### Components / MIT
 
 *   [gneiss (⭐22)](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime (⭐32)](https://github.com/Componolit/ada-runtime)
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
 *   [gtkada (⭐76)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
-### Web / Other / unknown licence
+### Web / MIT
 
 *   [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 *   [template-parser (⭐5)](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
-### Compression / Other / unknown licence
+### Compression / MIT
 
 *   [zip-ada (⭐16)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 *   [dcf-ada (⭐5)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐16)](https://github.com/zertovitch/zip-ada)).
 
-### Format Readers and Writers / Other / unknown licence
+### Format Readers and Writers / MIT
 
 *   [protobuf-ada (⭐12)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 *   [protobuf (⭐19)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka](http://forge.ada-ru.org/matreshka).
 *   [ada-toml (⭐25)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
-### Graphics and Multimedia / Other / unknown licence
+### Graphics and Multimedia / MIT
 
 *   [asfml (⭐20)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
-### Utilities / Other / unknown licence
+### Utilities / MIT
 
 *   [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser (⭐5)](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 
-### Office / Other / unknown licence
+### Office / MIT
 
 *   [hunter (⭐21)](https://github.com/thindil/hunter) - Graphical ([gtkada (⭐76)](https://github.com/AdaCore/gtkada)) file manager for Linux.
 
-### Simulation / Other / unknown licence
+### Simulation / MIT
 
 *   [eagle-lander (⭐26)](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada (⭐76)](https://github.com/AdaCore/gtkada)/Cairo).
 
-### Generators and Translators / Other / unknown licence
+### Generators and Translators / MIT
 
 *   [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of [matreshka](http://forge.ada-ru.org/matreshka).
 
-### Bindings / Other / unknown licence
+### Bindings / MIT
 
 *   [tp7-ada-gtkada (⭐3)](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
 *   [tp7-ada-gnoga (⭐4)](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga](https://sourceforge.net/projects/gnoga/).
@@ -248,21 +248,21 @@
 
 ### Overview / YouTube Music
 
-*   [th-ch/youtube-music (⭐2.3k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+*   [th-ch/youtube-music (⭐2.8k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
 
 ### Overview / Reddit
 
-*   [Dawn (⭐422)](https://github.com/Tunous/Dawn): Open-source Reddit app
+*   [Dawn (⭐435)](https://github.com/Tunous/Dawn): Open-source Reddit app
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-    *   Forked from Dank: [https://github.com/saket/Dank (⭐808)](https://github.com/saket/Dank)
+    *   Forked from Dank: [https://github.com/saket/Dank (⭐809)](https://github.com/saket/Dank)
 *   [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
     *   Official instance: <https://kddit.kalli.st>
     *   `[Proxy]`
 
 ### Overview / Reuters
 
-*   [Neuters (⭐25)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
-    *   Official instance: <https://boxcat.site>
+*   [Neuters (⭐34)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
+    *   Official instance: <https://neuters.de>
 
 ## [12. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
@@ -285,13 +285,13 @@
 
 *   [Gifski (⭐6.5k)](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
 *   [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features.
-*   [terminalizer (⭐13k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
+*   [terminalizer (⭐14k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
 
 ## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐63)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐65)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
 ### Blogs - Security / React
 
@@ -301,11 +301,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cpea2506/one\_monokai.nvim (⭐52)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
+*   [cpea2506/one\_monokai.nvim (⭐60)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
 
 ### Utility / Diagnostics
 
-*   [jghauser/fold-cycle.nvim (⭐47)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+*   [jghauser/fold-cycle.nvim (⭐48)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 
 ## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -337,7 +337,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. ([Demo](https://app.keila.io), [Source Code (⭐731)](https://github.com/pentacent/keila)) `AGPL-3.0` `Elixir`
+*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. ([Demo](https://app.keila.io), [Source Code (⭐756)](https://github.com/pentacent/keila)) `AGPL-3.0` `Elixir`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -371,13 +371,13 @@
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐512)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐531)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [26. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Utils
 
-*   [yew-style-in-rs (⭐19)](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
+*   [yew-style-in-rs (⭐21)](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
 
 ## [27. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -467,14 +467,14 @@
 
 ## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### Code Search and Browsing
+### Code Generation
 
 *   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
 
 ### Domain
 
 *   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐274)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+*   [cluster.ws & wip.la (⭐289)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 
 ### Remote Desktop Tools
 
@@ -488,11 +488,11 @@
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [goblin (⭐48)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
+*   [goblin (⭐49)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [gotestdox (⭐22)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
+*   [gotestdox (⭐27)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 
 ## [30. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -536,7 +536,7 @@
 
 ### Plugins
 
-*   🧬 [FormKit (⭐2.2k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐2.3k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -554,7 +554,7 @@
 
 ### Web frameworks / Isomorphic web frameworks
 
-*   [Weblocks (⭐24)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Weblocks (⭐25)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [35. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
@@ -571,12 +571,12 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@import-meta-env/unplugin (⭐49)](https://github.com/iendeavor/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
+*   [@import-meta-env/unplugin (⭐54)](https://github.com/iendeavor/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 *   [vite-plugin-remain-exports (⭐1)](https://github.com/coconilu/vite-plugin-remain-exports) - Remaining exports from the entry file that imported by html.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-live-reload (⭐53)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
+*   [vite-plugin-live-reload (⭐55)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 *   [vite-plugin-simple-vconsole (⭐4)](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
 *   [vite-plugin-file-mock (⭐4)](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
 
@@ -584,7 +584,7 @@
 
 ### Contents / Libraries
 
-*   [TorchXRayVision (⭐581)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
+*   [TorchXRayVision (⭐595)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ## [38. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -712,7 +712,7 @@
 
 ### TikTok
 
-*   [ProxiTok (⭐954)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
+*   [ProxiTok (⭐985)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
 
 ### Imgur
 
@@ -749,15 +749,15 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-mathjax (⭐60)](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
-*   [vue-mathjax-next (⭐9)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
+*   [vue-mathjax (⭐61)](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
+*   [vue-mathjax-next (⭐10)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 *   [vue-preview-imgs (⭐2)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
 ## [54. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Sync/Sharing
 
-*   [portal (⭐233)](https://github.com/ZinoKader/portal) - Send files between computers.
+*   [portal (⭐266)](https://github.com/ZinoKader/portal) - Send files between computers.
 
 ## [55. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 

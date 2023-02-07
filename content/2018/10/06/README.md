@@ -22,7 +22,7 @@
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐232)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
+*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐233)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Boilerplates
 
-*   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+*   [csprance/next-smrt (⭐56)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐478)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐479)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

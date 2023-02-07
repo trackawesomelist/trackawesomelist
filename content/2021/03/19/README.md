@@ -81,13 +81,13 @@
 
 ### Projects / Godot 3.2+
 
-*   [Arrow (⭐566)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐572)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### JSS
 
-*   [JSS with Vue.js (⭐0)](https://github.com/KayeeNL/sitecore-jss-getting-started-vuejs) - A starting template for JSS using Vue.js framework.
+*   [JSS with Vue.js](https://github.com/KayeeNL/sitecore-jss-getting-started-vuejs) - A starting template for JSS using Vue.js framework.
 
 ## [9. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 

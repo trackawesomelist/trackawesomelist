@@ -79,7 +79,21 @@
 
 *   💼 [Tailscan](https://tailscan.com) - Ultimate devtools for Tailwind CSS v3 with ability to inspect and convert CSS to Tailwind CSS classes.
 
-## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Organization & Automation
+
+- Name: [mem](https://get.mem.ai/)
+
+  Title: The Self-Organizing Workspace.
+
+  Description: Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Microservice
 
@@ -96,21 +110,11 @@
 
 *   [DependencyCheck (⭐4.8k)](https://github.com/jeremylong/DependencyCheck) - Detects publicly disclosed vulnerabilities contained within a project's dependencies.
 
-## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Applets / Design Tooling
 
 *   [RunCat (⭐275)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
-
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
 ## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -167,4 +171,5 @@
 
 ---
 
+- Prev: [Jan 25, 2023](/content/2023/01/25/README.md)
 - Next: [Jan 23, 2023](/content/2023/01/23/README.md)

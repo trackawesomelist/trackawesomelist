@@ -175,7 +175,7 @@
 
 ### Audio
 
-*   [dzr (⭐114)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐120)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ## [7. Awesome V](/content/vlang/awesome-v/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Libraries / C#
 
-*   [sharpSNMP (⭐299)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
+*   [sharpSNMP (⭐303)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
 *   [SnmpSharpNet (⭐57)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Libraries / Java
@@ -112,7 +112,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐368)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [![build badge](https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master)](https://travis-ci.org/dan-t/rusty-tags)
+*   [dan-t/rusty-tags (⭐371)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [![build badge](https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master)](https://travis-ci.org/dan-t/rusty-tags)
 
 ---
 

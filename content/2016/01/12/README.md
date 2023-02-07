@@ -27,11 +27,11 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [cpy-cli (⭐279)](https://github.com/sindresorhus/cpy-cli) - Copies files.
+*   [cpy-cli (⭐292)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 
 ### Files and Directories / Files
 
-*   [file-type-cli (⭐66)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
+*   [file-type-cli (⭐68)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
 ## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

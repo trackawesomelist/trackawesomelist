@@ -997,13 +997,13 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ## [27. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Templates
+### Templates / Misc
 
-*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
-### Resources
+### Resources / Misc
 
-*   [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
+*   [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp.
 
 ## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -1017,7 +1017,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [YCML (⭐116)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
-*   [PredictionBuilder (⭐109)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
+*   [PredictionBuilder (⭐110)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 ## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

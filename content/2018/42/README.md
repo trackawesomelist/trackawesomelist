@@ -132,7 +132,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.2k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.3k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -407,7 +407,7 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐144)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [Peartree (⭐189)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
 *   [transitr (⭐18)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [28. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
@@ -422,7 +422,7 @@ Topics: Accessibility\
 
 ## [29. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
 
@@ -469,7 +469,7 @@ Topics: Accessibility\
 
 ### Cryptography
 
-*   [libhydrogen (⭐457)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐465)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Game Engine
 
@@ -477,7 +477,7 @@ Topics: Accessibility\
 
 ### Serialization
 
-*   [YAS (⭐588)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐601)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -510,7 +510,7 @@ Topics: Accessibility\
 ### Other Tools / Telegram
 
 *   [Photon (⭐9.3k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-*   [Zen (⭐468)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+*   [Zen (⭐470)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [37. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -590,18 +590,18 @@ Topics: Accessibility\
 
 ### CLI
 
-*   [ASCII Table (⭐412)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
-*   [Airline (⭐847)](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
+*   [ASCII Table (⭐420)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
+*   [Airline (⭐849)](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
 *   [args4j](http://args4j.kohsuke.org) - Small library to parse command-line arguments.
-*   [Jansi (⭐952)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Java ASCII Render (⭐139)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
+*   [Jansi (⭐964)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
+*   [Java ASCII Render (⭐140)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
 *   [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
 *   [JLine (⭐1.2k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
-*   [Text-IO (⭐294)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [Text-IO (⭐297)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Networking
 
-*   [TLS Channel (⭐146)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐150)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ### Security / Other
 
@@ -615,7 +615,7 @@ Topics: Accessibility\
 
 ### Platforms
 
-*   [Home Assistant (⭐4.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐4.4k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [47. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -1453,8 +1453,8 @@ Topics: Accessibility\
 
 ### Tools / Data
 
-*   [mongo\_fdw (⭐273)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
-*   [Mongolastic (⭐134)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+*   [mongo\_fdw (⭐279)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+*   [Mongolastic (⭐136)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
 *   [MongoMultiMaster (⭐67)](https://github.com/rick446/mmm) - Multi-master replication
 
 ### Tools / Monitoring
@@ -1483,7 +1483,7 @@ Topics: Accessibility\
 
 ### Feature Flags and Toggles
 
-*   [fun\_with\_flags (⭐816)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
+*   [fun\_with\_flags (⭐824)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
 
 ### HTTP
 
@@ -1491,7 +1491,7 @@ Topics: Accessibility\
 
 ### Instrumenting / Monitoring
 
-*   [spandex (⭐304)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
+*   [spandex (⭐305)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 
 ### Miscellaneous
 
@@ -1502,11 +1502,11 @@ Topics: Accessibility\
 *   [ecto\_cassandra (⭐89)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
 *   [extreme (⭐123)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
 *   [triton (⭐74)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
-*   [xandra (⭐314)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
+*   [xandra (⭐317)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 
 ### Search
 
-*   [elasticsearch (⭐395)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
+*   [elasticsearch (⭐397)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 
 ### Text and Numbers
 
@@ -1515,7 +1515,7 @@ Topics: Accessibility\
 
 ### Third Party APIs
 
-*   [google-cloud (⭐681)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
+*   [google-cloud (⭐685)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 
 ## [63. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 

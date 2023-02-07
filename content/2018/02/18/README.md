@@ -44,11 +44,11 @@
 
 ### Middleware
 
-*   [Gateleen (⭐69)](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
+*   [Gateleen (⭐70)](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
 
 ### Examples
 
-*   [Vert.x Music Store (⭐63)](https://github.com/tsegismont/vertx-musicstore) - An example application on how to build Vert.x applications with RxJava.
+*   [Vert.x Music Store (⭐66)](https://github.com/tsegismont/vertx-musicstore) - An example application on how to build Vert.x applications with RxJava.
 *   [Vert.x PostgreSQL Starter (⭐33)](https://github.com/BillyYccc/vertx-postgresql-starter) - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and PostgreSQL.
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)

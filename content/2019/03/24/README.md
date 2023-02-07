@@ -22,7 +22,7 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.3k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐3.4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Template Engines
 
-*   [KorTE Template Engine (⭐71)](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
+*   [KorTE Template Engine (⭐72)](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
 
 ## [7. Amas](/content/sindresorhus/amas/README.md)
 

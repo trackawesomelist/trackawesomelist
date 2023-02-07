@@ -16,7 +16,8 @@
 
 ### File Management and Sharing
 
-*   [Snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+*   [Snapdrop (⭐15k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+    *   [PairDrop (⭐10)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network
 
 ## [3. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -35,8 +36,8 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [lpha3cho (⭐35)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
-*   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.
+*   [lpha3cho (⭐35)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
+*   [themeraf (⭐1)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.
 
 ## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -48,7 +49,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [soywiz/kaifu2x (⭐29)](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
+*   [soywiz/kaifu2x (⭐30)](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
 
 ## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -79,7 +80,7 @@
 ### Applications / Emulators
 
 *   Flash Player
-    *   [Ruffle (⭐11k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![Build Status Rust](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Rust?label=Rust%20Build\&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Rust)[![Build Status Web](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Web?label=Web%20Build\&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Web)
+    *   [Ruffle (⭐11k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -104,7 +105,7 @@
 
 ### AppImage consumption tools / Package managers
 
-*   [leap (⭐3)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
+*   [leap (⭐8)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
@@ -119,15 +120,15 @@
 
 ### Development / Books
 
-*   [rebound (⭐3.9k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
-*   [bcal (⭐565)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-*   [bitwise (⭐468)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
-*   [cgasm (⭐351)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
-*   [add-gitignore (⭐549)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-*   [is-up-cli (⭐348)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
-*   [reachable (⭐18)](https://github.com/italolelis/reachable) - Check if a domain is up.
-*   [loadtest (⭐2.3k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐393)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [rebound (⭐4k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
+*   [bcal (⭐578)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+*   [bitwise (⭐510)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+*   [cgasm (⭐357)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
+*   [add-gitignore (⭐568)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+*   [is-up-cli (⭐349)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+*   [reachable (⭐19)](https://github.com/italolelis/reachable) - Check if a domain is up.
+*   [loadtest (⭐2.4k)](https://github.com/alexfernandez/loadtest) - Run load tests.
+*   [diff2html-cli (⭐405)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
 
@@ -136,24 +137,24 @@
 
 ### Development / Devops
 
-*   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐21k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐504)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐22k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+*   [Discharge (⭐524)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 
 ### Development / HTTP Server
 
-*   [serve (⭐8.2k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
-*   [simplehttp (⭐51)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
-*   [shell2http (⭐1k)](https://github.com/msoap/shell2http) - Shell script based HTTP server.
+*   [serve (⭐8.4k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
+*   [simplehttp (⭐52)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
+*   [shell2http (⭐1.1k)](https://github.com/msoap/shell2http) - Shell script based HTTP server.
 
 ### Development / HTTP Client
 
-*   [HTTPie (⭐24k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
-*   [HTTP Prompt (⭐8.6k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-*   [ain (⭐459)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+*   [HTTPie (⭐26k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
+*   [HTTP Prompt (⭐8.7k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
+*   [ain (⭐467)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Utilities / Calendars
 
-*   [bitly-client (⭐45)](https://github.com/specious/bitly-client) - Bitly client.
+*   [bitly-client (⭐46)](https://github.com/specious/bitly-client) - Bitly client.
 
 ### Data Manipulation / JSON
 
@@ -161,15 +162,15 @@
 
 ### Data Manipulation / YAML
 
-*   [dyff (⭐711)](https://github.com/homeport/dyff) - YAML diff tool.
+*   [dyff (⭐804)](https://github.com/homeport/dyff) - YAML diff tool.
 
 ### Files and Directories / Directory Listing
 
-*   [lsd (⭐8.6k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
+*   [lsd (⭐9.1k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Images / Emoji
 
-*   [imgur-uploader-cli (⭐52)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
+*   [imgur-uploader-cli (⭐53)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.6k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
 ## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)

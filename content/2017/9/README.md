@@ -26,8 +26,8 @@
 
 ### Awesome ClojureScript / Routing
 
-*   [Router (⭐78)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
-*   [Secretary (⭐768)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
+*   [Router (⭐79)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
+*   [Secretary (⭐774)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
@@ -350,7 +350,7 @@
 
 ### Java VM / Java
 
-*   [MSF4J (⭐357)](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
+*   [MSF4J (⭐361)](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 
 ### Vocabularies / Scala
 
@@ -360,11 +360,11 @@
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐206)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐207)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐348)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐347)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [27. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -477,7 +477,7 @@ Webpage: <https://metalab.at>
 
 ### Third-party APIs
 
-*   [raven.cr (⭐113)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐33k)](https://github.com/getsentry/sentry)
+*   [raven.cr (⭐114)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐33k)](https://github.com/getsentry/sentry)
 
 ## [41. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -552,7 +552,7 @@ Webpage: <https://metalab.at>
 
 ### Cryptography
 
-*   [SecurityDriven.Inferno (⭐545)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
+*   [SecurityDriven.Inferno (⭐546)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 
 ## [49. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 

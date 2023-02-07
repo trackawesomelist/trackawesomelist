@@ -167,7 +167,7 @@ git show <branch_name>:<file_name>
 ### Tools / Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [GradStop.js (⭐153)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [GradStop.js (⭐152)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 
 ### Tools / Web App
 
@@ -327,7 +327,7 @@ git show <branch_name>:<file_name>
 
 ### Machine Learning
 
-*   [Fido (⭐413)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐412)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -441,7 +441,7 @@ git show <branch_name>:<file_name>
 ### Applications
 
 *   [Consolex (⭐117)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
-*   [Phoenix Battleship (⭐517)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Battleship (⭐518)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 
 ### Behaviours and Interfaces
 
@@ -466,7 +466,7 @@ git show <branch_name>:<file_name>
 
 ### ORM and Datamapping
 
-*   [redix (⭐982)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+*   [redix (⭐984)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 *   [riak\_ecto (⭐30)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ### Testing
@@ -480,7 +480,7 @@ git show <branch_name>:<file_name>
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐360)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐361)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ## [32. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -534,7 +534,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐390)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐394)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 

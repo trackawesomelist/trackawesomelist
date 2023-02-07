@@ -112,7 +112,7 @@
 
 ### Libraries/Frameworks / Configuration
 
-*   [uchuhimo/konf (⭐289)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
+*   [uchuhimo/konf (⭐293)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Apps / VPN
 
-*   [Yagna httpx client (⭐1)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
+*   [Yagna httpx client (⭐2)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
 
 ## [14. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

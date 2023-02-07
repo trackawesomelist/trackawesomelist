@@ -65,12 +65,12 @@
 ### General
 
 *   [Super Tiny Icons (⭐14k)](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
-*   [Weather icons (⭐6.5k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
+*   [Weather icons (⭐6.6k)](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 
 ### Logos
 
-*   [Browser Logos (⭐5.7k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
-*   [Cryptocoins (⭐822)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
+*   [Browser Logos (⭐5.8k)](https://github.com/alrra/browser-logos#readme) - High resolution web browser logos.
+*   [Cryptocoins (⭐823)](https://github.com/AllienWorks/cryptocoins#readme) - Complete vector/webfont icon pack of your favourite cryptocurrencies.
 
 ### Special
 

@@ -22,7 +22,7 @@
 
 ### Deployment / NLP
 
-*   [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
+*   [streamlit](https://www.streamlit.io/) - Make it easy to deploy the machine learning model
 *   [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 
 ## [4. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
@@ -72,7 +72,7 @@
 
 ### Tools
 
-*   [WebStation SYSMON (⭐177)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
+*   [WebStation SYSMON (⭐180)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -135,8 +135,8 @@
 ### Canvas
 
 *   [react-konva (⭐4.9k)](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
-*   [react-sketch (⭐588)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
-*   [react-sketch-canvas (⭐232)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
+*   [react-sketch (⭐591)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
+*   [react-sketch-canvas (⭐234)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 
 ## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

@@ -98,23 +98,23 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐27)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
+*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐28)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Editors
 
-*   [Neovim (⭐8.5k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
+*   [Neovim (⭐8.7k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [dzr (⭐91)](https://github.com/yne/dzr) - deezer.com player.
+*   [dzr (⭐120)](https://github.com/yne/dzr) - deezer.com player.
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐311)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐355)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-vuetify-starter (⭐58)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
+*   [vite-vue2-ts-vuetify-starter (⭐59)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

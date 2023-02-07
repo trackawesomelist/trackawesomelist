@@ -34,7 +34,7 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [MunifTanjim/nui.nvim (⭐718)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
+*   [MunifTanjim/nui.nvim (⭐734)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2023
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,10 +37,6 @@
 ### Influential Books / Mocking
 
 *   [Head First Java (3rd Edition)](https://www.oreilly.com/library/view/head-first-java/9781492091646/)
-
-### Podcasts and Screencasts / Mocking
-
-*   [Friends of OpenJDK](https://foojay.io/)
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -144,20 +140,34 @@
 *   [Docker Certification](https://intellipaat.com/docker-training-course/?US) :heavy\_dollar\_sign: will help you to will Learn Docker containerization, running Docker containers, Image creation, Dockerfile, Docker orchestration, security best practices, and more through hands-on projects and case studies and helps to clear Docker Certified Associate.
 *   [Docker dev bookmarks](https://www.codever.dev/search?q=docker) - use the tag [docker](https://www.codever.dev/bookmarks/t/docker)
 
-## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [11. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Translation & Transcript
+
+- Name: [TranslateVideo](http://www.translate.video)
+
+  Title: Translate.Video.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+
+## [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### GPU
 
-*   [Gaming-HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
+*   [Gaming-HVM (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) -
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [ez-cmd (⭐0)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
-*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐127)](https://github.com/mroth/evalcache).
+*   [multi-evalcache (⭐0)](https://github.com/rwwiv/multi-evalcache) - Cache multiple eval loads to improve startup time, inspired by [mroth/evalcache (⭐130)](https://github.com/mroth/evalcache).
 
-## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [14. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
@@ -165,4 +175,5 @@
 
 ---
 
+- Prev: [Jan 24, 2023](/content/2023/01/24/README.md)
 - Next: [Jan 22, 2023](/content/2023/01/22/README.md)

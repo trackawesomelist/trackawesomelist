@@ -566,7 +566,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Samples
 
-*   [Stardust from Intel (⭐110)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐110)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐112)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐112)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ### Bindings
 

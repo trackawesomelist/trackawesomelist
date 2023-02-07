@@ -58,7 +58,7 @@
 ### Frameworks / Runtimes
 
 *   [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
-*   [Microserver (⭐933)](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
+*   [Microserver (⭐935)](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 *   [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ### C
@@ -84,7 +84,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Denominator (⭐575)](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
+*   [Denominator (⭐576)](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
 *   [Etcd (⭐42k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 *   [SkyDNS (⭐2.2k)](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
@@ -94,22 +94,22 @@
 
 *   [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 *   [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-*   [Ordasity (⭐347)](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
+*   [Ordasity (⭐346)](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 *   [Redisson (⭐20k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
 ### Serialization / Scala
 
-*   [BooPickle (⭐363)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+*   [BooPickle (⭐364)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 *   [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 *   [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 *   [Cheshire (⭐1.4k)](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 *   [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 *   [Fastjson (⭐25k)](https://github.com/alibaba/fastjson) - Fast JSON Processor.
-*   [Jackson (⭐7.8k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+*   [Jackson (⭐7.9k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 *   [Jackson Afterburner (⭐91)](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
-*   [Kryo (⭐5.6k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+*   [Kryo (⭐5.7k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 *   [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
-*   [SBinary (⭐76)](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
+*   [SBinary (⭐75)](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 *   [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
 ### Security / Scala
@@ -144,7 +144,7 @@
 
 ## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Articles
+### Articles / Misc
 
 *   [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 

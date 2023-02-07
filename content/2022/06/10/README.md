@@ -16,7 +16,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [gqt (⭐439)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
+*   [gqt (⭐440)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 
 ## [3. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Others
 
-*   [Css in Blazor presentation's source code (⭐12)](https://github.com/EdCharbeneau/Css-For-Blazor-Developers-Presentation) - ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/Css-For-Blazor-Developers-Presentation) Source code of a presentation by Ed Charbeneau about Blazor and CSS.
+*   [Css in Blazor presentation's source code (⭐13)](https://github.com/EdCharbeneau/Css-For-Blazor-Developers-Presentation) - ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/Css-For-Blazor-Developers-Presentation) Source code of a presentation by Ed Charbeneau about Blazor and CSS.
 
 ### Individual components / Others
 
-*   [Z.Blazor.Diagrams (⭐493)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
+*   [Z.Blazor.Diagrams (⭐498)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
 *   [BlazorCurrentDevice (⭐12)](https://github.com/arivera12/BlazorCurrentDevice) - ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorCurrentDevice?style=flat-square\&cacheSeconds=86400) Device detection for blazor using current-device.js.
 *   [BlazorStyledTextArea (⭐15)](https://github.com/JByfordRew/BlazorStyledTextArea) - ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorStyledTextArea?style=flat-square\&cacheSeconds=86400) A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors.
 
@@ -50,7 +50,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fastcache (⭐13)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
+*   [fastcache (⭐14)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -60,7 +60,7 @@
 
 ### Contents / Tools
 
-*   [TS-PICO-8 (⭐21)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
+*   [TS-PICO-8 (⭐23)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -74,9 +74,9 @@
 
 ## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
-### Projects Related to eBPF / Testing in Virtual Environments
+### Projects Related to eBPF / Networking
 
-*   [merbridge (⭐537)](https://github.com/merbridge/merbridge/) - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
+*   [merbridge (⭐553)](https://github.com/merbridge/merbridge/) - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

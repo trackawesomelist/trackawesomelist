@@ -461,10 +461,10 @@
 
 ## [31. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Testing
+### Testing / Misc
 
-*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
-*   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
+*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
 ## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -541,7 +541,7 @@
 
 ### Algorithms and Data structures
 
-*   [graphlb (⭐19)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
+*   [graphlb (⭐20)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
 
 ### Testing
 
@@ -555,7 +555,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyOD (⭐6.6k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+*   [PyOD (⭐6.7k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
 ---
 

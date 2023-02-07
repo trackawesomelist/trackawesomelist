@@ -202,11 +202,11 @@
 
 ### Cryptography
 
-*   [retter (⭐79)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+*   [retter (⭐81)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 
 ### Inter-process communication
 
-*   [libjson-rpc-cpp (⭐831)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
+*   [libjson-rpc-cpp (⭐837)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
 *   [nanomsg (⭐5.6k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
@@ -219,7 +219,7 @@
 ### Build Tools
 
 *   [dismake (⭐4)](https://github.com/jarednorman/dismake) - Mix compiler running make.
-*   [reaxt (⭐363)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐364)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -244,7 +244,7 @@
 
 ### Networking
 
-*   [ExPcap (⭐26)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
+*   [ExPcap (⭐27)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 
 ### ORM and Datamapping
 
@@ -269,7 +269,7 @@
 *   [digoc (⭐11)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 *   [exgrid (⭐7)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐636)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐640)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
 ## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

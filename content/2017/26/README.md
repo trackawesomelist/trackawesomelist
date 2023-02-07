@@ -27,7 +27,7 @@
 ### Libraries / Scripting
 
 *   [gluon-lang/gluon (⭐2.7k)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
-*   [murarth/ketos (⭐721)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
+*   [murarth/ketos (⭐720)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -294,7 +294,7 @@
 ### Components & Libraries / UI Components
 
 *   [v-img (⭐419)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
-*   [vue-flatpickr-component (⭐911)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐15k)](https://github.com/chmln/flatpickr) datetime picker
+*   [vue-flatpickr-component (⭐913)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐15k)](https://github.com/chmln/flatpickr) datetime picker
 
 ### Components & Libraries / UI Utilities
 

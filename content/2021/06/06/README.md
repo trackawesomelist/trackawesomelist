@@ -157,8 +157,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([Source Code (⭐4k)](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.6k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.7k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

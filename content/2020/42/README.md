@@ -327,7 +327,7 @@
 
 ### Web Frameworks
 
-*   [grip (⭐248)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐249)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
 ## [27. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -1234,34 +1234,34 @@
 ### Clojure / Deep Learning
 
 *   [MXNet](https://mxnet.apache.org/versions/1.7.0/api/clojure) - Bindings to Apache MXNet - part of the MXNet project
-*   [Deep Diamond (⭐382)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
+*   [Deep Diamond (⭐383)](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
 *   [jutsu.ai (⭐99)](https://github.com/hswick/jutsu.ai) - Clojure wrapper for deeplearning4j with some added syntactic sugar.
 *   [dl4clj (⭐99)](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
 
 ### Clojure / Data Analysis
 
-*   [Tablecloth (⭐198)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
+*   [Tablecloth (⭐201)](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
 *   [Panthera (⭐183)](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
 *   [Geni (⭐253)](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
 
 ### Clojure / Data Visualization
 
-*   [Hanami (⭐317)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
+*   [Hanami (⭐318)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
 *   [Saite (⭐117)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
-*   [Oz (⭐793)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
-*   [clojupyter (⭐768)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
+*   [Oz (⭐794)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
+*   [clojupyter (⭐770)](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
 
 ### Clojure / Interop
 
 *   [Java Interop](https://clojure.org/reference/java_interop) - Clojure has Native Java Interop from which Java's ML ecosystem can be accessed
 *   [JavaScript Interop](https://clojurescript.org/reference/javascript-api) - ClojureScript has Native JavaScript Interop from which JavaScript's ML ecosystem can be accessed
-*   [Libpython-clj (⭐877)](https://github.com/clj-python/libpython-clj) - Interop with Python
+*   [Libpython-clj (⭐889)](https://github.com/clj-python/libpython-clj) - Interop with Python
 *   [ClojisR (⭐128)](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
 
 ### Clojure / Misc
 
 *   [Neanderthal](https://neanderthal.uncomplicate.org/) - Fast Clojure Matrix Library (native CPU, GPU, OpenCL, CUDA)
-*   [fastmath (⭐171)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
+*   [fastmath (⭐172)](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
 *   [matlib (⭐23)](https://github.com/atisharma/matlib) - a Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.
 
 ### Clojure / Extra
@@ -1280,11 +1280,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-tabs (⭐28)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
+*   [vue3-tabs (⭐30)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 
 ### Components & Libraries / Frameworks
 
-*   [uiv (⭐918)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
+*   [uiv (⭐920)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 
 ### Components & Libraries / Dev Tools
 
@@ -1326,17 +1326,17 @@
 
 ### Business
 
-*   [Social Enterprise (⭐48)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+*   [Social Enterprise (⭐50)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## [55. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management - Integrated Library Systems (ILS)
 
-*   [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code (⭐51)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
+*   [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code (⭐50)](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐686)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
+*   [2FAuth (⭐713)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
 
 ## [56. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
@@ -1452,7 +1452,7 @@
 
 ### Entertainment / Social Media
 
-*   [kirc (⭐497)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+*   [kirc (⭐504)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## [65. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -1488,7 +1488,7 @@
 ### Deep Learning / Others
 
 *   [Tangent (⭐2.2k)](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
-*   [autograd (⭐6.1k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
+*   [autograd (⭐6.2k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 *   [Myia (⭐456)](https://github.com/mila-udem/myia) - Deep Learning framework (pre-alpha).
 *   [nnabla (⭐2.6k)](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 *   [Caffe (⭐33k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
@@ -1622,13 +1622,13 @@
 
 ### GraphCMS React + Apollo   [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
 
-*   [GraphCMS starter blog with React & Apollo Client (⭐499)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
+*   [GraphCMS starter blog with React & Apollo Client (⭐524)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
 
 ## [76. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Web Servers
 
-*   [mufeedvh/binserve (⭐726)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
+*   [mufeedvh/binserve (⭐731)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
 
 ## [77. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -1660,7 +1660,7 @@
 
 ### Form Components / Select
 
-*   [react-functional-select (⭐173)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
+*   [react-functional-select (⭐176)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
 
 ## [81. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
@@ -1696,15 +1696,15 @@
 
 ### Component bundles
 
-*   [Smart UI for Blazor (⭐37)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
+*   [Smart UI for Blazor (⭐38)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
 
 ### Individual components / Others
 
-*   [BlazorContextMenu (⭐410)](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=86400) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
+*   [BlazorContextMenu (⭐411)](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=86400) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 
 ### Tools & Utilities / Others
 
-*   [Blazor Printing (⭐64)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
+*   [Blazor Printing (⭐65)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
 ## [87. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
@@ -1722,7 +1722,7 @@
 
 *   🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
 *   💼 [tailwind-classes-sorter (⭐18)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
-*   💼 [prettier-plugin-tailwind (⭐429)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
+*   💼 [prettier-plugin-tailwind (⭐430)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
 
 ### UI Libraries, Components & Templates
 

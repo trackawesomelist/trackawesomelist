@@ -16,7 +16,7 @@
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐476)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐477)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

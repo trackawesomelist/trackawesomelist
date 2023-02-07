@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐2.9k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐2.9k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
+*   [Send (⭐3k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -63,8 +63,8 @@
 ### Programming Language Design Patterns
 
 *   C#
-    *   [design-patterns (⭐1.9k)](https://github.com/abishekaditya/DesignPatterns)
-    *   [design-patterns-for-human (⭐1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐2k)](https://github.com/abishekaditya/DesignPatterns)
+    *   [design-patterns-for-human (⭐1.1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [Design Patterns Library (⭐1.6k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)

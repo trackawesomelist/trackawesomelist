@@ -187,9 +187,9 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [innoave/genevo (⭐111)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
-*   [m-decoster/RsGenetic (⭐74)](https://github.com/m-decoster/RsGenetic) — Genetic Algorithm library in Rust. In maintenance mode.
-*   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master)](https://travis-ci.org/autumnai/leaf). Abandoned project. The most updated fork is [spearow/juice (⭐987)](https://github.com/spearow/juice).
+*   [innoave/genevo (⭐112)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
+*   [m-decoster/RsGenetic (⭐75)](https://github.com/m-decoster/RsGenetic) — Genetic Algorithm library in Rust. In maintenance mode.
+*   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master)](https://travis-ci.org/autumnai/leaf). Abandoned project. The most updated fork is [spearow/juice (⭐993)](https://github.com/spearow/juice).
 
 ## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -212,7 +212,7 @@
 ### Awesome ClojureScript / CSS tools
 
 *   [Garden (⭐1.3k)](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
-*   [stylefy (⭐308)](https://github.com/jarzka/stylefy) – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
+*   [stylefy (⭐309)](https://github.com/jarzka/stylefy) – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
 
 ### Awesome ClojureScript / Miscellaneous
 
@@ -509,7 +509,7 @@
 
 ### Shell plugins
 
-*   [crun (⭐37)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+*   [crun (⭐38)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
 
 ## [31. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -555,7 +555,7 @@
 
 ### Reactive programming
 
-*   [Cells (⭐189)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
+*   [Cells (⭐191)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
 
 ### Contract programming
 
@@ -919,7 +919,7 @@
 
 ### Database
 
-*   [nanodbc (⭐265)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
+*   [nanodbc (⭐266)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
 *   [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. \[GPLv2]
 
 ### Game Engine

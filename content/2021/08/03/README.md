@@ -16,7 +16,7 @@
 
 ### Frameworks
 
-*   [Seastar (⭐7.1k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
+*   [Seastar (⭐7.2k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Libraries / Scripting
 
-*   [fleabitdev/gamelisp (⭐351)](https://github.com/fleabitdev/glsp) — A LISP-lisk scripting language for Rust game development
+*   [fleabitdev/gamelisp (⭐352)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for Rust game development
 
 ## [4. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 

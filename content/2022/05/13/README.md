@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [Viact (⭐30)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
+*   [Viact (⭐31)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
 
 ## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Apps / Testing
 
-*   [ThorgPress (⭐1)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
+*   [ThorgPress (⭐2)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
 
 ### Provider Resources / Monitoring
 
@@ -42,7 +42,7 @@
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐875)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+*   [DevOps-Bash-tools (⭐969)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
 
 ## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

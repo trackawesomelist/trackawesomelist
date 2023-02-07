@@ -74,7 +74,7 @@
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐4.7k)](https://github.com/grocy/grocy)) `MIT` `PHP`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐4.8k)](https://github.com/grocy/grocy)) `MIT` `PHP`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

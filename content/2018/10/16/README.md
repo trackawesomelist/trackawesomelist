@@ -47,13 +47,13 @@
 
 ### Networking
 
-*   [TLS Channel (⭐146)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐150)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐4.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐4.4k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

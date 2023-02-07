@@ -14,7 +14,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [V·oogle (⭐42)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
+*   [V·oogle (⭐41)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
 
 ## [2. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

@@ -29,7 +29,7 @@
 
 ### Shell plugins
 
-*   [crun (⭐37)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+*   [crun (⭐38)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

@@ -19,7 +19,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [DataFormsJS JSX Loader (⭐157)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+*   [DataFormsJS JSX Loader (⭐159)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
 ## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 

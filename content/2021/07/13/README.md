@@ -20,8 +20,8 @@
 
 ### Utils
 
-*   [expect-playwright (⭐135)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐88)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐136)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐107)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [3. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐718)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐733)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
 ## [6. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐51k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐52k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Libraries / Community
 

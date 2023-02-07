@@ -16,7 +16,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Bunkerized-nginx (⭐2.7k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
+*   [Bunkerized-nginx (⭐2.8k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
 
 ## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

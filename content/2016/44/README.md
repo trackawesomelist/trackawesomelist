@@ -22,7 +22,7 @@
 
 ### Misc
 
-*   [Jot (⭐556)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐558)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [4. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -353,7 +353,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Applications
 
-*   [Fractalide (⭐790)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
+*   [Fractalide (⭐793)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 
 ## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -599,7 +599,7 @@ git blame -L <start>,<end>
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐540)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐541)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Instrumenting / Monitoring
 

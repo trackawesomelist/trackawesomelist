@@ -287,7 +287,7 @@
 
 ### CMS & Blogs
 
-*   [giada-www (⭐14)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
+*   [giada-www (⭐15)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 
 ### Websites / Tutorials
 

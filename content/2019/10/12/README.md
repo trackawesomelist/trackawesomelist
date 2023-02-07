@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2019
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Network Protocols
 
-*   [connect-proxy (⭐4)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
+*   [connect-proxy (⭐5)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
 
 ## [2. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
@@ -142,13 +142,7 @@
 *   [URLhaus](https://urlhaus.abuse.ch/) - A project from abuse.ch with the goal
     of sharing malicious URLs that are being used for malware distribution.
 
-## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### System and Customization
-
-*   [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - Set a different background for each monitor.
-
-## [13. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Code
 
@@ -158,13 +152,13 @@
 
 *   [Alcali](https://alcali.dev/) - A web based tool for monitoring and administrating Saltstack Salt.
 
-## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
 *   [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 
-## [15. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 

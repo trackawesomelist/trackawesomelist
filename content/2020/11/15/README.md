@@ -32,7 +32,7 @@
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Unit Test, Testing / Other / unknown licence
+### Unit Test, Testing / MIT
 
 *   [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
     language.  It is loosely modelled after JUnit and some ideas from AUnit.

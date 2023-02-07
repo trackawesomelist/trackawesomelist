@@ -16,7 +16,7 @@
 
 ### CLI
 
-*   [jbock (⭐72)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
+*   [jbock (⭐75)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
 
 ### Utility / Mocking
 

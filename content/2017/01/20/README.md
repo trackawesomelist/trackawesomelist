@@ -36,7 +36,7 @@
 
 ### Tools / Web App
 
-*   [SassMe (⭐56)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
+*   [SassMe (⭐57)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 
 ### Articles / Web App
 

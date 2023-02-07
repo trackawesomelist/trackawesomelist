@@ -74,11 +74,11 @@
 
 ### Software / Automation
 
-*   [Accelerated Text (⭐664)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐664)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
+*   [Accelerated Text (⭐668)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐668)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
 
 ### Software / Time Tracking
 
-*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐656)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
+*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐671)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
 ---
 

@@ -22,7 +22,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐456)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐472)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -33,7 +33,7 @@
 ### Utils
 
 *   [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
-*   [query-selector-shadow-dom (⭐191)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
+*   [query-selector-shadow-dom (⭐196)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -67,7 +67,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Visualizations
 
-*   [All Transit](https://all-transit.com) - Interactive GTFS route and schedule animation (for U.S. cities) using Mapbox GL JS, Deck.gl and Transitland. Github repository [here (⭐20)](https://github.com/kylebarron/all-transit).
+*   [All Transit](https://all-transit.com) - Interactive GTFS route and schedule animation (for U.S. cities) using Mapbox GL JS, Deck.gl and Transitland. Github repository [here (⭐22)](https://github.com/kylebarron/all-transit).
 
 ## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -128,7 +128,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐314)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐343)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -150,7 +150,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Related
 
-*   [Awesome CLI (⭐368)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐373)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [15. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -178,7 +178,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Projects
 
-*   [caniuse.rs (⭐153)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐154)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 
 ## [18. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

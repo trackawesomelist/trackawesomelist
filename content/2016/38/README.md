@@ -405,7 +405,7 @@ git log --show-notes='*'
 
 ### GTFS Libraries / Python
 
-*   [gtfslib-python (⭐41)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
+*   [gtfslib-python (⭐42)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
 
 ## [38. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -431,7 +431,7 @@ git log --show-notes='*'
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐505)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐510)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 

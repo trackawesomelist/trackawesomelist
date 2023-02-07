@@ -16,7 +16,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐69)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [3. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
@@ -36,13 +36,13 @@
 
 *   [Debanding Material Shader (⭐22)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
 *   [Dijkstra map for Godot (⭐60)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
-*   [Discord.gd (⭐88)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
+*   [Discord.gd (⭐90)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
-*   [Relayboard Control (⭐2)](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
+*   [Relayboard Control (⭐3)](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
 
 ## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [TouK/krush (⭐232)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
+*   [TouK/krush (⭐236)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
 
 ## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

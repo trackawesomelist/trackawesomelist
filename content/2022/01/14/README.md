@@ -210,7 +210,7 @@
 
 ### Applications
 
-*   [zellij (⭐9.5k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
+*   [zellij (⭐9.7k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
 
 ## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -244,7 +244,7 @@
 
 ### Articles and Presentations / Hardware Offload
 
-*   [OpenCSD eBPF SSD offloading (⭐31)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
+*   [OpenCSD eBPF SSD offloading (⭐34)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -256,19 +256,19 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-babel (⭐18)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
+*   [vite-plugin-babel (⭐19)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 
 ## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Modules / Godot 4.0
 
-*   [FMOD GD4 (⭐11)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
+*   [FMOD GD4 (⭐13)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
 
 ## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [pipe-viewer (⭐224)](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
+*   [pipe-viewer (⭐251)](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
 
 ## [13. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 

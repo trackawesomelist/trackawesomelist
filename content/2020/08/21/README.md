@@ -16,7 +16,7 @@
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐3.7k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Scikit-Opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 
 ## [3. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Official Resources
 
-*   [Awesome Vue (⭐67k)](https://github.com/vuejs/awesome-vue)
+*   [Awesome Vue (⭐68k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐2.8k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Icônes (⭐2.9k)](https://github.com/antfu/icones) - Icon explorer with instant search.
 *   [Awesome CN Café (⭐64)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 *   [Todo Example (⭐25)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
@@ -70,11 +70,11 @@
 
 ### Contents / Business
 
-*   [Minsk8 (⭐53)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
+*   [Minsk8 (⭐55)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 
 ### Contents / Finance
 
-*   [Money Tracker (⭐46)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
+*   [Money Tracker (⭐47)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 

@@ -44,7 +44,7 @@
 ### Debug
 
 *   [Catch2 (⭐16k)](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD. \[BSL-1.0]
-*   [CppUTest (⭐1.1k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
+*   [CppUTest (⭐1.2k)](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
 
 ### Networking
 
@@ -59,7 +59,7 @@
 
 ### Static Code Analysis
 
-*   [include-what-you-use (⭐3.1k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
+*   [include-what-you-use (⭐3.2k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 
 ## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 

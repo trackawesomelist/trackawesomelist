@@ -17,9 +17,9 @@
 ### Go / Erlang
 
 *   [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
-*   [Gopencils (⭐438)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
+*   [Gopencils (⭐440)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 *   [Neutrino (⭐133)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
-*   [Sleepy (⭐679)](https://github.com/dougblack/sleepy) - REST for go.
+*   [Sleepy (⭐678)](https://github.com/dougblack/sleepy) - REST for go.
 
 ### Haskell / Erlang
 
@@ -68,7 +68,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐42k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
+*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐43k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 ## [7. Typography](/content/deanhume/typography/README.md)
 

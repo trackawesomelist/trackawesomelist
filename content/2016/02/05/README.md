@@ -141,11 +141,11 @@ Webpage: <http://hanahaus.com/>
 
 ### Documentation
 
-*   [bureaucrat (⭐321)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐323)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
-*   [hello\_phoenix (⭐131)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
+*   [hello\_phoenix (⭐130)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
 
 ### Framework Components
 
@@ -153,7 +153,7 @@ Webpage: <http://hanahaus.com/>
 
 ### ORM and Datamapping
 
-*   [mongodb (⭐543)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐544)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 
 ### Protocols
 
@@ -173,8 +173,8 @@ Webpage: <http://hanahaus.com/>
 
 ### Rust / General-Purpose Machine Learning
 
-*   [deeplearn-rs (⭐199)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐544)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [deeplearn-rs (⭐201)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+*   [rustlearn (⭐553)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ---
 

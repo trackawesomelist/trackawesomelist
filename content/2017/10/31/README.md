@@ -88,9 +88,9 @@ Webpage: <http://frenesicafe.com>
 
 ## [11. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Cheatsheets
+### Cheatsheets / Misc
 
-*   [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email
+*   [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email.
 
 ---
 

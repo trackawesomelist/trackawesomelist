@@ -10,9 +10,9 @@
 
 ### Overview / YouTube
 
-*   [youtube-local (⭐264)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
-*   [yt-local](https://git.sr.ht/\~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐264)](https://github.com/user234683/youtube-local))
-*   [SkyTube (⭐1.7k)](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
+*   [youtube-local (⭐312)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
+*   [yt-local](https://git.sr.ht/\~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐312)](https://github.com/user234683/youtube-local))
+*   [SkyTube (⭐1.8k)](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
 
 ## [2. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Contents / Social Network
 
-*   [Fedi (⭐97)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+*   [Fedi (⭐108)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -50,14 +50,14 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clath (⭐33)](https://github.com/BnMcGn/clath) - a single sign-on
+*   [clath (⭐35)](https://github.com/BnMcGn/clath) - a single sign-on
     middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
     and OpenID. At the time of writing, it supports authentication from
     Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [shcl (⭐277)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [shcl (⭐281)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Apps / Third-party APIs
 

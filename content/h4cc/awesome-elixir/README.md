@@ -6,11 +6,17 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Feb 07, 2023](/content/2023/02/07/README.md)
+
+### Logging
+
+*   [ecto\_dev\_logger (⭐124)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
+
 ## [Feb 04, 2023](/content/2023/02/04/README.md)
 
 ### Actors
 
-*   [poolex](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
+*   [poolex (⭐5)](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
 
 ## [Jan 25, 2023](/content/2023/01/25/README.md)
 

@@ -127,11 +127,11 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐218)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐220)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ### Software / Task Management & To-do Lists
 
-*   [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code (⭐94)](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
+*   [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code (⭐95)](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -190,9 +190,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML/DL project template (⭐1k)](https://github.com/PyTorchLightning/deep-learning-project-template)
+*   [ML/DL project template (⭐1.1k)](https://github.com/PyTorchLightning/deep-learning-project-template)
 *   [PyTorch Lightning (⭐21k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
-*   [PyTorch Lightning Bolts (⭐1.4k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
+*   [PyTorch Lightning Bolts (⭐1.5k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 *   [Determined (⭐2k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 ## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
@@ -363,7 +363,7 @@
 
 ### Tools
 
-*   [Atlas toolkit (⭐215)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐216)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
 ## [25. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -398,13 +398,13 @@
 
 ### Tools
 
-*   [MangoHud (⭐4.3k)](https://github.com/flightlessmango/MangoHud) - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. \[MIT]
+*   [MangoHud (⭐4.4k)](https://github.com/flightlessmango/MangoHud) - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. \[MIT]
 
 ## [28. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Health and Fitness
 
-*   [Covid-Care (⭐8)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
+*   [Covid-Care (⭐10)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
 
 ### Contents / Personalization
 
@@ -526,11 +526,11 @@
 ### Components & Libraries / UI Components
 
 *   [vue-ultimate-skeleton-cards (⭐87)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
-*   [vue-router-tab (⭐424)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-router-tab (⭐423)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ### Components & Libraries / Frameworks
 
-*   [Wave UI (⭐432)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+*   [Wave UI (⭐436)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 ## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -876,13 +876,13 @@
 ### C, C++
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [cl-ssh-keys (⭐11)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-ssh-keys (⭐12)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-bcrypt (⭐10)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   see also [cl-pass (⭐25)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
-*   [burgled-batteries (⭐106)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
+*   [burgled-batteries (⭐107)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -907,10 +907,10 @@
 *   Python
     *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
     *   [by @prakhar1989 (⭐2.9k)](https://github.com/prakhar1989/Algorithms)
-    *   [by @laurentluce (⭐265)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐51)](https://github.com/nbro/ands)
+    *   [by @laurentluce (⭐264)](https://github.com/laurentluce/python-algorithms)
+    *   [by @nbro (⭐50)](https://github.com/nbro/ands)
     *   [by @keon (⭐22k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐602)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐615)](https://github.com/vinta/fuck-coding-interviews)
 
 ## [51. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -959,7 +959,7 @@
 
 ### GUI Development
 
-*   [crystal-imgui (⭐52)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐54)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ## [56. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -1101,7 +1101,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐571)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐574)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [67. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 

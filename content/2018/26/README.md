@@ -167,7 +167,7 @@
 
 ### Media
 
-*   [CSCore (⭐1.9k)](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
+*   [CSCore (⭐2k)](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -234,11 +234,11 @@
 
 ### Frameworks / Runtimes
 
-*   [Flogo (⭐2.1k)](https://github.com/TIBCOSoftware/flogo) - Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
+*   [Flogo (⭐2.2k)](https://github.com/TIBCOSoftware/flogo) - Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 
 ### CSharp
 
-*   [Microdot (⭐1.4k)](https://github.com/gigya/microdot) - Open source .NET microservices framework.
+*   [Microdot (⭐1.5k)](https://github.com/gigya/microdot) - Open source .NET microservices framework.
 *   [Orleans](https://dotnet.github.io/orleans/) - Provides a straightforward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
 ### Node.js / Scala
@@ -436,7 +436,7 @@
 
 ### Libraries / JavaScript
 
-*   [CASL Mongoose (⭐4.5k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐4.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
 ## [33. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -569,7 +569,7 @@
 
 ### Development Tools
 
-*   [Vert.x health check (⭐10)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
+*   [Vert.x health check (⭐11)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
 ## [45. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -596,7 +596,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐764)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐766)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -613,10 +613,6 @@
 *   [tools.trace (⭐339)](https://github.com/clojure/tools.trace)
 
 ## [49. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Internet and Networking
-
-*   [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 
 ### Office
 

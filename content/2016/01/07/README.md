@@ -10,7 +10,7 @@
 
 ### C++
 
-*   [Enduro/X (⭐136)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+*   [Enduro/X (⭐138)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 
 ## [2. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐186)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐193)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 

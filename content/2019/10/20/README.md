@@ -33,7 +33,7 @@
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Text Modes / Other / unknown licence
+### Text Modes / MIT
 
 *   [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
@@ -65,7 +65,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐303)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐304)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -73,7 +73,7 @@
 
 *   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐17k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
 *   [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙 (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-*   [I18next](https://www.i18next.com/) - [🐙 (⭐6.4k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
+*   [I18next](https://www.i18next.com/) - [🐙 (⭐6.6k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
 *   [Redux Saga](https://redux-saga.js.org/) - [🐙 (⭐22k)](https://github.com/redux-saga/redux-saga) - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
 
 ### GCP Kubernetes Stack   [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
@@ -151,7 +151,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐79)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐81)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 

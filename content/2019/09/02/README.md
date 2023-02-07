@@ -66,13 +66,13 @@
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐394)](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
+*   [animatplot (⭐396)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [Verovio (⭐518)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐525)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 

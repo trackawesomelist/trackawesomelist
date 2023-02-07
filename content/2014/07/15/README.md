@@ -37,10 +37,10 @@
 ### Python / Data Analysis / Data Visualization
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
-*   [PyMC (⭐7.2k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
+*   [PyMC (⭐7.3k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 *   [zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
-*   [SymPy (⭐9.9k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-*   [statsmodels (⭐8k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
+*   [SymPy (⭐10k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [statsmodels (⭐8.1k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
@@ -64,7 +64,7 @@
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐151k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐153k)](https://github.com/vinta/awesome-python)
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [crystal-web-framework-stars (⭐54)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
+*   [crystal-web-framework-stars (⭐55)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
 
 ## [3. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/README.md)
 
@@ -55,7 +55,7 @@
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐391)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐392)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐795)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [FiberTaskingLib (⭐802)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
 
 ### Debug
 
-*   [Nonius (⭐339)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
+*   [Nonius (⭐346)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

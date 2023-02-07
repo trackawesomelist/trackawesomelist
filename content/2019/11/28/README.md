@@ -57,7 +57,7 @@
 
 ### Utilities
 
-*   [Vert.x CronUtils (⭐11)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
+*   [Vert.x CronUtils (⭐13)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -162,7 +162,7 @@
 
 ### Extensions
 
-*   [next-iron-session (⭐2.2k)](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data
+*   [next-iron-session (⭐2.3k)](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data
 *   [flow-middleware (⭐16)](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
 
 ## [19. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -200,7 +200,7 @@
 
 ### Development / Docker
 
-*   [docker-shell (⭐356)](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
+*   [docker-shell (⭐362)](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
 
 ## [23. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
@@ -297,7 +297,7 @@
 
 ### CMS & Blogs
 
-*   [Hummingbird CMS (⭐5)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
+*   [Hummingbird CMS (⭐6)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
 ## [33. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -390,7 +390,7 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Vlime (⭐378)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
+*   [Vlime (⭐382)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
 
 ## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -608,7 +608,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Idea Re-Vue (⭐14)](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
-*   [VueFront (⭐378)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
+*   [VueFront (⭐377)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 *   [MQTTX (⭐2.4k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 *   [super.ba (⭐3)](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 
@@ -637,7 +637,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐456)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐472)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [45. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -648,7 +648,7 @@
 ### Utils
 
 *   [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
-*   [query-selector-shadow-dom (⭐191)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
+*   [query-selector-shadow-dom (⭐196)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 
 ## [46. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -687,11 +687,11 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Visualizations
 
-*   [All Transit](https://all-transit.com) - Interactive GTFS route and schedule animation (for U.S. cities) using Mapbox GL JS, Deck.gl and Transitland. Github repository [here (⭐20)](https://github.com/kylebarron/all-transit).
+*   [All Transit](https://all-transit.com) - Interactive GTFS route and schedule animation (for U.S. cities) using Mapbox GL JS, Deck.gl and Transitland. Github repository [here (⭐22)](https://github.com/kylebarron/all-transit).
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [IBI Data Tools (⭐88)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐26)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐131)](https://github.com/conveyal/gtfs-editor).)
+*   [IBI Data Tools (⭐92)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐26)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐131)](https://github.com/conveyal/gtfs-editor).)
 
 ## [48. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -769,7 +769,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐314)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐343)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -791,16 +791,16 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Testing
 
-*   [Testing (⭐1.1k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+*   [Testing (⭐1.2k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 *   [Visual Regression Testing (⭐1.8k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐862)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Selenium (⭐869)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
 *   [Appium (⭐392)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 *   [TAP (⭐592)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐584)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [JMeter (⭐587)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ### Related
 
-*   [Awesome CLI (⭐368)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐373)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [56. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
@@ -828,7 +828,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Projects
 
-*   [caniuse.rs (⭐153)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐154)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 *   [Rust electron yew demo (⭐17)](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
 
 ### Tooling / Frameworks

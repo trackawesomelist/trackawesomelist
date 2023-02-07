@@ -44,7 +44,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [react-demo-tab-cli (⭐47)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
+*   [react-demo-tab-cli (⭐48)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

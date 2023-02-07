@@ -20,11 +20,11 @@
 
 ### Cryptography
 
-*   [libhydrogen (⭐457)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐465)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Serialization
 
-*   [YAS (⭐588)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐601)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Other Tools / Telegram
 
-*   [Zen (⭐468)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+*   [Zen (⭐470)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

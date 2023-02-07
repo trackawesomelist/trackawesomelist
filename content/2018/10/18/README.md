@@ -175,7 +175,7 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐144)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [Peartree (⭐189)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
 *   [transitr (⭐18)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
@@ -190,7 +190,7 @@ Topics: Accessibility\
 
 ## [9. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Frameworks
+### Frameworks / Misc
 
 *   [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
 

@@ -32,28 +32,28 @@
 
 ### Samples
 
-*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐862)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
+*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐872)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
 ## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### React Firebase starter   [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
 *   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐19k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐82k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
-*   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐17k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
+*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐84k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+*   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐18k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
 
 ### MEVN: Mongo Express Vue Node   [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 
-*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐59k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐91k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐60k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ### React starter kit   [↗](https://awesomestacks.dev/react-starter-kit) / Resources
 
-*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐91k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ### vue-starter   [↗](https://awesomestacks.dev/vue-starter) / Resources
 
-*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐44k)](https://github.com/prettier/prettier) - An opinionated code formatter.
+*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐45k)](https://github.com/prettier/prettier) - An opinionated code formatter.
 
 ## [6. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐671)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐670)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 

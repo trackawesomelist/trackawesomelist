@@ -64,11 +64,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐33)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
+*   [gtfs-via-postgres (⭐39)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ### Other multimodal data formats / Ruby
 
-*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐75)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐80)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
 ## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐174)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐175)](https://github.com/change/linguist) - Elixir Internationalization library.
 
 ## [12. Awesome React](/content/enaqx/awesome-react/README.md)
 

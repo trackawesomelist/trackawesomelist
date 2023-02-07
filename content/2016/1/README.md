@@ -54,7 +54,6 @@
 
 ### PaaS
 
-*   [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
 *   [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
 
 ### BaaS
@@ -139,7 +138,7 @@
 
 ### Image Processing
 
-*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐309)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -172,7 +171,7 @@
 
 ### Awesome ClojureScript / Web Framework & Template
 
-*   [Clops (⭐173)](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
+*   [Clops (⭐172)](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 
 ## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
@@ -789,7 +788,7 @@
 ### C++
 
 *   [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
-*   [Enduro/X (⭐136)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+*   [Enduro/X (⭐138)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 
 ### Node.js / Scala
 
@@ -805,7 +804,7 @@
 
 ### Storage / Scala
 
-*   [Secure Scuttlebutt (⭐62)](https://github.com/ssbc/docs) - P2P database of message-feeds.
+*   [Secure Scuttlebutt (⭐61)](https://github.com/ssbc/docs) - P2P database of message-feeds.
 
 ## [28. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -883,7 +882,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐491)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐493)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -893,7 +892,7 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐186)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐193)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 

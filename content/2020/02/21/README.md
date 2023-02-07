@@ -61,7 +61,7 @@
 
 ### For Developers
 
-*   [mkdkr (⭐315)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+*   [mkdkr (⭐322)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

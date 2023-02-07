@@ -1,12 +1,50 @@
 # Awesome List Updates on Jan 26, 2023
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Math](/content/rossant/awesome-math/README.md)
+## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Email Assistant
+
+- Name: [Remail](https://remail.ai/)
+
+  Title: Write Emails 10X Faster.
+
+  Description: Remail is a Chrome extension for gmail that uses artificial intelligence to draft high quality email replies in seconds.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Plugins & Extensions
+
+- Name: [Merlin](http://merlin.foyer.work)
+
+  Title: Merlin.
+
+  Description: Free Open AI's ChatGPT powered extension to use anywhere!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Other
+
+- Name: [Pitchgrade](http://pitchgrade.com)
+
+  Title: Pitchgrade.
+
+  Description: A pitch deck is a presentation that a company uses to pitch to investors. It goes over the company's business model, financial projections, and other key metrics that investors would want to see.
+
+  Offer Free Version: :grey\_question:
+
+
+
+## [2. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Youtube Series
 
@@ -28,7 +66,7 @@
 *   [The Math District](https://www.youtube.com/@TheMathDistrict)
 *   [Mathematical Monk](https://www.youtube.com/@mathematicalmonk)
 
-## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Development / Engines
 
@@ -37,7 +75,7 @@
 *   [Rogue Engine](https://rogueengine.io/) - An HTML5 Game Engine based on Three.js and TypeScript.
     *   [Official Documentation](https://rogueengine.io/docs/manual/getting-started/installation/)
 
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vanilla
 
@@ -47,26 +85,26 @@
 
 *   [vite-reactts18-chakra-jest-husky (⭐31)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
 
-## [4. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+## [5. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ### Featured
 
 *   [ChatGPT cheat sheet](https://drive.google.com/file/d/1OcHn2NWWnLGBCBLYsHg7xdOMVsehiuBK/view)
 *   [DuplexGPT - Book restaurant reservations, barber shop appointments, and doctor consultations without making the call](https://twitter.com/theaievangelist/status/1618319581646565376)
 
-## [5. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+## [6. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Collection / Windows
 
 *   [PersistenceSniper (⭐1.1k)](https://github.com/last-byte/PersistenceSniper) - Powershell module to hunt for persistence implanted in Windows machines.
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Image processing
 
 *   [Pluto (⭐14)](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -76,7 +114,7 @@
 
 *   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -84,9 +122,9 @@
 
 ### Software / Document Management
 
-*   [Paperless-ngx](https://docs.paperless-ngx.com/) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐5.4k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python`
+*   [Paperless-ngx](https://docs.paperless-ngx.com/) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐5.7k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python`
 
-## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Tools / Ironsworn
 
@@ -96,23 +134,23 @@
 
 *   [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign) - Settlement mechanics for Ironsworn
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [Blazor United prototype](https://www.youtube.com/watch?v=48G_CEGXZZM) - ![duration](https://img.shields.io/badge/Duration:%20-13%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 24, 2023 - A quick look at some of the experiments we're considering for Blazor in .NET 8.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [mrjones2014/nvim-ts-rainbow (⭐121)](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow :rainbow: delimiters using tree-sitter :rainbow:.
 
-## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.1k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
@@ -120,20 +158,20 @@
 *   [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
 *   [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [zcmder (⭐0)](https://github.com/bwpge/zcmder) - inspired by [Cmder](https://cmder.app/) with decorators for `git` information, current directory and root status.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Free Courses
 
 *   [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 *   [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W\&B
 
-## [15. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [16. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### CMS & Blogs
 
@@ -141,4 +179,5 @@
 
 ---
 
+- Prev: [Jan 27, 2023](/content/2023/01/27/README.md)
 - Next: [Jan 25, 2023](/content/2023/01/25/README.md)

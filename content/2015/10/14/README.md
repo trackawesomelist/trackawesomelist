@@ -29,7 +29,6 @@
 ### REST / Scala
 
 *   [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
-*   [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
 
 ## [5. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

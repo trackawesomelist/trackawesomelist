@@ -27,17 +27,13 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐318)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐320)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐179)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
-
-### Applications / Web
-
-*   [WildDuck Mail Server](https://wildduck.email/) - Scalable high availability email server that uses MongoDB for email storage
+*   [mongotail (⭐180)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 

@@ -358,10 +358,6 @@
 
 ## [26. Awesome](/content/craftcms/awesome/week/README.md)
 
-### Community
-
-*   [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
-
 ### Articles / Security
 
 *   [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
@@ -438,7 +434,7 @@
 ### Assembly Manipulation
 
 *   [Fody (⭐3.9k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
-*   [ILRepack (⭐967)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
+*   [ILRepack (⭐971)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 
 ### CLI
 
@@ -446,7 +442,7 @@
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐538)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
 ## [28. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 

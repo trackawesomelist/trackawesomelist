@@ -48,7 +48,7 @@
 ### Web / Playground
 
 *   :octocat: [excaliburjs/Excalibur (⭐1.3k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐359)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [Bobril (⭐361)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -84,19 +84,19 @@
 
 ### UI Automation
 
-*   [Atata (⭐445)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐447)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   [Laugh Engine (⭐384)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
-*   [TLVulkanRenderer (⭐90)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
+*   [Laugh Engine (⭐383)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
+*   [TLVulkanRenderer (⭐91)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
 *   [Vulkan-Hpp Samples (⭐304)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
 
 ### Related lists
 
-*   [awesome (⭐231k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐234k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.

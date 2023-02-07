@@ -10,11 +10,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Apprise (⭐7.3k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker`
+*   [Apprise (⭐7.4k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Retrospring (⭐122)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐125)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 
 ### Software / Games
 
@@ -23,11 +23,11 @@
 
 ### Software / Miscellaneous
 
-*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐294)](https://github.com/magicbug/cloudlog)) `MIT` `PHP`
+*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐295)](https://github.com/magicbug/cloudlog)) `MIT` `PHP`
 
 ### Software / Note-taking & Editors
 
-*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Souce Code (⭐305)](https://github.com/fr0tt/benotes)) `MIT` `PHP`
+*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Souce Code (⭐371)](https://github.com/fr0tt/benotes)) `MIT` `PHP`
 
 ### Software / Wikis
 

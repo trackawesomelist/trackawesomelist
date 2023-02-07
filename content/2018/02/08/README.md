@@ -199,7 +199,7 @@ TBD - PR Welcome!
 
 ### Resources / Examples
 
-*   [Skeleton Vue+TypeScript (⭐25)](https://github.com/SierraSoftworks/vue-template) - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
+*   [Skeleton Vue+TypeScript (⭐26)](https://github.com/SierraSoftworks/vue-template) - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
 
 ---
 

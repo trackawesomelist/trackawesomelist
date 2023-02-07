@@ -57,7 +57,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
     *   [cargo-do](https://crates.io/crates/cargo-do) — run multiple cargo commands in a row [![build badge](https://api.travis-ci.org/pwoolcoc/cargo-do.svg?branch=master)](https://travis-ci.org/pwoolcoc/cargo-do)
     *   [cargo-ebuild](https://crates.io/crates/cargo-ebuild) — cargo extension that can generate ebuilds using the in-tree eclasses [![build badge](https://api.travis-ci.org/cardoe/cargo-ebuild.svg?branch=master)](https://travis-ci.org/cardoe/cargo-ebuild)
     *   [cargo-edit](https://crates.io/crates/cargo-edit) — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line [![build badge](https://api.travis-ci.org/killercup/cargo-edit.svg?branch=master)](https://travis-ci.org/killercup/cargo-edit)
-    *   [cargo-generate (⭐1.2k)](https://github.com/cargo-generate/cargo-generate) A generator of a rust project by leveraging a pre-existing git repository as a template.
+    *   [cargo-generate (⭐1.3k)](https://github.com/cargo-generate/cargo-generate) A generator of a rust project by leveraging a pre-existing git repository as a template.
     *   [cargo-graph](https://crates.io/crates/cargo-graph) — updated fork of `cargo-dot` with additional features. Unmaintained, see `cargo-deps` [![build badge](https://api.travis-ci.org/kbknapp/cargo-graph.svg?branch=master)](https://travis-ci.org/kbknapp/cargo-graph)
     *   [cargo-info](https://crates.io/crates/cargo-info) — queries crates.io for crates details from command line [![build badge](https://api.travis-ci.org/imp/cargo-info.svg?branch=master)](https://travis-ci.org/imp/cargo-info)
     *   [cargo-license](https://crates.io/crates/cargo-license) — A cargo subcommand to quickly view the licenses of all dependencies. [![build badge](https://api.travis-ci.org/onur/cargo-license.svg?branch=master)](https://travis-ci.org/onur/cargo-license)
@@ -66,7 +66,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
     *   [cargo-modules](https://crates.io/crates/cargo-modules) — A cargo plugin for showing a tree-like overview of a crate's modules. [![build badge](https://api.travis-ci.org/regexident/cargo-modules.svg?branch=master)](https://travis-ci.org/regexident/cargo-modules)
     *   [cargo-multi](https://crates.io/crates/cargo-multi) — runs specified cargo command on multiple crates [![build badge](https://api.travis-ci.org/imp/cargo-multi.svg?branch=master)](https://travis-ci.org/imp/cargo-multi)
     *   [cargo-outdated](https://crates.io/crates/cargo-outdated) — displays when newer versions of Rust dependencies are available, or out of date [![build badge](https://api.travis-ci.org/kbknapp/cargo-outdated.svg?branch=master)](https://travis-ci.org/kbknapp/cargo-outdated)
-    *   [cargo-rdme (⭐42)](https://github.com/orium/cargo-rdme) \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] — Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
+    *   [cargo-rdme (⭐47)](https://github.com/orium/cargo-rdme) \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] — Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
     *   [cargo-release](https://crates.io/crates/cargo-release) — tool for releasing git-managed cargo project, build, tag, publish, doc and push [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml)
     *   [cargo-script](https://crates.io/crates/cargo-script) — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem [![build badge](https://api.travis-ci.org/DanielKeep/cargo-script.svg?branch=master)](https://travis-ci.org/DanielKeep/cargo-script)
     *   [cargo-update](https://crates.io/crates/cargo-update) — cargo subcommand for checking and applying updates to installed executables [![build badge](https://api.travis-ci.org/nabijaczleweli/cargo-update.svg?branch=master)](https://travis-ci.org/nabijaczleweli/cargo-update)
@@ -427,49 +427,49 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 ### Contents / Communication
 
 *   [DroidKaigi2018-flutter (⭐515)](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
-*   [SpaceX GO (⭐779)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
+*   [SpaceX GO (⭐793)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
 ### Contents / Finance
 
-*   [Trace (⭐976)](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
-*   [Platypus Crypto (⭐177)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
+*   [Trace (⭐992)](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
+*   [Platypus Crypto (⭐178)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
 
 ### Contents / Games
 
-*   [Flip (⭐245)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
-*   [2048 (⭐260)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
+*   [Flip (⭐252)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
+*   [2048 (⭐271)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
 *   [TRex (⭐2)](https://github.com/renancaraujo/trex-flame) - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
-*   [Crush (⭐477)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
-*   [Slide Puzzle (⭐177)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
+*   [Crush (⭐489)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
+*   [Slide Puzzle (⭐176)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 
 ### Contents / Lifestyle
 
-*   [Beer-Me-Up (⭐468)](https://github.com/benoitletondor/Beer-Me-Up) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
+*   [Beer-Me-Up (⭐472)](https://github.com/benoitletondor/Beer-Me-Up) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 
 ### Contents / Media
 
-*   [Grey (⭐512)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
+*   [Grey (⭐515)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
 *   [InKino (⭐3.4k)](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
 *   [Music Player (⭐1.5k)](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
-*   [Cinematic (⭐865)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+*   [Cinematic (⭐868)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 
 ### Contents / News and Magazine
 
-*   [NewsBuzz (⭐544)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
+*   [NewsBuzz (⭐555)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
 
 ### Contents / Productivity
 
-*   [BookSearch (⭐509)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-*   [Taskist (⭐811)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
+*   [BookSearch (⭐514)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+*   [Taskist (⭐826)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
 *   [Trinity Orientation (⭐604)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 
 ### Contents / Social Network
 
-*   [Deer (⭐354)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+*   [Deer (⭐365)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 
 ### Contents / Tools
 
-*   [Flitter (⭐187)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+*   [Flitter (⭐186)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 
 ## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -491,7 +491,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Content Management Systems
 
-*   [Umbraco (⭐203)](https://github.com/umbraco-community/awesome-umbraco#readme)
+*   [Umbraco (⭐202)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
 ## [35. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
@@ -560,7 +560,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
 
-### Graphical User Interface / Other / unknown licence
+### Graphical User Interface / MIT
 
 *   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
@@ -568,7 +568,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Algorithms and Data structures
 
-*   [Algorithmia (⭐492)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
+*   [Algorithmia (⭐494)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 
 ### Application Frameworks
 
@@ -580,7 +580,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Documentation
 
-*   [DocNet (⭐233)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
+*   [DocNet (⭐234)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
 
 ### Event aggregator and messenger
 
@@ -592,18 +592,18 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Misc
 
-*   [Polly (⭐11k)](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
+*   [Polly (⭐12k)](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
 *   [Warden (⭐615)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 
 ### Queue
 
 *   [RestBus (⭐361)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
-*   [Confluent's .NET Client (⭐2.4k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
+*   [Confluent's .NET Client (⭐2.5k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
 *   [Brighter (⭐1.8k)](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
 
 ### Testing
 
-*   [Canopy (⭐496)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
+*   [Canopy (⭐498)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 
 ## [44. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 

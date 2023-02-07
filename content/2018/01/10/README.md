@@ -89,7 +89,7 @@
 
 ### HTTP
 
-*   [gun (⭐821)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐826)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

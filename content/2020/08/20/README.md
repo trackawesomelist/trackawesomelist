@@ -16,12 +16,12 @@
 
 ### Framework Components
 
-*   [graphql (⭐116)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql (⭐118)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
 *   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### Unofficial
 
-*   [crystal-koans (⭐32)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
+*   [crystal-koans (⭐34)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
 
 ## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 

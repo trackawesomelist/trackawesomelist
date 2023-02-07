@@ -62,7 +62,7 @@
 
 ### Algorithms and Data structures
 
-*   [parallel\_stream (⭐90)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
+*   [parallel\_stream (⭐91)](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 
 ### Community
 
@@ -92,7 +92,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
+*   [data-science-ipython-notebooks (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 
 ## [11. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -114,16 +114,6 @@
 ### Organizations
 
 *   [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
-
-## [11. Awesome Rest](/content/marmelab/awesome-rest/README.md)
-
-### Mocking / Symfony2
-
-*   [httpbin](http://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
-
-### Public REST APIs To Use In Tests / Symfony2
-
-*   [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
 
 ---
 

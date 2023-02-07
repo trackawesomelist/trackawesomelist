@@ -33,7 +33,7 @@
 *   Kotlin
     *   [design-patterns (⭐5.5k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 *   PHP
-    *   [humans (⭐36k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [humans (⭐37k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
 *   Ruby
     *   [design-patterns (⭐2.2k)](https://github.com/davidgf/design-patterns-in-ruby)
@@ -44,7 +44,7 @@
 
 ### General Architecture
 
-*   [system-design-primer (⭐205k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+*   [system-design-primer (⭐209k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ### Micro services & Distributed Systems
 
@@ -68,8 +68,8 @@
 
 ### Mobile
 
-*   [json-mop (⭐55)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐102)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [json-mop (⭐56)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐104)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -91,7 +91,7 @@
 
 ### Awesome ClojureScript / Client/Server Communication
 
-*   [cljs-ajax (⭐642)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
+*   [cljs-ajax (⭐653)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 
 ## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

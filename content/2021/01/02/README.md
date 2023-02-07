@@ -21,7 +21,7 @@
     *   [by @indy256 (⭐1.7k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
     *   [by @patmorin (⭐1.1k)](https://github.com/patmorin/ods)
-    *   [by @btjanaka (⭐2)](https://github.com/btjanaka/algorithm-problems)
+    *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -41,7 +41,7 @@
 ### Frameworks
 
 *   [n2o (⭐1.3k)](https://github.com/synrc/n2o) - Distributed Application Server.
-*   [nitro (⭐49)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+*   [nitro (⭐52)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 
 ### ORM and Datamapping
 
@@ -53,7 +53,7 @@
 
 ### Validations
 
-*   [form (⭐39)](https://github.com/synrc/form) - Document forms and validation library.
+*   [form (⭐40)](https://github.com/synrc/form) - Document forms and validation library.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -63,9 +63,9 @@
 
 ## [5. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools
+### Tools / Platform-specific tools
 
-*   [attranslate (⭐272)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐277)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Bindings
 
-*   [vulkan-zig (⭐192)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐197)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ---
 

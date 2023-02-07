@@ -25,7 +25,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [Litote/kmongo (⭐729)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+*   [Litote/kmongo (⭐734)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Image Processing
 
-*   [MagicScaler (⭐419)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
+*   [MagicScaler (⭐422)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

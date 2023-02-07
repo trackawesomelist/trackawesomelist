@@ -49,12 +49,12 @@
 
 ### Misc
 
-*   [Streams (⭐381)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+*   [Streams (⭐382)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 
 ### Source Generator
 
 *   [Awesome .NET Performance (⭐2.9k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
-*   [awesome-ddd (⭐9.5k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+*   [awesome-ddd (⭐9.6k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 ## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -221,7 +221,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐791)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐802)](https://github.com/nelson-brochado/understanding-math)
 
 ## [24. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -345,7 +345,7 @@
 
 ### Go Clients
 
-*   [resty (⭐7.1k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+*   [resty (⭐7.3k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -470,7 +470,7 @@ Webpage: <http://www.deysbreeker.nl/>
 *   [bottler (⭐38)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 *   [edeliver (⭐1.9k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐11)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
-*   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+*   [gatling (⭐501)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 *   [heroku-buildpack-elixir (⭐796)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video

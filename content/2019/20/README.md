@@ -304,7 +304,7 @@ Free
 
 ### Software / Communication - Social Networks and Forums
 
-*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐201)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
+*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐199)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
 *   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐333)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
 
 ### Software / Photo and Video Galleries
@@ -353,18 +353,18 @@ Free
 
 ### Contents / Finance
 
-*   [Bit Alarm (⭐148)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
+*   [Bit Alarm (⭐152)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
 
 ### Contents / Productivity
 
-*   [Flutter Todo (⭐104)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
-*   [Notes App (⭐347)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
+*   [Flutter Todo (⭐107)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
+*   [Notes App (⭐357)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
 *   [WhatTodo (⭐1k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 
 ### Contents / Tools
 
-*   [Wallpaper (⭐278)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
-*   [Zefyr (⭐2.1k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
+*   [Wallpaper (⭐280)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
+*   [Zefyr (⭐2.2k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 
 ## [38. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
@@ -577,11 +577,11 @@ Free
 
 ### Reflection
 
-*   [visit\_struct (⭐393)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
+*   [visit\_struct (⭐399)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
 
 ### Miscellaneous
 
-*   [PEGTL (⭐1.6k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
+*   [PEGTL (⭐1.7k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
 
 ### Build Systems
 
@@ -589,7 +589,7 @@ Free
 
 ### Other Awesome Projects
 
-*   [Awesome Modern C++ (⭐9.8k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
+*   [Awesome Modern C++ (⭐9.9k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 
 ## [42. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -609,7 +609,7 @@ Free
 
 ### Resources
 
-*   [gist-box (⭐80)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
+*   [gist-box (⭐81)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
 ## [44. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -649,22 +649,22 @@ Free
 
 *   [.NET (⭐16k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐538)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Development Environment
 
-*   [GitHub (⭐742)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+*   [GitHub (⭐748)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
     *   [Browser Extensions (⭐2.6k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
     *   [Cheat Sheet (⭐39k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
-    *   [Pinned Gists (⭐1.5k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+    *   [Pinned Gists (⭐1.6k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
 ### Media
 
-*   [Icons (⭐497)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+*   [Icons (⭐507)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 ### Learn
 
-*   [Roadmaps (⭐2.8k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐2.9k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

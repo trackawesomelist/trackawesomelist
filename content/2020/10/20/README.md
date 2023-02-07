@@ -116,7 +116,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-toaster (⭐155)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
+*   [vue-toaster (⭐156)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -185,7 +185,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐726)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐728)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

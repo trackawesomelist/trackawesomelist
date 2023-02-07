@@ -17,7 +17,7 @@
 *   [react-lazyload (⭐5.7k)](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 *   [react-infinite-grid (⭐202)](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
 *   [react-infinite (⭐2.7k)](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
-*   [react-lazy-load (⭐920)](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
+*   [react-lazy-load (⭐924)](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
 *   [react-virtualized (⭐25k)](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 
 ### Infinite Scroll
@@ -26,7 +26,7 @@
 
 ### Overlay
 
-*   [react-aria-modal (⭐981)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
+*   [react-aria-modal (⭐984)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 *   [react-modal (⭐7.1k)](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 *   [react-skylight (⭐569)](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
 
@@ -51,34 +51,34 @@
 ### Tabs
 
 *   [react-tabs (⭐2.9k)](https://github.com/reactjs/react-tabs) - React tabs component.
-*   [react-tabtab (⭐385)](https://github.com/ctxhou/react-tabtab) - React, tabs.
+*   [react-tabtab (⭐386)](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
 ### Loader
 
-*   [react-redux-loading-bar (⭐920)](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
+*   [react-redux-loading-bar (⭐921)](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 
 ### Carousel
 
 *   [react-id-swiper (⭐1.4k)](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
-*   [react-responsive-carousel (⭐2.3k)](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
+*   [react-responsive-carousel (⭐2.4k)](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 *   [react-slick (⭐11k)](https://github.com/akiran/react-slick) - React carousel component.
 
 ### Collapse
 
-*   [react-accessible-accordion (⭐745)](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
+*   [react-accessible-accordion (⭐746)](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
 
 ### Chart
 
 *   [chartify (⭐685)](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
-*   [essential js 2 charts (⭐273)](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
-*   [react-chartist (⭐525)](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
+*   [essential js 2 charts (⭐274)](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
+*   [react-chartist (⭐524)](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 *   [react-d3-components (⭐1.6k)](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 *   [react-dazzle (⭐1.4k)](https://github.com/Raathigesh/Dazzle) - Dashboards made easy in React JS.
 *   [react-google-charts (⭐1.4k)](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
-*   [react-highcharts (⭐1.3k)](https://github.com/kirjs/react-highcharts) - React-highcharts.
+*   [react-highcharts (⭐1.2k)](https://github.com/kirjs/react-highcharts) - React-highcharts.
 *   [react-sigmajs (⭐247)](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
 *   [react-sparklines (⭐2.8k)](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
-*   [react-timeseries-charts (⭐808)](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
+*   [react-timeseries-charts (⭐811)](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 *   [react-vis (⭐8.4k)](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 *   [recharts (⭐20k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 *   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - Data viz for React.
@@ -97,46 +97,46 @@
 *   [react-dailymotion (⭐14)](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
 *   [react-soundplayer (⭐1.5k)](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 *   [react-youtube (⭐1.6k)](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
-*   [video-react (⭐2.4k)](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
+*   [video-react (⭐2.5k)](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
 
 ### Map
 
-*   [google-map-react (⭐5.9k)](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
+*   [google-map-react (⭐6k)](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
 *   [react-geosuggest (⭐1k)](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
 *   [react-leaflet (⭐4.4k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
-*   [react-map-gl (⭐6.9k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
+*   [react-map-gl (⭐7k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 *   [react-mapbox-gl (⭐1.8k)](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
 
 ### Time / Date / Age
 
-*   [react-timeago (⭐949)](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
+*   [react-timeago (⭐948)](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 
 ### Photo / Image
 
-*   [react-compare-image (⭐248)](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
+*   [react-compare-image (⭐251)](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 *   [react-image-gallery (⭐3.3k)](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
 *   [react-intense (⭐169)](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close.
-*   [react-svg-pan-zoom (⭐642)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
+*   [react-svg-pan-zoom (⭐644)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 
 ### Icons
 
-*   [react-icons (⭐9k)](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
+*   [react-icons (⭐9.1k)](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
 
 ### Paginator
 
-*   [react-paginate (⭐2.4k)](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
+*   [react-paginate (⭐2.5k)](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
 
 ### Markdown Viewer
 
-*   [react-markdown (⭐9.7k)](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
+*   [react-markdown (⭐9.8k)](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
 
 ### Miscellaneous
 
 *   [react-blur (⭐439)](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 *   [react-facebook (⭐740)](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
 *   [react-filter-control (⭐34)](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
-*   [react-joyride (⭐5.1k)](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
-*   [react-resizable-and-movable (⭐3.1k)](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
+*   [react-joyride (⭐5.2k)](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
+*   [react-resizable-and-movable (⭐3.2k)](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
 *   [react-resizable-box (⭐1.9k)](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
 *   [react-split-pane (⭐2.9k)](https://github.com/tomkp/react-split-pane) - React split-pane component.
 *   [typography (⭐3.8k)](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
@@ -148,8 +148,8 @@
 *   [react-datepicker (⭐7k)](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 *   [react-datetime (⭐2k)](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 *   [react-day-picker (⭐4.8k)](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
-*   [react-flatpickr (⭐557)](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
-*   [react-yearly-calendar (⭐552)](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
+*   [react-flatpickr (⭐558)](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
+*   [react-yearly-calendar (⭐554)](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 
 ### Form Components / Input Types
 
@@ -162,7 +162,7 @@
 
 ### Form Components / Select
 
-*   [react-aria-menubutton (⭐437)](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button.
+*   [react-aria-menubutton (⭐438)](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button.
 *   [react-select-box (⭐188)](https://github.com/instructure-react/react-select-box) - An accessible select box component for React.
 *   [react-select (⭐26k)](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 
@@ -174,20 +174,20 @@
 ### Form Components / Toggle
 
 *   [react-ios-switch (⭐126)](https://github.com/clari/react-ios-switch) - React switch component.
-*   [react-toggle (⭐919)](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
+*   [react-toggle (⭐920)](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
 
 ### Form Components / Slider
 
-*   [react-slider (⭐785)](https://github.com/mpowaga/react-slider) - Slider component for React.
+*   [react-slider (⭐787)](https://github.com/mpowaga/react-slider) - Slider component for React.
 
 ### Form Components / Radio Button
 
-*   [react-radio-group (⭐439)](https://github.com/chenglou/react-radio-group) - Better radio buttons.
+*   [react-radio-group (⭐440)](https://github.com/chenglou/react-radio-group) - Better radio buttons.
 
 ### Form Components / Type Select
 
-*   [react-autocomplete-input (⭐150)](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
-*   [react-mentions (⭐1.9k)](https://github.com/effektif/react-mentions) - Mention people in a textarea.
+*   [react-autocomplete-input (⭐153)](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
+*   [react-mentions (⭐2k)](https://github.com/effektif/react-mentions) - Mention people in a textarea.
 
 ### Form Components / Tag Input
 
@@ -197,7 +197,7 @@
 
 ### Form Components / Autosize Input / Textarea
 
-*   [react-input-autosize (⭐723)](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
+*   [react-input-autosize (⭐726)](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
 *   [react-textarea-autosize (⭐1.8k)](https://github.com/andreypopp/react-textarea-autosize) - \<textarea /> component for React which grows with content.
 
 ### Form Components / Star Rating
@@ -217,7 +217,7 @@
 
 *   [alloyeditor (⭐1.3k)](https://github.com/liferay/alloy-editor) - WYSIWYG editor based on CKEditor with completely rewritten UI.
 *   [draft-js (⭐22k)](https://github.com/facebook/draft-js) - A React framework for building text editors.
-*   [megadraft (⭐1.1k)](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
+*   [megadraft (⭐1.2k)](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
 *   [react-contenteditable (⭐1.4k)](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
 
 ### Form Components / Markdown Editor
@@ -241,7 +241,7 @@
 
 *   [autoresponsive-react (⭐1.5k)](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
 *   [react-grid-layout (⭐17k)](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-*   [react-reflex (⭐533)](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
+*   [react-reflex (⭐539)](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
 
 ### UI Animation / Syntax Highlight
 
@@ -249,7 +249,7 @@
 *   [react-gsap-enhancer (⭐722)](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
 *   [react-motion (⭐21k)](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 *   [react-router-transition (⭐2.6k)](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
-*   [react-spark-scroll (⭐354)](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
+*   [react-spark-scroll (⭐353)](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
 *   [react-track (⭐340)](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
 *   [react-web-animation (⭐294)](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
 
@@ -280,20 +280,20 @@
 
 *   [react-component-queries (⭐182)](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
 *   [react-dimensions (⭐453)](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
-*   [react-height (⭐179)](https://github.com/nkbt/react-height) - Component-wrapper to determine and report children elements height.
+*   [react-height (⭐180)](https://github.com/nkbt/react-height) - Component-wrapper to determine and report children elements height.
 *   [react-measure (⭐1.9k)](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
 *   [react-sizeme (⭐1.9k)](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height.
 
 ### Device Input / Keyboard Events
 
 *   [react-hotkeys (⭐2.1k)](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
-*   [react-key-handler (⭐387)](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events.
+*   [react-key-handler (⭐386)](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events.
 *   [react-keydown (⭐502)](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components.
 *   [react-shortcuts (⭐320)](https://github.com/avocode/react-shortcuts) - Manage keyboard shortcuts from one place.
 
 ### Device Input / Scroll Events
 
-*   [react-scroll-components (⭐120)](https://github.com/jeroencoumans/react-scroll-components) - A set of components that react to page scrolling.
+*   [react-scroll-components (⭐121)](https://github.com/jeroencoumans/react-scroll-components) - A set of components that react to page scrolling.
 
 ### Device Input / Touch Swipe
 
@@ -327,8 +327,8 @@
 *   [fluxxor (⭐1.7k)](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
 *   [kea (⭐1.9k)](https://github.com/mariusandra/kea) - High level architecture for React apps.
 *   [mobx-react (⭐4.9k)](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
-*   [react-controllables (⭐254)](https://github.com/matthewwithanm/react-controllables) - Easily create controllable components.
-*   [react-i13n (⭐369)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
+*   [react-controllables (⭐255)](https://github.com/matthewwithanm/react-controllables) - Easily create controllable components.
+*   [react-i13n (⭐371)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
 *   [react-redux (⭐23k)](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 *   [redux-batched-subscribe (⭐499)](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
 *   [redux (⭐59k)](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
@@ -345,7 +345,7 @@
 
 *   [react-breadcrumbs (⭐409)](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
 *   [react-router-component (⭐871)](https://github.com/STRML/react-router-component) - Declarative router component for React.
-*   [react-router-scroll (⭐846)](https://github.com/taion/react-router-scroll) - React Router scroll management.
+*   [react-router-scroll (⭐847)](https://github.com/taion/react-router-scroll) - React Router scroll management.
 *   [react-router (⭐49k)](https://github.com/reactjs/react-router) - A complete routing library for React.
 *   [redux-router (⭐2.3k)](https://github.com/acdlite/redux-router) - Redux bindings for React Router – keep your router state inside your Redux store.
 *   [universal-router (⭐1.6k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
@@ -355,7 +355,7 @@
 *   [react-async (⭐448)](https://github.com/andreypopp/react-async) - Asynchronously fetch data for React components.
 *   [react-refetch (⭐3.4k)](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
 *   [react-resolver (⭐1.7k)](https://github.com/ericclemmons/react-resolver) - Async rendering & data-fetching for universal React applications.
-*   [react-router-relay (⭐558)](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
+*   [react-router-relay (⭐559)](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
 *   [redial (⭐1.1k)](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
 
 ### Communication with server / Mouse Events
@@ -367,10 +367,10 @@
 ### CSS / Style / Mouse Events
 
 *   [aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite) - It's inline styles, but they work!.
-*   [inline-style-prefixer (⭐385)](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
+*   [inline-style-prefixer (⭐386)](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
 *   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
-*   [react-container-query (⭐866)](https://github.com/d6u/react-container-query) - Modular responsive component.
-*   [react-css-modules (⭐5.3k)](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
+*   [react-container-query (⭐867)](https://github.com/d6u/react-container-query) - Modular responsive component.
+*   [react-css-modules (⭐5.2k)](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 *   [react-responsive (⭐6.5k)](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 *   [styled-components (⭐38k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 
@@ -382,9 +382,9 @@
 ### Isomorphic Apps / Mouse Events
 
 *   [hypernova (⭐5.8k)](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
-*   [isomorphic-relay (⭐245)](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
+*   [isomorphic-relay (⭐244)](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
 *   [isomorphic-style-loader (⭐1.3k)](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
-*   [rill (⭐570)](https://github.com/rill-js/rill) - Universal web application framework.
+*   [rill (⭐600)](https://github.com/rill-js/rill) - Universal web application framework.
 *   [webpack-isomorphic-tools (⭐1.3k)](https://github.com/halt-hammerzeit/webpack-isomorphic-tools) - Server-side rendering for your Webpack-built applications (e.g. React).
 
 ### Boilerplate / Mouse Events
@@ -416,7 +416,7 @@
 
 ### i18n / Mouse Events
 
-*   [react-i18next (⭐7.9k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
+*   [react-i18next (⭐8k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 *   [react-translate-maker (⭐34)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 
 ### Framework bindings / integrations / Mouse Events
@@ -424,20 +424,20 @@
 *   [elm-react-component (⭐114)](https://github.com/KtorZ/elm-react-component) - A React component which wraps an Elm module to be used in a React application.
 *   [react-backbone (⭐131)](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react and a whole lot more.
 *   [react-d3-library (⭐1.4k)](https://github.com/react-d3-library/react-d3-library) - Open source library for using D3 in React.
-*   [react-elm-components (⭐769)](https://github.com/evancz/react-elm-components) - Write React components in Elm.
+*   [react-elm-components (⭐770)](https://github.com/evancz/react-elm-components) - Write React components in Elm.
 *   [react-famous (⭐174)](https://github.com/pilwon/react-famous) - React bridge to Famo.us.
 *   [react-localstorage (⭐288)](https://github.com/STRML/react-localstorage) - Simple componentized localstorage implementation for Facebook's React.
 *   [react-on-rails (⭐4.9k)](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps.
 *   [react-three-renderer (⭐1.5k)](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React.
-*   [reactfire (⭐3.2k)](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration.
+*   [reactfire (⭐3.3k)](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration.
 *   [reactive-elements (⭐700)](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component).
 
 ### Integrations with Third Party Services / Mouse Events
 
 *   [react-ga (⭐5k)](https://github.com/react-ga/react-ga) - React Google Analytics Module.
 *   [react-google-analytics (⭐107)](https://github.com/hzdg/react-google-analytics) - Google analytics component.
-*   [react-recaptcha (⭐627)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
-*   [react-stripe-checkout (⭐972)](https://github.com/azmenak/react-stripe-checkout) - Load stripe's checkout.js as a react component. Easiest way to use checkout with React.
+*   [react-recaptcha (⭐629)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
+*   [react-stripe-checkout (⭐973)](https://github.com/azmenak/react-stripe-checkout) - Load stripe's checkout.js as a react component. Easiest way to use checkout with React.
 *   [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 
 ### UI / Mouse Events
@@ -464,8 +464,8 @@
 
 ### Redux / Lazy Load
 
-*   [redux-devtools-chart-monitor (⭐293)](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
-*   [redux-devtools-dock-monitor (⭐402)](https://github.com/gaearon/redux-devtools-dock-monitor) - A resizable and movable dock for Redux DevTools monitors.
+*   [redux-devtools-chart-monitor (⭐294)](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
+*   [redux-devtools-dock-monitor (⭐403)](https://github.com/gaearon/redux-devtools-dock-monitor) - A resizable and movable dock for Redux DevTools monitors.
 *   [redux-devtools-filterable-log-monitor (⭐154)](https://github.com/bvaughn/redux-devtools-filterable-log-monitor) - Filterable tree view monitor for Redux DevTools.
 *   [redux-devtools-inspector (⭐240)](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor.
 *   [redux-devtools-log-monitor (⭐312)](https://github.com/gaearon/redux-devtools-log-monitor) - The default monitor for Redux DevTools with a tree view.
@@ -474,7 +474,7 @@
 
 ### Inspect / Lazy Load
 
-*   [react-inspector (⭐660)](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
+*   [react-inspector (⭐663)](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
 *   [react-json-inspector (⭐291)](https://github.com/Lapple/react-json-inspector) - React JSON inspector component.
 *   [reactotron (⭐14k)](https://github.com/reactotron/reactotron) - A CLI and OS X app for inspecting your React JS and React Native apps.
 
@@ -485,7 +485,7 @@
 *   [react-styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 *   [standard-react (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style Guide.
 *   [html-to-react-components (⭐2.1k)](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
-*   [htmltojsx (⭐923)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!.
+*   [htmltojsx (⭐922)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!.
 *   [mozaik (⭐3.6k)](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 *   [react-blessed (⭐4.4k)](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 
@@ -548,7 +548,7 @@
 
 ### CLI
 
-*   [cli (⭐888)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
+*   [cli (⭐905)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 
 ## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

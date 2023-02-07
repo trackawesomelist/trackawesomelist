@@ -66,7 +66,7 @@
 
 ### Tools / Web App
 
-*   [SassMe (⭐56)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
+*   [SassMe (⭐57)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 
 ### Articles / Web App
 
@@ -231,7 +231,7 @@
 
 ### Source Generator
 
-*   [ASP.NET Core Library and Framework Support (⭐204)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
+*   [ASP.NET Core Library and Framework Support (⭐205)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
 ## [19. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -258,7 +258,7 @@
 
 ### Date and Time
 
-*   [timelier (⭐10)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
+*   [timelier (⭐11)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
 
 ### Third Party APIs
 

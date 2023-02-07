@@ -28,7 +28,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vexip UI (⭐484)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
+*   [Vexip UI (⭐498)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -66,21 +66,21 @@
 
 ### Entertainment / Games
 
-*   [pokete (⭐2.5k)](https://github.com/lxgr-linux/pokete) - Pokemon-like.
+*   [pokete (⭐2.6k)](https://github.com/lxgr-linux/pokete) - Pokemon-like.
 
 ### Utilities / Network Utilities
 
-*   [neoss (⭐49)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+*   [neoss (⭐58)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Version Control / Git
 
-*   [czg (⭐337)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+*   [czg (⭐415)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Python
 
-*   [ODMantic (⭐730)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
+*   [ODMantic (⭐751)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

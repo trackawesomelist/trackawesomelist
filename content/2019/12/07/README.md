@@ -168,11 +168,11 @@
 
 ### Dialog
 
-*   [Chatito (⭐793)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
+*   [Chatito (⭐806)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 
 ### Neural Natural Language Generation
 
-*   [textgenrnn (⭐4.8k)](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+*   [textgenrnn (⭐4.9k)](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 
 ### Videos
 

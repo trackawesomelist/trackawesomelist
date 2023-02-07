@@ -10,7 +10,7 @@
 
 ### Awesome ClojureScript / Testing
 
-*   [Speclj (⭐421)](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
+*   [Speclj (⭐424)](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 
 ## [2. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

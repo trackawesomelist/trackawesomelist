@@ -151,7 +151,7 @@
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐188)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
+*   [cristianoliveira/funzzy (⭐189)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
 
 ### Libraries / GUI
 
@@ -239,7 +239,7 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐9.9k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐10k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -259,7 +259,7 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐213)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐215)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -524,7 +524,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐751)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐758)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
 ## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -536,7 +536,7 @@
 
 ### Evaluation
 
-*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐477)](https://github.com/google-research/bleurt)
+*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐502)](https://github.com/google-research/bleurt)
 
 ### Papers and Articles
 
@@ -556,41 +556,41 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐256)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐259)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐51)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐52)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Various Godot versions
 
-*   [Entity Spell System (⭐96)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
+*   [Entity Spell System (⭐99)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
 *   [godot-anl (⭐98)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐72)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-*   [godot-python (⭐1.4k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+*   [godot-python (⭐1.5k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 *   [godot-voxel (⭐1.5k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
 *   [Gdnet for Godot 3 (⭐112)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 
 ### Modules / Godot 3.2+
 
-*   [godotcord (⭐42)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
+*   [godotcord (⭐43)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-apple-id (⭐28)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
-*   [Godot-Slicer (⭐102)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.5k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐393)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [Godot-Slicer (⭐103)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.5k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Goost (⭐396)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐11)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
 
-*   [FMOD Integration (⭐165)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+*   [FMOD Integration (⭐168)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 
 ### Modules / Godot version unknown
 
 *   [godot-enet-better (⭐90)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
 *   [Head tracking using OpenCV (⭐40)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
-*   [Open Adaptive Music Library (⭐55)](https://github.com/oamldev/oamlGodotModule)
+*   [Open Adaptive Music Library (⭐56)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐21)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 *   [RawPacker (⭐20)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 *   [spine (⭐124)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
-*   [WaterSplash 2D node (⭐34)](https://github.com/laverneth/water)
+*   [WaterSplash 2D node (⭐35)](https://github.com/laverneth/water)
 
 ### Bash scripts / Godot version unknown
 
@@ -622,7 +622,7 @@
 
 ### Authentication
 
-*   [phx\_gen\_auth (⭐789)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
+*   [phx\_gen\_auth (⭐788)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 
 ### Security
 
@@ -662,7 +662,7 @@
 
 ### no-std crates / WIP
 
-*   [embassy (⭐1.4k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐1.5k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
 ## [31. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -760,7 +760,7 @@
 
 ## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Algorithms, Containers and Protocols / Other / unknown licence
+### Algorithms, Containers and Protocols / MIT
 
 *   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3
 
@@ -835,7 +835,7 @@
 
 ### Demo
 
-*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
+*   [Sitecore MVP (⭐64)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 
 ### Containers
 
@@ -964,7 +964,7 @@
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐243)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐246)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ---
 

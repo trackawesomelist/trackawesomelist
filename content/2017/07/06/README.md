@@ -273,7 +273,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐788)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐790)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -289,11 +289,11 @@
 
 ### MVVM
 
-*   [Gemini (⭐976)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐982)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 
-*   [TopShelf (⭐3.5k)](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
+*   [TopShelf (⭐3.6k)](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
 ## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

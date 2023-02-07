@@ -12,11 +12,11 @@
 
 *   [BloomRPC (⭐8.9k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
 
-## [2. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
-### Tools / Network protocol
+### Libraries / Python
 
-*   [Scapy (⭐8.3k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Can fuzz any protocol. See the `fuzz` function.
+*   [Scapy (⭐8.4k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐8.4k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐521)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐550)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [v-on-page-video (⭐2)](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a Video element on visibility change
+*   [v-on-page-video (⭐3)](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a Video element on visibility change
 
 ## [7. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -53,11 +53,11 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐35)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐41)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐125)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐184)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
