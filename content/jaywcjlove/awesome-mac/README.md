@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 08, 2023](/content/2023/02/08/README.md)
+
+### Browsers / File Sharing
+
+*   [Arc](https://arc.net) - A better way to use the internet. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Feb 02, 2023](/content/2023/02/02/README.md)
 
 ### Developer Tools / Developer Utilities

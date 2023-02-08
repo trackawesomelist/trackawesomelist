@@ -6,6 +6,12 @@
 
 [ [Daily](/content/ramnes/awesome-mongodb/README.md) / Weekly / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 
+## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
+
+### Tools / Desktop
+
+*   [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Tools / Desktop
