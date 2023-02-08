@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
+
+### Problem Solving / Human-Level Problem Solving
+
+*   [Value signals guide abstraction during learning](https://elifesciences.org/articles/68943) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10324834842795908439\&hl=en\&as_sdt=0,5)].
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Meta-Level Considerations / Rationality

@@ -721,6 +721,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***Trends in Cognitive Sciences***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A review that outlines the computational and biological principles that enable the brain to compute the usefulness of an option or action by creating abstractions that flexibly adapt to changing goals.
 
+*   [Value signals guide abstraction during learning](https://elifesciences.org/articles/68943) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10324834842795908439\&hl=en\&as_sdt=0,5)].
+
 *   [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094\&context=jps) - ***The Journal of Problem Solving***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883\&hl=en\&as_sdt=0,5)].
 
 *   [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***Machine Learning***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473\&hl=en\&as_sdt=0,5)].

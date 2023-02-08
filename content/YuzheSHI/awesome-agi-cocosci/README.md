@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 08, 2023](/content/2023/02/08/README.md)
+
+### Problem Solving / Human-Level Problem Solving
+
+*   [Value signals guide abstraction during learning](https://elifesciences.org/articles/68943) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10324834842795908439\&hl=en\&as_sdt=0,5)].
+
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
