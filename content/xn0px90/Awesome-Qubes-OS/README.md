@@ -6,6 +6,12 @@ A curated list of awesome qubes os links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Feb 09, 2023](/content/2023/02/09/README.md)
+
+### Exploitation Tools / OpenVPN
+
+*   [AFL++ (⭐3.4k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+
 ## [Feb 06, 2023](/content/2023/02/06/README.md)
 
 ### Clearnet & Anonymous Networking / Wireguard
@@ -57,7 +63,7 @@ A curated list of awesome qubes os links
 
 ### Training and Materials / OpenVPN
 
-*   [The Book of Secret Knowledge (⭐88k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [The Book of Secret Knowledge (⭐89k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
@@ -271,7 +277,7 @@ A curated list of awesome qubes os links
 
 ### Exploitation Tools / OpenVPN
 
-*   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [Bonzai (⭐112)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 
 ### Xen Exploitation / OpenVPN
 
@@ -299,7 +305,6 @@ A curated list of awesome qubes os links
 
 ### Exploitation Tools / OpenVPN
 
-*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
 *   [LeechCore (⭐278)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Volatility3 (⭐1.3k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.

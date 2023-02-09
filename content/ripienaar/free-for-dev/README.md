@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 09, 2023](/content/2023/02/09/README.md)
+
+### Email
+
+*   [EForw](https://www.eforw.com) – Free email forwarding for 1 domain. Receive and send emails from your domain.
+
 ## [Feb 07, 2023](/content/2023/02/07/README.md)
 
 ### APIs, Data and ML

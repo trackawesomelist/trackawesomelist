@@ -2,9 +2,15 @@
 
 Collection of frontend dev and web design links :bulb:
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/noahbuscher/inspire/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 noahbuscher/inspire](https://github.com/noahbuscher/inspire) · ⭐ 1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/noahbuscher/inspire/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 noahbuscher/inspire](https://github.com/noahbuscher/inspire) · ⭐ 1.1K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/noahbuscher/inspire/week/README.md) / [Overview](/content/noahbuscher/inspire/readme/README.md) ]
+
+## [Feb 09, 2023](/content/2023/02/09/README.md)
+
+### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
+
+*   [Landings](https://landings.dev/) - Find the best landing pages for your design inspiration based on your preference.
 
 ## [Jan 06, 2022](/content/2022/01/06/README.md)
 
@@ -53,7 +59,7 @@ Collection of frontend dev and web design links :bulb:
     *   [Nova](https://nova.app) \[macOS only] - Gorgeous, native text editor.
     *   [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
         *   Themes
-            *   [Flatron (⭐245)](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
+            *   [Flatron (⭐247)](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
             *   [Predawn (⭐1.8k)](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
     *   [VSCode](https://code.visualstudio.com/) - Free text editor
 

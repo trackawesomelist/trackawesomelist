@@ -2,9 +2,17 @@
 
 A curated list of awesome resources for electronic engineers and hobbyists
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 4.5K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 4.6K · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/kitspace/awesome-electronics/week/README.md) / [Overview](/content/kitspace/awesome-electronics/readme/README.md) ]
+
+## [Feb 09, 2023](/content/2023/02/09/README.md)
+
+### Documentation / University Course Archives
+
+*   [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
+*   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
+*   [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
 
 ## [Jan 19, 2023](/content/2023/01/19/README.md)
 
@@ -20,7 +28,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐31)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐36)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [Jul 08, 2022](/content/2022/07/08/README.md)
 
@@ -30,25 +38,25 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Miscellaneous Software Projects / Eagle
 
-*   [Language PCB (⭐16)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+*   [Language PCB (⭐17)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## [Jun 23, 2022](/content/2022/06/23/README.md)
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐155)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐163)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [Jan 05, 2022](/content/2022/01/05/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐24)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐27)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ## [Dec 17, 2021](/content/2021/12/17/README.md)
 
 ### Documentation / University Course Archives
 
-*   [Inkscape Electric Symbols (⭐105)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+*   [Inkscape Electric Symbols (⭐106)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 
 ## [Nov 07, 2021](/content/2021/11/07/README.md)
 
@@ -64,8 +72,8 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐222)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐38)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐228)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐41)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [Jun 23, 2021](/content/2021/06/23/README.md)
 
@@ -154,7 +162,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐625)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐627)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
 *   [Footprint Collection (⭐285)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
@@ -186,11 +194,11 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐279)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐399)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐251)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐244)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐598)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐287)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐407)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐255)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐246)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐603)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 *   [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 
 ## [May 12, 2020](/content/2020/05/12/README.md)
@@ -260,7 +268,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 ### Free EDA Packages / Installable
 
 *   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐849)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [Horizon EDA (⭐858)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ### CAD Specific / KiCad
 
@@ -338,7 +346,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Inventory Management and Purchasing / Eagle
 
-*   [Part-DB (⭐155)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
+*   [Part-DB (⭐156)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## [Nov 13, 2017](/content/2017/11/13/README.md)
 
@@ -388,7 +396,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### CAD Specific / Eagle
 
-*   [Adafruit Eagle Library (⭐999)](https://github.com/adafruit/Adafruit-Eagle-Library)
+*   [Adafruit Eagle Library (⭐997)](https://github.com/adafruit/Adafruit-Eagle-Library)
 *   [SparkFun Electronics Eagle Libraries (⭐1.7k)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ### Videos / Help

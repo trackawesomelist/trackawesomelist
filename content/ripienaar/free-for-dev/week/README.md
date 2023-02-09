@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Meteosource Weather API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. Free plan comes with 400 calls per day.
 
+### Email
+
+*   [EForw](https://www.eforw.com) – Free email forwarding for 1 domain. Receive and send emails from your domain.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### APIs, Data and ML

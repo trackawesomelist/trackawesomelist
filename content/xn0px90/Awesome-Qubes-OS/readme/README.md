@@ -272,9 +272,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Exploitation Tools
 
-*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
+*   [AFL++ (⭐3.4k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 *   [Awesome-Fuzzing (⭐622)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
-*   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [Bonzai (⭐112)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
 *   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [LeechCore (⭐278)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
@@ -361,7 +361,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
     *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
     *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
-*   [The Book of Secret Knowledge (⭐88k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [The Book of Secret Knowledge (⭐89k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 *   [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers

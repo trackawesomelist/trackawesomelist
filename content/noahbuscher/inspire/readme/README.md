@@ -2,7 +2,7 @@
 
 Collection of frontend dev and web design links :bulb:
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/noahbuscher/inspire/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 noahbuscher/inspire](https://github.com/noahbuscher/inspire) · ⭐ 1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/noahbuscher/inspire/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 noahbuscher/inspire](https://github.com/noahbuscher/inspire) · ⭐ 1.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/noahbuscher/inspire/README.md) / [Weekly](/content/noahbuscher/inspire/week/README.md) / Overview ]
 
@@ -25,6 +25,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 *   [Designer News](https://www.designernews.co/) - The best design / development links from the 'net.
 *   [Dribbble](https://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
 *   [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
+*   [Landings](https://landings.dev/) - Find the best landing pages for your design inspiration based on your preference.
 *   [OnePageLove](https://onepagelove.com/) - Great influence for one page and general website design.
 *   [SaaS Pages](https://saaspages.xyz) - An inspection of Netlify's page made especially to bring you inspiration.
 *   [Siiimple](https://siiimple.com/) - Another list of sites, but on the much simpler side.
@@ -78,7 +79,7 @@ Designing and building a modern frontend in any web project can be a long and ar
     *   [Nova](https://nova.app) \[macOS only] - Gorgeous, native text editor.
     *   [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
         *   Themes
-            *   [Flatron (⭐245)](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
+            *   [Flatron (⭐247)](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
             *   [Predawn (⭐1.8k)](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
     *   [VSCode](https://code.visualstudio.com/) - Free text editor
 *   [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
