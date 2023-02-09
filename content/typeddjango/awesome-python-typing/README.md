@@ -8,6 +8,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## [Feb 09, 2023](/content/2023/02/09/README.md)
 
+### Tools / Helper tools to add annotations to existing code
+
+*   [jsonschema-gentypes (⭐13)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
+
 ### Articles / Third-party articles
 
 *   [Our journey to type checking 4 million lines of Python](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python) - Dropbox has been one of the first companies to adopt Python static type checking at this scale.

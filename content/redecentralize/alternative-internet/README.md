@@ -6,11 +6,17 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 [ Daily / [Weekly](/content/redecentralize/alternative-internet/week/README.md) / [Overview](/content/redecentralize/alternative-internet/readme/README.md) ]
 
+## [Feb 09, 2023](/content/2023/02/09/README.md)
+
+### Compute
+
+*   [Bacalhau](https://www.bacalhau.org/) is a platform for fast, cost efficient, and secure computation by running jobs where the data is generated and stored. With Bacalhau, you can streamline your existing workflows without the need of extensive rewriting by running arbitrary Docker containers and WebAssembly (wasm) images as tasks. This architecture is also referred to as Compute Over Data (or CoD
+
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Developer tools and frameworks
 
-*   [DB3 Network (⭐111)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
+*   [DB3 Network (⭐136)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
 
 ## [Nov 18, 2022](/content/2022/11/18/README.md)
 

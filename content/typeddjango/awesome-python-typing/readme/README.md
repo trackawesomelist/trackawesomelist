@@ -125,6 +125,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 *   [autotyping (⭐119)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
 *   [infer-types (⭐47)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
+*   [jsonschema-gentypes (⭐13)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
 *   [monkeytype (⭐4.1k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
 *   [PyTypes (⭐7)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
