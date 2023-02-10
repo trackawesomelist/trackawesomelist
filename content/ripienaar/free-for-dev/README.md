@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 10, 2023](/content/2023/02/10/README.md)
+
+### APIs, Data and ML
+
+*   [ERD Lab](https://www.erdlab.io) —  Free cloud based entity relationship diagram (ERD) tool made for developers.
+
 ## [Feb 09, 2023](/content/2023/02/09/README.md)
 
 ### Email
@@ -1033,7 +1039,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data and ML
 
 *   [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
-*   [unscan](https://unscan.co) - Free API to scan images for NSFW and files for malware. 100 requests per second.
 
 ## [May 14, 2022](/content/2022/05/14/README.md)
 
