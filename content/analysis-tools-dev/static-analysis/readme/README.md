@@ -617,6 +617,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 
 *   [diktat](https://diktat.saveourtool.com) — Strict coding standard for Kotlin and a linter that detects and auto-fixes code smells.
 
+*   [ktfmt](https://facebook.github.io/ktfmt/) — A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
+    A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.
+
 *   [ktlint](https://ktlint.github.io) — An anti-bikeshedding Kotlin linter with built-in formatter.
 
 <h2 id="lua">Lua</h2>
@@ -761,6 +764,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 
 <h2 id="python">Python</h2>
 
+*   [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
+    It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
+
 *   [bandit](https://bandit.readthedocs.io/en/latest) — A tool to find common security issues in Python code.
 
 *   [bellybutton (⭐251)](https://github.com/hchasestevens/bellybutton) — A linting engine supporting custom project-specific rules.
@@ -836,6 +842,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 *   [wily (⭐1k)](https://github.com/tonybaloney/wily) — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
 
 *   [xenon](https://xenon.readthedocs.io) — Monitor code complexity using [`radon`](https://github.com/rubik/radon).
+
+*   [yapf (⭐13k)](https://github.com/google/yapf) — A formatter for Python files created by Google
+    YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.
 
 <h2 id="r">R</h2>
 
@@ -1029,6 +1038,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐659)](https://g
 *   [Angular ESLint (⭐1.4k)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
 
 *   [Codelyzer](http://codelyzer.com) :warning: — A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
+
+*   [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
 
 *   [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see this issue for more details:  typescript-eslint is now your best option for linting TypeScript.
     TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.

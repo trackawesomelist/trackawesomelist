@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
+### Miscellaneous Data Structures and Algorithms
+
+*   [gogu (⭐46)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+
 ### Distributed Systems
 
 *   [Dragonfly (⭐989)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.

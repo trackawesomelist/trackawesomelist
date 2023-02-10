@@ -167,6 +167,10 @@ The definition of developer-first for this repo is:
 *   [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 *   [upstash](https://upstash.com/) - Serverless tailored redis provider.
 
+<!---->
+
+*   [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+
 ## Debugging
 
 *Tools that help in tracking bugs.*

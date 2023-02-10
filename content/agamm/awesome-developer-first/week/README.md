@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
+
+### Databases & Spreadsheets
+
+*   [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Analytics

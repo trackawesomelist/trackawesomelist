@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Feb 10, 2023](/content/2023/02/10/README.md)
+
+### Miscellaneous Data Structures and Algorithms
+
+*   [gogu (⭐46)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+
 ## [Feb 06, 2023](/content/2023/02/06/README.md)
 
 ### Distributed Systems

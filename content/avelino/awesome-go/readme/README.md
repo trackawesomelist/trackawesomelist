@@ -69,11 +69,11 @@ We use the *[Golang Bridge (⭐358)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐155k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐156k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
-Please take a quick gander at the [contribution guidelines (⭐95k)](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐95k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines (⭐96k)](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐96k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
 
 > *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
@@ -581,6 +581,7 @@ additional ordered map implementations.
 *   [go-tuple (⭐44)](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
 *   [go18ds (⭐31)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
 *   [gofal (⭐17)](https://github.com/xxjwxc/gofal) - fractional api for Go.
+*   [gogu (⭐46)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 *   [gota (⭐2.5k)](https://github.com/kniren/gota) - Implementation of dataframes, series, and data wrangling methods for Go.
 *   [hide (⭐52)](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
 *   [hilbert (⭐258)](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.

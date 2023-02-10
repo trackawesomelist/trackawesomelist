@@ -11,7 +11,14 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [coffeelint](https://coffeelint.github.io/) — A style checker that helps keep CoffeeScript code clean and consistent.
+*   [ktfmt](https://facebook.github.io/ktfmt/) — A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
+    A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.
+*   [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
+    It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
 *   [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
+*   [yapf (⭐13k)](https://github.com/google/yapf) — A formatter for Python files created by Google
+    YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.
+*   [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
 
 ### Multiple languages / [Other](#other-1)
 
