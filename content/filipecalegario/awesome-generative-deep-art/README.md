@@ -6,6 +6,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 11, 2023](/content/2023/02/11/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [ChatGPT Is a Bullshit Generator Waging Class War](https://www.vice.com/en/article/akex34/chatgpt-is-a-bullshit-generator-waging-class-war)
+
 ## [Feb 08, 2023](/content/2023/02/08/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image

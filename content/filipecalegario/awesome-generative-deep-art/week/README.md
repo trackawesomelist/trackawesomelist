@@ -12,6 +12,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
 
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [ChatGPT Is a Bullshit Generator Waging Class War](https://www.vice.com/en/article/akex34/chatgpt-is-a-bullshit-generator-waging-class-war)
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
