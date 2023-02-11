@@ -14,6 +14,10 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 *   [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
 
+### Simulators / Analog and Mixed Signal Circuit Simulators
+
+*   [QucsStudio](http://qucsstudio.de/) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Free EDA Packages / Installable
@@ -125,7 +129,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 *   [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
 *   [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
-*   [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
 
 ### Free EDA Packages / Installable
 

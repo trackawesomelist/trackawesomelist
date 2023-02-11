@@ -6,6 +6,26 @@ A curated list of resources to help you with ArcGIS development, APIs, SDKs, too
 
 [ [Daily](/content/Esri/awesome-arcgis-developers/README.md) / Weekly / [Overview](/content/Esri/awesome-arcgis-developers/readme/README.md) ]
 
+## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
+
+### Data conversion tools
+
+*   [gpxstudio (⭐308)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
+*   [img2geojson (⭐10)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
+
+### Helpers
+
+*   [arcgis-geometry-calculations (⭐1)](https://github.com/hhkaos/arcgis-geometry-calculations) - Web application to create and grab ArcGIS geometry calculations.
+*   [epsg.io](https://github.com/maptiler/) - Website to discover and transform coordinate systems from all over the world.
+*   [geojson-random-generator (⭐5)](https://github.com/erick-otenyo/geojson-random-generator) - Generate and download random GeoJSON quickly for testing.
+*   [histogrand (⭐1)](https://github.com/hhkaos/histogrand) - Random value generator according to customized histograms.
+*   [mercator-geographic-converter (⭐2)](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
+
+### Map and data exploration
+
+*   [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer) - VSCode extension for Geo Data Analytics. Support to generate and view maps.
+*   [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - Extension for visually previewing geospatial file content (GeoJSON, KML, etc) on a map.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Code samples and snippets

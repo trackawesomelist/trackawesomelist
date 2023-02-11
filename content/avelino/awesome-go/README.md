@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Feb 11, 2023](/content/2023/02/11/README.md)
+
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
+
 ## [Feb 10, 2023](/content/2023/02/10/README.md)
 
 ### Miscellaneous Data Structures and Algorithms

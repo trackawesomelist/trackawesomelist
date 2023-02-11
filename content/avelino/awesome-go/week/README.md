@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [Dragonfly (⭐989)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares

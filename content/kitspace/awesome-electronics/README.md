@@ -6,6 +6,12 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 [ Daily / [Weekly](/content/kitspace/awesome-electronics/week/README.md) / [Overview](/content/kitspace/awesome-electronics/readme/README.md) ]
 
+## [Feb 11, 2023](/content/2023/02/11/README.md)
+
+### Simulators / Analog and Mixed Signal Circuit Simulators
+
+*   [QucsStudio](http://qucsstudio.de/) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
+
 ## [Feb 09, 2023](/content/2023/02/09/README.md)
 
 ### Documentation / University Course Archives
@@ -113,10 +119,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [Strange Parts](https://strangeparts.com) - [YouTube channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) about electronics, manufacturing, making, world travel, living in and making things in China.
 
 ## [May 21, 2020](/content/2020/05/21/README.md)
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
 
 ### PCB Batching Services / Eagle
 

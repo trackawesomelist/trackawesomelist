@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sindresorhus/awesome/README.md) / Weekly / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
+
+### Health and Social Science
+
+*   [Digital Humanities (⭐85)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Gaming
@@ -186,7 +192,7 @@
 
 *   [Speech and Natural Language Processing (⭐2.1k)](https://github.com/edobashira/speech-language-processing#readme)
     *   [Spanish (⭐311)](https://github.com/dav009/awesome-spanish-nlp#readme)
-    *   [NLP with Ruby (⭐979)](https://github.com/arbox/nlp-with-ruby#readme)
+    *   [NLP with Ruby (⭐983)](https://github.com/arbox/nlp-with-ruby#readme)
     *   [Question Answering (⭐715)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
     *   [Natural Language Generation (⭐398)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 
@@ -337,7 +343,7 @@
 
 ### Computer Science
 
-*   [Machine Learning (⭐57k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Machine Learning (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
     *   [Tutorials (⭐13k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
     *   [ML with Ruby (⭐1.9k)](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
     *   [Core ML Models (⭐5.6k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
@@ -599,7 +605,7 @@
 
 ### Programming Languages
 
-*   [Python (⭐155k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐156k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐3.9k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
     *   [CircuitPython (⭐516)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
@@ -905,7 +911,7 @@
 
 ### Security
 
-*   [Fuzzing (⭐622)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐623)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ## [Jun 10 - Jun 16, 2019](/content/2019/23/README.md)
 
@@ -1236,7 +1242,7 @@
 *   [Rust (⭐32k)](https://github.com/rust-unofficial/awesome-rust#readme)
 *   [Haskell (⭐2.9k)](https://github.com/krispo/awesome-haskell#readme)
 *   [PureScript (⭐427)](https://github.com/passy/awesome-purescript#readme)
-*   [Go (⭐95k)](https://github.com/avelino/awesome-go#readme)
+*   [Go (⭐96k)](https://github.com/avelino/awesome-go#readme)
 *   [Ruby (⭐13k)](https://github.com/markets/awesome-ruby#readme)
 *   [Clojure (⭐2.5k)](https://github.com/razum2um/awesome-clojure#readme)
 *   [ClojureScript (⭐967)](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -1400,7 +1406,7 @@
 *   [Git Tips (⭐21k)](https://github.com/git-tips/tips#readme)
 *   [Git Add-ons (⭐1.7k)](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
 *   [SSH (⭐2.1k)](https://github.com/moul/awesome-ssh#readme)
-*   [FOSS for Developers (⭐781)](https://github.com/tvvocold/FOSS-for-Dev#readme)
+*   [FOSS for Developers (⭐788)](https://github.com/tvvocold/FOSS-for-Dev#readme)
 *   [Hyper (⭐10k)](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
 *   [PowerShell (⭐3.8k)](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 *   [Terminals Are Sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme)
@@ -1509,10 +1515,10 @@
     *   [Datasets (⭐2.7k)](https://github.com/jdorfman/awesome-json-datasets#readme)
 *   [Discounts for Student Developers (⭐2.5k)](https://github.com/AchoArnold/discount-for-student-dev#readme)
 *   [Radio (⭐197)](https://github.com/kyleterry/awesome-radio#readme)
-*   [Awesome (⭐236k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+*   [Awesome (⭐238k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 *   [REST (⭐3.3k)](https://github.com/marmelab/awesome-rest#readme)
 *   [Services Engineering (⭐3.4k)](https://github.com/mmcgrana/services-engineering#readme)
-*   [Free for Developers (⭐66k)](https://github.com/ripienaar/free-for-dev#readme)
+*   [Free for Developers (⭐67k)](https://github.com/ripienaar/free-for-dev#readme)
 *   [Answers (⭐731)](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
 *   [Sketch (⭐731)](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 *   [Boilerplate Projects (⭐1k)](https://github.com/melvin0008/awesome-projects-boilerplates#readme)

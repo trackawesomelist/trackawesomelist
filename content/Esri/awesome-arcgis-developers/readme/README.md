@@ -126,7 +126,9 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 *   [gdal (⭐3.6k)](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
 *   [geojson2svg (⭐47)](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
 *   [geojsonio (⭐147)](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
+*   [gpxstudio (⭐308)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
 *   [gtfs2geojson (⭐25)](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
+*   [img2geojson (⭐10)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 *   [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 *   [loam (⭐173)](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
 *   [PostGIS ST\_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
@@ -181,10 +183,15 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## Helpers
 
+*   [arcgis-geometry-calculations (⭐1)](https://github.com/hhkaos/arcgis-geometry-calculations) - Web application to create and grab ArcGIS geometry calculations.
 *   [arcgis-js-api-camera-helper (⭐4)](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
 *   [arcgis-js-api-extent-helper (⭐3)](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
+*   [epsg.io](https://github.com/maptiler/) - Website to discover and transform coordinate systems from all over the world.
 *   [esri-loader (⭐443)](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
 *   [esri-loader-hooks (⭐28)](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
+*   [geojson-random-generator (⭐5)](https://github.com/erick-otenyo/geojson-random-generator) - Generate and download random GeoJSON quickly for testing.
+*   [histogrand (⭐1)](https://github.com/hhkaos/histogrand) - Random value generator according to customized histograms.
+*   [mercator-geographic-converter (⭐2)](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
 *   [react-sceneview (⭐11)](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
 
 ## Map and data exploration
@@ -192,9 +199,11 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 *   [ArcGIS Map Viewer](https://www.arcgis.com/apps/mapviewer/index.html) - Web application to create, explore, and share web maps for 2D applications.
 *   [ArcGIS Map Viewer (classic version)](https://arcgis.com/home/webmap/viewer.html) - Web application to create, explore, and share web maps for 2D applications.
 *   [ArcGIS Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html) - Web application to create, explore, and share web maps for 3D applications.
+*   [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer) - VSCode extension for Geo Data Analytics. Support to generate and view maps.
 *   [geojson.io (⭐1.7k)](https://github.com/mapbox/geojson.io) - Web application to visualize, generate and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and shapefile.
 *   [Mapshaper (⭐3.2k)](https://github.com/mbloch/mapshaper) - Web application to simplify shapes, edit attribute data, clipp, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON and CSV files.
 *   [Smart Mapping](https://www.esri.com/en-us/smart-mapping) - It is built-in in the Map and Scene viewer, but some APIs like JavaScript and Python also provide utilities to help building data explorations tools.
+*   [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - Extension for visually previewing geospatial file content (GeoJSON, KML, etc) on a map.
 
 ## Playgrounds
 
