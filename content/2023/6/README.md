@@ -1,12 +1,29 @@
 # Awesome List Updates on Feb 06 - Feb 12, 2023
 
-45 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [1. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+
+### Misc
+
+*   [observable (⭐8)](https://github.com/TPei/observable) - Implementation of the observer pattern
+
+### Editor Plugins
+
+*   Lite-XL
+    *   [lite-plugin-crystal (⭐2)](https://github.com/Tamnac/lite-plugin-crystal) - Crystal support for the [Lite-XL](https://lite-xl.com/en/) editor
+
+## [2. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [mikhail-bigun/fiberlogrus (⭐2)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
+
+## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Data conversion tools
 
@@ -26,49 +43,53 @@
 *   [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer) - VSCode extension for Geo Data Analytics. Support to generate and view maps.
 *   [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - Extension for visually previewing geospatial file content (GeoJSON, KML, etc) on a map.
 
-## [2. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [4. Awesome List](/content/sindresorhus/awesome/week/README.md)
+
+### Computer Science
+
+*   [Generative AI (⭐278)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ### Health and Social Science
 
 *   [Digital Humanities (⭐85)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
-## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
 *   [anywidget](https://anywidget.dev) - A Python library that simplifies creating and publishing custom Jupyter widgets.
 
-## [4. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [6. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Screeb
 
 *   [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://twitter.com/roycobby).
 
-## [5. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [7. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Compilers and interpreters
 
 *   [fubark/cyber (⭐530)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Quality / Barcode
 
 *   [L10nLint (⭐17)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Application platforms / Samples
 
 *   [ILLA Cloud (⭐4.8k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 
-## [8. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Databases & Spreadsheets
 
 *   [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
 
-## [9. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
@@ -78,13 +99,13 @@
 
 *   [Canvas Demos by David Walsh](https://davidwalsh.name/canvas-demos) - 9 Mind-Blowing Canvas Demos with their respective source code.
 
-## [10. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [12. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Compute
 
 *   [Bacalhau](https://www.bacalhau.org/) is a platform for fast, cost efficient, and secure computation by running jobs where the data is generated and stored. With Bacalhau, you can streamline your existing workflows without the need of extensive rewriting by running arbitrary Docker containers and WebAssembly (wasm) images as tasks. This architecture is also referred to as Compute Over Data (or CoD
 
-## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
@@ -94,23 +115,7 @@
 
 *   [Our journey to type checking 4 million lines of Python](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python) - Dropbox has been one of the first companies to adopt Python static type checking at this scale.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐186)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Projects
 
@@ -133,17 +138,17 @@
 
 ### Kotlin JavaScript / Build Tools
 
-*   [Kotlin/kotlin-frontend-plugin (⭐571)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+*   [Kotlin/kotlin-frontend-plugin (⭐569)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
 
 ### Kotlin JavaScript / Integration
 
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+*   [kotlin/ts2kt (⭐322)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
 
 ### Kotlin Native / Projects
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [13. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [15. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Documentation / University Course Archives
 
@@ -155,31 +160,31 @@
 
 *   [QucsStudio](http://qucsstudio.de/) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
 
-## [14. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [16. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
 *   [Landings](https://landings.dev/) - Find the best landing pages for your design inspiration based on your preference.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Browsers / File Sharing
 
 *   [Arc](https://arc.net) - A better way to use the internet. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [18. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
 
-## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Problem Solving / Human-Level Problem Solving
 
 *   [Value signals guide abstraction during learning](https://elifesciences.org/articles/68943) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10324834842795908439\&hl=en\&as_sdt=0,5)].
 
-## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -193,31 +198,31 @@
 
 *   [ChatGPT Is a Bullshit Generator Waging Class War](https://www.vice.com/en/article/akex34/chatgpt-is-a-bullshit-generator-waging-class-war)
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Web-based File Managers
 
 *   [copyparty (⭐69)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
 
-## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [TypeScript Roadmap](https://roadmap.sh/typescript)
 
-## [21. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Component abstraction crates / Other
 
 *   [`switch-hal`](https://github.com/rubberduck203/switch-hal): An "on"/"off" abstraction for input and output switches - ![crates.io](https://img.shields.io/crates/v/switch-hal.svg)
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
 *   [ecto\_dev\_logger (⭐124)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
 
-## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database
 
@@ -227,7 +232,7 @@
 
 *   [FluentStorage (⭐20)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
 
-## [24. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [26. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Go libraries
 
@@ -235,13 +240,13 @@
 *   [libbpfgo (⭐413)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
 *   [gobpf (⭐1.9k)](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
 
-## [25. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [27. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Audio and Video
 
 *   [Youtube Dynamic Playlists](https://youtube.ndo.dev) - Create on-the-fly playlists of YouTube videos.
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -256,13 +261,13 @@
 
 *   [EForw](https://www.eforw.com) – Free email forwarding for 1 domain. Receive and send emails from your domain.
 
-## [27. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [29. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
 
-## [28. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [30. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Libraries
 
@@ -272,20 +277,20 @@
 
 *   [ChordMark](https://chordmark.netlify.app/) - a text-based notation format for lyrics, chords and rhythm.
 
-## [29. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [31. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
 *   [Ironsworn Numbers Spreadsheet](https://www.dropbox.com/s/m16aazqk3t7ashd/Ironsworn%20-%20Public%20iPad%20v%200-7.numbers?dl=0) - Spreadsheet for Ironsworn solo play
 *   [Starforged Numbers Spreadsheet](https://www.dropbox.com/s/ge40xrazw0c9ng1/Starforged%20Public%20v2.5.numbers?dl=0) - Spreadsheet for Starforged solo play
 
-## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-image-placeholder (⭐2)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
 
-## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -306,13 +311,13 @@
 *   [hogbal (⭐0)](https://github.com/hogbal/hogbal.zsh-theme) - Works best with a dark background and a 256 color terminal program. Includes decorators for `virtualenv`, `git` information, `username@hostname` and current directory.
 *   [prowpt (⭐0)](https://github.com/alpaca-honke/prowpt) - Simple, lightweight, and customizable Powerline-like prompt, with decorators for `git` information, user, hostname, current directory, time and exit status of the last command.
 
-## [32. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [34. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Content Hub One
 
 *   [Sitecore.Demo.CHONE (⭐0)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team.
 
-## [33. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [35. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -330,7 +335,7 @@
 
 *   [ShiftLeft Scan (⭐593)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 
-## [34. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [36. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Authentication Authorisation
 
@@ -339,7 +344,7 @@
 *   [Vert.x Auth OAuth2 (⭐144)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [OAuth 2](https://oauth.net/2/).
 *   [Vert.x Auth htpasswd (⭐144)](https://github.com/eclipse-vertx/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
 
-## [35. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [37. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Chat Bot
 
@@ -362,7 +367,7 @@
 
 
 
-## [36. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [38. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Using ChatGPT in other apps
 
@@ -372,7 +377,7 @@
 
 *   [b2p - a linux bash to PowerShell translator using ChatGPT (⭐1)](https://github.com/rximg/b2p)
 
-## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -385,13 +390,13 @@
 *   [cl-unix-cybernetics (⭐175)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
     *   You describe your systems (hosts) using resources having properties. The properties are then probed and synchronized using only /bin/sh on the remote host, and /usr/bin/ssh on the control host.
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
 *   [BitmapPlusPLus (⭐12)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
 
-## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -405,7 +410,7 @@
 
 *   [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
 
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -428,7 +433,7 @@
 
 *   [hmeyer/stl\_io](https://crates.io/crates/stl_io) - A parser for STL (STereoLithography) files
 
-## [41. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [43. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for Windows applications
 
@@ -442,7 +447,7 @@
 
 *   [appdwarf (⭐12)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
-## [42. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [44. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Clearnet & Anonymous Networking / Wireguard
 
@@ -485,13 +490,13 @@
 *   [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
 *   [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
 
-## [43. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [45. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
 *   [Minestom](https://minestom.net/) - Lightweight from-scratch server implementation.
 
-## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -515,7 +520,7 @@
 
 *   [linrongbin16/lin.nvim (⭐5)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 
-## [45. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [47. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Videos Playlists / Monograph
 

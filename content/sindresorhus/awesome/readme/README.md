@@ -496,6 +496,7 @@
 *   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 *   [Theoretical Computer Science (⭐340)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 *   [Conversational AI (⭐65)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
+*   [Generative AI (⭐278)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ## Big Data
 
@@ -561,7 +562,7 @@
 *   [libGDX (⭐686)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 *   [PlayCanvas (⭐190)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 *   [Game Remakes (⭐345)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
-*   [Flame (⭐664)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐676)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 *   [Discord Communities (⭐1.9k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 *   [CHIP-8 (⭐99)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 *   [Games of Coding (⭐1.6k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.

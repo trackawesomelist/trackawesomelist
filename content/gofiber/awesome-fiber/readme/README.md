@@ -117,6 +117,7 @@ List of middlewares that are created by the Fiber community.
 *   [joffref/opa-middleware (⭐6)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 *   [vladfr/fiber-servertiming (⭐0)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
 *   [airbrake/gobrake (⭐99)](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
+*   [mikhail-bigun/fiberlogrus (⭐2)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
 
 ## 🚧 Boilerplates
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Feb 12, 2023](/content/2023/02/12/README.md)
+
+### Computer Science
+
+*   [Generative AI (⭐278)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+
 ## [Feb 11, 2023](/content/2023/02/11/README.md)
 
 ### Health and Social Science
@@ -580,7 +586,7 @@
 
 ### Gaming
 
-*   [Flame (⭐664)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐676)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 

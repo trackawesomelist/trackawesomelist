@@ -8,6 +8,10 @@
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
+### Computer Science
+
+*   [Generative AI (⭐278)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+
 ### Health and Social Science
 
 *   [Digital Humanities (⭐85)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
@@ -535,7 +539,7 @@
 
 ### Gaming
 
-*   [Flame (⭐664)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐676)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 

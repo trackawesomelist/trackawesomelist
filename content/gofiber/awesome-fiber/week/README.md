@@ -6,6 +6,12 @@
 
 [ [Daily](/content/gofiber/awesome-fiber/README.md) / Weekly / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [mikhail-bigun/fiberlogrus (⭐2)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### 🛠️ Tools / 🌱 Third Party
