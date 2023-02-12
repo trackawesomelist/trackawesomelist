@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gogu (⭐46)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 
+### Interfaces to Multiple Backends
+
+*   [go-transaction-manager (⭐18)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
+
 ### Distributed Systems
 
 *   [Dragonfly (⭐989)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
@@ -2112,7 +2116,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [goscore (⭐86)](https://github.com/asafschers/goscore) - Go Scoring API for PMML.
 *   [gosseract (⭐2k)](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
 *   [libsvm (⭐73)](https://github.com/datastream/libsvm) - libsvm golang version derived work based on LIBSVM 3.14.
-*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
+*   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
 *   [neat (⭐67)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT).
 *   [neural-go (⭐64)](https://github.com/schuyler/neural-go) - Multilayer perceptron network implemented in Go, with training via backpropagation.
 *   [ocrserver (⭐547)](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker and Heroku.

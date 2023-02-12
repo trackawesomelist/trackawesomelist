@@ -12,6 +12,10 @@
 
 *   [Generative AI (⭐278)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
+### Decentralized Systems
+
+*   [ZeroNet (⭐16)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+
 ## [Feb 11, 2023](/content/2023/02/11/README.md)
 
 ### Health and Social Science

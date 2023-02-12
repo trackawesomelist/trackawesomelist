@@ -1,12 +1,24 @@
 # Awesome List Updates on Feb 12, 2023
 
-3 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Interfaces to Multiple Backends
+
+*   [go-transaction-manager (⭐18)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
+
+## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Articles / Others
+
+*   [Improve Blazor startup process UX](https://ysmoradi.medium.com/improve-blazor-startup-process-ux-9461839e00ec) - January 21, 2023 - You can do a lot of things with Blazor: PWA, SSR, SPA, Hybrid app... the process of how the user sees the first page is different for each of these modes.
+
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
@@ -17,13 +29,17 @@
 *   Lite-XL
     *   [lite-plugin-crystal (⭐2)](https://github.com/Tamnac/lite-plugin-crystal) - Crystal support for the [Lite-XL](https://lite-xl.com/en/) editor
 
-## [2. Awesome List](/content/sindresorhus/awesome/README.md)
+## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Computer Science
 
 *   [Generative AI (⭐278)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
-## [3. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+### Decentralized Systems
+
+*   [ZeroNet (⭐16)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+
+## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 

@@ -12,6 +12,10 @@
 
 *   [Generative AI (⭐278)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
+### Decentralized Systems
+
+*   [ZeroNet (⭐16)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+
 ### Health and Social Science
 
 *   [Digital Humanities (⭐85)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.

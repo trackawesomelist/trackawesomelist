@@ -788,6 +788,7 @@ additional ordered map implementations.
 
 *   [cayley (⭐14k)](https://github.com/google/cayley) - Graph database with support for multiple backends.
 *   [dsc (⭐26)](https://github.com/viant/dsc) - Datastore connectivity for SQL, NoSQL, structured files.
+*   [go-transaction-manager (⭐18)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 *   [gokv (⭐513)](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 
 ### Relational Database Drivers
@@ -1533,7 +1534,7 @@ additional ordered map implementations.
 *   [goscore (⭐86)](https://github.com/asafschers/goscore) - Go Scoring API for PMML.
 *   [gosseract (⭐2k)](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
 *   [libsvm (⭐73)](https://github.com/datastream/libsvm) - libsvm golang version derived work based on LIBSVM 3.14.
-*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
+*   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
 *   [neat (⭐67)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT).
 *   [neural-go (⭐64)](https://github.com/schuyler/neural-go) - Multilayer perceptron network implemented in Go, with training via backpropagation.
 *   [ocrserver (⭐547)](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker and Heroku.
