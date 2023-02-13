@@ -6,6 +6,56 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
+
+### Art & Image Generator
+
+- Name: [Galileo AI](https://www.usegalileo.ai/)
+
+  Title: Idea to Design in an Instant, Powered by AI.
+
+  Description: Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Chat Bot
+
+- Name: [Chatbase](https://www.chatbase.co/)
+
+  Title: Build an AI Chatbot Trained on Your Data.
+
+  Description: Just upload a pdf and get a link to a GPT based chatbot that can answer any question on it.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Organization & Automation
+
+- Name: [timeMaster](https://www.timemaster.ai/)
+
+  Title: Supercharge Your Focus and Productivity.
+
+  Description: TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Slides & Web Design
+
+- Name: [Genius by Diagram](https://www.genius.design/)
+
+  Title: Genius - Your AI Design Companion.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Chat Bot
@@ -252,7 +302,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Description: Create custom images using AI.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :x:
 
 
 - Name: [Bg Eraser](http://bgeraser.com)
@@ -812,7 +862,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Askrobi](http://www.askrobi.com)
 
-  Title: Power of AI in Whatsapp.
+  Title: Power of AI in WhatsApp.
 
   Description: Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!.
 
@@ -2642,7 +2692,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Goatchat](http://goatchat.ai)
 
-  Title: Goatchat AI - Avatar Chatgpt.
+  Title: Goatchat AI - Avatar ChatGPT.
 
   Description: Did you ever want to ask Napoleon or Einstein a few questions? Well, now you have a chance.
 
@@ -3476,7 +3526,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Albus](https://www.springworks.in/albus/)
 
-  Title: Albus - Chatgpt Now on Slack.
+  Title: Albus - ChatGPT Now on Slack.
 
   Description: Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack. Have the power of ChatGPT now right inside your Workspace!.
 
