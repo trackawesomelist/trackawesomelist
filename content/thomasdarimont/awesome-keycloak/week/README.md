@@ -11,6 +11,7 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Articles
 
 *   [Using Coder to Develop Keycloak Templates Live (almost)](https://dev.to/m8a-io/m8a-scenario-1-using-coder-to-develop-keycloak-templates-live-almost-26e2)
+*   [Keycloak Passkeys tutorial](https://keycloak.ch/keycloak-tutorials/tutorial-passkey/)
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
