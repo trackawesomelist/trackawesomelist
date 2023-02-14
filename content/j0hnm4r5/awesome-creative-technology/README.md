@@ -6,6 +6,53 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 [ Daily / [Weekly](/content/j0hnm4r5/awesome-creative-technology/week/README.md) / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
 
+## [Feb 14, 2023](/content/2023/02/14/README.md)
+
+### Creative Technology
+
+- Name: [**Jason Sherwood Design**](http://jasonsherwooddesign.com/)
+
+  Locations: \[NYC]
+
+  Keywords: television and broadway and concert stage design
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fjasonsherwooddesign.com%2F)
+
+
+- Name: [**Super A-OK**](https://superaok.com/)
+
+  Locations: \[NYC]
+
+  Keywords: A multi-modal service bureau for the 21st century, fabrication, electronics
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fsuperaok.com%2F)
+
+
+
+### Fabricators
+
+- Name: [**Gamma**](https://gamma.nyc/)
+
+  Locations: \[NYC]
+
+  Keywords: large scale robotic cnc, install, sculptures
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fgamma.nyc%2F)
+
+
+
+### Creative Agencies
+
+- Name: [**BUCK**](https://buck.co/)
+
+  Locations: \[LA] \[NYC] \[Sydney] \[Amsterdam]
+
+  Keywords: VR, AR, installation, real-time animation, 3D, experiential
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fbuck.co%2F)
+
+
+
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
 ### Collectives & Practices
@@ -660,15 +707,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Keywords: create modern experiences for tomorrow's brands
 
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.jam3.com)
-
-
-- Name: [**Jason Sherwood Design**](https://jasonsherwooddesign.com/)
-
-  Locations: \[NYC]
-
-  Keywords: television and broadway and concert stage design
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fjasonsherwooddesign.com%2F)
 
 
 - Name: [**Listen**](https://wearelisten.com/)

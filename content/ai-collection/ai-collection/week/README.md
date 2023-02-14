@@ -34,6 +34,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Organization & Automation
 
+- Name: [BuildAI](https://www.genius.design/)
+
+  Title: Build AI Interfaces in Minutes.
+
+  Description: Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [timeMaster](https://www.timemaster.ai/)
 
   Title: Supercharge Your Focus and Productivity.
@@ -2059,15 +2068,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ### Organization & Automation
-
-- Name: [BuildAI](http://www.buildai.space)
-
-  Title: Build AI Interfaces in Minutes.
-
-  Description: Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.
-
-  Offer Free Version: :grey\_question:
-
 
 - Name: [Hexowatch](http://hexact.pxf.io/beth0)
 

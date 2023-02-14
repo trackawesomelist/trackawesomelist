@@ -8,6 +8,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
+### .NET Community Standup - Blazor United in .NET 8 (February 14, 2023).
+
+*   The Blazor team shares early thoughts on Blazor United in .NET 8, an effort to create a single unified model for all your web UI scenarios that combines the best of Razor Pages, Blazor Server, and Blazor WebAssembly.
+*   With Steve Sanderson, Dan Roth, Mackinnon Buck, Javier Calvarro Nelson, Jon Galloway.
+*   10:00 AM Pacific | 18:00 UTC
+*   [live.dot.net](https://live.dot.net)
+
 ### Videos / Others
 
 *   [On .NET Live - Mapping with GeoBlazor](https://www.youtube.com/watch?v=fw8gGB2y1UM) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 7, 2023 - Do you need to display mapping data in your Blazor apps? In this week's episode, community member Tim Purdum joins the panel to show us GeoBlazor, a versatile web mapping API that you can implement without having to write a single line of JavaScript.

@@ -47,10 +47,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ***
 
+Translations:
+
+*   RU: [README.ru.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
+*   ZH-CN: [README.zh-CN.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+*   FR: [README.fr.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+
+***
+
 <div align="center">
-    <h2>Promotion</h2>
+    <h5>Promotion</h5>
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/raw/main/Looka.jpeg" alt="Lookah" border="0"/>
+        <img width="300" src="https://github.com/ai-collection/ai-collection/raw/main/Looka.png" alt="Lookah" border="0"/>
     </a>
     <p>This week's awesome AI application promotion is <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
     </a></p>
@@ -58,7 +66,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
         <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
     </a>
     <h4>Design your own beautiful brand</h4>
-    <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you’re ready to purchase </p>
+    <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you&#39;re ready to purchase</p>
     <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Get Started</b></a>
 </div>
 
@@ -68,7 +76,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 >
 > <br />
 
-## Contents
+## Index
 
 *   🎲 [Animation & 3D Modeling](#animation--3d-modeling)
 *   🏯 [Architecture & Interior Design](#architecture--interior-design)
@@ -117,6 +125,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [lumalabs](https://captures.lumalabs.ai/imagine) | Imagine 3D V1.2 (Alpha).                           | An early experiment to prototype and create 3D with text Access to generation is gradually expanding to everyone on the waitlist. | :white\_check\_mark: |
 | [plask](https://plask.ai/)                       | AI-Powered Mocap Animation Tool.                   | Easily extract motion from video without expensive bodysuits or motions work.                                                     | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Architecture & Interior Design
 
 | Name                                        | Title                                                                                                 | Description                                                                                                                                    |  Offer Free Version  |
@@ -128,6 +140,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Image Computer](http://image.computer)     | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art.                     | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds.                                         |          :x:         |
 | [Interior AI](http://interiorai.com)        | Interior Ai: Interior Design Ideas Inspiration, and Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white\_check\_mark: |
 | [Makeit.ai](http://www.maket.ai)            | Generative Design - Architecture Design Software - Maket.                                             | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.       |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Art & Image Generator
 
@@ -225,6 +241,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [artssy](https://www.artssy.co/)                                                     | Create Unique AI Generated Images in 1-Click.                                                                | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!.                                                                                                                                                                 |          :x:         |
 | [flair](http://flair.ai/)                                                            | The AI Design Tool for Branded Content.                                                                      | .                                                                                                                                                                                                                                                                                    | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Avatars
 
 | Name                                                    | Title                                                         | Description                                                                                                                                                                                                                                                                            |  Offer Free Version  |
@@ -261,6 +281,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Tryitonai](http://www.tryitonai.com)                   | Stunning Professional Headshots & Portraits - Try It on AI.   | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos.                                                                                                                                                          |   :grey\_question:   |
 | [xpression camera 2.0](http://xpressioncamera.com)      | Xpression Camera.                                             | Become anyone on Zoom, Twitch, or any streaming video.                                                                                                                                                                                                                                 |   :grey\_question:   |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Chat Bot
 
 | Name                                    | Title                                                           | Description                                                                                                                                                                        |  Offer Free Version  |
@@ -276,6 +300,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Keepi](https://www.keepi.ai/)          | AI Over WhatsApp.                                               | Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge.                                                                | :white\_check\_mark: |
 | [NOLU](http://noluai.com)               | Interacting With AI Should Be Simple.                           | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine.                                                                                                       | :white\_check\_mark: |
 | [Vacay](https://usevacay.com/chatbot)   | Vacation Chat Agent.                                            | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions.                 | :white\_check\_mark: |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Code & Database Assistant
 
@@ -306,6 +334,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Text2SQL](http://www.text2sql.ai/)                                | Text2Sql.Ai - Generate SQL Queries With AI for Free!.                                      | .                                                                                                                                                                                        | :white\_check\_mark: |
 | [Whatthediff](http://whatthediff.ai)                               | What-the-Diff – AI-Powered Code Review Assistant.                                          | The AI powered GitHub app that explains the changes within your pull requests in plain english.                                                                                          |   :grey\_question:   |
 | [aidev.codes](https://aidev.codes/)                                | AI Dev Codes for You.                                                                      | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering.                                                                                      | :white\_check\_mark: |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Content Generation & Seo
 
@@ -347,6 +379,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31)     | Automate Content Creation for Your Small Business.                                | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.                                                                             | :white\_check\_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0)                        | Instantly Convert Your YouTube Content Into Engaging Blog Articles.               | Boost your SEO and brand presence.                                                                                                                                                                                      | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Creators Toolkit
 
 | Name                                             | Title                                                                                                | Description                                                                                                                                                                                                                                                                            |  Offer Free Version  |
@@ -360,6 +396,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Media.io](https://www.media.io/?ref=beth0)      | Online Video, Audio, Image Creativity Platform Powered by AI.                                        | Simplicity. Diversity. Flexibility.                                                                                                                                                                                                                                                    | :white\_check\_mark: |
 | [Runway](http://runwayml.com)                    | Runway - Next-Generation Creation Suite - Everything You Need to Make Content, Fast.                 | Discover advanced video editing capabilities to take your creations to the next level.                                                                                                                                                                                                 | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Customer Support
 
 | Name                                     | Title                                                     | Description                                                                                                                         |  Offer Free Version  |
@@ -369,6 +409,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [EddyAI](http://eddyai.com)              | Sell and Support Your Customers Automatically 24/7.       | Increase Sales and Reduce Support Costs.                                                                                            | :white\_check\_mark: |
 | [ResolveAI](http://resolveai.co)         | Resolveai.                                                | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time.                   |   :grey\_question:   |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Education & Learning
 
 | Name                                        | Title                                                                                | Description                                                                                                                                                                                                                                                                 |  Offer Free Version  |
@@ -377,6 +421,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Lorro](https://lorro.io/)                  | Become a Fluent English Speaker for a Fraction of a Cost. By Talking to an AI Tutor. | .                                                                                                                                                                                                                                                                           |          :x:         |
 | [Replicate](http://replicate.com)           | Machine Learning Doesn\&Apos;T Need to Be So Hard.                                   | Run open-source models with a cloud API.                                                                                                                                                                                                                                    | :white\_check\_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI.                                                                    | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Email Assistant
 
@@ -394,12 +442,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Warmer.Ai](http://warmer.ai)                               | Warmer.Ai - AI Email Writer.                                                                | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization.                                                      |   :grey\_question:   |
 | [superReply](http://superreply.co)                          | Upgrade Your Email Game.                                                                    | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch.                                                      | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Fashion
 
 | Name                                                | Title                                                                    | Description                                                                                                                                               | Offer Free Version |
 | --------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: |
 | [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free.                                            |  :grey\_question:  |
 | [Visualhound](http://visualhound.com)               | Visualhound - Prototype Your Fashion Design Ideas With AI.               | Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process. |  :grey\_question:  |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Fun
 
@@ -418,6 +474,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [StoriesForKids](http://www.storiesforkids.ai)         | Storiesforkids.Ai: Personalized Kid'S Books Using AI.     | Turn real-life situations into fun stories & illustrations in seconds.                                                                                                                                              |   :grey\_question:   |
 | [TextStyler](http://www.textstyler.org)                | Re-Write Anything in Fun Styles, Using AI.                | .                                                                                                                                                                                                                   |   :grey\_question:   |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Gaming
 
 | Name                                      | Title                                                                | Description                                                                                                                                                                                           |  Offer Free Version  |
@@ -431,6 +491,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [charisma](https://charisma.ai/)          | Power Real-Time Digital Humans.                                      | For Games • Metaverses • VR • Education • TV & Film • Publishing and beyond!.                                                                                                                         |   :grey\_question:   |
 | [hidden door](https://www.hiddendoor.co/) | Hello, Worlds!.                                                      | A new kind of social roleplaying experience, powered by narrative AI.                                                                                                                                 |   :grey\_question:   |
 | [latitude](https://latitude.io/)          | The Future of AI-Generated Games.                                    | We're making AI a tool of creativity and freedom for everyone.                                                                                                                                        |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Gift Ideas
 
@@ -448,6 +512,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI.                      | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics.                                                                                                                            |          :x:         |
 | [Text2present](http://text2present.com)             | Text2Present.Com - Creative Presents From Busy People.                                 | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. |   :grey\_question:   |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Healthcare
 
 | Name                                             | Title                                                                   | Description                                                                                                                                                            |  Offer Free Version  |
@@ -455,6 +523,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Getactyv](http://getactyv.com)                  | Getactyv - AI and Computer Vision Assisted Health and Fitness Platform. | .                                                                                                                                                                      |   :grey\_question:   |
 | [Replika](http://replika.com)                    | The AI Companion Who Cares.                                             | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!.                                                             |   :grey\_question:   |
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes by AI.                                     | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white\_check\_mark: |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Human Resources & Resume
 
@@ -470,6 +542,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [rankode](http://www.rankode.ai)              | AI for Human Resources - Rankode.             | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention.                                                                   |   :grey\_question:   |
 | [springworks](http://www.springworks.in)      | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI.                                                                                                                 | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Legal
 
 | Name                                           | Title                                    | Description                                                                                      |  Offer Free Version  |
@@ -479,6 +555,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [PatentPal](http://patentpal.com)              | Generative AI for Intellectual Property. | Automate mechanical writing in your patent applications.                                         | :white\_check\_mark: |
 | [Spellbook](https://www.spellbook.legal/)      | Draft Contracts 3X Faster With AI.       | Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word. |   :grey\_question:   |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Logo Generator
 
 | Name                                        | Title                                                                                                               | Description                                                                                                         |  Offer Free Version  |
@@ -487,6 +567,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Looka](https://looka.grsm.io/jscfk35v34tn) | Free Logo Maker & Intelligent Brand Designer.                                                                       | Make a logo and build a brand you love with Looka.                                                                  | :white\_check\_mark: |
 | [Make Logo AI](https://makelogo.ai/)        | Makelogo.Ai: Get the Perfect Logo for Your Startup.                                                                 | Generate beautiful and unique logos for your startup, powered by Artifical Intelligence.                            |          :x:         |
 | [Text To Book Cover](http://stockimg.ai)    | AI Image Generation for Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters and More - Stockimg AI. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Music & Audio Generation
 
@@ -504,17 +588,25 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Riffusion](http://www.riffusion.com)                       | Riffusion.                                                                     | Stable diffusion for real-time music generation.                                                                                                                                                        | :white\_check\_mark: |
 | [Soundraw](http://soundraw.io)                              | Stop Searching for the Song You Need. Create It.                               | Royalty-free music, AI generated for you.                                                                                                                                                               | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Organization & Automation
 
 | Name                                                        | Title                                                                                                                | Description                                                                                                                                                |  Offer Free Version  |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
-| [BuildAI](http://www.buildai.space)                         | Build AI Interfaces in Minutes.                                                                                      | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.                                                 |   :grey\_question:   |
+| [BuildAI](https://www.genius.design/)                       | Build AI Interfaces in Minutes.                                                                                      | Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.                                                 |   :grey\_question:   |
 | [Hexowatch](http://hexact.pxf.io/beth0)                     | Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking. | Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes.                         |          :x:         |
 | [KUBIYA](http://kubiya.ai/)                                 | Devops Virtual Assistant.                                                                                            | Provide developers secure, self-serve access to operational workflows, cloud resources and organizational knowledge with conversational AI.                |   :grey\_question:   |
 | [Product Launch AI](https://shapenship.com/productlaunchai) | Unleash the Power of AI to Supercharge Your Product Launches.                                                        | Blast off to a great launch without worrying about launch copy!.                                                                                           |   :grey\_question:   |
 | [bardeen](https://www.bardeen.ai/ai)                        | AI Meets Automations.                                                                                                | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity.                          |   :grey\_question:   |
 | [mem](https://get.mem.ai/)                                  | The Self-Organizing Workspace.                                                                                       | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white\_check\_mark: |
 | [timeMaster](https://www.timemaster.ai/)                    | Supercharge Your Focus and Productivity.                                                                             | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.            | :white\_check\_mark: |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Photo & Image Editing
 
@@ -543,6 +635,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [jpghd](http://jpghd.com)                      | JPGHD - Lossless Restoration of Old Photos With AI.                                                                 | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo).                        |   :grey\_question:   |
 | [paintbytext](https://paintbytext.chat)        | Paint by Text.                                                                                                      | paintbytext - Edit your photos using written instructions, with the help of an AI.                                                                                          | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Plugins & Extensions
 
 | Name                                | Title                                                             | Description                                                                                              |  Offer Free Version  |
@@ -551,6 +647,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Autoname](http://www.autoname.org) | Rename All Your Layers in One Click. Thanks to Ai. Open Source.   | Rename Figma frames in one click, that's pretty much it.                                                 |   :grey\_question:   |
 | [Merlin](http://merlin.foyer.work)  | Merlin.                                                           | Free Open AI's ChatGPT powered extension to use anywhere!.                                               | :white\_check\_mark: |
 | [SplashAI](http://www.splashai.art) | Splashai Is a Figma Plugin, Search Engine and AI Image Generator. | .                                                                                                        |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Reviews & Recommendations
 
@@ -561,6 +661,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Geniusreview](http://geniusreview.xyz)                    | Geniusreview - 360° AI Performance Reviews.             | Save tons of hours by using GeniusReview to get tailored answers to your performance review questions.                                                                                                                                                     |  :grey\_question:  |
 | [Reviewz](http://www.reviewz.ai)                           | Discover All the Top Things Recommended by Ai.          | .                                                                                                                                                                                                                                                          |  :grey\_question:  |
 | [Sona](http://www.readthistwice.com)                       | Read This Twice - Books Worth Reading Twice.            | We spend countless hours scouring the internet for the best book recommendations from people you admire. Our database is constantly growing, and every single recommendation has been verified for authenticity and includes a link to the source. Enjoy!. |  :grey\_question:  |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Sales & Marketing
 
@@ -579,6 +683,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Speaq.ai](https://www.speaq.ai/)               | Ready Made Conversional AI for Your Business.            | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. |   :grey\_question:   |
 | [unbounce](http://unbounce.com)                 | Smart Marketing Tools to Grow Your Business.             | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.                    |          :x:         |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Search Engines
 
 | Name                                      | Title                                                                                                              | Description                                                                                                                                                                                                           |  Offer Free Version  |
@@ -591,6 +699,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [StockGPT](https://www.askstockgpt.com/)  | AI-Powered Search Engine.                                                                                          | StockGPT is an AI-powered search engine that was trained on all of Tesla's quarterly earnings call transcripts dating back to Q2 2011.                                                                                | :white\_check\_mark: |
 | [You](http://you.com)                     | The AI Search Engine You Control.                                                                                  | .                                                                                                                                                                                                                     | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Slides & Web Design
 
 | Name                                            | Title                                                      | Description                                                                                                                                                                                                 |  Offer Free Version  |
@@ -602,6 +714,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Piggy](https://piggy.to/magic)                 | Mobile Content Creator.                                    | Creating stunning content on your phone just got easy.                                                                                                                                                      | :white\_check\_mark: |
 | [SlidesAI](https://www.slidesai.io/)            | Create Presentation Slides With AI in Seconds.             | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white\_check\_mark: |
 | [Tome](http://beta.tome.app)                    | Generative Storytelling Has Arrived.                       | Unlock your best work with Tome's AI-powered storytelling format.                                                                                                                                           | :white\_check\_mark: |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Social Networks & Dating
 
@@ -617,12 +733,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Tweethunter](http://tweethunter.io)      | Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics.                     | Get sales, growth and new networks. Faster than what you're currently trying.                                                                                                                                                                                                         |   :grey\_question:   |
 | [Tweetspear](http://www.tweetspear.com)   | Tweetspear - Boost Your Twitter Engagement.                                                            | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies .                                                                                                                                                                                                            |   :grey\_question:   |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Speech
 
 | Name                                                       | Title                                                        | Description                                                                                                                                                                                                                                               |  Offer Free Version  |
 | ---------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) | Enhance Voice Recordings for Free.                           | Speech enhancement makes voice recordings sound as if they were recorded in a professional studio.                                                                                                                                                        | :white\_check\_mark: |
 | [Lingostar](http://www.lingostar.ai)                       | Lingostar - Real Conversations With Artificial Intelligence. | Lingostar is the AI who language learners can speak to in English, Spanish, or French. Reach fluency with REAL spoken conversations for free. No more tutors - chat with the Lingostar A.I. to improve your pronunciation, vocabulary, and comprehension. | :white\_check\_mark: |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Text
 
@@ -676,6 +800,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Your Cover Letter](http://yourcoverletter.com)         | AI Cover Letter Builder - Upload Your Resume to Get Started.                               | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds.                                                                                            |   :grey\_question:   |
 | [coverletter.app](http://coverletter.app)               | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App.                    | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology.                                                                                             |   :grey\_question:   |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Text To Speech
 
 | Name                                                           | Title                                                                                                        | Description                                                                                                                                                                                                    |  Offer Free Version  |
@@ -693,6 +821,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [VERBATIK](http://verbatik.com)                                | AI Powered Text to Voice Generation.                                                                         | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.         |          :x:         |
 | [Wellsaid](http://wellsaidlabs.com)                            | Convert Text to Voice in Real Time.                                                                          | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content.                                                                                                 | :white\_check\_mark: |
 
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
+
 ## Translation & Transcript
 
 | Name                                                                                              | Title                                                                   | Description                                                                                                                                                                                                                                                           |  Offer Free Version  |
@@ -708,6 +840,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Taption](http://www.taption.com)                                                                 | Automatically Generate Transcript, Translation and Subtitles - Taption. | .                                                                                                                                                                                                                                                                     |   :grey\_question:   |
 | [TranslateVideo](http://www.translate.video)                                                      | Translate.Video.                                                        | .                                                                                                                                                                                                                                                                     |   :grey\_question:   |
 | [Voicetapp](http://voicetapp.com)                                                                 | Voicetapp - Speech to Text Transcription.                               | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology.                                                                                                                                                                     |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Video
 
@@ -727,6 +863,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Supercreator AI](http://www.supercreator.ai)           | Supercreator.Ai Â¢ Create Videos 10X Faster With AI. | .                                                                                                                                           |   :grey\_question:   |
 | [Waymark](http://waymark.com)                           | Boost Local Sales With Unbelievably Easy Video.       | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. |   :grey\_question:   |
 | [Wzrd.ai](http://wzrd.ai)                               | Experience Your Sound.                                | WZRD augments your audio with immersive video powered by artificial intelligence.                                                           |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Writing Assistant
 
@@ -754,6 +894,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [Whiskey AI](http://beta.whiskeyai.xyz)                 | Whiskey Will Help You Generate the Content You Want.                 | Whiskey has been designed for students, journalists and professionals to be able to express their thoughts into well-written text formats with minimal effort and time. | :white\_check\_mark: |
 | [Wordtune](http://www.wordtune.com)                     | Wordtune - Your Personal Writing Assistant & Editor.                 | .                                                                                                                                                                       |   :grey\_question:   |
 | [Writefull Academizer](http://x.writefull.com)          | Writefull X: AI Applied to Academic Writing.                         | .                                                                                                                                                                       |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Other
 
@@ -1095,4 +1239,8 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 | [codium](http://www.codium.ai/)                                     | Codium Â¢ Code Fast. Break Fewer Things.                                                                          | .                                                                                                                                                                                                                                                                                  |   :grey\_question:   |
 | [deck.rocks](https://www.deck.rocks/)                               | Deck.Rocks: Generate Pitch Decks Using GPT-3.                                                                      | .                                                                                                                                                                                                                                                                                  |   :grey\_question:   |
 | [micro Dalle-2](http://micropay.ai)                                 | Dalle-2 Image Generator - Micropay.                                                                                | Anonymous and pay-as-you-go generative AI software.                                                                                                                                                                                                                                |   :grey\_question:   |
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
