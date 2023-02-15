@@ -6,6 +6,16 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Feb 15, 2023](/content/2023/02/15/README.md)
+
+### Videos / Others
+
+*   [ASP.NET Community Standup - Blazor United in .NET 8](https://www.youtube.com/watch?v=kIH_Py8ytlY\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-83%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 14, 2023 - The Blazor team shares early thoughts on Blazor United in .NET 8, an effort to create a single unified model for all your web UI scenarios that combines the best of Razor Pages, Blazor Server, and Blazor WebAssembly. [Community links](https://www.theurlist.com/blazor-standup-2023-02-14).
+
+### Articles / Others
+
+*   [Embed Reporting in Native Blazor Applications](https://www.telerik.com/blogs/embed-reporting-native-blazor-applications) - February 14, 2023 - See the setup and customization of the newest Progress Telerik Reporting viewer, implemented with Telerik UI for Blazor controls with both Blazor Wasm and Blazor Server.
+
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
 ### .NET Community Standup - Blazor United in .NET 8 (February 14, 2023).
@@ -42,15 +52,15 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Templates
 
-*   [BitPlatform Templates (⭐382)](https://github.com/bitfoundation/bitplatform) - ![stars](https://img.shields.io/github/stars/bitfoundation/bitplatform?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitfoundation/bitplatform?style=flat-square) - Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. [Read more](https://bitplatform.dev/).
+*   [BitPlatform Templates](https://github.com/bitfoundation/bitplatform) - ![stars](https://img.shields.io/github/stars/bitfoundation/bitplatform?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitfoundation/bitplatform?style=flat-square) - Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. [Read more](https://bitplatform.dev/).
 
 ### Individual components / Others
 
-*   [SignaturePad (⭐2)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
+*   [SignaturePad (⭐9)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
 
 ### Tools & Utilities / Others
 
-*   [Blazor Hotkeys2 (⭐8)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
+*   [Blazor Hotkeys2 (⭐9)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
 *   [CodeBeam.GoogleApis.Blazor (⭐5)](https://github.com/CodeBeamOrg/CodeBeam.GoogleApis.Blazor) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=86400) An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use.
 
 ### Articles / Others

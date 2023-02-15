@@ -1,12 +1,38 @@
 # Awesome List Updates on Feb 13 - Feb 19, 2023
 
-26 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Meta-Level Considerations / Rationality
+
+*   [Computational Rationality: Linking Mechanism and Behavior Through Bounded Utility Maximization](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12086) - ***Topics in Cognitive Science***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=15813211310327194798\&hl=en\&as_sdt=0,5)]. Introducing the computational rationality framework for including information-processing bounds in rational analyses, which emphasizes the incorporation of computational mechanism into the definition of rational action.
+
+## [2. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+
+### Other Articles & Tutorials
+
+*   [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
+
+## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+
+### Migration
+
+*   [Upgrade/Migration Guide](https://book.cakephp.org/4.0/en/appendices.html) - Official migration guide.
+
+### Queue
+
+*   [Queue plugin (⭐31)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
+
+### CakePHP Tutorials
+
+*   [Official Blog tutorial](https://book.cakephp.org/4.0/en/tutorials-and-examples/blog/blog.html)
+
+## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Linux Evidence Collection
 
@@ -16,35 +42,39 @@
 
 *   [MAGNET DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows) - Fast memory acquisition tool for Windows (x86, x64, ARM64). Generate full memory crash dumps of Windows machines.
 
-## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [5. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
 *   [VInstall (⭐22)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### AI
 
 *   [OpenAI (⭐234)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
 *   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
+### Blazor
+
+*   [blazork8s (⭐65)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+
 ### Source Generator
 
 *   [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - A complete guide to become a ASP.NET Developer.
 
-## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [8. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Reporting Systems
 
 *   [EMPRES-i+ Global Animal Disease Information System](https://empres-i.apps.fao.org/) - A web platform maintained by FAO that provides geolocated data on animal diseases such as rabies, foot-and-mouth disease, or MERS coronavirus. This is a tracking service in which countries and veterinarians can opt-in to reporting.
 
-## [6. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [9. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Validating / Symfony2
 
@@ -54,13 +84,17 @@
 
 *   [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Productivity
 
 *   [illacloud/illa (⭐99)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
 
-## [8. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+### Libraries / System
+
+*   [sorairolake/sysexits-rs (⭐10)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] — The system exit codes as defined by [`<sysexits.h>`](https://man.openbsd.org/sysexits). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+
+## [11. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -107,7 +141,7 @@
 
 
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Related Awesome Lists / Galleries
 
@@ -117,7 +151,7 @@
 
 *   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 
-## [10. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [13. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Fraud / Online Payments
 
@@ -127,13 +161,13 @@
 
 *   [Patents on billing systems of the dot-com era](https://news.ycombinator.com/item?id=34773821) - All of them have been abandonned and constitute prior art. This means there is nothing to prevent anybody to implement or commercialize these concepts.
 
-## [11. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### DevOps / MIT
 
 *   [powerjoular (⭐16)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -143,7 +177,7 @@
 
 *   [jsonParse (⭐6)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -153,7 +187,7 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [14. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [17. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Basic matching algorithms
 
@@ -165,7 +199,7 @@
     *   [GitHub repository :octocat: (⭐568)](https://github.com/PRBonn/kiss-icp)
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
-## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [18. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### .NET Community Standup - Blazor United in .NET 8 (February 14, 2023).
 
@@ -176,34 +210,39 @@
 
 ### Videos / Others
 
+*   [ASP.NET Community Standup - Blazor United in .NET 8](https://www.youtube.com/watch?v=kIH_Py8ytlY\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-83%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 14, 2023 - The Blazor team shares early thoughts on Blazor United in .NET 8, an effort to create a single unified model for all your web UI scenarios that combines the best of Razor Pages, Blazor Server, and Blazor WebAssembly. [Community links](https://www.theurlist.com/blazor-standup-2023-02-14).
 *   [On .NET Live - Mapping with GeoBlazor](https://www.youtube.com/watch?v=fw8gGB2y1UM) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 7, 2023 - Do you need to display mapping data in your Blazor apps? In this week's episode, community member Tim Purdum joins the panel to show us GeoBlazor, a versatile web mapping API that you can implement without having to write a single line of JavaScript.
 
-## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+### Articles / Others
+
+*   [Embed Reporting in Native Blazor Applications](https://www.telerik.com/blogs/embed-reporting-native-blazor-applications) - February 14, 2023 - See the setup and customization of the newest Progress Telerik Reporting viewer, implemented with Telerik UI for Blazor controls with both Blazor Wasm and Blazor Server.
+
+## [19. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Design Systems
 
 *   [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [magento (⭐0)](https://github.com/cmuench/zsh-magento-cloud/blob/main/zsh-magento-cloud.plugin.zsh) - Add Magento Cloud Command Line Interface ([magento-cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html?lang=en)) completions.
 
-## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [TrustInSoft Analyzer](https://trust-in-soft.com) :copyright: — Exhaustive detection of coding errors and their associated security vulnerabilities. This encompasses a sound undefined behavior detection (buffer overflows, out-of-bounds array accesses, null-pointer dereferences, use-after-free, divide-by-zeros, uninitialized memory accesses, signed overflows, invalid pointer arithmetic, etc.), data flow and control flow verification as well as full functional verification of formal specifications. All versions of C up to C18 and C++ up to C++20 are supported. TrustInSoft Analyzer will acquire ISO 26262 qualification in Q2'2023 (TCL3). A MISRA C checker is also bundled.
 
-## [19. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Using Coder to Develop Keycloak Templates Live (almost)](https://dev.to/m8a-io/m8a-scenario-1-using-coder-to-develop-keycloak-templates-live-almost-26e2)
 *   [Keycloak Passkeys tutorial](https://keycloak.ch/keycloak-tutorials/tutorial-passkey/)
 
-## [20. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [23. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Testing / Fixtures
 
@@ -213,7 +252,7 @@
 
 *   [JsonUnit (⭐727)](https://github.com/lukas-krecan/JsonUnit) - Library that simplifies JSON comparison in tests.
 
-## [21. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [24. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
 
@@ -281,13 +320,13 @@
 
 
 
-## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
 *   [figsoda/nix-develop.nvim (⭐16)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Forms
 
@@ -297,13 +336,13 @@
 
 *   [Clockwork Micro](https://clockworkmicro.com/) — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation).
 
-## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [27. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Modules / Various Godot versions
 
 *   [godot-luaAPI (⭐80)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 
-## [25. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [28. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
@@ -312,7 +351,7 @@
 *   [Knight Frame](https://seraguith.itch.io/knight-frame) - Add high-speed humanoid mech battles to your Starforged campaign
 *   [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
 
-## [26. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [29. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Orchestration
 

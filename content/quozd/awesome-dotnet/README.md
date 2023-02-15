@@ -8,6 +8,10 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
+### Blazor
+
+*   [blazork8s (⭐65)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+
 ### Code Analysis and Metrics
 
 *   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
