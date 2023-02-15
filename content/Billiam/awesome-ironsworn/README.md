@@ -6,6 +6,13 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Feb 15, 2023](/content/2023/02/15/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Knight Frame](https://seraguith.itch.io/knight-frame) - Add high-speed humanoid mech battles to your Starforged campaign
+*   [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
+
 ## [Feb 13, 2023](/content/2023/02/13/README.md)
 
 ### Hacks and homebrew / Ironsworn

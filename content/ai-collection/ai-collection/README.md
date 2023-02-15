@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Feb 15, 2023](/content/2023/02/15/README.md)
+
+### Slides & Web Design
+
+- Name: [Glimmer AI](https://glimmerai.tech)
+
+  Title: AI-Powered Presentation Magic.
+
+  Description: Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
 ### Organization & Automation

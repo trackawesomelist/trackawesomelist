@@ -12,6 +12,8 @@ An awesome list of awesome Ironsworn projects
 
 *   [Iron Valley](https://mkirin.itch.io/iron-valley) - A cozy, simplified Ironsworn and Starforged hack focusing on small town life, fulfilling promises, and making the most of each day
 *   [Ironsworn Nemesis](https://gceh.itch.io/ironsworn-nemesis) - Generate nemeses when defeated, a hack for Ironsworn and Starforged
+*   [Knight Frame](https://seraguith.itch.io/knight-frame) - Add high-speed humanoid mech battles to your Starforged campaign
+*   [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 

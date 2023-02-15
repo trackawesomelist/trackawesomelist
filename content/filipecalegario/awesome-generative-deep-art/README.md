@@ -6,6 +6,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 15, 2023](/content/2023/02/15/README.md)
+
+### Miscellaneous / Jobs in Generative AI
+
+*   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
+
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
 ### Related Awesome Lists / Galleries

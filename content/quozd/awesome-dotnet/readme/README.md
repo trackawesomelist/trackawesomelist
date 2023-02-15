@@ -16,7 +16,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby (⭐13k)](https://github.com/markets/awesome-ruby), [awesome-php (⭐28k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐155k)](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks (⭐37k)](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks (⭐2.1k)](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-ruby (⭐13k)](https://github.com/markets/awesome-ruby), [awesome-php (⭐28k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐156k)](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks (⭐37k)](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks (⭐2.1k)](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard (⭐16k)](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
@@ -348,6 +348,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Metrics-Net (⭐628)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 *   [AspNet.Metrics (⭐9)](https://github.com/alhardy/aspnet-metrics) - Capturing CLR, application-level web request metrics. Middleware and extensions using Metrics-Net
 *   [BenchmarkDotNet (⭐8.7k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 *   [Codinion](https://www.codinion.com/) - Enhanced syntax highlighting for C# and some other "Visual" features. **\[$]**
 *   [NsDepCop (⭐144)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 *   [WebBen (⭐9)](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
@@ -792,7 +793,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Spreads (⭐384)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 *   [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
 *   [Synapses (⭐65)](https://github.com/mrdimosthenis/Synapses) - An in-memory neural network library written in F#.
-*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native .NET (C#, F# or Visual Basic) code with zero dependencies.
+*   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native .NET (C#, F# or Visual Basic) code with zero dependencies.
 
 ## Markdown Processors
 
@@ -1320,4 +1321,5 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 *   [NuGet Trends](https://nugettrends.com) - Check out NuGet packages adoption and what's trending on NuGet.
 *   [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
+*   [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - A complete guide to become a ASP.NET Developer.
 

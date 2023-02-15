@@ -14,7 +14,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 <div align="center">
     <img width="150" alt="ai-collection logo" src="https://github.com/ai-collection/ai-collection/raw/main/logo-transparent.png" />
-    <h1>ai-collection</h1>
+    <br />
     <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
     <br />
@@ -28,7 +28,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=823" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=824" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -710,6 +710,7 @@ Translations:
 | [ChatBA](https://www.chatba.com/)               | Chatbcg: Generative AI for Slides.                         | Instantly create slide decks using ChatBCG.                                                                                                                                                                 |   :grey\_question:   |
 | [Durable](http://durable.co)                    | Durable: AI Website Builder and Service Business Software. | .                                                                                                                                                                                                           |   :grey\_question:   |
 | [Genius by Diagram](https://www.genius.design/) | Genius - Your AI Design Companion.                         | .                                                                                                                                                                                                           |   :grey\_question:   |
+| [Glimmer AI](https://glimmerai.tech)            | AI-Powered Presentation Magic.                             | Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands.                                                                          | :white\_check\_mark: |
 | [Magician](http://magician.design)              | Magician for Figma.                                        | A magical design tool for Figma powered by AI.                                                                                                                                                              |   :grey\_question:   |
 | [Piggy](https://piggy.to/magic)                 | Mobile Content Creator.                                    | Creating stunning content on your phone just got easy.                                                                                                                                                      | :white\_check\_mark: |
 | [SlidesAI](https://www.slidesai.io/)            | Create Presentation Slides With AI in Seconds.             | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white\_check\_mark: |

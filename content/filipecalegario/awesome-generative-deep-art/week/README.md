@@ -12,6 +12,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐28)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
+### Miscellaneous / Jobs in Generative AI
+
+*   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image

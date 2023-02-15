@@ -670,6 +670,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Miscellaneous
 
+### Jobs in Generative AI
+
+*   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
+
 ### Improving Google Colab experience
 
 *   [7 ways to load external data into Google Colab | by B. Chen | Towards Data Science](https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7)

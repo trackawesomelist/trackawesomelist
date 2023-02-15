@@ -64,6 +64,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Glimmer AI](https://glimmerai.tech)
+
+  Title: AI-Powered Presentation Magic.
+
+  Description: Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
