@@ -6,6 +6,12 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 [ Daily / [Weekly](/content/MartinMiles/awesome-sitecore/week/README.md) / [Overview](/content/MartinMiles/awesome-sitecore/readme/README.md) ]
 
+## [Feb 16, 2023](/content/2023/02/16/README.md)
+
+### Helix
+
+*   [PLAY Summit Demo (⭐26)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+
 ## [Feb 07, 2023](/content/2023/02/07/README.md)
 
 ### Content Hub One

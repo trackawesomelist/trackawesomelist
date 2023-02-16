@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Feb 16, 2023](/content/2023/02/16/README.md)
+
+### GUI Development
+
+*   [Ultimate GTK4 Crystal Guide](https://ultimate-gtk4-crystal-guide.geopjr.dev/) - Learn how to create premium GTK4 apps in Crystal
+
 ## [Feb 12, 2023](/content/2023/02/12/README.md)
 
 ### Misc

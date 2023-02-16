@@ -6,6 +6,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Feb 16, 2023](/content/2023/02/16/README.md)
+
+### Serialization
+
+*   [FluentSerializer (⭐14)](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
+
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
 ### Blazor

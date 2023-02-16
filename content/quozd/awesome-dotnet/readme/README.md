@@ -1106,6 +1106,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Migrant (⭐45)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 *   [Utf8Json (⭐2.3k)](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 *   [ObjectDumper.NET (⭐293)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
+*   [FluentSerializer (⭐14)](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
 
 ## SMS and Phone calls
 

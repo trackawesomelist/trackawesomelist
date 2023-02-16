@@ -16,6 +16,10 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 *   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
+### Serialization
+
+*   [FluentSerializer (⭐14)](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
+
 ### Source Generator
 
 *   [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - A complete guide to become a ASP.NET Developer.
