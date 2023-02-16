@@ -6,6 +6,12 @@ Awesome Low Code platforms, vendors, tools and resources
 
 [ Daily / [Weekly](/content/zenitysec/awesome-low-code/week/README.md) / [Overview](/content/zenitysec/awesome-low-code/readme/README.md) ]
 
+## [Feb 16, 2023](/content/2023/02/16/README.md)
+
+### Platforms / Low Code Application Platform
+
+*   [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
+
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
 ### Platforms / Low Code Application Platform
