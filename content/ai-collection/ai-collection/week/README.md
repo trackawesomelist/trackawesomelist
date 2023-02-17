@@ -32,6 +32,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Code & Database Assistant
+
+- Name: [CodiumAI](http://www.codium.ai/)
+
+  Title: CodiumAI - Code Fast. Break Fewer Things.
+
+  Description: IDE extension for generation of smart context-aware tests
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Organization & Automation
 
 - Name: [BuildAI](https://www.genius.design/)
@@ -7559,15 +7571,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - Name: [Wordfixerbot](http://www.wordfixerbot.com)
 
   Title: Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [codium](http://www.codium.ai/)
-
-  Title: Codium Â¢ Code Fast. Break Fewer Things.
 
   Description: .
 

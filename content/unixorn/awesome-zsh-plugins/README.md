@@ -6,6 +6,22 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Feb 17, 2023](/content/2023/02/17/README.md)
+
+### Prerequisites
+
+*   [Cascadia Code (⭐22k)](https://github.com/microsoft/cascadia-code) - Microsoft's Cascadia Code
+*   [Fira Mono (⭐4.9k)](https://github.com/mozilla/Fira) - Mozilla's Fira type family.
+*   [Hack](http://sourcefoundry.org/hack/) - Another Powerline-compatible font designed for source code and terminal usage.
+*   [Input Mono](https://input.djr.com/) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes Powerline glyphs.
+*   [Iosevka](https://be5invis.github.io/Iosevka/) - Iosevka is an open source slender monospace sans-serif and slab-serif typeface inspired by [Pragmata Pro](http://www.fsd.it/fonts/pragmatapro.htm), [M+](http://mplus-fonts.osdn.jp/) and [PF DIN Mono](https://www.myfonts.com/fonts/parachute/pf-din-mono/), designed to be the ideal font for programming.
+*   [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
+*   [Mononoki](https://madmalik.github.io/mononoki/) - Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
+*   [More Nerd Fonts](https://www.nerdfonts.com/font-downloads) - Another site to download nerd fonts.
+*   [Nerd fonts (⭐42k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
+*   [Victor Mono](https://rubjo.github.io/victor-mono/) - Victor Mono is a free programming font with semi-connected cursive italics, symbol ligatures (!=, ->>, =>, ===, <=, >=, ++) and Latin, Cyrillic and Greek characters.
+*   [spacemono (⭐300)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+
 ## [Feb 16, 2023](/content/2023/02/16/README.md)
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -110,7 +126,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [xcode (⭐46)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
+*   [xcode (⭐47)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
@@ -434,7 +450,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [lpha3cho (⭐35)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
-*   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.
+*   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, `git` status, timestamp, last exit status and also name of active virtual environment.
 
 ## [Oct 02, 2022](/content/2022/10/02/README.md)
 
@@ -1763,6 +1779,19 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### zinit
 
 *   [ZPWR (⭐124)](https://github.com/MenkeTechnologies/zpwr) - An extremely powerful custom terminal environment built on top of [Zinit (⭐1.6k)](https://github.com/zdharma-continuum/zinit) for maximum speed.  A full terminal configuration framework including `zsh`, `tmux`, `fzf`, `vim` and spacemacs configurations.  It includes:
+
+### Fonts / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [Awesome Terminal Fonts (⭐2.4k)](https://github.com/gabrielelana/awesome-terminal-fonts) - A family of fonts that includes some nice monospaced Icons.
+*   [Fantasque Awesome Font (⭐32)](https://github.com/ztomer/fantasque_awesome_powerline) - A nice monospaced font, patched with Font-Awesome, Octoicons and Powerline-Glyphs.
+*   [Powerline patched font collection (⭐24k)](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include powerline gylphs.
+*   [Fantasque-sans (⭐6.3k)](https://github.com/belluzj/fantasque-sans) - Another Powerline-compatible font.
+*   [Hack](https://sourcefoundry.org/hack/) - Another Powerline-compatible font designed specifically for source code.
+*   [Input Mono](https://store.typenetwork.com/foundry/djr/series/input?family=input-mono) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes powerline glyphs.
+*   [Iosevka (⭐15k)](https://github.com/be5invis/Iosevka) - Coders’ typeface, built from code. Highly customizable.
+*   [Monoid](https://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
+*   [Nerd Fonts (⭐42k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more.
+*   [Terminus](http://files.ax86.net/terminus-ttf/) - TTF version of Terminus that includes powerline glyphs.
 
 ### Generic ZSH
 
@@ -3159,19 +3188,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [zwsh (⭐0)](https://github.com/naens/zwsh) - A Zpm3/Wordstar mode/theme for ZSH.
 *   [zys (⭐10)](https://github.com/ZYSzys/zys-zsh-theme) - Similar to [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme), designed to disclose information contextually, with a powerline aesthetic.
 *   [zzshell (⭐0)](https://github.com/thezzisu/zzshell) - Inspired by the default [Oh-My-Zsh](http://ohmyz.sh/) theme. Displays exit code and `git` status decorations. Doesn't require Powerline fonts.
-
-### Fonts / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
-
-*   [Awesome Terminal Fonts (⭐2.4k)](https://github.com/gabrielelana/awesome-terminal-fonts) - A family of fonts that includes some nice monospaced Icons.
-*   [Fantasque Awesome Font (⭐32)](https://github.com/ztomer/fantasque_awesome_powerline) - A nice monospaced font, patched with Font-Awesome, Octoicons and Powerline-Glyphs.
-*   [Fantasque-sans (⭐6.3k)](https://github.com/belluzj/fantasque-sans) - Another Powerline-compatible font.
-*   [Hack](https://sourcefoundry.org/hack/) - Another Powerline-compatible font designed specifically for source code.
-*   [Input Mono](https://store.typenetwork.com/foundry/djr/series/input?family=input-mono) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes powerline glyphs.
-*   [Iosevka (⭐15k)](https://github.com/be5invis/Iosevka) - Coders’ typeface, built from code. Highly customizable.
-*   [Monoid](https://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
-*   [Nerd Fonts (⭐42k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more.
-*   [Powerline patched font collection (⭐24k)](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include powerline gylphs.
-*   [Terminus](http://files.ax86.net/terminus-ttf/) - TTF version of Terminus that includes powerline glyphs.
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 17, 2023](/content/2023/02/17/README.md)
+
+### Preconfigured Configuration / Diagnostics
+
+*   [LazyVim/LazyVim (⭐3.4k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim**  to make it easy to customize and extend your config.
+
 ## [Feb 13, 2023](/content/2023/02/13/README.md)
 
 ### Utility / Diagnostics
@@ -58,7 +64,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [linrongbin16/lsp-progress.nvim (⭐1)](https://github.com/linrongbin16/lsp-progress.nvim) - Another simple lsp progress status for Neovim.
+*   [linrongbin16/lsp-progress.nvim (⭐4)](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
 
 ### Media / Diagnostics
 
@@ -66,18 +72,18 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [niuiic/part-edit.nvim (⭐2)](https://github.com/niuiic/part-edit.nvim) - Edit a part of a file individually.
-*   [niuiic/divider.nvim (⭐3)](https://github.com/niuiic/divider.nvim) - Custom code divider line.
+*   [niuiic/part-edit.nvim (⭐7)](https://github.com/niuiic/part-edit.nvim) - Edit a part of a file individually.
+*   [niuiic/divider.nvim (⭐4)](https://github.com/niuiic/divider.nvim) - Custom code divider line.
 
 ### Session / Diagnostics
 
-*   [niuiic/multiple-session.nvim (⭐1)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
+*   [niuiic/multiple-session.nvim (⭐3)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
 
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [DNLHC/glance.nvim (⭐240)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
+*   [DNLHC/glance.nvim (⭐260)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
 
 ### Editing Support / Diagnostics
 
@@ -198,7 +204,7 @@ Collections of awesome neovim plugins.
 
 ### Project / Diagnostics
 
-*   [natecraddock/workspaces.nvim (⭐124)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [natecraddock/workspaces.nvim (⭐128)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ## [Dec 27, 2022](/content/2022/12/27/README.md)
 
@@ -281,13 +287,13 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐119)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐121)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
 ## [Dec 12, 2022](/content/2022/12/12/README.md)
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐118)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐123)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 

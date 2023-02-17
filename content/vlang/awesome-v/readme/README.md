@@ -84,6 +84,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vqrcode (⭐13)](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 *   [vspect (⭐2)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 *   [vcli (⭐0)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
+*   [vgoogle (⭐0)](https://github.com/changhz/vgoogle) - Make google search on the terminal.
 
 ### Editors
 
@@ -198,7 +199,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Graphics
 
-*   [V Earcut (⭐10)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.8k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+*   [V Earcut (⭐10)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.9k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 *   [vgl (⭐24)](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 *   [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 *   [viup (⭐39)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.

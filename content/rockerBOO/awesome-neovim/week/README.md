@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [figsoda/nix-develop.nvim (⭐16)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
+### Preconfigured Configuration / Diagnostics
+
+*   [LazyVim/LazyVim (⭐3.4k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim**  to make it easy to customize and extend your config.
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### (requires Neovim 0.5)
@@ -40,8 +44,8 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [DNLHC/glance.nvim (⭐240)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
-*   [linrongbin16/lsp-progress.nvim (⭐1)](https://github.com/linrongbin16/lsp-progress.nvim) - Another simple lsp progress status for Neovim.
+*   [DNLHC/glance.nvim (⭐260)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
+*   [linrongbin16/lsp-progress.nvim (⭐4)](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
 
 ### Colorscheme Switchers / Diagnostics
 
@@ -60,8 +64,8 @@ Collections of awesome neovim plugins.
 
 *   [\~nedia/auto-save.nvim](https://git.sr.ht/\~nedia/auto-save.nvim) - Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter.
 *   [echasnovski/mini.nvim#mini.basics (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
-*   [niuiic/part-edit.nvim (⭐2)](https://github.com/niuiic/part-edit.nvim) - Edit a part of a file individually.
-*   [niuiic/divider.nvim (⭐3)](https://github.com/niuiic/divider.nvim) - Custom code divider line.
+*   [niuiic/part-edit.nvim (⭐7)](https://github.com/niuiic/part-edit.nvim) - Edit a part of a file individually.
+*   [niuiic/divider.nvim (⭐4)](https://github.com/niuiic/divider.nvim) - Custom code divider line.
 
 ### Formatting / Diagnostics
 
@@ -69,7 +73,7 @@ Collections of awesome neovim plugins.
 
 ### Session / Diagnostics
 
-*   [niuiic/multiple-session.nvim (⭐1)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
+*   [niuiic/multiple-session.nvim (⭐3)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
@@ -166,7 +170,7 @@ Collections of awesome neovim plugins.
 ### Project / Diagnostics
 
 *   [pluffie/neoproj (⭐13)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
-*   [natecraddock/workspaces.nvim (⭐124)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [natecraddock/workspaces.nvim (⭐128)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ### Keybinding / Diagnostics
 
@@ -194,7 +198,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐118)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐123)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ### Project / Diagnostics
 
@@ -225,7 +229,7 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐119)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐121)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
 ### Editing Support / Diagnostics
 

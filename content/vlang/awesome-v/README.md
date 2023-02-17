@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 17, 2023](/content/2023/02/17/README.md)
+
+### Command-line
+
+*   [vgoogle (⭐0)](https://github.com/changhz/vgoogle) - Make google search on the terminal.
+
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
 ### Utility
@@ -221,7 +227,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Graphics
 
-*   [V Earcut (⭐10)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.8k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+*   [V Earcut (⭐10)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.9k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 *   [vgl (⭐24)](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 *   [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 *   [viup (⭐39)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
