@@ -8,9 +8,17 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
+
 ### Related Awesome Lists / Galleries
 
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐28)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+
+### Inbox: Developing + AI / Text-related Generative Tools
+
+*   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
 ### Miscellaneous / Jobs in Generative AI
 
@@ -48,7 +56,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
-*   [daspartho/prompt-extend (⭐139)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
+*   [daspartho/prompt-extend (⭐145)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
 
 ### Inbox: Stable Diffusion / For text-to-image
 
@@ -83,11 +91,11 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Inbox: Developing + AI / Text-related Generative Tools
 
-*   [openai/openai-cookbook (⭐11k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [openai/openai-cookbook (⭐13k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ### Miscellaneous / Auxiliary tools and concepts
 
-*   [chaiNNer-org/chaiNNer (⭐1.7k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
+*   [chaiNNer-org/chaiNNer (⭐1.8k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
@@ -132,12 +140,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐257)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐369)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐0)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Papers and References / Papers Collections
 
-*   [dair-ai/ML-Papers-Explained (⭐2.6k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+*   [dair-ai/ML-Papers-Explained (⭐3k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -154,7 +162,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   \[🔥] [weihaox/awesome-gan-inversion (⭐880)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐893)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
 ### Inbox: Text and Natural Language Processing / Text-related Generative Tools
 
@@ -166,7 +174,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Inbox: Video AI tools / Text-related Generative Tools
 
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐86)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐95)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 
 ### Inbox: Games and AI / Text-related Generative Tools
@@ -953,7 +961,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
 *   [The Methods Corpus | Papers With Code](https://paperswithcode.com/methods)
 *   <https://ieeexplore.ieee.org/abstract/document/9043519>: A State-of-the-Art Review on Image Synthesis With Generative Adversarial Networks
-*   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/\~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
+*   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
 *   [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 
 ### Miscellaneous / Improving Google Colab experience

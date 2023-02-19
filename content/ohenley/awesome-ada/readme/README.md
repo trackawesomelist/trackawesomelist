@@ -16,7 +16,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 <br/><br/>
 
-> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/\~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
+> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
 > Ada is arguably the most { <b>performant</b> ∩ <b>capable</b> ∩ <b>precise</b> ∩ <b>readable</b> ∩ <b>mature</b> } programming language.
 > Ada is alive and kicking!
 >
@@ -144,7 +144,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Entry Point
 
 *   [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages.
-*   [programming-with-ada](https://pyjarrett.github.io/programming-with-ada/) - Anecdotes and summaries from learning Ada 2012.
+*   [ada-lang-io](https://ada-lang.io) - A community site for Ada.
 *   [celebrating-ada](https://www.celebratingada.com/) - Ada history key moments.
 
 #### Tutorials
@@ -378,7 +378,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [curses (⭐10)](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 *   [ncurses-ada95](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
-*   [linenoise-ada](https://git.sr.ht/\~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8)
+*   [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8)
 
 #### 3D
 
@@ -499,7 +499,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [nb-ada (⭐10)](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 *   [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 *   [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
-*   [charles](http://home.earthlink.net/\~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+*   [charles](http://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
 *   [simple-blockchain (⭐20)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 *   [adagio (⭐3)](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 *   [agpl (⭐4)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
@@ -577,7 +577,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-bin2asc (⭐0)](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
 *   [abf-io (⭐0)](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 *   [ada-toml] - TOML parser for Ada.
-*   [uri-ada](https://git.sr.ht/\~nytpu/uri-ada) - URI and MIME parser & manipulation library.
+*   [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 
 [protobuf]: https://github.com/reznikmm/protobuf
 
@@ -592,7 +592,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 *   [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
 *   [mosquitto-ada (⭐5)](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
-*   [tlsada](https://git.sr.ht/\~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
+*   [tlsada](https://git.sr.ht/~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
 *   [kafka-ada (⭐14)](https://github.com/Latence-Technologies/Kafka-Ada) - Binding for the C librdkafka library, allows sending and receiving from a Kafka bus.
 *   [adare-net](https://gitlab.com/daresoft/network/adare_net) - This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.
 
@@ -661,7 +661,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-bundler (⭐5)](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
 *   [macos-sdks-vs-gcc (⭐1)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
 *   [ux-strings (⭐9)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
-*   [getopt-ada](https://git.sr.ht/\~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
+*   [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
 
 #### Robotics
 
@@ -670,7 +670,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Linux and POSIX
 
-*   [florist](https://www.cs.fsu.edu/\~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
+*   [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
 *   [wposix (⭐4)](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
 *   [ada-v4l2 (⭐0)](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
 *   [inotify-ada (⭐8)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.

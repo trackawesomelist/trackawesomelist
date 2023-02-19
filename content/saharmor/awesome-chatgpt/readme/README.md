@@ -16,7 +16,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt\&left_color=green\&right_color=red)
 
-This list is up to date. Last update: 02/10/22
+This list is up to date. Last update: 02/18/22
 
 ## Featured
 
@@ -29,7 +29,7 @@ This list is up to date. Last update: 02/10/22
 
 1.  [ChatGPT prompts](https://prompts.chat/)
 2.  ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-3.  ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.7k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+3.  ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐2.9k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 4.  [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
 ## Using ChatGPT in other apps
@@ -63,6 +63,7 @@ This list is up to date. Last update: 02/10/22
 8.  ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐473)](https://github.com/clmnin/summarize.site)
 9.  [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐154)](https://github.com/lucasmccabe/emailGPT)
 10. [b2p - a linux bash to PowerShell translator using ChatGPT (⭐1)](https://github.com/rximg/b2p)
+11. [ai-commit - Automagically generate conventional commit messages with AI (⭐13)](https://github.com/guanguans/ai-commit)
 
 ## Coding
 

@@ -6,6 +6,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Feb 19, 2023](/content/2023/02/19/README.md)
+
+### Code Analysis and Metrics
+
+*   [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety. **\[[Free for OSS](https://pvs-studio.com/en/order/open-source-license/)]** **\[$]**
+
 ## [Feb 16, 2023](/content/2023/02/16/README.md)
 
 ### Serialization
@@ -40,7 +46,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### HTTP
 
-*   [Apizr (⭐95)](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [Apizr (⭐98)](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ## [Jan 10, 2023](/content/2023/01/10/README.md)
 
@@ -245,7 +251,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Blazor
 
-*   [Megabit.Blazorise (⭐2.6k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
+*   [Megabit.Blazorise (⭐2.7k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 
 ## [Jun 03, 2022](/content/2022/06/03/README.md)
 
@@ -311,7 +317,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### CMS
 
-*   [Squidex (⭐1.8k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
+*   [Squidex (⭐1.9k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
 
 ### Regular Expression
 
@@ -353,7 +359,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Blazor
 
-*   [MASA.Blazor (⭐522)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
+*   [MASA.Blazor (⭐541)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
 
 ## [Dec 10, 2021](/content/2021/12/10/README.md)
 
@@ -504,7 +510,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### CLI
 
-*   [Typin (⭐214)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐215)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
 ### Distributed Computing
 
@@ -589,7 +595,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Application Frameworks
 
-*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐134)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐59)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐135)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐60)](https://github.com/alexyakunin/BoardGames)
 
 ### Caching
 
@@ -866,7 +872,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Application Templates
 
-*   [JHipster.NET (⭐271)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+*   [JHipster.NET (⭐273)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
 
 ### Deployment
 
@@ -1677,7 +1683,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐548)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
 ## [May 09, 2018](/content/2018/05/09/README.md)
 
@@ -2082,7 +2088,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Install tools
 
 *   [Squirrel (⭐6.6k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐8.8k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Chocolatey (⭐8.9k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 
 ### Interoperability
 
@@ -2545,7 +2551,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Trading
 
-*   [Lean (⭐7k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐7.1k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
@@ -2652,7 +2658,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Source Generator
 
-*   [Awesome Unity (⭐5.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐5.6k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [Oct 18, 2016](/content/2016/10/18/README.md)
 
@@ -2783,7 +2789,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Source Generator
 
-*   [Awesome .NET Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
+*   [Awesome .NET Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 
 ## [Aug 24, 2016](/content/2016/08/24/README.md)
 
@@ -3346,7 +3352,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### HTTP
 
-*   [RestEase (⭐904)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+*   [RestEase (⭐918)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 
 ### Queue
 
@@ -3428,7 +3434,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Interoperability
 
-*   [CppSharp (⭐2.5k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
+*   [CppSharp (⭐2.6k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 *   [Sharpen (⭐365)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 *   [CXXI (⭐197)](https://github.com/mono/cxxi) - C++ interop framework
 

@@ -6,6 +6,14 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Feb 19, 2023](/content/2023/02/19/README.md)
+
+### Learning Platforms:
+
+- Website: <https://tutoriac.com/>
+
+
+
 ## [Feb 05, 2023](/content/2023/02/05/README.md)
 
 ### Hosting:

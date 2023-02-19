@@ -6,6 +6,25 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 19, 2023](/content/2023/02/19/README.md)
+
+### Applications / Web Servers
+
+*   [emanuele-em/man-in-the-middle-proxy (⭐118)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
+
+### Libraries / Email
+
+*   [stalwartlabs/mail-auth (⭐50)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+
+### Libraries / Filesystem
+
+*   Operations
+    *   [ParthJadhav/Rust\_Search (⭐73)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [pop-os/sys-mount (⭐33)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
+    *   [vitiral/path\_abs (⭐45)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods. [![build badge](https://api.travis-ci.org/vitiral/path_abs.svg?branch=master)](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
+    *   [webdesus/fs\_extra (⭐168)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io [![build badge](https://api.travis-ci.org/webdesus/fs_extra.svg?branch=master)](https://travis-ci.org/webdesus/fs_extra)
+
 ## [Feb 17, 2023](/content/2023/02/17/README.md)
 
 ### Libraries / Artificial Intelligence
@@ -63,7 +82,7 @@ A curated list of Rust code and resources.
 ### Applications / Emulators
 
 *   iOS
-    *   [touchHLE (⭐173)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
+    *   [touchHLE (⭐920)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 
 ### Libraries / System
 
@@ -137,7 +156,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [xilem (⭐816)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.5k)](https://github.com/linebender/druid).
+*   [xilem (⭐956)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.5k)](https://github.com/linebender/druid).
 
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 
@@ -176,12 +195,12 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐106)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐117)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐226)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐231)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
@@ -491,7 +510,6 @@ A curated list of Rust code and resources.
 
 ### Applications / Cryptocurrencies
 
-*   [Akula (⭐796)](https://github.com/akula-bft/akula) - Rust Ethereum Execution Layer (EL) Client (WIP)
 *   [ethabi (⭐389)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
 *   [ethers-rs (⭐1.5k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
 *   [etk (⭐264)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
@@ -528,11 +546,6 @@ A curated list of Rust code and resources.
 ### Applications / Text processing
 
 *   [ruplacer (⭐337)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
-
-### Development tools / Deployment
-
-*   Github Pages
-    *   [wasm-template-rust (⭐103)](https://github.com/sn99/wasm-template-rust) — A wasm template for Rust to publish to gh-pages without npm-deploy
 
 ## [Jun 20, 2022](/content/2022/06/20/README.md)
 
@@ -1222,7 +1235,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Static analysis
 
-*   [facebookexperimental/MIRAI (⭐802)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/MIRAI/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/MIRAI/actions/workflows/rust.yml)
+*   [facebookexperimental/MIRAI (⭐802)](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -1673,7 +1686,6 @@ A curated list of Rust code and resources.
 *   [conradkleinespel/rooster (⭐134)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] — Simple password manager to use in your terminal
 *   [orion-rs/orion (⭐486)](https://github.com/orion-rs/orion) — This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
 *   [RustCrypto/hashes (⭐1.2k)](https://github.com/RustCrypto/hashes) — Collection of cryptographic hash functions written in pure Rust [![build badge](https://api.travis-ci.org/RustCrypto/hashes.svg?branch=master)](https://travis-ci.org/RustCrypto/hashes)
-*   [sodiumoxide/sodiumoxide (⭐642)](https://github.com/sodiumoxide/sodiumoxide) — [libsodium (⭐11k)](https://github.com/jedisct1/libsodium) bindings [![build badge](https://api.travis-ci.org/sodiumoxide/sodiumoxide.svg?branch=master)](https://travis-ci.org/sodiumoxide/sodiumoxide)
 
 ### Libraries / Email
 
@@ -2147,7 +2159,6 @@ A curated list of Rust code and resources.
 *   Ruby
     *   [d-unseductable/ruru (⭐816)](https://github.com/d-unseductable/ruru) — native Ruby extensions written in Rust [![build badge](https://api.travis-ci.org/d-unseductable/ruru.svg?branch=master)](https://travis-ci.org/d-unseductable/ruru)
     *   [danielpclark/rutie (⭐742)](https://github.com/danielpclark/rutie) — native Ruby extensions written in Rust and vice versa [![Build Status](https://api.travis-ci.org/danielpclark/rutie.svg?branch=master)](https://travis-ci.org/danielpclark/rutie)
-    *   [tildeio/helix (⭐2k)](https://github.com/tildeio/helix) — write Ruby classes in Rust [![build badge](https://api.travis-ci.org/tildeio/helix.svg?branch=master)](https://travis-ci.org/tildeio/helix)
 
 ### Development tools / IDEs
 
@@ -2286,11 +2297,6 @@ A curated list of Rust code and resources.
 
 ### Libraries / Filesystem
 
-*   Operations
-    *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
-    *   [pop-os/sys-mount (⭐33)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
-    *   [vitiral/path\_abs (⭐45)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods. [![build badge](https://api.travis-ci.org/vitiral/path_abs.svg?branch=master)](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
-    *   [webdesus/fs\_extra (⭐168)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io [![build badge](https://api.travis-ci.org/webdesus/fs_extra.svg?branch=master)](https://travis-ci.org/webdesus/fs_extra)
 *   Temporary Files
     *   [Stebalien/tempfile (⭐797)](https://github.com/Stebalien/tempfile) — temporary file library [![build badge](https://api.travis-ci.org/Stebalien/tempfile.svg?branch=master)](https://travis-ci.org/Stebalien/tempfile)
     *   [Stebalien/xattr (⭐33)](https://github.com/Stebalien/xattr) \[[xattr](https://crates.io/crates/xattr)] — list and manipulate unix extended file attributes [![build badge](https://api.travis-ci.org/Stebalien/xattr.svg?branch=master)](https://travis-ci.org/Stebalien/xattr)

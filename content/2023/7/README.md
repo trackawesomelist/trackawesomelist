@@ -1,89 +1,209 @@
 # Awesome List Updates on Feb 13 - Feb 19, 2023
 
-38 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+
+### Assistants
+
+*   [ai-commit - Automagically generate conventional commit messages with AI (⭐13)](https://github.com/guanguans/ai-commit)
+
+## [2. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / Make your life easier
+
+*   [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for testing and robotic process automation (RPA).
+
+### Software / Web3 and Blockchain
+
+*   [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
+*   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
+*   [Foundry (⭐5.4k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+*   [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
+*   [Robot Framework Solidity Testing Toolkit (⭐5)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
+*   [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
+
+## [3. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+
+### Libraries and Tools / Python
+
+*   [Python-CAN (⭐941)](https://github.com/hardbyte/python-can) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
+
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Data validation / Third-party APIs
+
+*   [cl-semver (⭐10)](https://github.com/cldm/cl-semver) - Implementation of the [Semantic Versioning](https://semver.org) Specification. [MIT](https://opensource.org/licenses/MIT)
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Algorithms and Data structures
+
+*   [qcomplex (⭐5)](https://github.com/q60/complex) - Elixir library implementing complex numbers and math operations for them.
+*   [qrational (⭐7)](https://github.com/q60/rational) - Elixir library implementing rational numbers and math operations for them.
+
+### Applications
+
+*   [utils (⭐6)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
+
+### Podcasts
+
+*   [Thinking Elixir](https://podcast.thinkingelixir.com)
+
+## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+
+### Machine Learning
+
+*   [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
+
+## [7. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+
+### Software / Libraries and Tools
+
+*   [ThingsOn MQTT Bench (⭐14)](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
+
+### Software / Miscellaneous
+
+*   [MQTT File Uploader (⭐3)](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
+
+## [8. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### RPG
+
+*   [Zelda3 (⭐3.5k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
+*   [Shipwright (⭐1.8k)](https://github.com/HarbourMasters/Shipwright) - A PC port of Zelda Ocarina of Time allowing you to enjoy the game with modern controls, widescreen, high-resolution, gyroscopy and other great features!
+
+### Platformer
+
+*   [sm64-port (⭐791)](https://github.com/sm64-port/sm64-port) - A port of Super Mario 64 for modern devices.
+
+### Racing
+
+*   [REDRIVER2 (⭐792)](https://github.com/OpenDriver2/REDRIVER2) - A Driver 2 open source reimplementation, dissasembled and translated to C.
+
+## [9. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+
+### Support Tables
+
+*   [iOS PWA Compatibility](https://firt.dev/notes/pwa-ios/) - Support table for PWA features including service worker, manifest, background sync and push notifications (Unofficial, maintained by Maximiliano Firtman).
+
+## [10. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Learning Platforms:
+
+- Website: <https://tutoriac.com/>
+
+
+
+## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+
+### Transition To Pure Rigour Math / Monograph
+
+*   [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - Classic papers by thinkers ranging from Aristotle and Leibniz to Norbert Wiener and Gordon Moore that chart the evolution of computer science.
+
+## [12. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+
+### 📖 Articles / 🌱 Third Party
+
+*   [Build a REST API from scratch with Go, Docker & Postgres](https://dev.to/divrhino/build-a-rest-api-from-scratch-with-go-and-docker-3o54)
+*   [Build a fullstack app with Go Fiber, Docker, and Postgres](https://dev.to/divrhino/build-a-fullstack-app-with-go-fiber-docker-and-postgres-1jg6)
+*   [Create a CRUD app with Go Fiber, docker, and Postgres](https://dev.to/divrhino/create-a-crud-app-with-go-fiber-docker-and-postgres-47e3)
+
+## [13. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Databag (⭐113)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
+
+## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
 *   [r2d2 (⭐24)](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Network Analysis
 
 *   [Sniffnet (⭐2.9k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GyulyVGC/sniffnet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### GUI Development
 
 *   [Ultimate GTK4 Crystal Guide](https://ultimate-gtk4-crystal-guide.geopjr.dev/) - Learn how to create premium GTK4 apps in Crystal
 
-## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [18. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Helix
 
 *   [PLAY Summit Demo (⭐26)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 
-## [6. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Open-source sites / Lists
 
 *   [guide (⭐17)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Private Module Registries / Miscellaneous
+
+*   [tapir (⭐49)](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization and autogenerates documentation.
 
 ### Tools / Vendor supported providers
 
 *   [Terrahaxs](https://www.terrahaxs.com) - A GitOps Terraform CI/CD GitHub Application :heavy\_dollar\_sign:
 
-## [8. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [21. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques
 
-*   [Poisonapple (⭐214)](https://github.com/CyborgSecurity/PoisonApple/blob/master/poisonapple/techniques.py) - Learn about various macOS persistence techniques by looking at the source code of PoisonApple.
+*   [PoisonApple (⭐214)](https://github.com/CyborgSecurity/PoisonApple/blob/master/poisonapple/techniques.py) - Learn about various macOS persistence techniques by looking at the source code of PoisonApple.
 
 ### Detection Testing / Windows
 
 *   [PoisonApple (⭐214)](https://github.com/CyborgSecurity/PoisonApple) - Perform various persistence techniques on macOS.
 
-## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [22. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Low Code Application Platform
 
 *   [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Automation
+
+*   [Matchering (⭐828)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
 *   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐26)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Meta-Level Considerations / Rationality
 
 *   [Computational Rationality: Linking Mechanism and Behavior Through Bounded Utility Maximization](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12086) - ***Topics in Cognitive Science***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=15813211310327194798\&hl=en\&as_sdt=0,5)]. Introducing the computational rationality framework for including information-processing bounds in rational analyses, which emphasizes the incorporation of computational mechanism into the definition of rational action.
 
-## [12. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [25. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Other Articles & Tutorials
 
 *   [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
 
-## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Migration
 
@@ -97,7 +217,7 @@
 
 *   [Official Blog tutorial](https://book.cakephp.org/4.0/en/tutorials-and-examples/blog/blog.html)
 
-## [14. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [27. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Linux Evidence Collection
 
@@ -107,7 +227,7 @@
 
 *   [MAGNET DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows) - Fast memory acquisition tool for Windows (x86, x64, ARM64). Generate full memory crash dumps of Windows machines.
 
-## [15. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [28. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -117,17 +237,18 @@
 
 *   [VInstall (⭐22)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### AI
 
 *   [OpenAI (⭐234)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
 *   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety. **\[[Free for OSS](https://pvs-studio.com/en/order/open-source-license/)]** **\[$]**
 
 ### Blazor
 
@@ -141,13 +262,13 @@
 
 *   [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - A complete guide to become a ASP.NET Developer.
 
-## [18. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [31. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Reporting Systems
 
 *   [EMPRES-i+ Global Animal Disease Information System](https://empres-i.apps.fao.org/) - A web platform maintained by FAO that provides geolocated data on animal diseases such as rabies, foot-and-mouth disease, or MERS coronavirus. This is a tracking service in which countries and veterinarians can opt-in to reporting.
 
-## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [32. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Validating / Symfony2
 
@@ -157,21 +278,38 @@
 
 *   [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Productivity
 
 *   [illacloud/illa (⭐99)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
 
+### Applications / Web Servers
+
+*   [emanuele-em/man-in-the-middle-proxy (⭐118)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
+
 ### Libraries / Artificial Intelligence
 
 *   [64bit/async-openai (⭐57)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+
+### Libraries / Email
+
+*   [stalwartlabs/mail-auth (⭐50)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+
+### Libraries / Filesystem
+
+*   Operations
+    *   [ParthJadhav/Rust\_Search (⭐73)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [pop-os/sys-mount (⭐33)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
+    *   [vitiral/path\_abs (⭐45)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods. [![build badge](https://api.travis-ci.org/vitiral/path_abs.svg?branch=master)](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
+    *   [webdesus/fs\_extra (⭐168)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io [![build badge](https://api.travis-ci.org/webdesus/fs_extra.svg?branch=master)](https://travis-ci.org/webdesus/fs_extra)
 
 ### Libraries / System
 
 *   [sorairolake/sysexits-rs (⭐10)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] — The system exit codes as defined by [`<sysexits.h>`](https://man.openbsd.org/sysexits). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
-## [21. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [34. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -218,17 +356,25 @@
 
 
 
-## [22. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
 ### Related Awesome Lists / Galleries
 
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐28)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
+### Inbox: Developing + AI / Text-related Generative Tools
+
+*   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
+
 ### Miscellaneous / Jobs in Generative AI
 
 *   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 
-## [23. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [36. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Fraud / Online Payments
 
@@ -238,13 +384,17 @@
 
 *   [Patents on billing systems of the dot-com era](https://news.ycombinator.com/item?id=34773821) - All of them have been abandonned and constitute prior art. This means there is nothing to prevent anybody to implement or commercialize these concepts.
 
-## [24. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+
+### Entry Point
+
+*   [ada-lang-io](https://ada-lang.io) - A community site for Ada.
 
 ### DevOps / MIT
 
 *   [powerjoular (⭐16)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
-## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -254,7 +404,11 @@
 
 *   [jsonParse (⭐6)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
 
-## [26. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+### Online Compiler
+
+*   [Programiz](https://www.programiz.com/cpp-programming/online-compiler) - An online compiler for learners and developers.
+
+## [39. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Basic matching algorithms
 
@@ -266,7 +420,7 @@
     *   [GitHub repository :octocat: (⭐568)](https://github.com/PRBonn/kiss-icp)
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### .NET Community Standup - Blazor United in .NET 8 (February 14, 2023).
 
@@ -284,13 +438,13 @@
 
 *   [Embed Reporting in Native Blazor Applications](https://www.telerik.com/blogs/embed-reporting-native-blazor-applications) - February 14, 2023 - See the setup and customization of the newest Progress Telerik Reporting viewer, implemented with Telerik UI for Blazor controls with both Blazor Wasm and Blazor Server.
 
-## [28. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [41. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Design Systems
 
 *   [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
 
-## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Prerequisites
 
@@ -314,26 +468,29 @@
 
 *   [oh-plugin (⭐0)](https://github.com/mbergo/oh-plugin) - helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
 
-## [30. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [43. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
+*   [TrustInSoft Analyzer](https://trust-in-soft.com) :copyright: — Exhaustive detection of coding errors and their associated security vulnerabilities. This encompasses a sound undefined behavior detection (buffer overflows, out-of-bounds array accesses, null-pointer dereferences, use-after-free, divide-by-zeros, uninitialized memory accesses, signed overflows, invalid pointer arithmetic, etc.), data flow and control flow verification as well as full functional verification of formal specifications. All versions of C up to C18 and C++ up to C++20 are supported. TrustInSoft Analyzer will acquire ISO 26262 qualification in Q2'2023 (TCL3). A MISRA C checker is also bundled.
 *   [perltidy](https://perltidy.sourceforge.net/) — Perltidy is a Perl script which indents and reformats Perl scripts to make them easier to read.
     The formatting can be controlled with command line parameters. The default parameter settings approximately follow the suggestions in the Perl Style Guide.
     Besides reformatting scripts, Perltidy can be a great help in tracking down errors with missing or extra braces, parentheses, and square brackets because it is very good at localizing errors.
 
 ### Multiple languages / [Other](#other-1)
 
-*   [TrustInSoft Analyzer](https://trust-in-soft.com) :copyright: — Exhaustive detection of coding errors and their associated security vulnerabilities. This encompasses a sound undefined behavior detection (buffer overflows, out-of-bounds array accesses, null-pointer dereferences, use-after-free, divide-by-zeros, uninitialized memory accesses, signed overflows, invalid pointer arithmetic, etc.), data flow and control flow verification as well as full functional verification of formal specifications. All versions of C up to C18 and C++ up to C++20 are supported. TrustInSoft Analyzer will acquire ISO 26262 qualification in Q2'2023 (TCL3). A MISRA C checker is also bundled.
+*   [CodeSee](https://www.codesee.io/) :copyright: — CodeSee is mapping and automating your app's services, directories, file dependencies, and code changes. It's like Google Map, but for code.t
+*   [Qwiet AI](https://qwiet.ai/) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
+*   [StaticReviewer](https://securityreviewer.atlassian.net/wiki/spaces/KC/pages/196633/Static+Reviewer) :copyright: — Static Reviewer executes code checks according to the most relevant Secure Coding Standards, OWASP, CWE, CVE, CVSS, MISRA, CERT, for 40+ programming languages, using 1000+ built-in validation rules for Security, Deadcode & Best Practices Available a module for Software Composition Analysis (SCA) to find vulnerabilities in open source and third party libraries.
 
-## [31. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Using Coder to Develop Keycloak Templates Live (almost)](https://dev.to/m8a-io/m8a-scenario-1-using-coder-to-develop-keycloak-templates-live-almost-26e2)
 *   [Keycloak Passkeys tutorial](https://keycloak.ch/keycloak-tutorials/tutorial-passkey/)
 
-## [32. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Testing / Fixtures
 
@@ -343,7 +500,7 @@
 
 *   [JsonUnit (⭐727)](https://github.com/lukas-krecan/JsonUnit) - Library that simplifies JSON comparison in tests.
 
-## [33. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [46. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
 
@@ -373,9 +530,21 @@
 
 - Name: [CodiumAI](http://www.codium.ai/)
 
-  Title: CodiumAI - Code Fast. Break Fewer Things.
+  Title: Meaningful Tests for Busy Devs.
 
-  Description: IDE extension for generation of smart context-aware tests
+  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Content Generation & Seo
+
+- Name: [Easy-Peasy.AI](https://easy-peasy.ai/)
+
+  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
+
+  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -402,6 +571,18 @@
 
 
 
+### Sales & Marketing
+
+- Name: [SimplePhones.ai](https://simplephones.ai/)
+
+  Title: Never Miss a Call From a Customer.
+
+  Description: Forward your missed calls, or get a new number, and Simple Phones will answer it using AI. You'll get a phone agent created for your business for free. You just pay 19¢/min for any incoming calls.
+
+  Offer Free Version: :x:
+
+
+
 ### Slides & Web Design
 
 - Name: [Genius by Diagram](https://www.genius.design/)
@@ -423,17 +604,21 @@
 
 
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
 *   [figsoda/nix-develop.nvim (⭐16)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
+### Remote Development / Diagnostics
+
+*   [miversen33/netman.nvim (⭐202)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+
 ### Preconfigured Configuration / Diagnostics
 
 *   [LazyVim/LazyVim (⭐3.4k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim**  to make it easy to customize and extend your config.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
@@ -447,13 +632,21 @@
 
 *   [Clockwork Micro](https://clockworkmicro.com/) — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation).
 
-## [36. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+### Miscellaneous
+
+*   [Pika Code Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.
+
+### Game Development
+
+*   [Gamefresco.com](https://gamefresco.com/) — Discover, collect and share free game assets from game artists everywhere.
+
+## [49. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Modules / Various Godot versions
 
 *   [godot-luaAPI (⭐80)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 
-## [37. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [50. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
@@ -462,11 +655,15 @@
 *   [Knight Frame](https://seraguith.itch.io/knight-frame) - Add high-speed humanoid mech battles to your Starforged campaign
 *   [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
 
-## [38. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [51. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Orchestration
 
 *   [docker rollout (⭐895)](https://github.com/Wowu/docker-rollout) - Zero downtime deployment for Docker Compose services by [@Wowu](https://github.com/Wowu)
+
+### Base Tools / Other
+
+*   [dockerize (⭐156)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

@@ -6,11 +6,21 @@
 
 [ [Daily](/content/HQarroum/awesome-iot/README.md) / Weekly / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
+
+### Software / Libraries and Tools
+
+*   [ThingsOn MQTT Bench (⭐14)](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
+
+### Software / Miscellaneous
+
+*   [MQTT File Uploader (⭐3)](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Software / Programming languages
 
-*   [PikaPython (⭐913)](https://github.com/pikastech/pikapython) - Python runs with only 4KB of RAM, zero dependencies, easy to bind with C.
+*   [PikaPython (⭐938)](https://github.com/pikastech/pikapython) - Python runs with only 4KB of RAM, zero dependencies, easy to bind with C.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -44,11 +54,11 @@
 
 ### Software / Frameworks
 
-*   [IoTSharp.Gateways (⭐6)](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus,OPC-UA,BACNetand MQTT protocols.
+*   [IoTSharp.Gateways (⭐7)](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus,OPC-UA,BACNetand MQTT protocols.
 
 ### Software / Middlewares
 
-*   [IoTSharp (⭐587)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
+*   [IoTSharp (⭐610)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
@@ -76,7 +86,7 @@
 
 ### Software / Libraries and Tools
 
-*   [Chaos Genius (⭐525)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
+*   [Chaos Genius (⭐552)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -89,7 +99,7 @@
 ### Software / Frameworks
 
 *   [AREG SDK (⭐81)](https://github.com/aregtech/areg-sdk) - AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services, as if they act like thin distributed servers.
-*   [Macchina.io (⭐489)](https://github.com/macchina-io/macchina.io) - macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.
+*   [Macchina.io (⭐491)](https://github.com/macchina-io/macchina.io) - macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -110,7 +120,7 @@
 
 ### Software / Middlewares
 
-*   [t6 (⭐29)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
+*   [t6 (⭐30)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
 
 ## [May 10 - May 16, 2021](/content/2021/19/README.md)
 
@@ -122,28 +132,28 @@
 
 ### Software / Libraries and Tools
 
-*   [United Manufacturing Hub (⭐168)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
+*   [United Manufacturing Hub (⭐174)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
 ### Software / Frameworks
 
-*   [HStreamDB (⭐580)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐590)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 ### Software / Middlewares
 
-*   [NanoMQ (⭐703)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
-*   [Kuiper (⭐870)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+*   [NanoMQ (⭐738)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+*   [Kuiper (⭐910)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [W3C WoT](https://www.w3.org/WoT/) - The W3C Working Group for the Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. By providing standardized metadata and other re-usable technological building blocks, W3C WoT enables easy integration across IoT platforms and application domains.
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
-### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [How to begin with the Amazon Timestream](https://itnext.io/how-to-begin-with-the-amazon-timestream-in-5-simple-steps-19c129040d9c/) - A step-by-step guide to AWS Timestream - a time series database to collect IoT data over-time.
 
@@ -245,14 +255,14 @@
 
 ### Software / Frameworks
 
-*   [Astarte (⭐196)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
+*   [Astarte (⭐195)](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 *   [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
 
 ### Software / Middlewares
 
 *   [VerneMQ (⭐2.9k)](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
 
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
 
@@ -282,7 +292,7 @@
 
 ## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
 
-### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - A testing methodology for managing the permutations of parameters while testing an IoT based product.
 
@@ -298,7 +308,7 @@
 
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [OCF](https://openconnectivity.org/) - OCF, The Open Connectivity Foundation, develop standards and certification for devices involved in the Internet of Things (IoT) based around Constrained Application Protocol (CoAP).
 
@@ -334,7 +344,7 @@
 
 ### Software / Frameworks
 
-*   [Thingsboard IoT Gateway (⭐1.2k)](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+*   [Thingsboard IoT Gateway (⭐1.3k)](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 
 ### Software / Middlewares
 
@@ -381,7 +391,7 @@
 
 ### Software / Frameworks
 
-*   [Home Assistant (⭐57k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+*   [Home Assistant (⭐58k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
 
 ### Software / Middlewares
 
@@ -389,7 +399,7 @@
 
 ## [Sep 19 - Sep 25, 2016](/content/2016/38/README.md)
 
-### Alliances / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [Bluetooth Special Interest Group](https://www.bluetooth.com/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
 
@@ -407,22 +417,22 @@
 
 ## [Jan 18 - Jan 24, 2016](/content/2016/3/README.md)
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [OPCUA](https://opcfoundation.org/) - OPC Unified Architecture (OPC UA) is an industrial M2M communication protocol for interoperability developed by the OPC Foundation.
 
-### Alliances / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/) - The mission of the OPC Foundation is to manage a global organization in which users, vendors and consortia collaborate to create data transfer standards for multi-vendor, multi-platform, secure and reliable interoperability in industrial automation. To support this mission, the OPC Foundation
     creates and maintains specifications, ensures compliance with OPC specifications via certification testing and collaborates with industry-leading standards organizations.
 
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 
 ## [Jan 11 - Jan 17, 2016](/content/2016/2/README.md)
 
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [A Reference Architecture for the Internet of Things](http://wso2.com/wso2_resources/wso2_whitepaper_a-reference-architecture-for-the-internet-of-things.pdf) - This white paper introduces a Reference Architecture for the Internet of Things (IoT): this includes the devices as well as the server-side and cloud architecture required to interact with and manage the devices.
 
@@ -434,7 +444,7 @@
 
 ## [Dec 21 - Dec 27, 2015](/content/2015/51/README.md)
 
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
 
@@ -443,7 +453,7 @@
 ### Software / Middlewares
 
 *   [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
-*   [Huginn (⭐37k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐38k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### Software / Miscellaneous
 
@@ -470,12 +480,12 @@
 
 *   [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
 
-### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [A Simple Explanation Of 'The Internet Of Things' (Forbes)](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/) - This article attemps to give an answer to what exactly is the “Internet of things” and what impact it is going to have on us.
 *   [IoT security. Is there an app for that ?](http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/) - The Internet of Things World conference investigates IoT application development, security, and business models.
 
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [Developing solutions for the Internet of Things](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/white-papers/developing-solutions-for-iot.pdf) - Intel's vision in enabling secure and seamless solutions for the Internet of Things (IoT).
 *   [Evaluation of indoor positioning based on Bluetooth Smart technology](http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf) - Master of Science Thesis in the Programme Computer Systems and Networks.
@@ -486,12 +496,12 @@
 
 *   [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [ETSI M2M](http://www.etsi.org/technologies-clusters/technologies/m2m) - The ETSI Technical Committee is developing standards for Machine to Machine Communications.
 *   [OneM2M](http://www.onem2m.org/) - The purpose and goal of oneM2M is to develop technical specifications which address the need for a common M2M Service Layer that can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with M2M application servers worldwide.
 
-### Alliances / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
 *   [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.

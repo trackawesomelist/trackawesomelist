@@ -6,11 +6,17 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
+## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
+
+### Transition To Pure Rigour Math / Monograph
+
+*   [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - Classic papers by thinkers ranging from Aristotle and Leibniz to Norbert Wiener and Gordon Moore that chart the evolution of computer science.
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Lecture Videos Playlists / Monograph
 
-*   [Madhur Tulsiani. Mathematical Toolkit](https://www.youtube.com/playlist?list=PLk-BCMYCWSzW-nPNnw19Y6oQJnvaAcp1I)
+*   [Madhur Tulsiani. Mathematical Toolkit](https://www.youtube.com/playlist?list=PLk-BCMYCWSzW-nPNnw19Y6oQJnvaAcp1I) - Things prof. Madhur wish he knew in first year of grad school.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -56,7 +62,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Lecture Notes / Monograph
 
-*   [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/\~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.
+*   [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.
 *   Scott Aaronson. Quantum Information Science. [Part I](https://www.scottaaronson.com/qclec.pdf) & [Part II](https://www.scottaaronson.com/qisii.pdf) - Part I: Presuppose only linear algebra and a bit of classical algorithms. Topics include quantum circuits, density matrices, entanglement entropy, Wiesner’s quantum money, QKD, quantum teleportation, the Bell inequality, interpretations of QM, the Shor 9-qubit code, and the algorithms of Deutsch-Jozsa, Bernstein-Vazirani, Simon, Shor, and Grover. Part II: Perspectives on quantum computing that go beyond the bare quantum circuit model, like Hamiltonians, Stabilizer formalism, Bosons and Fermions, Cluster states, and Matrix product states.
 
 ### Blogs Aggregators / Monograph
@@ -67,7 +73,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Books / Monograph
 
-*   [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/\~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
+*   [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 *   [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4) - Suitable for undergraduate introductions to logic and early graduate courses on logic.
 
 ### Archived / Monograph
@@ -93,13 +99,13 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Network Groups / Monograph
 
 *   [Mathematics (⭐6.8k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐132k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐135k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
 ### Lecture Notes / Monograph
 
-*   [Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/\~avrim/MLT20/) - The basic theory underlying machine learning and the process of generalizing from data.
+*   [Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/~avrim/MLT20/) - The basic theory underlying machine learning and the process of generalizing from data.
 *   [Tim Roughgarden. Complexity Theory, Game Theory, and Economics: The Barbados Lectures](https://arxiv.org/abs/1801.00734) - A mini-course notes of two-fold goals: mini-course is twofold: (i) Explain how complexity theory has helped illuminate several barriers in economics and game theory; and (ii) Illustrate how game-theoretic questions have led to new and interesting complexity theory, including recent several breakthroughs.
 *   [Eva Tardos. Algorithmic Game Theory](http://www.cs.cornell.edu/courses/cs6840/2012sp/) - It combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface. The only prerequisite to the course is mathematical thinking.
 *   [Chekuri. Topics in Algorithms: Algorithmic Game Theory](https://chekuri.cs.illinois.edu/teaching/spring2008/agt.htm) - A broad graduate-level introduction to: auctions, existence and computation of equilibria in games and markets, algorithmic mechanism design, price of anarchy and price of stability, games relevant to networks and e-commerce. The emphasis will be on conceptual ideas and algorithmic aspects. No familiarity with game theory or economics will be assumed.
@@ -110,8 +116,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Other / Monograph
 
-*   [Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/\~avrim/Talks/mlt.pdf).
-*   [Blum, et.al. Machine Learning, Game Theory, and Mechanism Design for a Networked World](https://www.cs.cmu.edu/\~mblum/search/AGTML35.pdf).
+*   [Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).
+*   [Blum, et.al. Machine Learning, Game Theory, and Mechanism Design for a Networked World](https://www.cs.cmu.edu/~mblum/search/AGTML35.pdf).
 *   [Agrawal & Jaiswal. When Machine Learning Meets AI and Game Theory](https://cs229.stanford.edu/proj2012/AgrawalJaiswal-WhenMachineLearningMeetsAIandGameTheory.pdf).
 
 ### Books / Monograph
@@ -145,7 +151,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Introductory / Lecture Videos Playlists
 
-*   [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/\~odonnell/15455-s17/)) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
+*   [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/~odonnell/15455-s17/)) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
 
 ### Workshops / Monograph
 
@@ -164,7 +170,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 *   [Telgarsky. Deep Learning Theory. Illinois](https://mjt.cs.illinois.edu/dlt/) - Focuses on simplified proofs over what appears in the literature, and classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.
 *   [Vaughan. CS260: Machine Learning Theory](http://www.jennwv.com/courses/F11.html) - A broad overview of the theoretical foundations underlying common machine learning algorithms.
-*   [Livni. COS 511 Theoretical Machine Learning. Princeton](https://www.cs.princeton.edu/\~rlivni/cos511/cos511.html) - Formally define and study various models that have been proposed for learning. The course will present and contrast the statistical, computational and online models for learning. We will present and rigorously analyze some of the most successful algorithms in machine learning that are extensively used today.
+*   [Livni. COS 511 Theoretical Machine Learning. Princeton](https://www.cs.princeton.edu/~rlivni/cos511/cos511.html) - Formally define and study various models that have been proposed for learning. The course will present and contrast the statistical, computational and online models for learning. We will present and rigorously analyze some of the most successful algorithms in machine learning that are extensively used today.
 *   [Moitra. Theoretical Foundations for Deep Learning. MIT](https://people.csail.mit.edu/moitra/408b.html) - It explores theoretical foundations for deep learning, emphasizing the following themes: (1) Approximation: What sorts of functions can be represented by deep networks, and does depth provably increase the expressive power? (2) Optimization: Essentially all optimization problems we want to solve in practice are non-convex. What frameworks can be used to analyze such problems? (3) Beyond-Worst Case Analysis: Deep networks can memorize worst-case data, so why do they generalize well on real-world data?
 *   [Arora. Overcoming Intractability in Machine Learning](https://www.cs.princeton.edu/courses/archive/spring15/cos598D/) - A seminar course that will focus on the following phenomenon: many problems in machine learning are formally intractable (e.g., NP-hard). Nevertheless they are solved in practice by heuristics. Can we design algorithms with provable guarantees (running time, solution quality)?
 
@@ -181,14 +187,14 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Proof Complexity / Lecture Notes
 
-*   [Robert Robere. Proof Complexity: Algorithms and Lower Bounds](https://www.cs.mcgill.ca/\~robere/comp598/index.html) - An introduction to modern proof complexity, emphasizing its connections with computational complexity and algorithms in optimization.
+*   [Robert Robere. Proof Complexity: Algorithms and Lower Bounds](https://www.cs.mcgill.ca/~robere/comp598/index.html) - An introduction to modern proof complexity, emphasizing its connections with computational complexity and algorithms in optimization.
 
 ### Lecture Notes / Monograph
 
 *   [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 *   [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).
 *   [Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
-*   [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/\~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+*   [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 *   [Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 *   [Arora. A Theorist's Toolkit](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/) - Aimed primarily at first and second year graduate students who plan to do research in theoretical computer science. We will introduce probabilistic, algebraic, combinatorial, and algorithmic methods useful in proofs.
 
@@ -239,7 +245,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Lecture Notes
 
-*   [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/\~watrous/ToC-notes/) - undergrad introduction to theory of computation
+*   [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
 
 ### Lecture Videos Playlists
 
@@ -267,8 +273,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Introductory / Books
 
 *   [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - A golden standard textbook, Surveying computational complexity theory for graduate students and researchers.
-*   [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/\~oded/cc-book.html) - A grad introduction to computation complexity theory, emphasizing the idea behind concepts of complexity theory.
-*   [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/\~oded/bc-book.html) - A very gentle introduction to some fundamental ideas of computational complexity like NP-completeness and P vs NP.
+*   [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - A grad introduction to computation complexity theory, emphasizing the idea behind concepts of complexity theory.
+*   [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/~oded/bc-book.html) - A very gentle introduction to some fundamental ideas of computational complexity like NP-completeness and P vs NP.
 *   [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - An accessible, algorithmically oriented, research-centered, up-to-date guide to some of the most interesting techniques of complexity theory.
 *   [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the structural aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
 
@@ -307,13 +313,13 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 *   [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
 *   [Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,
-*   [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/\~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
+*   [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
 *   [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
 *   Feynman’s Course on Computation - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
 *   [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - A general illustration of relations between faith and science.
 *   [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - Turing’s place in the history and philosophy of science.
 *   [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
-*   [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/\~ullman/focs.html) - A classic math-oriented introduction to computer science.
+*   [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
 *   [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
 *   [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - A series dedicated to math topics and their relevance to computer science.
 *   [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - A concise offered as an accessible reference on mathematical logic for the professional computer scientist.
@@ -340,7 +346,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Lecture Notes / Monograph
 
 *   [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science.
-*   [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/\~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
+*   [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
 *   [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 
 ### Papers / Monograph
@@ -362,7 +368,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Transition To Pure Rigour Math / Monograph
 
 *   [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
-*   [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/\~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
+*   [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 *   [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
 *   [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
 *   [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
@@ -376,7 +382,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Live / Monograph
 
 *   [TCS+](https://www.youtube.com/user/TCSplusSeminars) - A series of online seminars in theoretical computer science. The goal is to make engaging talks accessible to the widest possible audience.
-*   [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/\~igorcarb/complexity-meetings.html) - Online informal talks dedicated to topics of interest in computational complexity theory and related areas. The goal is to serve as a forum for discussion and quick dissemination of results.
+*   [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html) - Online informal talks dedicated to topics of interest in computational complexity theory and related areas. The goal is to serve as a forum for discussion and quick dissemination of results.
 *   [Simons' Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
 
 ### Archived / Monograph
@@ -395,7 +401,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Lists / Monograph
 
-*   [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/\~smattw/masters/masters.html) - A list of master programs in TCS.
+*   [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 *   [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
 
 ### Online Communities / Monograph
@@ -407,14 +413,14 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 *   [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
 *   [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/) - In celebration of 25 years for “TOC: a Scientific Perspective (1996),” by Oded Goldreich and Avi Wigderson. It spots the light on a criticism directed to TCS, that it is not as deep as Math and not as useful as CS.
-*   [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/\~mblum/research/pdf/grad.html) - Manuel Blum, A very popular figure in TCS, gives research advices for juniors.
+*   [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - Manuel Blum, A very popular figure in TCS, gives research advices for juniors.
 *   [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58) - A note devoted to three rules that must be followed if you want to be successful in scientific research.
-*   [Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/\~oded/essays.html) - Personal Essays by Oded Goldreich. They are very unique in their conceptual message of TCS and its community.
+*   [Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html) - Personal Essays by Oded Goldreich. They are very unique in their conceptual message of TCS and its community.
 *   [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/) - Tips for anyone interested in theoretical computer science.
 *   [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/) - Surveys for high-school, undergraduate, and even researchers.
 *   [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/) - Posts oriented more for a less-technically matured audience.
 *   [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html) - Karp addresses: In 1968 computer science at Berkeley was problematic, with two departments working independently to develop programs, and his personal reflections.
-*   [Hamming. You and Your Research](https://www.cs.virginia.edu/\~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run? The talk is about what Hamming has learned.
+*   [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run? The talk is about what Hamming has learned.
 *   [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg.
 *   [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
 
@@ -429,7 +435,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Cheat Sheets / Monograph
 
-*   [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/\~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
+*   [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
 
 ### Network Groups / Monograph
 
@@ -438,5 +444,5 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Cryptography (⭐4.4k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 *   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing

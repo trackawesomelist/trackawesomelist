@@ -6,6 +6,12 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ [Daily](/content/saharmor/awesome-chatgpt/README.md) / Weekly / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
+
+### Assistants
+
+*   [ai-commit - Automagically generate conventional commit messages with AI (⭐13)](https://github.com/guanguans/ai-commit)
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Using ChatGPT in other apps
@@ -27,7 +33,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Prompting
 
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.7k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐2.9k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 *   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
 ### Assistants

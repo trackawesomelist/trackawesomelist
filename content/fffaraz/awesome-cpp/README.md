@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 19, 2023](/content/2023/02/19/README.md)
+
+### Online Compiler
+
+*   [Programiz](https://www.programiz.com/cpp-programming/online-compiler) - An online compiler for learners and developers.
+
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
 ### Audio
@@ -26,7 +32,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Font
 
-*   [harfbuzz (⭐2.8k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine \[Old MIT]
+*   [harfbuzz (⭐2.9k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine \[Old MIT]
 
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
@@ -36,12 +42,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Debug
 
-*   [snitch (⭐88)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+*   [snitch (⭐97)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
 
 ### Game Engine
 
-*   [Torque2D (⭐725)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
-*   [Torque3D (⭐788)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
+*   [Torque2D (⭐739)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+*   [Torque3D (⭐809)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 
 ### Math
 
@@ -67,13 +73,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Math
 
-*   [MatX (⭐663)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
+*   [MatX (⭐681)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
 
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
 ### Frameworks
 
-*   [libxutils (⭐14)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐16)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
@@ -1013,7 +1019,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Machine Learning
 
-*   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
+*   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 ## [Aug 04, 2019](/content/2019/08/04/README.md)
 
@@ -1816,7 +1822,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Networking
 
-*   [ACE](http://www.dre.vanderbilt.edu/\~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
+*   [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
 
 ## [Sep 22, 2018](/content/2018/09/22/README.md)
 
@@ -2240,7 +2246,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Scripting
 
 *   [cppimport (⭐1.1k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
-*   [CppSharp (⭐2.5k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
+*   [CppSharp (⭐2.6k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
 *   [nbind (⭐1.9k)](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. \[MIT]
 
 ### Static Code Analysis
@@ -2967,7 +2973,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Coding Style
 
-*   [google-styleguide (⭐33k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐34k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -3538,7 +3544,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. \[GPL]
 *   [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. \[?]
 *   [LibTomCrypt (⭐1.3k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
-*   [Nettle](http://www.lysator.liu.se/\~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
+*   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
 
 ### Debug
 
@@ -3646,7 +3652,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [lists (⭐8.7k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [lists (⭐8.8k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [free-programming-books (⭐267k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ## [Sep 25, 2014](/content/2014/09/25/README.md)

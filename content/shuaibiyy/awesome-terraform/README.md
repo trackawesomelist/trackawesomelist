@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Feb 17, 2023](/content/2023/02/17/README.md)
+
+### Private Module Registries / Miscellaneous
+
+*   [tapir (⭐49)](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization and autogenerates documentation.
+
 ## [Feb 16, 2023](/content/2023/02/16/README.md)
 
 ### Tools / Vendor supported providers

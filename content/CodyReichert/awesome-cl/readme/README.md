@@ -551,7 +551,7 @@ See also:
 *   [cl-json (⭐6)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT][14].
 *   [jsown (⭐105)](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat][14].
 *   [shasht (⭐30)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT][14].
-    *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Colleton.
+    *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Crolleton.
 *   [json-mop (⭐56)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT][200].
 *   [cl-json-pointer (⭐7)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT][200].
 
@@ -597,7 +597,7 @@ A large list of portability layers [is collected here](https://shinmera.github.i
 For strings:
 
 *   ⭐ [cl-interpol (⭐49)](https://github.com/edicl/cl-interpol/) - A set of reader modifications to allow string interpolation. [BSD][15].
-*   [mstrings](https://git.sr.ht/\~shunter/mstrings) -  a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. [BSD\_3Clause][15].
+*   [mstrings](https://git.sr.ht/~shunter/mstrings) -  a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. [BSD\_3Clause][15].
 *   [pythonic-string-reader (⭐14)](https://github.com/smithzvk/pythonic-string-reader) - A simple and unobtrusive read table modification inspired by Python's three quote strings. [BSD\_3Clause][15].
 *   [cl-heredoc (⭐11)](https://github.com/outergod/cl-heredoc) - a ["heredocs" (⭐11)](https://github.com/outergod/cl-heredoc) dispatcher. [GPL3][2]. Allows to write: `#>eof>Write whatever (you) "want", no matter what characters, until the magic end sequence has been reached.eof`
 
@@ -688,7 +688,7 @@ See also:
 *   [Practical Common Lisp][206] - A good introductory text to Common Lisp, with practical examples. Better read with [a Firefox add-on (⭐28)](https://github.com/vale981/practical-cl-beautified).
 *   [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - A nice introduction into the language.
 *   [Successful Lisp](http://successful-lisp.blogspot.com/) - A good book for beginners with some programming background.
-*   [Lisp Quickstart](https://cs.gmu.edu/\~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
+*   [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 *   [Casting SPELs in LISP](http://www.lisperati.com/casting.html) - A fun way to learn LISP while reading a comic book.
 *   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). Teaches the language basics, explains the ecosystem and shows real-world examples. By an active lisper and community contributor (@vindarel).
     > Thanks for supporting my work on Udemy. Also note that I release free coupons from time to time, and that Udemy often proposes drastic promotions, but you can ask me a free coupon too.
@@ -1065,13 +1065,13 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
 
 # Numerical and Scientific
 
-*   [numcl (⭐618)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
-*   [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
 *   [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. Not available on Quicklisp. [GNU GPL3][2].
     *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
     *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
     *   [Maxima on Jupyter (⭐157)](https://github.com/robert-dodier/maxima-jupyter)
-    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)).
+    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface (⭐12)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
+*   [numcl (⭐618)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
+*   [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
 *   [Xecto (⭐38)](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD][15].
 *   [Petalisp (⭐272)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
@@ -1099,7 +1099,7 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
 
 *   [lisp-stat](https://github.com/lisp-stat) - an environment for statistical computing, conceptually similar to R, that is also suitable for front-line production deployments. "It grew out of a desire to have an environment for rapidly prototyping analytical and A.I. solutions, and move directly to production environments with minimal friction."
     *   <https://lisp-stat.dev/>
-    *   ships Luke Tierney's [XLisp-Stat](https://homepage.stat.uiowa.edu/\~luke/xls/xlsinfo/) (a predecessor of R) as well as newer libraries.
+    *   ships Luke Tierney's [XLisp-Stat](https://homepage.stat.uiowa.edu/~luke/xls/xlsinfo/) (a predecessor of R) as well as newer libraries.
 *   [common-lisp-stat (⭐166)](https://github.com/blindglobe/common-lisp-stat/) - Common Lisp statistics library. [FreeBSD][39].
 
 ## Units
@@ -1442,6 +1442,7 @@ See also the book [Calendrical calculations](https://www.cambridge.org/us/academ
 *   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT][200].
 *   [json-schema (⭐12)](https://github.com/fisxoj/json-schema) - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL][8].
 *   [sanity-clause (⭐40)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL][8].
+*   [cl-semver (⭐10)](https://github.com/cldm/cl-semver) - Implementation of the [Semantic Versioning](https://semver.org) Specification. [MIT][200]
 
 ## Developer utilities
 

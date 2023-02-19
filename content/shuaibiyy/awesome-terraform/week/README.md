@@ -8,6 +8,10 @@ Curated list of resources on HashiCorp's Terraform
 
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
+### Private Module Registries / Miscellaneous
+
+*   [tapir (⭐49)](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization and autogenerates documentation.
+
 ### Tools / Vendor supported providers
 
 *   [Terrahaxs](https://www.terrahaxs.com) - A GitOps Terraform CI/CD GitHub Application :heavy\_dollar\_sign:

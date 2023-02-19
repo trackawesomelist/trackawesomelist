@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [figsoda/nix-develop.nvim (⭐16)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
+### Remote Development / Diagnostics
+
+*   [miversen33/netman.nvim (⭐202)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+
 ### Preconfigured Configuration / Diagnostics
 
 *   [LazyVim/LazyVim (⭐3.4k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim**  to make it easy to customize and extend your config.
@@ -62,14 +66,14 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [\~nedia/auto-save.nvim](https://git.sr.ht/\~nedia/auto-save.nvim) - Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter.
+*   [\~nedia/auto-save.nvim](https://git.sr.ht/~nedia/auto-save.nvim) - Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter.
 *   [echasnovski/mini.nvim#mini.basics (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
 *   [niuiic/part-edit.nvim (⭐7)](https://github.com/niuiic/part-edit.nvim) - Edit a part of a file individually.
 *   [niuiic/divider.nvim (⭐4)](https://github.com/niuiic/divider.nvim) - Custom code divider line.
 
 ### Formatting / Diagnostics
 
-*   [\~nedia/auto-format.nvim](https://git.sr.ht/\~nedia/auto-format.nvim) - Does no formatting by itself, but sets up an autocmd to format on save, preferring null-ls over LSP client formatting.
+*   [\~nedia/auto-format.nvim](https://git.sr.ht/~nedia/auto-format.nvim) - Does no formatting by itself, but sets up an autocmd to format on save, preferring null-ls over LSP client formatting.
 
 ### Session / Diagnostics
 
@@ -433,7 +437,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5) / Diagnostics
 
-*   [\~whynothugo/lsp\_lines.nvim](https://git.sr.ht/\~whynothugo/lsp_lines.nvim) - Render diagnostics using virtual lines on top of the real line of code.
+*   [\~whynothugo/lsp\_lines.nvim](https://git.sr.ht/~whynothugo/lsp_lines.nvim) - Render diagnostics using virtual lines on top of the real line of code.
 *   [onsails/diaglist.nvim (⭐137)](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix, buffer diagnostics in loclist.
 *   [folke/trouble.nvim (⭐2.8k)](https://github.com/folke/trouble.nvim) - A pretty diagnostics list to help you solve all the trouble your code is causing.
 *   [folke/lsp-colors.nvim (⭐410)](https://github.com/folke/lsp-colors.nvim) - A plugin that adds missing LSP diagnostics highlight groups for color schemes that don't yet support the builtin LSP client.
@@ -463,7 +467,7 @@ Collections of awesome neovim plugins.
 ### Web Development / Diagnostics
 
 *   [NTBBloodbath/rest.nvim (⭐630)](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim HTTP client written in Lua.
-*   [ray-x/web-tools.nvim (⭐66)](https://github.com/ray-x/web-tools.nvim) - Launch a local development server with live reload feature for static & dynamic pages, HTTP & CSS tag rename with LSP.
+*   [ray-x/web-tools.nvim (⭐66)](https://github.com/ray-x/web-tools.nvim) - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
 
 ### Language / Diagnostics
 
@@ -557,7 +561,7 @@ Collections of awesome neovim plugins.
 *   [glepnir/dashboard-nvim (⭐1.4k)](https://github.com/glepnir/dashboard-nvim) - A minimalist dashboard, inspired by doom-emacs.
 *   [goolord/alpha-nvim (⭐935)](https://github.com/goolord/alpha-nvim) - A fast and highly customizable greeter like [vim-startify (⭐5k)](https://github.com/mhinz/vim-startify)/dashboard-nvim.
 *   [echasnovski/mini.nvim#mini.starter (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-starter.md) - Module of `mini.nvim` for start screen. Displayed items are fully customizable, item selection can be done using prefix query with instant visual feedback.
-*   [henriquehbr/nvim-startup.lua](https://sr.ht/\~henriquehbr/nvim-startup.lua) - Displays Neovim startup time.
+*   [henriquehbr/nvim-startup.lua](https://sr.ht/~henriquehbr/nvim-startup.lua) - Displays Neovim startup time.
 *   [startup-nvim/startup.nvim (⭐224)](https://github.com/startup-nvim/startup.nvim) - The fully customizable greeter for neovim.
 
 ### Icon / Diagnostics
@@ -700,7 +704,7 @@ Collections of awesome neovim plugins.
 
 ### Split and Window / Diagnostics
 
-*   [\~henriquehbr/ataraxis.lua](https://sr.ht/\~henriquehbr/ataraxis.lua) - A zen mode for improving code readability on Neovim.
+*   [\~henriquehbr/ataraxis.lua](https://sr.ht/~henriquehbr/ataraxis.lua) - A zen mode for improving code readability on Neovim.
 *   [gitlab.com/yorickpeterse/nvim-window](https://gitlab.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 *   [sindrets/winshift.nvim (⭐311)](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 *   [beauwilliams/focus.nvim (⭐461)](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.

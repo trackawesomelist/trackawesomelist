@@ -2,9 +2,15 @@
 
 Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jbmoelker/progressive-enhancement-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jbmoelker/progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) · ⭐ 91 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jbmoelker/progressive-enhancement-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jbmoelker/progressive-enhancement-resources](https://github.com/voorhoede/progressive-enhancement-resources) · ⭐ 102 · 🏷️ Front-End Development
 
 [ [Daily](/content/jbmoelker/progressive-enhancement-resources/README.md) / Weekly / [Overview](/content/jbmoelker/progressive-enhancement-resources/readme/README.md) ]
+
+## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
+
+### Support Tables
+
+*   [iOS PWA Compatibility](https://firt.dev/notes/pwa-ios/) - Support table for PWA features including service worker, manifest, background sync and push notifications (Unofficial, maintained by Maximiliano Firtman).
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
@@ -49,7 +55,7 @@ Resources on Progressive Enhancement. From concept and strategies to feature det
 ### Support Tables
 
 *   [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article.
-*   [MDN Browser Compat Data (⭐4.3k)](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
+*   [MDN Browser Compat Data (⭐4.4k)](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
 
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 
@@ -108,7 +114,7 @@ Resources on Progressive Enhancement. From concept and strategies to feature det
 *   [Node compatibility table](http://node.green/) - Overview of JavaScript feature support across NodeJS versions.
 *   [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Overview of support for the different browser features behind real time communication.
 *   [Is WebVR ready?](https://iswebvrready.org/) - Overview of support of different browser features behind WebVR including display, gamepad, audio and speech APIs.
-*   [Device Bugs & Quirks (⭐856)](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
+*   [Device Bugs & Quirks (⭐859)](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
 
 ### Testing Methods
 
@@ -118,8 +124,8 @@ Resources on Progressive Enhancement. From concept and strategies to feature det
 *   [cURL](https://curl.haxx.se/docs/manual.html) - Web page to see the pre-rendered source code of a page.
 *   [Browserling](https://www.browserling.com/) - Lets you manually test web pages in different versions of browsers on Windows and Android platforms.
 *   [Run Internet Explorer using Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/) - To test IE browsers on other platforms.
-*   [Configure *Desired Capabilities* in Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) - Run automated browser tests in different scenarios.
-*   [Lighthouse (⭐25k)](https://github.com/GoogleChrome/lighthouse) - Audit and meassure performance of Progressive Web Apps (via cli or [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
+*   [Configure *Desired Capabilities* in Selenium (⭐26k)](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) - Run automated browser tests in different scenarios.
+*   [Lighthouse (⭐26k)](https://github.com/GoogleChrome/lighthouse) - Audit and meassure performance of Progressive Web Apps (via cli or [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
 *   [Progressive Enhancement checklist (1st edition, HTML)](http://adaptivewebdesign.info/1st-edition/read/chapter-6.html#the-progressive-enhancement-checklist), [Checklist of 2nd edition (PDF)](http://adaptivewebdesign.info/2nd-edition/checklist.pdf) - Actionable list to check you've applied Progressive Enhancement best practices. Part of [Adaptive Web Design book](http://adaptivewebdesign.info/).
 
 ### Examples / Custom Form Elements
@@ -140,7 +146,7 @@ Resources on Progressive Enhancement. From concept and strategies to feature det
 ### Examples / Images
 
 *   [Responsive Carousel](http://filamentgroup.github.io/responsive-carousel/test/functional/fade-auto.html) - List of images enhanced into responsive carousel with various behaviour options.
-*   [Lazy Progressive Enhancement (⭐189)](https://github.com/tvler/lazy-progressive-enhancement) - Lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
+*   [Lazy Progressive Enhancement (⭐190)](https://github.com/tvler/lazy-progressive-enhancement) - Lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
 
 ### Examples / Menus
 

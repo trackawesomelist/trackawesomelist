@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
+
+### Data validation / Third-party APIs
+
+*   [cl-semver (⭐10)](https://github.com/cldm/cl-semver) - Implementation of the [Semantic Versioning](https://semver.org) Specification. [MIT](https://opensource.org/licenses/MIT)
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Miscellaneous
@@ -68,7 +74,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Mobile
 
 *   [shasht (⭐30)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
-    *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Colleton.
+    *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Crolleton.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
@@ -212,7 +218,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
     *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
     *   [Maxima on Jupyter (⭐157)](https://github.com/robert-dodier/maxima-jupyter)
-    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)).
+    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface (⭐12)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
 
 ### Documentation builders / Third-party APIs
 
@@ -263,7 +269,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Changing the syntax
 
 *   ⭐ [cl-interpol (⭐49)](https://github.com/edicl/cl-interpol/) - A set of reader modifications to allow string interpolation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [mstrings](https://git.sr.ht/\~shunter/mstrings) -  a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [mstrings](https://git.sr.ht/~shunter/mstrings) -  a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [pythonic-string-reader (⭐14)](https://github.com/smithzvk/pythonic-string-reader) - A simple and unobtrusive read table modification inspired by Python's three quote strings. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-heredoc (⭐11)](https://github.com/outergod/cl-heredoc) - a ["heredocs" (⭐11)](https://github.com/outergod/cl-heredoc) dispatcher. [GPL3](http://www.gnu.org/copyleft/gpl.html). Allows to write: `#>eof>Write whatever (you) "want", no matter what characters, until the magic end sequence has been reached.eof`
 
@@ -884,7 +890,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [lisp-stat](https://github.com/lisp-stat) - an environment for statistical computing, conceptually similar to R, that is also suitable for front-line production deployments. "It grew out of a desire to have an environment for rapidly prototyping analytical and A.I. solutions, and move directly to production environments with minimal friction."
     *   <https://lisp-stat.dev/>
-    *   ships Luke Tierney's [XLisp-Stat](https://homepage.stat.uiowa.edu/\~luke/xls/xlsinfo/) (a predecessor of R) as well as newer libraries.
+    *   ships Luke Tierney's [XLisp-Stat](https://homepage.stat.uiowa.edu/~luke/xls/xlsinfo/) (a predecessor of R) as well as newer libraries.
 
 ### Apps / Third-party APIs
 
@@ -2239,7 +2245,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Beginner
 
-*   [Lisp Quickstart](https://cs.gmu.edu/\~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
+*   [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 
 ### Apps / Third-party APIs
 

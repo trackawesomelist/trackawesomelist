@@ -1725,6 +1725,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Cronhooks](https://cronhooks.io/) - Schedule on time or recurring webhooks. Free plan allows 5 ad-hoc schedules.
 *   [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
 *   [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
+*   [Pika Code Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1740,6 +1741,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 ## Game Development
 
 *   [itch.io](https://itch.io/game-assets) —  Free/Paid assets like sprites, tile sets, character packs, ...
+*   [Gamefresco.com](https://gamefresco.com/) — Discover, collect and share free game assets from game artists everywhere.
 *   [GameDevMarket](https://gamedevmarket.net) — Free/Paid assets like 2D, 3D, Audio, GUI.
 *   [OpenGameArt](https://opengameart.org) —  OpenSource Game Assets like music, sounds, sprites, gifs, ...
 *   [CraftPix](https://craftpix.net) — Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.

@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 19, 2023](/content/2023/02/19/README.md)
+
+### Miscellaneous
+
+*   [Pika Code Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.
+
+### Game Development
+
+*   [Gamefresco.com](https://gamefresco.com/) — Discover, collect and share free game assets from game artists everywhere.
+
 ## [Feb 16, 2023](/content/2023/02/16/README.md)
 
 ### Email

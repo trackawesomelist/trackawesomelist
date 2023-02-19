@@ -16,10 +16,6 @@ Curated list of resources on HashiCorp's Terraform
 
 Terraform enables you to safely and predictably create, change, and improve production infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
-Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
-
-<a href="https://www.scalr.com/?utm_source=awesome-terraform" target="_blank"><img src="https://bit.ly/2VPBJDv" alt="Scalr - Terraform Automation & Collaboration Software" width="175" height="40" /></a>
-
 ## Contents <!-- omit in toc -->
 
 *   [Legend](#legend)
@@ -217,6 +213,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [anthology (⭐112)](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
 *   [citizen (⭐482)](https://github.com/outsideris/citizen) - Private Terraform Module Registry
 *   [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
+*   [tapir (⭐49)](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization and autogenerates documentation.
 *   [terraform-simple-registry (⭐64)](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 *   [terraform-registry (⭐46)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 *   [terrareg (⭐44)](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import

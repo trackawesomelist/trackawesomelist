@@ -119,7 +119,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libPhenom (⭐1.7k)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
 *   [LibSourcey (⭐1.3k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
 *   [LibU (⭐399)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
-*   [libxutils (⭐14)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐16)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 *   [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. \[MIT]
 *   [MiLi (⭐17)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. \[Boost]
 *   [OpenFrameworks (⭐9.3k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
@@ -374,7 +374,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libhydrogen (⭐471)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 *   [LibTomCrypt (⭐1.3k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
 *   [mbedTLS (⭐4k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
-*   [Nettle](http://www.lysator.liu.se/\~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
+*   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
 *   [OpenSSL (⭐21k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 *   [retter (⭐81)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 *   [s2n (⭐4.2k)](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. \[Apache]
@@ -463,7 +463,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Nanotimer (⭐110)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 *   [Nonius (⭐346)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 *   [Remotery (⭐2.5k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
-*   [snitch (⭐88)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+*   [snitch (⭐97)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
 *   [Touca (⭐143)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 *   [UnitTest++ (⭐512)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 *   [Unity (⭐2.9k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
@@ -478,7 +478,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
 *   [otfcc (⭐398)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
-*   [harfbuzz (⭐2.8k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine \[Old MIT]
+*   [harfbuzz (⭐2.9k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine \[Old MIT]
 
 ## Game Engine
 
@@ -503,8 +503,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Polycode (⭐2.4k)](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). \[MIT] [website](http://polycode.org/)
 *   [raylib (⭐12k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 *   [Spring (⭐3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
-*   [Torque2D (⭐725)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
-*   [Torque3D (⭐788)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
+*   [Torque2D (⭐739)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+*   [Torque3D (⭐809)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 *   [toy engine (⭐1.5k)](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 *   [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. \[MIT]
 
@@ -687,7 +687,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Dlib (⭐12k)](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](http://dlib.net/)
 *   [Fido (⭐411)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 *   [flashlight (⭐4.7k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
-*   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
+*   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 *   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
 *   [MeTA (⭐661)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 *   [Minerva (⭐683)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
@@ -724,7 +724,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [GMP](https://gmplib.org/) - A C library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. \[LGPL3 & GPL2]
 *   [Klein (⭐641)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 *   [linalg.h (⭐761)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
-*   [MatX (⭐663)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
+*   [MatX (⭐681)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
 *   [MIRACL (⭐530)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 *   [NumCpp (⭐2.8k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 *   [muparser](https://beltoforion.de/en/muparser) - muParser is an extensible high performance math expression parser library written in C++. \[MIT]
@@ -772,7 +772,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Networking
 
-*   [ACE](http://www.dre.vanderbilt.edu/\~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
+*   [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
 *   [Boost.Asio](http://think-async.com/) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost]
 *   [Boost.Beast (⭐3.7k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[BSL-1.0] [website](https://www.boost.org/libs/beast)
 *   [Breep (⭐111)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
@@ -910,7 +910,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [AngelScript](https://www.angelcode.com/angelscript/) - AngelScript is a game-oriented interpreted/compiled scripting language. \[zlib]
 *   [Boost.Python](http://www.boost.org/doc/libs/1_65_1/libs/python/doc/html/index.html) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost]
 *   [cppimport (⭐1.1k)](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! \[MIT]
-*   [CppSharp (⭐2.5k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
+*   [CppSharp (⭐2.6k)](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
 *   [ChaiScript (⭐2.7k)](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. \[BSD] [website](http://chaiscript.com/)
 *   [ctypes.sh (⭐1.8k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
 *   [Cython (⭐7.7k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
@@ -1097,6 +1097,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Compiler Explorer](http://gcc.godbolt.org/) - An interactive compiler with assembly output available.
 *   [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - Compile and Execute C++ online on Linux.
 *   [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
+*   [Programiz](https://www.programiz.com/cpp-programming/online-compiler) - An online compiler for learners and developers.
 *   [repl.it](https://repl.it) - A powerful yet simple tools and platforms for educators, learners, and developers.
 *   [Rextester](http://rextester.com/runcode) - Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.
 *   [Try It Online](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
@@ -1244,7 +1245,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [C++ Core Guidelines (⭐37k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 *   [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
-*   [google-styleguide (⭐33k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐34k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 *   [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 *   [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 *   [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
@@ -1327,7 +1328,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Other amazingly awesome lists*
 
-*   [lists (⭐8.7k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [lists (⭐8.8k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 *   [awesome (⭐238k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐3.5k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.

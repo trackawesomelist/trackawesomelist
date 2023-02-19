@@ -181,7 +181,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [DotNetty (⭐3.8k)](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 *   [AspectCore Framework (⭐1.5k)](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
 *   [HopFramework (⭐51)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
-*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐134)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐59)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐135)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐60)](https://github.com/alexyakunin/BoardGames)
 *   [silky (⭐239)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 
 ## Application Templates
@@ -193,7 +193,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Side-Waffle (⭐654)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 *   [Template10 (⭐1.4k)](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 *   [Nucleus (⭐340)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
-*   [JHipster.NET (⭐271)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+*   [JHipster.NET (⭐273)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
 
 ## Artificial Intelligence
 
@@ -229,8 +229,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 *   [BootstrapBlazor (⭐1.3k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 *   [ant-design-blazor (⭐4.8k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-*   [MASA.Blazor (⭐522)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
-*   [Megabit.Blazorise (⭐2.6k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
+*   [MASA.Blazor (⭐541)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
+*   [Megabit.Blazorise (⭐2.7k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 *   [blazork8s (⭐65)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 
 ## Blockchain
@@ -303,7 +303,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Appccelerate - Command Line Parser](https://appccelerate.github.io/commandlineparser.html) - A command-line parser with fluent definition syntax, different argument types, required and optional arguments, value restrictions, aliases, type conversion and semi-automatic usage help message composition
 *   [Argu (⭐374)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
 *   [CliFx (⭐1.3k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
-*   [Typin (⭐214)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐215)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 *   [clipr (⭐86)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
 *   [CliWrap (⭐3.3k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
 *   [Colorful.Console (⭐1.2k)](https://github.com/tomakita/Colorful.Console) - Colorful console output.
@@ -336,11 +336,12 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Umbraco (⭐3.8k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 *   [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 *   [BlogEngine.NET (⭐906)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
-*   [Squidex (⭐1.8k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
+*   [Squidex (⭐1.9k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
 
 ## Code Analysis and Metrics
 
 *   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.3k)](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
+*   [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety. **\[[Free for OSS](https://pvs-studio.com/en/order/open-source-license/)]** **\[$]**
 *   [NDepend](https://www.ndepend.com) - is a Visual Studio and VS Team Services extension that estimates your .NET code quality and Technical-Debt, that lets create code rules with C# LINQ syntax, visualize code structure and focus on changes and evolution. **\[$]**
 *   [App.Metrics (⭐2.1k)](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
 *   [CodeMaid](http://www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
@@ -659,11 +660,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 *   [EasyHttp (⭐956)](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 *   [Refit (⭐6.8k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
-*   [RestEase (⭐904)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+*   [RestEase (⭐918)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 *   [RestLess (⭐108)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 *   [HttpClientGoodies (⭐60)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 *   [WebApiClient (⭐1.8k)](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
-*   [Apizr (⭐95)](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [Apizr (⭐98)](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ## IDE
 
@@ -703,7 +704,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 *   [Wix Toolset](https://wixtoolset.org/) - The most powerful set of tools available to create your Windows installation experience
 *   [Squirrel (⭐6.6k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐8.8k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Chocolatey (⭐8.9k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 *   [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - An interactive editor for WiX projects.
 *   [Onova (⭐370)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
@@ -719,7 +720,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Interoperability
 
-*   [CppSharp (⭐2.5k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
+*   [CppSharp (⭐2.6k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 *   [Sharpen (⭐365)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 *   [CXXI (⭐197)](https://github.com/mono/cxxi) - C++ interop framework
 *   [pythonnet (⭐3.5k)](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
@@ -1216,7 +1217,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Trading
 
-*   [Lean (⭐7k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐7.1k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 *   [StockSharp (⭐5.4k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
 
 ## UI Automation
@@ -1307,13 +1308,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [awesome-LINQ (⭐380)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 *   [awesome-analyzers (⭐394)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 *   [C# Algorithms, Data Structures (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
-*   [Awesome .NET Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
+*   [Awesome .NET Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 *   [ASP.NET Core Library and Framework Support (⭐205)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 *   [Awesome .NET Performance (⭐2.9k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 *   [awesome-ddd (⭐9.6k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-*   [Awesome Unity (⭐5.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐5.6k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 *   [Awesome Xamarin (⭐1.8k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
-*   [Awesome Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐548)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 *   [.NET Open Source Developer Projects (⭐13k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 *   [Awesome Microservices .NET Core (⭐2.2k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 *   [dotnet-console-games (⭐441)](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.

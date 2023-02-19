@@ -100,7 +100,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 ### For text-to-image
 
 *   [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
-*   [daspartho/prompt-extend (⭐139)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
+*   [daspartho/prompt-extend (⭐145)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
 *   [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 *   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
 *   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
@@ -269,7 +269,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐257)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐369)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐0)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### AI Tools for Searching
@@ -278,7 +278,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Papers Collections
 
-*   [dair-ai/ML-Papers-Explained (⭐2.6k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+*   [dair-ai/ML-Papers-Explained (⭐3k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
 *   [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow)
 *   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
 *   [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8): Community knowledge base for Casual GAN Papers
@@ -288,7 +288,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
 *   [The Methods Corpus | Papers With Code](https://paperswithcode.com/methods)
 *   <https://ieeexplore.ieee.org/abstract/document/9043519>: A State-of-the-Art Review on Image Synthesis With Generative Adversarial Networks
-*   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/\~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
+*   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
 *   [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
 *   [\[PDF\] Music2Video: Automatic Generation of Music Video with fusion of audio and text | Semantic Scholar](https://www.semanticscholar.org/paper/Music2Video%3A-Automatic-Generation-of-Music-Video-of-Jang-Shin/38e37c3a7dc22bb3356552e93e6685b99ca04264)
 *   [\[PDF\] Active Divergence with Generative Deep Learning - A Survey and Taxonomy | Semantic Scholar](https://www.semanticscholar.org/paper/Active-Divergence-with-Generative-Deep-Learning-A-Broad-Berns/091c4ea2efaba23cd9024d8a063609c9a313b5cb)
@@ -316,6 +316,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Critical Views about Generative AI
 
+*   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 *   [ChatGPT Is a Bullshit Generator Waging Class War](https://www.vice.com/en/article/akex34/chatgpt-is-a-bullshit-generator-waging-class-war)
 *   [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/)
 *   [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education)
@@ -453,7 +454,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Generative Adversarial Networks (GANs)
 
-*   \[🔥] [weihaox/awesome-gan-inversion (⭐880)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐893)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 *   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 *   [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
 *   [yuval-alaluf/stylegan3-editing (⭐542)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
@@ -595,7 +596,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 ## Inbox: Video AI tools
 
 *   [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐86)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐95)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 *   [THUDM/CogVideo (⭐2.4k)](https://github.com/THUDM/CogVideo): text-to-video generation
 *   [baowenbo/DAIN (⭐7.7k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
@@ -607,7 +608,8 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Inbox: Developing + AI
 
-*   [openai/openai-cookbook (⭐11k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
+*   [openai/openai-cookbook (⭐13k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ## People and works
 
@@ -684,7 +686,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Auxiliary tools and concepts
 
-*   [chaiNNer-org/chaiNNer (⭐1.7k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
+*   [chaiNNer-org/chaiNNer (⭐1.8k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 *   [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 *   [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 *   [HashLips/hashlips\_art\_engine (⭐6.8k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers

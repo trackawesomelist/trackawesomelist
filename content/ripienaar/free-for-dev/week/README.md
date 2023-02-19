@@ -24,6 +24,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Clockwork Micro](https://clockworkmicro.com/) — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation).
 
+### Miscellaneous
+
+*   [Pika Code Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.
+
+### Game Development
+
+*   [Gamefresco.com](https://gamefresco.com/) — Discover, collect and share free game assets from game artists everywhere.
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### APIs, Data and ML

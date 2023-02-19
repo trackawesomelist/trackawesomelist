@@ -6,6 +6,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Feb 19, 2023](/content/2023/02/19/README.md)
+
+### Entry Point
+
+*   [ada-lang-io](https://ada-lang.io) - A community site for Ada.
+
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
 ### DevOps / MIT
@@ -68,25 +74,21 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Terminal User Interface / MIT
 
-*   [linenoise-ada](https://git.sr.ht/\~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8)
+*   [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8)
 
 ### Format Readers and Writers / MIT
 
-*   [uri-ada](https://git.sr.ht/\~nytpu/uri-ada) - URI and MIME parser & manipulation library.
+*   [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 
 ### Networking and Communication Middleware / MIT
 
-*   [tlsada](https://git.sr.ht/\~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
+*   [tlsada](https://git.sr.ht/~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
 
 ### Utilities / MIT
 
-*   [getopt-ada](https://git.sr.ht/\~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
+*   [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
 
 ## [Apr 29, 2022](/content/2022/04/29/README.md)
-
-### Entry Point
-
-*   [programming-with-ada](https://pyjarrett.github.io/programming-with-ada/) - Anecdotes and summaries from learning Ada 2012.
 
 ### Questions and Answers
 
@@ -449,7 +451,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Linux and POSIX / MIT
 
-*   [florist](https://www.cs.fsu.edu/\~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
+*   [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
 *   [wposix (⭐4)](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
 *   [ada-v4l2 (⭐0)](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
 *   [inotify-ada (⭐8)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
@@ -803,7 +805,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Algorithms, Containers and Protocols / MIT
 
-*   [charles](http://home.earthlink.net/\~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+*   [charles](http://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
 *   [simple-blockchain (⭐20)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 
 ### Shells, Interpreters and Emulators / MIT

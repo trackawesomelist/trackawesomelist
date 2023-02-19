@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaredthecoder/awesome-vehicle-security/week/README.md) / [Overview](/content/jaredthecoder/awesome-vehicle-security/readme/README.md) ]
 
+## [Feb 19, 2023](/content/2023/02/19/README.md)
+
+### Libraries and Tools / Python
+
+*   [Python-CAN (⭐941)](https://github.com/hardbyte/python-can) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
+
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
 ### Presentations
@@ -18,7 +24,7 @@
 
 ### Libraries and Tools / Python
 
-*   [canTot (⭐59)](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
+*   [canTot (⭐68)](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
 
 ## [Jun 16, 2022](/content/2022/06/16/README.md)
 
@@ -50,11 +56,11 @@
 
 ### Libraries and Tools / C++
 
-*   [CANdevStudio (⭐608)](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.
+*   [CANdevStudio (⭐651)](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.
 
 ### Libraries and Tools / Java
 
-*   [ITS Geonetworking (⭐90)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
+*   [ITS Geonetworking (⭐91)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
 
 ## [Oct 04, 2021](/content/2021/10/04/README.md)
 
@@ -72,7 +78,7 @@
 
 ### Libraries and Tools / Python
 
-*   [CanoPy (⭐106)](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
+*   [CanoPy (⭐111)](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 
 ## [Nov 20, 2020](/content/2020/11/20/README.md)
 
@@ -110,7 +116,7 @@
 
 ### Libraries and Tools / Python
 
-*   [Scapy (⭐8.2k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
+*   [Scapy (⭐8.5k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
 ## [Oct 28, 2019](/content/2019/10/28/README.md)
 
@@ -152,23 +158,23 @@
 
 ### Miscellaneous / Episodes
 
-*   [Reverse Engineering Resources (⭐63)](https://github.com/ps1337/automotive-security-research)
+*   [Reverse Engineering Resources (⭐65)](https://github.com/ps1337/automotive-security-research)
 
 ## [Sep 19, 2018](/content/2018/09/19/README.md)
 
 ### Applications / Episodes
 
-*   [CANalyzat0r (⭐654)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
+*   [CANalyzat0r (⭐656)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
 ## [Sep 05, 2018](/content/2018/09/05/README.md)
 
 ### Libraries and Tools / C
 
-*   [dbcc (⭐238)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+*   [dbcc (⭐254)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
 
 ### Libraries and Tools / Python
 
-*   [CanCat (⭐161)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
+*   [CanCat (⭐168)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
 ## [Aug 24, 2018](/content/2018/08/24/README.md)
 
@@ -192,7 +198,7 @@
 
 ### Applications / Episodes
 
-*   [talking-with-cars (⭐91)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
+*   [talking-with-cars (⭐94)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 
 ## [Jun 17, 2018](/content/2018/06/17/README.md)
 
@@ -215,7 +221,7 @@
     *   [ChuangZhou CAN-Bus Shield](http://www.seeedstudio.com/wiki/CAN-BUS_Shield)
     *   [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product\&product_id=1444)
     *   [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
-    *   [arduino-canbus-monitor (⭐234)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
+    *   [arduino-canbus-monitor (⭐245)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 
 ## [Oct 30, 2017](/content/2017/10/30/README.md)
 
@@ -273,7 +279,7 @@
 
 ### Libraries and Tools / Python
 
-*   [Python-OBD (⭐816)](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.
+*   [Python-OBD (⭐833)](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.
 
 ## [Oct 07, 2017](/content/2017/10/07/README.md)
 
@@ -309,11 +315,11 @@
 *   [Intrepid Tools](http://store.intrepidcs.com/) - Expensive, but extremely versatile tools specifically designed for reversing CAN and other vehicle communication protocols.
 *   [Wireshark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
 *   [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-*   [openpilot (⭐38k)](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
+*   [openpilot (⭐39k)](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
 
 ### Libraries and Tools / Python
 
-*   [CANard (⭐486)](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
+*   [CANard (⭐484)](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
 
 ## [Oct 06, 2017](/content/2017/10/06/README.md)
 
@@ -395,7 +401,7 @@
 ### Applications / Episodes
 
 *   [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-*   [mazda\_getInfo (⭐143)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
+*   [mazda\_getInfo (⭐146)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
 ## [Jul 15, 2017](/content/2017/07/15/README.md)
 
@@ -437,8 +443,8 @@
 
 ### Miscellaneous / Episodes
 
-*   [Open Vehicle Monitoring System (⭐268)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
-*   [Open Source Car Control Project (⭐931)](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
+*   [Open Vehicle Monitoring System (⭐275)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
+*   [Open Source Car Control Project (⭐935)](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
 
 ### Applications / Episodes
 
@@ -488,7 +494,7 @@
 
 ### Applications / Episodes
 
-*   [CANToolz (⭐297)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+*   [CANToolz (⭐298)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
 ## [Sep 07, 2016](/content/2016/09/07/README.md)
@@ -501,11 +507,11 @@
 
 ### Libraries and Tools / C
 
-*   [vircar (⭐130)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
+*   [vircar (⭐132)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### Libraries and Tools / Go
 
-*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐157)](https://github.com/carloop/simulator)
+*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐158)](https://github.com/carloop/simulator)
 
 ## [Jul 29, 2016](/content/2016/07/29/README.md)
 
@@ -534,16 +540,15 @@
 
 ### Libraries and Tools / C
 
-*   [SocketCAN Utils (⭐1.7k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+*   [SocketCAN Utils (⭐1.8k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou (⭐482)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
-*   [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
+*   [Caring Caribou (⭐500)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 
 ### Libraries and Tools / JavaScript
 
-*   [NodeJS extension to SocketCAN (⭐184)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+*   [NodeJS extension to SocketCAN (⭐187)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 *   [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - [info@uberatc.com](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/README.md/mailto:info@uberatc.com).
 
 ## [Jul 28, 2016](/content/2016/07/28/README.md)
@@ -591,17 +596,17 @@
 ### Applications / Episodes
 
 *   [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
-*   [UDSim (⭐215)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
+*   [UDSim (⭐226)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 *   [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
 *   [O2OO](https://www.vanheusden.com/O2OO/) - Works with the ELM327 to record data to a SQLite database for graphing purposes. It also supports reading GPS data. You can connect this to your car and have it map out using Google Maps KML data where you drive.
 
 ### Libraries and Tools / Python
 
-*   [c0f (⭐76)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
+*   [c0f (⭐78)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
 ### Libraries and Tools / Go
 
-*   [CANNiBUS (⭐97)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+*   [CANNiBUS (⭐99)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
 ### Libraries and Tools / JavaScript
 
@@ -613,14 +618,14 @@
 ### Coordinated disclosure / JavaScript
 
 *   Security
-    *   [Application Security (⭐5.3k)](https://github.com/paragonie/awesome-appsec)
-    *   [Security (⭐9.2k)](https://github.com/sbilly/awesome-security)
-    *   [Capture the Flag (⭐7.6k)](https://github.com/apsdehal/awesome-ctf)
-    *   [Malware Analysis (⭐9.3k)](https://github.com/rshipp/awesome-malware-analysis)
-    *   [Android Security (⭐6.6k)](https://github.com/ashishb/android-security-awesome)
-    *   [Hacking (⭐9.4k)](https://github.com/carpedm20/awesome-hacking)
-    *   [Honeypots (⭐6.5k)](https://github.com/paralax/awesome-honeypots)
-    *   [Incident Response (⭐5.7k)](https://github.com/meirwah/awesome-incident-response)
+    *   [Application Security (⭐5.5k)](https://github.com/paragonie/awesome-appsec)
+    *   [Security (⭐9.5k)](https://github.com/sbilly/awesome-security)
+    *   [Capture the Flag (⭐7.8k)](https://github.com/apsdehal/awesome-ctf)
+    *   [Malware Analysis (⭐9.5k)](https://github.com/rshipp/awesome-malware-analysis)
+    *   [Android Security (⭐6.7k)](https://github.com/ashishb/android-security-awesome)
+    *   [Hacking (⭐9.7k)](https://github.com/carpedm20/awesome-hacking)
+    *   [Honeypots (⭐6.7k)](https://github.com/paralax/awesome-honeypots)
+    *   [Incident Response (⭐6k)](https://github.com/meirwah/awesome-incident-response)
 *   Meta
-    *   [awesome (⭐229k)](https://github.com/sindresorhus/awesome)
-    *   [lists (⭐8.6k)](https://github.com/jnv/lists)
+    *   [awesome (⭐238k)](https://github.com/sindresorhus/awesome)
+    *   [lists (⭐8.8k)](https://github.com/jnv/lists)

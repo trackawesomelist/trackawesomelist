@@ -36,9 +36,21 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [CodiumAI](http://www.codium.ai/)
 
-  Title: CodiumAI - Code Fast. Break Fewer Things.
+  Title: Meaningful Tests for Busy Devs.
 
-  Description: IDE extension for generation of smart context-aware tests
+  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Content Generation & Seo
+
+- Name: [Easy-Peasy.AI](https://easy-peasy.ai/)
+
+  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
+
+  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -62,6 +74,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.
 
   Offer Free Version: :white\_check\_mark:
+
+
+
+### Sales & Marketing
+
+- Name: [SimplePhones.ai](https://simplephones.ai/)
+
+  Title: Never Miss a Call From a Customer.
+
+  Description: Forward your missed calls, or get a new number, and Simple Phones will answer it using AI. You'll get a phone agent created for your business for free. You just pay 19¢/min for any incoming calls.
+
+  Offer Free Version: :x:
 
 
 
@@ -3225,15 +3249,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: .
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Easy-Peasy.AI](http://easy-peasy.ai)
-
-  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
-
-  Description: Easy-Peasy.AI believes that everyone has a story to tell. With our AI copywriting tools, we help you tell your story in the most engaging way possible.
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Eilla](http://eilla.ai)
