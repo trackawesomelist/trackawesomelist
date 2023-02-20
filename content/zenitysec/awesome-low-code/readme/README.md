@@ -2,7 +2,7 @@
 
 Awesome Low Code platforms, vendors, tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zenitysec/awesome-low-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) · ⭐ 142 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zenitysec/awesome-low-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) · ⭐ 145 · 🏷️ Platforms
 
 [ [Daily](/content/zenitysec/awesome-low-code/README.md) / [Weekly](/content/zenitysec/awesome-low-code/week/README.md) / Overview ]
 
@@ -75,7 +75,7 @@ An advanced development platform that enable organizations to create powerful en
 *   [Appian](https://appian.com/) - Provides a Low Code software development platform that enables organizations to rapidly develop powerful applications.
 *   [Mendix](https://mendix.com/) - The fastest and easiest high-productivity platform to create and continuously improve multi-channel applications at scale.
 *   [OutSystems](https://www.outsystems.com/) - A Low Code platform that enables businesses to develop, deploy, and manage enterprise-grade apps.
-*   [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - Drive connected digital workflows across the enterprise, deliver modern, consumer-like experiences, and accelerate time-to-value and innovation.
+*   [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - Build mission-critical apps quickly, with more creators and less complexity. Easily scale across the enterprise to deliver experiences users love.
 *   [Creator (Zoho)](https://www.zoho.com/creator/low-code-platform/) - Build applications from scratch without having to write endless lines of code.
 *   [BettyBlocks](https://www.bettyblocks.com/) - The #1 No Code platform for innovation, agility and empowerment. Used to create mobile, business and web applications at lightning speed.
 *   [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A Low Code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
@@ -83,6 +83,7 @@ An advanced development platform that enable organizations to create powerful en
 *   [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 *   [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
 *   [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
+*   [Appsheet (Google)](https://about.appsheet.com/home/) - Google AppSheet is a no-code development platform that enables users to create custom mobile and web applications without requiring extensive programming knowledge. It provides a drag-and-drop interface for building apps, and it can integrate with various data sources and APIs to automate workflows and improve productivity.
 
 ### Business Process Management
 
@@ -106,6 +107,9 @@ An automation platform that helps organizations remove human manual intensive pr
 *   [Servicetrace RPA (Salesforce)](https://www.servicetrace.com/) - Develop innovation in robotic solutions.
 *   [Appian RPA](https://appian.com/platform/complete-automation/robotic-process-automation-rpa.html) - Orchestrate RPA bots with people, systems, and data in a single workflow, scaling automation across your entire organization.
 *   [Workato RPA](https://www.workato.com/modern-rpa) - Integration-powered RPA for Intelligent Automation.
+*   [UiPath](https://www.uipath.com/) - A leading provider of robotic process automation (RPA) software, which enables organizations to automate repetitive and time-consuming tasks, such as data entry and data processing. Its platform includes a visual designer for building automation workflows, a robot for executing the workflows, and analytics tools for monitoring and optimizing performance.
+*   [AutomationAnywhere](https://www.automationanywhere.com/) - A provider of robotic process automation (RPA) software that allows businesses to automate tasks using a combination of rules-based decision-making, machine learning, and artificial intelligence. Its platform includes a user-friendly interface for creating and deploying automation, and it can be used to automate tasks across various departments and industries.
+*   [BluePrism](https://www.blueprism.com/) - A provider of robotic process automation (RPA) software that allows organizations to automate repetitive and manual tasks, such as data entry, without requiring extensive coding knowledge. Its platform includes a digital workforce that can handle high-volume and complex tasks, and it can integrate with various systems and applications to streamline business operations.
 
 ### Intelligent Virtual Agent
 
@@ -133,17 +137,17 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-*   [XrmToolBox (⭐504)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
-*   [Levelup for Dynamics CRM (⭐152)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
-*   [Power Platform Adoption Framework (⭐109)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
-*   [Flow & Power Apps Migrator (⭐88)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
-*   [SharePoint Workflow Converter (⭐14)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
+*   [XrmToolBox (⭐507)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
+*   [Levelup for Dynamics CRM (⭐151)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
+*   [Power Platform Adoption Framework (⭐112)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
+*   [Flow & Power Apps Migrator (⭐94)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
+*   [SharePoint Workflow Converter (⭐15)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
 ## Reference Resources
 
 ### Power Platform (Microsoft)
 
-*   [Power Platform Connectors (⭐609)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+*   [Power Platform Connectors (⭐619)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 *   [Microsoft Power Fx (⭐2.9k)](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
 
 ### Workato
@@ -154,9 +158,9 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-*   [Power Fx Samples (⭐78)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
-*   [Power Apps & Azure Lab (⭐34)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
-*   [PL-900: Power Platform Fundamentals (⭐197)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
+*   [Power Fx Samples (⭐81)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
+*   [Power Apps & Azure Lab (⭐35)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
+*   [PL-900: Power Platform Fundamentals (⭐201)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
 
 ### Workato
 
@@ -166,11 +170,11 @@ A Low Code platform which supports full lifecycle API management, including crea
 
 ### Power Platform (Microsoft)
 
-*   [Power Apps Samples (⭐223)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
+*   [Power Apps Samples (⭐229)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
 *   [PowerApps Samples (⭐55)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
-*   [Power Apps Branding Template (⭐42)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
-*   [SharePoint Power Platform Solutions (⭐119)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
-*   [Power Automate Samples (⭐125)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
+*   [Power Apps Branding Template (⭐44)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
+*   [SharePoint Power Platform Solutions (⭐120)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
+*   [Power Automate Samples (⭐130)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
 *   [Automatic travel time (⭐2)](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Automatic travel time in your Office 365 calendar.
 *   [Message Center in Teams (⭐1)](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
 *   [Consume Power BI (⭐12)](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
@@ -213,5 +217,5 @@ A Low Code platform which supports full lifecycle API management, including crea
 ### Power Platform (Microsoft)
 
 *   [Awesome Microsoft Power Platform (⭐52)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
-*   [Awesome No Code Low Code (⭐173)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+*   [Awesome No Code Low Code (⭐178)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
 

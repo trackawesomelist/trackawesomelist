@@ -16,6 +16,10 @@ Collections of awesome neovim plugins.
 
 *   [m4xshen/smartcolumn.nvim (⭐48)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
 
+### Utility / Diagnostics
+
+*   [yaocccc/nvim-foldsign (⭐2)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
+
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
 ### Remote Development / Diagnostics

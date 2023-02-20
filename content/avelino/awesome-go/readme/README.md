@@ -287,6 +287,7 @@ Please take a quick gander at the [contribution guidelines (⭐96k)](https://git
 
 *Libraries for building and working with bots.*
 
+*   [bot (⭐41)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
 *   [echotron (⭐236)](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go.
 *   [ephemeral-roles (⭐76)](https://github.com/ewohltman/ephemeral-roles) - A Discord bot for managing ephemeral roles based upon voice channel member presence.
 *   [go-chat-bot (⭐773)](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
@@ -329,6 +330,7 @@ Please take a quick gander at the [contribution guidelines (⭐96k)](https://git
 *   [realize (⭐4.4k)](https://github.com/tockins/realize) - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths.
 *   [Task (⭐6.9k)](https://github.com/go-task/task) - simple "Make" alternative.
 *   [taskctl (⭐240)](https://github.com/taskctl/taskctl) - Concurrent task runner.
+*   [xc (⭐40)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
 **[⬆ back to top](#contents)**
 
@@ -743,6 +745,7 @@ additional ordered map implementations.
 *   [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
 *   [kingshard (⭐6.2k)](https://github.com/flike/kingshard) - kingshard is a high performance proxy for MySQL powered by Golang.
 *   [octillery (⭐180)](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
+*   [onedump (⭐13)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 *   [orchestrator (⭐4.8k)](https://github.com/github/orchestrator) - MySQL replication topology manager & visualizer.
 *   [pg\_timetable (⭐835)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
 *   [pgweb (⭐7.7k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
@@ -1024,6 +1027,7 @@ additional ordered map implementations.
 *   [errorx (⭐953)](https://github.com/joomcode/errorx) - A feature rich error package with stack traces, composition of errors and more.
 *   [exception (⭐25)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 *   [Falcon (⭐8)](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
+*   [Fault (⭐115)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 *   [go-multierror (⭐1.9k)](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
 *   [tracerr (⭐760)](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 
@@ -2090,6 +2094,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [argon2pw (⭐89)](https://github.com/raja/argon2pw) - Argon2 password hash generation with constant-time password comparison.
 *   [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
 *   [BadActor (⭐312)](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
+*   [booster (⭐322)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
 *   [Cameradar (⭐3.2k)](https://github.com/Ullaakut/cameradar) - Tool and library to remotely hack RTSP streams from surveillance cameras.
 *   [certificates (⭐33)](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
 *   [CertMagic (⭐4.4k)](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
@@ -3260,6 +3265,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Go Faster](https://leanpub.com/gofaster) - This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
 *   [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
 *   [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
+*   [Lets-Go-Further](https://lets-go-further.alexedwards.net) - Advanced patterns for building APIs and web applications in Go.
 *   [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests) - A guide to testing in Go.
 *   [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools) - A guide to writing command-line tools in Go.
 *   [Writing A Compiler In Go](https://compilerbook.com)

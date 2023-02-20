@@ -8,13 +8,37 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
+### Bot Building
+
+*   [bot (⭐41)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
+
+### Build Automation
+
+*   [xc (⭐40)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
+
+### Database Tools
+
+*   [onedump (⭐13)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
+
+### Error Handling
+
+*   [Fault (⭐115)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
+
 ### Messaging
 
 *   [Watermill (⭐5.3k)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
 
+### Security
+
+*   [booster (⭐322)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [hotswap (⭐182)](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
+
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Lets-Go-Further](https://lets-go-further.alexedwards.net) - Advanced patterns for building APIs and web applications in Go.
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 

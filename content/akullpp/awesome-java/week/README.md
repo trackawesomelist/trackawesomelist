@@ -6,6 +6,16 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ [Daily](/content/akullpp/awesome-java/README.md) / Weekly / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Bytecode Manipulation
+
+*   [Maker (⭐31)](https://github.com/cojen/maker) - Provides low level bytecode generation.
+
+### Testing / Asynchronous
+
+*   [WebTau (⭐282)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Testing / Fixtures
@@ -20,7 +30,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Code Analysis
 
-*   [Error Prone Support (⭐91)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
+*   [Error Prone Support (⭐94)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
 *   [p3c (⭐29k)](https://github.com/alibaba/p3c) - Provides Alibaba's coding guidelines for PMD, IDEA and Eclipse.
 
 ### Database
@@ -29,7 +39,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Machine Learning
 
-*   [Intelligent java (⭐39)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
+*   [Intelligent java (⭐44)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
 
 ### Podcasts and Screencasts / Mocking
 
@@ -1599,7 +1609,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 *   [JSON-io (⭐303)](https://github.com/jdereg/json-io) - Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
 *   [jsoniter](http://jsoniter.com) - Fast and flexible library with iterator and lazy parsing API.
 *   [LoganSquare (⭐3.2k)](https://github.com/bluelinelabs/LoganSquare) - JSON parsing and serializing library based on Jackson's streaming API. Outperforms GSON & Jackson's library.
-*   [Moshi (⭐8.7k)](https://github.com/square/moshi) - Modern JSON library, less opinionated and uses built-in types like List and Map.
+*   [Moshi (⭐8.8k)](https://github.com/square/moshi) - Modern JSON library, less opinionated and uses built-in types like List and Map.
 *   [fastjson (⭐25k)](https://github.com/alibaba/fastjson) - Very fast processor with no additional dependencies and full data binding.
 *   [Jolt (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation tool.
 *   [JsonSurfer (⭐260)](https://github.com/jsurfer/JsonSurfer) - Streaming JsonPath processor dedicated to processing big and complicated JSON data.
@@ -1838,7 +1848,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 *   [Awesome JVM (⭐1.9k)](https://github.com/deephacks/awesome-jvm)
 *   [Awesome Microservices (⭐12k)](https://github.com/mfornos/awesome-microservices)
 *   [Awesome REST (⭐3.3k)](https://github.com/marmelab/awesome-rest)
-*   [Awesome Selenium (⭐869)](https://github.com/christian-bromann/awesome-selenium)
+*   [Awesome Selenium (⭐876)](https://github.com/christian-bromann/awesome-selenium)
 *   [ciandcd (⭐1.6k)](https://github.com/ciandcd/awesome-ciandcd)
 *   [Useful Java Links (⭐5.4k)](https://github.com/Vedenin/useful-java-links)
 

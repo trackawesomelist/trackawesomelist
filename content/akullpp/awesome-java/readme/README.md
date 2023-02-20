@@ -125,6 +125,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 *   [cglib (⭐4.6k)](https://github.com/cglib/cglib) - Bytecode generation library.
 *   [Javassist (⭐3.8k)](https://github.com/jboss-javassist/javassist) - Tries to simplify bytecode editing.
+*   [Maker (⭐31)](https://github.com/cojen/maker) - Provides low level bytecode generation.
 *   [Mixin (⭐1.1k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 *   [Perses (⭐62)](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 *   [Recaf](https://www.coley.software/Recaf/) - JVM reverse engineering toolkit, essentially an IDE for Java bytecode.
@@ -169,7 +170,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *   [Checkstyle (⭐7.5k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 *   [Error Prone (⭐6.3k)](https://github.com/google/error-prone) - Catches common programming mistakes as compile-time errors.
-*   [Error Prone Support (⭐91)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
+*   [Error Prone Support (⭐94)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
 *   [Infer (⭐14k)](https://github.com/facebook/infer) - Modern static analysis tool for verifying the correctness of code.
 *   [jQAssistant](https://jqassistant.org) - Static code analysis with Neo4J-based query language. (GPL-3.0-only)
 *   [NullAway (⭐3.2k)](https://github.com/uber/NullAway) - Eliminates NullPointerExceptions with low build-time overhead.
@@ -568,7 +569,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [JSON-io (⭐303)](https://github.com/jdereg/json-io) - Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
 *   [jsoniter](http://jsoniter.com) - Fast and flexible library with iterator and lazy parsing API.
 *   [LoganSquare (⭐3.2k)](https://github.com/bluelinelabs/LoganSquare) - JSON parsing and serializing library based on Jackson's streaming API. Outperforms GSON & Jackson's library.
-*   [Moshi (⭐8.7k)](https://github.com/square/moshi) - Modern JSON library, less opinionated and uses built-in types like List and Map.
+*   [Moshi (⭐8.8k)](https://github.com/square/moshi) - Modern JSON library, less opinionated and uses built-in types like List and Map.
 *   [Yasson (⭐184)](https://github.com/eclipse-ee4j/yasson) - Binding layer between classes and JSON documents similar to JAXB.
 *   [fastjson (⭐25k)](https://github.com/alibaba/fastjson) - Very fast processor with no additional dependencies and full data binding.
 *   [Jolt (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation tool.
@@ -618,7 +619,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Deeplearning4j](https://deeplearning4j.org) - Distributed and multi-threaded deep learning library.
 *   [DJL](https://djl.ai) - High-level and engine-agnostic framework for deep learning.
 *   [H2O ![c]](https://www.h2o.ai) - Analytics engine for statistics over big data.
-*   [Intelligent java (⭐39)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
+*   [Intelligent java (⭐44)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
 *   [JSAT (⭐755)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 *   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
 *   [oj! Algorithms](https://www.ojalgo.org/) - High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
@@ -1036,6 +1037,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Hoverfly Java (⭐153)](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
 *   [Karate (⭐6.8k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 *   [REST Assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [WebTau (⭐282)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
 
 #### BDD
 
@@ -1189,7 +1191,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Awesome JVM (⭐1.9k)](https://github.com/deephacks/awesome-jvm)
 *   [Awesome Microservices (⭐12k)](https://github.com/mfornos/awesome-microservices)
 *   [Awesome REST (⭐3.3k)](https://github.com/marmelab/awesome-rest)
-*   [Awesome Selenium (⭐869)](https://github.com/christian-bromann/awesome-selenium)
+*   [Awesome Selenium (⭐876)](https://github.com/christian-bromann/awesome-selenium)
 *   [ciandcd (⭐1.6k)](https://github.com/ciandcd/awesome-ciandcd)
 *   [Useful Java Links (⭐5.4k)](https://github.com/Vedenin/useful-java-links)
 *   [Java Concurrency Checklist (⭐1.1k)](https://github.com/code-review-checklists/java-concurrency)
