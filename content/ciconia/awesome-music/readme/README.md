@@ -31,17 +31,18 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 
 ## Audio Editing
 
-*   [Audacity (⭐8.8k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+*   [Audacity (⭐8.9k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 *   [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 *   [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
 
 ## Audio Libraries
 
 *   [audio.js (⭐2.1k)](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's \<audio> tag to be used anywhere.
+*   [audioFlux (⭐15)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 *   [chord-mark (⭐14)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 *   [howler.js (⭐21k)](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
 *   [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
-*   [Librosa (⭐5.6k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐5.7k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 *   [midi.js (⭐3.6k)](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
 *   [mxml (⭐19)](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 *   [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
@@ -115,7 +116,7 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 *   [Tbon (⭐12)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 *   [Tunefl (⭐22)](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 *   [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
-*   [Verovio (⭐525)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐526)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.5k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ## Music Programming
@@ -135,7 +136,7 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 *   [Midica (⭐78)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 *   [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 *   [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
-*   [Nyquist](https://www.cs.cmu.edu/\~music/nyquist/) - a sound synthesis and composition language.
+*   [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 *   [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
 *   [Orca (⭐4k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 *   [Overtone (⭐5.6k)](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
@@ -171,7 +172,7 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 *   [Awesome Music Production (⭐641)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 *   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
 *   [Awesome sheet music (⭐560)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
-*   [Awesome WebAudio (⭐899)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐905)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 

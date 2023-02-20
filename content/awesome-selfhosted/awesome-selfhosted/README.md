@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 20, 2023](/content/2023/02/20/README.md)
+
+### Software / Booking and Scheduling
+
+*   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐579)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP`
+
+### List of Licenses / Wikis
+
+*   `IPL-1.0` - [IBM Public License](https://spdx.org/licenses/IPL-1.0.html)
+
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
 ### Software / Automation
@@ -3380,7 +3390,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Photo and Video Galleries
 
-*   [Fussel (⭐177)](https://github.com/cbenning/fussel) - Fussel is a static photo gallery generator. Easily generate a reactive gallery and host the optimized static folder of assets. `MIT` `Python`
+*   [Fussel (⭐177)](https://github.com/cbenning/fussel) - Self-hosted, no-backend static photo gallery. Face tag recognition, albums and more. ([Demo](https://benninger.ca/fussel-demo/) `MIT` `Python/Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -4651,7 +4661,6 @@ A list of Free Software network services and web applications which can be hoste
 ### List of Licenses / Wikis
 
 *   `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
-*   `IPL-1.0` - [IBM Public License](https://opensource.org/licenses/IPL-1.0)
 
 ### External Links / Wikis
 

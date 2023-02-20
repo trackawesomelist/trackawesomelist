@@ -6,6 +6,12 @@ Awesome Music Projects
 
 [ Daily / [Weekly](/content/ciconia/awesome-music/week/README.md) / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
+## [Feb 20, 2023](/content/2023/02/20/README.md)
+
+### Audio Libraries
+
+*   [audioFlux (⭐15)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+
 ## [Feb 07, 2023](/content/2023/02/07/README.md)
 
 ### Audio Libraries
@@ -168,7 +174,7 @@ Awesome Music Projects
 
 *   [Awesome Audio Visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐899)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐905)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ## [Jan 18, 2018](/content/2018/01/18/README.md)
 
@@ -187,7 +193,7 @@ Awesome Music Projects
 
 ### Audio Libraries
 
-*   [Librosa (⭐5.6k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐5.7k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [Dec 27, 2016](/content/2016/12/27/README.md)
 
@@ -277,7 +283,7 @@ Awesome Music Projects
 
 ### Audio Editing
 
-*   [Audacity (⭐8.8k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+*   [Audacity (⭐8.9k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 
 ### Audio Libraries
 
@@ -320,7 +326,7 @@ Awesome Music Projects
 *   [Lydown (⭐23)](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 *   [MuseScore (⭐9.1k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐525)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐526)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.5k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming
@@ -333,7 +339,7 @@ Awesome Music Projects
 *   [IanniX (⭐296)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 *   [Leipzig (⭐442)](https://github.com/ctford/leipzig) - a composition library for Overtone.
 *   [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
-*   [Nyquist](https://www.cs.cmu.edu/\~music/nyquist/) - a sound synthesis and composition language.
+*   [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 *   [Overtone (⭐5.6k)](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 *   [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 *   [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.

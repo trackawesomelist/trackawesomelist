@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 20, 2023](/content/2023/02/20/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [embark-theme/vim (⭐527)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
+
+### Bars and Lines / Diagnostics
+
+*   [m4xshen/smartcolumn.nvim (⭐48)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
+
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
 ### Remote Development / Diagnostics
@@ -59,12 +69,12 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [4e554c4c/darkman.nvim (⭐2)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
-*   [f-person/auto-dark-mode.nvim (⭐72)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
+*   [4e554c4c/darkman.nvim (⭐6)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
+*   [f-person/auto-dark-mode.nvim (⭐74)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
 
 ### Cursorline / Diagnostics
 
-*   [mawkler/modicator.nvim (⭐79)](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
+*   [mawkler/modicator.nvim (⭐86)](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
 
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
@@ -196,15 +206,15 @@ Collections of awesome neovim plugins.
 
 ### Completion / Diagnostics
 
-*   [zbirenbaum/copilot.lua (⭐497)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐4.2k)](https://github.com/github/copilot.vim).
+*   [zbirenbaum/copilot.lua (⭐545)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐4.2k)](https://github.com/github/copilot.vim).
 
 ### Project / Diagnostics
 
-*   [pluffie/neoproj (⭐13)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
+*   [pluffie/neoproj (⭐16)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
 
 ### Keybinding / Diagnostics
 
-*   [Nexmean/caskey.nvim (⭐57)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
+*   [Nexmean/caskey.nvim (⭐56)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
@@ -268,26 +278,26 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [chrisgrieser/nvim-genghis (⭐56)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
-*   [chrisgrieser/nvim-recorder (⭐76)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
+*   [chrisgrieser/nvim-genghis (⭐62)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
+*   [chrisgrieser/nvim-recorder (⭐79)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
 
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
 ### Project / Diagnostics
 
-*   [nyngwang/suave.lua (⭐18)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+*   [nyngwang/suave.lua (⭐24)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 
 ### Cursorline / Diagnostics
 
-*   [nyngwang/murmur.lua (⭐70)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
+*   [nyngwang/murmur.lua (⭐69)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 
 ### Terminal Integration / Diagnostics
 
-*   [nyngwang/NeoTerm.lua (⭐32)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+*   [nyngwang/NeoTerm.lua (⭐33)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 
 ### Quickfix / Diagnostics
 
-*   [nyngwang/NeoWell.lua (⭐9)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
+*   [nyngwang/NeoWell.lua (⭐10)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
@@ -362,7 +372,7 @@ Collections of awesome neovim plugins.
 
 *   [ray-x/go.nvim (⭐886)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
 
-### Winbar / Diagnostics
+### Bars and Lines / Diagnostics
 
 *   [utilyre/barbecue.nvim (⭐218)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 

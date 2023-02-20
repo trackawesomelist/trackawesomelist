@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Software / Make your life easier
+
+*   [wopee.io](https://wopee.io/) - Autonomous testing platform providing bot for autonomous visual regression testing.
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Software / Make your life easier

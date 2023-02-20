@@ -72,7 +72,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 *   [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 *   [DataStation (⭐2.7k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
-*   [DBeaver (⭐30k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+*   [DBeaver (⭐31k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 *   [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
 *   [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - Powerful IDE for Oracle management, administration, and development.
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
@@ -141,7 +141,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [pspg (⭐2k)](https://github.com/okbob/pspg) - Postgres Pager.
 *   [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 *   [sqlite-utils (⭐1.1k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
-*   [SQLLine (⭐546)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐550)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 *   [usql (⭐7.8k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ### dbcli
@@ -159,7 +159,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 *   [2bass (⭐37)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
 *   [Atlas (⭐2.4k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
-*   [Bytebase (⭐4.8k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐4.9k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 *   [flyway (⭐7k)](https://github.com/flyway/flyway) - Database migration tool.
 *   [gh-ost (⭐11k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 *   [liquibase (⭐3.7k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
@@ -173,7 +173,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [Skeema (⭐1.1k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 *   [Sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 *   [sqldef (⭐1.4k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
-*   [yuniql (⭐345)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐347)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ### Code generation
 
@@ -184,6 +184,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 *   [Azimutt (⭐471)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 *   [ERAlchemy (⭐994)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+*   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ### Documentations
 
@@ -213,7 +214,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 Building API for your Data
 
-*   [Datasette (⭐7k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐7.1k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 *   [DreamFactory (⭐1.3k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 *   [Hasura GraphQL Engine (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
@@ -232,10 +233,10 @@ Low-code and no-code platforms for application building
 
 *   [Appsmith (⭐25k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 *   [Budibase (⭐17k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
-*   [ILLA Cloud (⭐4.8k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
-*   [Nhost (⭐5.9k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [ILLA Cloud (⭐5.3k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
+*   [Nhost (⭐6.2k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 *   [Saltcorn (⭐1.1k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
-*   [Tooljet (⭐17k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+*   [Tooljet (⭐18k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 ## Backup
 
@@ -293,7 +294,7 @@ Low-code and no-code platforms for application building
 
 ## HA/Failover/Sharding
 
-*   [Citus (⭐7.9k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [Citus (⭐8k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
 *   [patroni (⭐5.2k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
 *   [Percona XtraDB Cluster (⭐305)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
 *   [stolon (⭐4.1k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
@@ -302,7 +303,7 @@ Low-code and no-code platforms for application building
 *   [pgslice (⭐888)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 *   [PostgreSQL Automatic Failover (⭐318)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 *   [postgresql\_cluster (⭐679)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
-*   [Vitess (⭐15k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+*   [Vitess (⭐16k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ## Kubernetes
 
@@ -340,7 +341,7 @@ Low-code and no-code platforms for application building
 ## Security
 
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
-*   [Databunker (⭐1k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
+*   [Databunker (⭐1.1k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 *   [Inspektor (⭐259)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
 
 ## SQL
@@ -431,7 +432,7 @@ Useful SQL-scripts for various purposes
 
 ## Data
 
-*   [dbt (⭐6.4k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐6.5k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 *   [QuickTable](https://quicktable.io) - Empowers everyone to access, clean, analyze, transform, and model data with no code.
 
 ### Catalog
@@ -472,7 +473,7 @@ Documents, articles, manifestos and other theoretical materials on database tool
 
 ## Machine Learning
 
-*   [MindsDB (⭐13k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
+*   [MindsDB (⭐14k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 *   [SQLFlow (⭐4.7k)](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## Contributing

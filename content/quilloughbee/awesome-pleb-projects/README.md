@@ -6,11 +6,17 @@ A List of Awesome Bitcoin (Pleb) Projects
 
 [ Daily / [Weekly](/content/quilloughbee/awesome-pleb-projects/week/README.md) / [Overview](/content/quilloughbee/awesome-pleb-projects/readme/README.md) ]
 
+## [Feb 20, 2023](/content/2023/02/20/README.md)
+
+### Content Creation
+
+*   [Bitcoin Plugins for Elgato Streamdecks (⭐0)](https://github.com/quilloughbee/streamdeck-bitcoin-plugins)
+
 ## [Oct 10, 2022](/content/2022/10/10/README.md)
 
 ### Lightning / Tools
 
-*   [storage4sats (⭐1)](https://github.com/rottingcleaner/storage4sats) - Upload a file, pay with sats. No account, no ads.
+*   [storage4sats](https://github.com/rottingcleaner/storage4sats) - Upload a file, pay with sats. No account, no ads.
 
 ## [Oct 09, 2022](/content/2022/10/09/README.md)
 
@@ -25,36 +31,36 @@ A List of Awesome Bitcoin (Pleb) Projects
 ### Displays, LED, Tickers
 
 *   [BitcoinPriceLED (⭐7)](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend
-*   [BTC E-ink Ticker (⭐31)](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
+*   [BTC E-ink Ticker (⭐33)](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
 *   [Bitcoin Kindle Display](https://d11n.net/kindle-status-display.html) - Bitcoin Status on an old Kindle
 
 ### Nodes
 
-*   [Citadel (⭐92)](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server
-*   [Raspiblitz (⭐2k)](https://github.com/rootzoll/raspiblitz) - Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display
+*   [Citadel (⭐108)](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server
+*   [Raspiblitz (⭐2.1k)](https://github.com/rootzoll/raspiblitz) - Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display
 
 ### Learning Material
 
-*   [bitcoin-tutorials (⭐257)](https://github.com/openoms/bitcoin-tutorials)
+*   [bitcoin-tutorials (⭐260)](https://github.com/openoms/bitcoin-tutorials)
 
 ### Lightning / Tools
 
-*   [Alby (⭐243)](https://github.com/getAlby/lightning-browser-extension) - A browser extension to bring the Bitcoin Lightning Network to the browser
-*   [lnproxy (⭐52)](https://github.com/lnproxy/lnproxy) - lnproxy takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
-*   [Tallycoin Connect (⭐22)](https://github.com/djbooth007/tallycoin_connect) - Install Tallycoin Connect on a bitcoin node to allow for the retrieval of lightning invoices via Tallycoin. LND required.
-*   [TARO (⭐181)](https://github.com/lightninglabs/taro) - Taro Daemon tarod implements the Taro protocol for issuing assets on the Bitcoin blockchain
+*   [Alby (⭐343)](https://github.com/getAlby/lightning-browser-extension) - A browser extension to bring the Bitcoin Lightning Network to the browser
+*   [lnproxy (⭐69)](https://github.com/lnproxy/lnproxy) - lnproxy takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
+*   [Tallycoin Connect (⭐23)](https://github.com/djbooth007/tallycoin_connect) - Install Tallycoin Connect on a bitcoin node to allow for the retrieval of lightning invoices via Tallycoin. LND required.
+*   [TARO (⭐233)](https://github.com/lightninglabs/taro) - Taro Daemon tarod implements the Taro protocol for issuing assets on the Bitcoin blockchain
 
 ### Lightning / Hardware
 
-*   [bitcoinSwitch (⭐15)](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
-*   [LNPoS (⭐11)](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
-*   [LN-TinyPOS (⭐6)](https://github.com/ccadic/LN-TinyPOS) - Small Lightning Network Tiny POS System By @sulfuroid
+*   [bitcoinSwitch (⭐34)](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
+*   [LNPoS (⭐28)](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
+*   [LN-TinyPOS (⭐7)](https://github.com/ccadic/LN-TinyPOS) - Small Lightning Network Tiny POS System By @sulfuroid
 
 ### Lightning / Wallets
 
-*   [BlueWallet (⭐1.8k)](https://github.com/BlueWallet/BlueWallet) - Thin Bitcoin Wallet. Built with React Native and Electrum.
-*   [Lightning Address (⭐198)](https://github.com/andrerfneves/lightning-address) - The Lightning Address is an Internet Identifier that allows anyone to send you Bitcoin over the Lightning Network
-*   [Zeus (⭐522)](https://github.com/ZeusLN/zeus) - Zeus is a mobile Bitcoin/Lightning node manager and wallet application for LND, Core Lightning, and Eclair
+*   [BlueWallet (⭐1.9k)](https://github.com/BlueWallet/BlueWallet) - Thin Bitcoin Wallet. Built with React Native and Electrum.
+*   [Lightning Address (⭐256)](https://github.com/andrerfneves/lightning-address) - The Lightning Address is an Internet Identifier that allows anyone to send you Bitcoin over the Lightning Network
+*   [Zeus (⭐582)](https://github.com/ZeusLN/zeus) - Zeus is a mobile Bitcoin/Lightning node manager and wallet application for LND, Core Lightning, and Eclair
 
 ### Telegram Bots / Wallets
 

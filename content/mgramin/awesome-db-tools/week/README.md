@@ -6,11 +6,17 @@ Everything that makes working with databases easier
 
 [ [Daily](/content/mgramin/awesome-db-tools/README.md) / Weekly / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Schema / Diagrams
+
+*   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Application platforms / Samples
 
-*   [ILLA Cloud (⭐4.8k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
+*   [ILLA Cloud (⭐5.3k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -79,7 +85,7 @@ Everything that makes working with databases easier
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐5.9k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.2k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -117,7 +123,7 @@ Everything that makes working with databases easier
 
 ### Application platforms / Samples
 
-*   [Tooljet (⭐17k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+*   [Tooljet (⭐18k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
@@ -153,7 +159,7 @@ Everything that makes working with databases easier
 
 ### Machine Learning / Compare
 
-*   [MindsDB (⭐13k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
+*   [MindsDB (⭐14k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 *   [SQLFlow (⭐4.7k)](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
@@ -251,7 +257,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [Datasette (⭐7k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐7.1k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 
 ### Application platforms / Samples
 
@@ -294,7 +300,7 @@ Everything that makes working with databases easier
 
 ### Data / Scripts
 
-*   [dbt (⭐6.4k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐6.5k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Data / Generators
 
@@ -371,7 +377,7 @@ Everything that makes working with databases easier
 
 ### CLI
 
-*   [SQLLine (⭐546)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐550)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
@@ -410,7 +416,7 @@ Everything that makes working with databases easier
 
 ### Schema / Changes
 
-*   [Bytebase (⭐4.8k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐4.9k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
@@ -433,7 +439,7 @@ Everything that makes working with databases easier
 
 ### Security / Zabbix
 
-*   [Databunker (⭐1k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
+*   [Databunker (⭐1.1k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
@@ -445,7 +451,7 @@ Everything that makes working with databases easier
 
 ### Schema / Changes
 
-*   [yuniql (⭐345)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐347)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [Mar 23 - Mar 29, 2020](/content/2020/12/README.md)
 
@@ -538,7 +544,7 @@ Everything that makes working with databases easier
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Citus (⭐7.9k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [Citus (⭐8k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
 *   [patroni (⭐5.2k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
 *   [Percona XtraDB Cluster (⭐305)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
 *   [stolon (⭐4.1k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
@@ -583,7 +589,7 @@ Everything that makes working with databases easier
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Vitess (⭐15k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+*   [Vitess (⭐16k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ### Reporting / Zabbix
 
@@ -752,7 +758,7 @@ Everything that makes working with databases easier
 ### IDE
 
 *   [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
-*   [DBeaver (⭐30k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+*   [DBeaver (⭐31k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### CLI
 
