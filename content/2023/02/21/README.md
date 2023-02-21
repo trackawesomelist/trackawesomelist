@@ -1,18 +1,79 @@
 # Awesome List Updates on Feb 21, 2023
 
-14 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Mobile
+
+*   👍 [jzon (⭐88)](https://github.com/Zulu-Inuoe/jzon/) - a correct, safe and fast JSON parser. [MIT](https://opensource.org/licenses/MIT).
+    *   jzon is the only CL JSON library which correctly declines all invalid inputs per the official JSON test suite and accepts all valid inputs per that suite.
+    *   it doesn't crash on invalid input (jsown), doesn't choke on large datasets (Jonathan), and more.
+    *   v1.0 released in the Quicklisp dist of February, 2023.
+    *   "I believe jzon to be the superior choice and hope for it to become the new, true de-facto library in the world of JSON-in-CL once and for all."
+
+### Community
+
+*   [asdf-dependency-graph (⭐4)](https://github.com/digikar99/asdf-dependency-graph/) - A minimal wrapper around `dot` to generate an image of the dependencies graph.
+
+### Others / Third-party APIs
+
+*   [aws-sdk-lisp (⭐76)](https://github.com/pokepay/aws-sdk-lisp/) - Provides interfaces for each AWS services as individual systems. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+    *   incluse dozens of services: dsn, appstream, athena, cloudfront, codedeploy, cognito-\*, directconnect, dynamodb, dms, elasticache, email, events, kinesis, machinelearning, monitoring, s3, sms, storagegateway, workspaces…
+
+### CSV / Third-party APIs
+
+*   [csv-validator (⭐5)](https://github.com/KoenvdBerg/csv-validator) - Validates tabular CSV data using predefined validations, inspired from its Python homologue "Great Expectations". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+### Serverless
+
+*   [🐑 Lamby](https://lamby.custominktech.com/) - Simple Rails & AWS Lambda Integration using Rack
+
+## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Education & Learning
+
+- Name: [teachertoolkit.ai](https://teachertoolkit.ai/)
+
+  Title: A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning.
+
+  Description: Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Sales & Marketing
+
+- Name: [CastPush](https://castpush.com/)
+
+  Title: AI-Driven Multi-Channel Broadcasting.
+
+  Description: Connect and broadcast to all your social media channels with just a few clicks using CastPush. Our magical AI technology optimizes your content for each individual connection, ensuring maximum reach and engagement.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+
+### Automation
+
+*   [tines](https://www.tines.com/) - No-code automation for security teams.
+
+## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Guides
 
 *   [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 
-## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
@@ -22,7 +83,7 @@
 
 *   [SPL06-007 (⭐2)](https://github.com/roxgib/SPL06-007) - I2C - Pressure and temerature sensor - ![crates.io](https://img.shields.io/crates/v/spl06-007.svg)
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Entry Point
 
@@ -66,7 +127,7 @@
 *   [tashy (⭐7)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
 *   [tashy2 (⭐2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Testing
 
@@ -77,51 +138,29 @@
 *   [procodile (⭐4)](https://github.com/crystal-china/procodile_cr) - Run processes in the background (and foreground) on Mac & Linux from a Procfile (for production and/or development environments)
 *   [port\_ruby\_to\_crystal (⭐6)](https://github.com/crystal-china/port_ruby_to_crystal) - A regex replace ruby script for port ruby code to crystal easier, reduce friction
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Layout / Barcode
 
 *   [AnimatedTabBar (⭐64)](https://github.com/exyte/AnimatedTabBar) - A tabbar with a number of preset animations.
 
-## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Other Configs
 
 *   [Sheriff (⭐25)](https://github.com/AndreaPontrandolfo/sheriff) - Comprehensive and highly opinionated Eslint configuration. Typescript oriented.
 
-## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+### Command-Line Tools / Newsletters
+
+*   [nix-init (⭐153)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 
 ### Programming Languages / PureScript
 
 *   [purs-nix (⭐53)](https://github.com/purs-nix/purs-nix) - CLI and library combo designed for managing PureScript projects using Nix. It provides a Nix API that can be used within your projects, as well as a command-line interface for managing your development process.
 
-## [8. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Education & Learning
-
-- Name: [teachertoolkit.ai](https://www.teachertoolkit.ai/)
-
-  Title: A collection of tools for teachers and educators to harness the power of AI in their pedagogy and planning.
-
-  Description: Plan Lessons -  Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Sales & Marketing
-
-- Name: [CastPush](https://castpush.com)
-
-  Title: AI-Driven Multi-Channel Broadcasting.
-
-  Description: Connect and broadcast to all your social media channels with just a few clicks using CastPush. Our magical AI technology optimizes your content for each individual connection, ensuring maximum reach and engagement.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Analytics
 
@@ -145,7 +184,7 @@
 *   [Superset](http://superset.apache.org/) - Mmodern data exploration and visualization platform. ([Source Code (⭐51k)](https://github.com/apache/superset)) `Apache-2.0` `Python`
 *   [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code (⭐15k)](https://github.com/mikecao/umami)) `MIT` `Nodejs`
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [13. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Books / Screeb
 
@@ -153,25 +192,25 @@
 *   [Difficult Conversations](https://www.stoneandheen.com/difficult-conversations) - By Douglas Stone.
 *   [Staff Engineer](https://staffeng.com/book) - By Will Larson.
 
-## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Manuals
 
 *   [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Azure Active Directory multitenant integration with Blazor WASM – Part 1](https://peterlesliemorris.com/azure-active-directory-multitenant-integration-with-blazor-wasm-part-1/) - February 19, 2023 - This blog is set in two parts. The first describes the process of setting up an Azure Active Directory multitenant on Azure, and the 2nd part describes how to integrate with a Blazor WASM application. [Source code (⭐26)](https://github.com/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant) ![stars](https://img.shields.io/github/stars/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant?style=flat-square\&cacheSeconds=86400) .
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [starship2k (⭐1)](https://github.com/2KAbhishek/starship2k) - Includes powerline support, decorators for `git` information, multiple languages and a multiline prompt.
 
-## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [17. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Authentication & Identity
 

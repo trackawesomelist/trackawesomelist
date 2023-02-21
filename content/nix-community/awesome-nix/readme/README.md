@@ -114,6 +114,7 @@
 *   [nix-diff (⭐216)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 *   [nix-du (⭐195)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 *   [nix-index (⭐459)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
+*   [nix-init (⭐153)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 *   [nix-prefetch (⭐80)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 *   [nix-tree (⭐322)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 *   [nurl (⭐117)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.

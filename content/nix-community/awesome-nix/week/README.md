@@ -8,6 +8,10 @@
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
+### Command-Line Tools / Newsletters
+
+*   [nix-init (⭐153)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+
 ### Programming Languages / PureScript
 
 *   [purs-nix (⭐53)](https://github.com/purs-nix/purs-nix) - CLI and library combo designed for managing PureScript projects using Nix. It provides a Nix API that can be used within your projects, as well as a command-line interface for managing your development process.

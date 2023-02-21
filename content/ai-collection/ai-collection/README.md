@@ -10,11 +10,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Education & Learning
 
-- Name: [teachertoolkit.ai](https://www.teachertoolkit.ai/)
+- Name: [teachertoolkit.ai](https://teachertoolkit.ai/)
 
-  Title: A collection of tools for teachers and educators to harness the power of AI in their pedagogy and planning.
+  Title: A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning.
 
-  Description: Plan Lessons -  Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
+  Description: Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -22,7 +22,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Sales & Marketing
 
-- Name: [CastPush](https://castpush.com)
+- Name: [CastPush](https://castpush.com/)
 
   Title: AI-Driven Multi-Channel Broadcasting.
 

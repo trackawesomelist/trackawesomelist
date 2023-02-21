@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Feb 21, 2023](/content/2023/02/21/README.md)
+
+### Automation
+
+*   [tines](https://www.tines.com/) - No-code automation for security teams.
+
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
 ### Machine Learning
