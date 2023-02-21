@@ -6,6 +6,50 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / Weekly / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Entry Point
+
+*   [ada-logo-editor](https://ada-lang-io.github.io/ada-logo-editor/) - The “Ada horizon” logo maker website.
+
+### Online books
+
+*   [ada-distilled](https://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - Ada Distilled for Ada 2005.
+
+### Specialties
+
+*   [ada-ic-learning](https://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
+
+### News and Resources
+
+*   [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
+*   [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
+
+### Graphical User Interface / MIT
+
+*   [fltk-ada](http://jedbarber.id.au/fltkada.xhtml) - Ada-2012 binding to FLTK (Fast Light Toolkit).
+
+### Algorithms, Containers and Protocols / MIT
+
+*   [charles](https://web.archive.org/web/20161207211935/https://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+
+### Sound / MIT
+
+*   [portable-openal-sound (⭐0)](https://github.com/fastrgv/portable-openal-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
+
+### Utilities / MIT
+
+*   [simple-logging (⭐1)](https://github.com/alire-project/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
+
+### Automation / MIT
+
+*   [ada4automation](https://www.ada4automation.org/) - A framework for designing industrial automation applications using the Ada language.
+
+### Bindings / MIT
+
+*   [tashy (⭐7)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
+*   [tashy2 (⭐2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Entry Point
@@ -231,8 +275,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Bindings / MIT
 
-*   [tashy](https://www.laeran.pl/repositories/tashy/wiki?name=Home) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
-*   [tashy2](https://www.laeran.pl/repositories/tashy2/wiki?name=Home) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 *   [ada-lua (⭐35)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐5)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
@@ -312,10 +354,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
     language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
-
-### Graphical User Interface / MIT
-
-*   [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK.
 
 ### System Modeling / MIT
 
@@ -447,7 +485,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Windows and .NET / MIT
 
 *   [win32ada (⭐16)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
-*   [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Ada bindings for the Microsft NetFramework Api.
 *   [ada-net-framework (⭐5)](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 *   [ada-winrt (⭐10)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 *   [ada-win32 (⭐4)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
@@ -503,10 +540,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### VSCode Extensions / MIT
 
 *   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐181)](https://github.com/AdaCore/ada_language_server).
-
-### Sound / MIT
-
-*   [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
 
@@ -744,7 +777,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Utilities / MIT
 
 *   [licensing (⭐0)](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
-*   [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
 *   [rsfile (⭐0)](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
 *   [cstrings (⭐0)](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 *   [ada-bundler (⭐5)](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
@@ -775,7 +807,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Algorithms, Containers and Protocols / MIT
 
-*   [charles](http://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
 *   [simple-blockchain (⭐20)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 
 ### Shells, Interpreters and Emulators / MIT
@@ -793,7 +824,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Online books
 
 *   [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming book at Wikibooks.
-*   [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - Ada Distilled for Ada 2005.
 *   [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95: The Craft of Object-Oriented Programming.
 *   [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - Implementation Guidance for the Adoption of SPARK.
 *   [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf) - Safe and Secure Software. An invitation to Ada 2012.
@@ -924,7 +954,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Specialties
 
 *   [gems](https://www.adacore.com/gems/) - Ada Gem Archive.
-*   [ada-ic-learning](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
 
 ### Reference
 
@@ -939,8 +968,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 *   [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
-*   [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
-*   [ada-information-clearinghouse](http://www.adaic.org/) - News and resources for the Ada programming language.
 
 ### Open source / MIT
 
@@ -982,7 +1009,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-gate (⭐17)](https://github.com/fastrgv/AdaGate) - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 *   [rufas-cube (⭐4)](https://github.com/fastrgv/RufasCube) - RufasCube is a puzzle game for Windows, OS-X and GNU Linux... it looks like a rubic cube but it's a slider, not a twister.
 *   [ada-venture (⭐9)](https://github.com/fastrgv/AdaVenture) - AdaVenture is a kid-friendly retro point\&click game with mazes, dragons, bats & snakes.
-*   [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac is a kid friendly ascii character version of Pacman that plays in a commandline terminal.
 *   [world-cup-sokerban (⭐3)](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
 
 ### Components / MIT

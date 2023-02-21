@@ -6,6 +6,17 @@
 
 [ [Daily](/content/veelenga/awesome-crystal/README.md) / Weekly / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Testing
+
+*   [hashr (⭐0)](https://github.com/crystal-china/hashr) - A tiny class makes test on JSON response easier
+
+### Official Documentation Translations
+
+*   [procodile (⭐4)](https://github.com/crystal-china/procodile_cr) - Run processes in the background (and foreground) on Mac & Linux from a Procfile (for production and/or development environments)
+*   [port\_ruby\_to\_crystal (⭐6)](https://github.com/crystal-china/port_ruby_to_crystal) - A regex replace ruby script for port ruby code to crystal easier, reduce friction
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### GUI Development

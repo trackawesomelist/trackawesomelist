@@ -6,6 +6,16 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Driver crates / Other
+
+*   [sega-controller](https://crates.io/crates/sega-controller) - GPIO - Sega controller input - [github (⭐0)](https://github.com/UnderLogic/sega-controller) - ![crates.io](https://img.shields.io/crates/v/sega-controller.svg)
+
+### Driver crates / WIP
+
+*   [SPL06-007 (⭐2)](https://github.com/roxgib/SPL06-007) - I2C - Pressure and temerature sensor - ![crates.io](https://img.shields.io/crates/v/spl06-007.svg)
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Component abstraction crates / Other
@@ -1277,7 +1287,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Community Chat Rooms
 
-*   [xargo (⭐998)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
+*   [xargo (⭐1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
     *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐241)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
 
 ### HAL implementation crates / STMicroelectronics

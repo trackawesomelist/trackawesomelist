@@ -2,9 +2,15 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 346 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 406 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Authentication & Identity
+
+*   [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
@@ -54,9 +60,9 @@ A curated list of awesome developer-first tools products.
 
 ### Deployment Hosting
 
+*   [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
 *   [cyclic](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
 *   [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
-*   [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -80,8 +86,8 @@ A curated list of awesome developer-first tools products.
 
 ### Orchestration
 
-*   [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 *   [AWS Step Functions](https://aws.amazon.com/step-functions/) - visual workflow service to build distributed applications and automate processes
+*   [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
@@ -105,8 +111,8 @@ A curated list of awesome developer-first tools products.
 
 ### Infrastructure as Code
 
-*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
+*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
@@ -156,9 +162,9 @@ A curated list of awesome developer-first tools products.
 
 ### Feature Flags
 
+*   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 *   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
 *   [split](https://www.split.io/) - Feature flags platform with data analytics.
-*   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 
 ### Misc
 
@@ -240,7 +246,7 @@ A curated list of awesome developer-first tools products.
 
 ### Environment & Secret Management
 
-*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management
+*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
 
 ### Media
 
@@ -272,15 +278,15 @@ A curated list of awesome developer-first tools products.
 
 ### Documentation
 
-*   [readme](https://readme.com/) - Personalized and dynamic developer docs.
 *   [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
+*   [readme](https://readme.com/) - Personalized and dynamic developer docs.
 
 ### Environment & Secret Management
 
-*   [Vault](https://www.vaultproject.io/) - API driven secret key management.
-*   [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 *   [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
+*   [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 *   [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
+*   [Vault](https://www.vaultproject.io/) - API driven secret key management.
 
 ### GEO
 
@@ -294,8 +300,8 @@ A curated list of awesome developer-first tools products.
 
 ### Mail
 
-*   [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
 *   [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
+*   [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
 
 ## [Apr 12 - Apr 18, 2021](/content/2021/15/README.md)
 
@@ -336,10 +342,10 @@ A curated list of awesome developer-first tools products.
 
 ### Deployment Hosting
 
-*   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
 *   [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 *   [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
+*   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
+*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
 
 ### Discussions
 
@@ -354,8 +360,8 @@ A curated list of awesome developer-first tools products.
 
 ### Mail
 
-*   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 *   [FormSpree](https://formspree.io/) - Receive form submissions by email.
+*   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 
 ### Media
 
@@ -364,10 +370,10 @@ A curated list of awesome developer-first tools products.
 
 ### Messaging
 
+*   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
+*   [stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
-*   [stream](https://getstream.io/) - Feed and chat as a service.
-*   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 
 ### Misc
 
@@ -375,9 +381,9 @@ A curated list of awesome developer-first tools products.
 
 ### Monitoring
 
-*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
+*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
 ### Natural Language Processing
 
@@ -395,8 +401,8 @@ A curated list of awesome developer-first tools products.
 ### Scraping
 
 *   [Apify](https://apify.com/) - Turn websites to an API.
-*   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 *   [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
+*   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 
 ### Shipping
 
@@ -410,14 +416,14 @@ A curated list of awesome developer-first tools products.
 
 ### Analytics
 
-*   [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 *   [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events.
+*   [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 
 ### Authentication & Identity
 
 *   [Auth0](https://auth0.com/) - Authentication & authorization as a service.
-*   [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 *   [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
+*   [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 
 ### Code Quality
 
@@ -425,8 +431,8 @@ A curated list of awesome developer-first tools products.
 
 ### Deployment Hosting
 
-*   [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 *   [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
+*   [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 
 ### Media
 
@@ -454,8 +460,8 @@ A curated list of awesome developer-first tools products.
 
 ### Testing
 
-*   [Testim](https://www.testim.io/) - Frontend testing.
 *   [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
+*   [Testim](https://www.testim.io/) - Frontend testing.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -470,8 +476,8 @@ A curated list of awesome developer-first tools products.
 
 ### GEO
 
-*   [Radar](https://radar.io/) - Geofencing and geo APIs.
 *   [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+*   [Radar](https://radar.io/) - Geofencing and geo APIs.
 
 ### Localization
 

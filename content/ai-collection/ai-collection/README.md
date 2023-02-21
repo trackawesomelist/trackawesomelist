@@ -6,6 +6,32 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Feb 21, 2023](/content/2023/02/21/README.md)
+
+### Education & Learning
+
+- Name: [teachertoolkit.ai](https://www.teachertoolkit.ai/)
+
+  Title: A collection of tools for teachers and educators to harness the power of AI in their pedagogy and planning.
+
+  Description: Plan Lessons -  Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Sales & Marketing
+
+- Name: [CastPush](https://castpush.com)
+
+  Title: AI-Driven Multi-Channel Broadcasting.
+
+  Description: Connect and broadcast to all your social media channels with just a few clicks using CastPush. Our magical AI technology optimizes your content for each individual connection, ensuring maximum reach and engagement.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
 ### Content Generation & Seo
