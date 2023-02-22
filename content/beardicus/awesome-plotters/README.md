@@ -6,6 +6,14 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [Feb 22, 2023](/content/2023/02/22/README.md)
+
+### Inspiration, Instruction, and Research / Fonts
+
+*   [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - Video of an HP 7475A plotting some demos.
+*   [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - Videe showing how to open, clean, and refill vintage HP plotter pens.
+*   [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - Video of the Commodore 1520 plotter in action, including a cover-off shot of the mechanism.
+
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
 ### Manuals and Ephemera / Manuals
@@ -359,7 +367,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Hardware / Plotters
 
-*   [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python.
+*   [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 
 ### Inspiration, Instruction, and Research / Fonts
 

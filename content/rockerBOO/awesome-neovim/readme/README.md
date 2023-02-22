@@ -365,13 +365,14 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [fenetikm/falcon (⭐622)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 *   [andersevenrud/nordic.nvim (⭐149)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 *   [shaunsingh/nord.nvim (⭐558)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
-*   [svrana/neosolarized.nvim (⭐72)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
+*   [svrana/neosolarized.nvim (⭐79)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 *   [ishan9299/nvim-solarized-lua (⭐136)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
 *   [shaunsingh/moonlight.nvim (⭐138)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
 *   [navarasu/onedark.nvim (⭐828)](https://github.com/navarasu/onedark.nvim) - A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
 *   [lourenci/github-colors (⭐70)](https://github.com/lourenci/github-colors) - GitHub colors leveraging Tree-sitter to get 100% accuracy.
 *   [sainnhe/gruvbox-material (⭐1.2k)](https://github.com/sainnhe/gruvbox-material) - Gruvbox modification with softer contrast and Tree-sitter support.
 *   [sainnhe/everforest (⭐1.7k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
+*   [neanias/everforest-nvim (⭐20)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 *   [NTBBloodbath/doom-one.nvim (⭐141)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 *   [dracula/vim (⭐1.2k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
 *   [Mofiqul/dracula.nvim (⭐375)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
@@ -744,7 +745,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ZhiyuanLck/smart-pairs (⭐119)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
 *   [echasnovski/mini.nvim#mini.pairs (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pairs.md) - Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping.
 *   [m4xshen/autoclose.nvim (⭐183)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
-*   [altermo/ultimate-autopair.nvim (⭐7)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
+*   [altermo/ultimate-autopair.nvim (⭐52)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 *   [monaqa/dial.nvim (⭐461)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 *   [mrjones2014/nvim-ts-rainbow (⭐139)](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow :rainbow: delimiters using tree-sitter :rainbow:.
 *   [AckslD/nvim-revJ.lua (⭐105)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
