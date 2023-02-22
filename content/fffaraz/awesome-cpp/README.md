@@ -6,6 +6,17 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 22, 2023](/content/2023/02/22/README.md)
+
+### Math
+
+*   [ExprTk](https://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. \[MIT]
+*   [Wykobi](https://www.wykobi.com) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. \[MIT]
+
+### Miscellaneous
+
+*   [StrTk](https://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
+
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
 ### Online Compiler
@@ -2488,19 +2499,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Apr 17, 2017](/content/2017/04/17/README.md)
 
-### Math
-
-*   [ExprTK](http://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. \[MIT]
-*   [Wykobi](http://www.wykobi.com/) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. \[MIT]
-
 ### Web Application Framework
 
 *   [lwan (⭐5.7k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
 *   [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
-
-### Miscellaneous
-
-*   [StrTk](http://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
 
 ## [Apr 06, 2017](/content/2017/04/06/README.md)
 

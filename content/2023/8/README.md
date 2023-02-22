@@ -1,42 +1,69 @@
 # Awesome List Updates on Feb 20 - Feb 26, 2023
 
-35 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Third-Party owned
+
+*   [Forward Email](https://forwardemail.net) - the 100% open-source and privacy-focused email service.
+
+### Anti-tracking / Alternative clients/modifications of Discord:
+
+*   [LibRedirect (⭐2k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+
+### Privacy vs Security vs Anonimity / Alternative clients/modifications of Discord:
+
+*   Privacy is about regulating who has access to your personal information, being aware of the data that is being collected about you, and having the ability to decide who can access it and how. In short, privacy involves controlling your personal information.
+*   Security refers to safeguarding your personal information from unauthorized access or theft. It involves ensuring that your data is protected and stored in a secure manner, making it difficult for malicious actors to access it.
+*   Anonymity is about ensuring that your actions cannot be traced back to you. This means that even if someone discovers what you are doing, they will not be able to identify you as the source.
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Math
+
+*   [ExprTk](https://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. \[MIT]
+*   [Wykobi](https://www.wykobi.com) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. \[MIT]
+
+### Miscellaneous
+
+*   [StrTk](https://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
+
+## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
 *   [TubeArchivist (⭐2.4k)](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
 
-## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Downloading, Installing, Upgrading, and Building
 
 *   [Qubes OS 4.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1.2 Weekly Build download.
 
-## [3. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Utils
 
 *   [yew-nested-router (⭐5)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 
-## [4. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [6. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
 *   [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - Fall 2017 of the Yale course CPSC 202a, Mathematical Tools for Computer Science.
 
-## [5. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Disaster
 
 *   [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi) (+25k developers) is trying to help disaster response using artificial intelligence. Everything is open-sourced [afet.org](https://afet.org).
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -59,13 +86,13 @@
 
 *   [csv-validator (⭐5)](https://github.com/KoenvdBerg/csv-validator) - Validates tabular CSV data using predefined validations, inspired from its Python homologue "Great Expectations". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Serverless
 
 *   [🐑 Lamby](https://lamby.custominktech.com/) - Simple Rails & AWS Lambda Integration using Rack
 
-## [8. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [10. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Education & Learning
 
@@ -91,19 +118,19 @@
 
 
 
-## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [tines](https://www.tines.com/) - No-code automation for security teams.
 
-## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [12. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Guides
 
 *   [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 
-## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
@@ -113,7 +140,7 @@
 
 *   [SPL06-007 (⭐2)](https://github.com/roxgib/SPL06-007) - I2C - Pressure and temerature sensor - ![crates.io](https://img.shields.io/crates/v/spl06-007.svg)
 
-## [12. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Entry Point
 
@@ -157,7 +184,7 @@
 *   [tashy (⭐7)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
 *   [tashy2 (⭐2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Testing
 
@@ -168,19 +195,19 @@
 *   [procodile (⭐4)](https://github.com/crystal-china/procodile_cr) - Run processes in the background (and foreground) on Mac & Linux from a Procfile (for production and/or development environments)
 *   [port\_ruby\_to\_crystal (⭐6)](https://github.com/crystal-china/port_ruby_to_crystal) - A regex replace ruby script for port ruby code to crystal easier, reduce friction
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Layout / Barcode
 
 *   [AnimatedTabBar (⭐64)](https://github.com/exyte/AnimatedTabBar) - A tabbar with a number of preset animations.
 
-## [15. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [17. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Other Configs
 
 *   [Sheriff (⭐25)](https://github.com/AndreaPontrandolfo/sheriff) - Comprehensive and highly opinionated Eslint configuration. Typescript oriented.
 
-## [16. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [18. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Newsletters
 
@@ -190,7 +217,7 @@
 
 *   [purs-nix (⭐53)](https://github.com/purs-nix/purs-nix) - CLI and library combo designed for managing PureScript projects using Nix. It provides a Nix API that can be used within your projects, as well as a command-line interface for managing your development process.
 
-## [17. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [19. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Books / Screeb
 
@@ -198,7 +225,7 @@
 *   [Difficult Conversations](https://www.stoneandheen.com/difficult-conversations) - By Douglas Stone.
 *   [Staff Engineer](https://staffeng.com/book) - By Will Larson.
 
-## [18. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [20. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -210,25 +237,30 @@
 
 *   [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
 
-## [19. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Videos / Others
+
+*   [Exploring OpenAI with Blazor](https://www.youtube.com/watch?v=ULHxywqxMPk) - February 23, 2023 - Chat with Michael Washington about how .NET developers can leverage OpenAI GPT-3 in their Blazor applications.
 
 ### Articles / Others
 
+*   [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/) - February 21, 2023 - The first preview of .NET 8 is ready to download. This blog post covers the major themes and goals that drive the prioritization and selection of enhancements to develop. .NET 8 preview and release candidate builds will be delivered monthly. As usual, the final release will be delivered sometime in November at .NET Conf.
 *   [Azure Active Directory multitenant integration with Blazor WASM – Part 1](https://peterlesliemorris.com/azure-active-directory-multitenant-integration-with-blazor-wasm-part-1/) - February 19, 2023 - This blog is set in two parts. The first describes the process of setting up an Azure Active Directory multitenant on Azure, and the 2nd part describes how to integrate with a Blazor WASM application. [Source code (⭐26)](https://github.com/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant) ![stars](https://img.shields.io/github/stars/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant?style=flat-square\&cacheSeconds=86400) .
 
-## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [starship2k (⭐1)](https://github.com/2KAbhishek/starship2k) - Includes powerline support, decorators for `git` information, multiple languages and a multiline prompt.
 
-## [21. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
 *   [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
 
-## [22. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [24. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bytecode Manipulation
 
@@ -238,7 +270,7 @@
 
 *   [WebTau (⭐282)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
 
-## [23. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [25. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Low Code Application Platform
 
@@ -250,14 +282,14 @@
 *   [AutomationAnywhere](https://www.automationanywhere.com/) - A provider of robotic process automation (RPA) software that allows businesses to automate tasks using a combination of rules-based decision-making, machine learning, and artificial intelligence. Its platform includes a user-friendly interface for creating and deploying automation, and it can be used to automate tasks across various departments and industries.
 *   [BluePrism](https://www.blueprism.com/) - A provider of robotic process automation (RPA) software that allows organizations to automate repetitive and manual tasks, such as data entry, without requiring extensive coding knowledge. Its platform includes a digital workforce that can handle high-volume and complex tasks, and it can integrate with various systems and applications to streamline business operations.
 
-## [24. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [26. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
 *   [Hello WebXR](https://msub2.github.io/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
     *   This links to a mirror of the experience on my own fork, as it is no longer accessible at its original domain.
 
-## [25. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [27. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
@@ -267,19 +299,19 @@
 
 *   [Certz (⭐2)](https://github.com/michaellwest/certz) - Utility built on .net 7 and compiled to a self-contained exe, aimed to simplify certificates management, as a better alternative to mkcert.
 
-## [26. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [28. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Quix Streams (⭐12)](https://github.com/quixio/quix-streams) \[Python] - a streaming library originally designed for the McLaren Formula 1 racing team that can process high volumes of time-series data with up to nanosecond precision using Apache Kafka as a message broker.
 
-## [27. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [29. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [wopee.io](https://wopee.io/) - Autonomous testing platform providing bot for autonomous visual regression testing.
 
-## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bot Building
 
@@ -313,7 +345,7 @@
 
 *   [Lets-Go-Further](https://lets-go-further.alexedwards.net) - Advanced patterns for building APIs and web applications in Go.
 
-## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -340,7 +372,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -372,19 +404,19 @@
 
 *   `IPL-1.0` - [IBM Public License](https://spdx.org/licenses/IPL-1.0.html)
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### BaaS
 
 *   [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.
 
-## [32. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [34. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Libraries
 
 *   [audioFlux (⭐15)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -399,13 +431,17 @@
 
 *   [yaocccc/nvim-foldsign (⭐2)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
 
-## [34. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/week/README.md)
+### Editing Support / Diagnostics
+
+*   [bennypowers/splitjoin.nvim (⭐36)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+
+## [36. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/week/README.md)
 
 ### Content Creation
 
 *   [Bitcoin Plugins for Elgato Streamdecks (⭐0)](https://github.com/quilloughbee/streamdeck-bitcoin-plugins)
 
-## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [37. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 

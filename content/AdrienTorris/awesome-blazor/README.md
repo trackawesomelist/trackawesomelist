@@ -6,6 +6,16 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Feb 22, 2023](/content/2023/02/22/README.md)
+
+### Videos / Others
+
+*   [Exploring OpenAI with Blazor](https://www.youtube.com/watch?v=ULHxywqxMPk) - February 23, 2023 - Chat with Michael Washington about how .NET developers can leverage OpenAI GPT-3 in their Blazor applications.
+
+### Articles / Others
+
+*   [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/) - February 21, 2023 - The first preview of .NET 8 is ready to download. This blog post covers the major themes and goals that drive the prioritization and selection of enhancements to develop. .NET 8 preview and release candidate builds will be delivered monthly. As usual, the final release will be delivered sometime in November at .NET Conf.
+
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
 ### Articles / Others
