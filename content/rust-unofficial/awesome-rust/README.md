@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 23, 2023](/content/2023/02/23/README.md)
+
+### Libraries / Graph algorithms
+
+*   [petgraph/petgraph (⭐2k)](https://github.com/petgraph/petgraph) - Graph data structure library for Rust. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml)
+
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
 ### Applications / Web Servers
@@ -75,7 +81,7 @@ A curated list of Rust code and resources.
 ### Applications / Emulators
 
 *   iPod
-    *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐111)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 

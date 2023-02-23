@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
 
+### CMS (headless)
+
+*   [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Databases & Spreadsheets

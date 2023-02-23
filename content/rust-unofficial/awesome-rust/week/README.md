@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Libraries / Graph algorithms
+
+*   [petgraph/petgraph (⭐2k)](https://github.com/petgraph/petgraph) - Graph data structure library for Rust. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml)
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Applications / Productivity
@@ -71,7 +77,7 @@ A curated list of Rust code and resources.
 *   iOS
     *   [touchHLE (⭐920)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 *   iPod
-    *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐111)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
 ### Applications / System tools
 

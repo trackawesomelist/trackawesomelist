@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 23, 2023](/content/2023/02/23/README.md)
+
+### CMS (headless)
+
+*   [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
+
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
 ### Authentication & Identity

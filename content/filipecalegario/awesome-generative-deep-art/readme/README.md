@@ -8,12 +8,13 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ---
 
-# Generative Deep Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
+# Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
 
-> A curated list of Generative Deep Art projects, tools, artworks, and models
+> A curated list of Generative AI projects, tools, artworks, and models
 
-*   [Generative Deep Art ](#generative-deep-art-)
+*   [Generative AI ](#generative-ai-)
     *   [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
+    *   [Generative AI Tools Directories](#generative-ai-tools-directories)
     *   [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
         *   [For text-to-text](#for-text-to-text)
         *   [For text-to-image](#for-text-to-image)
@@ -55,6 +56,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
     *   [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
     *   [Inbox: Video AI tools](#inbox-video-ai-tools)
     *   [Inbox: Games and AI](#inbox-games-and-ai)
+    *   [Inbox: Developing + AI](#inbox-developing--ai)
     *   [People and works](#people-and-works)
         *   [Interesting Instagram Accounts, Posts and Reels](#interesting-instagram-accounts-posts-and-reels)
         *   [Interesting Youtube Channels](#interesting-youtube-channels)
@@ -63,6 +65,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
         *   [Galleries](#galleries)
     *   [Related Awesome Lists](#related-awesome-lists)
     *   [Miscellaneous](#miscellaneous)
+        *   [Jobs in Generative AI](#jobs-in-generative-ai)
         *   [Improving Google Colab experience](#improving-google-colab-experience)
         *   [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
     *   [Contribute](#contribute)
@@ -513,6 +516,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Inbox: Text and Natural Language Processing
 
+*   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai/dashboard/projects/clctzt39i000hmo08xzkdgo5k/context): Instant context for GPT3
 *   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
 *   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)

@@ -255,7 +255,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   iOS
     *   [touchHLE (⭐920)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 *   iPod
-    *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐111)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 *   NES
     *   [koute/pinky (⭐713)](https://github.com/koute/pinky) — [![build badge](https://api.travis-ci.org/koute/pinky.svg?branch=master)](https://travis-ci.org/koute/pinky)
     *   [pcwalton/sprocketnes (⭐728)](https://github.com/pcwalton/sprocketnes)
@@ -1284,6 +1284,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Graph algorithms
 
+*   [petgraph/petgraph (⭐2k)](https://github.com/petgraph/petgraph) - Graph data structure library for Rust. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml)
 *   [s1ck/graph (⭐263)](https://github.com/s1ck/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/s1ck/graph/CI/main?label=CI)](https://github.com/s1ck/graph/actions/workflows/rust.yml)
 
 ### Graphics
