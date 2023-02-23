@@ -6,11 +6,21 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Feb 23, 2023](/content/2023/02/23/README.md)
+
+### Videos / Others
+
+*   [Steve Sanderson on Blazor United](https://www.youtube.com/watch?v=QvZcbqT0oIo) - ![duration](https://img.shields.io/badge/Duration:%20-50%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 23, 2023 - Carl talks to Steve Sanderson, creator of Blazor, to answer questions about Blazor United, coming in .NET 8.
+
+### Articles / Others
+
+*   [The Blazor NavigationManager](https://kristoffer-strube.dk/post/the-blazor-navigationmanager/) - February 23, 2023 - The NavigationManager is a service that enables developers to programmatically navigate the user to different pages or external URIs. In ASP.NET Core 7, there were added new features that enable us to parse simple state between pages and listen to and intercept navigation. In this post, we will look at the basic capabilities of the NavigationManager, present what new features were added in ASP.NET Core 7, discuss how it fits into the Blazor/.NET ecosystem, and in the end present a scenario that is now possible with relative ease using new additions from ASP.NET Core 7.
+
 ## [Feb 22, 2023](/content/2023/02/22/README.md)
 
 ### Videos / Others
 
-*   [Exploring OpenAI with Blazor](https://www.youtube.com/watch?v=ULHxywqxMPk) - February 23, 2023 - Chat with Michael Washington about how .NET developers can leverage OpenAI GPT-3 in their Blazor applications.
+*   [Exploring OpenAI with Blazor](https://www.youtube.com/watch?v=ULHxywqxMPk) - ![duration](https://img.shields.io/badge/Duration:%20-54%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 23, 2023 - Chat with Michael Washington about how .NET developers can leverage OpenAI GPT-3 in their Blazor applications.
 
 ### Articles / Others
 

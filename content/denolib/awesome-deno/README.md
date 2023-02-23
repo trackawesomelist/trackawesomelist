@@ -6,6 +6,20 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Feb 23, 2023](/content/2023/02/23/README.md)
+
+### Docs / Online Playgrounds
+
+*   [Deno Starter in Codesandbox](https://codesandbox.io/s/y56n2)
+
+### Modules / Testing
+
+*   [unitest (⭐4)](https://github.com/TomokiMiyauci/unitest) - Deno-first universal unit testing framework.
+
+### Tools / XML
+
+*   [deno\_docker (⭐753)](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
+
 ## [Feb 17, 2023](/content/2023/02/17/README.md)
 
 ### Modules / Database
@@ -36,10 +50,6 @@ Curated list of awesome things related to Deno
 ### Modules / Testing
 
 *   [tepi](https://deno.land/x/tepi) - A .http Test Runner
-
-### Articles / XML
-
-*   [Build A Simple Covid19 CLI Tool using Deno](https://blog.loginradius.com/engineering/build-a-cli-tool-using-deno/)
 
 ## [Nov 07, 2022](/content/2022/11/07/README.md)
 
@@ -482,11 +492,8 @@ Curated list of awesome things related to Deno
 *   [attain (⭐79)](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 *   [aqua (⭐221)](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
 *   [deno-express (⭐285)](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
-*   [denotrain (⭐103)](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
 *   [dinatra (⭐408)](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
-*   [doa (⭐23)](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 *   [drash (⭐1.1k)](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
-*   [microraptor (⭐6)](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 *   [oak (⭐4.6k)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
     *   [oak-http-proxy (⭐26)](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
 *   [opine (⭐853)](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
@@ -581,6 +588,10 @@ Curated list of awesome things related to Deno
 
 *   [myCompiler.io](https://www.mycompiler.io/new/deno)
 
+### Modules / Static site generator
+
+*   [lume (⭐1.1k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+
 ### Modules / Utils
 
 *   [garn-yaml (⭐2)](https://github.com/jupegarnica/garn-yaml) - Read or write yaml interpolating env variables.
@@ -589,10 +600,6 @@ Curated list of awesome things related to Deno
 
 *   [Deno Rest (⭐92)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
-
-### Tools / XML
-
-*   [lume (⭐1.1k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 
 ## [Dec 19, 2020](/content/2020/12/19/README.md)
 
@@ -756,7 +763,7 @@ Curated list of awesome things related to Deno
 
 ## [May 22, 2020](/content/2020/05/22/README.md)
 
-### Tools / XML
+### Modules / Static site generator
 
 *   [pagic (⭐1.5k)](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
 
@@ -799,7 +806,6 @@ Curated list of awesome things related to Deno
 
 *   [dedep (⭐66)](https://github.com/egoist/dedep) - Manage dependency versions.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-*   [pika Deno plugin (⭐165)](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 *   [starter (⭐21)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 
 ### Articles / XML
@@ -854,7 +860,6 @@ Curated list of awesome things related to Deno
 *   [clone (⭐4)](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 *   [denoinit (⭐29)](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 *   [denoversion (⭐7)](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
-*   [deno-vscode (⭐143)](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension.
 *   [udd (⭐268)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 
 ### Articles / XML
@@ -897,7 +902,7 @@ Curated list of awesome things related to Deno
 
 ## [Apr 25, 2020](/content/2020/04/25/README.md)
 
-### Tools / XML
+### Modules / Database
 
 *   [nessie (⭐515)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
@@ -922,8 +927,6 @@ Curated list of awesome things related to Deno
 ### Tools / XML
 
 *   [deno.mk (⭐14)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
-*   maxmcd's [deno-docker (⭐74)](https://github.com/maxmcd/deno-docker) A docker image.
-*   hayd's [deno-docker (⭐751)](https://github.com/hayd/deno-docker) Several docker images.
 
 ## [Jan 15, 2020](/content/2020/01/15/README.md)
 
@@ -1051,7 +1054,6 @@ Curated list of awesome things related to Deno
 ### Tools / XML
 
 *   [denopkg (⭐230)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
-*   [elm-live-reload (⭐61)](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 
 ## [Jan 10, 2019](/content/2019/01/10/README.md)
 
