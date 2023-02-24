@@ -22,7 +22,7 @@
 
 ### Terraform Enterprise / Vendor supported providers
 
-*   [OTF (⭐102)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐240)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

@@ -59,7 +59,7 @@
 
 ### Events
 
-*   [Tempura (⭐694)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐695)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## [5. Awesome Framer](/content/podo/awesome-framer/README.md)
 
@@ -71,7 +71,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐366)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐367)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -108,11 +108,7 @@
 
 ### CMS and applications built on CakePHP
 
-*   [Croogo](https://croogo.org) - CMS software
-
-### Demo
-
-*   [Croogo 3.x](http://demo.croogo.org/3.0) - Croogo 3.x demo
+*   [Croogo](https://croogo.org) - CMS software (see 5.0 branch).
 
 ---
 

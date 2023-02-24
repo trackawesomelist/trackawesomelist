@@ -10,18 +10,18 @@
 
 ### Overview / Twitter
 
-*   [Nitter (⭐6.7k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
+*   [Nitter (⭐6.8k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
     *   Official instance: [nitter.net](https://nitter.net)
-    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐6.7k)](https://github.com/zedeus/nitter/wiki/Instances)
+    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐6.8k)](https://github.com/zedeus/nitter/wiki/Instances)
     *   Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
 ### Overview / Reddit
 
-*   [Updoot (⭐58)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
+*   [Updoot (⭐60)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
 ### Overview / Hacker News
 
-*   [HN-search (⭐454)](https://github.com/algolia/hn-search): Algolia Hacker News search
+*   [HN-search (⭐455)](https://github.com/algolia/hn-search): Algolia Hacker News search
     *   Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity\&page=0\&dateRange=last24h\&type=all)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)

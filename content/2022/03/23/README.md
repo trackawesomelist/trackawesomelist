@@ -114,7 +114,7 @@
 
 ### Templates
 
-*   [yew-template-for-github-io (⭐17)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
+*   [yew-template-for-github-io (⭐21)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
 
 ## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 

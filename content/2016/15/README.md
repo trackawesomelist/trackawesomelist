@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11 - Apr 17, 2016
 
-33 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -138,17 +138,17 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐246)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐247)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐101)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐104)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐757)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐761)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -160,7 +160,7 @@
 
 ### Geolocation
 
-*   [rgeo (⭐953)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐968)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -168,7 +168,7 @@
 
 ### Queues and Messaging
 
-*   [Gush (⭐987)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
+*   [Gush (⭐992)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -285,7 +285,7 @@
 
 ### Animation
 
-*   [Pulsator (⭐1.3k)](https://github.com/shu223/pulsator) - Pulse animation for iOS.
+*   [Pulsator (⭐1.4k)](https://github.com/shu223/pulsator) - Pulse animation for iOS.
 
 ### UI / Barcode
 
@@ -341,26 +341,20 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 *   [Restbed (⭐1.8k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
 
-## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Development Environment
-
-*   [PhpStorm plugin (⭐7)](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE.
-
-## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Misc
 
 *   [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
 *   [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
 
-## [30. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [29. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / C/C++
 
 *   [What are the valid signatures for C's main() function? ](http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
 
-## [31. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [30. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Classics
 
@@ -569,7 +563,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 *   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent *Network Science* journal.
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -583,7 +577,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 *   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
-## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 

@@ -28,7 +28,7 @@
 
 ### Software / Blogging Platforms
 
-*   [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://demo.htmly.com/), [Source Code (⭐871)](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
+*   [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://demo.htmly.com/), [Source Code (⭐877)](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -38,7 +38,7 @@
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [Icings/Partitionable plugin (⭐10)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
+*   [Icings/Partitionable plugin](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [jwstegemann/fritz2 (⭐489)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [jwstegemann/fritz2 (⭐493)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

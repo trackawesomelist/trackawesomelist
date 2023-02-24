@@ -103,13 +103,13 @@
 
 ### Modules / CLI utils
 
-*   [chart (⭐51)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
+*   [chart (⭐53)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Internationalization
 
-*   [mini\_i18n (⭐93)](https://github.com/markets/mini_i18n) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
+*   [mini\_i18n (⭐95)](https://github.com/markets/mini_i18n) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

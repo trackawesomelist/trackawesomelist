@@ -57,7 +57,7 @@
 ### Community
 
 *   [CLPM](https://gitlab.common-lisp.net/clpm/clpm) - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [Qlot (⭐299)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Qlot (⭐300)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [Quicksys](https://lisp.com.br/quicksys/) - install systems from multiple Quicklisp distributions. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs

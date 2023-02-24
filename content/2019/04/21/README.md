@@ -97,7 +97,7 @@
 
 ### Modules / CLI utils
 
-*   [cac (⭐2.1k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐2.2k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ---
 

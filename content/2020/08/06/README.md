@@ -10,7 +10,7 @@
 
 ### Calendar
 
-*   [ElegantCalendar (⭐554)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐572)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

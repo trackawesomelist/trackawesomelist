@@ -85,7 +85,7 @@
 
 ### QA and Testing Road Map / Useful References
 
-*   [How to start QA and Testing career (⭐1.2k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
+*   [How to start QA and Testing career (⭐1.3k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

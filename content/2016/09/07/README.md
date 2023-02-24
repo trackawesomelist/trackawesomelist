@@ -70,7 +70,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐802)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐805)](https://github.com/nelson-brochado/understanding-math)
 
 ## [8. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -61,11 +61,11 @@
 
 ### Open Source / Casual
 
-*   [Bob Box (⭐37)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+*   [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 
 ### Open Source / Endless Runner
 
-*   [BGUG (⭐86)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+*   [BGUG (⭐89)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -97,13 +97,7 @@
 
 *   [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 
-## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### ORM / Database / Datamapping
-
-*   [Fetchable plugin (⭐0)](https://github.com/riesenia/cakephp-fetchable) - Behavior for fetching entities from cache / memory.
-
-## [12. Awesome Math](/content/rossant/awesome-math/README.md)
+## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Algebra / Galois Theory
 

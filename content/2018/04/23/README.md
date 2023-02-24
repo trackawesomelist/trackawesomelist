@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,21 +16,15 @@
 
 ### Game Engine
 
-*   [EnTT (⭐7.7k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐7.8k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Asset Management
-
-*   [Assets plugin (⭐3)](https://github.com/mirko-pagliai/cakephp-assets) - Dynamic and "on the fly" asset files.
-
-## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Podcasts / ROSCon 2015
 
 *   [Everything about ROS 2 with Dirk Thomas (from 16th minute onwards)](http://www.theconstructsim.com/rdp-012-all-about-ros2-with-dirk-thomas/)
 
-## [5. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+## [4. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017)   *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))*   \[3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
 
@@ -39,7 +33,7 @@
 *   [An Unwelcome Quest](https://www.goodreads.com/book/show/23249416-an-unwelcome-quest) \[3.98]
 *   [Fight and Flight](https://www.goodreads.com/book/show/36566205-fight-and-flight) \[3.61]
 
-## [6. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+## [5. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
 ### Satire / [Discworld](https://en.wikipedia.org/wiki/Discworld)     *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)*
 
@@ -52,7 +46,7 @@
 *   [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) \[4.2]
     How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
 
-## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
 

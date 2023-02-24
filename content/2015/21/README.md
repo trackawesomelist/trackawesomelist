@@ -83,7 +83,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐6.7k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐6.8k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ### Websites
 

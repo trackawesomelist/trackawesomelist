@@ -61,7 +61,7 @@
 
 ### Payment / Barcode
 
-*   [MFCard (⭐362)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
+*   [MFCard (⭐361)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 
 ## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

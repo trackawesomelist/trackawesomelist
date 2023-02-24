@@ -75,7 +75,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐757)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐762)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

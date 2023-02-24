@@ -292,7 +292,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐368)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐367)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [21. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -533,7 +533,7 @@
 
 ### Packages / Testing
 
-*   [TestCafe (⭐9.5k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
+*   [TestCafe (⭐9.6k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
 ## [38. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 

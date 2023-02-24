@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -229,44 +229,38 @@
 
 *   [mood (⭐42)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
-## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-### Software / Make your life easier
-
-*   [Online decision table service](http://decision-table.com/) - full test coverage by generating cases with simple Decision Table technique.
-
-## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Extending Content Editor
 
 *   [Sitecore-TinyMCERTE (⭐2)](https://github.com/EmanueleCiriachi/Sitecore-TinyMCERTE) - A Sitecore Control that uses the Tiny MCE Editor in place of the default one.
 
-## [10. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### Privacy focused analytics
 
 *   [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Developer utilities / Third-party APIs
 
 *   [printv (⭐67)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 
 *   [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
 *   [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 
-## [13. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [12. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Related
 
 *   [Developers Guide to HIPAA Compliance (⭐1.6k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

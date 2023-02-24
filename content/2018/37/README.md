@@ -41,7 +41,7 @@
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐146)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐148)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -389,11 +389,11 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐169)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐172)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
-*   [did\_you\_mean (⭐1.8k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
+*   [did\_you\_mean (⭐1.9k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
 
 ## [31. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Web / MIT
 
-*   [aws (⭐109)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐111)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
 ### Algorithms, Containers and Protocols / MIT
 
@@ -56,7 +56,7 @@
 
 ### Non-deterministic, logic programming
 
-*   [Screamer (⭐207)](https://github.com/nikodemus/screamer) - augment Common
+*   [Screamer (⭐208)](https://github.com/nikodemus/screamer) - augment Common
     Lisp with practically all of the functionality of both Prolog and
     constraint logic programming
     languages. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)

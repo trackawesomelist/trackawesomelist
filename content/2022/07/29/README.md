@@ -30,7 +30,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [sokomishalov/skraper (⭐171)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
+*   [sokomishalov/skraper (⭐170)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
 
 ### Libraries/Frameworks / Multiplatform
 
@@ -56,26 +56,26 @@
 
 ### Deep Learning / PyTorch
 
-*   [ChemicalX (⭐602)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [ChemicalX (⭐610)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Time Series / NLP
 
-*   [darts (⭐5.3k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+*   [darts (⭐5.4k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 *   [statsforecast (⭐2.2k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐163)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [mlforecast (⭐229)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
 *   [neuralforecast (⭐1.2k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
 *   [greykite (⭐1.7k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Chaos Genius (⭐531)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐552)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / NLP
 
-*   [envd (⭐1.4k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
+*   [envd (⭐1.5k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### JSON
 
-*   [marshmallow (⭐268)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
+*   [marshmallow (⭐270)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

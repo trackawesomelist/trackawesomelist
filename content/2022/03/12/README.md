@@ -34,12 +34,12 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [gitio (denysdovhan) (⭐20)](https://github.com/denysdovhan/gitio-zsh) - A ZSH plugin for generating a GitHub short URL using [git.io](https://git.io).
-*   [gitio (nicolodiamante) (⭐1)](https://github.com/nicolodiamante/gitio) - Uses [git.io](https://git.io/) to shorten `git` urls.
+*   [gitio (nicolodiamante) (⭐2)](https://github.com/nicolodiamante/gitio) - Uses [git.io](https://git.io/) to shorten `git` urls.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [kalsowerus (⭐2)](https://github.com/kalsowerus/kalsowerus.zsh-theme) - Colorful powerline-inspired multi-line theme, includes decorations for `git` status, directory, last command exit status and `nvm` information.
 
@@ -54,13 +54,13 @@
 ### Domain
 
 *   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐289)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+*   [cluster.ws & wip.la (⭐305)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐65)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐78)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Modules / Web framework
 
-*   [faster (⭐19)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐20)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -94,11 +94,11 @@
 
 ### Overview / YouTube Music
 
-*   [th-ch/youtube-music (⭐2.8k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+*   [th-ch/youtube-music (⭐2.9k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
 
 ### Overview / Reddit
 
-*   [Dawn (⭐435)](https://github.com/Tunous/Dawn): Open-source Reddit app
+*   [Dawn (⭐437)](https://github.com/Tunous/Dawn): Open-source Reddit app
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
     *   Forked from Dank: [https://github.com/saket/Dank (⭐809)](https://github.com/saket/Dank)
 *   [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
@@ -107,14 +107,14 @@
 
 ### Overview / Reuters
 
-*   [Neuters (⭐34)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
+*   [Neuters (⭐40)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
     *   Official instance: <https://neuters.de>
 
 ## [13. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [goblin (⭐49)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
+*   [goblin (⭐52)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 
 ## [14. GoBooks](/content/dariubs/GoBooks/README.md)
 

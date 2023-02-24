@@ -12,7 +12,7 @@
 
 *   Prelude
     *   [JasonShin/fp-core.rs (⭐1.1k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming in Rust
-    *   [myrrlyn/tap (⭐221)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [myrrlyn/tap (⭐224)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -52,15 +52,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐441)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
+*   [rmagatti/goto-preview (⭐452)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ### Utility / Diagnostics
 
-*   [sudormrfbin/cheatsheet.nvim (⭐448)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
+*   [sudormrfbin/cheatsheet.nvim (⭐450)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
 
 ### Editing Support / Diagnostics
 
-*   [ethanholz/nvim-lastplace (⭐203)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [ethanholz/nvim-lastplace (⭐211)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

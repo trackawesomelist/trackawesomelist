@@ -10,8 +10,8 @@
 
 ### Articles / Screeb
 
-*   [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://twitter.com/hpalan).
-*   [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://twitter.com/ClontFont).
+*   [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://www.linkedin.com/in/hubertpalan/).
+*   [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.linkedin.com/in/clint-fontanella-973271140/).
 
 ### Books / Screeb
 
@@ -39,7 +39,7 @@
 
 ### Applications / Observability
 
-*   [avito-tech/bioyino (⭐206)](https://github.com/avito-tech/bioyino) — A high-performance scalable StatsD compatible server.
+*   [avito-tech/bioyino (⭐210)](https://github.com/avito-tech/bioyino) — A high-performance scalable StatsD compatible server.
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

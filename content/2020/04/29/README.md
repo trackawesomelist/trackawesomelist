@@ -451,7 +451,7 @@
 
 ### Text
 
-*   [CodeMirror Swift (⭐85)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
+*   [CodeMirror Swift (⭐88)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
 
 ## [14. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -527,10 +527,6 @@
 *   [Scott Selisker](http://u.arizona.edu/\~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
 
 ## [17. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
-
-### Archives and primary sources / Europe
-
-*   [CENDARI](https://archives.cendari.dariah.eu/) - Search engine for libraries containing resources on the Medieval era and World War One.
 
 ### Archives and primary sources / Germany
 

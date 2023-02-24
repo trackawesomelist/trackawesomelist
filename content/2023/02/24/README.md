@@ -1,12 +1,18 @@
 # Awesome List Updates on Feb 24, 2023
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Websites
+
+*   [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
+
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Newsletter
 
@@ -49,7 +55,7 @@
 *   [GoodExtensions-iOS (⭐15)](https://github.com/GoodRequest/GoodExtensions-iOS) - 📑 GoodExtensions is a collection of useful and frequently used extensions.
 *   [GoodUIKit (⭐16)](https://github.com/GoodRequest/GoodUIKit) - 📑 GoodUIKit is an extensions library filled with reusable UI snippets for faster and more efficient development.
 
-## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Architecture Patterns
 
@@ -63,17 +69,29 @@
 
 *   [VLC for iOS (⭐810)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
 
-## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Content Generation & Seo
+
+- Name: [Easy-Peasy.AI](https://easy-peasy.ai/?via=beth0)
+
+  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
+
+  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ### Customer Support
 
 - Name: [OneTone.ai](https://onetone.ai)
 
-  Title: OneTone.ai
+  Title: We Help Support Teams Communicate Faster and More Accurate.
 
   Description: OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -81,7 +99,7 @@
 
 - Name: [Rephrasee.com](https://rephrasee.com)
 
-  Title: Rephrasee.com – Easily Rephrase, Translate and Proofread
+  Title: Rephrasee.com – Easily Rephrase, Translate and Proofread.
 
   Description: This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology.
 
@@ -89,7 +107,7 @@
 
 
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -103,13 +121,13 @@
 
 *   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [TemplateTo](https://templateto.com) - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. Free plan comes with 450 PDFs/month and 3 templates.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 

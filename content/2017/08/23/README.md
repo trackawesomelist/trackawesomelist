@@ -43,7 +43,7 @@
 
 ### Events
 
-*   [Observable (⭐368)](https://github.com/roberthein/Observable) - The easiest way to observe values.
+*   [Observable (⭐367)](https://github.com/roberthein/Observable) - The easiest way to observe values.
 
 ### Images / Barcode
 
@@ -140,7 +140,7 @@
 
 ### Email
 
-*   [Maily (⭐680)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐683)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### Form Builder
 

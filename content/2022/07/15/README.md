@@ -26,7 +26,7 @@
 
 *   👍 [mito (⭐236)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL](http://opensource.franz.com/preamble.html).
     *   [mitho-auth (⭐17)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
-    *   [mito-attachment (⭐11)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
+    *   [mito-attachment (⭐12)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
 
 ### Websockets / Isomorphic web frameworks
 
@@ -63,7 +63,7 @@
 
 ### Others / Static site generators
 
-*   [coleslaw (⭐524)](https://github.com/kingcons/coleslaw) and its
+*   [coleslaw (⭐525)](https://github.com/kingcons/coleslaw) and its
     [coleslaw-cli (⭐6)](https://github.com/40ants/coleslaw-cli) - Flexible
     Lisp Blogware similar to Frog, Jekyll, or Hakyll. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -88,7 +88,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [H3 Viewer (⭐26)](https://github.com/clupasq/h3-viewer) - View/search Uber H3 (Hexagonal Hierarchical Spatial Index) cells on a map. ([Demo](https://wolf-h3-viewer.glitch.me/)) `Apache-2.0` `HTML5`
+*   [H3 Viewer (⭐27)](https://github.com/clupasq/h3-viewer) - View/search Uber H3 (Hexagonal Hierarchical Spatial Index) cells on a map. ([Demo](https://wolf-h3-viewer.glitch.me/)) `Apache-2.0` `HTML5`
 
 ### Software / Software Development - Testing
 

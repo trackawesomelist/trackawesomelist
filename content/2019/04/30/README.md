@@ -81,7 +81,7 @@
 
 ### Open Source / Other
 
-*   [Unsplash Wallpapers (⭐262)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+*   [Unsplash Wallpapers (⭐268)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
 ## [12. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 

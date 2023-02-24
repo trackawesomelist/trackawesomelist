@@ -56,7 +56,7 @@
 
 ### Job Scheduler
 
-*   [cdule (⭐32)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
+*   [cdule (⭐34)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 
 ### Morphological Analyzers
 

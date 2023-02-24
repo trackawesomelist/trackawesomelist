@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,13 +25,7 @@
 
 *   [Prism (⭐5.5k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### ORM / Database / Datamapping
-
-*   [JeremyHarris/LazyLoad plugin (⭐62)](https://github.com/jeremyharris/cakephp-lazyload) - An association lazy loader for entities.
-
-## [5. Typography](/content/deanhume/typography/README.md)
+## [4. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
@@ -43,7 +37,7 @@
 
 *   [Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display)
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Filesystem / Web
 
@@ -58,13 +52,13 @@
 *   [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *Note: lua.ahk and lua\_ahkfunctions.ahk can be found [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
 *   [PAHK](https://code.google.com/archive/p/pahk) - Forum thread: [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 
-## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Native
 
 *   [JavaCPP (⭐3.9k)](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
 
-## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Domain Analysis / Other Resources
 
@@ -73,7 +67,7 @@
 *   [TekDefense Automater](http://www.tekdefense.com/automater/) - OSINT tool
     for gathering information about URLs, IPs, or hashes.
 
-## [9. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [8. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Clocks
 
@@ -83,13 +77,13 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fractalClock.png)](http://www.dqd.com/\~mayoff/programs/FractalClock/)
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Apps
 
 *   [GFXBench 5](https://kishonti.net/news_single.jsp?id=31133884) - by Kishonti.
 
-## [11. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Science and Data Analysis
 

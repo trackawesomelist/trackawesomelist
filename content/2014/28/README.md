@@ -320,7 +320,7 @@
 
 ### Packages / Filesystem
 
-*   [cpy (⭐383)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐384)](https://github.com/sindresorhus/cpy) - Copy files.
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 *   [globby (⭐2.2k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
@@ -330,16 +330,16 @@
 
 ### Packages / Image
 
-*   [sharp (⭐24k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-*   [image-type (⭐326)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
-*   [gm (⭐6.7k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
+*   [sharp (⭐25k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+*   [image-type (⭐329)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+*   [gm (⭐6.8k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐2.9k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐532)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐106)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐128)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [escape-string-regexp (⭐536)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐108)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [strip-indent (⭐127)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -347,17 +347,17 @@
 
 ### Packages / Humanize
 
-*   [pretty-bytes (⭐943)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐894)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-bytes (⭐977)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+*   [pretty-ms (⭐903)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 *   [pretty-error (⭐1.5k)](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 
 ### Packages / Network
 
-*   [get-port (⭐771)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐776)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Node.js management
 
-*   [nave (⭐1.5k)](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
+*   [nave (⭐1.6k)](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 
 ### Packages / Weird
 
@@ -370,7 +370,7 @@
 
 ### Resources / Tutorials
 
-*   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
+*   [The Art of Node (⭐9.6k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 
 ### Resources / Videos
 

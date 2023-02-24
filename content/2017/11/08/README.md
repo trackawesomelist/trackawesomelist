@@ -32,7 +32,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [quri (⭐97)](https://github.com/fukamachi/quri) - Another URI library for
+*   [quri (⭐96)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -64,7 +64,7 @@
 
 ### HTTP
 
-*   [raxx (⭐394)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+*   [raxx (⭐395)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ### Third Party APIs
 

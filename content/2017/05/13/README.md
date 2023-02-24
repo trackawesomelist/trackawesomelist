@@ -78,7 +78,7 @@
 
 ### Task management
 
-*   [cake (⭐65)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
+*   [cake (⭐66)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 

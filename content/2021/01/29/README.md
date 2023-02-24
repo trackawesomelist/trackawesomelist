@@ -10,11 +10,11 @@
 
 ### Artificial Intelligence
 
-*   [oneDNN (⭐3k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
+*   [oneDNN (⭐3.1k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 
 ### Machine Learning
 
-*   [oneDAL (⭐537)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐540)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
 ## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -98,7 +98,7 @@ Language: English, 中文
 
 ### Projects / Godot 3.2+
 
-*   [ProtonGraph (⭐912)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐924)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -134,7 +134,7 @@ Language: English, 中文
 
 ### Tools / Testing Tools
 
-*   [generator-eslint (⭐172)](https://github.com/eslint/generator-eslint) - Generate ESLint
+*   [generator-eslint (⭐182)](https://github.com/eslint/generator-eslint) - Generate ESLint
     plugin and rules with [Yeoman](http://yeoman.io/).
 
 ## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)

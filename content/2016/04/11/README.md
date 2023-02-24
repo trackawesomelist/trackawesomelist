@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,26 +18,20 @@
 
 *   [Restbed (⭐1.8k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Development Environment
-
-*   [PhpStorm plugin (⭐7)](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE.
-
-## [4. Awesome Math](/content/rossant/awesome-math/README.md)
+## [3. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Misc
 
 *   [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
 *   [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
 
-## [5. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
+## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
 ### Programming Languages / C/C++
 
 *   [What are the valid signatures for C's main() function? ](http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
 
-## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / General Overviews
 
@@ -117,13 +111,13 @@
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
 *   [visNetwork (⭐483)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 
 *   [observer\_cli (⭐1.2k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 
-## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Tutorials
 

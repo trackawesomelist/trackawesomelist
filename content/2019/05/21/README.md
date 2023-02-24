@@ -16,7 +16,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐354)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐358)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Open Source / Other
 
-*   [Tockler (⭐694)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Tockler (⭐707)](https://github.com/MayGo/tockler) - Tracks your time.
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Front-End Development
 
-*   [Storybook (⭐310)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐313)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ## [8. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -102,11 +102,11 @@
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐661)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐670)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Web Application Framework
 
-*   [Drogon (⭐8.6k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
+*   [Drogon (⭐8.7k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
 
 ## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

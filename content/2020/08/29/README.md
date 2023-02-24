@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -66,26 +66,20 @@
 
 *   [vue-lazy (⭐4)](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Miscellaneous
-
-*   [Inertia plugin (⭐28)](https://github.com/ishanvyas22/cakephp-inertiajs) - Server side adapter for Inertia.js.
-
-## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Carbon Reduction
 
 *   [Patch](https://www.usepatch.com) - Patch is the API for negative emissions. Developers can use Patch's API to make any transaction carbon neutral with a wide range of negative emission methods (e.g. direct air carbon capture, bio-oil geosequestration, enhanced weathering, reforestation and more).
 
-## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage consumption tools / Linux distributions
 
 *   [Deepin](https://www.deepin.org/en/) - When you double-click an AppImage or any other executable file that lacks execute permissions, a user-friendly dialog explains the situation and asks for your permission to set the execute permission and execute the executable.
 *   [Nitrux](https://nxos.org/) - Promotes the use of AppImage as the main format for getting applications, has a built in app center featuring AppImages.
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
@@ -95,20 +89,20 @@
 
 *   [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ\&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 
-## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
 *   [Elm patterns](http://sporto.github.io/elm-patterns/index.html) - A collection of common patterns in Elm.
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / CSS in JS
 
-*   [CSS-modules (⭐130)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
+*   [CSS-modules (⭐131)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 *   Styled Components
-    *   [Better Styled Components (⭐55)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
-    *   [styled-components-a11y (⭐108)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+    *   [Better Styled Components (⭐59)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
+    *   [styled-components-a11y (⭐117)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 23, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,13 +68,7 @@
 
 ### Queues and Messaging
 
-*   [Shoryuken (⭐1.9k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
-
-## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### ORM / Database / Datamapping
-
-*   [Money plugin (⭐6)](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money (⭐737)](https://github.com/sebastianbergmann/money).
+*   [Shoryuken (⭐2k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
 
 ---
 

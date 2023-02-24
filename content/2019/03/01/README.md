@@ -28,7 +28,7 @@
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐797)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐807)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ## [4. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 

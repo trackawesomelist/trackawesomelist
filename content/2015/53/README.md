@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2016
 
-25 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -178,25 +178,19 @@
 
 *   [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
 
-## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### SEO
-
-*   [Seo plugin (⭐7)](https://github.com/orgasmicnightmare/cakephp-seo) - Auto-creates and manages your SEO tags.
-
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
@@ -206,17 +200,17 @@
 
 *   [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
-*   [BDE (⭐1.4k)](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. \[Apache2]
+*   [BDE (⭐1.5k)](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. \[Apache2]
 
 ### Game Engine
 
 *   [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. \[MIT]
 
-## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -272,7 +266,7 @@
 
 *   [BroYara (⭐32)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
 
-## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / P individuals
 
@@ -282,7 +276,7 @@
 
 *   Robin Wilson <http://blog.rtwilson.com/>
 
-## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Fuzz Testing
 

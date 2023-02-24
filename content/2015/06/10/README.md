@@ -1,31 +1,25 @@
 # Awesome List Updates on Jun 10, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### ORM / Database / Datamapping
-
-*   [PersistRelatedData plugin (⭐12)](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
-
-## [2. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [1. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### *Basics*
 
 *   [hsenv (⭐122)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 *   [Stack (⭐3.8k)](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
 
-## [3. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### data
 
 *   [strava-geojson (⭐26)](https://github.com/tmcw/strava-geojson): export *all* strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
 
-## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -102,13 +96,13 @@
 *   [sub (⭐1.7k)](https://github.com/basecamp/sub) - A delicious way to organize programs
 *   [ts (⭐53)](https://github.com/thinkerbot/ts) - A shell test script
 
-## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Web Development
 
 *   [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** \[10:14:37]
 
-## [6. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
+## [5. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
 ### :hammer_and_wrench:   Libraries and SDKs / Python
 
@@ -118,7 +112,7 @@
 
 *   [slack-scala-client (⭐183)](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
 
-## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Progress
 

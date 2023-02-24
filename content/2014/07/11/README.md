@@ -90,22 +90,22 @@
 
 ### Packages / Filesystem
 
-*   [cpy (⭐383)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐384)](https://github.com/sindresorhus/cpy) - Copy files.
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 *   [globby (⭐2.2k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
 ### Packages / Image
 
-*   [sharp (⭐24k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+*   [sharp (⭐25k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 
 ### Packages / Humanize
 
-*   [pretty-bytes (⭐943)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐894)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-bytes (⭐977)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+*   [pretty-ms (⭐903)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 
 ### Packages / Node.js management
 
-*   [nave (⭐1.5k)](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
+*   [nave (⭐1.6k)](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 
 ### Packages / Miscellaneous
 
@@ -113,7 +113,7 @@
 
 ### Resources / Tutorials
 
-*   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
+*   [The Art of Node (⭐9.6k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 
 ### Resources / Videos
 

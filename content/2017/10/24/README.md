@@ -10,7 +10,7 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clack-pretend (⭐11)](https://github.com/BnMcGn/clack-pretend) - a testing
+*   [clack-pretend (⭐12)](https://github.com/BnMcGn/clack-pretend) - a testing
     and debugging tool for clack. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [2. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)

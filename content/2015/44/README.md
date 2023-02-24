@@ -74,7 +74,7 @@
 
 ### Open Source / Other
 
-*   [MarkRight (⭐905)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
+*   [MarkRight (⭐904)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -459,7 +459,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Assets
 
-*   [Emoji (⭐446)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐445)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
@@ -471,18 +471,18 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### DevOps Tools
 
-*   [Backup (⭐4.7k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
+*   [Backup (⭐4.8k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
 *   [Chef (⭐7.1k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 *   [Logstash (⭐13k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 
 ### Documentation
 
-*   [grape-swagger (⭐1.1k)](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
+*   [grape-swagger (⭐1k)](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
 
 ### E-Commerce and Payments
 
 *   [Active Merchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
-*   [Solidus (⭐4.5k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
+*   [Solidus (⭐4.6k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 
 ### Ebook
 
@@ -506,7 +506,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### PDF
 
-*   [CombinePDF (⭐645)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐652)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ### Search
 
@@ -514,7 +514,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Third-party APIs
 
-*   [Pusher (⭐654)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐655)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [31. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
@@ -640,17 +640,17 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Packages / Filesystem
 
-*   [find-up (⭐508)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-*   [load-json-file (⭐224)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-*   [write-json-file (⭐202)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+*   [find-up (⭐511)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [load-json-file (⭐225)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+*   [write-json-file (⭐206)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐298)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐300)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐296)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐297)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 
@@ -658,7 +658,7 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 ### Packages / Process management
 
-*   [PM2 (⭐38k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
+*   [PM2 (⭐39k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
 
 ### Packages / Miscellaneous
 

@@ -93,7 +93,7 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐841)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐844)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

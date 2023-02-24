@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [datafusion (⭐3.1k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐3.2k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Libraries / Web programming
 
@@ -35,7 +35,7 @@
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐35)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐36)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Authentication / Multi-Factor
 
-*   [Kanidm (⭐1.2k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
+*   [Kanidm (⭐1.3k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
 
 ### Trust & Safety / User Identity
 

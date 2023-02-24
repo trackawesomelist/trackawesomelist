@@ -16,7 +16,7 @@
 
 ### Apps / Media
 
-*   [Wagtail FilePreviews (⭐21)](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
+*   [Wagtail FilePreviews (⭐22)](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
 
 ## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
 

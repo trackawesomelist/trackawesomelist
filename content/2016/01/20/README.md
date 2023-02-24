@@ -381,16 +381,16 @@
 
 ## [25. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [OPCUA](https://opcfoundation.org/) - OPC Unified Architecture (OPC UA) is an industrial M2M communication protocol for interoperability developed by the OPC Foundation.
 
-### Alliances / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/) - The mission of the OPC Foundation is to manage a global organization in which users, vendors and consortia collaborate to create data transfer standards for multi-vendor, multi-platform, secure and reliable interoperability in industrial automation. To support this mission, the OPC Foundation
     creates and maintains specifications, ensures compliance with OPC specifications via certification testing and collaborates with industry-leading standards organizations.
 
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 
@@ -447,7 +447,7 @@
 
 ### Protocols
 
-*   [ex\_marshal (⭐37)](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
+*   [ex\_marshal (⭐38)](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 
 ## [32. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

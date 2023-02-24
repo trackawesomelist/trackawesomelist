@@ -185,7 +185,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐728)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐734)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

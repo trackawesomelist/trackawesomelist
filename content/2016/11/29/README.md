@@ -74,7 +74,7 @@
 
 ### Packages / Job queues
 
-*   [idoit (⭐66)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
+*   [idoit (⭐67)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

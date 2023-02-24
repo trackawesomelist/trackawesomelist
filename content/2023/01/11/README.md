@@ -94,8 +94,8 @@
 
 ### GUI
 
-*   [david-vanderson/gui (⭐41)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
-*   [Aransentin/ZWL (⭐82)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
+*   [david-vanderson/gui (⭐43)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
+*   [Aransentin/ZWL (⭐84)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
 *   [prime31/zig-upaya (⭐119)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 
 ### Other / Package managers
@@ -106,7 +106,7 @@
 
 ### Text processing
 
-*   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
+*   [pcre2 (⭐3)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -124,11 +124,11 @@
 
 ## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
-### Microkernels / OpenVPN
+### Kernels / Microkernels
 
 *   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 
-### Training and Materials / OpenVPN
+### Training and Materials / Web articles
 
 *   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
@@ -148,8 +148,8 @@
 
 ### Search / Diagnostics
 
-*   [s1n7ax/nvim-search-and-replace (⭐28)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
-*   [roobert/search-replace.nvim (⭐100)](https://github.com/roobert/search-replace.nvim) - Brings better features to the native search and replace experience.
+*   [s1n7ax/nvim-search-and-replace (⭐29)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
+*   [roobert/search-replace.nvim (⭐105)](https://github.com/roobert/search-replace.nvim) - Brings better features to the native search and replace experience.
 
 ### File Explorer / Diagnostics
 
@@ -158,7 +158,7 @@
 
 ### Utility / Diagnostics
 
-*   [j-morano/buffer\_manager.nvim (⭐64)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+*   [j-morano/buffer\_manager.nvim (⭐65)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
 
 ### Editing Support / Diagnostics
 

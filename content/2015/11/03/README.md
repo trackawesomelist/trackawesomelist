@@ -48,7 +48,7 @@
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐312)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐313)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Queue
 

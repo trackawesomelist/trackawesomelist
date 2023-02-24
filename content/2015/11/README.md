@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16 - Mar 22, 2015
 
-12 awesome lists updated this week.
+11 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,19 +64,13 @@
 
 *   [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### File Manipulation
-
-*   [Proffer plugin (⭐122)](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
-
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Emails
 
 *   [postal (⭐555)](https://github.com/drewr/postal)
 
-## [9. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [8. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### General
 
@@ -95,11 +89,11 @@
 
 *   [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
-*   [pooler (⭐278)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐277)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -115,11 +109,11 @@
 
 ### ECMAScript
 
-*   [estree (⭐97)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐98)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
-*   [mailman (⭐193)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
+*   [mailman (⭐194)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
 
 ### Eventhandling
 
@@ -127,8 +121,8 @@
 
 ### Framework Components
 
-*   [corsica (⭐464)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐384)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐467)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐388)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐164)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -142,7 +136,7 @@
 
 ### ORM and Datamapping
 
-*   [eredis (⭐616)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐618)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐11)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 *   [mariaex (⭐259)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 
@@ -152,7 +146,7 @@
 
 ### Testing
 
-*   [white\_bread (⭐214)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
+*   [white\_bread (⭐215)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
 
 ### Text and Numbers
 
@@ -169,7 +163,7 @@
 
 *   [BEAM Community](http://beamcommunity.github.io/) - From distributed systems, to robust servers and language design on the Erlang VM.
 
-## [11. Typography](/content/deanhume/typography/week/README.md)
+## [10. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -177,7 +171,7 @@
 *   [Scale & Rhythm in Typography](http://lamb.cc/typograph/)
 *   [Typographic Scale](http://retinart.net/typography/typographicscale/)
 
-## [12. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [11. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 

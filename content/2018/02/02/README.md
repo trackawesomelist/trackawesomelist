@@ -51,7 +51,7 @@
 
 ### Open Source / Other
 
-*   [Nuclear (⭐9.7k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐9.8k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### Community / Other
 

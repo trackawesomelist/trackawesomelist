@@ -88,7 +88,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐308)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐322)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -103,9 +103,9 @@
 ### Stub packages
 
 *   [botostubs (⭐94)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [data-science-types (⭐193)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐22k)](http://github.com/numpy/numpy), [pandas (⭐36k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib).
+*   [data-science-types (⭐194)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐23k)](http://github.com/numpy/numpy), [pandas (⭐37k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib).
 *   [PyQt5-stubs (⭐62)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐516)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.4k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [sqlalchemy-stubs (⭐531)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.7k)](https://github.com/sqlalchemy/sqlalchemy).
 
 ### Backports and improvements
 
@@ -113,27 +113,27 @@
 
 ### Tools / Linters
 
-*   [flake8-pyi (⭐55)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
+*   [flake8-pyi (⭐59)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐217)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐219)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [merge-pyi (⭐4k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
-*   [mypy-silent (⭐8)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
+*   [merge-pyi (⭐4.1k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [mypy-silent (⭐10)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [pytest-annotate (⭐100)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
+*   [pytest-annotate (⭐104)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐36)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [typilus (⭐47)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
+*   [typilus (⭐47)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐41)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
 *   [loguru-mypy (⭐13)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐14k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐1)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.1k)](https://github.com/pynamodb/PynamoDB) support.
+*   [pynamodb-mypy (⭐2)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.1k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
@@ -154,8 +154,8 @@
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐222)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐38)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐228)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐41)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

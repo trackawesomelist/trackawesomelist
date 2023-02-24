@@ -21,12 +21,12 @@
 
 ### Community Extensions
 
-*   [Identity Provider for vk.com (⭐7)](https://github.com/mrk08/keycloak-vk)
+*   [Identity Provider for vk.com (⭐8)](https://github.com/mrk08/keycloak-vk)
 
 ### Example Projects
 
 *   [Example for Securing Apps with Keycloak on Kubernetes (⭐57)](https://github.com/stianst/demo-kubernetes)
-*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐37)](https://github.com/thomasdarimont/kc-dnc-demo)
+*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐38)](https://github.com/thomasdarimont/kc-dnc-demo)
 
 ## [3. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -68,12 +68,12 @@
 
 ### Math
 
-*   [SymEngine (⭐934)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐939)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
 *   [cpp-netlib/uri (⭐129)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[BSL-1.0]
-*   [uriparser (⭐264)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [uriparser (⭐266)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ---
 

@@ -99,7 +99,7 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐86)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐87)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 

@@ -115,7 +115,7 @@
 
 ### Markdown Processors
 
-*   [word-to-markdown (⭐1.3k)](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
+*   [word-to-markdown (⭐1.4k)](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
 
 ## [15. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
@@ -283,7 +283,7 @@ git clean -fd --dry-run
 
 ### Algorithms and Data structures
 
-*   [exconstructor (⭐262)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
+*   [exconstructor (⭐263)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 
 ### Email
 

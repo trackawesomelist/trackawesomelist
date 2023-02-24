@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16 - May 22, 2016
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.5k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐4.6k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -140,7 +140,7 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐639)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
+    *   [llogiq/flame (⭐640)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
     *   [mrhooray/torch (⭐125)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
@@ -322,13 +322,7 @@
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐5.7k)](https://github.com/aws/aws-sdk-php)
 
-## [20. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### REST and API
-
-*   [ApiPagination plugin (⭐40)](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
-
-## [21. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [20. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Eddystone by Google
 
@@ -352,7 +346,7 @@
 
 *   [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
 
-## [22. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [21. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### List of Lists
 
@@ -624,7 +618,7 @@
 
 
 
-## [23. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / Custom Controls
 
@@ -663,7 +657,7 @@
 
 *   [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
-## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Domain Analysis / Other Resources
 
@@ -701,19 +695,19 @@
     This package contains most of the software referenced in the Practical Malware
     Analysis book.
 
-## [25. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [24. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
 *   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 
-## [26. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [25. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Libraries & Packages
 
 *   [`react-relay-network-layer`](https://github.com/nodkz/react-relay-network-layer) - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
 
-## [27. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [26. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Databases / Scala
 
@@ -723,7 +717,7 @@
 
 *   [Say Hello to Offline-First](https://www.youtube.com/watch?v=nNfaxNdyCgI) By Ola Gasidlo
 
-## [28. Tips](/content/git-tips/tips/week/README.md)
+## [27. Tips](/content/git-tips/tips/week/README.md)
 
 ## Change previous two commits with an interactive rebase.
 
@@ -731,33 +725,33 @@
 git rebase --interactive HEAD~2
 ```
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [28. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Featured
 
-*   [Min (⭐6.3k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐6.4k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
-*   [Mattermost (⭐1.7k)](https://github.com/mattermost/desktop) - Mattermost client.
+*   [Mattermost (⭐1.8k)](https://github.com/mattermost/desktop) - Mattermost client.
 
 ### Boilerplates / Other
 
 *   [electron-quick-start (⭐10k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 
-## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Apache APEX](https://apex.apache.org/) - a unified, enterprise platform for big data stream and batch processing.
 
-## [31. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [30. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
 *   [libmir](https://github.com/libmir) - D's numeric library development team
 
-## [32. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [31. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
@@ -767,7 +761,7 @@ git rebase --interactive HEAD~2
 *   [gulp-ava (⭐56)](https://github.com/avajs/gulp-ava) - Run tests with Gulp.
 *   [grunt-ava (⭐7)](https://github.com/avajs/grunt-ava) - Run tests with Grunt.
 
-## [33. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [32. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Tutorials
 
@@ -784,14 +778,14 @@ git rebase --interactive HEAD~2
 
 *   [DeepMind QA Corpus (⭐1.3k)](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
 
-## [34. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [33. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
 *   [haxor-news (⭐3.8k)](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 *   [Reddit Terminal Viewer (⭐4.6k)](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 
-## [35. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -821,19 +815,19 @@ git rebase --interactive HEAD~2
 *   [With GC Solved, What Else Makes a JVM Pause?](https://www.youtube.com/watch?v=Y39kllzX1P8) - John Cuthbertson.
 *   [JVM Mechanics](https://vimeo.com/120533011) - Douglas Hawkins.
 
-## [36. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [35. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Miscellaneous
 
 *   [JMDUnoconvBundle (⭐0)](https://github.com/mops1k/JMDUnoconvBundle) - Bundle which provides gate for converting files from one format to another via unoconv (LibreOffice) thru php-unoconv library.
 
-## [37. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [36. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
 
-## [38. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [37. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Machine Learning
 
@@ -847,7 +841,7 @@ The book is organized as a step-by-step practical guide to using R. Starting wit
 
 The book pragmatically introduces both the quantitative finance concepts and their modeling in R, enabling you to build a tailor-made trading system on your own. By the end of the book, you will be well versed with various financial techniques using R and will be able to place good bets while making financial decisions.
 
-## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -877,13 +871,13 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [exsolr (⭐21)](https://github.com/dcarneiro/exsolr) - A Solr wrapper written in Elixir.
 
-## [40. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [39. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Articles
 
 *   [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) - Benefits of using Observables everywhere.
 
-## [41. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [40. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -893,7 +887,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [GraphX](https://spark.apache.org/graphx/) - [Apache Spark](https://spark.apache.org/) module to perform graph-related parallel computation.
 
-## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -910,7 +904,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐633)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐635)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -918,11 +912,11 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐510)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐513)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### HTML / Barcode
 
-*   [Fuzi (⭐996)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
+*   [Fuzi (⭐1k)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 
 ### Menu / Barcode
 
@@ -932,7 +926,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [SwiftTweaks (⭐1.4k)](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.
 
-## [43. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [42. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -946,7 +940,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [RxKotlin/Pocket (⭐30)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 
-## [44. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [43. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Tutorials and articles
 
@@ -1014,7 +1008,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 *   [A Better Router for Backbone and Marionette Applications (⭐70)](https://github.com/Betterment/backbone.blazer)
 *   [Marionette.Toolkit (⭐69)](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
 
-## [45. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [44. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -1045,7 +1039,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 *   [VLC MQTT Module](https://wiki.videolan.org/Documentation:Modules/mqtt/) - Control VLC via MQTT.
 *   [xbmc2mqtt (⭐5)](https://github.com/gordonjcp/xbmc-mqtt) - A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message.
 
-## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
@@ -1055,7 +1049,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [Doom](https://en.wikipedia.org/wiki/Doom_\(2016_video_game\)) - by id Software.
 
-## [47. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [46. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 

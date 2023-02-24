@@ -10,7 +10,7 @@
 
 ### Big Data
 
-*   [Splunk (⭐92)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+*   [Splunk (⭐94)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

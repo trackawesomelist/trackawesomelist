@@ -40,7 +40,7 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐757)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐761)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -48,7 +48,7 @@
 
 ### Queues and Messaging
 
-*   [Gush (⭐987)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
+*   [Gush (⭐992)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 
 ## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -84,11 +84,11 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐246)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐247)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐101)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐104)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

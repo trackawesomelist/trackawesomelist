@@ -169,7 +169,7 @@
 
 ### Utility / Barcode
 
-*   [SpriteKit+Spring (⭐242)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
+*   [SpriteKit+Spring (⭐243)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Date and Time Processing
 
-*   [biz (⭐470)](https://github.com/zendesk/biz) - Time calculations using business hours.
+*   [biz (⭐469)](https://github.com/zendesk/biz) - Time calculations using business hours.
 
 ## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

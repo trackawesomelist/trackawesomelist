@@ -16,8 +16,8 @@
 
 ### Open Source / Other
 
-*   [Mouseless (⭐112)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
-*   [Glyphfinder (⭐122)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+*   [Mouseless (⭐113)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+*   [Glyphfinder (⭐125)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

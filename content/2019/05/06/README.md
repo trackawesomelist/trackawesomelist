@@ -50,7 +50,7 @@
 ### Community Extensions
 
 *   [CAS Protocol Support (⭐67)](https://github.com/Doccrazy/keycloak-protocol-cas)
-*   [WS-FED Support (⭐32)](https://github.com/cloudtrust/keycloak-wsfed)
+*   [WS-FED Support (⭐33)](https://github.com/cloudtrust/keycloak-wsfed)
 
 ### Integrations
 
@@ -58,8 +58,8 @@
 
 ### Kubernetes
 
-*   [Deprecated Keycloak Helm Chart (⭐523)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
-*   [codecentric Keycloak Helm Chart (⭐523)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [Deprecated Keycloak Helm Chart (⭐528)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
+*   [codecentric Keycloak Helm Chart (⭐528)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 
 ## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

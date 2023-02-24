@@ -16,7 +16,7 @@
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐434)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐441)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -80,13 +80,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐320)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐328)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Jire/Strukt (⭐71)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [Jire/Strukt (⭐72)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐47)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐50)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -120,7 +120,7 @@
 
 ### SVG / Barcode
 
-*   [SVGView (⭐273)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐294)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

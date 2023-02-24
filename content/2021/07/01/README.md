@@ -22,8 +22,7 @@
 
 ### Miscellaneous
 
-*   :strawberry: [CakeDC/Enum plugin (⭐27)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
-*   [LinkScanner plugin (⭐2)](https://github.com/mirko-pagliai/cakephp-link-scanner) - A plugin for recursively scanning links.
+*   [CakeDC/Enum plugin (⭐27)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐8.1k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐8.2k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Queues and Messaging
 
-*   [NATS.io (⭐40)](https://github.com/nats-io/nats.cr) - NATS client
+*   [NATS.io (⭐41)](https://github.com/nats-io/nats.cr) - NATS client
 
 ## [18. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Hauk (⭐449)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐449)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
+*   [Hauk (⭐460)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐460)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 
 ## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -147,14 +147,14 @@
 
 ### Deployment Tools / Newsletters
 
-*   [morph (⭐559)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
+*   [morph (⭐571)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
-*   [rsuite-table (⭐617)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
+*   [rsuite-table (⭐629)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 
 ### Chart
 
@@ -249,7 +249,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐438)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐451)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [34. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -440,7 +440,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐153)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐157)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [42. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -515,7 +515,7 @@
 
 ### Phone Numbers / Barcode
 
-*   [NKVPhonePicker (⭐140)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
+*   [NKVPhonePicker (⭐141)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 
 ## [47. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 

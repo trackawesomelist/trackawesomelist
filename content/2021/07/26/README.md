@@ -16,7 +16,7 @@
 
 ### CLI
 
-*   [jbock (⭐75)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
+*   [jbock (⭐76)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
 
 ### Utility / Mocking
 
@@ -26,7 +26,7 @@
 
 ### Action
 
-*   [Rigel Engine (⭐752)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
+*   [Rigel Engine (⭐758)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 
 ### Online
 
@@ -180,11 +180,11 @@
 ### IR Tools Collection / Incident Management
 
 *   [DFTimewolf (⭐225)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
-*   [Shuffle (⭐861)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
+*   [Shuffle (⭐877)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 
 ### IR Tools Collection / Other Tools
 
-*   [Raccine (⭐850)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+*   [Raccine (⭐854)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
 *   [sysmon-config (⭐3.9k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 *   [sysmon-modular (⭐2.1k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 

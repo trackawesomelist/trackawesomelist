@@ -71,7 +71,7 @@
 
 ### Debug
 
-*   [μt (⭐969)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
+*   [μt (⭐981)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
 
 ## [8. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -212,7 +212,7 @@
 
 ### Design and Product / Other Tools
 
-*   [PicGo (⭐19k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
+*   [PicGo (⭐20k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
 *   [uPic (⭐3k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
 ## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
@@ -240,7 +240,39 @@
 
 *   [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 
-## [28. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+
+### Testing
+
+*   [CakePHP Codeception module](https://github.com/cakephp/codeception) - The official CakePHP integration with [Codeception](https://codeception.com).
+
+### Demo
+
+*   [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
+
+### Help
+
+*   [Official CakePHP Forum](https://discourse.cakephp.org/) - This is for generic questions and alike.
+*   [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
+*   [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
+
+### CakePHP Websites
+
+*   [dereuromark.de](https://www.dereuromark.de) - An extensive CakePHP core dev blog.
+
+### CakePHP Reading and Listening
+
+*   [CakePHP Cookbook(!)](https://book.cakephp.org/) - The official CakePHP documentation.
+
+### Official
+
+*   [cakefest.org](https://cakefest.org/) - Annual CakePHP Conference.
+
+### MeetUps
+
+*   [CakePHP-DE](https://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
+
+## [29. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / DNS - Domain Management
 
@@ -250,7 +282,7 @@
 
 *   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3k)](https://github.com/glpi-project/glpi))
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
@@ -260,7 +292,7 @@
 
 *   [snipt (⭐66)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 
-## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Frameworks
 
@@ -275,7 +307,7 @@
 *   [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 *   [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
 
-## [31. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [32. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Self-hosted VPNs
 
@@ -318,7 +350,7 @@
 
 *   [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
 
-## [32. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [33. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Themes / Ruby
 
@@ -328,7 +360,7 @@
 
 *   [TracerBench (⭐220)](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
@@ -344,7 +376,7 @@
 *   [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
 *   [Twitter](https://twitter.com/flutterNorway)
 
-## [34. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [35. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Import tools / Hooks
 
@@ -355,26 +387,26 @@
 *   [DBeaver](https://dbeaver.com/databases/influxdb/) - DBeaver Universal Database Tool, DBeaver Enterprise has special extensions for InfluxDB
 *   [InfluxDB Studio (⭐746)](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
 
-## [35. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [36. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
 *   [lockfile-lint (⭐690)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
-## [36. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [37. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Producers / JavaScript
 
 *   [zora (⭐482)](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
 
-## [37. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
+## [38. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
 ### Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings
 
 *   [Microsoft.CodeAnalysis.Testing (⭐415)](https://github.com/dotnet/roslyn-sdk/tree/master/src/Microsoft.CodeAnalysis.Testing) - Library for testing analyzers and code fixes with NUnit, xUnit and MSTest frameworks. A part of [Roslyn SDK (⭐415)](https://github.com/dotnet/roslyn-sdk).
 *   [RoslynTestKit (⭐18)](https://github.com/cezarypiatek/RoslynTestKit) - Lightweight framework for writing unit tests for analyzers, code fixes, refactorings, and completion providers. It's unit testing framework agnostic.
 
-## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Transportation
 
@@ -389,62 +421,6 @@
   CORS: No
 
 
-
-## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Markup
-
-*   [Gourmet/CommonMark plugin (⭐10)](https://github.com/gourmet/common-mark) - Adds [CommonMark](https://commonmark.org/) Markdown parsing.
-
-### Migration
-
-*   [Upgrade/Migration Guide](https://book.cakephp.org/3.0/en/appendices.html) - Official migration guide.
-
-### REST and API
-
-*   [CrudJsonApi plugin (⭐49)](https://github.com/FriendsOfCake/crud-json-api) - Crud listener for building [JSON API](https://jsonapi.org/) compliant APIs.
-
-### Templating
-
-*   [CommonMark plugin (⭐10)](https://github.com/gourmet/common-mark) - Adds [CommonMark](https://commonmark.org) (markdown) support to models and views.
-
-### Testing
-
-*   [CakePHP Codeception module (⭐46)](https://github.com/cakephp/codeception) - The official CakePHP integration with [Codeception](https://codeception.com).
-
-### Third Party APIs
-
-*   [Jira plugin (⭐3)](https://github.com/fr3nch13/cakephp-jira) - Provides a helper to allow access to Jira's REST API using [lesstif/php-jira-rest-client (⭐478)](https://github.com/lesstif/php-jira-rest-client) as the Vendor. Currently read-only access.
-
-### Demo
-
-*   [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
-
-### Help
-
-*   [Official CakePHP Forum](https://discourse.cakephp.org/) - This is for generic questions and alike.
-*   [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
-*   [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
-
-### CakePHP Websites
-
-*   [dereuromark.de](https://www.dereuromark.de) - An extensive CakePHP core dev blog.
-
-### CakePHP Tutorials
-
-*   [Official Blog tutorial](https://book.cakephp.org/3.0/en/tutorials-and-examples/blog/blog.html)
-
-### CakePHP Reading and Listening
-
-*   [CakePHP Cookbook(!)](https://book.cakephp.org/) - The official CakePHP documentation.
-
-### Official
-
-*   [cakefest.org](https://cakefest.org/) - Annual CakePHP Conference.
-
-### MeetUps
-
-*   [CakePHP-DE](https://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 
 ## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -489,20 +465,20 @@
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐252)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
-*   [Tailwind CSS (⭐10k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
+*   [WordPress-Gatsby (⭐251)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [Tailwind CSS (⭐11k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Big Data
 
-*   [Qlik (⭐34)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐35)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Gaming
 
-*   [PlayCanvas (⭐190)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐195)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ### Health and Social Science
 
-*   [Digital History (⭐162)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐164)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [46. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 

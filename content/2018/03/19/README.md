@@ -96,7 +96,7 @@
 
 ### CMS
 
-*   [Fae (⭐809)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐820)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

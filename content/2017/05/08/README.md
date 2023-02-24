@@ -24,7 +24,7 @@
 
 ### Logging and monitoring
 
-*   [statsd.cr (⭐31)](https://github.com/miketheman/statsd.cr) - [Statsd (⭐17k)](https://github.com/etsy/statsd) client library
+*   [statsd.cr (⭐32)](https://github.com/miketheman/statsd.cr) - [Statsd (⭐17k)](https://github.com/etsy/statsd) client library
 
 ### Processes and Threads
 
@@ -71,7 +71,7 @@
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐484)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐487)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
@@ -83,7 +83,7 @@
 
 ### Protocols
 
-*   [Sippet (⭐63)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
+*   [Sippet (⭐62)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 
 ### Static Page Generation
 

@@ -22,7 +22,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐758)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐761)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Cards / Barcode
 
-*   [CardNavigation (⭐41)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
+*   [CardNavigation (⭐43)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
 
 ## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

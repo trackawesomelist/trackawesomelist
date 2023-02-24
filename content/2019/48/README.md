@@ -380,7 +380,7 @@
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐257)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

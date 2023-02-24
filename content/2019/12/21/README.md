@@ -470,7 +470,7 @@
 
 ### Modules / Utils
 
-*   [deno-deamon (⭐12)](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
+*   [deno-deamon (⭐13)](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

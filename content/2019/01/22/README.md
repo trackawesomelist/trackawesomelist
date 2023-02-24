@@ -57,7 +57,7 @@
 
 ### Search / Other
 
-*   [Indexer4j (⭐47)](https://github.com/haeungun/indexer4j) - Simple and light full text indexing and searching library.
+*   [Indexer4j (⭐48)](https://github.com/haeungun/indexer4j) - Simple and light full text indexing and searching library.
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

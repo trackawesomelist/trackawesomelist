@@ -11,7 +11,7 @@
 ### Demos / Godot 3.2+
 
 *   [Godot Demo Projects (⭐2.9k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
-*   [TPS Demo (⭐699)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
+*   [TPS Demo (⭐705)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
 
 ### Plugins and scripts / Godot 3.2+
 
@@ -26,7 +26,7 @@
 
 ### Software / Middlewares
 
-*   [t6 (⭐29)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
+*   [t6 (⭐30)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

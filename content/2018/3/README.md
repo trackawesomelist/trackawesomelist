@@ -294,7 +294,7 @@
 
 ### Gesture
 
-*   [ShowTime (⭐459)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐462)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
@@ -304,7 +304,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐761)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐766)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -324,8 +324,7 @@
 
 ### Development Environment
 
-*   [Mixer (⭐45)](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
-*   [Oven (⭐139)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
+*   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
 ## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
@@ -362,7 +361,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐131)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐132)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
@@ -516,7 +515,7 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐249)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐251)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 
@@ -534,7 +533,7 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐184)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐186)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

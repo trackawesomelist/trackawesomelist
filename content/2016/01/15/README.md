@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,12 +78,6 @@
 ### Table of Contents / Tutorials
 
 *   [Keras and Lasagne Deep Learning Tutorials (⭐423)](https://github.com/Vict0rSch/deep_learning)
-
-## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Search
-
-*   [SphinxSearch plugin (⭐3)](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
 
 ---
 

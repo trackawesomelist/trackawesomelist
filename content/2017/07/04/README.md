@@ -50,7 +50,7 @@
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐12)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐188)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐191)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [7. Inspire](/content/noahbuscher/inspire/README.md)
 

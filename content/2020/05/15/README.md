@@ -23,7 +23,7 @@
 
 ### GUI
 
-*   [nuklear (⭐6.9k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
+*   [nuklear (⭐7k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
 
 ### Build Systems
 
@@ -1731,13 +1731,13 @@
 
 ### Tools / XML
 
-*   [velociraptor (⭐666)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
+*   [velociraptor (⭐668)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 
 ## [17. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Visual Effects
 
-*   [gdx-gltf (⭐157)](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
+*   [gdx-gltf (⭐159)](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 
 ## [18. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

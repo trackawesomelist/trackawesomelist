@@ -55,7 +55,7 @@
 
 ### Documentation / Symfony2
 
-*   [ReDoc (⭐19k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+*   [ReDoc (⭐20k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -257,7 +257,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Resources / Miscellaneous
 
-*   [Microsoft Node.js Guidelines (⭐2.4k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
+*   [Microsoft Node.js Guidelines (⭐2.5k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
 ## [27. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 

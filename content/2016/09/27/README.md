@@ -16,7 +16,7 @@
 
 ### Web Frameworks
 
-*   [Syro (⭐133)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐132)](https://github.com/soveran/syro/) - Simple router for web applications.
 
 ## [3. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

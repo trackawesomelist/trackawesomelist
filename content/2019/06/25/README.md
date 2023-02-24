@@ -45,7 +45,7 @@
 
 ### HTTP
 
-*   [sse.cr (⭐17)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
+*   [sse.cr (⭐18)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

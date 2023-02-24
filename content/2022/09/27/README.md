@@ -28,7 +28,7 @@ Installs: 2000 | Stars: 337 | Last update: n/a
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [spaceship-ocm (⭐0)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
 
@@ -51,13 +51,13 @@ Installs: 2000 | Stars: 337 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐6.1k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐31)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐36)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -69,7 +69,7 @@ Installs: 2000 | Stars: 337 | Last update: n/a
 
 ### Gaming
 
-*   [Open Source Games (⭐812)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐826)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

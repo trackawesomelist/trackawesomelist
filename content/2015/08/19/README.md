@@ -17,7 +17,7 @@
 
 ### Frameworks
 
-*   [OpenFrameworks (⭐9.2k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
+*   [OpenFrameworks (⭐9.3k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 

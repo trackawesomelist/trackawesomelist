@@ -38,7 +38,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐6.5k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
+*   [Homer (⭐6.6k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

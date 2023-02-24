@@ -91,7 +91,7 @@
 
 ### Documentation / Symfony2
 
-*   [ReDoc (⭐19k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+*   [ReDoc (⭐20k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

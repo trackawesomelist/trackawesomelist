@@ -365,8 +365,8 @@ git blame <file-name>
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐2.9k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-*   [atmo (⭐812)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [jscpd (⭐3k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [atmo (⭐814)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 ## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 

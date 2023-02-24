@@ -247,14 +247,14 @@
 
 ### Analytics
 
-*   [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 *   [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events.
+*   [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 
 ### Authentication & Identity
 
 *   [Auth0](https://auth0.com/) - Authentication & authorization as a service.
-*   [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 *   [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
+*   [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 
 ### Code Quality
 
@@ -262,8 +262,8 @@
 
 ### Deployment Hosting
 
-*   [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 *   [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
+*   [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 
 ### Media
 
@@ -302,15 +302,15 @@
 
 ### Packages / HTTP
 
-*   [smoke (⭐160)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+*   [smoke (⭐161)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 
 ### Packages / Testing
 
-*   [testcontainers-node (⭐995)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [testcontainers-node (⭐1.1k)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ### Packages / Automation
 
-*   [nut.js (⭐1.2k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+*   [nut.js (⭐1.5k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

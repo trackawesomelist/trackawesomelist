@@ -101,7 +101,7 @@
 
 ### Packages / Command-line apps
 
-*   [wifi-password (⭐275)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+*   [wifi-password (⭐278)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 
 ## [12. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
@@ -275,7 +275,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_mnesia (⭐237)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
+*   [ecto\_mnesia (⭐238)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 *   [ecto\_paging (⭐13)](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 
 ### Utilities

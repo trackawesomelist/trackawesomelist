@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [repeatex (⭐51)](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Imagery
-
-*   [Imagine plugin (⭐138)](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine (⭐4.3k)](https://github.com/avalanche123/Imagine).
-
-## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Computer Vision
 
@@ -39,7 +33,7 @@
 *   [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
 *   [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
 
-## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Web Server
 
@@ -52,25 +46,25 @@
 *   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
 *   [sysadmin (⭐15)](https://github.com/itech001/awesome-sysadmin)
 
-## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Methodologies
 
 *   [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** \[45:03]
 
-## [7. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
+## [6. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 
 ### GDC Talks / Table of Contents
 
 *   \[2014] [TwitchPlayedPokemon: An Analysis of the Experimental Interactive Phenomenon](http://gdcvault.com/play/1021438/): Alex Leavitt (USC)
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Editors / Runner
 
 *   [TinyMCE (⭐12k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 
-## [9. Awesome R](/content/qinwf/awesome-R/README.md)
+## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Database Management
 

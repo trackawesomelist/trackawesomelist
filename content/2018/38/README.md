@@ -163,15 +163,15 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐252)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐254)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
-*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐311)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
+*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐312)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐1.8k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP`
+*   [FreeScout (⭐1.9k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP`
 
 ## [19. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -249,7 +249,7 @@
 
 ### Pagination
 
-*   [Pagy (⭐3.9k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
 ## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -317,7 +317,7 @@
 
 ### Applications / Episodes
 
-*   [CANalyzat0r (⭐654)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
+*   [CANalyzat0r (⭐656)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
 ## [30. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -454,8 +454,8 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### Misc
 
-*   [Tuist (⭐3.1k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
-*   [xcodeproj (⭐1.7k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
+*   [Tuist (⭐3.2k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [xcodeproj (⭐1.8k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 

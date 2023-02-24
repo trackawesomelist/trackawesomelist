@@ -44,7 +44,7 @@
 
 ### Overview / YouTube
 
-*   [Invidious (⭐9.3k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
+*   [Invidious (⭐9.4k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
     *   Home page: <https://invidious.io>
     *   Invidious instances: <https://docs.invidious.io/instances/>
     *   Invidious instances API: <https://api.invidious.io>
@@ -54,15 +54,15 @@
 
 *   [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
     *   Official instance: <https://teddit.net>
-    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐181)](https://github.com/teddit-net/teddit#instances)
-    *   [Github mirror repository (⭐181)](https://github.com/teddit-net/teddit)
+    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐183)](https://github.com/teddit-net/teddit#instances)
+    *   [Github mirror repository (⭐183)](https://github.com/teddit-net/teddit)
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
 *   [Libreddit (⭐4.1k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
     *   Official instance: [libreddit.spike.codes](https://libreddit.spike.codes)
     *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐4.1k)](https://github.com/spikecodes/libreddit#instances)
 *   [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
-*   [Infinity (⭐2.7k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
+*   [Infinity (⭐2.8k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 *   [Slide (⭐1.7k)](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
@@ -73,16 +73,16 @@
 
 ### Overview / Google Search
 
-*   [Whoogle Search (⭐7k)](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
-    *   Public instances: [https://github.com/benbusby/whoogle-search#public-instances (⭐7k)](https://github.com/benbusby/whoogle-search#public-instances)
+*   [Whoogle Search (⭐7.1k)](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
+    *   Public instances: [https://github.com/benbusby/whoogle-search#public-instances (⭐7.1k)](https://github.com/benbusby/whoogle-search#public-instances)
 
 ### Overview / Other services
 
-*   [vaultwarden (⭐22k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [vaultwarden (⭐23k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 *   [snapdrop (⭐15k)](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
-*   [hedgedoc (⭐3.6k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
+*   [hedgedoc (⭐3.7k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
 *   [etherpad-lite (⭐14k)](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
-*   [gitea (⭐34k)](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
+*   [gitea (⭐35k)](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

@@ -36,7 +36,7 @@
 
 ### Natural Language Processing
 
-*   [Sentimental (⭐448)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
+*   [Sentimental (⭐449)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
 
 ## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-leaflet-widget (⭐14)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
+*   [wagtail-leaflet-widget (⭐17)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -96,7 +96,6 @@
 ### APIs, Data and ML
 
 *   [ROBOHASH](https://robohash.org/) - Web service to generate unique (cool :) images from any text.
-*   [Webhook.site](https://webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
 ## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 

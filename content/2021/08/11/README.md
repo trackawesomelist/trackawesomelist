@@ -16,7 +16,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit3 (⭐256)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
+*   [GdUnit3 (⭐258)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

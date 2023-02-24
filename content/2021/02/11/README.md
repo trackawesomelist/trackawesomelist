@@ -213,7 +213,7 @@
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐236)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐237)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [14. Awesome Italy Events](/content/ildoc/awesome-italy-events/README.md)
 

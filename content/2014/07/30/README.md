@@ -42,7 +42,7 @@
 
 ### CakePHP Internals Reading
 
-*   [Top 10 (and more) core contributors (⭐8.6k)](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
+*   [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

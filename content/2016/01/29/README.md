@@ -335,7 +335,7 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐156)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐155)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -377,7 +377,7 @@ git config --list
 
 ### Queue
 
-*   [enm (⭐121)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
+*   [enm (⭐120)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 

@@ -96,7 +96,7 @@
 
 ### Plugins / Languages and Environments
 
-*   [YAML (⭐41)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+*   [YAML (⭐49)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

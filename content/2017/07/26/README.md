@@ -106,7 +106,7 @@
 
 ## [11. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [OCF](https://openconnectivity.org/) - OCF, The Open Connectivity Foundation, develop standards and certification for devices involved in the Internet of Things (IoT) based around Constrained Application Protocol (CoAP).
 

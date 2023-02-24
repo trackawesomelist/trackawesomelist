@@ -68,33 +68,31 @@
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [RowLocker plugin (⭐19)](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
+*   [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 
-## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+### Tools / XML
+
+*   [deno.mk (⭐14)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
+
+## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Automation / Packages
 
 *   [loadtest (⭐89)](https://github.com/tmobile/loadtest) - An R package for load testing using JMeter.
 
-## [12. Awesome Python](/content/vinta/awesome-python/README.md)
+## [13. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Implementations
 
 *   [PyPy](https://foss.heptapod.net/pypy/pypy) - A very fast and compliant implementation of the Python language.
 
-## [13. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [14. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Communication / Style
 
 *   [The Punctuation Guide](https://www.thepunctuationguide.com) - Simple reference on how (and why) to use these special characters.
-
-## [14. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Tools / XML
-
-*   [deno.mk (⭐14)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
-*   maxmcd's [deno-docker (⭐74)](https://github.com/maxmcd/deno-docker) A docker image.
-*   hayd's [deno-docker (⭐729)](https://github.com/hayd/deno-docker) Several docker images.
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -128,7 +126,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐153)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐154)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ---
 

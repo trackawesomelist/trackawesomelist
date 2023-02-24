@@ -14,7 +14,7 @@
 
 ### Software / Communication - IRC
 
-*   [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([Source Code (⭐157)](https://github.com/robustirc/robustirc)) `BSD-3-Clause` `Go`
+*   [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([Source Code (⭐158)](https://github.com/robustirc/robustirc)) `BSD-3-Clause` `Go`
 
 ### Software / Groupware
 
@@ -51,7 +51,7 @@
 ### Support Tables
 
 *   [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article.
-*   [MDN Browser Compat Data (⭐4.3k)](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
+*   [MDN Browser Compat Data (⭐4.4k)](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

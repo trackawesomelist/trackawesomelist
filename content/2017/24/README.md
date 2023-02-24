@@ -59,7 +59,7 @@
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐242)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
+    *   [indigits/scirust (⭐243)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
 
 ### Libraries / Logging
 
@@ -67,7 +67,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐6.6k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐6.7k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -253,7 +253,7 @@
 
 ### XML
 
-*   [meeseeks (⭐284)](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meeseeks (⭐287)](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ### Books
 
@@ -518,7 +518,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Web Servers
 
-*   [Iodine (⭐811)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐816)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [41. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 

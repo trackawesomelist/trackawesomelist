@@ -29,13 +29,13 @@
 
 ### Software / Miscellaneous
 
-*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐13)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
+*   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐14)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
 
 ## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [Maki Nage (⭐32)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
+*   [Maki Nage (⭐33)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -61,31 +61,31 @@
 
 *   [Youtube-viewer (⭐1k)](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 *   [Invidious-viewer (⭐13)](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
-*   [Youtube-dl (⭐117k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
-*   [Alltube (⭐2.7k)](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
-*   [Vividl (⭐251)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
+*   [Youtube-dl (⭐118k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+*   [Alltube (⭐2.8k)](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
+*   [Vividl (⭐262)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
 *   [Tartube (⭐1.3k)](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-*   [Plumber (⭐46)](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
-*   [ViewTube (⭐643)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
+*   [Plumber (⭐48)](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
+*   [ViewTube (⭐656)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
 ### Overview / Twitter
 
-*   [Shitter (⭐139)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
-*   [Harpy (⭐1.8k)](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
-*   [Twidere X (⭐900)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
+*   [Shitter (⭐144)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
+*   [Harpy (⭐1.9k)](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
+*   [Twidere X (⭐920)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
 *   [Tweeterr (⭐4)](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
-*   [Tweet-app (⭐57)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
-*   [Tweepy (⭐9.4k)](https://github.com/tweepy/tweepy): Twitter for Python
+*   [Tweet-app (⭐61)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
+*   [Tweepy (⭐9.5k)](https://github.com/tweepy/tweepy): Twitter for Python
 
 ### Overview / Reddit
 
 *   [RedditClient (⭐13)](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
-*   [Eddrit (⭐17)](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
+*   [Eddrit (⭐18)](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
 *   [Top of Reddit (⭐22)](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
 ### Overview / Hacker News
 
-*   [HNTopLinks (⭐26)](https://github.com/eguller/hntoplinks): Top Links on Hacker News
+*   [HNTopLinks (⭐27)](https://github.com/eguller/hntoplinks): Top Links on Hacker News
 
 ### Redirection / Other services
 
@@ -95,7 +95,7 @@
 
 ### Related projects / Other services
 
-*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
+*   [uBlock Origin (⭐35k)](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
     *   [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
     *   [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
@@ -110,10 +110,10 @@
 ### Plugins / Languages and Environments
 
 *   JSON
-    *   [JSON (⭐164)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
+    *   [JSON (⭐168)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
     *   [JSON, package.json (⭐35)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
-    *   [JSON with Comments (⭐65)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
-    *   [JSON Schema (⭐36)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+    *   [JSON with Comments (⭐71)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
+    *   [JSON Schema (⭐38)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
 
 ## [12. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
@@ -442,16 +442,16 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [SimpleLocalize (⭐35)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
+*   [SimpleLocalize (⭐37)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
 
 ### Router / Mouse Events
 
-*   [wouter (⭐4.8k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
-*   [redux-first-history (⭐374)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+*   [wouter (⭐4.9k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
+*   [redux-first-history (⭐377)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Overlay
 
-*   [reboron (⭐28)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
+*   [reboron (⭐29)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 
 ### Form Components / Color Picker
 
@@ -461,7 +461,7 @@
 
 ### Configuration
 
-*   [hush (⭐113)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
+*   [hush (⭐116)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
 *   [hush\_aws\_secrets\_manager (⭐19)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
 *   [hush\_gcp\_secret\_manager (⭐18)](https://github.com/gordalina/hush_gcp_secret_manager) - Google Secret Manager provider for hush.
 
@@ -471,15 +471,15 @@
 
 ### Templating
 
-*   [temple (⭐404)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple (⭐412)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Testing
 
-*   [mix\_test\_interactive (⭐46)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
+*   [mix\_test\_interactive (⭐50)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 
 ### Text and Numbers
 
-*   [bitcoinex (⭐37)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
+*   [bitcoinex (⭐39)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
 ## [42. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -566,20 +566,20 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐319)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐332)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐411)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐417)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot GamePad (⭐104)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐753)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [Godot GamePad (⭐106)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [SmartShape2D (⭐758)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 
-*   [Godex (⭐781)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [Godex (⭐790)](https://github.com/GodotECS/godex) - An entity component system library.
 
 ## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

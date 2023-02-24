@@ -10,7 +10,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐544)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐548)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [2. Awesome Chess](/content/hkirat/awesome-chess/README.md)
 

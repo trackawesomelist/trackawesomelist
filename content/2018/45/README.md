@@ -251,7 +251,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐185)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐184)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [22. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -320,15 +320,11 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐199)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
-
-### Software / Automation
-
-*   [Episodes (⭐216)](https://github.com/guptachetan1997/Episodes) `⚠` - Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
+*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐201)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐710)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
+*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐717)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
 
 ### Software / Content Management Systems (CMS)
 
@@ -510,7 +506,7 @@
 ### CLI
 
 *   [linenoise (⭐3.1k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐340)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise-ng (⭐341)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ### Networking
 
@@ -564,11 +560,11 @@
 
 ### Camera / Barcode
 
-*   [EFQRCode (⭐4.3k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code.
+*   [EFQRCode (⭐4.4k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code.
 
 ### Button / Barcode
 
-*   [AHDownloadButton (⭐465)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+*   [AHDownloadButton (⭐466)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ### Menu / Barcode
 

@@ -20,7 +20,7 @@
 
 ### Image Processing
 
-*   [Skeptick (⭐322)](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
+*   [Skeptick (⭐321)](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
 
 ---
 

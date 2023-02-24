@@ -30,11 +30,11 @@
 
 ### Libraries and Tools / C++
 
-*   [CANdevStudio (⭐608)](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.
+*   [CANdevStudio (⭐651)](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.
 
 ### Libraries and Tools / Java
 
-*   [ITS Geonetworking (⭐90)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
+*   [ITS Geonetworking (⭐91)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
 
 ## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -46,15 +46,15 @@
 
 ### Date and Time Processing
 
-*   [montrose (⭐735)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
-*   [stamp (⭐965)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
+*   [montrose (⭐739)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+*   [stamp (⭐967)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## [4. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Techniques
 
 *   [MITRE ATT\&CK tactic "TA0003 - Persistence"](https://attack.mitre.org/tactics/TA0003/) - MITRE ATT\&CK tactic "TA0003 - Persistence".
-*   [Sigma rules (⭐6k)](https://github.com/Neo23x0/sigma/tree/master/rules) - Sigma rules which covers persistence techniques. You can even use filters such as `--filter tag=attack.persistence` or specifically for one technique `tag=attack.t1084`.
+*   [Sigma rules (⭐6.1k)](https://github.com/Neo23x0/sigma/tree/master/rules) - Sigma rules which covers persistence techniques. You can even use filters such as `--filter tag=attack.persistence` or specifically for one technique `tag=attack.t1084`.
 *   [Windows Persistence using WinLogon](https://www.hackingarticles.in/windows-persistence-using-winlogon/) - Blog post about abusing WinLogon.
 *   [Persistence using GlobalFlags in Image File Execution Options – Hidden from Autoruns.exe](https://oddvar.moe/2018/04/10/persistence-using-globalflags-in-image-file-execution-options-hidden-from-autoruns-exe/) - Blog post about abusing GlobalFlag for process execution.
 *   [Uncovering a MyKings Variant With Bootloader Persistence via Managed Detection and Response](https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-a-mykings-variant-with-bootloader-persistence-via-managed-detection-and-response/) - Blog post about bootloader persistence.
@@ -67,28 +67,28 @@
 
 ### Persistence Removal / General
 
-*   [Awesome Incident Response (⭐5.9k)](https://github.com/meirwah/awesome-incident-response) - Use the tools and resources for security incident response, aimed to help security analysts and DFIR teams.
+*   [Awesome Incident Response (⭐6k)](https://github.com/meirwah/awesome-incident-response) - Use the tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
 ### Persistence Removal / Windows
 
-*   [PowerSponse (⭐34)](https://github.com/swisscom/PowerSponse) - PowerSponse includes various commands for cleanup of persistence mechanisms.
+*   [PowerSponse (⭐35)](https://github.com/swisscom/PowerSponse) - PowerSponse includes various commands for cleanup of persistence mechanisms.
 *   [Removing Backdoors – Powershell Empire Edition](https://www.n00py.io/2017/01/removing-backdoors-powershell-empire-edition/) - Various blog posts handle the removal of WMI implants.
 *   [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull) - Removal of registry keys with null bytes - used e.g. in run keys for evasion.
 
 ### Detection Testing / Windows
 
-*   [Atomic Red Team (⭐7k)](https://github.com/redcanaryco/atomic-red-team) - Atomic Red Team supports also the MITRE ATT\&CK persistence techniques, see e.g. [T1044 "File System Permissions Weakness" (⭐7k)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1044/T1044.yaml).
+*   [Atomic Red Team (⭐7.1k)](https://github.com/redcanaryco/atomic-red-team) - Atomic Red Team supports also the MITRE ATT\&CK persistence techniques, see e.g. [T1044 "File System Permissions Weakness" (⭐7.1k)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1044/T1044.yaml).
 
 ### Collection / General
 
-*   [Awesome Forensics (⭐2.6k)](https://github.com/Cugu/awesome-forensics) - Use the tools from this list which includes awesome free (mostly open source) forensic analysis tools and resources. They help collecting the persistence mechanisms at scale, e.g. by using remote forensics tools.
+*   [Awesome Forensics (⭐2.7k)](https://github.com/Cugu/awesome-forensics) - Use the tools from this list which includes awesome free (mostly open source) forensic analysis tools and resources. They help collecting the persistence mechanisms at scale, e.g. by using remote forensics tools.
 *   [osquery](https://osquery.readthedocs.io) - Query persistence mechanisms on clients.
 *   [OSSEC (⭐3.9k)](https://github.com/ossec/ossec-hids) - Use rules and logs from the HIDS to detection configuration changes.
 
 ### Collection / Windows
 
-*   [PowerShell Autoruns (⭐183)](https://github.com/p0w3rsh3ll/AutoRuns) - A PowerShell version of Autoruns.
-*   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐419)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐419)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐419)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐419)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐419)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
+*   [PowerShell Autoruns (⭐186)](https://github.com/p0w3rsh3ll/AutoRuns) - A PowerShell version of Autoruns.
+*   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐436)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐436)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐436)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐436)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐436)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -99,17 +99,17 @@
 ### Back-End Development
 
 *   [Laravel (⭐12k)](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-    *   [Education (⭐363)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-    *   [TALL Stack (⭐788)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+    *   [Education (⭐365)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+    *   [TALL Stack (⭐792)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
 *   [Vapor (⭐1k)](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
 
 ### Computer Science
 
 *   [Speech and Natural Language Processing (⭐2.1k)](https://github.com/edobashira/speech-language-processing#readme)
     *   [Spanish (⭐311)](https://github.com/dav009/awesome-spanish-nlp#readme)
-    *   [NLP with Ruby (⭐979)](https://github.com/arbox/nlp-with-ruby#readme)
-    *   [Question Answering (⭐715)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-    *   [Natural Language Generation (⭐398)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+    *   [NLP with Ruby (⭐983)](https://github.com/arbox/nlp-with-ruby#readme)
+    *   [Question Answering (⭐717)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+    *   [Natural Language Generation (⭐400)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 
 ### Big Data
 
@@ -117,18 +117,18 @@
 
 ### Gaming
 
-*   [Construct 2 (⭐52)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
+*   [Construct 2 (⭐53)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 
 ### Testing
 
-*   [k6 (⭐326)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [k6 (⭐334)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ### Miscellaneous
 
-*   [Analytics (⭐3.5k)](https://github.com/0xnr/awesome-analytics#readme)
+*   [Analytics (⭐3.6k)](https://github.com/0xnr/awesome-analytics#readme)
 *   [Data Visualization (⭐3.2k)](https://github.com/javierluraschi/awesome-dataviz#readme)
 *   [Product Design (⭐2k)](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
-*   [QR Code (⭐51)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+*   [QR Code (⭐52)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 
 ### Related
 
@@ -138,7 +138,7 @@
 
 ### NYU / Commonsense Knowledgebase
 
-*   [Ernest Davis](https://cs.nyu.edu/\~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
+*   [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
 
 ## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

@@ -238,7 +238,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Tools / Working with types
 
-*   [mypyc (⭐14k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+*   [mypyc (⭐15k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
 ## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

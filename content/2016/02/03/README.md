@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,29 +21,19 @@
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
     *   [by @hollance (⭐27k)](https://github.com/hollance/swift-algorithm-club)
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Filtering and Validation
-
-*   [HtmlPurifier plugin (⭐43)](https://github.com/burzum/cakephp-html-purifier) - Purifier Plugin that features a trait, behavior and helper to allow you to get sanitization and filtering where you need it. You can configure multiple sets of filter rules as well.
-
-### Templating
-
-*   [JadeView plugin (⭐0)](https://github.com/clthck/cakephp-jade) - Jade template engine plugin.
-
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Third Party APIs
 
 *   [xe (⭐21)](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Database Tools
 
 *   [Scenic (⭐3.1k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 
-## [6. Julia.jl](/content/svaksha/Julia.jl/README.md)
+## [5. Julia.jl](/content/svaksha/Julia.jl/README.md)
 
 ### Package Status
 

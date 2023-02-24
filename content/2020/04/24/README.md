@@ -71,7 +71,7 @@ Language: English
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [s3server (⭐221)](https://github.com/jessfraz/s3server) - Simple HTTP interface to index and browse files in a public S3 or Google Cloud Storage bucket. `MIT` `Go`
+*   [s3server (⭐222)](https://github.com/jessfraz/s3server) - Simple HTTP interface to index and browse files in a public S3 or Google Cloud Storage bucket. `MIT` `Go`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -129,7 +129,7 @@ Language: English
 
 ### Projects
 
-*   [Minesweeper (⭐24)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+*   [Minesweeper (⭐26)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

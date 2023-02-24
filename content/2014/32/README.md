@@ -35,22 +35,22 @@
 
 ### Packages / Streams
 
-*   [duplexify (⭐183)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-*   [pumpify (⭐235)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+*   [duplexify (⭐184)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+*   [pumpify (⭐237)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 *   [peek-stream (⭐49)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 
 ### Packages / Natural language processing
 
-*   [leven (⭐670)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐671)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
 *   [node-mac (⭐515)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
-*   [node-linux (⭐409)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
+*   [node-linux (⭐408)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ### Packages / Miscellaneous
 
-*   [strip-bom (⭐101)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+*   [strip-bom (⭐102)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 

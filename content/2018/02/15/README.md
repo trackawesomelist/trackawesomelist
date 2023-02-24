@@ -63,7 +63,7 @@
 
 ### CLI
 
-*   [replxx (⭐606)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
+*   [replxx (⭐609)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
 ## [8. Awesome Framer](/content/podo/awesome-framer/README.md)
 

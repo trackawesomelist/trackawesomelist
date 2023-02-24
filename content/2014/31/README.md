@@ -207,7 +207,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### CakePHP Internals Reading
 
-*   [Top 10 (and more) core contributors (⭐8.6k)](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
+*   [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
 ## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

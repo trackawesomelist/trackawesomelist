@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07 - Mar 13, 2016
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -348,13 +348,7 @@ git config --global rerere.enabled 1
 git diff --name-only | uniq | xargs $EDITOR
 ```
 
-## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Dependency Injection
-
-*   [PimpleDi plugin (⭐13)](https://github.com/rochamarcelo/cake-pimple-di) Allows dependency injection based on Pimple library.
-
-## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [21. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -362,11 +356,11 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐340)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-debian (⭐344)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 *   [electron-installer-redhat (⭐76)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐462)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-windows (⭐465)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
-## [23. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [22. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Cscope
 
@@ -381,13 +375,13 @@ git diff --name-only | uniq | xargs $EDITOR
 *   Where is this source file in the directory structure?
 *   What files include this header file?
 
-## [24. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [23. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### View Helper / Omniauth
 
 *   [cocoon (⭐3.1k)](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy
 
-## [25. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [24. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Tutorials
 
@@ -403,7 +397,7 @@ git diff --name-only | uniq | xargs $EDITOR
 *   [GraphQL and Relay on Rails — First relay powered react component](https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn) - Full walk through of a simple Relay setup, including clonable code.
 *   [Relay/GraphQL On Rails](https://medium.com/@khor/relay-facebook-on-rails-8b4af2057152#.5hjih9wms) - A brief example of Relay with Rails, complete with several diagrams to aid in comprehension.
 
-## [26. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / A individuals
 
@@ -413,19 +407,19 @@ git diff --name-only | uniq | xargs $EDITOR
 
 *   Edan Kwan <http://blog.edankwan.com/>
 
-## [27. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [26. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Videos / Third-party Service Integration
 
 *   [Laracademy](https://laracademy.co/)
 
-## [28. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [27. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
 *   [PHP Chat](https://phpchat.co)
 
-## [29. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [28. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Translations
 
@@ -440,7 +434,7 @@ git diff --name-only | uniq | xargs $EDITOR
 *   [Symfony Certification - Unofficial self-study guide](https://leanpub.com/symfony-selfstudy) \[2015]
     *   Short Q-A based section about Symfony foundations
 
-## [30. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [29. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Presentations
 
@@ -450,13 +444,13 @@ git diff --name-only | uniq | xargs $EDITOR
 
 *   [Facebook open sources rich text editor framework Draft.js](https://code.facebook.com/posts/1684092755205505/facebook-open-sources-rich-text-editor-framework-draft-js/)
 
-## [31. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [30. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
 *   [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
 
-## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
@@ -464,7 +458,7 @@ git diff --name-only | uniq | xargs $EDITOR
 *   [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
 *   [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 
-## [33. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [32. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Eddystone by Google
 
@@ -500,7 +494,7 @@ git diff --name-only | uniq | xargs $EDITOR
 *   [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 *   [Web Bluetooth Demos (⭐506)](https://github.com/WebBluetoothCG/demos)
 
-## [34. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
@@ -511,7 +505,7 @@ git diff --name-only | uniq | xargs $EDITOR
 
 *   [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
 
-## [35. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [34. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Debugging
 
@@ -530,32 +524,32 @@ git diff --name-only | uniq | xargs $EDITOR
 
 *   [pyramid\_extdirect (⭐10)](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate.
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / ORM
 
 *   [requery (⭐3.1k)](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
 
-## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [36. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Plugins
 
 *   [Alfred Workflow (⭐1)](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
 
-## [38. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [37. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Registry
 
 *   [npm-cli-login (⭐91)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
-## [39. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 *   [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
 
-## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [39. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -587,7 +581,7 @@ Webpage: <http://www.tosci.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ---------------------------------------- |
 | open | ✔     | ✔      | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00 |
 
-## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -599,7 +593,7 @@ Webpage: <http://www.tosci.com/>
 
 ### Framework Components
 
-*   [scrivener\_headers (⭐47)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
+*   [scrivener\_headers (⭐48)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
 *   [scrivener\_html (⭐120)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 
 ### HTTP
@@ -623,7 +617,7 @@ Webpage: <http://www.tosci.com/>
 
 *   [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
 
-## [42. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [41. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Free and Open Source Libraries
 

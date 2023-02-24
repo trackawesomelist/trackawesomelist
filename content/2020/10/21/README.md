@@ -581,7 +581,7 @@
 
 ### Transition
 
-*   [DropdownTransition (⭐63)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
+*   [DropdownTransition (⭐64)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

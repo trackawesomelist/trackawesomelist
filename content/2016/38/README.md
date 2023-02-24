@@ -205,7 +205,7 @@ git log --show-notes='*'
 
 ### Applications / Episodes
 
-*   [CANToolz (⭐297)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+*   [CANToolz (⭐298)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
 ## [18. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
@@ -273,7 +273,7 @@ git log --show-notes='*'
 
 ## [26. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
-### Alliances / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [Bluetooth Special Interest Group](https://www.bluetooth.com/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
 
@@ -417,7 +417,7 @@ git log --show-notes='*'
 
 ### Packages / Parsing
 
-*   [ref (⭐426)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐427)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -427,11 +427,11 @@ git log --show-notes='*'
 
 ### Framework Components
 
-*   [filterable (⭐97)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
+*   [filterable (⭐98)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐510)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐511)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -444,7 +444,7 @@ git log --show-notes='*'
 
 ### Third Party APIs
 
-*   [tg\_client (⭐13)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
+*   [tg\_client (⭐14)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 
 ## [41. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
@@ -486,13 +486,13 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Blogging/news
 
-*   [wagtail-blog-app (⭐36)](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
+*   [wagtail-blog-app (⭐37)](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
 
 ### Apps / Rich text editor extensions
 
-*   [wagtail-readability (⭐16)](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
-*   [wagtailembedder (⭐36)](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields.
-*   [Wagtail TinyMCE (⭐44)](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
+*   [wagtail-readability (⭐15)](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
+*   [wagtailembedder (⭐37)](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields.
+*   [Wagtail TinyMCE (⭐43)](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
 
 ### Apps / StreamField
 
@@ -505,27 +505,27 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / E-commerce
 
-*   [wagtailinvoices (⭐32)](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
+*   [wagtailinvoices (⭐33)](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
 
 ### Apps / Security
 
-*   [wagtail-yubikey (⭐6)](https://github.com/ahopkins/wagtail-yubikey) - Enable YubiKey two factor authentication on Wagtail admin panel.
+*   [wagtail-yubikey (⭐7)](https://github.com/ahopkins/wagtail-yubikey) - Enable YubiKey two factor authentication on Wagtail admin panel.
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐176)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐186)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
-*   [Wagtail Modeltranslation (⭐140)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.2k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+*   [Wagtail Modeltranslation (⭐144)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.2k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 
 ### Apps / Testing
 
-*   [wagtail-linkchecker (⭐46)](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
+*   [wagtail-linkchecker (⭐47)](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
 
 ### Apps / Misc
 
-*   [Wagtail Themes (⭐89)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
+*   [Wagtail Themes (⭐90)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 

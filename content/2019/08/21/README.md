@@ -90,13 +90,13 @@
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐288)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐286)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐636)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐654)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## [11. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

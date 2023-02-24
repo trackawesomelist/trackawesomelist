@@ -16,7 +16,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [StoryTeller Engine (⭐15)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
+*   [StoryTeller Engine (⭐14)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
 ## [3. Awesome Acg](/content/soruly/awesome-acg/README.md)
 

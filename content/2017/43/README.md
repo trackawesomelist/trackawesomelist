@@ -478,7 +478,7 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clack-pretend (⭐11)](https://github.com/BnMcGn/clack-pretend) - a testing
+*   [clack-pretend (⭐12)](https://github.com/BnMcGn/clack-pretend) - a testing
     and debugging tool for clack. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [32. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
@@ -651,7 +651,7 @@
 
 ### HTTP
 
-*   [crest (⭐217)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐219)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
 ## [44. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 

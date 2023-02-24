@@ -68,7 +68,7 @@
 
 ### Collaboration/Education
 
-*   [jupyter-edx-grader-xblock (⭐42)](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
+*   [jupyter-edx-grader-xblock (⭐41)](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
 
 ---
 

@@ -2105,7 +2105,7 @@
 
 ### Packages / Job queues
 
-*   [idoit (⭐66)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
+*   [idoit (⭐67)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
 ## [34. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -2264,7 +2264,7 @@
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐504)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐506)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [38. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 

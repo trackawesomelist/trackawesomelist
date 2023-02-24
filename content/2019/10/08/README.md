@@ -27,7 +27,7 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐272)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐276)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -77,7 +77,7 @@
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Miscellaneous
 
-*   [Apex (⭐273)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐274)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐6.6k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐6.7k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

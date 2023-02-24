@@ -18,7 +18,7 @@
 
 ### Web Servers
 
-*   [TorqueBox (⭐474)](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
+*   [TorqueBox (⭐473)](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
 
 ## [2. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -139,7 +139,7 @@
 ### Miscellaneous
 
 *   [Klib (⭐3.7k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
-*   [libnih (⭐84)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
+*   [libnih (⭐85)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
 
 ### Compiler
 
@@ -153,13 +153,13 @@
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐126)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
-*   [is-online (⭐1.1k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐966)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [empty-trash (⭐128)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
+*   [public-ip (⭐968)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
-*   [meow (⭐3.1k)](https://github.com/sindresorhus/meow) - CLI app helper.
+*   [meow (⭐3.2k)](https://github.com/sindresorhus/meow) - CLI app helper.
 
 ## [11. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
@@ -263,7 +263,7 @@
 
 ### Authentication
 
-*   [oauth2 (⭐688)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐694)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐56)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks

@@ -44,7 +44,7 @@
 
 ### Audio
 
-*   [SoLoud (⭐1.4k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
+*   [SoLoud (⭐1.5k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
 
 ### Graphics
 

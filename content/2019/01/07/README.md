@@ -42,7 +42,7 @@
 
 ### Memory Allocation
 
-*   [Boehm GC (⭐2.2k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+*   [Boehm GC (⭐2.3k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 
 ## [6. Awesome Ava](/content/avajs/awesome-ava/README.md)
 

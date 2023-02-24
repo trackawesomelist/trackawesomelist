@@ -33,7 +33,6 @@
 *   [Specifications](https://webmonetization.org/specification.html)
 *   [ILP Forum](https://forum.interledger.org/)
 *   [Interledger : Open protocol suite for sending payments across different ledgers](https://interledger.org/)
-*   [Coil : Web monetized content in your browser while supporting sites you love in real time.](https://coil.com)
 
 ## [5. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -84,11 +83,11 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Fussel (⭐170)](https://github.com/cbenning/fussel) - Fussel is a static photo gallery generator. Easily generate a reactive gallery and host the optimized static folder of assets. `MIT` `Python`
+*   [Fussel (⭐177)](https://github.com/cbenning/fussel) - Self-hosted, no-backend static photo gallery. Face tag recognition, albums and more. ([Demo](https://benninger.ca/fussel-demo/)) `MIT` `Python/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Task Keeper (⭐35)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
+*   [Task Keeper (⭐36)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

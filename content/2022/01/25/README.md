@@ -91,11 +91,11 @@
 
 ### Dynamic type checkers
 
-*   [typedpy (⭐12)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
+*   [typedpy (⭐13)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
 
 ### Stub packages
 
-*   [celery-types (⭐26)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐21k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐507)](https://github.com/celery/django-celery-results), [ampq (⭐284)](https://github.com/celery/py-amqp), [kombu (⭐2.5k)](https://github.com/celery/kombu), [billiard (⭐356)](https://github.com/celery/billiard), [vine (⭐107)](https://github.com/celery/vine) and [ephem (⭐592)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐27)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐21k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐535)](https://github.com/celery/django-celery-results), [ampq (⭐287)](https://github.com/celery/py-amqp), [kombu (⭐2.5k)](https://github.com/celery/kombu), [billiard (⭐359)](https://github.com/celery/billiard), [vine (⭐108)](https://github.com/celery/vine) and [ephem (⭐606)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -111,13 +111,13 @@
 
 ### Nodes / Social
 
-*   [open-wa (whatsapp) (⭐11)](https://github.com/open-wa/node-red-contrib-wa-automate) - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
+*   [open-wa (whatsapp) (⭐13)](https://github.com/open-wa/node-red-contrib-wa-automate) - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chart
 
-*   [SwiftUICharts (⭐638)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐647)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

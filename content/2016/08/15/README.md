@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -198,19 +198,13 @@ git revert -m 1 <commit-ish>
 *   [ASP.NET Core Starter Kit (⭐1.1k)](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 *   [saaskit (⭐1k)](https://github.com/saaskit/saaskit) - Developer toolkit for building SaaS applications.
 
-## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Templating
-
-*   [CakeExcel plugin (⭐22)](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files.
-
-## [12. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [11. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Profilers
 
 *   [jitwatch-intellij (⭐165)](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
 
-## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / I individuals
 

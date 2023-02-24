@@ -54,7 +54,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://betterscan.io)
 
-  Price: Open Source and PRO version
+  Price: Non-free Community Edition and Paid PRO version
 
   Stars: [![Stars](https://img.shields.io/github/stars/marcinguy/betterscan-ce.svg)](https://github.com/marcinguy/betterscan-ce/)
 
@@ -68,7 +68,7 @@ List of Continuous Integration services
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐466)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐470)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -305,7 +305,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐84)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐85)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 
@@ -341,7 +341,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation (⭐735)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐412)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐413)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -367,7 +367,7 @@ List of Continuous Integration services
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
-- Name: [minci (⭐22)](https://github.com/kristapsdz/minci)
+- Name: [minci (⭐23)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
 
@@ -415,7 +415,7 @@ List of Continuous Integration services
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
-- Name: [Abstruse CI (⭐861)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐867)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -423,7 +423,7 @@ List of Continuous Integration services
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐861)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐867)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -522,7 +522,7 @@ List of Continuous Integration services
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐770)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐771)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -552,7 +552,7 @@ List of Continuous Integration services
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐708)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐713)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 

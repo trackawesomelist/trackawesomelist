@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [xc (⭐16)](https://github.com/s2mr/xc) - A tool to open the Xcode project file by the specified version.
+*   [xc (⭐18)](https://github.com/s2mr/xc) - A tool to open the Xcode project file by the specified version.
 
 ### Alert / Barcode
 
@@ -82,7 +82,7 @@
 
 ### Applications
 
-*   [DB3 Network (⭐111)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+*   [DB3 Network (⭐136)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 
 ## [7. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [axkirillov/easypick.nvim (⭐189)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+*   [axkirillov/easypick.nvim (⭐195)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
 ### Session / Diagnostics
 
-*   [gennaro-tedesco/nvim-possession (⭐21)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
+*   [gennaro-tedesco/nvim-possession (⭐43)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
 ---
 

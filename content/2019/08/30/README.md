@@ -14,7 +14,7 @@
 
 ### Data Manipulation / Pipelines
 
-*   [meza (⭐402)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
+*   [meza (⭐404)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 
 ### Model Explanation / NLP
 

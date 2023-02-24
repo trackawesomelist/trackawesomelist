@@ -14,10 +14,6 @@
 
 ## [2. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
-### Tutorials / Getting Started
-
-*   [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
-
 ### Tutorials / Advanced
 
 *   [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
@@ -122,7 +118,7 @@
 
 ### Class Based
 
-*   [Lightning Web Components (⭐1.3k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
+*   [Lightning Web Components (⭐1.4k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 
 ## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

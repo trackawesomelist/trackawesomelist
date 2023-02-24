@@ -16,11 +16,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐491)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐495)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐143)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐146)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Testing / Barcode
 
-*   [SnapshotTest (⭐44)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
+*   [SnapshotTest (⭐43)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
 *   [XCTest (⭐1k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 
 ### UI / Barcode
@@ -51,7 +51,7 @@
 
 ### Assets
 
-*   [Sprockets (⭐873)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐880)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -59,7 +59,7 @@
 
 ### Encryption
 
-*   [bcrypt-ruby (⭐1.8k)](https://github.com/codahale/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
+*   [bcrypt-ruby (⭐1.9k)](https://github.com/codahale/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
 
 ### Implementations/Compilers
 
@@ -67,7 +67,7 @@
 
 ### Music and Sound
 
-*   [Coltrane (⭐759)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
+*   [Coltrane (⭐799)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 
 ### ORM/ODM
 

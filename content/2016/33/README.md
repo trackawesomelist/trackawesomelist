@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15 - Aug 21, 2016
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -108,7 +108,7 @@
 ### UI / Barcode
 
 *   [CustomSegue (⭐123)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
-*   [URLEmbeddedView (⭐643)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+*   [URLEmbeddedView (⭐644)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 ## [11. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Authorization
 
-*   [canada (⭐425)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐428)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Files and Directories
 
@@ -242,9 +242,9 @@
 
 ### Miscellaneous
 
-*   [bupe (⭐74)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
+*   [bupe (⭐75)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
 *   [charm (⭐4)](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
-*   [ecto\_autoslug\_field (⭐141)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
+*   [ecto\_autoslug\_field (⭐142)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 
 ### Release Management
 
@@ -635,13 +635,7 @@ git revert -m 1 <commit-ish>
 *   [ASP.NET Core Starter Kit (⭐1.1k)](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 *   [saaskit (⭐1k)](https://github.com/saaskit/saaskit) - Developer toolkit for building SaaS applications.
 
-## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Templating
-
-*   [CakeExcel plugin (⭐22)](https://github.com/dakota/CakeExcel) - An Excel view to generate XLSX files.
-
-## [46. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [45. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Native
 
@@ -655,7 +649,7 @@ git revert -m 1 <commit-ish>
 
 *   [jitwatch-intellij (⭐165)](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
 
-## [47. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [46. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / I individuals
 

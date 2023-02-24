@@ -22,7 +22,7 @@
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐78)](https://github.com/sventorben/keycloak-home-idp-discovery)
+*   [Keycloak: Home IdP Discovery extension (⭐86)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

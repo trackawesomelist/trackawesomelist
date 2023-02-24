@@ -40,13 +40,13 @@
 
 ### Testing
 
-*   [definject (⭐49)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐50)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
-*   [Joomla UI custom elements (⭐24)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
+*   [Joomla UI custom elements (⭐31)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
 ## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -62,7 +62,7 @@
 ### Libraries
 
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository :octocat: (⭐7.8k)](https://github.com/intel-isl/Open3D)
+    *   [GitHub repository :octocat: (⭐8.1k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 
 ### Frameworks
@@ -356,7 +356,7 @@
 
 ### GraphQL
 
-*   [SociableWeaver (⭐71)](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries and mutations.
+*   [SociableWeaver (⭐73)](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries and mutations.
 
 ### Events
 
@@ -403,7 +403,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐574)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐578)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [15. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

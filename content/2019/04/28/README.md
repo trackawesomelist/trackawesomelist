@@ -199,7 +199,7 @@
 
 ### Packages / Functional programming
 
-*   [lodash (⭐55k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+*   [lodash (⭐56k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 *   [RxJS (⭐28k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 
 ### Packages / Build tools
@@ -230,7 +230,7 @@
 
 ### Packages / Miscellaneous
 
-*   [node-video-lib (⭐316)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+*   [node-video-lib (⭐317)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 
 ### Resources / Tutorials
 
@@ -242,7 +242,7 @@
 
 ### Resources / Cheatsheets
 
-*   [Strong Node.js (⭐474)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+*   [Strong Node.js (⭐476)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -262,7 +262,7 @@
 ### Regular Expression
 
 *   [Hyperscan (⭐4.1k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
-*   [PIRE (⭐320)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
+*   [PIRE (⭐321)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
 
 ## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Applications
 
-*   [Herd (⭐100)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
+*   [Herd (⭐101)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
 
 ### Applications / Productivity
 

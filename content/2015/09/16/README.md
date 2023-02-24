@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,13 +14,7 @@
 *   [jquery.i18n (⭐640)](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
 *   [jquery.localize.js (⭐470)](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Third Party APIs
-
-*   [Ratchet plugin (⭐51)](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
-
-## [3. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Videos
 
@@ -34,13 +28,13 @@
 *   [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 *   [Crisper (⭐105)](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
 *   [APNGKit (⭐2.1k)](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 
-## [5. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### Active Record / Omniauth
 

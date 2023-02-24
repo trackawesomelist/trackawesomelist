@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2019
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,37 +63,21 @@
 
 *   [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 
-## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
-
-### Portugal 🇵🇹 / Porto
-
-#### Costa COFFEE
-
-> Influencer vibes, great coffee, English-speaking, accepts AliPay and has nice croissants.
-
-Webpage: <https://https://www.costa.co.uk/>
-
-| Wifi | Power | Address                                                                                                | Open Hours                |
-| ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------------- |
-| ✔    | ✔     | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm |
-
-![](https://www.speedtest.net/result/8644645756.png)
-
-## [10. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Blogs / Randomized Algorithms
 
 *   [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
 *   [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
 *   [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - A security podcast geared towards those looking to better understand security topics of the day.
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -136,7 +120,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Swift for Tensorflow (⭐6.1k)](https://github.com/tensorflow/swift) - a next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable programming, systems design, and beyond.
 
-## [13. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
+## [12. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
 ### Built with Imba / Apps/Websites
 
@@ -145,20 +129,20 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [Weather App (⭐3)](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
 *   [Top Down Shooter (⭐9)](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Media / Navigation Demos
 
 *   [react-native-music-control (⭐698)](https://github.com/tanguyantoine/react-native-music-control/) - React Native module to display Now playing Info on lockscreen and handle control events
 *   [react-native-airplay-button (⭐1)](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
 
-## [15. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [14. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 
-## [16. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [15. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools / Repair or Validate CSV
 
@@ -173,13 +157,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [DuctTape (⭐171)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
 
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 
@@ -237,7 +221,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 
 
-## [19. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [18. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / jQuery
 
@@ -248,13 +232,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [GitPod](https://www.gitpod.io/github-student-developer-pack/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [21. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [20. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -301,11 +285,11 @@ Webpage: <https://https://www.costa.co.uk/>
 | ------: | -------: | ---: |
 |   2 - 5 |        8 |  15m |
 
-## [22. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [21. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bytecode Manipulation
 
-*   [bytecode-viewer (⭐13k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
+*   [bytecode-viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
 *   [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 
 ### CLI
@@ -316,8 +300,8 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Checkstyle (⭐7.5k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 *   [jQAssistant](https://jqassistant.org) - Static code analysis with Neo4J-based query language. (GPL-3.0-only)
-*   [SonarJava (⭐985)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
-*   [Spotbugs (⭐2.9k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
+*   [SonarJava (⭐988)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
+*   [Spotbugs (⭐3k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
 
 ### Constraint Satisfaction Problem Solver
 
@@ -325,11 +309,11 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Date and Time
 
-*   [Time4J (⭐382)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
+*   [Time4J (⭐386)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
 
 ### Dependency Injection
 
-*   [JayWire (⭐52)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
+*   [JayWire (⭐53)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
 
 ### Development
 
@@ -352,7 +336,7 @@ Webpage: <https://https://www.costa.co.uk/>
 ### Formal Verification
 
 *   [Checker Framework](https://checkerframework.org) - Pluggable type systems. Includes nullness types, physical units, immutability types and more. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [Java Path Finder (JPF) (⭐429)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
+*   [Java Path Finder (JPF) (⭐432)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
 
 ### Functional Programming
 
@@ -379,7 +363,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Machine Learning
 
-*   [JSAT (⭐752)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+*   [JSAT (⭐755)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 
 ### Miscellaneous
 
@@ -387,7 +371,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Natural Language Processing
 
-*   [CogCompNLP (⭐457)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
+*   [CogCompNLP (⭐459)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 *   [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 
 ### Networking
@@ -398,7 +382,7 @@ Webpage: <https://https://www.costa.co.uk/>
 ### PDF
 
 *   [Dynamic Jasper](http://dynamicjasper.com) - Abstraction layer to JasperReports. (LGPL-3.0-only)
-*   [DynamicReports (⭐165)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
+*   [DynamicReports (⭐166)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
 *   [flyingsaucer (⭐1.8k)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 *   [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine. (LGPL-3.0-only)
 
@@ -408,7 +392,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Science / Other
 
-*   [Orson-Charts (⭐97)](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
+*   [Orson-Charts (⭐98)](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
 
 ### Security / Other
 
@@ -418,14 +402,14 @@ Webpage: <https://https://www.costa.co.uk/>
 ### Utility / Mocking
 
 *   [CRaSH](http://www.crashub.org) - Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others. (LGPL-2.1-or-later)
-*   [Gephi (⭐5.1k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
+*   [Gephi (⭐5.2k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 *   [JADE](http://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 
 ### Web Frameworks / Mocking
 
 *   [Bootique](https://bootique.io) - Minimally opinionated framework for runnable apps.
 
-## [23. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [22. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 

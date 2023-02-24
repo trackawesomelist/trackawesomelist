@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐92)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐95)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -40,10 +40,10 @@
 
 ### Deployment Hosting
 
-*   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
 *   [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 *   [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
+*   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
+*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
 
 ### Discussions
 
@@ -58,8 +58,8 @@
 
 ### Mail
 
-*   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 *   [FormSpree](https://formspree.io/) - Receive form submissions by email.
+*   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 
 ### Media
 
@@ -68,10 +68,10 @@
 
 ### Messaging
 
+*   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
+*   [stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
-*   [stream](https://getstream.io/) - Feed and chat as a service.
-*   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 
 ### Misc
 
@@ -79,9 +79,9 @@
 
 ### Monitoring
 
-*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
+*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
 ### Natural Language Processing
 
@@ -202,7 +202,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐229)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐237)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

@@ -112,13 +112,13 @@
 
 ### Official Resources
 
-*   [Terraform GitHub Actions (⭐947)](https://github.com/hashicorp/setup-terraform)
+*   [Terraform GitHub Actions (⭐984)](https://github.com/hashicorp/setup-terraform)
 
 ## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Animation
 
-*   [SPPerspective (⭐289)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
+*   [SPPerspective (⭐290)](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration.
 
 ## [11. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -156,7 +156,7 @@
 ### Component Libraries
 
 *   [github-elements (⭐2.4k)](https://github.com/github/github-elements) - GitHub's Web Component collection.
-*   [Vaadin components (⭐278)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
+*   [Vaadin components (⭐293)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
 
 ## [13. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [StreamSets Data Collector (⭐52)](https://github.com/streamsets/datacollector-oss) \[Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
+*   [StreamSets Data Collector (⭐53)](https://github.com/streamsets/datacollector-oss) \[Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
 
 ### Table of Contents / Streaming SQL
 
@@ -178,11 +178,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [ray-x/navigator.lua (⭐909)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰.
+*   [ray-x/navigator.lua (⭐927)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰.
 
 ### Version Manager / Diagnostics
 
-*   [NTBBloodbath/nvenv (⭐42)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
+*   [NTBBloodbath/nvenv (⭐43)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 
 ---
 

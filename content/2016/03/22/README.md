@@ -33,7 +33,7 @@
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐170)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐172)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
 ## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

@@ -16,13 +16,13 @@
 
 ### Business
 
-*   [Social Enterprise (⭐50)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+*   [Social Enterprise (⭐51)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐713)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
+*   [2FAuth (⭐730)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
 
 ## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Gesture
 
-*   [Tactile (⭐714)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
+*   [Tactile (⭐715)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 
 ## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -181,7 +181,7 @@
 
 ### Deep Learning / Others
 
-*   [Tangent (⭐2.2k)](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
+*   [Tangent (⭐2.3k)](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
 *   [autograd (⭐6.2k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 *   [Myia (⭐456)](https://github.com/mila-udem/myia) - Deep Learning framework (pre-alpha).
 *   [nnabla (⭐2.6k)](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
@@ -202,7 +202,7 @@
 
 ### Form Components / Select
 
-*   [react-functional-select (⭐176)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
+*   [react-functional-select (⭐181)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
 
 ## [22. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

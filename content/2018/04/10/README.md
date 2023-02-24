@@ -43,7 +43,7 @@
 
 ### Utility / Collection View Layout
 
-*   [SwiftProvisioningProfile (⭐60)](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
+*   [SwiftProvisioningProfile (⭐61)](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Example Projects
 
-*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐118)](https://github.com/stianst/keycloak-experimental)
+*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐119)](https://github.com/stianst/keycloak-experimental)
 
 ---
 

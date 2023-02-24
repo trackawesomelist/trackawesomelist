@@ -16,13 +16,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [b0o/SchemaStore.nvim (⭐361)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.1k)](https://github.com/SchemaStore/schemastore) catalog.
+*   [b0o/SchemaStore.nvim (⭐376)](https://github.com/b0o/SchemaStore.nvim) - Provide access to the [SchemaStore (⭐2.1k)](https://github.com/SchemaStore/schemastore) catalog.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [Mastering ZSH (⭐959)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
+*   [Mastering ZSH (⭐965)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -60,8 +60,6 @@
 
 ### Bindings / MIT
 
-*   [tashy](https://www.laeran.pl/repositories/tashy/wiki?name=Home) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
-*   [tashy2](https://www.laeran.pl/repositories/tashy2/wiki?name=Home) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 *   [ada-lua (⭐35)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐5)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
@@ -69,7 +67,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [arrow-kt/arrow-meta (⭐354)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
+*   [arrow-kt/arrow-meta (⭐352)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
 ## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 

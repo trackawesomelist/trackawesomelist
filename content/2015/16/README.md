@@ -124,7 +124,7 @@
 ### Validations
 
 *   [uk\_postcode (⭐9)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
-*   [vex (⭐562)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+*   [vex (⭐563)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ## [9. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -206,7 +206,6 @@
 
 *   [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - This tutorial describes how to use the <canvas> element to draw 2D graphics, starting with the basics. The examples provided should give you some clear ideas what you can do with canvas and will provide code snippets that may get you started in building your own content.
 *   [Dev.Opera: HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/) - This article takes you through the basics of implementing a 2D canvas context, and using the basic canvas functions, including lines, shape primitives, images, text, and more. You are assumed to have mastered JavaScript basics already.
-*   [Canvas Demos](http://www.canvasdemos.com/) - A good font to study canvas. You can find application, games, tools and tutorials for the canvas HTML5 element.
 *   [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element)
 *   [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://msdn.microsoft.com/en-us/ie/hh410106#_HTML5_canvas)
 

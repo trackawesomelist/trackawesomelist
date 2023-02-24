@@ -51,7 +51,7 @@
 
 ### Queues and Messaging
 
-*   [NATS.io (⭐40)](https://github.com/nats-io/nats.cr) - NATS client
+*   [NATS.io (⭐41)](https://github.com/nats-io/nats.cr) - NATS client
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Hauk (⭐449)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐449)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
+*   [Hauk (⭐460)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐460)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 
 ## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

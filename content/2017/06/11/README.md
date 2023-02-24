@@ -10,7 +10,7 @@
 
 ### Menu / Barcode
 
-*   [FanMenu (⭐716)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+*   [FanMenu (⭐714)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
 ## [2. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 

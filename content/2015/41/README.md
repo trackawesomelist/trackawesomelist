@@ -114,7 +114,7 @@
 
 ### Database Tools
 
-*   [SchemaPlus (⭐691)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
+*   [SchemaPlus (⭐690)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 
 ### Process Management and Monitoring
 
@@ -274,7 +274,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [locus (⭐300)](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
+*   [locus (⭐301)](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 
 ### Packages / Logging
 
@@ -288,7 +288,7 @@
 
 ### Geolocation
 
-*   [geocalc (⭐120)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+*   [geocalc (⭐121)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 
 ### Third Party APIs
 

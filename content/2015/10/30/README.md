@@ -10,13 +10,13 @@
 
 ### E-Commerce and Payments
 
-*   [Solidus (⭐4.5k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
+*   [Solidus (⭐4.6k)](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [MarkRight (⭐905)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
+*   [MarkRight (⭐904)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

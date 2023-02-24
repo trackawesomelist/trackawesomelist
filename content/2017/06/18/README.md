@@ -59,7 +59,7 @@
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐242)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
+    *   [indigits/scirust (⭐243)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
 
 ### Libraries / Logging
 
@@ -67,7 +67,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐6.6k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐6.7k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

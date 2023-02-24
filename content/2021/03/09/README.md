@@ -113,7 +113,7 @@
 
 ### App Routing
 
-*   [Composable Navigator (⭐538)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
+*   [Composable Navigator (⭐547)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
 ## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

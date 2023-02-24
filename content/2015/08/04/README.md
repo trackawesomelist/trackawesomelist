@@ -38,7 +38,7 @@
 
 ### Utility / Barcode
 
-*   [R.swift (⭐8.9k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
+*   [R.swift (⭐9k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

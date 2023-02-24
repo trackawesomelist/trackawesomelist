@@ -86,7 +86,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [primereact (⭐3.5k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
+*   [primereact (⭐3.6k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Architecture Patterns
 
-*   [Clean Architecture for SwiftUI + Combine (⭐4k)](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
+*   [Clean Architecture for SwiftUI + Combine (⭐4.2k)](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 
 ## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 

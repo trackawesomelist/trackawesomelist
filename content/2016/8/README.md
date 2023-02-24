@@ -521,7 +521,7 @@ git commit --only <file_path>
 
 ### Applications
 
-*   [Hydra (⭐61)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
+*   [Hydra (⭐62)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
 *   [Phoenix Toggl (⭐172)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
 
 ### Files and Directories

@@ -298,27 +298,26 @@
 ### Applications / Episodes
 
 *   [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
-*   [UDSim (⭐215)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
+*   [UDSim (⭐226)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 *   [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
 *   [O2OO](https://www.vanheusden.com/O2OO/) - Works with the ELM327 to record data to a SQLite database for graphing purposes. It also supports reading GPS data. You can connect this to your car and have it map out using Google Maps KML data where you drive.
 
 ### Libraries and Tools / C
 
-*   [SocketCAN Utils (⭐1.7k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+*   [SocketCAN Utils (⭐1.8k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou (⭐482)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
-*   [c0f (⭐76)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
-*   [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
+*   [Caring Caribou (⭐500)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
+*   [c0f (⭐78)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
 ### Libraries and Tools / Go
 
-*   [CANNiBUS (⭐97)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+*   [CANNiBUS (⭐99)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
 ### Libraries and Tools / JavaScript
 
-*   [NodeJS extension to SocketCAN (⭐184)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+*   [NodeJS extension to SocketCAN (⭐187)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 *   [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - [info@uberatc.com](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/README.md/mailto:info@uberatc.com).
 *   [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security\&department=1) - Tesla hires security professionals for a variety of roles, particularly securing their vehicles.
 *   [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
@@ -328,17 +327,17 @@
 ### Coordinated disclosure / JavaScript
 
 *   Security
-    *   [Application Security (⭐5.3k)](https://github.com/paragonie/awesome-appsec)
-    *   [Security (⭐9.2k)](https://github.com/sbilly/awesome-security)
-    *   [Capture the Flag (⭐7.6k)](https://github.com/apsdehal/awesome-ctf)
-    *   [Malware Analysis (⭐9.3k)](https://github.com/rshipp/awesome-malware-analysis)
-    *   [Android Security (⭐6.6k)](https://github.com/ashishb/android-security-awesome)
-    *   [Hacking (⭐9.4k)](https://github.com/carpedm20/awesome-hacking)
-    *   [Honeypots (⭐6.5k)](https://github.com/paralax/awesome-honeypots)
-    *   [Incident Response (⭐5.7k)](https://github.com/meirwah/awesome-incident-response)
+    *   [Application Security (⭐5.5k)](https://github.com/paragonie/awesome-appsec)
+    *   [Security (⭐9.5k)](https://github.com/sbilly/awesome-security)
+    *   [Capture the Flag (⭐7.8k)](https://github.com/apsdehal/awesome-ctf)
+    *   [Malware Analysis (⭐9.5k)](https://github.com/rshipp/awesome-malware-analysis)
+    *   [Android Security (⭐6.7k)](https://github.com/ashishb/android-security-awesome)
+    *   [Hacking (⭐9.7k)](https://github.com/carpedm20/awesome-hacking)
+    *   [Honeypots (⭐6.7k)](https://github.com/paralax/awesome-honeypots)
+    *   [Incident Response (⭐6k)](https://github.com/meirwah/awesome-incident-response)
 *   Meta
-    *   [awesome (⭐229k)](https://github.com/sindresorhus/awesome)
-    *   [lists (⭐8.6k)](https://github.com/jnv/lists)
+    *   [awesome (⭐238k)](https://github.com/sindresorhus/awesome)
+    *   [lists (⭐8.8k)](https://github.com/jnv/lists)
 
 ## [24. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
@@ -405,7 +404,7 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐841)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐844)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -583,7 +582,7 @@
 
 *   [ecto (⭐5.7k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
 *   [ecto\_ordered (⭐39)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐976)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [postgrex (⭐979)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 *   [sql\_dust (⭐115)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
@@ -597,7 +596,7 @@
 ### Third Party APIs
 
 *   [bandwidth (⭐4)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
-*   [kane (⭐94)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
+*   [kane (⭐96)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
 *   [semver (⭐2)](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 
 ### Utilities

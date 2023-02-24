@@ -149,7 +149,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Knowledge Representation / Commonsense Knowledgebase
 
-*   [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/\~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4354984630817844670)].
+*   [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4354984630817844670)].
 
 ### Learning with Cognitive Plausibility / Commonsense Knowledgebase
 
@@ -182,7 +182,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
-### Science Logology / Science of Science
+### Science Logology / Philosophy of Science
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
@@ -190,13 +190,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / Theory of Concepts
 
-*   [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***Mapping the mind: Domain specificity in cognition and culture, Cambridge University Press***. \[[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662\&hl=en\&as_sdt=0,5)]. Alison Gopnik's original paper on the theory theory.
+*   [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***Mapping the mind: Domain specificity in cognition and culture, Cambridge University Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662\&hl=en\&as_sdt=0,5)]. Alison Gopnik's original paper on the theory theory.
 
 ## [Nov 08, 2022](/content/2022/11/08/README.md)
 
-### Science Logology / Science of Science
+### Science Logology / Philosophy of Science
 
-*   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/\~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
+*   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the emergence and the shift of scientific paradigms.
 
 ## [Nov 04, 2022](/content/2022/11/04/README.md)
 
@@ -345,7 +345,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Analogy / Science Education
 
-*   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/\~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
+*   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 
 ## [Sep 01, 2022](/content/2022/09/01/README.md)
 
@@ -456,7 +456,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***Computer Science Department, Human-Centered AI Institute, Stanford***, [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
 *   [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Computer Science Department, Stanford***.
-*   [Chelsea Finn](http://ai.stanford.edu/\~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Computer Science Department, Stanford***.
+*   [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Computer Science Department, Stanford***.
 *   [Jiajun Wu](https://jiajunwu.com/) - ***Computer Science Department, Stanford***.
 
 ### Harvard / Commonsense Knowledgebase
@@ -541,7 +541,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 *   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
-*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
+*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐22)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
 *   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐119)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
@@ -559,7 +559,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Evolutionary Intelligence / Explainable Deep Learning
 
-*   [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/\~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080\&hl=en\&as_sdt=0,5)]. A classic paper correlating biological trade-offs with the evolution of pareto optimality.
+*   [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080\&hl=en\&as_sdt=0,5)]. A classic paper correlating biological trade-offs with the evolution of pareto optimality.
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 *   [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429\&hl=en\&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
@@ -658,7 +658,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
 *   [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***MIT Press***, 1985. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=a+cognitive+theory+of+metaphor\&btnG=)]. A cognitive account on Metaphor.
 *   [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775) - ***Artificial Intelligence***, 1989. \[[All Versions](https://scholar.google.com/scholar?cluster=16104901325436513899\&hl=en\&as_sdt=0,5)]. A computational implementation of analogy.
-*   [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/\~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830\&hl=en\&as_sdt=0,5)]. A perspective unifying analogy and similarity judgement.
+*   [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830\&hl=en\&as_sdt=0,5)]. A perspective unifying analogy and similarity judgement.
 *   [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122\&hl=en\&as_sdt=0,5)]. A comprehensive review on the perspective of treating analogy as cross-domain generalization.
 *   [Emergence of analogy from relation learning](https://www.pnas.org/content/pnas/116/10/4176.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4877125748339538047\&hl=en\&as_sdt=0,5)]. Analogy feature in language models.
 *   [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253\&hl=en\&as_sdt=0,5)]. Explaining the analogy capability in word embeddings.
@@ -678,13 +678,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Representations of Commonsense Knowledge](https://www.sciencedirect.com/book/9781483207704/representations-of-commonsense-knowledge) - ***Morgan Kaufmann***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=8861902735724600978\&hl=en\&as_sdt=0,5)]. A classic book on commonsense knowledge.
 *   [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961\&hl=en\&as_sdt=0,5)]. The original paper on visual commonsense.
-*   [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/\~cs125/reading/commonsenseAI.pdf) - ***Communications of the ACM***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203\&hl=en\&as_sdt=0,5)]. Gary Marcus's review on commonsense knowledge in AI.
+*   [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/~cs125/reading/commonsenseAI.pdf) - ***Communications of the ACM***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203\&hl=en\&as_sdt=0,5)]. Gary Marcus's review on commonsense knowledge in AI.
 *   [Abductive Commonsense Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16544200144479839958\&hl=en\&as_sdt=0,5)]. Abductive commonsense reasoning on large language models.
 *   [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487\&hl=en\&as_sdt=0,5)]. A perspective on the furture of computational linguistics research---commonsense-driven and embodied language.
 
 ### Commonsense / Commonsense Knowledgebase
 
-*   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/\~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
+*   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
 *   [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - ***Proceedings of AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080\&hl=en\&as_sdt=0,5)]. The first attempt for acquring commonsense knowlege from humans' activities on the internet.
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
@@ -698,7 +698,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***Plato Stanford***.
 *   [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) - ***Foundations and Trends in Programming Languages***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421\&hl=en\&as_sdt=0,5)]. Sumit Gulwani's comprehensive review on program synthesis.
 *   [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. \[[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169\&hl=en\&as_sdt=0,5)]. The original paper on second-order metarules.
-*   [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/\~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
+*   [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
 *   [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***Journal of Artificial Intelligence Research***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302\&hl=en\&as_sdt=0,5)]. A 30-year comprehensive review on Inductive Logic Programming.
 *   [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386\&hl=en\&as_sdt=0,5)].
 *   [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844\&hl=en\&as_sdt=0,5)]. A incremental learning version of Bayesian program learning.
@@ -719,7 +719,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The Perception of Relations](https://perception.jhu.edu/files/PDFs/21_Relations/HafriFirestone_2021_SeeingRelations_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=12190078466818849725\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Chaz Firestone's review on the perception of relation, in constrast to the conventional reasoning view.
 *   [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345\&hl=en\&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
 *   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.
-*   [Answer Set Programming](http://people.sabanciuniv.edu/\~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
+*   [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
 *   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645\&hl=en\&as_sdt=0,5)].
 *   [The discovery of structural form](https://www.pnas.org/content/105/31/10687) - ***Proceedings of National Academy of Sciences***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486\&hl=en\&as_sdt=0,5)]. Chales Kemp's review on theory induction.
 *   [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf) - ***CogSci'08***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749\&hl=en\&as_sdt=0,5)].
@@ -765,7 +765,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***Springer***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159\&hl=en\&as_sdt=0,5)]. An introductory account on abductive reasoning.
 *   [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook) - ***Springer***, 2006. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation\&btnG=)]. An introductory account on abductive reasoning.
 *   [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf) - ***The Oxford Handbook of Thinking and Reasoning***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562\&hl=en\&as_sdt=0,5)]. A handbook on the formulations of Abduction.
-*   [Probabilistic models of cognition: Conceptual foundations](https://www.cs.jhu.edu/\~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec7/chater2006probabilistica.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=12857321660837478492)]. A Bayesian account of Abduction.
+*   [Probabilistic models of cognition: Conceptual foundations](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec7/chater2006probabilistica.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=12857321660837478492)]. A Bayesian account of Abduction.
 *   [The structure and function of explanations](https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2849189270394400667\&hl=en\&as_sdt=0,5)]. Basic computation modes of Abduction.
 *   [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465\&hl=en\&as_sdt=0,5)]. An account showing that inductive bias is critical for explanation.
 *   [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733\&hl=en\&as_sdt=0,5)].
@@ -822,18 +822,18 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***Behavioral and Brain Sciences***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian generalization.
 *   [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794\&hl=en\&as_sdt=0,5\&as_vis=1)]. Original paper on Bayesian generalization.
 *   [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=5476233692839102256)]. \[[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)]. Fei Xu's review on Bayesian word learning.
-*   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/\~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
+*   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
 *   [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287\&hl=en\&as_sdt=0,5)]. Brenden Lake and Josh Tenenbaum's review on Bayesian modeling.
 
 ### Bayesian Modeling / Generative Model
 
 *   [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***International Journal of Computer Vision***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240\&hl=en\&as_sdt=0,5)]. Song-Chun Zhu's original paper on energy-based generative texture modeling.
-*   [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/\~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1611451804975333652)]. Alan Yuille's review on Bayesian object perception.
-*   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/\~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
-*   [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/\~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
+*   [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1611451804975333652)]. Alan Yuille's review on Bayesian object perception.
+*   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
+*   [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
 *   [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 *   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐26)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
-*   [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/\~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491\&hl=en\&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
+*   [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491\&hl=en\&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
 *   [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***Predicting Structured Data, MIT Press***, 2006. \[[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768\&hl=en\&as_sdt=0,5)]. Yann LeCun's tutorial on energy-based learning.
 *   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317\&hl=en\&as_sdt=0,5)].
 *   [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***Cognitive Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A Bayesian account for modeling basic rules as the hypothesis space.
@@ -841,13 +841,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Bayesian Modeling / Nonparametric Model
 
 *   [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***The Annals of Statistics***, 1973. \[[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902\&hl=en\&as_sdt=0,5)]. A classic review on non-parametric problems.
-*   [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/\~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046\&hl=en\&as_sdt=0,5)]. The original paper on Dirichlet Process modeling for non-parametric problems.
+*   [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046\&hl=en\&as_sdt=0,5)]. The original paper on Dirichlet Process modeling for non-parametric problems.
 *   [Latent Semantic Indexing: A Probabilistic Analysis](https://www.sciencedirect.com/science/article/pii/S0022000000917112) - ***Journal of Computer and System Sciences***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=7296120469860429813\&hl=en\&as_sdt=0,5)]. The original paper on hierarchical topic model.
 *   [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17382767110929995134)]. Application on scientific paper ananlysis for hierarchical topic model.
 *   [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NeurIPS'03***, 2003. \[[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700\&hl=en\&as_sdt=0,5)]. The original paper for nested Chinese restaurant process.
 *   [Infinite Latent Feature Models and the Indian Buffet Process](http://mlg.eng.cam.ac.uk/zoubin/papers/ibptr.pdf) - ***Gatsby Computational Neuroscience Unit Technical Report 2005-001***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=13180738480564152907\&hl=en\&as_sdt=0,5)].
 *   [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***Journal of Machine Learning Research***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943\&hl=en\&as_sdt=0,5)]. Tom Griffiths and Zoubin Ghahramani's review on infinite models, including the Chinese Restaurant Process (CRP) and the Indian Buffet Process (IBP).
-*   [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/\~nando/papers/npblog.pdf) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095\&hl=en\&as_sdt=0,5)]. The first paper integrating logic into non-parametric model.
+*   [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095\&hl=en\&as_sdt=0,5)]. The first paper integrating logic into non-parametric model.
 *   [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Treating predicate invention as a non-parametric problem, in the account of statistics.
 
 ### Bayesian Modeling / Bayesian Optimization
@@ -866,7 +866,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695\&rep=rep1\&type=pdf) - ***Science***, 2000. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14602426245887619907)]. The original paper on spectrum clustering.
 *   [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628\&hl=en\&as_sdt=0,5)]. The original paper on Variational Autoencoder.
 *   [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088\&hl=en\&as_sdt=0,5)]. Yoshua Bengio's review on representation learning.
-*   [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/\~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
+*   [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
 *   [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281\&hl=en\&as_sdt=0,5)]. The first paper identifying the problem of information bottleneck in representation learning.
 *   [On the information bottleneck theory of deep learning](https://artemyk.github.io/assets/pdf/papers/Saxe%20et%20al_2019_On%20the%20information%20bottleneck%20theory%20of%20deep%20learning.pdf) - ***Journal of Statistical Mechanics: Theory and Experiment***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12271240925674881982\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
@@ -937,7 +937,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Reinforcement learning: An introduction](https://www.andrew.cmu.edu/user/rmorina/papers/SuttonBook.pdf) - ***MIT Press***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8821915215029978039\&hl=en\&as_sdt=0,5)]. Richard Sutton's comprehensive book on reinforcement learning.
 *   [Reinforcement learning: A survey](https://www.jair.org/index.php/jair/article/view/10166) - ***Journal of Artificial Intelligence Research***, 1996. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4983604491168613713)]. Leslie Kaelbling's review on reinforcement learning.
 *   [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068\&hl=en\&as_sdt=0,5)]. The original paper on operation reinforcement learning.
-*   [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/\~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860\&hl=en\&as_sdt=0,5)].
+*   [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860\&hl=en\&as_sdt=0,5)].
 *   [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404\&hl=en\&as_sdt=0,5)]. \[[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf)]. Sergey Levine's tutorial on treating reinforcement learning probabilisticly.
 *   [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663\&hl=en\&as_sdt=0,5)]. A formal treatment on the generalization problem in reinforcement learning.
 *   [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185\&hl=en\&as_sdt=0,5)]. The original paper on constrained reinforcement learning (safe reinforcement learning).
@@ -952,7 +952,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
 *   [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446\&hl=en\&as_sdt=0,5)]. The original paper on the recognition-by-components theory.
 *   [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***Engineering***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161\&hl=en\&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
-*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/\~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
+*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
 *   [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917\&hl=en\&as_sdt=0,5)].
 *   [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***Cognition***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915\&hl=en\&as_sdt=0,5)]. The original paper on the idea of curriculum learning.
 *   [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
@@ -1023,8 +1023,8 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### UCLA / Commonsense Knowledgebase
 
-*   [Song-Chun Zhu](http://www.stat.ucla.edu/\~sczhu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
-*   [Tao Gao](http://www.stat.ucla.edu/\~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/\~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
+*   [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
+*   [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
 *   [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, Department of Statistics, UCLA***.
 
 ## [Jul 07, 2022](/content/2022/07/07/README.md)
@@ -1103,7 +1103,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Explainability / Explainable Deep Learning
 
-*   [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐6.8k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 ## [May 09, 2022](/content/2022/05/09/README.md)
 
@@ -1267,7 +1267,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Paper Writing
 
 *   [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
-*   [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/\~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
+*   [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
 
 ### Communications / Pragmatics
 
@@ -1301,7 +1301,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### UC Berkeley / Commonsense Knowledgebase
 
-*   [Anca Dragan](https://people.eecs.berkeley.edu/\~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
+*   [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
 
 ## [Mar 16, 2022](/content/2022/03/16/README.md)
 
@@ -1344,7 +1344,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Verbosity: A Game for Collecting Common-Sense Facts](http://www.aladdin.cs.cmu.edu/papers/pdfs/y2006/verbosity.pdf) - ***CHI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=7793704394155465847\&hl=en\&as_sdt=0,5)].
 *   [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - ***Communications of the ACM***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/\~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553\&hl=en\&as_sdt=0,5)].
+*   [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553\&hl=en\&as_sdt=0,5)].
 
 ## [Mar 04, 2022](/content/2022/03/04/README.md)
 
@@ -1423,13 +1423,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### NYU / Commonsense Knowledgebase
 
-*   [Ernest Davis](https://cs.nyu.edu/\~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
+*   [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
 
 ## [Feb 12, 2022](/content/2022/02/12/README.md)
 
 ### Bayesian Modeling / Generative Model
 
-*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/\~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
+*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
 
 ## [Feb 11, 2022](/content/2022/02/11/README.md)
 
@@ -1492,14 +1492,14 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### UCLA / Commonsense Knowledgebase
 
-*   [Ying Nian Wu](http://www.stat.ucla.edu/\~ywu/) - ***Department of Statistics, UCLA***.
-*   [Guy Van den Broeck](http://web.cs.ucla.edu/\~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
+*   [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) - ***Department of Statistics, UCLA***.
+*   [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
 
 ## [Jan 14, 2022](/content/2022/01/14/README.md)
 
 ### Bayesian Modeling / Generative Model
 
-*   [Parameter Expansion for Data Augmentation](http://www.stat.ucla.edu/\~ywu/research/papers/PXDA.pdf) - ***Journal of the American Statistical Association***, 1999. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=15342818142955984734)].
+*   [Parameter Expansion for Data Augmentation](http://www.stat.ucla.edu/~ywu/research/papers/PXDA.pdf) - ***Journal of the American Statistical Association***, 1999. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=15342818142955984734)].
 
 ## [Jan 09, 2022](/content/2022/01/09/README.md)
 
@@ -1527,7 +1527,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Bayesian Modeling / Bayesian Optimization
 
-*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/\~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437\&hl=en\&as_sdt=0,5)].
+*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437\&hl=en\&as_sdt=0,5)].
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
@@ -1551,7 +1551,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Bayesian Modeling / Nonparametric Model
 
-*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/\~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 ## [Dec 23, 2021](/content/2021/12/23/README.md)
 
@@ -1563,7 +1563,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Stanford / Commonsense Knowledgebase
 
-*   [Michael Frank](https://web.stanford.edu/\~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
+*   [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
 
 ## [Dec 12, 2021](/content/2021/12/12/README.md)
 
@@ -1648,8 +1648,8 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Abduction / Applications in AI
 
 *   [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6) - ***Advances in Bayesian Networks***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212\&hl=en\&as_sdt=0,5)].
-*   [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/\~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198\&hl=en\&as_sdt=0,5)].
-*   [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/\~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483\&hl=en\&as_sdt=0,5)].
+*   [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198\&hl=en\&as_sdt=0,5)].
+*   [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483\&hl=en\&as_sdt=0,5)].
 *   [An Approach to Abductive Reasoning in Equational Logic](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6624/6619) - ***IJCAI'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=686895264429811190\&hl=en\&as_sdt=0,5)].
 *   [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7355960657107994022\&hl=en\&as_sdt=0,5)].
 *   [Discovering a symbolic planning language from continuous experience](https://joaoloula.github.io/Discovering_a_Symbolic_Planning_Language_From_Continuous_Experience.pdf) - ***CogSci'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=2005\&sciodt=0%2C5\&cites=14400178089019636923\&scipsc=\&q=Discovering+a+symbolic+planning+language+from+continuous+experience\&btnG=)].
@@ -1716,7 +1716,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf) - ***IJCAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7027142960863064076\&hl=en\&as_sdt=0,5)].
 *   [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855) - ***Artificial Intelligence***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11875529139573472578\&hl=en\&as_sdt=0,5)].
 *   [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4172146500538799638\&hl=en\&as_sdt=0,5)].
-*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/gblackout/NLIL)].
+*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐37)](https://github.com/gblackout/NLIL)].
 *   [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9257372000778020812\&hl=en\&as_sdt=0,5)].
 *   [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1912020791698331044)].
 *   [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://arxiv.org/abs/2006.14448) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1335404082385789329)].
@@ -1790,7 +1790,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Analogy / Science Education
 
-*   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/\~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
+*   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
 *   [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NeurIPS'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654\&hl=en\&as_sdt=0,5)].
 *   [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16686853801653819556\&hl=en\&as_sdt=0,5)].
 *   [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120) - ***ICLR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15521573039503233138\&hl=en\&as_sdt=0,5)].
@@ -1896,7 +1896,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576\&hl=en\&as_sdt=0,5)]. \[[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
 *   [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf) - ***CVPR'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6285495755337309034\&hl=en\&as_sdt=0,5)].
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐914)](https://github.com/JosephKJ/OWOD)].
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
 ### Learning with Cognitive Plausibility / Commonsense Knowledgebase
@@ -1942,12 +1942,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### UCSD / Commonsense Knowledgebase
 
 *   [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***UCSD***.
-*   [Zhuowen Tu](https://pages.ucsd.edu/\~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/\~ztu/Group.htm) - ***UCSD***.
+*   [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
 *   [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
 
 ### NYU / Commonsense Knowledgebase
 
-*   [Brenden Lake](https://cims.nyu.edu/\~brenden/) - ***NYU***, [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/) - ***NYU***.
+*   [Brenden Lake](https://cims.nyu.edu/~brenden/) - ***NYU***, [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/) - ***NYU***.
 *   [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***NYU***, [Computation & Cognition Lab](http://gureckislab.org/) - ***NYU***.
 *   [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***NYU***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***NYU***.
 

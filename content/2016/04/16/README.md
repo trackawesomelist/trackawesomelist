@@ -47,7 +47,7 @@
 
 ### Animation
 
-*   [Pulsator (⭐1.3k)](https://github.com/shu223/pulsator) - Pulse animation for iOS.
+*   [Pulsator (⭐1.4k)](https://github.com/shu223/pulsator) - Pulse animation for iOS.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

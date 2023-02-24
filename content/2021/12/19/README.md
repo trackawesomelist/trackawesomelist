@@ -76,7 +76,7 @@
 
 ### Stanford / Commonsense Knowledgebase
 
-*   [Michael Frank](https://web.stanford.edu/\~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
+*   [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

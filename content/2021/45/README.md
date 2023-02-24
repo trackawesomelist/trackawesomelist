@@ -10,7 +10,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [rover (⭐2.3k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
+*   [rover (⭐2.4k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
 
 ## [2. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-mdc (⭐58)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
+*   [yew-mdc (⭐60)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Data Store / Mouse Events
 
-*   [teaful (⭐674)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐678)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -149,11 +149,11 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Owncast (⭐6.9k)](https://github.com/owncast/owncast) - Owncast is an open source, self-hosted, decentralized, single user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. `MIT` `Go`
+*   [Owncast (⭐7k)](https://github.com/owncast/owncast) - Owncast is an open source, self-hosted, decentralized, single user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. `MIT` `Go`
 
 ### Software / Ticketing
 
-*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐974)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs`
+*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐985)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs`
 
 ### Software / Wikis
 
@@ -209,7 +209,7 @@
 
 ### GUI
 
-*   [DbGate (⭐2k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐2.1k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
 ## [24. Awesome V](/content/vlang/awesome-v/week/README.md)
 
@@ -219,7 +219,7 @@
 
 ### Game development
 
-*   [engine (⭐31)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
+*   [engine (⭐33)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 
 ## [25. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -272,7 +272,7 @@
 
 ### Community Extensions
 
-*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐35)](https://github.com/p2-inc/keycloak-events)
+*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐44)](https://github.com/p2-inc/keycloak-events)
 
 ## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
@@ -356,8 +356,8 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaeinst/roshnivim-cs (⭐51)](https://github.com/shaeinst/roshnivim-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
-*   [catppuccin/nvim (⭐2k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
+*   [shaeinst/roshnivim-cs (⭐52)](https://github.com/shaeinst/roshnivim-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
+*   [catppuccin/nvim (⭐2.2k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
 
 ## [34. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -399,7 +399,7 @@
 
 ### Database
 
-*   [ClickHouse (⭐206)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
+*   [ClickHouse (⭐212)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
 
 ## [39. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
@@ -665,12 +665,12 @@
 
 ### Monitoring
 
-*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐921)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐33k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
+*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐923)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐33k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
 
 ### Template Engine / Other
 
-*   [Jamal (⭐29)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
-*   [jte (⭐458)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
+*   [Jamal (⭐30)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
+*   [jte (⭐472)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
 
 ### People / Other
 

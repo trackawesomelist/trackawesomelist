@@ -24,7 +24,7 @@
 
 ### Distributed Computing / NLP
 
-*   [PaddlePaddle (⭐19k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
+*   [PaddlePaddle (⭐20k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
 
 ### Evaluation / NLP
 
@@ -168,10 +168,10 @@
 ### Back-End Development
 
 *   [Vagrant (⭐575)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐530)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Pyramid (⭐532)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 *   [Phalcon (⭐602)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 *   [Dropwizard (⭐86)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐317)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Lumen (⭐318)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)

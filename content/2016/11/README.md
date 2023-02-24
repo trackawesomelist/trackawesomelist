@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14 - Mar 20, 2016
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -138,7 +138,7 @@
 
 ### Packages / Logging
 
-*   [storyboard (⭐730)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+*   [storyboard (⭐732)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
 ## [19. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
@@ -635,27 +635,13 @@
 
 *   [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 
-## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Email
-
-*   [Gourmet/Email plugin (⭐17)](https://github.com/gourmet/email) - Email helper, layout and more.
-
-### ORM / Database / Datamapping
-
-*   [JeremyHarris/LazyLoad plugin (⭐62)](https://github.com/jeremyharris/cakephp-lazyload) - An association lazy loader for entities.
-
-### Queue
-
-*   [Gearman plugin (⭐13)](https://github.com/cvo-technologies/cakephp-gearman) - A plugin for offloading CakePHP tasks to a Gearman Job Server.
-
-## [38. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [37. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Tools
 
 *   [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables.
 
-## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [38. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -666,7 +652,7 @@
 *   [lucasviola/Awesome Functional Programming (⭐820)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 *   [xgrommx/Awesome Functional Programming (⭐3.2k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 
-## [40. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [39. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -684,7 +670,7 @@
 *   [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language](http://www.lightningdesignsystem.com/) - With the Lightning Design System you can build custom applications with a look and feel that is consistent with Salesforce core features — without reverse engineering our styles! Simply download our platform-agnostic CSS framework and get started today.
     to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 
-## [41. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [40. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Injection
 
@@ -694,13 +680,13 @@
 
 *   [Image Hash (⭐1.8k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 
-## [42. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [41. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 
 *   [Alluxio](http://www.alluxio.org/) - reliable file sharing at memory speed across cluster frameworks.
 
-## [43. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [42. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Official Resources
 

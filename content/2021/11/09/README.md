@@ -24,7 +24,7 @@
 
 ### Database
 
-*   [ClickHouse (⭐206)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
+*   [ClickHouse (⭐212)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
 
 ## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 

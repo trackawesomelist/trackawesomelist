@@ -10,7 +10,7 @@
 
 ### Installation and Setup / Testing Tools
 
-*   [Lintier (⭐13)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
+*   [Lintier (⭐14)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
 
 ## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [MunifTanjim/nui.nvim (⭐734)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
+*   [MunifTanjim/nui.nvim (⭐765)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Integrations / Mypy plugins
 
-*   [nbQA (⭐634)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [nbQA (⭐686)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

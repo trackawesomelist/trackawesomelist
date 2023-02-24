@@ -10,7 +10,7 @@
 
 ### Deployment Tools / Newsletters
 
-*   [morph (⭐559)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
+*   [morph (⭐571)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)

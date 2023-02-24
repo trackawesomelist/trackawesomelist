@@ -27,30 +27,30 @@
 ### Modules / Various Godot versions
 
 *   [Entity Spell System (⭐99)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-*   [godot-anl (⭐98)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐72)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-anl (⭐98)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐71)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 *   [godot-python (⭐1.5k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 *   [Gdnet for Godot 3 (⭐112)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 
 ### Modules / Godot 3.2+
 
 *   [godotcord (⭐43)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-*   [godot-apple-id (⭐28)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
+*   [godot-apple-id (⭐29)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 *   [Godot-Slicer (⭐103)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.5k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐396)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [Goost (⭐399)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐11)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
 
-*   [FMOD Integration (⭐168)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+*   [FMOD Integration (⭐169)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 
 ### Modules / Godot version unknown
 
-*   [godot-enet-better (⭐90)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-*   [Head tracking using OpenCV (⭐40)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+*   [godot-enet-better (⭐91)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+*   [Head tracking using OpenCV (⭐41)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 *   [Open Adaptive Music Library (⭐56)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐21)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 *   [RawPacker (⭐20)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
-*   [spine (⭐124)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+*   [spine (⭐126)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 *   [WaterSplash 2D node (⭐35)](https://github.com/laverneth/water)
 
 ### Bash scripts / Godot version unknown
@@ -87,13 +87,13 @@
 
 ### Security
 
-*   [Ockam (⭐2.8k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐2.9k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐246)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐248)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

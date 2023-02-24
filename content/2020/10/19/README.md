@@ -80,7 +80,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-generic-chooser (⭐95)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
+*   [wagtail-generic-chooser (⭐104)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 
 ### Apps / Media
 
@@ -88,7 +88,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Content Import (⭐26)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
+*   [Wagtail Content Import (⭐27)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
 
 ## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -148,7 +148,7 @@
 
 ### CSV
 
-*   [csv2sql (⭐44)](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
+*   [csv2sql (⭐45)](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -49,8 +49,8 @@
 
 ### Applications / System tools
 
-*   [mmstick/concurr (⭐92)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐253)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
+*   [mmstick/concurr (⭐93)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
+*   [mmstick/fontfinder (⭐254)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

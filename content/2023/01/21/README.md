@@ -208,16 +208,16 @@
 
 *   [Qubes-GUI-Rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 
-### Exploitation Tools / OpenVPN
+### Exploitation Tools / Unikernel-like
 
 *   [MemProcFS (⭐1.8k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
     *   [MemProcFS-Plugins (⭐30)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
-### Qubes OS Legends / OpenVPN
+### Qubes OS Legends / Web articles
 
 *   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 
-### Streamers / OpenVPN
+### Streamers / Web articles
 
 *   [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 
@@ -229,7 +229,7 @@
 
 ### Software / Recipe Management
 
-*   [Bar Assistant (⭐96)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐105)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
 ## [14. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

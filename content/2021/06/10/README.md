@@ -85,7 +85,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Flame (⭐3.5k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
+*   [Flame (⭐3.6k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

@@ -74,7 +74,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐716)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐721)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [8. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -299,7 +299,7 @@ git branch --contains <commit-ish>
 
 ### Java / Symfony2
 
-*   [RestExpress (⭐941)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+*   [RestExpress (⭐942)](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 
 ### Querying / Symfony2
 

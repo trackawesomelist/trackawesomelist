@@ -10,7 +10,7 @@
 
 ### RSS
 
-*   [feedparser (⭐161)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
+*   [feedparser (⭐162)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

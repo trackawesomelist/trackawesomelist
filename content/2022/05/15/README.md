@@ -91,7 +91,6 @@
 ### APIs, Data and ML
 
 *   [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
-*   [unscan](https://unscan.co) - Free API to scan images for NSFW and files for malware. 100 requests per second.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

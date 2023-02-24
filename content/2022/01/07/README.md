@@ -47,7 +47,7 @@
 
 ### Showcases
 
-*   [Demo.Playwright (⭐155)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
+*   [Demo.Playwright (⭐157)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-firefox-darwin (⭐8)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+*   [nixpkgs-firefox-darwin (⭐10)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
 ## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

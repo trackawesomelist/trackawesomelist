@@ -32,9 +32,9 @@
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
-### Tools / XML
+### Modules / Database
 
-*   [nessie (⭐512)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+*   [nessie (⭐515)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
 ## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -70,7 +70,7 @@ Language: English
 
 ### Linter
 
-*   [AnyLint (⭐116)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐117)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 

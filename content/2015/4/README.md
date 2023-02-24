@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26 - Feb 01, 2015
 
-19 awesome lists updated this week.
+18 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,13 +25,7 @@
 
 *   [nw.js (⭐39k)](https://github.com/nwjs/nw.js)
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Imagery
-
-*   [Imagine plugin (⭐138)](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine (⭐4.3k)](https://github.com/avalanche123/Imagine).
-
-## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Infrastructure
 
@@ -48,7 +42,7 @@
 *   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
 *   [sysadmin (⭐15)](https://github.com/itech001/awesome-sysadmin)
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 
@@ -58,7 +52,7 @@
 
 *   [TinyMCE (⭐12k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 
-## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Syntax
 
@@ -73,7 +67,7 @@
 
 *   [rmongodb (⭐53)](https://github.com/mongosoup/rmongodb) - R driver for MongoDB.
 
-## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Functional Programming
 
@@ -87,13 +81,13 @@
 
 *   [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** \[45:03]
 
-## [9. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [8. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### IDE
 
 *   [Vim Template (⭐360)](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
@@ -101,8 +95,8 @@
 
 ### Miscellaneous
 
-*   [ex2ms (⭐167)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
-*   [ex\_rated (⭐420)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
+*   [ex2ms (⭐168)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
+*   [ex\_rated (⭐422)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 
 ### Text and Numbers
 
@@ -112,7 +106,7 @@
 
 *   [vim-elixir (⭐1.3k)](https://github.com/elixir-lang/vim-elixir) - Vim configuration files for Elixir.
 
-## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -134,13 +128,13 @@
 
 
 
-## [12. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [11. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Workflow Overviews
 
 *   [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost), by Paul Davis (11/4/14)
 
-## [13. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [12. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Command-line Utilities
 
@@ -151,7 +145,7 @@
 *   [LuaCrypto (⭐86)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 *   [lua-lockbox (⭐325)](https://github.com/somesocks/lua-lockbox) - A collection of cryptographic primitives written in pure Lua.
 
-## [14. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
+## [13. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
 
 ### Emojis / Compare Branches across Forked Repositories
 
@@ -161,13 +155,13 @@
 *   `:+1:`
 *   `:clap:`
 
-## [15. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [14. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Gateways / Bridges
 
 *   [saldo.mx](http://saldo.mx/)
 
-## [16. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [15. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Args
 
@@ -272,13 +266,13 @@
 *   [Daiku](https://metacpan.org/pod/Daiku) - Make for Perl.
 *   [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 
-## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [16. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [cfonts (⭐1.3k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 
-## [18. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
+## [17. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
 ### GDC Talks / Table of Contents
 
@@ -295,7 +289,7 @@
 *   \[2012, G.A.N.G Summit] [Music Design in Games](https://www.youtube.com/watch?v=Pl86ND_c5Og): Rich Vreeland (Disasterpeace)
 *   \[2012, George Mason University] [Lecture Series](https://www.youtube.com/watch?v=CrfdNJDVpR4): Todd Howard (Bethesda)
 
-## [19. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [18. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Fundamentals
 

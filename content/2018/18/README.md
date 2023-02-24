@@ -48,7 +48,7 @@
 
 ### Applications
 
-*   [NewNode (⭐388)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+*   [NewNode (⭐391)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -418,11 +418,11 @@
 
 ### Packages / Command-line utilities
 
-*   [oclif (⭐8k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+*   [oclif (⭐8.1k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 ### Packages / Hardware
 
-*   [gps (⭐223)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+*   [gps (⭐227)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
 
 ### Packages / Web frameworks
 
@@ -442,15 +442,15 @@
 
 ### Packages / Network
 
-*   [netcat (⭐383)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐384)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐4.6k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐4.7k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
-*   [bee-queue (⭐3.1k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+*   [bee-queue (⭐3.2k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 
 ### Packages / Serialization
 
@@ -766,8 +766,8 @@
 
 ### Applications / System tools
 
-*   [mmstick/concurr (⭐92)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐253)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
+*   [mmstick/concurr (⭐93)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
+*   [mmstick/fontfinder (⭐254)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
 ## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

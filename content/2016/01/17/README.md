@@ -76,7 +76,7 @@ git commit --amend --reset-author --no-edit
 
 ### Games
 
-*   [entice (⭐113)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
+*   [entice (⭐114)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
 ## [5. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

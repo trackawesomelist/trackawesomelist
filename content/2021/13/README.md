@@ -23,13 +23,13 @@
 
 ### Development Environment
 
-*   :strawberry: [CakePHP Docker (⭐21)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
+*   [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐210)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐212)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Resources / Editors
 
-*   [HyperLap2D (⭐260)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+*   [HyperLap2D (⭐266)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 *   [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Tutorials / Getting Started
@@ -135,13 +135,9 @@
 
 ## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
-### Newsletter
-
-*   [Swift Weekly Brief](https://swiftweeklybrief.com/) - A multi author curated newsletter.
-
 ### Colors
 
-*   [ColorKit (⭐572)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
+*   [ColorKit (⭐584)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
 
 ### Images / Barcode
 
@@ -158,7 +154,7 @@
 
 ### Button / Barcode
 
-*   [IGStoryButtonKit (⭐35)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
+*   [IGStoryButtonKit (⭐34)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
 
 ### Permissions / Barcode
 
@@ -166,7 +162,7 @@
 
 ### Transition / Barcode
 
-*   [SPLarkController (⭐966)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
+*   [SPLarkController (⭐967)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
 *   [SPStorkController (⭐2.6k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 
 ## [20. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
@@ -189,7 +185,7 @@
 
 *   [lisp-stat](https://github.com/lisp-stat) - an environment for statistical computing, conceptually similar to R, that is also suitable for front-line production deployments. "It grew out of a desire to have an environment for rapidly prototyping analytical and A.I. solutions, and move directly to production environments with minimal friction."
     *   <https://lisp-stat.dev/>
-    *   ships Luke Tierney's [XLisp-Stat](https://homepage.stat.uiowa.edu/\~luke/xls/xlsinfo/) (a predecessor of R) as well as newer libraries.
+    *   ships Luke Tierney's [XLisp-Stat](https://homepage.stat.uiowa.edu/~luke/xls/xlsinfo/) (a predecessor of R) as well as newer libraries.
 
 ### Apps / Third-party APIs
 
@@ -223,7 +219,7 @@
 
 ### Table of Contents / Streaming SQL
 
-*   [ksqlDB (⭐5.3k)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
+*   [ksqlDB (⭐5.4k)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 *   [Materialize](https://materialize.com) \[Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
 
 ## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
@@ -257,7 +253,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailwind-yew-builder (⭐63)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+*   [tailwind-yew-builder (⭐66)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 
 ## [32. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -315,7 +311,7 @@
 
 ### Modules / CLI utils
 
-*   [charmd (⭐45)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
+*   [charmd (⭐49)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
 
 ### Tools / XML
 
@@ -325,15 +321,15 @@
 
 ### Deployment Tools / Newsletters
 
-*   [Colmena (⭐431)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐483)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Development / Newsletters
 
-*   [pre-commit-hooks.nix (⭐242)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐259)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ### Programming Languages / Arduino
 
-*   [nixduino (⭐32)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
+*   [nixduino (⭐33)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
 
 ### Programming Languages / Crystal
 
@@ -373,8 +369,8 @@
 
 ### Machine Learning
 
-*   [DL4S (⭐86)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
-*   [SwiftCoreMLTools (⭐140)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
+*   [DL4S (⭐87)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
+*   [SwiftCoreMLTools (⭐144)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
 
 ## [44. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -544,7 +540,7 @@
 
 ### Queue
 
-*   [kaffe (⭐138)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐139)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
 ## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -584,7 +580,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [jut (⭐169)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
+*   [jut (⭐171)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 
 ## [61. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 

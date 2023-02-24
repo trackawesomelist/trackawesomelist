@@ -361,7 +361,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐549)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐551)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ### Testing
 
@@ -393,7 +393,7 @@
 
 ### Key Value Store
 
-*   [Zephyr (⭐844)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐850)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 ## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

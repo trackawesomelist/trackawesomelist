@@ -59,7 +59,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [hcledit (⭐268)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐275)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

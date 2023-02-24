@@ -141,7 +141,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐6.5k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
+*   [Homer (⭐6.6k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
 
 ## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -251,16 +251,16 @@
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐639)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐329)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐31k)](https://github.com/psf/black).
+*   [code\_formatter (⭐649)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐336)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐31k)](https://github.com/psf/black).
 *   [python-bytecode (⭐60)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
 *   [quickopen (⭐75)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐208)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐385)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐271)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐166)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [sidecar (⭐210)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐387)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐276)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐172)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 *   [topbar (⭐4)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐932)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [vim (⭐941)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -291,7 +291,7 @@
 
 ### Resources / Learning
 
-*   [Nix Shorts (⭐338)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
+*   [Nix Shorts (⭐348)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
 ## [29. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -303,7 +303,7 @@
 
 ### Example Projects
 
-*   [Keycloak Theme Development Kit (⭐48)](https://github.com/anthonny/kit-keycloak-theme)
+*   [Keycloak Theme Development Kit (⭐49)](https://github.com/anthonny/kit-keycloak-theme)
 
 ## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐6.1k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐6.5k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 
@@ -349,11 +349,11 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐99)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐103)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐303)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐306)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Device Input / Mouse Events
 
@@ -817,13 +817,13 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐272)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐276)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [53. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -865,7 +865,7 @@
 
 ### Miscellaneous
 
-*   [Apex (⭐273)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐274)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [58. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -878,7 +878,7 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐6.6k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐6.7k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [60. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

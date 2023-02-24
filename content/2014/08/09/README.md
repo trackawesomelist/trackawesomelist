@@ -14,7 +14,7 @@
 
 ### Packages / Natural language processing
 
-*   [leven (⭐670)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐671)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
@@ -22,7 +22,7 @@
 
 ### Packages / Miscellaneous
 
-*   [strip-bom (⭐101)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+*   [strip-bom (⭐102)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 

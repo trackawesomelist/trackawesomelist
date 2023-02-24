@@ -68,7 +68,7 @@
 
 ### Integrations
 
-*   [Nerzal/gocloak Golang Keycloak API Package (⭐680)](https://github.com/Nerzal/gocloak)
+*   [Nerzal/gocloak Golang Keycloak API Package (⭐687)](https://github.com/Nerzal/gocloak)
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

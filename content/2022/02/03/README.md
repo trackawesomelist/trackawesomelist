@@ -135,19 +135,19 @@
 
 ### Overview / YouTube
 
-*   [Piped (⭐3.9k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
+*   [Piped (⭐4k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
     *   Official instance: <https://piped.video>
-    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐3.9k)](https://github.com/TeamPiped/Piped/wiki/Instances)
-    *   Installation guide for self-hosting: [https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md (⭐14)](https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md)
+    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐4k)](https://github.com/TeamPiped/Piped/wiki/Instances)
+    *   Installation guide for self-hosting: [https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md (⭐16)](https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md)
 
 ### Overview / Reddit
 
-*   [Troddit (⭐377)](https://github.com/burhan-syed/troddit): A web client for Reddit
+*   [Troddit (⭐391)](https://github.com/burhan-syed/troddit): A web client for Reddit
     *   Official instance: <https://www.troddit.com>
 
 ### Overview / Google Search
 
-*   [Searx (⭐12k)](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
+*   [Searx (⭐13k)](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
     *   Public instances: <https://searx.space>
 
 ## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)

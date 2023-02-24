@@ -11,7 +11,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 <br/><br/>
 
 <div align="center">
-	<img width="450px"  src="https://github.com/ohenley/files/raw/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome"/>
+	<img width="350px"  src="https://github.com/ohenley/files/raw/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
 </div>
 
 <br/><br/>

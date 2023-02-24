@@ -30,7 +30,7 @@
 
 ### Open-source sites / Lists
 
-*   [BVSPCA (⭐7)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
+*   [BVSPCA (⭐8)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,7 @@
 
 *   [TeaVM (⭐2.1k)](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### REST and API
-
-*   [Alt3/ValidationExposer plugin (⭐9)](https://github.com/alt3/cakephp-validation-exposer) - Easily expose your application's validation rules.
-
-## [3. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+## [2. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### Node.js / General
 
@@ -115,7 +109,7 @@
 *   [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
 *   [node-steam-forum (⭐43)](https://github.com/steam-forward/node-steam-forum)
 
-## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Books / Hash functions
 
@@ -219,13 +213,13 @@
 
 *   [CryptoSwift (⭐9.3k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 
-## [5. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [4. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Tools
 
 *   [dev\_compiler (⭐136)](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 
-## [6. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
+## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
 ### Bolt
 
@@ -239,13 +233,13 @@
 
 *   [Neo4j-PHP-OGM (⭐152)](https://github.com/graphaware/neo4j-php-ogm) - Doctrine style Object Graph Mapper for Neo4j
 
-## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 
 *   [Meetups](http://serverlessmeetups.com) - List with all official Serverless meetups.
 
-## [8. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [7. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Other Awesome Resources / Awesome Lists
 
@@ -288,7 +282,7 @@
 
 
 
-## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
@@ -298,7 +292,7 @@
 
 *   [Laravel Menu (⭐799)](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
 
-## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 

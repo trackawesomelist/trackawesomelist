@@ -55,7 +55,7 @@
 
 ### Prompting
 
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.7k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐2.9k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ### Assistants
 
@@ -69,7 +69,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [KotUniL (⭐43)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
+*   [KotUniL (⭐53)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
 ## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -77,7 +77,7 @@
 
 *   [Qubes OS GitHub Documentation (⭐290)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 
-### Training and Materials / OpenVPN
+### Training and Materials / Web articles
 
 *   [Qubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
 *   [Qubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
@@ -92,11 +92,11 @@
 
 ### Form Components / Drag and Drop
 
-*   [neodrag (⭐978)](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same 🔥
+*   [neodrag (⭐1k)](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [rigel (⭐0)](https://github.com/othiagos/rigel-zsh-theme/) - Includes decorators for `git` information, user\@hostname and current directory.
 *   [starship (wintermi) (⭐6)](https://github.com/wintermi/zsh-starship) - A simple plugin to use the Starship prompt, along with a powerline theme.

@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [DbGate (⭐2k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐2.1k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Game development
 
-*   [engine (⭐31)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
+*   [engine (⭐33)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 
 ## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Community Extensions
 
-*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐35)](https://github.com/p2-inc/keycloak-events)
+*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐44)](https://github.com/p2-inc/keycloak-events)
 
 ## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 

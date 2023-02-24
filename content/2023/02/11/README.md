@@ -117,8 +117,9 @@
 
 ### Articles / Screeb
 
-*   [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://twitter.com/roycobby).
+*   [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 
 ---
 
+- Prev: [Feb 12, 2023](/content/2023/02/12/README.md)
 - Next: [Feb 10, 2023](/content/2023/02/10/README.md)

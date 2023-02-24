@@ -122,13 +122,13 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐5.6k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐5.7k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
-*   [RealWorld (⭐104)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐71k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
+*   [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐72k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 ## [12. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
@@ -312,7 +312,7 @@
 
 ### Apps / Static site generation
 
-*   [Wagtail-bakery (⭐147)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
+*   [Wagtail-bakery (⭐154)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
 ## [22. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
@@ -514,7 +514,7 @@
 
 ### Logging and monitoring
 
-*   [statsd.cr (⭐31)](https://github.com/miketheman/statsd.cr) - [Statsd (⭐17k)](https://github.com/etsy/statsd) client library
+*   [statsd.cr (⭐32)](https://github.com/miketheman/statsd.cr) - [Statsd (⭐17k)](https://github.com/etsy/statsd) client library
 
 ### Processes and Threads
 
@@ -522,7 +522,7 @@
 
 ### Project Generators
 
-*   [libgen (⭐73)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
+*   [libgen (⭐74)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ### Routing
 
@@ -530,7 +530,7 @@
 
 ### Task management
 
-*   [cake (⭐65)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
+*   [cake (⭐66)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
 ## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -573,7 +573,7 @@
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐484)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐487)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
@@ -589,7 +589,7 @@
 
 ### Protocols
 
-*   [Sippet (⭐63)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
+*   [Sippet (⭐62)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 
 ### Static Page Generation
 

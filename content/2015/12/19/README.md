@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### I18n
-
-*   [Translation plugin (⭐4)](https://github.com/ava007/wnk_translation) - Extract pot files, translate string (manually, google, community), export translations to pot files.
-
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [2. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -28,7 +22,7 @@
 
 *   [Gephi (⭐5k)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 
-## [4. Tips](/content/git-tips/tips/README.md)
+## [3. Tips](/content/git-tips/tips/README.md)
 
 ## Don’t consider changes for tracked file.
 
@@ -41,7 +35,7 @@ git update-index --assume-unchanged <file_name>
 git update-index --no-assume-unchanged <file_name>
 ```
 
-## [5. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [4. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### UI Libraries
 
@@ -51,7 +45,7 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 
-## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Live Chat / Provided by the Host
 
@@ -63,7 +57,7 @@ git update-index --no-assume-unchanged <file_name>
 *   [WebsiteAlive](https://www.websitealive.com/) - Live chat for your website & social networks.
 *   [Zopim](https://www.zopim.com/) - Live chat with free trial.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Frontend Development
 

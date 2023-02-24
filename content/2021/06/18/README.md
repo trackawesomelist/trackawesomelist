@@ -16,7 +16,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [stevearc/aerial.nvim (⭐746)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
+*   [stevearc/aerial.nvim (⭐779)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

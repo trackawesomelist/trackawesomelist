@@ -154,7 +154,7 @@
 
 ### Software / Pastebins
 
-*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐173)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
+*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐174)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
 
 ### Software / Software Development - Project Management
 
@@ -382,11 +382,11 @@
 
 ### Database
 
-*   [sqlpp11 (⭐2.1k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
+*   [sqlpp11 (⭐2.2k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
 
 ### Graphics
 
-*   [assimp (⭐8.6k)](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
+*   [assimp (⭐8.7k)](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
 
 ### Inter-process communication
 

@@ -70,7 +70,7 @@
 
 ### Crates / Utils
 
-*   [stylist-rs (⭐212)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
+*   [stylist-rs (⭐231)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

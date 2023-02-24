@@ -10,7 +10,7 @@
 
 ### Packages / Command-line apps
 
-*   [atmo (⭐812)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [atmo (⭐814)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-duskmoon-ui (⭐2)](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
+*   [yew-duskmoon-ui (⭐3)](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -30,20 +30,20 @@
 
 ### Overview / Medium
 
-*   [Scribe](https://sr.ht/\~edwardloveall/Scribe): Alternative front-end to Medium.com
+*   [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
     *   Official website: <https://scribe.rip>
 
 ### Overview / IMDb
 
-*   [libremdb (⭐123)](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
+*   [libremdb (⭐131)](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
     *   Official instance: <https://libremdb.iket.me/>
-    *   Public Instances: [https://github.com/zyachel/libremdb#instances (⭐123)](https://github.com/zyachel/libremdb#instances)
+    *   Public Instances: [https://github.com/zyachel/libremdb#instances (⭐131)](https://github.com/zyachel/libremdb#instances)
 
 ### Overview / Quora
 
-*   [Quetre (⭐207)](https://github.com/zyachel/quetre): A libre front-end for Quora
+*   [Quetre (⭐217)](https://github.com/zyachel/quetre): A libre front-end for Quora
     *   Official website: <https://quetre.iket.me/>
-    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐207)](https://github.com/zyachel/quetre#instances)
+    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐217)](https://github.com/zyachel/quetre#instances)
 
 ## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -86,7 +86,7 @@
 *   [Magento Open Source (⭐10k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
 *   [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) - Customizable, real-time reactive, Javascript commerce platform (formerly Reaction Commerce). ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
 *   [Open Source POS (⭐2.8k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
-*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐210)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
+*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐212)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
 
@@ -94,7 +94,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Picsur (⭐148)](https://github.com/rubikscraft/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
+*   [Picsur (⭐153)](https://github.com/rubikscraft/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
 
 ### Software / Ticketing
 
@@ -118,7 +118,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Wwise (⭐120)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+*   [Wwise (⭐123)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 
 ## [10. Magictools](/content/ellisonleao/magictools/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Packages / Image
 
-*   [ImageScript (⭐470)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐476)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -60,7 +60,7 @@
 
 ### GUI
 
-*   [xtd (⭐457)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
+*   [xtd (⭐459)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -162,7 +162,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Platforms
 
-*   [Integration (⭐118)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐122)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [21. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -175,7 +175,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Component Collections / Material Design
 
-*   [refine (⭐7.3k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
+*   [refine (⭐7.9k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
 
 ## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -199,7 +199,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [Power Apps (Microsoft)](https://powerapps.com/) - Build apps in hours—not months—that easily connect to data, use Excel-like expressions to add logic, and run on the web, iOS, and Android devices.
 *   [Power BI](https://powerbi.microsoft.com/) - Unify data from many sources to create interactive, immersive dashboards and reports that provide actionable insights and drive business results.
-*   [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - Drive connected digital workflows across the enterprise, deliver modern, consumer-like experiences, and accelerate time-to-value and innovation.
+*   [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - Build mission-critical apps quickly, with more creators and less complexity. Easily scale across the enterprise to deliver experiences users love.
 *   [Creator (Zoho)](https://www.zoho.com/creator/low-code-platform/) - Build applications from scratch without having to write endless lines of code.
 
 ### Platforms / Business Process Management
@@ -294,7 +294,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 ### Environment & Secret Management
 
-*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management
+*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
 
 ### Media
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12 - Sep 18, 2016
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -238,7 +238,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐471)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐474)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -289,7 +289,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Authentication
 
-*   [doorman (⭐118)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
+*   [doorman (⭐119)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 
 ### Macros
 
@@ -317,19 +317,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 
-## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### NoSQL
-
-*   [Monga plugin (⭐18)](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga`](https://github.com/thephpleague/monga).
-
-## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Java / Symfony2
 
 *   [Vertx-Web (⭐1k)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
-## [28. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [27. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Must Reads
 
@@ -339,19 +333,19 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
 
-## [29. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [28. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Videos
 
 *   [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell Desired State Configuration (DSC) resource to install Hubot on Windows.
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) \[pt-BR\]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 
-## [31. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [30. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Automation
 
@@ -660,31 +654,31 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-script-editor/downloads/) contains SciTE, wrapped into a single installer with all needed configuration settings and lots of utility programs like [AutoIt3Wrapper](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/AutoIt3Wrapper.html), [SciTEConfig](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/SciTEConfig.html), [Tidy](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Tidy.html), [Au3Stripper](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Au3Stripper.html) etc to enhanced SciTE for use with AutoIt3.
 
-## [32. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [31. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Articles / Web App
 
 *   [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 
-## [33. Tools](/content/lvwzhen/tools/week/README.md)
+## [32. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Favicon
 
 *   [favicomatic](http://www.favicomatic.com/)
 
-## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [33. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Journals / Topic-specific
 
 *   *[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true\&punumber=6488902)* (IEEE).
 
-## [35. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [34. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Other
 
 *   [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Code Deploy
 
@@ -695,13 +689,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 *   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐597)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 *   [ncw/rclone :fire::fire::fire::fire::fire: (⭐35k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Development Setup / Third-party Service Integration
 
 *   [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -729,7 +723,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - A Group For Individuals Who Tackle Reliability Challenges For Web-Scale Systems.
 
-## [39. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [38. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Color
 
@@ -739,7 +733,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Graphics
 
@@ -754,13 +748,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 *   [Jint (⭐3.2k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
 *   [Jurassic (⭐748)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
-## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
-## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [41. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 

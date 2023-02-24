@@ -91,7 +91,7 @@ git switch -c <branch-name>
 
 ### Component Libraries
 
-*   [Shoelace (⭐7.8k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
+*   [Shoelace (⭐8.2k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 
 ## [9. Awesome](/content/craftcms/awesome/README.md)
 

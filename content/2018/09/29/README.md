@@ -12,7 +12,7 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐57k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Apps (⭐58k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
@@ -70,7 +70,7 @@ Rename Index.txt to Index.html
 
 ### Networking
 
-*   [ACE](http://www.dre.vanderbilt.edu/\~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
+*   [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
 
 ## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

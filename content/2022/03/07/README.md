@@ -20,7 +20,7 @@
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [fly-zsh-autocomplete (⭐1)](https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin) - Adds autocompletion options for all [Concourse CLI](https://concourse-ci.org/fly.html) commands.
 
@@ -39,7 +39,7 @@
 
 ### TikTok
 
-*   [ProxiTok (⭐985)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
+*   [ProxiTok (⭐1k)](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 

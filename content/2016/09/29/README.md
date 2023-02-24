@@ -59,7 +59,7 @@
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐260)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐265)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

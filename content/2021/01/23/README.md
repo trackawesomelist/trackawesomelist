@@ -156,7 +156,7 @@
 ### Libraries / GUI
 
 *   [ImGui (⭐45k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+    *   [imgui-rs (⭐2.1k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

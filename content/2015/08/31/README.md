@@ -185,7 +185,7 @@
 
 ### Text and Numbers
 
-*   [money (⭐694)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐705)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [11. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

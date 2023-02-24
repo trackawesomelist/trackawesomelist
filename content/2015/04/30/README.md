@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,13 +19,7 @@
 *   [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys.
     *   `apt-get install aircrack-ng`
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### CMS and applications built on CakePHP
-
-*   [CakeBlog (⭐6)](https://github.com/gwhitcher/CakeBlog) - Open source blog software.
-
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Migrations
 

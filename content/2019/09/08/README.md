@@ -10,7 +10,7 @@
 
 ### Modules / Utils
 
-*   [deno\_tokenizer (⭐11)](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
+*   [deno\_tokenizer (⭐13)](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Stream Ops (⭐45)](https://github.com/nanosai/stream-ops-java) \[Java] - A fully embeddable data streaming engine and stream processing API for Java.
+*   [Stream Ops (⭐46)](https://github.com/nanosai/stream-ops-java) \[Java] - A fully embeddable data streaming engine and stream processing API for Java.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [immutable (⭐196)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+*   [immutable (⭐197)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
 
 ### Testing
 
@@ -557,7 +557,7 @@
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐170)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐172)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
 ## [19. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 

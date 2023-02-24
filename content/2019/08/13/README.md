@@ -44,7 +44,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
+*   [react-find](https://github.com/geobde/react-find) - Elegant, accessible search component for React.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -160,7 +160,7 @@
 
 ### Machine Learning
 
-*   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
+*   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

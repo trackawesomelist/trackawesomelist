@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21 - Oct 27, 2019
 
-80 awesome lists updated this week.
+79 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,7 +68,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐81)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐82)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
@@ -92,7 +92,7 @@
 
 ### Hardware / Plotters
 
-*   [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python.
+*   [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -166,7 +166,7 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐67)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
+*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐68)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
     *   [paren6 (⭐19)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
 
 ### Others / Third-party APIs
@@ -624,11 +624,11 @@ Topics: CSS, CSS in JS, React\
 
 ### Open Source / Casual
 
-*   [Bob Box (⭐37)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+*   [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 
 ### Open Source / Endless Runner
 
-*   [BGUG (⭐86)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+*   [BGUG (⭐89)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
 ## [46. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
@@ -654,27 +654,21 @@ Topics: CSS, CSS in JS, React\
 
 *   [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 
-## [49. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### ORM / Database / Datamapping
-
-*   [Fetchable plugin (⭐0)](https://github.com/riesenia/cakephp-fetchable) - Behavior for fetching entities from cache / memory.
-
-## [50. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [49. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-kis-oidc (⭐8)](https://github.com/kisssdev/aurelia-kis-oidc) \* An Aurelia plugin that encapsulates [oidc-client-js library (⭐2.4k)](https://github.com/IdentityModel/oidc-client-js).
 *   [aurelia-telemetry (⭐1)](https://github.com/manuel-guilbault/aurelia-telemetry)
 
-## [51. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [50. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Books / Other Resources
 
 *   [Learning Malware Analysis](https://www.packtpub.com/networking-and-servers/learning-malware-analysis) - Learning Malware Analysis: Explore the concepts, tools, and techniques to analuze and investigate Windows malware
 *   [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering) - Mastering Reverse Engineering: Re-engineer your ethical hacking skills
 
-## [52. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [51. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -684,7 +678,7 @@ Topics: CSS, CSS in JS, React\
     *   [Lecture Videos](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
     *   [Lecture Notes](https://webpages.uncc.edu/\~jmconrad/EducationalMaterials/index.html)
 
-## [53. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [52. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Introspection
 
@@ -692,20 +686,20 @@ Topics: CSS, CSS in JS, React\
 *   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.4k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
-## [54. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [53. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Server Side Swift
 
 *   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 *   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 
-## [55. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [54. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 
-## [56. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [55. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -749,7 +743,7 @@ Topics: CSS, CSS in JS, React\
 *   [Stéphane Peter](https://github.com/sponsors/megastep) - AudioKit contributor, Makeself and other libraries and projects.
 *   [Tim Oliver](https://github.com/sponsors/TimOliver) - Multitude of iOS libraries and various contribution to the iOS ecosystem.
 
-## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -759,11 +753,11 @@ Topics: CSS, CSS in JS, React\
 
 *   [Building Remote Teams](https://www.buildingremoteteams.com/) - Targeted at people already working remotely and focuses on nuanced challenges of remote work.
 
-## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [57. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [Lyra (⭐393)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐395)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Web Application Framework
 
@@ -773,7 +767,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [IKOS (⭐1.8k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
-## [59. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [58. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### UK / London
 
@@ -787,7 +781,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [60. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [59. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Competition / Other
 
@@ -797,7 +791,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
-## [61. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -827,19 +821,19 @@ Topics: CSS, CSS in JS, React\
 
 
 
-## [62. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [61. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
 *   [v-chart-plugin (⭐198)](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
-## [63. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [62. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 
-## [64. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [63. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Party
 
@@ -871,7 +865,7 @@ Topics: CSS, CSS in JS, React\
 | ------: | -------: | ---: |
 |   3 - 6 |       12 |  30m |
 
-## [65. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [64. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Converters
 
@@ -906,7 +900,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 
-## [66. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [65. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
@@ -916,7 +910,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
-## [67. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [66. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -926,18 +920,18 @@ Topics: CSS, CSS in JS, React\
 
 *   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
-## [68. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [67. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Katalyst](https://katalyst.codurance.com/)
 *   [The Beverages Prices Refactoring Kata (⭐1)](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
 
-## [69. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [68. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐410)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐422)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -945,17 +939,13 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Groupware
 
-*   [HRCloud2 (⭐182)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
-
-### Software / Pastebins
-
-*   [SharpPaste (⭐35)](https://github.com/phonicmouse/SharpPaste) - Cross-platform C# pastebin with client-side AES-256 encryption that just works. `MIT` `C#/NancyFX`
+*   [HRCloud2 (⭐184)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
 *   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
 
-## [70. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [69. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
@@ -965,7 +955,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Canvas (⭐3k)](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
 
-## [71. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [70. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Data binding
 
@@ -987,7 +977,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Android Architecture Blueprints (⭐42k)](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 
-## [72. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [71. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Algorithm
 
@@ -995,7 +985,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Command Line
 
-*   [SwiftShell (⭐973)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐977)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
 ### Dependency Injection
 
@@ -1003,10 +993,10 @@ Topics: CSS, CSS in JS, React\
 
 ### Quality / Barcode
 
-*   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐6.3k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftCop (⭐543)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
+*   [SwiftFormat (⭐6.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
-## [73. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [72. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -1037,7 +1027,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
 
-## [74. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [73. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Official Resources
 
@@ -1065,7 +1055,7 @@ Topics: CSS, CSS in JS, React\
 *   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 *   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
-## [75. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [74. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
@@ -1077,7 +1067,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
 
-## [76. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [75. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Water
 
@@ -1107,7 +1097,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 
-## [77. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [76. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Forensics
 
@@ -1123,7 +1113,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [HackThisSite (⭐216)](https://github.com/HackThisSite/CTF-Writeups) - CTF write-ups repo maintained by HackThisSite team.
 
-## [78. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [77. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -1133,7 +1123,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [crecto (⭐341)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
-## [79. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [78. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1152,7 +1142,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Action For Semantic Release (⭐328)](https://github.com/cycjimmy/semantic-release-action)
 
-## [80. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [79. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / IDE
 

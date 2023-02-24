@@ -113,29 +113,83 @@
 *   [Build a fullstack app with Go Fiber, Docker, and Postgres](https://dev.to/divrhino/build-a-fullstack-app-with-go-fiber-docker-and-postgres-1jg6)
 *   [Create a CRUD app with Go Fiber, docker, and Postgres](https://dev.to/divrhino/create-a-crud-app-with-go-fiber-docker-and-postgres-47e3)
 
-## [13. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Official documentation
+
+*   [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
+*   [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
+*   [Documentation for Rust API ](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
+*   [Documentation for Node.js API ](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
+*   [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
+*   [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
+*   [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
+
+### Resources / Tutorials & workshops
+
+*   [Modern Polars](https://kevinheavey.github.io/modern-polars/) - A side by side comparison between Polars and Pandas containing code in both frameworks by [(@kevinheavey)](https://github.com/kevinheavey).
+
+### Resources / Blog posts
+
+*   [Using the Polars DataFrame Library](https://www.codemag.com/Article/2212051/Using-the-Polars-DataFrame-Library) - A blog post by Wei-Meng Lee to discover the basics of Polars and how it can be used in place of Pandas.
+*   [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/) - A blog post by Itamar Turner-Trauring detailing some techniques to opptimize Pandas memory usage and see how Polars can provide an answer in some cases.
+*   [Plodding with Polars in Python](https://levelup.gitconnected.com/plodding-with-polars-in-python-defe8399eee6) - A blog post by [@amitrathore](https://github.com/amitrathore) that introduces some basic features of Polars.
+*   [Polars-lazy](https://lib.rs/crates/polars-lazy) - A blog post by [(@ritchie46)](https://github.com/ritchie46) and [@jorgecarleitao](https://github.com/jorgecarleitao) that introduces Polars' lazy API in Rust.
+*   [Series of posts on Polars](https://www.rhosignal.com/tags/polars/) - A series of blogpost on Polars usage with a lot of useful tricks and information by [(@braaannigan)](https://github.com/braaannigan). Moreover, Liam also has a [Data Analysis with Polars](https://www.udemy.com/course/data-analysis-with-polars/?couponCode=DISCOUNTCODE) course on Udemy.
+*   [Youtube videos about Polars](https://www.youtube.com/channel/UC-J3uR0g7CxCSnx0YFE6R_g) - A series of short youtube videos about Polars by [(@braaannigan)](https://github.com/braaannigan)
+
+### Resources / Talks and videos
+
+*   [Polars: Blazingly Fast DataFrames in Rust and Python](https://www.youtube.com/watch?v=kVy3-gMdViM) - Introduction to Polars by [databricks](https://www.databricks.com/).
+*   [Polars: The Next Big Python Data Science Library... written in Rust?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [@RobMulla](https://github.com/RobMulla).
+*   [The Last Polars Dataframe vs. Pandas Dataframe Video You Should Ever See](https://www.youtube.com/watch?v=4oZiah1R6L8) - A video that compares Polars and Pandas data frames.
+*   [The Best library for building Data Pipelines...](https://www.youtube.com/watch?v=mi9f9zOaqM8) - A video that compares Pandas, Spark and Polars for working with data in Python by [@RobMulla](https://github.com/RobMulla).
+
+### Libraries/Packages/Scripts / Python
+
+*   [polars for Python (⭐14k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
+*   [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
+
+### Libraries/Packages/Scripts / Rust
+
+*   [polars for Rust (⭐14k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
+*   [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
+
+### Libraries/Packages/Scripts / R
+
+*   [rpolars for R (⭐116)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+
+### Libraries/Packages/Scripts / Node.js
+
+*   [nodejs-polars for Node.js (⭐87)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
+
+### Follow : Official / Node.js
+
+*   [pola-rs (@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [@DataPolars](https://twitter.com/DataPolars)).
+*   [Ritchie Vink (@ritchie46)](https://github.com/ritchie46) - Author of Polars
+*   [Stijn de Gooijer (@stinodego)](https://github.com/stinodego) - Member of Polars organisation
+*   [Danny van Kooten (@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation
+*   [Søren Havelund Welling (@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation
+*   [Alexander Beedie (@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
+*   [Marco Edward Gorelli (@MarcoGorelli )](https://github.com/MarcoGorelli) - Contributor to Polars projects
+
+## [14. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Databag (⭐113)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
 
-## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
 *   [r2d2 (⭐24)](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Network Analysis
 
 *   [Sniffnet (⭐2.9k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GyulyVGC/sniffnet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Android / Libraries
-
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -147,7 +201,7 @@
 
 ### Helix
 
-*   [PLAY Summit Demo (⭐26)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [PLAY Summit Demo (⭐27)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 
 ## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -185,7 +239,7 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐828)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
+*   [Matchering (⭐846)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
@@ -245,14 +299,13 @@
 
 ## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
-### Code Analysis and Metrics
-
-*   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
-*   [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety. **\[[Free for OSS](https://pvs-studio.com/en/order/open-source-license/)]** **\[$]**
-
 ### Blazor
 
 *   [blazork8s (⭐65)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+
+### Code Analysis and Metrics
+
+*   [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety. **\[[Free for OSS](https://pvs-studio.com/en/order/open-source-license/)]** **\[$]**
 
 ### Serialization
 
@@ -460,11 +513,11 @@
 *   [Victor Mono](https://rubjo.github.io/victor-mono/) - Victor Mono is a free programming font with semi-connected cursive italics, symbol ligatures (!=, ->>, =>, ===, <=, >=, ++) and Latin, Cyrillic and Greek characters.
 *   [spacemono (⭐300)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [magento (⭐0)](https://github.com/cmuench/zsh-magento-cloud/blob/main/zsh-magento-cloud.plugin.zsh) - Add Magento Cloud Command Line Interface ([magento-cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html?lang=en)) completions.
 
-### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [oh-plugin (⭐0)](https://github.com/mbergo/oh-plugin) - helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
 
@@ -533,18 +586,6 @@
   Title: Meaningful Tests for Busy Devs.
 
   Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Content Generation & Seo
-
-- Name: [Easy-Peasy.AI](https://easy-peasy.ai/)
-
-  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
-
-  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -620,6 +661,10 @@
 
 ## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
+### Testing
+
+*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. Free for all public projects.
+
 ### Email
 
 *   [emaildrop.io](https://emaildrop.io/) — Free disposable email provider. Email addresses can be created via GraphQL API.
@@ -667,4 +712,5 @@
 
 ---
 
+- Prev: [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 - Next: [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)

@@ -46,7 +46,7 @@
 
 ### Applications / Episodes
 
-*   [talking-with-cars (⭐91)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
+*   [talking-with-cars (⭐94)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

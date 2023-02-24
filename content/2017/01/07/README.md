@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [Fixtures plugin (⭐2)](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
+*   [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 
 ## [3. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

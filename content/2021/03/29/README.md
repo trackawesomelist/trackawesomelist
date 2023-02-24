@@ -60,7 +60,7 @@
 
 ### Queue
 
-*   [kaffe (⭐138)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐139)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [jut (⭐169)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
+*   [jut (⭐171)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 
 ## [10. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

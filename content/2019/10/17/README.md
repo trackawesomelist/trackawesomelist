@@ -35,7 +35,7 @@
 
 ### Command Line
 
-*   [SwiftShell (⭐973)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐977)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 

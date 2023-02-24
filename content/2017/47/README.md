@@ -190,7 +190,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Events
 
-*   [VueFlux (⭐326)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
+*   [VueFlux (⭐327)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 
 ## [19. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -301,7 +301,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Beginner
 
-*   [Lisp Quickstart](https://cs.gmu.edu/\~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
+*   [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 
 ### Apps / Third-party APIs
 
@@ -329,7 +329,7 @@ Webpage: <http://www.jimmymonkey.com/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------- |
 | ✔    | ✔     | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM |
 
-See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://github.com/otobrglez/awesome-workplaces-slovenia)
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ## [30. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -385,7 +385,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 ### Testing
 
-*   [mockery (⭐86)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐88)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [37. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -476,7 +476,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 ### Multimedia
 
-*   [MediaInfoLib (⭐496)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+*   [MediaInfoLib (⭐497)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
 ## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 

@@ -31,7 +31,7 @@
 
 ### Authentication and OAuth
 
-*   [OmniAuth (⭐7.6k)](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
+*   [OmniAuth (⭐7.7k)](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 
 ### CMS
 
@@ -45,7 +45,7 @@
 
 ### Configuration
 
-*   [Sail (⭐510)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
+*   [Sail (⭐508)](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
 
 ### Documentation
 
@@ -65,11 +65,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐180)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐182)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐798)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐817)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -85,7 +85,7 @@
 
 ### Third-party APIs
 
-*   [discordrb (⭐8)](https://github.com/meew0/discordrb) - An implementation of the Discord API.
+*   [discordrb (⭐7)](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

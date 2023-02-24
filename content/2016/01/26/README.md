@@ -1,18 +1,12 @@
 # Awesome List Updates on Jan 26, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Miscellaneous
-
-*   [CakeAdmin plugin (⭐29)](https://github.com/cakemanager/cakephp-cakeadmin) - A non-stable user management plugin with a built-in admin area.
-
-## [2. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [1. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Basics
 
@@ -37,31 +31,31 @@
 *   [How to define good OKRs](http://www.slideshare.net/HenrikJanVanderPol/how-to-set-good-ok-rs): Great slides describing how to set good OKRs
 *   [From Intel to Google](http://www.slideshare.net/andrefaria/ok-rs): How to achieve your targets with the methodology invented at Intel and used by Google
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios \[Simplified BSD]
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Date
 
 *   [tz-format (⭐9)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Dedicated
 
 *   [tesla-streamer (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 
-## [6. Amas](/content/sindresorhus/amas/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these organizations anything!
 
 *   [From the Front (⭐0)](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 
-## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Documentation / Runner
 
@@ -70,13 +64,13 @@
 *   [jsdox (⭐209)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 *   [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
 *   [whereami (⭐154)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### TypeScript Seed Projects / Components
 
@@ -86,7 +80,7 @@
 
 *   [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Tracking / ORM
 
@@ -100,20 +94,20 @@
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [11. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [10. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [12. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Tools / Slides and Notes
 
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [13. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [12. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Projects
 

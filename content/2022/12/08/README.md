@@ -21,12 +21,12 @@
 ### Conversational
 
 *   [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
-*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐288)](https://github.com/platelminto/chatgpt-conversation)
+*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐348)](https://github.com/platelminto/chatgpt-conversation)
 
 ### Other
 
 *   [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-*   [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐749)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+*   [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐837)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 
 ---
 

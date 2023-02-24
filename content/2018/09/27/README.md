@@ -42,7 +42,7 @@
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐970)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐977)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ## [5. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 

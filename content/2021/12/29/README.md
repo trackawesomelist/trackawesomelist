@@ -41,7 +41,7 @@
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐85)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐88)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [7. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-alien (⭐155)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐176)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

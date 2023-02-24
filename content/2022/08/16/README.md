@@ -32,7 +32,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [Fleet device management (⭐1k)](https://github.com/fleetdm/fleet) - Lightweight, programmable telemetry for servers and workstations.
+*   [Fleet device management (⭐1.1k)](https://github.com/fleetdm/fleet) - Lightweight, programmable telemetry for servers and workstations.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

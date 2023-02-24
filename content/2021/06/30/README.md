@@ -10,7 +10,7 @@
 
 ### Open Source / Other
 
-*   [Heroic Games Launcher (⭐4.7k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
+*   [Heroic Games Launcher (⭐4.9k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 
 ### For Electron / Other
 
@@ -88,11 +88,11 @@
 
 ### Plugins / Code Quality
 
-*   [SonarJS (⭐859)](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
+*   [SonarJS (⭐890)](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 
 ### Plugins / Frameworks
 
-*   [Svelte (⭐343)](https://github.com/sveltejs/eslint-plugin-svelte3) - Linting rules for Svelte v3 Components.
+*   [Svelte (⭐356)](https://github.com/sveltejs/eslint-plugin-svelte3) - Linting rules for Svelte v3 Components.
 
 ---
 

@@ -5873,7 +5873,7 @@
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐49)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐51)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
 ## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -6102,40 +6102,40 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐308)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐322)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [18. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
-*   [mypy (⭐14k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐207)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [mypy (⭐15k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
+*   [pyanalyze (⭐214)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐4k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4.1k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
 *   [pytypes (⭐188)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
-*   [strongtyping (⭐88)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [strongtyping (⭐92)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
-*   [asgiref (⭐1.1k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.1k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
+*   [asgiref (⭐1.2k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.2k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
 *   [botostubs (⭐94)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [data-science-types (⭐193)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐22k)](http://github.com/numpy/numpy), [pandas (⭐36k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib).
+*   [data-science-types (⭐194)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐23k)](http://github.com/numpy/numpy), [pandas (⭐37k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib).
 *   [PyQt5-stubs (⭐62)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐516)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.4k)](https://github.com/sqlalchemy/sqlalchemy).
-*   [typeshed (⭐3.3k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [sqlalchemy-stubs (⭐531)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.7k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [typeshed (⭐3.4k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
-*   [meiga (⭐29)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐44)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐114)](https://github.com/antonagestam/phantom-types) - Phantom types.
-*   [returns (⭐2.5k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐30)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
-*   [typet (⭐17)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+*   [meiga (⭐34)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+*   [option (⭐48)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐123)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [returns (⭐2.6k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+*   [safetywrap (⭐32)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [typet (⭐16)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Backports and improvements
 
@@ -6143,40 +6143,40 @@
 
 ### Tools / Linters
 
-*   [flake8-pyi (⭐55)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
+*   [flake8-pyi (⭐59)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
 *   [wemake-python-styleguide (⭐2.1k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐217)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐219)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [com2ann (⭐123)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [merge-pyi (⭐4k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
-*   [mypy-silent (⭐8)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
-*   [typing-inspect (⭐282)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐127)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [merge-pyi (⭐4.1k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [mypy-silent (⭐10)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
+*   [typing-inspect (⭐287)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [monkeytype (⭐4.1k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
-*   [pytest-annotate (⭐100)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
+*   [pytest-annotate (⭐104)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐36)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [type4py (⭐44)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
-*   [typilus (⭐47)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
+*   [type4py (⭐45)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [typilus (⭐47)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐41)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
 *   [loguru-mypy (⭐13)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐14k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐1)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.1k)](https://github.com/pynamodb/PynamoDB) support.
+*   [pynamodb-mypy (⭐2)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.1k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
 *   [emacs-flycheck-mypy (⭐37)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
 *   [linter-mypy](https://atom.io/packages/linter-mypy) - Mypy integration for Atom.
-*   [mypy-playground (⭐57)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐301)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
-*   [pylance (⭐1.4k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
+*   [mypy-playground (⭐58)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐302)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [pylance (⭐1.5k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ### Articles / Third-party articles
 
@@ -6192,8 +6192,8 @@
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐222)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐38)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐228)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐41)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -6221,8 +6221,8 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐32)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
-*   [StoryTeller Engine (⭐15)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
+*   [AgonesSDK (⭐34)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [StoryTeller Engine (⭐14)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
 ## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
@@ -6270,7 +6270,7 @@
 
 ### Reflection
 
-*   [config-loader (⭐127)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐129)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
 ## [30. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -6286,8 +6286,8 @@
 
 ### Utils
 
-*   [expect-playwright (⭐136)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐107)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐137)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐108)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [32. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -6309,7 +6309,7 @@
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐733)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐746)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
 ## [35. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
@@ -6331,7 +6331,7 @@
 
 ### FIAT
 
-*   [Debitum (⭐59)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐58)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -6365,15 +6365,15 @@
 
 ### API Builder and Discovery
 
-*   [cache\_crispies (⭐141)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
+*   [cache\_crispies (⭐140)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 
 ### Assets
 
-*   [Vite Ruby (⭐815)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐865)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
-*   [Neovim (⭐275)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐279)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Data Processing and ETL
 
@@ -6381,7 +6381,7 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐37)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐38)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -6407,8 +6407,8 @@
 
 ### Development / Newsletters
 
-*   [devshell (⭐697)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐540)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [devshell (⭐737)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+*   [flake-utils (⭐581)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
 ## [44. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
@@ -6454,7 +6454,7 @@
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐7k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐7.1k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ### Software / Task Management & To-do Lists
 

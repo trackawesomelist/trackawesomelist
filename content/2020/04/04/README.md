@@ -63,7 +63,7 @@
 ### Third-party APIs
 
 *   [google (⭐19)](https://github.com/PlaceOS/google) - Google API wrapper
-*   [office365 (⭐8)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
+*   [office365 (⭐9)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 

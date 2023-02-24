@@ -2,7 +2,7 @@
 
 :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 963 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 980 · 🏷️ Security
 
 [ [Daily](/content/daviddias/awesome-hacking-locations/README.md) / [Weekly](/content/daviddias/awesome-hacking-locations/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@
 
 # Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐223k)](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐238k)](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -958,16 +958,6 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ![](http://www.speedtest.net/result/7911413495.png)
 
-#### Starbucks Braga
-
-> Starbucks coffee shop in the city center, with WiFi access and some tables to work. Calm and clean space.
-
-Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430>
-
-| Wifi | Power | Address                                                                                                      | Open Hours                                  |
-| ---- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| ✔    | ✔     | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00 |
-
 #### Café São Martinho
 
 > Small, unknown café near the city stadium. Has a pool table, small indoor garden, a small terrace, smoker and non-smoker areas. Not the regular hacker café, but an actual place for hackers that want some quiet place to be during the day, away from the commotion of the city center.
@@ -1210,18 +1200,6 @@ Webpage: <https://www.bop.pt>
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
-#### Costa COFFEE
-
-> Influencer vibes, great coffee, English-speaking, accepts AliPay and has nice croissants.
-
-Webpage: <https://https://www.costa.co.uk/>
-
-| Wifi | Power | Address                                                                                                | Open Hours                |
-| ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------------- |
-| ✔    | ✔     | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm |
-
-![](https://www.speedtest.net/result/8644645756.png)
-
 #### Duas de Letra
 
 > Calm and cosy cafe with relaxing music and a nice backyard.
@@ -1356,7 +1334,7 @@ Webpage: <http://www.jimmymonkey.com/>
 
 # Slovenia 🇸🇮
 
-See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://github.com/otobrglez/awesome-workplaces-slovenia)
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ***
 

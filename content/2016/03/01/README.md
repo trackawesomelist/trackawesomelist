@@ -65,7 +65,7 @@
 
 ### Packages / Text
 
-*   [matcher (⭐524)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐528)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -74,7 +74,7 @@
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐990)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [mem (⭐992)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐868)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐866)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

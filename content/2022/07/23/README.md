@@ -29,13 +29,13 @@
 
 ### Software / Make your life easier
 
-*   [test-each (⭐100)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐101)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lewpoly/sherbet.nvim (⭐42)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
+*   [lewpoly/sherbet.nvim (⭐45)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Theory
 
-*   [AGI & CoCoSci (⭐119)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+*   [AGI & CoCoSci (⭐124)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -135,7 +135,7 @@
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐555)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐560)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -143,7 +143,7 @@
 *   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
 *   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐22)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐120)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐119)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
 ### Embodied Intelligence / Explainable Deep Learning
@@ -160,7 +160,7 @@
 
 ### Evolutionary Intelligence / Explainable Deep Learning
 
-*   [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/\~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080\&hl=en\&as_sdt=0,5)]. A classic paper correlating biological trade-offs with the evolution of pareto optimality.
+*   [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080\&hl=en\&as_sdt=0,5)]. A classic paper correlating biological trade-offs with the evolution of pareto optimality.
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 *   [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429\&hl=en\&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
@@ -259,7 +259,7 @@
 *   [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
 *   [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***MIT Press***, 1985. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=a+cognitive+theory+of+metaphor\&btnG=)]. A cognitive account on Metaphor.
 *   [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775) - ***Artificial Intelligence***, 1989. \[[All Versions](https://scholar.google.com/scholar?cluster=16104901325436513899\&hl=en\&as_sdt=0,5)]. A computational implementation of analogy.
-*   [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/\~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830\&hl=en\&as_sdt=0,5)]. A perspective unifying analogy and similarity judgement.
+*   [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830\&hl=en\&as_sdt=0,5)]. A perspective unifying analogy and similarity judgement.
 *   [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122\&hl=en\&as_sdt=0,5)]. A comprehensive review on the perspective of treating analogy as cross-domain generalization.
 *   [Emergence of analogy from relation learning](https://www.pnas.org/content/pnas/116/10/4176.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4877125748339538047\&hl=en\&as_sdt=0,5)]. Analogy feature in language models.
 *   [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253\&hl=en\&as_sdt=0,5)]. Explaining the analogy capability in word embeddings.
@@ -279,13 +279,13 @@
 
 *   [Representations of Commonsense Knowledge](https://www.sciencedirect.com/book/9781483207704/representations-of-commonsense-knowledge) - ***Morgan Kaufmann***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=8861902735724600978\&hl=en\&as_sdt=0,5)]. A classic book on commonsense knowledge.
 *   [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961\&hl=en\&as_sdt=0,5)]. The original paper on visual commonsense.
-*   [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/\~cs125/reading/commonsenseAI.pdf) - ***Communications of the ACM***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203\&hl=en\&as_sdt=0,5)]. Gary Marcus's review on commonsense knowledge in AI.
+*   [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/~cs125/reading/commonsenseAI.pdf) - ***Communications of the ACM***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203\&hl=en\&as_sdt=0,5)]. Gary Marcus's review on commonsense knowledge in AI.
 *   [Abductive Commonsense Reasoning](https://openreview.net/pdf?id=Byg1v1HKDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16544200144479839958\&hl=en\&as_sdt=0,5)]. Abductive commonsense reasoning on large language models.
 *   [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487\&hl=en\&as_sdt=0,5)]. A perspective on the furture of computational linguistics research---commonsense-driven and embodied language.
 
 ### Commonsense / Commonsense Knowledgebase
 
-*   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/\~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
+*   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
 *   [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - ***Proceedings of AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080\&hl=en\&as_sdt=0,5)]. The first attempt for acquring commonsense knowlege from humans' activities on the internet.
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
@@ -299,7 +299,7 @@
 *   [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***Plato Stanford***.
 *   [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) - ***Foundations and Trends in Programming Languages***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421\&hl=en\&as_sdt=0,5)]. Sumit Gulwani's comprehensive review on program synthesis.
 *   [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. \[[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169\&hl=en\&as_sdt=0,5)]. The original paper on second-order metarules.
-*   [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/\~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
+*   [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
 *   [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***Journal of Artificial Intelligence Research***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302\&hl=en\&as_sdt=0,5)]. A 30-year comprehensive review on Inductive Logic Programming.
 *   [Qualitative choice logic](https://www.sciencedirect.com/science/article/pii/S0004370204000591) - ***Artificial Intelligence***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1586187056162326386\&hl=en\&as_sdt=0,5)].
 *   [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3288385399148303844\&hl=en\&as_sdt=0,5)]. A incremental learning version of Bayesian program learning.
@@ -320,7 +320,7 @@
 *   [The Perception of Relations](https://perception.jhu.edu/files/PDFs/21_Relations/HafriFirestone_2021_SeeingRelations_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=12190078466818849725\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Chaz Firestone's review on the perception of relation, in constrast to the conventional reasoning view.
 *   [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345\&hl=en\&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
 *   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.
-*   [Answer Set Programming](http://people.sabanciuniv.edu/\~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
+*   [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
 *   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645\&hl=en\&as_sdt=0,5)].
 *   [The discovery of structural form](https://www.pnas.org/content/105/31/10687) - ***Proceedings of National Academy of Sciences***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486\&hl=en\&as_sdt=0,5)]. Chales Kemp's review on theory induction.
 *   [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf) - ***CogSci'08***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749\&hl=en\&as_sdt=0,5)].

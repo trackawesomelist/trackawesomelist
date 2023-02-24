@@ -35,11 +35,11 @@
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐99)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐100)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐309)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐311)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

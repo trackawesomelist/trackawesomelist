@@ -103,7 +103,7 @@
 
 ### Math / Barcode
 
-*   [SigmaSwiftStatistics (⭐658)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
+*   [SigmaSwiftStatistics (⭐660)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 
 ## [10. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 

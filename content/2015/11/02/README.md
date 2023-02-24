@@ -16,7 +16,7 @@
 
 ### Software / Middlewares
 
-*   [Huginn (⭐37k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐38k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### Software / Miscellaneous
 
@@ -26,7 +26,7 @@
 
 ### Packages / Miscellaneous
 
-*   [nodegit (⭐5.3k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
+*   [nodegit (⭐5.4k)](https://github.com/nodegit/nodegit) - Native bindings to Git.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

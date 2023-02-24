@@ -512,7 +512,7 @@
 
 ### ZIP
 
-*   [Zip Foundation (⭐1.9k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
+*   [Zip Foundation (⭐2k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
 
 ### Bluetooth
 
@@ -520,7 +520,7 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐335)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐337)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Maps / Barcode
 
@@ -528,7 +528,7 @@
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐287)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐289)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -564,7 +564,7 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐305)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐306)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -572,11 +572,11 @@ Wifi pw: `fermento`
 
 ### Natural Language Processing (NLP)
 
-*   [Petrovich (⭐37)](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
+*   [Petrovich (⭐38)](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
 
 ### Queue
 
-*   [que (⭐639)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐640)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
@@ -728,7 +728,7 @@ Wifi pw: `fermento`
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐12)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐188)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐191)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [43. Inspire](/content/noahbuscher/inspire/week/README.md)
 

@@ -56,7 +56,7 @@
 ### Overview / YouTube
 
 *   [YouTube.js (⭐2.5k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
-*   [oleksis/youtube-dl-gui (⭐886)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+*   [oleksis/youtube-dl-gui (⭐912)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### Overview / Google Translate
 
@@ -65,16 +65,16 @@
 ### Overview / Mastodon
 
 *   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
-*   [Sengi (⭐400)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
-*   [TheDesk (⭐220)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
-*   [Tootle (⭐406)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
-*   [Tusky (⭐1.9k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
+*   [Sengi (⭐419)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+*   [TheDesk (⭐235)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
+*   [Tootle (⭐405)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+*   [Tusky (⭐2k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 *   [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
-*   [Hyperspace (⭐176)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+*   [Hyperspace (⭐177)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
 
 ### Overview / Telegram
 
-*   [Telegram-FOSS (⭐2k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+*   [Telegram-FOSS (⭐2.1k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -145,7 +145,7 @@
     *   [Mastodon Apps](https://joinmastodon.org/apps) - List of Mastodon apps for Android, iOS, Web and Desktop.
 *   [Pleroma](https://pleroma.social/) 🧩 - Pleroma is a free, federated social networking server built on open protocols.
     *   [Soapbox](https://gitlab.com/soapbox-pub/soapbox-fe) - A frontend for Pleroma with a focus on custom branding and ease of use.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Husky](https://git.sr.ht/\~captainepoch/husky) - Android client for Pleroma and Mastodon.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Husky](https://git.sr.ht/~captainepoch/husky) - Android client for Pleroma and Mastodon.
 
 ## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

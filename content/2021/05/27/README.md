@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27, 2021
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -84,34 +84,25 @@
 
 *   [qwertukg/xml-builder (⭐8)](https://github.com/qwertukg/xml-builder) - Simplest XML builder for Kotlin
 
-## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
-
-### Algorithms / Basic matching algorithms
-
-*   [Iterative closest point :red\_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
-    *   [GitHub repository :octocat: (⭐132)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
-    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
-    *   [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
-
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [yor (⭐607)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
+*   [yor (⭐627)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
 
-## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Desktop
 
 *   [Thunderbird](https://www.thunderbird.net) - A free customizable open source email client.
 
-## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -201,7 +192,7 @@
 
 *   [Unraveling Golem's The Next Milestone](https://blog.golemproject.net/next-milestone) - Introduction to the Yagna implementation of Golem.
 
-## [13. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [12. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Finite Elements
 
@@ -213,7 +204,7 @@
 *   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
     (C++/Python, BSD, [GitHub (⭐332)](https://github.com/topology-tool-kit/ttk))
 
-## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / LED Segment
 
@@ -223,26 +214,26 @@
 
 *   [mcp4728 (⭐2)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
 
-## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Continuous Integration / MIT
 
 *   [ada-actions (⭐17)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
 
-## [16. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [15. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### DevOps / Development
 
 *   [Preflight (⭐136)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
 *   [Teller (⭐1k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 
-## [17. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [16. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [ytmdl (⭐2.6k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+*   [ytmdl (⭐2.7k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 
-## [18. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [17. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Dynamic Analysis
 
@@ -252,7 +243,7 @@
 
 *   [SpectralOps](https://spectralops.io) - *Spectral* - Automated code security, secrets, tokens and sensitive data scanning.
 
-## [19. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [18. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Compression
 
@@ -260,21 +251,21 @@
 *   [Zip](https://crystal-lang.org/api/Compress/Zip.html) - readers and writers of zip format (Crystal stdlib)
 *   [Zlib](https://crystal-lang.org/api/Compress/Zlib.html) - readers and writers of zlib format (Crystal stdlib)
 
-## [20. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [19. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Third Party APIs
 
 *   [tradehub (⭐3)](https://github.com/anhmv/tradehub-elixir) - An Elixir client library for the Tradehub blockchain.
 
-## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐228)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐236)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐441)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐445)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ---
 

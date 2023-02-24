@@ -22,7 +22,7 @@
 
 ### Environment Management
 
-*   [asdf-crystal (⭐68)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
+*   [asdf-crystal (⭐69)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
 
 ## [4. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -54,7 +54,7 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐955)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐959)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

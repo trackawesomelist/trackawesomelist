@@ -99,12 +99,12 @@ Webpage: <https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/>
 
 ### Keychain / Barcode
 
-*   [keychain-swift (⭐2.3k)](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
+*   [keychain-swift (⭐2.4k)](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 
 ### UI / Barcode
 
-*   [Dodo (⭐874)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
-*   [SectionedSlider (⭐361)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+*   [Dodo (⭐876)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
+*   [SectionedSlider (⭐362)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

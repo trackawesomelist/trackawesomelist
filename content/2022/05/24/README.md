@@ -35,7 +35,7 @@
 
 ### Keyboard / Barcode
 
-*   [ISEmojiView (⭐451)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+*   [ISEmojiView (⭐455)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

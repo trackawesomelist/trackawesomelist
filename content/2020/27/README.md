@@ -85,7 +85,7 @@
 
 ### Third Party APIs
 
-*   [telegex (⭐59)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
+*   [telegex (⭐63)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -269,7 +269,7 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐230)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
+*   [slowtec/tokio-modbus (⭐233)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
 
 ## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -324,9 +324,9 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [web-monetization-components (⭐8)](https://github.com/philnash/web-monetization-components) - A collection of web components you can use on your web monetized websites. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [revshare (⭐6)](https://github.com/kewbish/revshare) - A JS library for revenue sharing. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-proxy (⭐3)](https://github.com/tcdowney/web-monetization-proxy) - Simple Go proxy for injecting Web Monetization meta tags. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/go.png)
-*   [gridsome-plugin-monetization (⭐13)](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/gridsome.png)
+*   [gridsome-plugin-monetization (⭐14)](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/gridsome.png)
 *   [vuepress-plugin-web-monetization (⭐14)](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/vuejs.png)
-*   [jekyll-web\_monetization (⭐9)](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/jekyll.png)
+*   [jekyll-web\_monetization (⭐10)](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/jekyll.png)
 
 ### Resources / Tutorials
 
@@ -348,7 +348,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
     > ```bash
     > npm install is-web-monetized -g
-    > monetized example.com 
+    > monetized example.com
     > ```
     >
     > You can also test your website [with the dependency (⭐4)](https://github.com/jkga/is-web-monetized#usage).
@@ -357,11 +357,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Back-End Development
 
-*   [FastAPI (⭐5.1k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+*   [FastAPI (⭐5.2k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 
 ### Security
 
-*   [DevSecOps (⭐874)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+*   [DevSecOps (⭐883)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 ## [19. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -440,7 +440,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Utilities / General Tools
 
-*   [Ultra TabSaver (⭐228)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
+*   [Ultra TabSaver (⭐232)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
 ## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -492,7 +492,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### UI Animation / Syntax Highlight
 
-*   [framer-motion (⭐17k)](https://github.com/framer/motion) - An animation and gesture library.
+*   [framer-motion (⭐18k)](https://github.com/framer/motion) - An animation and gesture library.
 
 ## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -640,7 +640,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### CLOS extensions
 
-*   [dynamic-mixins (⭐25)](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [dynamic-mixins (⭐26)](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Geany (experimental) / Third-party APIs
 
@@ -827,17 +827,17 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Integrations
 
-*   [Nerzal/gocloak Golang Keycloak API Package (⭐680)](https://github.com/Nerzal/gocloak)
+*   [Nerzal/gocloak Golang Keycloak API Package (⭐687)](https://github.com/Nerzal/gocloak)
 
 ### Tools
 
-*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐447)](https://github.com/adorsys/keycloak-config-cli)
+*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐471)](https://github.com/adorsys/keycloak-config-cli)
 
 ## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Mock / Barcode
 
-*   [Mockingbird (⭐183)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+*   [Mockingbird (⭐186)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ### Events
 
@@ -845,11 +845,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐564)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐572)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 
-*   [Atributika (⭐1.1k)](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
+*   [Atributika (⭐1.2k)](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 
 ## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -877,8 +877,8 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Authentication
 
-*   [TheIdServer (⭐533)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐55)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐535)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐57)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 *   [Blazor-WASM-AzureAD-gRPC (⭐16)](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square\&cacheSeconds=86400) Blazor WASM, Azure AD, REST & gRPC.
 
 ### Individual components / API
@@ -887,9 +887,9 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Tools & Utilities / Others
 
-*   [Blazor.SpeechSynthesis (⭐62)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
-*   [BlazorState.Redux (⭐28)](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square\&cacheSeconds=86400) Develop Blazor apps with Redux.
-*   [Howler.Blazor (⭐26)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
+*   [Blazor.SpeechSynthesis (⭐63)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
+*   [BlazorState.Redux (⭐29)](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square\&cacheSeconds=86400) Develop Blazor apps with Redux.
+*   [Howler.Blazor (⭐27)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
 *   [jsMind.Blazor (⭐12)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
 ### Courses / Others
@@ -900,7 +900,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Apps / Widgets
 
-*   [wagtail-multi-upload (⭐9)](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
+*   [wagtail-multi-upload (⭐12)](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
 
 ### Apps / Forms
 
@@ -1001,7 +1001,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Component Libraries
 
-*   [Pixano Elements (⭐31)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
+*   [Pixano Elements (⭐33)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
 
 ### Presentations
 
@@ -1011,7 +1011,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐81)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐84)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
 
 ### Software / Software Development - Project Management
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 30 - Apr 05, 2015
 
-13 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -193,7 +193,7 @@
 
 ### Core Data
 
-*   [JSQCoreDataKit (⭐597)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
+*   [JSQCoreDataKit (⭐601)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -328,12 +328,12 @@
 
 ### Database Drivers
 
-*   [Neography (⭐603)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
+*   [Neography (⭐604)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 
 ### Implementations/Compilers
 
 *   [JRuby (⭐3.7k)](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
-*   [MRuby (⭐5k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
+*   [MRuby (⭐5.1k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
 *   [Opal (⭐4.7k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
 *   [Rubinius (⭐3k)](https://github.com/rubinius/rubinius) - An implementation of the Ruby programming language. Rubinius includes a bytecode virtual machine, Ruby syntax parser, bytecode compiler, generational garbage collector, just-in-time (JIT) native machine code compiler, and Ruby Core and Standard libraries.
 
@@ -343,17 +343,11 @@
 
 ### Queues and Messaging
 
-*   [Shoryuken (⭐1.9k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+*   [Shoryuken (⭐2k)](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
 
 ### Security
 
-*   [Rack::Attack (⭐5.2k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
-
-## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### ORM / Database / Datamapping
-
-*   [Money plugin (⭐6)](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money (⭐737)](https://github.com/sebastianbergmann/money).
+*   [Rack::Attack (⭐5.3k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 
 ---
 

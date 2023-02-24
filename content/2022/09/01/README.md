@@ -46,7 +46,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [pearxteam/kasechange (⭐67)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
+*   [pearxteam/kasechange (⭐68)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -64,9 +64,9 @@
 
 ### Tools / Working with types
 
-*   [mypy-baseline (⭐14)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
+*   [mypy-baseline (⭐21)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
 *   [retype (⭐131)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
-*   [typesplainer (⭐79)](https://github.com/wasi-master/typesplainer) - A Python type explainer.
+*   [typesplainer (⭐80)](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 
 ## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [aws2tf (⭐204)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+*   [aws2tf (⭐227)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 
 ### Terraform Enterprise / Vendor supported providers
 

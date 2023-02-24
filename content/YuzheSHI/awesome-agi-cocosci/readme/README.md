@@ -16,11 +16,11 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 An **awesome & curated** list for **Artificial General Intelligence**, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences as majority, alone with probability and statistics, formal logic, cognitive and developmental psychology, computational philosophy, cognitive neuroscience, and computational sociology. We are promoting high-level machine intelligence by getting inspirations from the way that human learns and thinks, while obtaining a deeper understanding of human cognition simultaneously. We believe that this kind of reciprocative research is a potential way towards our big picture: building human-level intelligent systems with capabilities such as abstracting, explaining, learning, planning, and making decisions. And such intelligence may generally help people improve scientific research, engineering, and the arts, which are the hallmarks of human intelligence.
 
-***Awesome AGI & CoCoSci*** is an all-in-one collection, consisting of recources from basic courses and tutorials, to papers and books around multiple topics. Both junior and senior researchers, whether learning, working on, or working around AGI, meet their interest here.
+***Awesome AGI & CoCoSci*** is an all-in-one collection, consisting of recources from basic courses and tutorials, to papers and books around diverse topics in mutiple perspectives. Both junior and senior researchers, whether learning, working on, or working around AGI, meet their interest here.
 
 ## Contributing
 
-Contributing is greatly welcomed! Please read the [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/Contributing.md) before taking any action.
+Contributions are greatly welcomed! Please read the [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/Contributing.md) before taking any action.
 
 <span id = "c"></span>
 
@@ -88,6 +88,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
         *   [Rationality](#rationality)
         *   [Cognitive Architecture](#cognitive-architecture)
     *   [Science Logology](#science-logology)
+        *   [Philosophy of Science](#philosophy-of-science)
         *   [Science of Science](#science-of-science)
         *   [Literature Mining](#literature-mining)
         *   [Literature Visualization](#literature-visualization)
@@ -157,7 +158,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
 
-*   [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/\~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
+*   [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
 
 \*[Back to Top](#c)
 
@@ -267,7 +268,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf) - ***The Oxford Handbook of Thinking and Reasoning***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562\&hl=en\&as_sdt=0,5)]. A handbook on the formulations of Abduction.
 
-*   [Probabilistic models of cognition: Conceptual foundations](https://www.cs.jhu.edu/\~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec7/chater2006probabilistica.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=12857321660837478492)]. A Bayesian account of Abduction.
+*   [Probabilistic models of cognition: Conceptual foundations](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec7/chater2006probabilistica.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=12857321660837478492)]. A Bayesian account of Abduction.
 
 *   [The structure and function of explanations](https://cognition.princeton.edu/sites/default/files/cognition/files/tics_explanation.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2849189270394400667\&hl=en\&as_sdt=0,5)]. Basic computation modes of Abduction.
 
@@ -385,9 +386,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***Computational Logic***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237\&hl=en\&as_sdt=0,5)]. The revised version of the ALP paper.
 
-*   [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/\~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198\&hl=en\&as_sdt=0,5)].
+*   [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198\&hl=en\&as_sdt=0,5)].
 
-*   [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/\~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483\&hl=en\&as_sdt=0,5)].
+*   [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483\&hl=en\&as_sdt=0,5)].
 
 *   [An Approach to Abductive Reasoning in Equational Logic](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6624/6619) - ***IJCAI'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=686895264429811190\&hl=en\&as_sdt=0,5)].
 
@@ -423,7 +424,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [How to Grow a Mind: Statistics, Structure, and Abstraction](https://cocosci.princeton.edu/tom/papers/growamind.pdf) - ***Science***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
 
-*   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/\~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
+*   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
 
 *   [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287\&hl=en\&as_sdt=0,5)]. Brenden Lake and Josh Tenenbaum's review on Bayesian modeling.
 
@@ -443,11 +444,11 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***International Journal of Computer Vision***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240\&hl=en\&as_sdt=0,5)]. Song-Chun Zhu's original paper on energy-based generative texture modeling.
 
-*   [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/\~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1611451804975333652)]. Alan Yuille's review on Bayesian object perception.
+*   [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1611451804975333652)]. Alan Yuille's review on Bayesian object perception.
 
-*   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/\~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
+*   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
 
-*   [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/\~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
+*   [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
 
 *   [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
@@ -463,9 +464,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Minimax entropy principle and its application to texture modeling](https://www.dam.brown.edu/people/mumford/vision/papers/1997e--MinimaxEntropy-NC.pdf) - ***Neural Computing***, 1997. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=407872717119429940)].
 
-*   [Parameter Expansion for Data Augmentation](http://www.stat.ucla.edu/\~ywu/research/papers/PXDA.pdf) - ***Journal of the American Statistical Association***, 1999. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=15342818142955984734)].
+*   [Parameter Expansion for Data Augmentation](http://www.stat.ucla.edu/~ywu/research/papers/PXDA.pdf) - ***Journal of the American Statistical Association***, 1999. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=15342818142955984734)].
 
-*   [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/\~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491\&hl=en\&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
+*   [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491\&hl=en\&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
 
 *   [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760\&hl=en\&as_sdt=0,5)].
 
@@ -475,7 +476,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/volume20/18-173/18-173.pdf) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317\&hl=en\&as_sdt=0,5)].
 
-*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/\~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
+*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
 
 *   [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***Cognitive Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A Bayesian account for modeling basic rules as the hypothesis space.
 
@@ -485,7 +486,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***The Annals of Statistics***, 1973. \[[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902\&hl=en\&as_sdt=0,5)]. A classic review on non-parametric problems.
 
-*   [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/\~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046\&hl=en\&as_sdt=0,5)]. The original paper on Dirichlet Process modeling for non-parametric problems.
+*   [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046\&hl=en\&as_sdt=0,5)]. The original paper on Dirichlet Process modeling for non-parametric problems.
 
 *   [Latent Semantic Indexing: A Probabilistic Analysis](https://www.sciencedirect.com/science/article/pii/S0022000000917112) - ***Journal of Computer and System Sciences***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=7296120469860429813\&hl=en\&as_sdt=0,5)]. The original paper on hierarchical topic model.
 
@@ -503,9 +504,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***Journal of Machine Learning Research***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943\&hl=en\&as_sdt=0,5)]. Tom Griffiths and Zoubin Ghahramani's review on infinite models, including the Chinese Restaurant Process (CRP) and the Indian Buffet Process (IBP).
 
-*   [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/\~nando/papers/npblog.pdf) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095\&hl=en\&as_sdt=0,5)]. The first paper integrating logic into non-parametric model.
+*   [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095\&hl=en\&as_sdt=0,5)]. The first paper integrating logic into non-parametric model.
 
-*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/\~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 *   [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Treating predicate invention as a non-parametric problem, in the account of statistics.
 
@@ -517,7 +518,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf) - ***NeurIPS'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705\&hl=en\&as_sdt=0,5)]. The original paper for applying Bayesian optimization to machine learning hyperparameter selection.
 
-*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/\~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437\&hl=en\&as_sdt=0,5)].
+*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 
@@ -533,7 +534,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***MIT Press***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735\&hl=en\&as_sdt=0,5)]. Alison Gopnik's book that articulates and defends the "theory theory" of cognitive and semantic development, the idea that infants and young children, like scientists, learn about the world by forming and revising theories-a view of the origins of knowledge and meaning that has broad implications for cognitive science.
 
-*   [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***Mapping the mind: Domain specificity in cognition and culture, Cambridge University Press***. \[[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662\&hl=en\&as_sdt=0,5)]. Alison Gopnik's original paper on the theory theory.
+*   [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***Mapping the mind: Domain specificity in cognition and culture, Cambridge University Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662\&hl=en\&as_sdt=0,5)]. Alison Gopnik's original paper on the theory theory.
 
 *   [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457\&secret=42178f) - ***Oxford University Press***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821\&hl=en\&as_sdt=0,5)]. Susan Carey's extended book on the theory theory of concepts in child development.
 
@@ -589,7 +590,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088\&hl=en\&as_sdt=0,5)]. Yoshua Bengio's review on representation learning.
 
-*   [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/\~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
+*   [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
 
 *   [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281\&hl=en\&as_sdt=0,5)]. The first paper identifying the problem of information bottleneck in representation learning.
 
@@ -799,7 +800,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***Artificial Intelligence***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068\&hl=en\&as_sdt=0,5)]. The original paper on operation reinforcement learning.
 
-*   [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/\~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860\&hl=en\&as_sdt=0,5)].
+*   [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860\&hl=en\&as_sdt=0,5)].
 
 *   [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404\&hl=en\&as_sdt=0,5)]. \[[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf)]. Sergey Levine's tutorial on treating reinforcement learning probabilisticly.
 
@@ -901,7 +902,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4172146500538799638\&hl=en\&as_sdt=0,5)].
 
-*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/gblackout/NLIL)].
+*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐37)](https://github.com/gblackout/NLIL)].
 
 *   [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9257372000778020812\&hl=en\&as_sdt=0,5)].
 
@@ -975,7 +976,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 #### Explainable Deep Learning
 
-*   [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐6.8k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 
@@ -983,7 +984,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
 
-*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
+*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐22)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
 
 *   [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.NeurIPS.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719\&hl=en\&as_sdt=0,5)].
 
@@ -1051,7 +1052,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 ### Evolutionary Intelligence
 
-*   [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/\~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080\&hl=en\&as_sdt=0,5)]. A classic paper correlating biological trade-offs with the evolution of pareto optimality.
+*   [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080\&hl=en\&as_sdt=0,5)]. A classic paper correlating biological trade-offs with the evolution of pareto optimality.
 
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 
@@ -1271,13 +1272,15 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 ### Science Logology
 
-#### Science of Science
+#### Philosophy of Science
 
-*   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/\~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
-
-*   [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
+*   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the emergence and the shift of scientific paradigms.
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
+
+#### Science of Science
+
+*   [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 
@@ -1427,7 +1430,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [The structure-mapping engine: Algorithm and examples](https://www.sciencedirect.com/science/article/abs/pii/0004370289900775) - ***Artificial Intelligence***, 1989. \[[All Versions](https://scholar.google.com/scholar?cluster=16104901325436513899\&hl=en\&as_sdt=0,5)]. A computational implementation of analogy.
 
-*   [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/\~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830\&hl=en\&as_sdt=0,5)]. A perspective unifying analogy and similarity judgement.
+*   [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/~coulson/203/gentner-markman-97.pdf) - ***American Psychologist***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830\&hl=en\&as_sdt=0,5)]. A perspective unifying analogy and similarity judgement.
 
 *   [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122\&hl=en\&as_sdt=0,5)]. A comprehensive review on the perspective of treating analogy as cross-domain generalization.
 
@@ -1437,7 +1440,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 
-*   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/\~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
+*   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
 
 *   [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf) - ***ICML'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=9332855910734484101\&hl=en\&as_sdt=0,5)]. The first application of analogy to machine learning.
 
@@ -1453,7 +1456,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057\&hl=en\&as_sdt=0,5)].
 
-*   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/\~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
+*   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 
 *   [Preschoolers and adults make inferences from novel metaphors](https://escholarship.org/content/qt3j2576vv/qt3j2576vv.pdf) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16038983545360341739\&hl=en\&as_sdt=0,44)]. A piece of evidence that understanding metaphors is capable for different cognitive development phases.
 
@@ -1533,7 +1536,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961\&hl=en\&as_sdt=0,5)]. The original paper on visual commonsense.
 
-*   [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/\~cs125/reading/commonsenseAI.pdf) - ***Communications of the ACM***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203\&hl=en\&as_sdt=0,5)]. Gary Marcus's review on commonsense knowledge in AI.
+*   [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/~cs125/reading/commonsenseAI.pdf) - ***Communications of the ACM***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203\&hl=en\&as_sdt=0,5)]. Gary Marcus's review on commonsense knowledge in AI.
 
 *   [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8953217) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15467433880059136365\&hl=en\&as_sdt=0,5)]. \[[Project](http://visualcommonsense.com/)].
 
@@ -1557,7 +1560,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 #### Commonsense Knowledgebase
 
-*   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/\~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
+*   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
 
@@ -1569,7 +1572,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - ***Communications of the ACM***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
-*   [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/\~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553\&hl=en\&as_sdt=0,5)].
+*   [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 
@@ -1595,7 +1598,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP'01***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407\&hl=en\&as_sdt=0,5)].
 
-*   [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/\~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
+*   [Meta-interpretive learning: application to grammatical inference](http://www.doc.ic.ac.uk/~shm/Papers/metagol_gram.pdf) - ***Machine Learning***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=17075313112718885592\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's original paper on Meta-Interpretive Learning (MIL).
 
 *   [Learning Efficient Logical Robot Strategies Involving Composable Objects](http://andrewcropper.com/pubs/ijcai15-metagolo.pdf) - ***IJCAI'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=5109851972354087162\&hl=en\&as_sdt=0,5)].
 
@@ -1695,7 +1698,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***Knowledge Acquisition***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123\&hl=en\&as_sdt=0,5)].
 
-*   [Answer Set Programming](http://people.sabanciuniv.edu/\~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
+*   [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
 
 *   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645\&hl=en\&as_sdt=0,5)].
 
@@ -1739,7 +1742,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338) - ***Artificial Intelligence***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10854895617698839149\&hl=en\&as_sdt=0,5)].
 
-*   [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/\~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4354984630817844670)].
+*   [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4354984630817844670)].
 
 *   [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246\&hl=en\&as_sdt=0,5)].
 
@@ -1839,7 +1842,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
 
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐914)](https://github.com/JosephKJ/OWOD)].
 
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
@@ -1877,7 +1880,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***Engineering***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161\&hl=en\&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
 
-*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/\~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
+*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
 
 *   [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338\&hl=en\&as_sdt=0,5)].
 
@@ -2029,11 +2032,11 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Computer Science Department, Stanford***.
 
-*   [Michael Frank](https://web.stanford.edu/\~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
+*   [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
 
 *   [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-*   [Chelsea Finn](http://ai.stanford.edu/\~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Computer Science Department, Stanford***.
+*   [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Computer Science Department, Stanford***.
 
 *   [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***Department of Communication, Stanford***, [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***Stanford***.
 
@@ -2065,21 +2068,21 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/) - ***Department of Statistics, UCLA***.
 
-*   [Song-Chun Zhu](http://www.stat.ucla.edu/\~sczhu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
+*   [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
 
-*   [Ying Nian Wu](http://www.stat.ucla.edu/\~ywu/) - ***Department of Statistics, UCLA***.
+*   [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) - ***Department of Statistics, UCLA***.
 
-*   [Tao Gao](http://www.stat.ucla.edu/\~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/\~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
+*   [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
 
 *   [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, Department of Statistics, UCLA***.
 
-*   [Guy Van den Broeck](http://web.cs.ucla.edu/\~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
+*   [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
 
 \*[Back to Top](#c)
 
 ### UC Berkeley
 
-*   [Anca Dragan](https://people.eecs.berkeley.edu/\~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
+*   [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
 
 *   [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***UCB***, [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
 
@@ -2095,7 +2098,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***UCSD***.
 
-*   [Zhuowen Tu](https://pages.ucsd.edu/\~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/\~ztu/Group.htm) - ***UCSD***.
+*   [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
 
 *   [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
 
@@ -2103,11 +2106,11 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 ### NYU
 
-*   [Ernest Davis](https://cs.nyu.edu/\~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
+*   [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
 
 *   [Gary Marcus](http://garymarcus.com/index.html) - ***Department of Psychology, NYU***.
 
-*   [Brenden Lake](https://cims.nyu.edu/\~brenden/) - ***NYU***, [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/) - ***NYU***.
+*   [Brenden Lake](https://cims.nyu.edu/~brenden/) - ***NYU***, [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/) - ***NYU***.
 
 *   [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***NYU***, [Computation & Cognition Lab](http://gureckislab.org/) - ***NYU***.
 
@@ -2207,7 +2210,7 @@ Applied Mathematician, theoretical computer scientist.
 
 The initiator of this repo has been struggling to taxonomize related topics, since there are so many perspectives to follow, such as task-oriented, technique-oriented, and metaphysics-oriented. Finally he decided to focus on the perspective of ***The Sciences of Intelligence***---each topic describes a phenomenon of intelligence, or an intelligent behavior---they show the objectives of reverse-engineering human intelligence for computational methods. These topics are never restricted to specific technical methods or tasks, but are trying to organize the nature of intelligence---from both *the software perspective* and *the hardware perspective*.
 
-Obviously this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of the literature reviews when the initiator is working on Abduction and Bayesian modeling, other topics are also collected with biases, more or less. Abduction may be the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings, and applications to AI. Please feel free to reach out!
+Obviously, this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of the literature reviews when the initiator is working on Abduction and Bayesian modeling, other topics are also collected with biases, more or less. Abduction may be the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings, and applications to AI. Please feel free to reach out!
 
 \*[Back to Top](#c)
 

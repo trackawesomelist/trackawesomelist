@@ -10,7 +10,7 @@
 
 ### Apps / StreamField
 
-*   [Wagtail Blocks (⭐59)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
+*   [Wagtail Blocks (⭐61)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
 
 ## [2. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 

@@ -27,12 +27,12 @@
 
 ### Actors
 
-*   [bpe (⭐240)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐239)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
-*   [chat (⭐23)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [chat (⭐22)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
+*   [exchat (⭐258)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -45,15 +45,15 @@
 
 ### ORM and Datamapping
 
-*   [kvs (⭐172)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
+*   [kvs (⭐171)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 
 ### Security
 
-*   [ca (⭐12)](https://github.com/synrc/ca) - Certificate Authority.
+*   [ca (⭐11)](https://github.com/synrc/ca) - Certificate Authority.
 
 ### Validations
 
-*   [form (⭐40)](https://github.com/synrc/form) - Document forms and validation library.
+*   [form (⭐39)](https://github.com/synrc/form) - Document forms and validation library.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

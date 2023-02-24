@@ -10,7 +10,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb (⭐130k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐130k)](https://github.com/airbnb/javascript).
+*   [Airbnb (⭐132k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐132k)](https://github.com/airbnb/javascript).
 *   [Google (⭐1.7k)](https://github.com/google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml).
 
 ### Plugins / Frameworks
@@ -22,30 +22,30 @@
 
 *   [Mongodb (⭐17)](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
 *   [Ramda (⭐118)](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
-*   [RequireJS (⭐28)](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
+*   [RequireJS (⭐29)](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 
 ### Plugins / Practices and Specific ES Features
 
-*   [fp (⭐945)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
+*   [fp (⭐946)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 *   [new-with-error (⭐22)](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 *   [no-use-extend-native (⭐50)](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
-*   [Promise (⭐774)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
+*   [Promise (⭐795)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 *   [this (⭐15)](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 
 ### Plugins / Style
 
-*   [filenames (⭐277)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
+*   [filenames (⭐278)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
 
 ### Tools / Testing Tools
 
-*   [eslint-find-rules (⭐186)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
-*   [eslint-index (⭐18)](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
+*   [eslint-find-rules (⭐187)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
+*   [eslint-index (⭐19)](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
 *   [eslint-multiplexer (⭐7)](https://github.com/pimlie/eslint-multiplexer) - Multiplex eslint results and merge results for common files.
-*   [eslint-nibble (⭐569)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
+*   [eslint-nibble (⭐617)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
 *   [eslint-rule-documentation (⭐30)](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
-*   [eslint-watch (⭐185)](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
-*   [codacy-eslint (⭐16)](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
-*   [esprint (⭐640)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
+*   [eslint-watch (⭐186)](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
+*   [codacy-eslint (⭐13)](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
+*   [esprint (⭐641)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
 
 ### Developing for ESLint / Testing Tools
 
@@ -95,8 +95,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐195)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐518)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐196)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐523)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -104,11 +104,11 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐319)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐323)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐485)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐489)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
@@ -141,12 +141,12 @@
 ### Clients
 
 *   [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
-*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐597)](https://github.com/Canner/keycloak-admin/)
+*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐604)](https://github.com/Canner/keycloak-admin/)
 *   [Keycloak Go Client by Cloudtrust (⭐23)](https://github.com/cloudtrust/keycloak-client)
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐567)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐570)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [11. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -900,9 +900,9 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [bat (⭐39k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bat (⭐40k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [silver searcher (ag) (⭐25k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [trash (⭐2.4k)](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [trash (⭐2.5k)](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ## [42. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -961,7 +961,7 @@
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
-*   [XGist (⭐76)](https://github.com/Bunn/Xgist) - Xcode extension which allows you to send your text selection or entire file to GitHub's Gist and automatically copy the Gist URL into your Clipboard.
+*   [XGist (⭐77)](https://github.com/Bunn/Xgist) - Xcode extension which allows you to send your text selection or entire file to GitHub's Gist and automatically copy the Gist URL into your Clipboard.
 
 ## [49. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -988,11 +988,11 @@
 ### Patterns
 
 *   [CleanArchitectureRxSwift (⭐3.6k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
-*   [Viperit (⭐503)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐504)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ### Cryptography / Barcode
 
-*   [JOSESwift (⭐162)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JOSESwift (⭐166)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 
 ### Menu / Barcode
 
@@ -1000,7 +1000,7 @@
 
 ### Utility / Barcode
 
-*   [Lumos (⭐140)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
+*   [Lumos (⭐146)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 
 ## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -1084,7 +1084,7 @@
 
 ### Compression
 
-*   [libarchive (⭐1.9k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐2k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 
@@ -1092,7 +1092,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐375)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐376)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ### Static Code Analysis
 
@@ -1107,7 +1107,7 @@
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐447)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐446)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [60. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -1141,7 +1141,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐470)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐475)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

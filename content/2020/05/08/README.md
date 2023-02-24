@@ -111,11 +111,11 @@
 
 ### App Routing
 
-*   [LiteRoute (⭐94)](https://github.com/SpectralDragon/LiteRoute) - Easy transition between VIPER modules, implemented on pure Swift.
+*   [LiteRoute (⭐93)](https://github.com/SpectralDragon/LiteRoute) - Easy transition between VIPER modules, implemented on pure Swift.
 
 ### Blockchain
 
-*   [EthereumKit (⭐459)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
+*   [EthereumKit (⭐462)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 
 ### Bridging
 
@@ -135,11 +135,11 @@
 
 ### Transition
 
-*   [TransitionableTab (⭐784)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
+*   [TransitionableTab (⭐785)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 
 ### Popup
 
-*   [PopupView (⭐1.9k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐2k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
@@ -204,7 +204,7 @@
 
 ### Articles
 
-*   [Kong / Konga / Keycloak: securing API through OIDC (⭐225)](https://github.com/d4rkstar/kong-konga-keycloak)
+*   [Kong / Konga / Keycloak: securing API through OIDC (⭐228)](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

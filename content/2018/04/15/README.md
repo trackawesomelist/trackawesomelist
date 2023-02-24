@@ -22,7 +22,7 @@
 
 ### Concurrency
 
-*   [Intel Parallel STL (⭐652)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
+*   [Intel Parallel STL (⭐656)](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
 
 ## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

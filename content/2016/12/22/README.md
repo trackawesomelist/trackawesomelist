@@ -26,7 +26,7 @@
 
 ### Software / Security
 
-*   [OWASP ZAP (⭐10k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+*   [OWASP ZAP (⭐11k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 
 ### Software / Make your life easier
 
@@ -85,7 +85,7 @@
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐107)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐113)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ---
 

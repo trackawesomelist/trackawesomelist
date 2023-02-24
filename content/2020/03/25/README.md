@@ -32,7 +32,7 @@
 
 ### Microservice
 
-*   [Sentinel (⭐20k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
+*   [Sentinel (⭐21k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
 
 ### Utility / Mocking
 
@@ -42,12 +42,12 @@
 
 ### CSV
 
-*   [CodableCSV (⭐370)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
-*   [CSVParser (⭐86)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
+*   [CodableCSV (⭐371)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CSVParser (⭐85)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ### UI / Barcode
 
-*   [ActivityIndicatorView (⭐971)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐988)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -81,11 +81,11 @@
 
 ### Geolocation
 
-*   :strawberry: [Geo plugin (⭐47)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+*   [Geo plugin](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ### HTTP
 
-*   :strawberry: [Http/Adapter/Cake library (⭐3)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.4k)](https://github.com/php-http/httplug) HTTP client abstraction.
+*   [Http/Adapter/Cake library (⭐4)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.4k)](https://github.com/php-http/httplug) HTTP client abstraction.
 
 ## [10. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 

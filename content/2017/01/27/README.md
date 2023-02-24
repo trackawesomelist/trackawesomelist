@@ -65,20 +65,20 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Beginner Wagtail Cookiecutter (⭐29)](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
+*   [Beginner Wagtail Cookiecutter (⭐30)](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
 
 ### Open-source sites / Lists
 
-*   [Torchbox (⭐106)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
-*   [Made with Wagtail (⭐72)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
+*   [Torchbox (⭐112)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
+*   [Made with Wagtail (⭐75)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 *   [OpenCanada.org (⭐14)](https://github.com/OpenCanada/website) – The opencanada.org website source.
 *   [Table Tennis Wellington Business Class (⭐5)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
-*   [Jordi Joan’s blog (⭐21)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
+*   [Jordi Joan’s blog (⭐20)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
 *   [Localore: Finding America (⭐16)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
 *   [Adventure Capitalists (⭐4)](https://github.com/AdventureCapitalists/website) – Wagtail powered website for the world's only investment band.
 *   [NHS.UK Content Store (⭐20)](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK content store and editing app.
 *   [dev.hel.fi (⭐13)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
-*   [Digital Helsinki (⭐17)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
+*   [Digital Helsinki (⭐19)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

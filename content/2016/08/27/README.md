@@ -43,7 +43,7 @@
 
 ### Source Generator
 
-*   [Awesome .NET Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
+*   [Awesome .NET Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 

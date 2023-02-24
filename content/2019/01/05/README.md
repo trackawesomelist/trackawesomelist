@@ -46,7 +46,7 @@
 
 ### Utility / Collection View Layout
 
-*   [ZamzamKit (⭐261)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐260)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

@@ -42,7 +42,7 @@
 
 ### Deployment Examples
 
-*   [Keycloak deployment with CDK on AWS with Fargate (⭐63)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak deployment with CDK on AWS with Fargate (⭐67)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

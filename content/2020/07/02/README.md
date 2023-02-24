@@ -44,7 +44,7 @@
 
 ### CLOS extensions
 
-*   [dynamic-mixins (⭐25)](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [dynamic-mixins (⭐26)](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ## [7. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Mock / Barcode
 
-*   [Mockingbird (⭐183)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+*   [Mockingbird (⭐186)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Packages / Command-line apps
 
-*   [mobicon (⭐102)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon (⭐101)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐377)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐376)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 
@@ -38,7 +38,7 @@
 
 ### Testing
 
-*   [minitest.cr (⭐142)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+*   [minitest.cr (⭐141)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
 
 ## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 

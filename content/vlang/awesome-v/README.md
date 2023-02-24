@@ -283,7 +283,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Articles
 
 *   [An introduction to V](https://simonknott.de/articles/VLang.html)
-*   [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
 
 ### Books
 

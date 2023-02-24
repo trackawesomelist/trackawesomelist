@@ -17,21 +17,21 @@
 ### Using ChatGPT in other apps
 
 *   [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
-*   [OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust (⭐816)](https://github.com/sonnylazuardi/chatgpt-desktop)
-*   [ChatGPT for Mac: access from menu bar (⭐3.2k)](https://github.com/vincelwt/chatgpt-mac)
+*   [OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust (⭐935)](https://github.com/sonnylazuardi/chatgpt-desktop)
+*   [ChatGPT for Mac: access from menu bar (⭐3.7k)](https://github.com/vincelwt/chatgpt-mac)
 *   [ChatGPT Chrome extension](https://twitter.com/kazuki_sf_/status/1598955169576013825)
 *   [ChatGPT WhatsApp bot](https://twitter.com/danielgross/status/1598735800497119232)
 *   [ChatGPT Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
-*   [ChatGPT Twitter bot (⭐338)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+*   [ChatGPT Twitter bot (⭐384)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 *   [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
 *   [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
-*   [ChatGPT Discord bot (⭐565)](https://github.com/Zero6992/chatGPT-discord-bot)
-*   [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐241)](https://github.com/oceanlvr/ChatGPT-ProBot)
+*   [ChatGPT Discord bot (⭐1.1k)](https://github.com/Zero6992/chatGPT-discord-bot)
+*   [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐268)](https://github.com/oceanlvr/ChatGPT-ProBot)
 
 ### Assistants
 
-*   ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐445)](https://github.com/clmnin/summarize.site)
-*   [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐140)](https://github.com/lucasmccabe/emailGPT)
+*   ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐473)](https://github.com/clmnin/summarize.site)
+*   [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐154)](https://github.com/lucasmccabe/emailGPT)
 
 ### Coding
 
@@ -39,7 +39,7 @@
 
 ### ChatGPT API
 
-*   ⭐️ [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API (⭐10k)](https://github.com/acheong08/ChatGPT)
+*   ⭐️ [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API (⭐15k)](https://github.com/acheong08/ChatGPT)
 
 ### Thought-provoking
 

@@ -55,7 +55,7 @@
 
 ### Serialization
 
-*   [vproto (⭐46)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+*   [vproto (⭐48)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

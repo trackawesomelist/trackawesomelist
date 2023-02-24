@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,17 +65,7 @@
 
 *   [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Authentication and Authorization
-
-*   [CakeDC/NavAuth plugin (⭐9)](https://github.com/CakeDC/cakephp-nav-auth) - A plugin for authenticating against Navision® service using SOAP or OData services. It includes NTLM authentication and more.
-
-### Social
-
-*   [CakeDC/Forum plugin (⭐23)](https://github.com/CakeDC/cakephp-forum) - Forum plugin including categories, threads and replies, reporting messages, moderators, admin interface and more.
-
-## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### React Native
 
@@ -104,19 +94,19 @@
 
 
 
-## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Animation, Graphics & Video Playout
 
 *   [Open Playout Automation (⭐141)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization / Graph Based approach
 
 *   Public Datasets [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets).
 
-## [8. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [7. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### Articles & Tutorials / Overall Topics
 
@@ -128,7 +118,7 @@
 
 *   [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 
-## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### XXE
 

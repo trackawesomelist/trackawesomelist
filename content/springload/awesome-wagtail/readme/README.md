@@ -57,7 +57,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Official site](https://wagtail.org/)
 *   [GitHub repository (⭐14k)](https://github.com/wagtail/wagtail)
 *   [Twitter account](https://twitter.com/wagtailcms)
-*   [Roadmap (⭐14k)](https://github.com/wagtail/wagtail/projects/1)
+*   [Roadmap](https://wagtail.org/roadmap/)
 *   [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
 *   [Other resources](#resources)
 

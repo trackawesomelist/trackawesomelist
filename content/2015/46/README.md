@@ -331,18 +331,10 @@
 
 ## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
-### Queue
-
-*   [CakeResque plugin (⭐160)](https://github.com/wa0x6e/Cake-Resque) - A plugin for Resque, a library for creating background jobs.
-
 ### Development Environment
 
 *   [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 *   [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
-
-### CMS and applications built on CakePHP
-
-*   [QuickApps-CMS (⭐163)](https://github.com/quickapps/cms) - Open source content management system.
 
 ## [15. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
@@ -703,7 +695,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐57k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐58k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -711,7 +703,7 @@
 
 ### Inter-process communication
 
-*   [simple-rpc-cpp (⭐34)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
+*   [simple-rpc-cpp (⭐35)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
 
 ### Machine Learning
 
@@ -741,7 +733,7 @@
 
 ### Coding Style
 
-*   [google-styleguide (⭐33k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐34k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -773,7 +765,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐454)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐457)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -785,7 +777,7 @@
 
 ### ORM and Datamapping
 
-*   [boltun (⭐130)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
+*   [boltun (⭐132)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
 *   [kalecto (⭐142)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 
 ### Package Management
@@ -794,7 +786,7 @@
 
 ### Queue
 
-*   [honeydew (⭐706)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐705)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -1491,7 +1483,7 @@ $0.99
 
 ### IRB
 
-*   [irbtools (⭐893)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+*   [irbtools (⭐901)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 *   [Pry (⭐6.6k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 
 ## [49. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)

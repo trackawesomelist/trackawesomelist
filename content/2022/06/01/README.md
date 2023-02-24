@@ -65,8 +65,8 @@
 
 ### Java Examples / React
 
-*   [graphql-java-kickstart-federation-example (⭐8)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
-*   [dgs-federation-example (⭐82)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
+*   [graphql-java-kickstart-federation-example (⭐9)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
+*   [dgs-federation-example (⭐86)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
 
 ## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -129,11 +129,11 @@
 
 ### Stream Processing
 
-*   [goio (⭐60)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
+*   [goio (⭐62)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 
 ### Parsers/Encoders/Decoders
 
-*   [tokenizer (⭐29)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
+*   [tokenizer (⭐30)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
 
 ### Websites / Libraries for creating HTTP middlewares
 

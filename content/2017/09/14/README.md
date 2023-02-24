@@ -48,7 +48,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Condensed Inline Panel (⭐85)](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
+*   [Wagtail Condensed Inline Panel (⭐86)](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 
 ## [8. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 

@@ -93,7 +93,7 @@
 
 ### Examples and funny stuff
 
-*   [oop (⭐280)](https://github.com/wojtekmach/oop) - OOP in Elixir!
+*   [oop (⭐281)](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 ## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

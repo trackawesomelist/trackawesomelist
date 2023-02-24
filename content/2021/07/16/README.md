@@ -10,34 +10,34 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐32)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐34)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
-*   [mypy (⭐14k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐207)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [mypy (⭐15k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
+*   [pyanalyze (⭐214)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐4k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4.1k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
-*   [strongtyping (⭐88)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [strongtyping (⭐92)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
-*   [asgiref (⭐1.1k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.1k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
-*   [typeshed (⭐3.3k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [asgiref (⭐1.2k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.2k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
+*   [typeshed (⭐3.4k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
-*   [meiga (⭐29)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐44)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐114)](https://github.com/antonagestam/phantom-types) - Phantom types.
-*   [returns (⭐2.5k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐30)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
-*   [typet (⭐17)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+*   [meiga (⭐34)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+*   [option (⭐48)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐123)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [returns (⭐2.6k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+*   [safetywrap (⭐32)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [typet (⭐16)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Tools / Linters
 
@@ -45,19 +45,19 @@
 
 ### Tools / Working with types
 
-*   [com2ann (⭐123)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [typing-inspect (⭐282)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐127)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [typing-inspect (⭐287)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [monkeytype (⭐4.1k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
-*   [type4py (⭐44)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [type4py (⭐45)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 
 ### Integrations / Mypy plugins
 
-*   [mypy-playground (⭐57)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐301)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
-*   [pylance (⭐1.4k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
+*   [mypy-playground (⭐58)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐302)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [pylance (⭐1.5k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐49)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐51)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
 ---
 

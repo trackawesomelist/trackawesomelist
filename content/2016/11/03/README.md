@@ -74,7 +74,7 @@
 
 ### Gesture
 
-*   [SwipyCell (⭐249)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+*   [SwipyCell (⭐248)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
 ## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

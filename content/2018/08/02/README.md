@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2018
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,45 +31,31 @@
 
 *   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 
-## [3. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
-
-### Portugal 🇵🇹 / Braga
-
-#### Starbucks Braga
-
-> Starbucks coffee shop in the city center, with WiFi access and some tables to work. Calm and clean space.
-
-Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430>
-
-| Wifi | Power | Address                                                                                                      | Open Hours                                  |
-| ---- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| ✔    | ✔     | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00 |
-
-## [4. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Reading Material
 
 *   [Golden Cryptocurrency and Blockchain Cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - a cluster of topic pages on cryptocurrency and blockchain.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### TensorFlow / General-Purpose Machine Learning
 
 *   [Golden TensorFlow](https://golden.com/wiki/TensorFlow) - A page of content on TensorFlow, including academic papers and links to related topics.
 
-## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Free Content
 
 *   [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 
-## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Awesome lists that include links to InfluxDB / Hooks
 
 *   [awesome-home-assistant (⭐4.1k)](https://github.com/frenck/awesome-home-assistant)
 
-## [8. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [7. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
 *   [@jacobian](https://github.com/jacobian), [Django (⭐67k)](https://github.com/django/django)
     *   "What Part of '... for Life' Don't You Understand?" ([video](https://www.youtube.com/watch?v=EqcuzSwySR4))
@@ -82,13 +68,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
     *   "Maintainer Stories: Evan You" ([interview](https://github.com/open-source/stories/yyx990803))
     *   "The Journey to Full Time Open Source" ([video](https://www.youtube.com/watch?v=SXjA1aIM35E))
 
-## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Assorted
 
 *   [How to select the right React Native database](https://www.simform.com/react-native-database-selection-guide/)
 
-## [10. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
@@ -98,7 +84,6 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
 *   [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
-*   [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - My go to book for people brand new to testing.
 *   [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
 *   [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - A very good book on structuring Exploratory Testing and designing tests.
 *   [The Domain Testing Workbook](https://amzn.to/2Az4l90) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
@@ -107,19 +92,19 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [UI is Communication](https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (UI and Usability Testing).
 *   [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (experiments == tests).
 
-## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [10. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [Git katas (⭐759)](https://github.com/praqma-training/gitkatas)
 
-## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Authentication & OAuth
 
 *   [Padlock (⭐22)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 
-## [13. Awesome](/content/craftcms/awesome/README.md)
+## [12. Awesome](/content/craftcms/awesome/README.md)
 
 ### Articles / Getting Started
 
@@ -129,7 +114,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Passing data from Twig to JavaScript](https://cruftlesscraft.com/passing-data-from-twig-to-javascript) by Ben Rogerson - `1 Aug 2018`
 
-## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Community / Ephemera
 
@@ -142,7 +127,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 *   [inconvergent](http://buy.inconvergent.net)
 
-## [15. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [14. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
@@ -150,13 +135,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [MailCore (⭐80)](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [XMLCoding (⭐8)](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
 
-## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / F companies
 
 *   Feedzai <https://medium.com/feedzaitech>
 
-## [17. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [16. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Tools / Custom Time Series
 

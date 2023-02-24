@@ -23,7 +23,7 @@
 
 ### Overview / YouTube
 
-*   [yt-dlp (⭐38k)](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+*   [yt-dlp (⭐39k)](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 
 ### Overview / Other services
 

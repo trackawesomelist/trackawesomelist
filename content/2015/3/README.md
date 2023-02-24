@@ -243,8 +243,8 @@
 
 ### Packages / Weird
 
-*   [cat-names (⭐263)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
-*   [dog-names (⭐123)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
+*   [cat-names (⭐262)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
+*   [dog-names (⭐124)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
@@ -357,7 +357,7 @@
 
 ## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   Clone new plugins into `.zsh.local/modules`
 
@@ -425,7 +425,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Coverband (⭐2.1k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
+*   [Coverband (⭐2.2k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
 
 ### DevOps Tools
 
@@ -433,13 +433,13 @@
 
 ### Money
 
-*   [Monetize (⭐354)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐357)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ### ORM/ODM Extensions
 
 *   Import
     *   [ActiveRecord Import (⭐3.8k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
-    *   [bulk\_insert (⭐822)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
+    *   [bulk\_insert (⭐820)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
     *   [data\_miner (⭐300)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
     *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
@@ -447,7 +447,7 @@
 
 ### Markdown
 
-*   [Markdown (⭐85)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
+*   [Markdown (⭐84)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
 
 ### Websites
 

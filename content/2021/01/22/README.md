@@ -45,15 +45,15 @@
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3k)](https://github.com/Kiloreux/awesome-robotics#readme)
-*   [Awesome robotics libraries :octocat: (⭐1.6k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome ROS2 :octocat: (⭐1.1k)](https://github.com/fkromer/awesome-ros2#readme)
-*   [Awesome artificial intelligence :octocat: (⭐7.2k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome robotics :octocat: (⭐3.1k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome robotics libraries :octocat: (⭐1.7k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
+*   [Awesome ROS2 :octocat: (⭐1.2k)](https://github.com/fkromer/awesome-ros2#readme)
+*   [Awesome artificial intelligence :octocat: (⭐7.3k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐57k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome machine learning :octocat: (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome deep learning :octocat: (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 *   [Awesome reinforcement learning :octocat: (⭐8k)](https://github.com/aikorea/awesome-rl/#readme)
-*   [Awesome SLAM datasets :octocat: (⭐1.1k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
+*   [Awesome SLAM datasets :octocat: (⭐1.2k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
 *   [Awesome vehicle security and car hacking :octocat: (⭐2.3k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
@@ -79,9 +79,9 @@
 *   [StackHawk](https://www.stackhawk.com/) Automate application scanning throughout your pipeline to find and fix security bugs before they hit production. Unlimited scans and environments for a single app.
 *   [TestTLS.com](https://testtls.com) - Test a SSL/TLS service for secure server configuration, certificates, chains etc. Not limited to HTTPS.
 
-### DBaaS
+### Messaging and Streaming
 
-*   [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free
+*   [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
 
 ### Design and UI
 

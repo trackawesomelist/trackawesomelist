@@ -28,7 +28,7 @@
 
 ### Helix
 
-*   [PLAY Summit Demo (⭐26)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [PLAY Summit Demo (⭐27)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 
 ## [5. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -43,10 +43,6 @@
 *   [Terrahaxs](https://www.terrahaxs.com) - A GitOps Terraform CI/CD GitHub Application :heavy\_dollar\_sign:
 
 ## [7. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
-
-### Techniques
-
-*   [Poisonapple (⭐214)](https://github.com/CyborgSecurity/PoisonApple/blob/master/poisonapple/techniques.py) - Learn about various macOS persistence techniques by looking at the source code of PoisonApple.
 
 ### Detection Testing / Windows
 
@@ -66,7 +62,7 @@
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [oh-plugin (⭐0)](https://github.com/mbergo/oh-plugin) - helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
 
@@ -80,4 +76,5 @@
 
 ---
 
+- Prev: [Feb 17, 2023](/content/2023/02/17/README.md)
 - Next: [Feb 15, 2023](/content/2023/02/15/README.md)

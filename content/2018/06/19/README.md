@@ -14,7 +14,7 @@
 
 ### Software / Ticketing
 
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐755)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
+*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐767)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐7.4k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐7.6k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

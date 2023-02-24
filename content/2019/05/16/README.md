@@ -28,11 +28,11 @@
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐52)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐53)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
-*   [cl-ana (⭐186)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [cl-ana (⭐185)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -98,13 +98,13 @@ Free
 
 ### Overlays / Webinterface
 
-*   [nix-darwin (⭐1.3k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [nix-darwin (⭐1.4k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Other Awesome Projects
 
-*   [Awesome Modern C++ (⭐9.9k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
+*   [Awesome Modern C++ (⭐10k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

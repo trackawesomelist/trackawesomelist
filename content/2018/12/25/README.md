@@ -961,7 +961,7 @@
 
 ### Modules / Utils
 
-*   [deno-opn (⭐34)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
+*   [deno-opn (⭐37)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

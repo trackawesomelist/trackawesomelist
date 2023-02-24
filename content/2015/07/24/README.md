@@ -67,7 +67,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐716)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐721)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

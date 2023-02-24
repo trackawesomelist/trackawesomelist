@@ -27,7 +27,7 @@
 ### Community
 
 *   [CLPM](https://gitlab.common-lisp.net/clpm/clpm) - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [Qlot (⭐299)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Qlot (⭐300)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [Quicksys](https://lisp.com.br/quicksys/) - install systems from multiple Quicklisp distributions. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs
@@ -88,11 +88,11 @@
 
 ### Carousel
 
-*   [react-image-magnify (⭐552)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
+*   [react-image-magnify (⭐554)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐74)](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐75)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ## [11. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Projects
 
-*   [Flow.er (⭐47)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
+*   [Flow.er (⭐49)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 
 ## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -284,11 +284,11 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐903)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐1.1k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐2.2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐2.3k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -385,7 +385,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐211)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐212)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [36. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -401,7 +401,7 @@
 
 ### Packaging
 
-*   [Simplified testing of package installations (⭐0)](https://github.com/michaellwest/test-sitecore-packages) - Confirms package installation by converting a package into a WDP and installing it.
+*   [Simplified testing of package installations (⭐1)](https://github.com/michaellwest/test-sitecore-packages) - Confirms package installation by converting a package into a WDP and installing it.
 
 ### Publishing
 
@@ -692,7 +692,7 @@
 
 ### Example Projects
 
-*   [Keycloak Clustering examples (⭐86)](https://github.com/ivangfr/keycloak-clustered)
+*   [Keycloak Clustering examples (⭐91)](https://github.com/ivangfr/keycloak-clustered)
 
 ## [43. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 

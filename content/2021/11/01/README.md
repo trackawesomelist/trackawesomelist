@@ -44,7 +44,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐158)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐163)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -62,8 +62,8 @@
 
 ### Installation
 
-*   [Running under Docker (⭐361)](https://github.com/node-red/node-red-docker)
-*   [c't-Smart-Home (⭐154)](https://github.com/ct-Open-Source/ct-Smart-Home) - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
+*   [Running under Docker (⭐379)](https://github.com/node-red/node-red-docker)
+*   [c't-Smart-Home (⭐157)](https://github.com/ct-Open-Source/ct-Smart-Home) - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
 
 ### Community / UI
 

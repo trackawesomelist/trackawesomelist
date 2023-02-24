@@ -28,17 +28,17 @@
 
 ### Tools / Vendor supported providers
 
-*   [Shisho (⭐346)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐350)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Financial
 
-*   [Cassandre (⭐448)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
+*   [Cassandre (⭐453)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
 
 ### Machine Learning
 
-*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
+*   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
 
 ### Testing / Miscellaneous
 
@@ -46,7 +46,7 @@
 
 ### Workflow Orchestration Engines / Mocking
 
-*   [flowable (⭐6k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐6.1k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

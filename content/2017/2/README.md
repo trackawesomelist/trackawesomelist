@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09 - Jan 15, 2017
 
-39 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,13 +64,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐6.9k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐7k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.5k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐465)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-*   [Live Server (⭐4k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+*   [clipboard-cli (⭐466)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [Live Server (⭐4.1k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐121)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐630)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐632)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -84,16 +84,16 @@
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8.1k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [ora (⭐8.2k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [listr (⭐3.1k)](https://github.com/samverschueren/listr) - Terminal task list.
 *   [conf (⭐1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐79)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [cli-truncate (⭐81)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
 *   [insight (⭐552)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
-*   [webpack (⭐62k)](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
+*   [webpack (⭐63k)](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 *   [rollup (⭐23k)](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 *   [Broccoli (⭐3.3k)](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 
@@ -110,8 +110,8 @@
 
 *   Observables
     *   [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐321)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐321)](https://github.com/sindresorhus/awesome-observables)
+    *   [observable-to-promise (⭐323)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+    *   [More… (⭐323)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -136,9 +136,9 @@
 
 ### Packages / Compression
 
-*   [yazl (⭐307)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐626)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐369)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yazl (⭐308)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐627)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [decompress (⭐375)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Packages / Database
 
@@ -147,10 +147,10 @@
     *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐583)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [couchdb-nano (⭐587)](https://github.com/apache/couchdb-nano) - CouchDB client.
     *   [Aerospike (⭐198)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐458)](https://github.com/couchbase/couchnode) - Couchbase client.
-    *   [MongoDB (⭐9.6k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+    *   [Couchbase (⭐459)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [MongoDB (⭐9.7k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
 
@@ -167,18 +167,18 @@
 ### Packages / Process management
 
 *   [nodemon (⭐25k)](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server.
-*   [node-windows (⭐2.5k)](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
+*   [node-windows (⭐2.6k)](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 
 ### Packages / Weird
 
-*   [cows (⭐389)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐390)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐5.1k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐5.2k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
-*   [clipboardy (⭐1.5k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
+*   [clipboardy (⭐1.6k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 
 ### Resources / Tools
 
@@ -194,11 +194,11 @@
 
 ### Encryption
 
-*   [RbNaCl (⭐965)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐963)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐980)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
+*   [Awesome NLP with Ruby (⭐983)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.2k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
 ## [11. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
@@ -517,29 +517,19 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Awesome Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
 
-## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Debugging
-
-*   [ErrorEmail plugin (⭐16)](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team.
-
-### Miscellaneous
-
-*   [Interval plugin (⭐1)](https://github.com/LubosRemplik/CakePHP-Interval) - Converts seconds to human readable string (string to seconds), uses business hours (1 week = 5 days, 1 day = 8 hours).
-
-## [29. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [28. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/) - Learn about functional data structures and their uses in this overview of Facebook's popular library for JavaScript: Immutable.js.
 
-## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Database technologies / Postgres
 
 *   [PostgreSQL Interview Q\&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
 
-## [31. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [30. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
@@ -569,13 +559,13 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
         [video](https://www.youtube.com/watch?v=sPkeeWnsMn0) |
         [slides](http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf)]</sup>
 
-## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary)
 
-## [33. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [32. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Articles
 
@@ -598,25 +588,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Matryoshka (⭐795)](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
     Generalized folds, unfolds, and traversals for fixed point data structures.
 
-## [34. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [33. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Starter Kits
 
 *   [Node.js API Starter Kit (⭐3.6k)](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
 
-## [35. Amas](/content/sindresorhus/amas/week/README.md)
+## [34. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Francis Sunday (⭐1)](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -624,23 +614,23 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 ### CSV
 
-*   [nimble\_csv (⭐681)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
+*   [nimble\_csv (⭐685)](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ### Protocols
 
-*   [protox (⭐227)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+*   [protox (⭐229)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 
 ### Third Party APIs
 
 *   [dockerex (⭐18)](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 
-## [38. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [37. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Community / Blogs
 
 *   [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 
-## [39. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [38. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Official resources
 

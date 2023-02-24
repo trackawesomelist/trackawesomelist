@@ -89,13 +89,13 @@
 
 ### Development Environment
 
-*   :strawberry: [CakePHP Docker (⭐21)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
+*   [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
 
 ## [10. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Editors
 
-*   [HyperLap2D (⭐260)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+*   [HyperLap2D (⭐266)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 *   [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ---

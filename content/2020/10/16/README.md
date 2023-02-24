@@ -110,7 +110,7 @@
 
 ### Component bundles
 
-*   [Smart UI for Blazor (⭐38)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
+*   [Smart UI for Blazor (⭐39)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -128,13 +128,13 @@
 
 ### Machine Learning
 
-*   [rumale (⭐623)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐635)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
-*   [grip (⭐249)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐250)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

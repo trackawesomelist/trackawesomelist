@@ -358,7 +358,7 @@
 
 ### Framework Components
 
-*   [multi-auth (⭐103)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+*   [multi-auth (⭐102)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
 
 ### Scheduling
 
@@ -503,7 +503,7 @@
 
 ### Open Source / Other
 
-*   [Insomnia (⭐26k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐27k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
 ## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -522,7 +522,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail Medium Editor (⭐17)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
+*   [Wagtail Medium Editor (⭐18)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
 
 ## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

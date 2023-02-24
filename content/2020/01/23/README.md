@@ -17,7 +17,7 @@
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [Muffin/Sti plugin (⭐5)](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP.
+*   [Muffin/Sti plugin (⭐5)](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

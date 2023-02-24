@@ -10,11 +10,11 @@
 
 ### Packages / Mad science
 
-*   [peerwiki (⭐307)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐308)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
-*   [bcat (⭐328)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [bcat (⭐331)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Build tools
 

@@ -10,15 +10,15 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [fork-handles/result4k (⭐137)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
+*   [fork-handles/result4k (⭐138)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
 
 ## [2. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Installation
 
 *   [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
-*   [ioBroker node-red Adapter (⭐48)](https://github.com/ioBroker/ioBroker.node-red) - Starts an instance within ioBroker and communicates with it.
-*   [RedMatic (⭐514)](https://github.com/rdmtc/RedMatic/wiki/Installation) - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+*   [ioBroker node-red Adapter (⭐49)](https://github.com/ioBroker/ioBroker.node-red) - Starts an instance within ioBroker and communicates with it.
+*   [RedMatic (⭐525)](https://github.com/rdmtc/RedMatic/wiki/Installation) - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 
 ### Nodes / UI
 
@@ -33,7 +33,7 @@
 ### Email Alias Services (Anonymous Forwarding)
 
 *   [SimpleLogin (⭐3.4k)](https://github.com/simple-login/app)
-*   [AnonAddy (⭐2.1k)](https://github.com/anonaddy/anonaddy)
+*   [AnonAddy (⭐2.2k)](https://github.com/anonaddy/anonaddy)
 
 ### Alternative Frontends
 

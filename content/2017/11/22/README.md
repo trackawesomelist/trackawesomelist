@@ -26,7 +26,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Events
 
-*   [VueFlux (⭐326)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
+*   [VueFlux (⭐327)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

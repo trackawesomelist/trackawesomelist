@@ -70,7 +70,7 @@
 
 ### For Electron / Other
 
-*   [trilogy (⭐244)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+*   [trilogy (⭐245)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
 ## [11. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
@@ -214,11 +214,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐414)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐427)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐26)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐28)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
@@ -234,7 +234,7 @@
 
 ### Security
 
-*   [clamxir (⭐8)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
+*   [clamxir (⭐9)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 
 ### SMS
 
@@ -372,10 +372,10 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Applications / Cryptocurrencies
 
-*   [ChainX (⭐262)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [ChainX (⭐264)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Polkadot (⭐6.5k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
+*   [Polkadot (⭐6.6k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
 *   [Substrate (⭐7.9k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
 ## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)

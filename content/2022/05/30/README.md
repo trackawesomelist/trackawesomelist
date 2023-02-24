@@ -32,7 +32,7 @@
 
 ### Private Module Registries / Miscellaneous
 
-*   [terrareg (⭐37)](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import
+*   [terrareg (⭐44)](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -44,11 +44,11 @@
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐427)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐440)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [goenv (heyvito) (⭐1)](https://github.com/heyvito/goenv.zsh) - Automatically reads `.goenv` files in the current directory and sets `GOPRIVATE` environment variables.
 
@@ -87,11 +87,11 @@
 
 ### Application platforms / Samples
 
-*   [Appsmith (⭐24k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
+*   [Appsmith (⭐25k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 
 ### SQL / Über SQL
 
-*   [Trino (⭐6.9k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
+*   [Trino (⭐7.2k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

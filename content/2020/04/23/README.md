@@ -104,7 +104,7 @@ Language: English
 
 ### Software / Feed Readers
 
-*   [Newspipe](https://git.sr.ht/\~cedric/newspipe) - Newspipe is a web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`
+*   [Newspipe](https://git.sr.ht/~cedric/newspipe) - Newspipe is a web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

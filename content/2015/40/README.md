@@ -354,11 +354,11 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐831)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐833)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 
-*   [OHHTTPStubs (⭐4.9k)](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
+*   [OHHTTPStubs (⭐5k)](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
 
 ### UI / Barcode
 

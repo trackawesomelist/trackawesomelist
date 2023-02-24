@@ -78,7 +78,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐3.4k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐3.5k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

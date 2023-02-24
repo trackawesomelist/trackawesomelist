@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐272)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐276)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

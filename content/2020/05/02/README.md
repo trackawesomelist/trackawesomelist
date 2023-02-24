@@ -30,7 +30,7 @@
 
 ### Articles / Screeb
 
-*   [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
+*   [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

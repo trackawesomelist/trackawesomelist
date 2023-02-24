@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 17, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [MartinThoma's LaTeX example (⭐1.4k)](https://github.com/MartinThoma/LaTeX-examples/) - GitHub repository containing example LaTeX documents.
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Email
-
-*   [Gourmet/Email plugin (⭐17)](https://github.com/gourmet/email) - Email helper, layout and more.
-
-## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [3. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Rich Application
 
@@ -34,31 +28,31 @@
 
 *   [Http-Builder (⭐312)](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
 
-## [5. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [4. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Reference
 
 *   [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 
-## [6. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [5. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Physical Web
 
 *   [Physical Web Getting Started Guide for Developers](https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A)
 
-## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Iconic fonts / Fonts
 
 *   [WebHostingHub Glyphs (⭐270)](https://github.com/whhglyphs/webhostinghub-glyphs)
 
-## [8. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
+## [7. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 
 ### General
 
 *   [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
-## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / I individuals
 
@@ -72,19 +66,19 @@
 
 *   Nick Galbreath <http://www.client9.com/>
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [feathers (⭐14k)](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 
-## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Logging
 
-*   [storyboard (⭐730)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+*   [storyboard (⭐732)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
-## [12. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
+## [11. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 
 ### Analytics
 

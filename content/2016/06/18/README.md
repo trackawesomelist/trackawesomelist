@@ -41,7 +41,7 @@ git log --all --grep='<given-text>'
 
 ### Packages / Automation
 
-*   [robotjs (⭐11k)](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
+*   [robotjs (⭐12k)](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
 
 ### Resources / Discovery
 

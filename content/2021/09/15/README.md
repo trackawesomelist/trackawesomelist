@@ -44,7 +44,7 @@
 
 ### IR Tools Collection / Adversary Emulation
 
-*   [Atomic Red Team (ART) (⭐7k)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the MITRE ATT\&CK Framework.
+*   [Atomic Red Team (ART) (⭐7.1k)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the MITRE ATT\&CK Framework.
 
 ### IR Tools Collection / Books
 
@@ -74,7 +74,7 @@
 ### IR Tools Collection / Other Tools
 
 *   [Kansa (⭐1.4k)](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
-*   [Munin (⭐722)](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
+*   [Munin (⭐731)](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
 *   [PyaraScanner (⭐22)](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
@@ -84,14 +84,14 @@
 ### IR Tools Collection / Windows Evidence Collection
 
 *   [LOKI (⭐2.7k)](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
-*   [DFIR ORC](https://dfir-orc.github.io/) - DFIR ORC is a collection of specialized tools dedicated to reliably parse and collect critical artifacts such as the MFT, registry hives or event logs. DFIR ORC collects data, but does not analyze it: it is not meant to triage machines. It provides a forensically relevant snapshot of machines running Microsoft Windows. The code can be found on [GitHub (⭐310)](https://github.com/DFIR-ORC/dfir-orc).
-*   [FastIR Collector (⭐480)](https://github.com/SekoiaLab/Fastir_Collector) - Tool that collects different artifacts on live Windows systems and records the results in csv files. With the analyses of these artifacts, an early compromise can be detected.
+*   [DFIR ORC](https://dfir-orc.github.io/) - DFIR ORC is a collection of specialized tools dedicated to reliably parse and collect critical artifacts such as the MFT, registry hives or event logs. DFIR ORC collects data, but does not analyze it: it is not meant to triage machines. It provides a forensically relevant snapshot of machines running Microsoft Windows. The code can be found on [GitHub (⭐315)](https://github.com/DFIR-ORC/dfir-orc).
+*   [FastIR Collector (⭐484)](https://github.com/SekoiaLab/Fastir_Collector) - Tool that collects different artifacts on live Windows systems and records the results in csv files. With the analyses of these artifacts, an early compromise can be detected.
 *   [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape) - Kroll Artifact Parser and Extractor (KAPE) by Eric Zimmerman. A triage tool that finds the most prevalent digital artifacts and then parses them quickly. Great and thorough when time is of the essence.
-*   [MEERKAT (⭐368)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based triage and threat hunting for Windows.
+*   [MEERKAT (⭐370)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based triage and threat hunting for Windows.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   The [ZSH Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](https://grml.org/zsh/zsh-lovers.html) are indispensable.
 
@@ -462,11 +462,11 @@
 
 ### Completion / Diagnostics
 
-*   [jameshiew/nvim-magic (⭐185)](https://github.com/jameshiew/nvim-magic) - Framework for integrating AI code assistance.
+*   [jameshiew/nvim-magic (⭐188)](https://github.com/jameshiew/nvim-magic) - Framework for integrating AI code assistance.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/substrata.nvim (⭐92)](https://github.com/kvrohit/substrata.nvim) - A cold, dark color scheme written in Lua ported from [arzg/vim-substrata (⭐179)](https://github.com/arzg/vim-substrata) theme.
+*   [kvrohit/substrata.nvim (⭐92)](https://github.com/kvrohit/substrata.nvim) - A cold, dark color scheme written in Lua ported from [arzg/vim-substrata (⭐180)](https://github.com/arzg/vim-substrata) theme.
 
 ## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

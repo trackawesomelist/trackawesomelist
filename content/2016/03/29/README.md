@@ -57,7 +57,7 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐337)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐342)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -89,7 +89,7 @@ git gc --prune=now --aggressive
 
 ### Queue
 
-*   [verk (⭐715)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
+*   [verk (⭐714)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 
 ## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -110,7 +110,7 @@ git gc --prune=now --aggressive
 
 ### Open Source / Other
 
-*   [Catify (⭐63)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+*   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

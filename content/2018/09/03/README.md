@@ -40,7 +40,7 @@
 
 ### DevOps
 
-*   [DPPM (⭐107)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+*   [DPPM (⭐108)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

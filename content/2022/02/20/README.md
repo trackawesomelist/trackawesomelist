@@ -64,7 +64,7 @@
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [bio (⭐4)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
 
@@ -72,11 +72,11 @@
 
 ### Job Scheduler
 
-*   [goflow (⭐97)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
+*   [goflow (⭐98)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
 
 ### Uncategorized
 
-*   [xz (⭐401)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐402)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
@@ -113,7 +113,7 @@
 
 ### Security / Zabbix
 
-*   [Inspektor (⭐257)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
+*   [Inspektor (⭐259)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

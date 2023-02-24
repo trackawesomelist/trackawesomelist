@@ -100,7 +100,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐861)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐867)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

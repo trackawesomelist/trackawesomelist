@@ -34,9 +34,9 @@
 
 ### Security
 
-*   [Fingerprinter (⭐244)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐337)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐557)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [Fingerprinter (⭐246)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐349)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐562)](https://github.com/digininja/pipal) - Password analyser and statistics generator
 *   [WhatWeb (⭐4.3k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
@@ -44,7 +44,7 @@
 
 ### Photo / Image
 
-*   [react-photo-album (⭐128)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐140)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

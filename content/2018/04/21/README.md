@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 21, 2018
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Holistic Info-Sec for Web Developers](https://holisticinfosecforwebdevelopers.com/) - Free and downloadable book series with very broad and deep coverage of what Web Developers and DevOps Engineers need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Imagery
-
-*   [HtmlToImageView plugin (⭐1)](https://github.com/andrej-griniuk/cakephp-html-to-image-view) - Render HTML view as image (jpg or png) using [wkhtmltoimage](https://wkhtmltopdf.org).
-
-## [3. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Poland 🇵🇱 / Krakow
 
@@ -41,19 +35,19 @@ Webpage: <http://www.coffeecorner.pl/>
 | ---- | ----- | ----------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00 |
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Others
 
 *   [musicforprogramming.net](https://musicforprogramming.net/) - `return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).';`
 
-## [5. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [4. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### Websites
 
 *   [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
 
-## [6. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [5. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Miscellaneous
 

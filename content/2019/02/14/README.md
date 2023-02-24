@@ -89,7 +89,7 @@
 
 ### CLI
 
-*   [Clara (⭐648)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[BSL-1.0]
+*   [Clara (⭐647)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[BSL-1.0]
 
 ### Memory Allocation
 
@@ -99,7 +99,7 @@
 
 ### Camera
 
-*   [CameraKit-iOS (⭐626)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐631)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

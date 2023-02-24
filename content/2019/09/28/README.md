@@ -28,7 +28,7 @@
 
 ### Front-End Development
 
-*   [Ember (⭐176)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [Ember (⭐177)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -47,7 +47,7 @@
 ### Free EDA Packages / Installable
 
 *   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐849)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [Horizon EDA (⭐858)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ### CAD Specific / KiCad
 

@@ -30,7 +30,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### REST and API
 
-*   [plug\_rest (⭐52)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
+*   [plug\_rest (⭐53)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
 
 ### Validations
 

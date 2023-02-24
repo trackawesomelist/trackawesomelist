@@ -10,7 +10,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [rover (⭐2.3k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
+*   [rover (⭐2.4k)](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Data Store / Mouse Events
 
-*   [teaful (⭐674)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐678)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

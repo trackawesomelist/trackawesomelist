@@ -26,11 +26,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐199)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
-
-### Software / Automation
-
-*   [Episodes (⭐216)](https://github.com/guptachetan1997/Episodes) `⚠` - Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
+*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐201)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 

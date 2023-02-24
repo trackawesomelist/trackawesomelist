@@ -132,7 +132,7 @@
 
 ### Development / Newsletters
 
-*   [robotnix (⭐381)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+*   [robotnix (⭐394)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -142,15 +142,15 @@
 
 ### Google Colaboratory
 
-*   [swift-colab (⭐60)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
+*   [swift-colab (⭐64)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
 
 ### Misc
 
-*   [xcbeautify (⭐651)](https://github.com/tuist/xcbeautify) - Little beautifier tool for xcodebuild.
+*   [xcbeautify (⭐659)](https://github.com/tuist/xcbeautify) - Little beautifier tool for xcodebuild.
 
 ### Location / Barcode
 
-*   [AsyncLocationKit (⭐89)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
+*   [AsyncLocationKit (⭐94)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 *   [STLocationRequest (⭐640)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)

@@ -38,7 +38,7 @@
 
 ### Database Tools
 
-*   [Database Consistency (⭐708)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐782)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
 ## [6. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 

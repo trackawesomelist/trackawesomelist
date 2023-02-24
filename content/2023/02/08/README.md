@@ -44,7 +44,7 @@
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [hogbal (⭐0)](https://github.com/hogbal/hogbal.zsh-theme) - Works best with a dark background and a 256 color terminal program. Includes decorators for `virtualenv`, `git` information, `username@hostname` and current directory.
 
@@ -60,4 +60,5 @@
 
 ---
 
+- Prev: [Feb 09, 2023](/content/2023/02/09/README.md)
 - Next: [Feb 07, 2023](/content/2023/02/07/README.md)

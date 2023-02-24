@@ -231,7 +231,7 @@
 
 ### Images / Barcode
 
-*   [gifu (⭐2.8k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
+*   [gifu (⭐2.9k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/README.md)
 

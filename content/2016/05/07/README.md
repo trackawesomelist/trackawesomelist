@@ -58,7 +58,7 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐919)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐924)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 

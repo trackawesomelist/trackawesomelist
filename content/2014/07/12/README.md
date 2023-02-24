@@ -10,15 +10,15 @@
 
 ### Packages / Image
 
-*   [image-type (⭐326)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
-*   [gm (⭐6.7k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
+*   [image-type (⭐329)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+*   [gm (⭐6.8k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐2.9k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐532)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐106)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐128)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [escape-string-regexp (⭐536)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐108)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [strip-indent (⭐127)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -30,7 +30,7 @@
 
 ### Packages / Network
 
-*   [get-port (⭐771)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐776)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Weird
 

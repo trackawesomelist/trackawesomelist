@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21 - Sep 27, 2015
 
-26 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -226,8 +226,8 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐101)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐57)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [url-unshort (⭐102)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [embedza (⭐58)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -389,13 +389,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 *   [awesome-javascript-books (⭐124)](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 *   [js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
 
-## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Third Party APIs
-
-*   [Ratchet plugin (⭐51)](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
-
-## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Videos
 
@@ -409,13 +403,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 *   [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 *   [Crisper (⭐105)](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 
-## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
 *   [APNGKit (⭐2.1k)](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 
-## [20. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [19. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authorization
 
@@ -456,13 +450,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 *   [production\_rails (⭐1.7k)](https://github.com/ankane/production_rails) - Best practices for running Rails in production.
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Natural Language Processing
 
 *   [Words Counted (⭐157)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
-## [22. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Templates / Misc
 
@@ -473,13 +467,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 *   [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
 *   [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing.
 
-## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
 
-## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Feeds
 
@@ -491,13 +485,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐554)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐557)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 
 *   [airbrakex (⭐25)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 
-## [25. Amas](/content/sindresorhus/amas/week/README.md)
+## [24. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -506,7 +500,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 *   [Maxime Thirouin (⭐3)](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.
 *   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript (⭐2)](https://github.com/future-ui/future-ui). [Haskell (⭐19)](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 
-## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Threat Intelligence / Forensics
 

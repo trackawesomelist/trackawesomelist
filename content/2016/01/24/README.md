@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 24, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -204,17 +204,7 @@
 
 *   [fluent-logger (⭐7)](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Environment
-
-*   [Gourmet/Aroma plugin (⭐14)](https://github.com/gourmet/aroma) - Database based configuration.
-
-### Testing
-
-*   [Gourmet/Muffin plugin (⭐2)](https://github.com/gourmet/muffin) - [FactoryMuffin (⭐528)](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.
-
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Networking / Field Validation
 
@@ -224,7 +214,7 @@
 
 *   [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 
-## [11. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
+## [10. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
 
 ### Workshoppers
 
@@ -234,7 +224,7 @@
 
 
 
-## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 

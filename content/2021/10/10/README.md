@@ -56,11 +56,11 @@
 
 ### Resources / Controllers
 
-*   [gdx-controllers (⭐48)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
+*   [gdx-controllers (⭐51)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
 
 ### Resources / Others
 
-*   [gdx-jnigen (⭐39)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+*   [gdx-jnigen (⭐38)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐160)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐162)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.3k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

@@ -59,7 +59,7 @@
 
 ### Utility / Collection View Layout
 
-*   [ZamzamKit (⭐261)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐260)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ## [10. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -354,7 +354,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ### Software / Photo and Video Galleries
 
-*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐24k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go`
+*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐25k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go`
 
 ## [27. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -407,7 +407,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ### Functional
 
-*   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+*   [hybrids (⭐2.8k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
 ## [32. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -494,7 +494,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ### 3D / MIT
 
-*   [ada-doom-3 (⭐237)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐239)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Machine Learning / MIT
 

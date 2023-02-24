@@ -20,7 +20,7 @@
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   Add the repo to your plugin list
 

@@ -10,8 +10,8 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐281)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
-*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐31)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐283)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
+*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐32)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -31,7 +31,7 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [DFIRTrack (⭐409)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
+*   [DFIRTrack (⭐414)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
 ## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-rancher2 (⭐207)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
+*   [terraform-provider-rancher2 (⭐211)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sainnhe/everforest (⭐1.6k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
+*   [sainnhe/everforest (⭐1.7k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

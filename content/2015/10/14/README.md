@@ -63,11 +63,11 @@
 
 ## [9. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [ETSI M2M](http://www.etsi.org/technologies-clusters/technologies/m2m) - The ETSI Technical Committee is developing standards for Machine to Machine Communications.
 
-### Alliances / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards.
 

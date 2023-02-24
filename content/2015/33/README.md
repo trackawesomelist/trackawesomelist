@@ -552,11 +552,11 @@
 
 ### Containers
 
-*   [LSHBOX (⭐270)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
+*   [LSHBOX (⭐273)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
 
 ### Physics
 
-*   [Box2D (⭐6.2k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐6.3k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -573,7 +573,7 @@
 *   [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) \[[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
 *   [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) \[[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 *   [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
-*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐196)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
+*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐203)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
 *   [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) \[[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 *   [Image Nodes](http://cssdeck.com/labs/full/image-nodes) \[[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
 *   [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) \[[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
@@ -597,7 +597,7 @@
 ### Resources / Twitter
 
 *   [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js (⭐1.7k)](https://github.com/jeresig/processing-js)
-*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐86k)](https://github.com/mrdoob/three.js)
+*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐89k)](https://github.com/mrdoob/three.js)
 *   [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js (⭐4k)](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 *   [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 *   [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)

@@ -76,7 +76,7 @@
 
 ### For Electron / Other
 
-*   [electron-serve (⭐372)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐376)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [5. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -371,7 +371,7 @@ TBD - PR Welcome!
 
 ### Inventory Management and Purchasing / Eagle
 
-*   [Part-DB (⭐155)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
+*   [Part-DB (⭐156)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## [25. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -533,7 +533,7 @@ Webpage: <https://edinburghhacklab.com/>
 ### Database
 
 *   [SQLiteC++ (⭐1.6k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐727)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [sqlite\_modern\_cpp (⭐730)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
 ## [40. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 

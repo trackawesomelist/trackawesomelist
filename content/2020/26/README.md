@@ -323,15 +323,15 @@
 
 ### Gaming
 
-*   [Flame (⭐664)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐676)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐116)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐120)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐162)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐161)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
 ## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
@@ -692,7 +692,7 @@ Language: English
 
 ### Resources / Tools
 
-*   [Akita (⭐21)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
+*   [Akita (⭐22)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
     > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 *   [Open Monetization Wallet (⭐13)](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
@@ -710,11 +710,11 @@ Language: English
 
 ### Calendar / Barcode
 
-*   [HorizonCalendar (⭐2.2k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
+*   [HorizonCalendar (⭐2.3k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ### Walkthrough / Barcode
 
-*   [SuggestionsKit (⭐64)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐65)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
 ## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -724,10 +724,10 @@ Language: English
 
 ### Individual components / Charts
 
-*   [ChartJs.Blazor (⭐575)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐60k)](https://github.com/chartjs/Chart.js) charts to Blazor.
-*   [GG.Net Data Visualization (⭐71)](https://github.com/pablofrommars/GGNet) - ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
-*   [Blazor-ApexCharts (⭐268)](https://github.com/joadan/Blazor-ApexCharts) - ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
-*   [Plotly.Blazor (⭐227)](https://github.com/LayTec-AG/Plotly.Blazor) - ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐15k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://plotly-blazor.azurewebsites.net/)).
+*   [ChartJs.Blazor (⭐581)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐60k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [GG.Net Data Visualization (⭐73)](https://github.com/pablofrommars/GGNet) - ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
+*   [Blazor-ApexCharts (⭐280)](https://github.com/joadan/Blazor-ApexCharts) - ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Plotly.Blazor (⭐228)](https://github.com/LayTec-AG/Plotly.Blazor) - ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐15k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://plotly-blazor.azurewebsites.net/)).
 
 ### Individual components / Date & time
 
@@ -735,7 +735,7 @@ Language: English
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐651)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐655)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ### Individual components / Others
 
@@ -1020,24 +1020,24 @@ Language: English
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐224)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐230)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
 *   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.5k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
-*   [Shaark (⭐495)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
+*   [Shaark (⭐499)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
 
 ### Software / Search Engines
 
-*   [sist2 (⭐500)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
+*   [sist2 (⭐506)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
 
 ## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [Moon (⭐181)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐182)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -1078,22 +1078,22 @@ Language: English
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
 *   [Node.js Standard Style (⭐6)](https://github.com/geek/node-style) - Node.js core config.
-*   [prettier-standard (⭐858)](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
+*   [prettier-standard (⭐861)](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
 *   [Standard (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style.
-*   [Superlint (⭐3)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
-*   [XO (⭐7k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-*   [Healthier (⭐75)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
+*   [Superlint (⭐4)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
+*   [XO (⭐7.1k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
+*   [Healthier (⭐78)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ### Parsers / Testing Tools
 
 *   [Babel (⭐3k)](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
 *   [TypeScript (⭐13k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
-*   [BrightScript (⭐44)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+*   [BrightScript (⭐43)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
 *   [Restricted Globals (⭐16)](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
-*   [ES and browser globals (⭐270)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐273)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [47. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
@@ -1106,7 +1106,7 @@ Language: English
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐89)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐92)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ### Integrations
 
@@ -1151,9 +1151,9 @@ Language: English
 
 ### Applications
 
-*   [asm-cli-rust (⭐243)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
+*   [asm-cli-rust (⭐246)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
 *   [denoland/deno (⭐88k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐371)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [kytan (⭐374)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.7k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐2.6k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
@@ -1223,7 +1223,7 @@ Language: English
 
 ### Files and Directories
 
-*   [waffle (⭐609)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐614)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [58. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 

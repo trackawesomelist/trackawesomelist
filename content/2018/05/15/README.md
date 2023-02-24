@@ -24,9 +24,9 @@
 
 ### Packages / Command-line apps
 
-*   [gh-home (⭐184)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-*   [npm-home (⭐180)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-*   [trash (⭐2.4k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
+*   [gh-home (⭐185)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+*   [npm-home (⭐182)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [trash (⭐2.5k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 
 ### Packages / Functional programming
 
@@ -38,11 +38,11 @@
 *   [yargs (⭐10k)](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 *   [get-stdin (⭐320)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 *   [Ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-*   [terminal-link (⭐541)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-*   [terminal-image (⭐911)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+*   [terminal-link (⭐550)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+*   [terminal-image (⭐916)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐17k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 *   [sudo-block (⭐92)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
-*   [term-size (⭐132)](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
+*   [term-size (⭐133)](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 
 ### Packages / Build tools
 
@@ -51,33 +51,33 @@
 ### Packages / Web frameworks
 
 *   [ThinkJS (⭐5.3k)](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
-*   [ActionHero (⭐2.3k)](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
+*   [ActionHero (⭐2.4k)](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 
 ### Packages / Documentation
 
-*   [documentation.js (⭐5.6k)](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
+*   [documentation.js (⭐5.7k)](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
 
 ### Packages / Control flow
 
 *   Promises
     *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
-    *   [delay (⭐520)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+    *   [delay (⭐523)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
     *   [promise-memoize (⭐56)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
     *   [valvelet (⭐38)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-    *   [p-map (⭐935)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+    *   [p-map (⭐948)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
     *   [More… (⭐4.2k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
 ### Packages / Real-time
 
-*   [Socket.io (⭐57k)](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
+*   [Socket.io (⭐58k)](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 *   [Faye (⭐4.4k)](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
-*   [deepstream.io (⭐291)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
+*   [deepstream.io (⭐293)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
 
 ### Packages / Date
 
-*   [Luxon (⭐13k)](https://github.com/moment/luxon) - Library for working with dates and times.
+*   [Luxon (⭐14k)](https://github.com/moment/luxon) - Library for working with dates and times.
 
 ### Packages / Parsing
 
@@ -85,7 +85,7 @@
 
 ### Packages / Testing
 
-*   [WebdriverIO (⭐7.9k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
+*   [WebdriverIO (⭐8k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 
 ### Packages / Benchmarking
 
@@ -101,8 +101,8 @@
 
 ### Packages / Content management systems
 
-*   [ApostropheCMS (⭐3.9k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐51k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [ApostropheCMS (⭐4k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+*   [Strapi (⭐52k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 
@@ -117,7 +117,7 @@
 
 *   [ow (⭐3.7k)](https://github.com/sindresorhus/ow) - Function argument validation for humans.
 *   [semver (⭐4.5k)](https://github.com/npm/node-semver) - Semantic version parser.
-*   [@sindresorhus/is (⭐1.4k)](https://github.com/sindresorhus/is) - Type check values.
+*   [@sindresorhus/is (⭐1.5k)](https://github.com/sindresorhus/is) - Type check values.
 *   [emittery (⭐1.5k)](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 
 ### Resources / Courses
@@ -201,7 +201,7 @@
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐548)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
 ## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

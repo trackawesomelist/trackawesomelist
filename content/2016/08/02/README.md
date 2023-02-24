@@ -16,7 +16,7 @@
 
 ### Resources / Miscellaneous
 
-*   [Microsoft Node.js Guidelines (⭐2.4k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
+*   [Microsoft Node.js Guidelines (⭐2.5k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
 ## [3. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 

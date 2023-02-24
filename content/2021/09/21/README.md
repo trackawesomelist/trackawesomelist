@@ -30,7 +30,7 @@
 
 *   [Power Apps (Microsoft)](https://powerapps.com/) - Build apps in hours—not months—that easily connect to data, use Excel-like expressions to add logic, and run on the web, iOS, and Android devices.
 *   [Power BI](https://powerbi.microsoft.com/) - Unify data from many sources to create interactive, immersive dashboards and reports that provide actionable insights and drive business results.
-*   [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - Drive connected digital workflows across the enterprise, deliver modern, consumer-like experiences, and accelerate time-to-value and innovation.
+*   [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - Build mission-critical apps quickly, with more creators and less complexity. Easily scale across the enterprise to deliver experiences users love.
 *   [Creator (Zoho)](https://www.zoho.com/creator/low-code-platform/) - Build applications from scratch without having to write endless lines of code.
 
 ### Platforms / Business Process Management

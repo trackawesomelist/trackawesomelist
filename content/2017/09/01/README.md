@@ -30,7 +30,7 @@
 
 ### Authentication
 
-*   [SpotifyLogin (⭐344)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
+*   [SpotifyLogin (⭐345)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
 
 ---
 

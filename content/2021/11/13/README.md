@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-mdc (⭐58)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
+*   [yew-mdc (⭐60)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

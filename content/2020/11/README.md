@@ -169,7 +169,7 @@
 
 ### Validation
 
-*   [validator (⭐27)](https://github.com/Nicolab/crystal-validator) - Data check and validation
+*   [validator (⭐28)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ### Unofficial
 
@@ -212,15 +212,15 @@
 
 ### Markup
 
-*   :strawberry: [Markup plugin (⭐2)](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
+*   [Markup plugin (⭐3)](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
 ### Miscellaneous
 
-*   :strawberry: [Setup:Maintenance (⭐35)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
+*   [Setup:Maintenance (⭐35)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 
 ### Social
 
-*   :strawberry: [Ratings plugin (⭐9)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
+*   [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
 ## [25. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -259,7 +259,7 @@
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [StringSifter (⭐594)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+*   [StringSifter (⭐601)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 
 ## [28. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
@@ -335,7 +335,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐66k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐70k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Taxes / Currencies
 
@@ -390,7 +390,7 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Vlime (⭐382)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
+*   [Vlime (⭐384)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
 
 ## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -400,15 +400,15 @@
 
 ### Date
 
-*   [Chronology (⭐2k)](https://github.com/davedelong/time) - Building a better date/time library.
+*   [Chronology (⭐2.1k)](https://github.com/davedelong/time) - Building a better date/time library.
 
 ### UI / Barcode
 
-*   [Windless (⭐940)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
+*   [Windless (⭐942)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
 
 ### 3D / Barcode
 
-*   [Insert3D (⭐85)](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model.
+*   [Insert3D (⭐86)](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model.
 
 ## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -424,12 +424,12 @@
 
 ### Action
 
-*   [Carnage3D (⭐406)](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
-*   [donut (⭐303)](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
+*   [Carnage3D (⭐407)](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
+*   [donut (⭐306)](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
 *   [MafiaUnity (⭐249)](https://github.com/MafiaHub/MafiaUnity) - Open-source Mafia game framework.
 *   [OpenJK (⭐1.8k)](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 *   [OpenLara (⭐4.1k)](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
-*   [OpenMB (⭐95)](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount\&Blade Series.
+*   [OpenMB (⭐98)](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount\&Blade Series.
 *   [OpenTomb (⭐1.3k)](https://github.com/opentomb/OpenTomb) - Original Tomb Raider 1-5 experience with contemporary updates, features and additions.
 *   [remc2 (⭐88)](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
 *   [San Andreas Unity (⭐1.5k)](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
@@ -438,141 +438,141 @@
 ### Adventure
 
 *   [engge (⭐141)](https://github.com/scemino/engge) - Experimental game engine for Thimbleweed Park.
-*   [raw(gl) (⭐155)](https://github.com/cyxx/rawgl) - Reimplementation of Another World.
-*   [ResidualVM (⭐381)](https://github.com/residualvm/residualvm) - Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango and Escape from Monkey Island.
+*   [raw(gl) (⭐156)](https://github.com/cyxx/rawgl) - Reimplementation of Another World.
+*   [ResidualVM (⭐383)](https://github.com/residualvm/residualvm) - Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango and Escape from Monkey Island.
 *   [ScummVM (⭐1.9k)](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
 
 ### Arcade
 
 *   [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
-*   [C-Dogs SDL (⭐688)](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game.
+*   [C-Dogs SDL (⭐701)](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game.
 *   [Mr.Boom (⭐180)](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
 *   [OpenClonk (⭐283)](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
 *   [Open Kick-Off (⭐31)](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2.
-*   [Taisei (⭐719)](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series.
-*   [The Great Escape in C (⭐96)](https://github.com/dpt/The-Great-Escape-in-C) - Classic ZX Spectrum game The Great Escape in portable C.
-*   [Zelda Classic (⭐393)](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
+*   [Taisei (⭐731)](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series.
+*   [The Great Escape in C (⭐95)](https://github.com/dpt/The-Great-Escape-in-C) - Classic ZX Spectrum game The Great Escape in portable C.
+*   [Zelda Classic (⭐392)](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
 
 ### FPS
 
-*   [Allegiance (⭐72)](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
-*   [CatacombGL (⭐109)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
+*   [Allegiance (⭐73)](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
+*   [CatacombGL (⭐114)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 *   [Chocolate Doom (⭐1.5k)](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
 *   [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc.
-*   [DoomRetro (⭐529)](https://github.com/bradharding/doomretro) - Classic, refined DOOM source port for Windows PC.
-*   [Doomsday Engine (⭐227)](https://github.com/skyjake/Doomsday-Engine) - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen.
+*   [DoomRetro (⭐537)](https://github.com/bradharding/doomretro) - Classic, refined DOOM source port for Windows PC.
+*   [Doomsday Engine (⭐229)](https://github.com/skyjake/Doomsday-Engine) - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen.
 *   [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port.
 *   [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - Port of Wolfenstein 3D based on Wolf4SDL.
-*   [ezQuake (⭐231)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
-*   [Freedoom (⭐785)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine.
+*   [ezQuake (⭐230)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
+*   [Freedoom (⭐794)](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine.
 *   [GZDoom (⭐1.7k)](https://github.com/coelckers/gzdoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine.
 *   [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 *   [ioquake3 (⭐2.1k)](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
-*   [NBlood (⭐459)](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
-*   [Odamex (⭐141)](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements.
-*   [OpenSpades (⭐984)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
+*   [NBlood (⭐461)](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
+*   [Odamex (⭐142)](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements.
+*   [OpenSpades (⭐989)](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 *   [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 *   [RBDOOM-3-BFG (⭐1.1k)](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 *   [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - Port of Redneck Rampage.
 *   [The Eternity Engine (⭐181)](https://github.com/team-eternity/eternity) - Advanced DOOM source port.
-*   [Tyrquake (⭐35)](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
-*   [Yamagi Quake II (⭐692)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
+*   [Tyrquake (⭐36)](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
+*   [Yamagi Quake II (⭐697)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 *   [vkQuake (⭐1.5k)](https://github.com/Novum/vkQuake) - Quake port using Vulkan instead of OpenGL for rendering.
 
 ### Online
 
 *   [2006rebotted (⭐14)](https://github.com/dginovker/2006rebotted) - A 2006 Runescape Emulation Server.
-*   [FreeSO (⭐709)](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices.
-*   [Meridian 59 (⭐324)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
+*   [FreeSO (⭐723)](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices.
+*   [Meridian 59 (⭐323)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
 *   [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
-*   [RuneLite (⭐4k)](https://github.com/runelite/runelite) - Open source old school RuneScape client.
+*   [RuneLite (⭐4.1k)](https://github.com/runelite/runelite) - Open source old school RuneScape client.
 
 ### RPG
 
-*   [Arx Libertatis (⭐794)](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
-*   [Barony (⭐360)](https://github.com/TurningWheel/Barony) - Open source release of Barony.
+*   [Arx Libertatis (⭐798)](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+*   [Barony (⭐363)](https://github.com/TurningWheel/Barony) - Open source release of Barony.
 *   [BtBuilder (⭐35)](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set.
 *   [Daggerfall Unity (⭐1.7k)](https://github.com/Interkarma/daggerfall-unity) - Recreation of Daggerfall in the Unity engine.
-*   [Devilution (⭐8.4k)](https://github.com/diasurgical/devilution) - Reconstructed form of Diablo's original source code.
+*   [Devilution (⭐8.5k)](https://github.com/diasurgical/devilution) - Reconstructed form of Diablo's original source code.
 *   [DevilutionX (⭐6.2k)](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems.
-*   [DGEngine (⭐222)](https://github.com/dgengin/DGEngine) - Implementation of the Diablo game engine.
-*   [Exult (⭐395)](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems.
-*   [Falltergeist (⭐813)](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL.
+*   [DGEngine (⭐221)](https://github.com/dgengin/DGEngine) - Implementation of the Diablo game engine.
+*   [Exult (⭐398)](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems.
+*   [Falltergeist (⭐823)](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL.
 *   [Freeablo (⭐2.1k)](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo engine.
-*   [FreeFT (⭐142)](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
-*   [GemRB (⭐773)](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
+*   [FreeFT (⭐143)](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
+*   [GemRB (⭐778)](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
 *   [OpenDiablo2 (⭐10k)](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
-*   [OpenGothic (⭐732)](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
-*   [OpenMW (⭐4.5k)](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
-*   [OpenTESArena (⭐777)](https://github.com/afritz1/OpenTESArena) - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
-*   [OpenVIII (⭐573)](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
-*   [REGoth (⭐399)](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
-*   [Riiablo (⭐661)](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
-*   [sfall (⭐237)](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
-*   [Shockolate (⭐642)](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
-*   [UAlbion (⭐98)](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
+*   [OpenGothic (⭐750)](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
+*   [OpenMW (⭐4.6k)](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
+*   [OpenTESArena (⭐788)](https://github.com/afritz1/OpenTESArena) - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
+*   [OpenVIII (⭐580)](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
+*   [REGoth (⭐403)](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
+*   [Riiablo (⭐680)](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
+*   [sfall (⭐241)](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
+*   [Shockolate (⭐651)](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
+*   [UAlbion (⭐104)](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
 *   [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
 *   [xoreos (⭐1k)](https://github.com/xoreos/xoreos) - Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more).
 *   [zorkClone (⭐16)](https://github.com/vatbub/zorkClone) - Reimplementation of the original Zork game developed by Infocom.
 
 ### Platformer
 
-*   [Alive Reversing (⭐239)](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
+*   [Alive Reversing (⭐241)](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
 *   [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games.
-*   [Jazz² Resurrection (⭐399)](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
-*   [Lionheart Remake (⭐54)](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
-*   [NXEngine-evo (⭐404)](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
-*   [Prince-Monogame (⭐33)](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
-*   [SDLPoP (⭐944)](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
-*   [The Secret Chronicles of Dr. M (⭐188)](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles.
+*   [Jazz² Resurrection (⭐403)](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
+*   [Lionheart Remake (⭐57)](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
+*   [NXEngine-evo (⭐409)](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
+*   [Prince-Monogame (⭐34)](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
+*   [SDLPoP (⭐954)](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
+*   [The Secret Chronicles of Dr. M (⭐187)](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles.
 *   [VVVVV (⭐6.5k)](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
 ### Racing
 
-*   [DreeRally (⭐68)](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
-*   [OpenNFS (⭐457)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
-*   [Vangers (⭐563)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
+*   [DreeRally (⭐70)](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
+*   [OpenNFS (⭐461)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
+*   [Vangers (⭐564)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 
 ### Simulator
 
-*   [DXX-Rebirth (⭐387)](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
-*   [FS2Open (⭐338)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
-*   [Librelancer (⭐410)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
+*   [DXX-Rebirth (⭐393)](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
+*   [FS2Open (⭐339)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
+*   [Librelancer (⭐415)](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 
 ### Strategy
 
 *   [Antares (⭐86)](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
-*   [CivOne (⭐218)](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
+*   [CivOne (⭐220)](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
 *   [CorsixTH (⭐2.7k)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
-*   [Cortex Command Community Project Source (⭐172)](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) - Community-driven effort to continue the development of Cortex Command.
+*   [Cortex Command Community Project Source (⭐175)](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) - Community-driven effort to continue the development of Cortex Command.
 *   [FreeCol](https://sourceforge.net/projects/freecol/) - Turn-based strategy game based on the old game Colonization.
-*   [Jagged Alliance Stracciatella (⭐358)](https://github.com/ja2-stracciatella/ja2-stracciatella) - Makes Jagged Alliance 2 available on a wide range of platforms.
+*   [Jagged Alliance Stracciatella (⭐362)](https://github.com/ja2-stracciatella/ja2-stracciatella) - Makes Jagged Alliance 2 available on a wide range of platforms.
 *   [Julius (⭐2.3k)](https://github.com/bvschaik/julius) - Reimplementation of Caesar III.
 *   [KaM Remake (⭐323)](https://github.com/Kromster80/kam_remake) - RTS game remake of Knights and Merchants written in Delphi from scratch.
-*   [KeeperRL (⭐705)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
-*   [openage (⭐11k)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
-*   [OpenApocalypse (⭐421)](https://github.com/OpenApoc/OpenApoc) - Rebuild of the X-COM: Apocalypse engine.
-*   [openblack (⭐717)](https://github.com/openblack/openblack) - Reimplementation of Black & White.
+*   [KeeperRL (⭐707)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
+*   [openage (⭐12k)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
+*   [OpenApocalypse (⭐424)](https://github.com/OpenApoc/OpenApoc) - Rebuild of the X-COM: Apocalypse engine.
+*   [openblack (⭐725)](https://github.com/openblack/openblack) - Reimplementation of Black & White.
 *   [OpenDUNE (⭐1.5k)](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
-*   [Open Fodder (⭐385)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
+*   [Open Fodder (⭐389)](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
 *   [OpenHoW (⭐169)](https://github.com/TalonBraveInfo/OpenHoW) - Recreation of Gremlin's Hogs of War.
-*   [OpenLoco (⭐878)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
-*   [Open Panzer (⭐131)](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2.
+*   [OpenLoco (⭐903)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
+*   [Open Panzer (⭐133)](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2.
 *   [OpenRA (⭐12k)](https://github.com/OpenRA/OpenRA) - Implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
 *   [OpenRCT2 (⭐11k)](https://github.com/OpenRCT2/OpenRCT2) - Recreation of RollerCoaster Tycoon 2.
 *   [OpenSAGE (⭐1.1k)](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
 *   [OpenSC2K (⭐4.8k)](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis.
-*   [OpenTTD (⭐4.5k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
+*   [OpenTTD (⭐4.6k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 *   [OpenXcom (⭐1.6k)](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
-*   [OutpostHD (⭐74)](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
-*   [Race into Space (⭐151)](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
-*   [Return To The Roots (⭐407)](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
-*   [Seven Kingdoms: Ancient Adversaries (⭐238)](https://github.com/the3dfxdude/7kaa) - GPL release of the Seven Kingdoms: Ancient Adversaries.
-*   [Sourcehold (⭐213)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
+*   [OutpostHD (⭐75)](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
+*   [Race into Space (⭐152)](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
+*   [Return To The Roots (⭐409)](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
+*   [Seven Kingdoms: Ancient Adversaries (⭐240)](https://github.com/the3dfxdude/7kaa) - GPL release of the Seven Kingdoms: Ancient Adversaries.
+*   [Sourcehold (⭐214)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
 *   [VCMI (⭐3k)](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
 *   [Warcraft Remake (⭐114)](https://github.com/b3dgs/warcraft-remake) - Java remake of Warcraft: Orcs & Humans.
-*   [Wargus (⭐281)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
-*   [Warzone 2100 (⭐2.5k)](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game.
+*   [Wargus (⭐288)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
+*   [Warzone 2100 (⭐2.6k)](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game.
 *   [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
 
 ## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
@@ -637,7 +637,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐472)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐479)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [45. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -648,7 +648,7 @@
 ### Utils
 
 *   [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
-*   [query-selector-shadow-dom (⭐196)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
+*   [query-selector-shadow-dom (⭐197)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 
 ## [46. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -792,15 +792,15 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 ### Testing
 
 *   [Testing (⭐1.2k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
-*   [Visual Regression Testing (⭐1.8k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐869)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-*   [Appium (⭐392)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+*   [Visual Regression Testing (⭐1.9k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+*   [Selenium (⭐876)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Appium (⭐395)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 *   [TAP (⭐592)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐587)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [JMeter (⭐591)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ### Related
 
-*   [Awesome CLI (⭐373)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐381)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [56. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
@@ -828,12 +828,12 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Projects
 
-*   [caniuse.rs (⭐154)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐156)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 *   [Rust electron yew demo (⭐17)](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
 
 ### Tooling / Frameworks
 
-*   [wasm-pack-action (⭐33)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
+*   [wasm-pack-action (⭐34)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 
 ## [59. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
@@ -849,11 +849,11 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Architecture Patterns
 
-*   [Spin (⭐118)](https://github.com/Spinners/Spin.Swift) - A universal implementation of a Feedback Loop system for RxSwift, ReactiveSwift and Combine
+*   [Spin (⭐119)](https://github.com/Spinners/Spin.Swift) - A universal implementation of a Feedback Loop system for RxSwift, ReactiveSwift and Combine
 
 ### Maps
 
-*   [WhirlyGlobe-Maply (⭐784)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+*   [WhirlyGlobe-Maply (⭐786)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ---
 

@@ -36,7 +36,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [Deepchecks (⭐2.3k)](https://github.com/deepchecks/deepchecks)
+*   [Deepchecks (⭐2.4k)](https://github.com/deepchecks/deepchecks)
 
 ## [6. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2018
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [SysmonSearch (⭐378)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
+*   [SysmonSearch (⭐381)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 
 ## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -78,19 +78,13 @@
 *   [Nissin Foods](http://nissinfoods.com/)
 *   [Reddit Inc.](https://www.redditinc.com/)
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Email
-
-*   [SendGrid plugin (⭐5)](https://github.com/sprintcube/cakephp-sendgrid) - Email transport plugin for sending email via SendGrid API.
-
-## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Algebraic Data Types
 
 *   [MojiScript (⭐148)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
-## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Asia / India 🇮🇳
 
@@ -554,31 +548,31 @@ Topics: Developer Tools\
 Topics: ReasonML, React, Software Philosophy\
 <https://twitter.com/_chenglou>
 
-## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Testing
 
 *   [kaocha (⭐686)](https://github.com/lambdaisland/kaocha)
 
-## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Programming / WebAssembly
 
 *   [WebAssembly Jobs](https://webassemblyjobs.com/)
 
-## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - Stands for the Slackware ARM on Raspberry Pi.
 
-## [13. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [12. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Videos / IRC
 
 *   [Wonderful World of Composer](https://symfonycasts.com/screencast/composer)
 
-## [14. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
@@ -588,13 +582,13 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [mGBA (⭐4.2k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
 
-## [15. Awesome List](/content/sindresorhus/awesome/README.md)
+## [14. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Speakers (⭐752)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+*   [Speakers (⭐753)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
-## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Graph Data Model
 
@@ -604,31 +598,31 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (ETL) service
 
-## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / TypeScript
 
 *   [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 
-## [18. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [17. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
 *   [Awesome Typography (⭐1.2k)](https://github.com/Jolg42/awesome-typography)
 
-## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Next.js 7](https://nextjs.org/blog/next-7)
 
-## [20. Amas](/content/sindresorhus/amas/README.md)
+## [19. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Omar Bahareth (⭐2)](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
-## [21. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [20. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Courses
 
@@ -637,13 +631,13 @@ Topics: ReasonML, React, Software Philosophy\
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
-## [22. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [21. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Other
 
 *   [cmake\_check (⭐20)](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [22. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

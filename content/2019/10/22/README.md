@@ -10,7 +10,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐579)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐591)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

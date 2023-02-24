@@ -119,7 +119,7 @@
 
 ### Installation Media / Newsletters
 
-*   [nixos-up (⭐169)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-up (⭐180)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
 ## [8. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Apps / Third-party APIs
 
-*   [Parachute (⭐78)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Parachute (⭐80)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Data validation / Third-party APIs
 

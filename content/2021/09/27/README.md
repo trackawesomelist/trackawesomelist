@@ -26,7 +26,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐43)](https://github.com/r3-team/r3)) `MIT` `Go`
+*   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐46)](https://github.com/r3-team/r3)) `MIT` `Go`
 
 ## [3. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Internationalization
 
-*   [Rosetta (⭐31)](https://github.com/wout/rosetta) - A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats
+*   [Rosetta (⭐33)](https://github.com/wout/rosetta) - A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Resources / Setup and Deployment
 
-*   [gdx-liftoff (⭐349)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 7.x series.
+*   [gdx-liftoff (⭐359)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 7.x series.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -148,7 +148,7 @@
 
 ### Web Frameworks
 
-*   [Hobbit (⭐272)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
+*   [Hobbit (⭐271)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 
 ## [18. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Files and Directories
 
-*   [exfswatch (⭐231)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐235)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
@@ -46,7 +46,7 @@
 
 ### Utilities
 
-*   [exjprop (⭐0)](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
+*   [exjprop (⭐1)](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
 
 ### Community
 

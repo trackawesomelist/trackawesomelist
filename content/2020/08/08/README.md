@@ -44,7 +44,7 @@
 
 ### Software / Feed Readers
 
-*   [reader (⭐277)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+*   [reader (⭐280)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

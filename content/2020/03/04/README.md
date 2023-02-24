@@ -103,7 +103,7 @@
 
 ### Logging
 
-*   [Quill (⭐702)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐763)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

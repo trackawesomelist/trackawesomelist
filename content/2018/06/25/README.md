@@ -137,7 +137,7 @@
 
 ### Packages / Mad science
 
-*   [Brain.js (⭐13k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+*   [Brain.js (⭐14k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 
 ## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

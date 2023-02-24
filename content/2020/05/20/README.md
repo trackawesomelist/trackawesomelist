@@ -85,7 +85,7 @@
 
 ### Modules / Utils
 
-*   [ensure (⭐2)](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
+*   [ensure (⭐3)](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 
 ---
 

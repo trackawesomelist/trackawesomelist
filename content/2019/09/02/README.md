@@ -66,13 +66,13 @@
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐396)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
+*   [animatplot (⭐397)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [Verovio (⭐525)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐526)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Apps / StreamField
 
-*   [Wagtail UI Plus (⭐51)](https://github.com/davidcondenl/wagtailuiplus) - Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks.
+*   [Wagtail UI Plus (⭐52)](https://github.com/davidcondenl/wagtailuiplus) - Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks.
 
 ### Apps / Misc
 

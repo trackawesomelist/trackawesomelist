@@ -380,7 +380,7 @@ git push -u origin <branch_name>
 
 ### Device
 
-*   [UIDeviceComplete (⭐409)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐410)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ### Tab / Barcode
 

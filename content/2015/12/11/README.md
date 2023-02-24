@@ -18,7 +18,7 @@
 
 ### Authentication
 
-*   [ueberauth\_twitter (⭐34)](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
+*   [ueberauth\_twitter (⭐35)](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
 
 ### Build Tools
 
@@ -43,7 +43,7 @@
 
 ### Images
 
-*   [imgex (⭐31)](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
+*   [imgex (⭐32)](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
 
 ### Macros
 
@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐473)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐474)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐976)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐978)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 

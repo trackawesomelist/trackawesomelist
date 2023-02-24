@@ -90,7 +90,7 @@
 
 ### Games
 
-*   [SwiftFortuneWheel (⭐250)](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
+*   [SwiftFortuneWheel (⭐257)](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
 
 ## [14. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

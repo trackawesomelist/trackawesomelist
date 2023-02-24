@@ -54,7 +54,7 @@
 
 ### Web Frameworks
 
-*   [Huma (⭐182)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐183)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -72,7 +72,7 @@
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [cmder (⭐13)](https://github.com/potasiyam/cmder-zsh-theme) - A ZSH theme that matches the theme of Cmder, a popular terminal emulator for windows. Includes `node` and `git` status decorations.
 *   [cn (⭐0)](https://github.com/shinqcn/cn-zsh/) - Includes `username`, `directory` and `git` status decorations.
@@ -101,7 +101,7 @@
 
 *   [Verbosity: A Game for Collecting Common-Sense Facts](http://www.aladdin.cs.cmu.edu/papers/pdfs/y2006/verbosity.pdf) - ***CHI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=7793704394155465847\&hl=en\&as_sdt=0,5)].
 *   [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - ***Communications of the ACM***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/\~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553\&hl=en\&as_sdt=0,5)].
+*   [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553\&hl=en\&as_sdt=0,5)].
 
 ---
 

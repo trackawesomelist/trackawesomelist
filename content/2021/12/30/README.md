@@ -85,7 +85,7 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [Chainsaw (⭐1.8k)](https://github.com/countercept/chainsaw) - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
+*   [Chainsaw (⭐1.9k)](https://github.com/countercept/chainsaw) - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 

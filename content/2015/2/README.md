@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12 - Jan 18, 2015
 
-19 awesome lists updated this week.
+18 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -104,37 +104,31 @@
 *   [Foundations of Statistical Natural Language Processing](https://books.google.nl/books?id=YiFDxbEX3SUC)
 *   [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition](https://books.google.nl/books?id=fZmj5UNK8AQC)
 
-## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### CakePHP Websites
-
-*   [waltherlalk.com](http://waltherlalk.com) - A CakePHP related core dev blog.
-
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
 
-## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [Echarts (⭐53k)](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 
-## [9. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [8. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Tutorials and articles
 
 *   [Polymer Web Components with Marionette.js](http://blog.jeremyfairbank.com/javascript/polymer-web-components-with-marionette-js/) by Jeremy Fairbank
 
-## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Language API
 
 *   [htmlwidgets](http://www.htmlwidgets.org/) - Bring the best of JavaScript data visualization to R.
 
-## [11. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [10. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Database / DSP
 
@@ -166,20 +160,20 @@
 
 *   [App::Nopaste](https://metacpan.org/pod/App::Nopaste) - Post to various pastebins from the CLI
 
-## [12. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Resources / Books
 
 *   [Foundation HTML5 Canvas: For Games and Entertainment](http://www.amazon.com/gp/product/1430232919/ref=as_li_qf_sp_asin_il_tl?ie=UTF8\&tag=rawkes-20\&linkCode=as2\&camp=1789\&creative=9325\&creativeASIN=1430232919) by Rob Hawkes
 
-## [13. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [12. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
 *   [lupa (⭐841)](https://github.com/scoder/lupa) - Python bindings to LuaJIT2.
 *   [golua (⭐598)](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -187,7 +181,7 @@
 
 ### Automation
 
-*   [Huginn (⭐37k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐38k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### DevOps Tools
 
@@ -198,7 +192,7 @@
 *   [Ohm (⭐1.4k)](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
 *   [ROM (⭐2k)](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -206,11 +200,11 @@
 
 ### Inter-process communication
 
-*   [libjson-rpc-cpp (⭐837)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
+*   [libjson-rpc-cpp (⭐840)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
 *   [nanomsg (⭐5.6k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
@@ -229,14 +223,14 @@
 
 ### Documentation
 
-*   [ex\_doc\_dash (⭐63)](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
+*   [ex\_doc\_dash (⭐64)](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
 *   [hexdocset (⭐20)](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 
 ### Framework Components
 
 *   [plug\_rails\_cookie\_session\_store (⭐95)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 *   [plugs (⭐18)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
-*   [plugsnag (⭐66)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
+*   [plugsnag (⭐67)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 
 ### Miscellaneous
 
@@ -244,7 +238,7 @@
 
 ### Networking
 
-*   [ExPcap (⭐27)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
+*   [ExPcap (⭐28)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
 
 ### ORM and Datamapping
 
@@ -260,7 +254,7 @@
 
 ### Text and Numbers
 
-*   [hexate (⭐28)](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
+*   [hexate (⭐29)](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
 
 ### Third Party APIs
 
@@ -269,9 +263,9 @@
 *   [digoc (⭐11)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 *   [exgrid (⭐7)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐640)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐642)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
-## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -298,7 +292,7 @@
 
 *   [Brain (⭐8k)](https://github.com/harthur/brain)
 
-## [18. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -330,7 +324,7 @@
 
 
 
-## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

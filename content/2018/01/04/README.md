@@ -41,7 +41,7 @@
 
 ### Integrations
 
-*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐841)](https://github.com/zmartzone/mod_auth_openidc)
+*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐849)](https://github.com/zmartzone/mod_auth_openidc)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

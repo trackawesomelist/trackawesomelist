@@ -114,7 +114,7 @@
 
 ### Audio / Video
 
-*   [material-ui-audio-player (⭐63)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
+*   [material-ui-audio-player (⭐64)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -136,7 +136,7 @@
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐41k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐42k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

@@ -10,8 +10,8 @@
 
 ### Network / HTTP
 
-*   [truemedian/zfetch (⭐61)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
-*   [ducdetronquito/requestz (⭐90)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
+*   [truemedian/zfetch (⭐62)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
+*   [ducdetronquito/requestz (⭐95)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfedit (⭐71)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐72)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
 ### Terraform Enterprise / Vendor supported providers
 
@@ -43,7 +43,7 @@
 
 ### Editor Plugins / Vendor supported providers
 
-*   [Terraform-ls (⭐783)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐803)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -90,13 +90,13 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-animatable (⭐11)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+*   [react-animatable (⭐13)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [phuslu/log (⭐463)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐466)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

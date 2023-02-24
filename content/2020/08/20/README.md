@@ -33,7 +33,7 @@
 
 ### Tools
 
-*   [Custom Elements Locator (⭐31)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
+*   [Custom Elements Locator (⭐36)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 

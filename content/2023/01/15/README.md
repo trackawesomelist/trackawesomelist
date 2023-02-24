@@ -1720,15 +1720,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [codium](http://www.codium.ai/)
-
-  Title: Codium Â¢ Code Fast. Break Fewer Things.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [micro Dalle-2](http://micropay.ai)
 
   Title: Dalle-2 Image Generator - Micropay.
@@ -1764,7 +1755,7 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [SOC Multi-tool (⭐99)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
+*   [SOC Multi-tool (⭐163)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -1815,9 +1806,9 @@
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [xcode (⭐46)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
+*   [xcode (⭐47)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

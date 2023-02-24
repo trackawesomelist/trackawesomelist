@@ -27,7 +27,7 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐277)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐278)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 

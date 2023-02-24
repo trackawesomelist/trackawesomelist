@@ -26,7 +26,7 @@
 
 ### Patterns
 
-*   [Viperit (⭐503)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐504)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -92,7 +92,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐375)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐376)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

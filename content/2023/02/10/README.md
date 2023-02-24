@@ -34,7 +34,7 @@
 
 ### Application platforms / Samples
 
-*   [ILLA Cloud (⭐4.8k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
+*   [ILLA Cloud (⭐5.3k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 
 ## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -56,4 +56,5 @@
 
 ---
 
+- Prev: [Feb 11, 2023](/content/2023/02/11/README.md)
 - Next: [Feb 09, 2023](/content/2023/02/09/README.md)

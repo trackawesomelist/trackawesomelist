@@ -149,7 +149,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐861)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐867)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

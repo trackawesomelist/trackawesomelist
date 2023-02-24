@@ -30,7 +30,7 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐57k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Apps (⭐58k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
@@ -88,7 +88,7 @@ Rename Index.txt to Index.html
 
 ### Networking
 
-*   [ACE](http://www.dre.vanderbilt.edu/\~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
+*   [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. \[?MIT?]
 
 ## [11. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -726,15 +726,15 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐970)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐977)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐394)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐395)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐731)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐732)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [53. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 

@@ -88,11 +88,11 @@
 
 ### Apps / StreamField
 
-*   [Wagtail ClearStream (⭐33)](https://github.com/heymonkeyriot/wagtailclearstream) - An app to make Wagtail's StreamField more modular.
+*   [Wagtail ClearStream (⭐34)](https://github.com/heymonkeyriot/wagtailclearstream) - An app to make Wagtail's StreamField more modular.
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐347)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐352)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ---
 

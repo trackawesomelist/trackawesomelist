@@ -14,7 +14,7 @@
 
 ### Cards / Barcode
 
-*   [CardNavigation (⭐41)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
+*   [CardNavigation (⭐43)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
 
 ## [2. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
@@ -156,7 +156,7 @@
 ### Libraries / GUI
 
 *   [ImGui (⭐45k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+    *   [imgui-rs (⭐2.1k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -224,15 +224,15 @@
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3k)](https://github.com/Kiloreux/awesome-robotics#readme)
-*   [Awesome robotics libraries :octocat: (⭐1.6k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome ROS2 :octocat: (⭐1.1k)](https://github.com/fkromer/awesome-ros2#readme)
-*   [Awesome artificial intelligence :octocat: (⭐7.2k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome robotics :octocat: (⭐3.1k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome robotics libraries :octocat: (⭐1.7k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
+*   [Awesome ROS2 :octocat: (⭐1.2k)](https://github.com/fkromer/awesome-ros2#readme)
+*   [Awesome artificial intelligence :octocat: (⭐7.3k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐57k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome machine learning :octocat: (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome deep learning :octocat: (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 *   [Awesome reinforcement learning :octocat: (⭐8k)](https://github.com/aikorea/awesome-rl/#readme)
-*   [Awesome SLAM datasets :octocat: (⭐1.1k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
+*   [Awesome SLAM datasets :octocat: (⭐1.2k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
 *   [Awesome vehicle security and car hacking :octocat: (⭐2.3k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
@@ -520,17 +520,17 @@
 
 ### Software / DNS
 
-*   [blocky (⭐2.2k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
+*   [blocky (⭐2.3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐758)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐761)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
 ## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Tools
 
-*   [Keycloak Pulumi (⭐22)](https://github.com/pulumi/pulumi-keycloak)
+*   [Keycloak Pulumi (⭐24)](https://github.com/pulumi/pulumi-keycloak)
 
 ## [22. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -556,7 +556,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐259)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐262)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
@@ -565,7 +565,7 @@
 ### Modules / Various Godot versions
 
 *   [Entity Spell System (⭐99)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-*   [godot-anl (⭐98)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐72)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-anl (⭐98)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐71)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 *   [godot-python (⭐1.5k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 *   [godot-voxel (⭐1.5k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
 *   [Gdnet for Godot 3 (⭐112)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
@@ -573,23 +573,23 @@
 ### Modules / Godot 3.2+
 
 *   [godotcord (⭐43)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-*   [godot-apple-id (⭐28)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
+*   [godot-apple-id (⭐29)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 *   [Godot-Slicer (⭐103)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.5k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐396)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [Goost (⭐399)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐11)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
 
-*   [FMOD Integration (⭐168)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+*   [FMOD Integration (⭐169)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 
 ### Modules / Godot version unknown
 
-*   [godot-enet-better (⭐90)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-*   [Head tracking using OpenCV (⭐40)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+*   [godot-enet-better (⭐91)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+*   [Head tracking using OpenCV (⭐41)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 *   [Open Adaptive Music Library (⭐56)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐21)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 *   [RawPacker (⭐20)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
-*   [spine (⭐124)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+*   [spine (⭐126)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 *   [WaterSplash 2D node (⭐35)](https://github.com/laverneth/water)
 
 ### Bash scripts / Godot version unknown
@@ -626,7 +626,7 @@
 
 ### Security
 
-*   [Ockam (⭐2.8k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐2.9k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
 ## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -674,7 +674,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐287)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐290)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -716,9 +716,9 @@
 *   [TestTLS.com](https://testtls.com) - Test a SSL/TLS service for secure server configuration, certificates, chains etc. Not limited to HTTPS.
 *   [Ubiq Security](https://ubiqsecurity.com/) — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.
 
-### DBaaS
+### Messaging and Streaming
 
-*   [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free
+*   [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
 
 ### Translation Management
 
@@ -964,7 +964,7 @@
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐246)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐248)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ---
 

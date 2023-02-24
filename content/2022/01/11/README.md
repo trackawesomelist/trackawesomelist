@@ -444,12 +444,12 @@
 
 ### Overview / Hacker News
 
-*   [Hackers (⭐628)](https://github.com/weiran/Hackers): a native iOS app for Hacker News
+*   [Hackers (⭐633)](https://github.com/weiran/Hackers): a native iOS app for Hacker News
     *   Available to download on the Apple AppStore: <https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901>
 
 ### Overview / Other services
 
-*   [MediathekViewWeb (⭐764)](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
+*   [MediathekViewWeb (⭐772)](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
     *   Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
 *   [PrivateBin (⭐4.7k)](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 

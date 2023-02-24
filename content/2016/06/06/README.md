@@ -10,7 +10,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [ctrace (⭐117)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+*   [ctrace (⭐118)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 
 ## [2. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/README.md)
 

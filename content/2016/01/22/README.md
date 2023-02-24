@@ -16,13 +16,13 @@
 
 ### Packages / Miscellaneous
 
-*   [json-strictify (⭐17)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
+*   [json-strictify (⭐18)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [json (⭐33k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT]
+*   [json (⭐34k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT]
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

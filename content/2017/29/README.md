@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17 - Jul 23, 2017
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐272)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐276)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -63,13 +63,7 @@
 
 *   [Hyper](https://hyper.is) - Beautiful, extensible command-line interface
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Miscellaneous
-
-*   [ActionsClass plugin (⭐13)](https://github.com/HavokInspiration/cakephp-actions-class) - Gives you the ability to manage your Controller actions as single classes.
-
-## [8. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Applications
 
@@ -99,45 +93,45 @@
 *   [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​iOS)](https://itunes.apple.com/us/app/vaka/id1077345742) [(Android)](https://play.google.com/store/apps/details?id=com.Vaka).
 *   [Wonder](https://getwonder.io/) - An idea companion app that trains your creative and ideation skills [(​iOS)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### PostgreSQL forks and evolutions
 
 *   [PipelineDB](https://www.pipelinedb.com/) - The Streaming SQL Database. An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables
 *   [TimescaleDB](http://www.timescale.com/) - An open-source time-series database optimized for fast ingest and complex queries
 
-## [10. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [9. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Docker
 
 *   [Ggr (⭐287)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
 *   [Selenoid (⭐2.2k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
 
-## [11. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [10. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
 
-## [12. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [11. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Community / Ruby
 
 *   [FreeBSD DTrace mailing list](https://lists.freebsd.org/mailman/listinfo/freebsd-dtrace) - FreeBSD DTrace community mailing list.
 
-## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [12. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
 *   [Unity in Action (book)](https://www.manning.com/books/unity-in-action-second-edition)
 
-## [14. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [13. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Environmental Science and Geology
 
 *   [AWEsome](https://www.lhc-ilc.physik.uni-bonn.de/research-groups/experimental-physics/prof.-k.-desch/research/airborne-wind-energy) - An affordable airborne wind turbine prototype.
 
-## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [14. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Messaging
 
@@ -147,7 +141,7 @@
 *   [MPI (⭐20)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
 *   [MQTT (⭐19)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
-## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Machine Learning and Data Science
 
@@ -157,19 +151,19 @@
 
 *   [CAP (⭐5.9k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
-## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
 
-## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### C++
 
 *   [Restbed (⭐1.8k)](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
 
-## [19. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -179,7 +173,7 @@
 
 *   [Polymer Webpack Loader (⭐192)](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
 
-## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [19. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Security Information & Event Management
 
@@ -199,19 +193,19 @@
 *   [Apache Metron (incubating) (⭐835)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 *   [Apache Spot (incubating) (⭐336)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
-## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
 *   [prettier (⭐44k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
-## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Server side / Third Party
 
 *   [d3-node (⭐662)](https://github.com/d3-node/d3-node) - Static chart and map generation
 
-## [23. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [22. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
@@ -220,22 +214,22 @@
 ### Applications / Episodes
 
 *   [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-*   [mazda\_getInfo (⭐143)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
+*   [mazda\_getInfo (⭐146)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
-## [24. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [23. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
 *   [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
 
-## [25. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [24. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### 2D / Firefox Specific Tools/Debugger
 
 *   [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 *   [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
-## [26. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+## [25. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
 ### Contests, conferences, and events
 
@@ -249,7 +243,7 @@
 
 *   [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -259,7 +253,7 @@
 
 *   [phstc/shoryuken :fire::fire::fire::fire: (⭐1.9k)](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
 
-## [28. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [27. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Forums / Audio
 
@@ -274,13 +268,13 @@
 *   [Nidhi Kanda: The Reserve Fund](http://www.accesstoinsight.org/tipitaka/kn/khp/khp.1-9.than.html#khp-8) - Reminder that a fund of virtue and restraint will always be safe, while a material fund can be lost.
 *   [Tuvataka Sutta: Quickly](http://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.14.than.html) - How a monastic should act, with parts that are applicable to laypeople as well.
 
-## [29. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [28. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [Event Sourcing and CQRS Sample (⭐441)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
-## [30. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [29. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Label / Form
 
@@ -326,7 +320,7 @@
 
 
 
-## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [30. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Build Tools
 
@@ -404,7 +398,7 @@
 
 *   [django-wordpress (⭐332)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
-## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Ahead-of-Time Compilation / Components
 
@@ -443,20 +437,20 @@
 
 *   [Todo app with Firebase, OAuth, and Immutable (⭐508)](https://github.com/r-park/todo-angular-firebase)
 
-## [33. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [32. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Websites / Announcements and Memos
 
 *   [First website ever made](http://info.cern.ch/) (1990) - CERN (European Organization for Nuclear Research Organisation) website
 *   [The Amazing FishCam](http://fishcam.com/) (1994) - The Fishcam was the second live camera on the web and is the oldest camera site still in existence
 
-## [34. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [33. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [35. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [34. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -488,7 +482,7 @@
 
 *   [SemiPermanent](https://www.semipermanent.com)
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -504,7 +498,7 @@
 
 ### Images / Barcode
 
-*   [gifu (⭐2.8k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
+*   [gifu (⭐2.9k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 
 ### UI / Barcode
 
@@ -515,7 +509,7 @@
 
 *   [SwipeCellKit (⭐6k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
-## [37. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -545,7 +539,7 @@
 *   [JSON-populate (⭐142)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 *   [CircularJSON (⭐598)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -556,13 +550,13 @@
 
 *   [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 
-## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [40. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [39. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / S individuals
 
@@ -572,13 +566,13 @@
 
 *   Todd Motto <https://toddmotto.com/>
 
-## [41. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [40. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [VEX Robotics Competition](https://www.vexrobotics.com/)
 
-## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Documentation
 
@@ -605,7 +599,7 @@
 
 *   [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol\&oq=inurl%3A\&client=ubuntu\&sourceid=chrome\&ie=UTF-8)
 
-## [43. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [42. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
@@ -615,7 +609,7 @@
 
 *   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 
-## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [43. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -644,14 +638,14 @@
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [libdill (⭐1.6k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
 *   [libmill (⭐2.6k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -668,11 +662,11 @@
 *   [vue-deepset (⭐93)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 *   [jsx-v-model (⭐154)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 
-## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
-*   [colorls (⭐4.3k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.4k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
@@ -680,15 +674,15 @@
 
 ### Third-party APIs
 
-*   [Restforce (⭐746)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐752)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
-## [48. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
 *   [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
 
-## [49. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [48. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Code Editors
 
@@ -1194,13 +1188,13 @@
 *   [Localytics (⭐10)](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 *   [Testflight (⭐26)](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 
-## [50. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [49. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 
-## [51. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -1210,7 +1204,7 @@
 
 *   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
-## [52. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [51. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 

@@ -68,7 +68,7 @@
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐197)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐198)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
 ## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

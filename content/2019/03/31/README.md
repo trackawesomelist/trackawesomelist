@@ -28,7 +28,7 @@
 
 ### Utility / Collection View Layout
 
-*   [Eject (⭐525)](https://github.com/Rightpoint/Eject) - An eject button for Interface Builder to generate swift code.
+*   [Eject (⭐524)](https://github.com/Rightpoint/Eject) - An eject button for Interface Builder to generate swift code.
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Build and Package / MIT
 
-*   [alire (⭐201)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+*   [alire (⭐202)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

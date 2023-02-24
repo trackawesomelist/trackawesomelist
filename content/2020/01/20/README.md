@@ -115,7 +115,7 @@
 
 ### Applications
 
-*   [alacritty (⭐44k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐45k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 
 ### Libraries / Text search
 

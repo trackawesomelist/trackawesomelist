@@ -266,7 +266,7 @@
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐50k)](https://github.com/junegunn/fzf), [peco (⭐7.2k)](https://github.com/peco/peco), [zaw (⭐531)](https://github.com/zsh-users/zaw), and so on)
+*   Interactive interface ([fzf (⭐50k)](https://github.com/junegunn/fzf), [peco (⭐7.3k)](https://github.com/peco/peco), [zaw (⭐532)](https://github.com/zsh-users/zaw), and so on)
 *   Cache mechanism for reducing [the startup time (⭐5.3k)](https://github.com/zplug/zplug#vs)
 
 ## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)

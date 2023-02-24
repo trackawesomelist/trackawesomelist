@@ -55,13 +55,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐6.9k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐7k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.5k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐465)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-*   [Live Server (⭐4k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+*   [clipboard-cli (⭐466)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [Live Server (⭐4.1k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐121)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐630)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐632)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -74,16 +74,16 @@
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8.1k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [ora (⭐8.2k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [listr (⭐3.1k)](https://github.com/samverschueren/listr) - Terminal task list.
 *   [conf (⭐1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐79)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [cli-truncate (⭐81)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
 *   [insight (⭐552)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
-*   [webpack (⭐62k)](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
+*   [webpack (⭐63k)](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 *   [rollup (⭐23k)](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 *   [Broccoli (⭐3.3k)](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 
@@ -96,8 +96,8 @@
 
 *   Observables
     *   [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐321)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐321)](https://github.com/sindresorhus/awesome-observables)
+    *   [observable-to-promise (⭐323)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+    *   [More… (⭐323)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -122,9 +122,9 @@
 
 ### Packages / Compression
 
-*   [yazl (⭐307)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐626)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐369)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yazl (⭐308)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐627)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [decompress (⭐375)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Packages / Database
 
@@ -133,10 +133,10 @@
     *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐583)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [couchdb-nano (⭐587)](https://github.com/apache/couchdb-nano) - CouchDB client.
     *   [Aerospike (⭐198)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐458)](https://github.com/couchbase/couchnode) - Couchbase client.
-    *   [MongoDB (⭐9.6k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+    *   [Couchbase (⭐459)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [MongoDB (⭐9.7k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
 
@@ -153,18 +153,18 @@
 ### Packages / Process management
 
 *   [nodemon (⭐25k)](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server.
-*   [node-windows (⭐2.5k)](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
+*   [node-windows (⭐2.6k)](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 
 ### Packages / Weird
 
-*   [cows (⭐389)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐390)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐5.1k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐5.2k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
-*   [clipboardy (⭐1.5k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
+*   [clipboardy (⭐1.6k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 
 ### Resources / Tools
 

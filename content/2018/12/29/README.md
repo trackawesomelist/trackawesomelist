@@ -92,7 +92,7 @@
 
 ### Serialization
 
-*   [nanopb (⭐3.3k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.4k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

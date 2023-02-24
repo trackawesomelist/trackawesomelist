@@ -195,7 +195,7 @@
 ### IR Tools Collection / Adversary Emulation
 
 *   [AutoTTP (⭐231)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
-*   [Red Team Automation (RTA) (⭐934)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
+*   [Red Team Automation (RTA) (⭐942)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
 
 ## [7. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -419,7 +419,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐66)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐73)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ### Resources / Articles
 
@@ -654,7 +654,7 @@ git rebase --onto <new_base> <old_base>
 
 ### CMS
 
-*   [Fae (⭐809)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐820)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

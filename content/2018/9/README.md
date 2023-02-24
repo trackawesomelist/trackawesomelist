@@ -248,7 +248,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐366)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐367)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -256,7 +256,13 @@
 
 *   [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
 
-## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+
+### CMS and applications built on CakePHP
+
+*   [Croogo](https://croogo.org) - CMS software (see 5.0 branch).
+
+## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -271,20 +277,20 @@
 *   [FOSDEM 2018](https://fosdem.org/2018/schedule/track/free_java/) - FOSDEM 2018 Free Java devroom.
 *   [JFokus 2018](https://www.youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr) - The GC edition. Shenandoah, ZGC, Zing, Fibers, Falcon etc.
 
-## [17. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [18. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Intuition Fabric](https://intuitionfabric.com) - The goal of Intuition Fabric is to democratize access to AI through a network of deep learning models that are stored on the interplanetary file system and accessed through the Ethereum blockchain.
 *   [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
 
-## [18. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [19. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
 *   [Muut.com](https://muut.com/) - Embeddable comments, forum and private messaging. A lot of functionality, but really low footprint left on your website.
 
-## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -297,19 +303,19 @@
 *   [Fluent Command Line Parser (⭐523)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
 *   [Power Args (⭐529)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 
-## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
 *   [twitter-crystal (⭐83)](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
-## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-template (⭐8)](https://github.com/ErikOnBike/d3-template) - Plugin to create and render templates using D3's data binding mechanism
 
-## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -333,7 +339,7 @@
 
 *   [reCAPTCHA (⭐133)](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
 
-## [23. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [24. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Screencasts
 
@@ -344,13 +350,13 @@
 *   [Local environment (⭐6)](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
 *   [Offline SSM (⭐79)](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS.
 
-## [24. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [25. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor Test Tools (⭐32)](https://github.com/LiveUI/VaporTestTools) – Helper designed to make testing your endpoints in Vapor 3 pain-free.
 
-## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [26. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Built-in Classes Enhancement
 
@@ -364,14 +370,14 @@
     *   [mysqlclient (⭐2.2k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
     *   [PyMySQL (⭐7.2k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 
 *   [mirakui/ec2ssh :fire::fire: (⭐247)](https://github.com/mirakui/ec2ssh) - SSH config manager.
 *   [openebs/openebs :fire::fire::fire::fire::fire: (⭐7.8k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 
-## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Webpack / Components
 
@@ -391,7 +397,7 @@
 *   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
     ##### Authentication
 
-## [28. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [29. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Fonts
 
@@ -405,35 +411,35 @@
 
 *   [TruFont (⭐426)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
-## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Configuration
 
-*   [Envyable (⭐78)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
+*   [Envyable (⭐76)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
 
-## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Blogs • Websites / Other
 
 *   [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [neonrvm (⭐33)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
-*   [Tempura (⭐694)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐695)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ### Network / Barcode
 
 *   [SolarNetwork (⭐100)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
-## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
@@ -447,19 +453,19 @@
 
 *   [Capacitor (⭐8.1k)](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
 
-## [34. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [35. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Miscellaneous
 
 *   [Shrugapillar.js (⭐14)](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Backend / Navigation Demos
 
 *   [reactivesearch-native ★1218 (⭐4.7k)](https://github.com/appbaseio/reactivesearch/tree/dev/packages/native) - appbase.io and Elasticsearch UI components for React Native.
 
-## [36. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [37. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Directly On Top Of A RMDB
 
@@ -477,12 +483,12 @@
 
 *   [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 
-## [37. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [38. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@Krzysztof-Cieslak](https://github.com/Krzysztof-Cieslak), [Ionide](https://github.com/ionide)
     *   "OSS and Community: The Story" ([post](http://kcieslak.io/OSS-The-Story))
 
-## [38. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [39. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / C#
 
@@ -525,24 +531,6 @@
 ### Blogs / Desktop GUI Automation (non-browser-centric)
 
 *   [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
-
-## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Authentication and Authorization
-
-*   [CakeDC/NavAuth plugin (⭐9)](https://github.com/CakeDC/cakephp-nav-auth) - A plugin for authenticating against Navision® service using SOAP or OData services. It includes NTLM authentication and more.
-
-### Social
-
-*   [CakeDC/Forum plugin (⭐23)](https://github.com/CakeDC/cakephp-forum) - Forum plugin including categories, threads and replies, reporting messages, moderators, admin interface and more.
-
-### CMS and applications built on CakePHP
-
-*   [Croogo](https://croogo.org) - CMS software
-
-### Demo
-
-*   [Croogo 3.x](http://demo.croogo.org/3.0) - Croogo 3.x demo
 
 ## [40. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Serverless
 
-*   [Jets (⭐2k)](https://github.com/tongueroo/jets) - A Ruby Serverless Framework to create and deploy serverless microservices with ease, and to seamlessly glue AWS services.
+*   [Jets (⭐2.4k)](https://github.com/tongueroo/jets) - A Ruby Serverless Framework to create and deploy serverless microservices with ease, and to seamlessly glue AWS services.
 
 ### Scheduling
 

@@ -81,11 +81,11 @@
 
 ### Apps / SEO and SMO
 
-*   [Wagtail Yoast (⭐25)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
+*   [Wagtail Yoast (⭐29)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
 
 ### Apps / Media
 
-*   [Wagtail SVG (⭐29)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
+*   [Wagtail SVG (⭐31)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

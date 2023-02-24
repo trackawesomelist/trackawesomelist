@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27 - Sep 02, 2018
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -282,7 +282,7 @@
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐50k)](https://github.com/junegunn/fzf), [peco (⭐7.2k)](https://github.com/peco/peco), [zaw (⭐531)](https://github.com/zsh-users/zaw), and so on)
+*   Interactive interface ([fzf (⭐50k)](https://github.com/junegunn/fzf), [peco (⭐7.3k)](https://github.com/peco/peco), [zaw (⭐532)](https://github.com/zsh-users/zaw), and so on)
 *   Cache mechanism for reducing [the startup time (⭐5.3k)](https://github.com/zplug/zplug#vs)
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
@@ -380,17 +380,17 @@
 
 ### Visualization
 
-*   [jupyter-gmaps (⭐747)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+*   [jupyter-gmaps (⭐748)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 
 ### JupyterLab Extensions
 
-*   [celltags (⭐110)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
-*   [drawio (⭐551)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [google-drive (⭐382)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [latex (⭐538)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [toc (⭐725)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
-*   [variableinspector (⭐949)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
-*   [voyager (⭐276)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [celltags (⭐111)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
+*   [drawio (⭐552)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
+*   [google-drive (⭐383)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+*   [latex (⭐542)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [toc (⭐727)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [variableinspector (⭐956)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
+*   [voyager (⭐280)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -610,20 +610,14 @@
 
 *   [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
 
-## [41. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Email
-
-*   [Elastic Email plugin (⭐4)](https://github.com/sprintcube/cakephp-elastic-email) - Email transport plugin for sending email via Elastic Email API.
-
-## [42. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [41. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 *   [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 
-## [43. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [42. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -633,37 +627,37 @@
 
 *   [ember-cli-extended-resolver](https://www.npmjs.com/package/ember-cli-extended-resolver) - This addons allows to modify default files structure to be more feature-grouped.
 
-## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
 *   [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
 
-## [45. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [44. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
 
-## [46. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [45. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Presentations / Hylomorphisms in the Wild
 
 *   [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE\&t=3s) - Zainab Ali's Introductory talk presented at LambdaWorld.
 
-## [47. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [46. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Community / Mesh tools
 
 *   [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 
-## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [47. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [FIRST Robotics Competition (⭐88)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
-## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [48. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Machine Learning
 
@@ -677,7 +671,7 @@
 *   [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
 *   [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
 
-## [50. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [49. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Articles
 

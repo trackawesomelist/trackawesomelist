@@ -16,7 +16,7 @@
 
 ### Errors and Exception Handling
 
-*   [OK (⭐586)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐588)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

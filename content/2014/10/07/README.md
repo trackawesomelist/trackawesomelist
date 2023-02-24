@@ -33,16 +33,16 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   Load the plugin module in `.zshrc`
 
-### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   `cd ~/.oh-my-zsh/custom/plugins`
 *   `git clone repo`
 
-### [Prezto](https://github.com/sorin-ionescu/prezto) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### [Prezto](https://github.com/sorin-ionescu/prezto) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   Clone the plugin into your prezto modules directory
 *   Add the plugin to your `.zpreztorc` file

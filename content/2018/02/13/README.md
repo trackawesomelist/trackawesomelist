@@ -24,7 +24,7 @@
 
 ### Validations
 
-*   [skooma (⭐132)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [skooma (⭐134)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 
 ## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

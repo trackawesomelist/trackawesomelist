@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 161 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 164 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
@@ -100,10 +100,6 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / Europe
 
 *   [Encyclopédie d'histoire numérique](https://ehne.fr/) - European History through renewed historiographic objects and major contemporary challenges.
-
-### Archives and primary sources / Germany
-
-*   [PICTURA paedagogica](https://pictura.bbf.dipf.de/viewer/index/) - Digital image archive on the history of education with 131'155 objects.
 
 ### Archives and primary sources / Global
 
@@ -257,7 +253,6 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / Switzerland
 
 *   [Archives Online](https://www.archives-online.org/) - Archival search engine for Switzerland.
-*   [Digithek](https://www.digithek.ch/de/) - A collection of digital finding aids for secondary and vocational schools.
 *   [e-newspaperarchives.ch](https://www.e-newspaperarchives.ch/) - Swiss newspapers.
 *   [E-Periodica](https://www.e-periodica.ch/) - Swiss journals.
 *   [e-rara](https://www.e-rara.ch/) - The platform for digitised rare books from Swiss libraries.
@@ -278,7 +273,7 @@ Find primary sources online and learn how to research history digitally.
 *   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
 *   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐505)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Scientific Writing (⭐520)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 
@@ -299,10 +294,6 @@ Find primary sources online and learn how to research history digitally.
 *   [Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) - Federal Gazette, Administrative Case Law of the Federal Authorities and more documents from the Swiss Federal Archives.
 
 ## [Apr 29, 2020](/content/2020/04/29/README.md)
-
-### Archives and primary sources / Europe
-
-*   [CENDARI](https://archives.cendari.dariah.eu/) - Search engine for libraries containing resources on the Medieval era and World War One.
 
 ### Archives and primary sources / Germany
 

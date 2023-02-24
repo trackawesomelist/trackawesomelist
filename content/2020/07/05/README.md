@@ -102,7 +102,7 @@
 
 ### Third Party APIs
 
-*   [telegex (⭐59)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
+*   [telegex (⭐63)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
 
 ## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

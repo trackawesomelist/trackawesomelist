@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [xlsxir (⭐190)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐192)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
 ## [2. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

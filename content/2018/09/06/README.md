@@ -10,7 +10,7 @@
 
 ### Other Awesome Lists
 
-*   [example-ios-apps (⭐760)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+*   [example-ios-apps (⭐784)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

@@ -166,7 +166,7 @@
 
 ### Software / Automation
 
-*   [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code (⭐2.7k)](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
+*   [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code (⭐2.8k)](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Images / Barcode
 
-*   [Harbeth (⭐209)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐223)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -274,12 +274,12 @@
 
 ## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [git-sync (⭐42)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
 *   [smartcache (⭐14)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [yellow-sea-diamonds (⭐0)](https://github.com/jimratliff/yellow-sea-diamonds-zsh-theme) - Includes decorations for `git` status, current directory, active python virtual environment, and the exit status of the last command run.
 

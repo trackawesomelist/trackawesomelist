@@ -39,7 +39,7 @@
 
 ### Software / Miscellaneous
 
-*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐9.8k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
+*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐9.9k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Ticketing
 

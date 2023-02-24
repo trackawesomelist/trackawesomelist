@@ -73,7 +73,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐584)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐589)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ## [7. Awesome Scala](/content/lauris/awesome-scala/README.md)
 

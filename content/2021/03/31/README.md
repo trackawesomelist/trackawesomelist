@@ -50,7 +50,7 @@
 
 ### Deployment Tools / Newsletters
 
-*   [Colmena (⭐431)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐483)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Programming Languages / Crystal
 
@@ -66,7 +66,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailwind-yew-builder (⭐63)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+*   [tailwind-yew-builder (⭐66)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

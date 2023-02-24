@@ -70,13 +70,13 @@
 
 ### ORM and Datamapping
 
-*   [mongodb\_driver (⭐174)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
+*   [mongodb\_driver (⭐175)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
 
 ## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Account Management
 
-*   [Kratos (⭐7.8k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
+*   [Kratos (⭐8.2k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
 
 ## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

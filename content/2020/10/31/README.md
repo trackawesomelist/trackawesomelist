@@ -28,7 +28,7 @@
 
 ### Books / Visualization Tools
 
-*   [Convex Optimization](https://web.stanford.edu/\~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
+*   [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
 
 ## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Software / Document Management
 
-*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐859)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
+*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐870)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

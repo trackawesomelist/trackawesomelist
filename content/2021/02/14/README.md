@@ -28,7 +28,7 @@
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐562)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐587)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

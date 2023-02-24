@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 13, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Authentication
 
-*   [doorman (⭐118)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
+*   [doorman (⭐119)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 
 ### Macros
 
@@ -46,19 +46,13 @@
 
 *   [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 
-## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### NoSQL
-
-*   [Monga plugin (⭐18)](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga`](https://github.com/thephpleague/monga).
-
-## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Java / Symfony2
 
 *   [Vertx-Web (⭐1k)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
-## [7. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [6. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Must Reads
 
@@ -68,19 +62,19 @@
 
 *   [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
 
-## [8. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Videos
 
 *   [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell Desired State Configuration (DSC) resource to install Hubot on Windows.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) \[pt-BR\]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 
-## [10. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [9. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Automation
 

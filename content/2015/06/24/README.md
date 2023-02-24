@@ -14,7 +14,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐430)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐431)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 

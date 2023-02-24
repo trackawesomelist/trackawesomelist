@@ -80,7 +80,7 @@
 
 ### Packages / Command-line utilities
 
-*   [drawille (⭐977)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+*   [drawille (⭐979)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 
 ---
 

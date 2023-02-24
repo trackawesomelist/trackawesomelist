@@ -48,7 +48,7 @@
 
 ### Sitecore Host
 
-*   [Sitecore Host Quick Start (⭐0)](https://github.com/sitecoreguild/SitecoreHostQuickStart/tree/develop) - A basic set of templates to help you get started building your own Sitecore Host applications.
+*   [Sitecore Host Quick Start](https://github.com/sitecoreguild/SitecoreHostQuickStart/tree/develop) - A basic set of templates to help you get started building your own Sitecore Host applications.
 *   [Sitecore Host Plugins (⭐0)](https://github.com/JuliusAngwenyi/SitecoreHostPlugins) - Sitecore Host Plugins for extending Sitecore Identity Server.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
@@ -141,7 +141,7 @@
 
 ### Strategy
 
-*   [OpenHV (⭐312)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
+*   [OpenHV (⭐324)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
 
 ## [15. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -226,7 +226,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [Formily (⭐9.1k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+*   [Formily (⭐9.2k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
 ## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

@@ -49,7 +49,7 @@
 
 ### Open Source / Other
 
-*   [SpaceEye (⭐289)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [SpaceEye (⭐298)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 

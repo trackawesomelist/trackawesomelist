@@ -425,7 +425,7 @@
 
 ### Props from server / Mouse Events
 
-*   [axios-react (⭐39)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
+*   [axios-react (⭐40)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Databases / Lazy Load
 
@@ -436,7 +436,7 @@
 
 ### Configuration
 
-*   [toml++ (⭐988)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐1k)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

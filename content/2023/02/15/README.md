@@ -72,10 +72,6 @@
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
-### Code Analysis and Metrics
-
-*   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
-
 ### Blazor
 
 *   [blazork8s (⭐65)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
@@ -112,6 +108,10 @@
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
+### Testing
+
+*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. Free for all public projects.
+
 ### Forms
 
 *   [Feathery](https://feathery.io) - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. Free plan allows up to 250 submissions / month and 5 active forms.
@@ -135,4 +135,5 @@
 
 ---
 
+- Prev: [Feb 16, 2023](/content/2023/02/16/README.md)
 - Next: [Feb 14, 2023](/content/2023/02/14/README.md)

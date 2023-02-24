@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐92)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐95)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -102,10 +102,10 @@
 
 ### Deployment Hosting
 
-*   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
 *   [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 *   [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
+*   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
+*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
 
 ### Discussions
 
@@ -120,8 +120,8 @@
 
 ### Mail
 
-*   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 *   [FormSpree](https://formspree.io/) - Receive form submissions by email.
+*   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 
 ### Media
 
@@ -130,10 +130,10 @@
 
 ### Messaging
 
+*   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
+*   [stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
-*   [stream](https://getstream.io/) - Feed and chat as a service.
-*   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 
 ### Misc
 
@@ -141,9 +141,9 @@
 
 ### Monitoring
 
-*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
+*   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
 ### Natural Language Processing
 
@@ -161,8 +161,8 @@
 ### Scraping
 
 *   [Apify](https://apify.com/) - Turn websites to an API.
-*   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 *   [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
+*   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 
 ### Shipping
 
@@ -231,7 +231,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐332)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐331)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## [19. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -243,7 +243,7 @@
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [Raspberry Pi 4 builds (⭐231)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
+*   [Raspberry Pi 4 builds (⭐233)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
 ## [21. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -365,7 +365,7 @@
 
 ### Front-End Development
 
-*   [Svelte (⭐803)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+*   [Svelte (⭐829)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
 ### Back-End Development
 
@@ -373,7 +373,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐229)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐237)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ## [26. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
@@ -404,13 +404,13 @@
 
 ### Localization
 
-*   [attranslate (⭐272)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+*   [attranslate (⭐279)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
 ## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Debugging
 
-*   [extrace (⭐33)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐36)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [31. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -641,9 +641,9 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Miscellaneous
 
-*   [fastcomments-react (⭐3)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
+*   [fastcomments-react (⭐4)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
 *   [react-pulse-text (⭐12)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
-*   [@restpace/schema-form (⭐35)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
+*   [@restpace/schema-form (⭐37)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
 
 ### Device Input / Keyboard Events
 
@@ -761,7 +761,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐471)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐478)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -931,7 +931,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Plugins / Languages and Environments
 
-*   [YAML (⭐41)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+*   [YAML (⭐49)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ### Plugins / Style
 
@@ -954,7 +954,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Apps / Third-party APIs
 
-*   [cl-phonetic (⭐23)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
+*   [cl-phonetic (⭐24)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
 *   [cl-string-generator (⭐20)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs

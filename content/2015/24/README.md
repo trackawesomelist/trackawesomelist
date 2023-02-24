@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 15 - Jun 21, 2015
 
-21 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -200,26 +200,20 @@
 
 *   [StormCV (⭐169)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### ORM / Database / Datamapping
-
-*   [PersistRelatedData plugin (⭐12)](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
-
-## [8. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [7. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### *Basics*
 
 *   [hsenv (⭐122)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 *   [Stack (⭐3.8k)](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
 
-## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [8. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### data
 
 *   [strava-geojson (⭐26)](https://github.com/tmcw/strava-geojson): export *all* strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
 
-## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -298,13 +292,13 @@
 *   [ts (⭐53)](https://github.com/thinkerbot/ts) - A shell test script
 *   [The Art of Command Line (⭐124k)](https://github.com/jlevy/the-art-of-command-line)
 
-## [11. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Web Development
 
 *   [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** \[10:14:37]
 
-## [12. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
+## [11. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
 ### :hammer_and_wrench:   Libraries and SDKs / Python
 
@@ -314,7 +308,7 @@
 
 *   [slack-scala-client (⭐183)](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -324,7 +318,7 @@
 
 *   [gimei\_ex (⭐6)](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 
-## [14. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [13. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -334,7 +328,7 @@
 
 *   [Psychedelic Chat](http://psychedelicchat.com/)
 
-## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [14. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -366,7 +360,7 @@
 
 
 
-## [16. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [15. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -380,26 +374,26 @@
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
-## [17. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [16. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Other / Brunch Plugins
 
 *   [babel-node](https://babeljs.io/docs/usage/cli/#babel-node) - Run node cli with ES6 transpiling using Babel.
 
-## [18. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [17. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
 *   [Python](https://atom.io/packages/linter-pylama) — pylama
 *   [Stylus](https://atom.io/packages/linter-stylint) — stylint
 
-## [19. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
 *   [LDAvis (⭐521)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
@@ -417,7 +411,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 *   [obetomuniz/awesome-webcomponents (⭐522)](https://github.com/obetomuniz/awesome-webcomponents)
 
-## [21. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [20. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Java Libraries
 

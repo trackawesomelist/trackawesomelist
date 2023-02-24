@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2016
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -69,7 +69,7 @@
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐633)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐635)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -77,7 +77,7 @@
 
 ### HTML / Barcode
 
-*   [Fuzi (⭐996)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
+*   [Fuzi (⭐1k)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 
 ### Menu / Barcode
 
@@ -210,13 +210,7 @@
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐5.7k)](https://github.com/aws/aws-sdk-php)
 
-## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### REST and API
-
-*   [ApiPagination plugin (⭐40)](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
-
-## [12. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [11. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Eddystone by Google
 
@@ -240,7 +234,7 @@
 
 *   [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
 
-## [13. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [12. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Open Courses
 
@@ -382,14 +376,14 @@
 
 
 
-## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Books
 
 *   [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 *   [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 
-## [15. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [14. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### GUI / Custom Controls
 
@@ -428,7 +422,7 @@
 
 *   [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
-## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 

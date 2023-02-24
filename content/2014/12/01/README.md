@@ -16,7 +16,7 @@
 
 ### Packages / Command-line apps
 
-*   [browser-run (⭐417)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+*   [browser-run (⭐422)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

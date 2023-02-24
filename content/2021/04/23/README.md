@@ -10,13 +10,13 @@
 
 ### Packaging
 
-*   [Simplified testing of package installations (⭐0)](https://github.com/michaellwest/test-sitecore-packages) - Confirms package installation by converting a package into a WDP and installing it.
+*   [Simplified testing of package installations (⭐1)](https://github.com/michaellwest/test-sitecore-packages) - Confirms package installation by converting a package into a WDP and installing it.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
-*   [react-image-magnify (⭐552)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
+*   [react-image-magnify (⭐554)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
 
 ## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Example Projects
 
-*   [Keycloak Clustering examples (⭐86)](https://github.com/ivangfr/keycloak-clustered)
+*   [Keycloak Clustering examples (⭐91)](https://github.com/ivangfr/keycloak-clustered)
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Projects
 
-*   [Flow.er (⭐47)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
+*   [Flow.er (⭐49)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 
 ## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

@@ -131,7 +131,7 @@
 
 ### Testing
 
-*   [mox (⭐1.1k)](https://github.com/dashbitco/mox) - Mocks and explicit contracts for Elixir.
+*   [mox (⭐1.2k)](https://github.com/dashbitco/mox) - Mocks and explicit contracts for Elixir.
 
 ## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐625)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐641)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

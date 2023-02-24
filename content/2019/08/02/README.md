@@ -16,13 +16,13 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐673)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐677)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
-*   [jp\_doodle (⭐45)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
+*   [jp\_doodle (⭐47)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

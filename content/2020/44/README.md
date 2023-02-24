@@ -29,7 +29,7 @@
 
 ### Other / Godot version unknown
 
-*   [codetranslator (⭐32)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
+*   [codetranslator (⭐33)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 *   [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
@@ -191,7 +191,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐579)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐581)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
 
 ## [14. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
@@ -212,39 +212,39 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐802)](https://github.com/scikit-multilearn/scikit-multilearn)
-*   [sklearn-expertsys (⭐482)](https://github.com/tmadl/sklearn-expertsys)
+*   [scikit-multilearn (⭐812)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [sklearn-expertsys (⭐483)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.3k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐375)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐654)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐483)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐418)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐711)](https://github.com/rsteca/sklearn-deap)
+*   [seqlearn (⭐655)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐486)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐420)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐715)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐5.2k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐267)](https://github.com/maximtrp/scikit-posthocs)
-*   [pystruct (⭐666)](https://github.com/pystruct/pystruct)
+*   [scikit-posthocs (⭐270)](https://github.com/maximtrp/scikit-posthocs)
+*   [pystruct (⭐667)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn)
-*   [cuML (⭐3.1k)](https://github.com/rapidsai/cuml)
-*   [causalml (⭐3.7k)](https://github.com/uber/causalml)
+*   [cuML (⭐3.2k)](https://github.com/rapidsai/cuml)
+*   [causalml (⭐3.8k)](https://github.com/uber/causalml)
 *   [mlpack (⭐4.2k)](https://github.com/mlpack/mlpack)
-*   [MLxtend (⭐4.2k)](https://github.com/rasbt/mlxtend)
+*   [MLxtend (⭐4.3k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐12k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐334)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐750)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐342)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐755)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐62k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐63k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐13k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.2k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.2k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.5k)](https://github.com/pytorch/tnt)
-*   [PyVarInf (⭐342)](https://github.com/ctallec/pyvarinf)
+*   [PyVarInf (⭐343)](https://github.com/ctallec/pyvarinf)
 *   [GPyTorch (⭐3k)](https://github.com/cornellius-gp/gpytorch)
 *   [Catalyst (⭐3.1k)](https://github.com/catalyst-team/catalyst)
 
@@ -254,10 +254,10 @@
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
-*   [Polyaxon (⭐3.2k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐731)](https://github.com/itdxer/neupy)
-*   [tfdeploy (⭐349)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐624)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [Polyaxon (⭐3.3k)](https://github.com/polyaxon/polyaxon)
+*   [NeuPy (⭐739)](https://github.com/itdxer/neupy)
+*   [tfdeploy (⭐350)](https://github.com/riga/tfdeploy)
+*   [tensorflow-upstream (⭐626)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐63)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐10)](https://github.com/bsautermeister/tensorlight)
@@ -268,11 +268,11 @@
 
 *   [Keras](https://keras.io)
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib)
-*   [Hyperas (⭐2.1k)](https://github.com/maxpumperla/hyperas)
+*   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas)
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐493)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.2k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐441)](https://github.com/google/qkeras)
+*   [qkeras (⭐442)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -285,11 +285,11 @@
 
 ### Books / Visualization Tools
 
-*   [Convex Optimization](https://web.stanford.edu/\~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
+*   [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐468)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐472)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [16. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -692,8 +692,8 @@
 
 ### Programming Languages
 
-*   [R (⭐5.3k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐415)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+*   [R (⭐5.4k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+    *   [Learning (⭐416)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ### Gaming
 
@@ -705,7 +705,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐82)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐83)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -754,7 +754,7 @@ Free (Open Source)
 
 ### Software / Document Management
 
-*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐859)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
+*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐870)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`
 
 ### Software / Polls and Events
 
@@ -810,7 +810,7 @@ Free (Open Source)
 ### IR Tools Collection / Incident Management
 
 *   [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto security orchestration, automation and response platform with full Incident lifecycle management and many integrations to enhance automations.
-*   [Sandia Cyber Omni Tracker (SCOT) (⭐233)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
+*   [Sandia Cyber Omni Tracker (SCOT) (⭐235)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -822,7 +822,7 @@ Free (Open Source)
 
 ### IR Tools Collection / Other Tools
 
-*   [rastrea2r (⭐209)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
+*   [rastrea2r (⭐210)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -830,14 +830,14 @@ Free (Open Source)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [CAPEv2 (⭐1k)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
+*   [CAPEv2 (⭐1.1k)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
 *   [Cuckoo (⭐5.1k)](https://github.com/cuckoosandbox/cuckoo) - Open Source Highly configurable sandboxing tool.
 *   [Reverse.IT](https://www.reverse.it/) - Alternative domain for the Hybrid-Analysis tool provided by CrowdStrike.
 
 ### IR Tools Collection / Windows Evidence Collection
 
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
-*   [RegRipper (⭐325)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
+*   [RegRipper (⭐333)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -905,7 +905,7 @@ Free (Open Source)
 
 ### Version Control
 
-*   [nbQA (⭐658)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
+*   [nbQA (⭐686)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 
 ## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -1021,7 +1021,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [shellspec (⭐807)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 
-## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [52. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+
+### System Modeling / MIT
+
+*   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
+
+## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -1051,13 +1057,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 
 
-## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Overlay
 
 *   [reoverlay (⭐123)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
-## [54. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -1079,7 +1085,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Awesome FastAPI Projects (⭐674)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
-## [55. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [56. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / CI/CD
 
@@ -1162,14 +1168,14 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s\&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - A 10 part series by Shawn Chen
 
-## [56. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [57. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [ASCII-Hangman (⭐6)](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 *   [dotdotyew (⭐3)](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 
-## [57. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [58. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -1177,7 +1183,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [Node-Composer (⭐5)](https://github.com/mariusbuescher/node-composer) - Installer for NodeJS, npm and yarn.
 *   [CycloneDX-PHP-Composer (⭐21)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
-## [58. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [59. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -1195,31 +1201,31 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
 
-## [59. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [60. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
 *   [Vulkan Guide](https://vkguide.dev). \[MIT]
 
-## [60. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [61. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [exporter\_proxy (⭐4)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 
-## [61. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+## [62. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
 ### Demos / Program generation and analysis
 
 *   [Extracting information from documents, powered by GPT-3](https://twitter.com/theaievangelist/status/1300862719969681411)
 
-## [62. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [63. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Programs
 
 *   [fractals (⭐7)](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 
-## [63. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [64. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -1231,7 +1237,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### HTTP clients / Interfaces to other package managers
 
-*   👍 [Dexador (⭐301)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Dexador (⭐306)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
 
 ### Units / Third-party APIs
 
@@ -1252,16 +1258,6 @@ Webpage: <http://www5.kb.dk/en/dia/>
 ### PDF / Third-party APIs
 
 *   [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL](http://opensource.franz.com/preamble.html).
-
-## [64. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
-
-### Graphical User Interface / MIT
-
-*   [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK.
-
-### System Modeling / MIT
-
-*   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
 ## [65. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 

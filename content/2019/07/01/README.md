@@ -22,7 +22,7 @@
 
 ### Libraries / To draw using canvas
 
-*   [zDog (⭐9.4k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+*   [zDog (⭐9.6k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 

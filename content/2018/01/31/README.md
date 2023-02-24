@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [minimp3 (⭐1.2k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.3k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ## [2. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

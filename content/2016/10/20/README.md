@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -134,12 +134,6 @@
 ### Apps
 
 *   [vkQuake (⭐1.5k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
-
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Environment
-
-*   [Environments plugin (⭐47)](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle environments.
 
 ---
 

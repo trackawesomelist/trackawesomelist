@@ -10,7 +10,7 @@
 
 ### Dependency Managers
 
-*   [Accio (⭐647)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+*   [Accio (⭐648)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -50,10 +50,10 @@
 
 ### Visualization
 
-*   [ipytree (⭐99)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+*   [ipytree (⭐104)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
 *   [xleaflet (⭐76)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 *   [xwebrtc (⭐15)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
-*   [xwidgets (⭐129)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+*   [xwidgets (⭐130)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

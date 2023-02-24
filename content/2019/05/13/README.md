@@ -33,7 +33,7 @@
 
 ### Reflection
 
-*   [visit\_struct (⭐399)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
+*   [visit\_struct (⭐401)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
 
 ### Miscellaneous
 
@@ -81,11 +81,11 @@
 
 ### Packages / Filesystem
 
-*   [tempy (⭐370)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐375)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐598)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐600)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
@@ -96,8 +96,8 @@
 ### Platforms
 
 *   [.NET (⭐16k)](https://github.com/quozd/awesome-dotnet#readme)
-    *   [Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐546)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core#readme)
+    *   [Roslyn (⭐548)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Learn
 

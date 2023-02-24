@@ -20,7 +20,7 @@
 
 ### Demo
 
-*   [Bookmarkr (⭐16)](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
+*   [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 *   [Query Examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)

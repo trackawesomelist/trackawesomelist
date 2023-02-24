@@ -10,7 +10,7 @@
 
 ### Apps / Translations
 
-*   [wagtailtrans (⭐104)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+*   [wagtailtrans (⭐103)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ## [2. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

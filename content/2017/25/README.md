@@ -102,7 +102,7 @@
 
 ### For Electron / Other
 
-*   [electron-unhandled (⭐400)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+*   [electron-unhandled (⭐403)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 
 ## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -165,7 +165,6 @@
 ### Foundations of Mathematics / Surreal Numbers
 
 *   [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/\~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
-*   [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - Gretchen Grimm
 *   [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 *   [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
@@ -638,7 +637,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Analytics
 
-*   [Umbrella (⭐601)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐604)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
@@ -650,7 +649,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐815)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐816)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Auto Layout / Barcode
 
@@ -682,7 +681,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### TextField / Barcode
 
-*   [CBPinEntryView (⭐183)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
+*   [CBPinEntryView (⭐190)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 
 ### Version Manager / Barcode
 

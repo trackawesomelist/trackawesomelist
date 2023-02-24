@@ -23,7 +23,7 @@
 
 ### Audio
 
-*   [AudioPlayer (⭐677)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+*   [AudioPlayer (⭐678)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -534,7 +534,7 @@ A secure OAuth2 server implementation
 
 ### CLI Builder
 
-*   [Commander (⭐775)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐774)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ### DevOps Tools
 

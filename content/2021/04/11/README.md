@@ -29,9 +29,9 @@
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐149)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-ruby-client (⭐151)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 *   [playwright-cr (⭐18)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐140)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-rust (⭐144)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

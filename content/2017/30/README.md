@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24 - Jul 30, 2017
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -427,7 +427,7 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐871)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
+*   [stdman (⭐873)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
 *   [value-category-cheatsheet (⭐398)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
@@ -497,7 +497,7 @@
 
 ## [27. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
-### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
+### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [OCF](https://openconnectivity.org/) - OCF, The Open Connectivity Foundation, develop standards and certification for devices involved in the Internet of Things (IoT) based around Constrained Application Protocol (CoAP).
 
@@ -530,7 +530,7 @@
 
 *   [graphql-batch (⭐1.3k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐464)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-guard (⭐468)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [31. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
@@ -738,15 +738,9 @@
 
 ### Markdown / Third-party APIs
 
-*   [3bmd (⭐74)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
+*   [3bmd (⭐73)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
 
-## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Miscellaneous
-
-*   [Robotusers/Tactician plugin (⭐8)](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration.
-
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
@@ -772,7 +766,7 @@
 *   [CoreWF (⭐14)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
 *   [workflow-core (⭐4.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 
-## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Templating Engines / Runner
 
@@ -786,24 +780,24 @@
 
 *   [iziToast (⭐2.5k)](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / IDEs
 
 *   [gnome-builder](https://wiki.gnome.org/Apps/Builder) native support for rust and cargo since Version 3.22.2
 
-## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐777)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐778)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 *   [Gemini (⭐3.1k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
 
 *   [ShadowsocksX-NG (⭐31k)](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
 
-## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
@@ -811,13 +805,13 @@
 *   [MobileNets by Google](https://arxiv.org/abs/1704.04861)
 *   [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
 
-## [44. Awesome](/content/craftcms/awesome/week/README.md)
+## [43. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
 *   [Work With Craft](https://www.workwithcraft.com/) - Dedicated job board aimed to connect employers with Craft professionals.
 
-## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -827,7 +821,7 @@
 
 *   [Create your first ReactJS application with NextJS *\[Spanish\]*](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -837,7 +831,7 @@
 
 *   [vue-jalaali-datepicker (⭐13)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 
-## [47. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -858,7 +852,7 @@
 
 *   [Go Reliability and Durability at Dropbox](https://www.youtube.com/watch?v=5doOcaMXx08)
 
-## [48. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [47. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Python / General
 
@@ -878,7 +872,7 @@
 
 *   [In-depth Steam Bot Guide with Node.js (⭐498)](https://github.com/andrewda/node-steam-guide)
 
-## [49. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [48. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Language Aware String Manipulation / Constituency Parsing
 
@@ -889,13 +883,13 @@
 *   [regex\_sample (⭐1)](https://github.com/mochizukikotaro/regex_sample) -
     sample string generation from a given Regular Expression.
 
-## [50. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [49. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Content Disarm & Reconstruct
 
 *   [DocBleach (⭐130)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
-## [51. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [50. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 

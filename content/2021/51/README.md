@@ -477,7 +477,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐120)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐35k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐124)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐36k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -610,13 +610,13 @@
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-wayland (⭐300)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
+*   [nixpkgs-wayland (⭐309)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 
-*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/\~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 ### Meta-Level Considerations / Gestalt
 
@@ -632,7 +632,7 @@
 
 ### Misc
 
-*   [ToolJet (⭐17k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐18k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [18. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
@@ -650,9 +650,9 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Debanding Material Shader (⭐22)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
-*   [Dijkstra map for Godot (⭐60)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
-*   [Discord.gd (⭐90)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
+*   [Debanding Material Shader (⭐23)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
+*   [Dijkstra map for Godot (⭐61)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
+*   [Discord.gd (⭐88)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
 ## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -716,7 +716,7 @@
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐434)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐441)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -904,18 +904,18 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐320)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐328)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [darkredz/Zeko-SQL-Builder (⭐87)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
-*   [TouK/krush (⭐236)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
+*   [darkredz/Zeko-SQL-Builder (⭐86)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
+*   [TouK/krush (⭐237)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
 
 ### Libraries/Frameworks / Misc
 
-*   [Jire/Strukt (⭐71)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [Jire/Strukt (⭐72)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
 ## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -937,7 +937,7 @@
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐47)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐50)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [41. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -953,11 +953,11 @@
 
 ### SVG / Barcode
 
-*   [SVGView (⭐273)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐294)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ### Tab / Barcode
 
-*   [CardTabBar (⭐162)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
+*   [CardTabBar (⭐165)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 
 ## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -1049,31 +1049,30 @@
 ### Call to Action
 
 *   Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-*   Just create an [issue (⭐3.4k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+*   Just create an [issue (⭐3.6k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
 
 ### Overview / YouTube
 
-*   [Invidious (⭐9.3k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
+*   [Invidious (⭐9.4k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
     *   Home page: <https://invidious.io>
     *   Invidious instances: <https://docs.invidious.io/instances/>
     *   Invidious instances API: <https://api.invidious.io>
     *   Installation guide for self-hosting: <https://docs.invidious.io/installation/>
-*   [CloudTube](https://git.sr.ht/\~cadence/cloudtube): Alternative front-end for Invidious
+*   [CloudTube](https://git.sr.ht/~cadence/cloudtube): Alternative front-end for Invidious
     *   Official instance: <https://tube.cadence.moe>
     *   Installation guide for self-hosting: <https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md>
-*   [FreeTube (⭐6.7k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+*   [FreeTube (⭐6.8k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 *   [Invuedious (⭐30)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
     *   Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
-*   [TubeSync (⭐959)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
-*   [TubeArchivist (⭐2.2k)](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
+*   [TubeSync (⭐988)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 *   [ytfzf (⭐3k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
 ### Overview / Reddit
 
 *   [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
     *   Official instance: <https://teddit.net>
-    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐181)](https://github.com/teddit-net/teddit#instances)
-    *   [Github mirror repository (⭐181)](https://github.com/teddit-net/teddit)
+    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐183)](https://github.com/teddit-net/teddit#instances)
+    *   [Github mirror repository (⭐183)](https://github.com/teddit-net/teddit)
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
 *   [Libreddit (⭐4.1k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
     *   Official instance: [libreddit.spike.codes](https://libreddit.spike.codes)
@@ -1083,7 +1082,7 @@
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
 *   [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
-*   [Infinity (⭐2.7k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
+*   [Infinity (⭐2.8k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 *   [Slide (⭐1.7k)](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
@@ -1095,28 +1094,28 @@
 
 ### Overview / Google Search
 
-*   [Whoogle Search (⭐7k)](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
-    *   Public instances: [https://github.com/benbusby/whoogle-search#public-instances (⭐7k)](https://github.com/benbusby/whoogle-search#public-instances)
+*   [Whoogle Search (⭐7.1k)](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
+    *   Public instances: [https://github.com/benbusby/whoogle-search#public-instances (⭐7.1k)](https://github.com/benbusby/whoogle-search#public-instances)
 
 ### Overview / Google Translate
 
-*   [Lingva Translate (⭐964)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+*   [Lingva Translate (⭐991)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
     *   Official instance: [lingva.ml](https://lingva.ml)
-    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐964)](https://github.com/TheDavidDelta/lingva-translate#instances)
-*   [SimplyTranslate](https://sr.ht/\~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
+    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐991)](https://github.com/TheDavidDelta/lingva-translate#instances)
+*   [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
     *   Official instance: [simplytranslate.org](https://simplytranslate.org)
     *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
-*   [SimplyTranslate Mobile (⭐106)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
+*   [SimplyTranslate Mobile (⭐110)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
 *   [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
-*   [DeepL Android (⭐292)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+*   [DeepL Android (⭐296)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
 ### Overview / Facebook
 
 *   [SlimSocial (⭐244)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
-*   [Frost (⭐915)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+*   [Frost (⭐923)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Overview / Apple AirPlay
 
@@ -1128,25 +1127,25 @@
 *   [Hackerweb (⭐1.2k)](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
     *   Official instance: <https://hackerweb.app>
     *   About Hackerweb: <https://hackerwebapp.com>
-*   [Hckrnws (⭐50)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
+*   [Hckrnws (⭐52)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
     *   Official instance: <https://www.hckrnws.com>
 
 ### Overview / Other services
 
-*   [vaultwarden (⭐22k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [vaultwarden (⭐23k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 *   [snapdrop (⭐15k)](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
-*   [hedgedoc (⭐3.6k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
+*   [hedgedoc (⭐3.7k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
 *   [etherpad-lite (⭐14k)](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
-*   [gitea (⭐34k)](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
+*   [gitea (⭐35k)](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
 
 ### Redirection / Other services
 
-*   [Farside (⭐355)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
+*   [Farside (⭐365)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 *   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
 
 ### Related projects / Other services
 
-*   [Matrix.org's Synapse (⭐10k)](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
+*   [Matrix.org's Synapse (⭐11k)](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
 
 ## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 

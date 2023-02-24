@@ -174,7 +174,7 @@
 
 ### Plugins / Testing Tools
 
-*   [Jasmine (⭐94)](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
+*   [Jasmine (⭐93)](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

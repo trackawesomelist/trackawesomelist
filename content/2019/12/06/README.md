@@ -10,7 +10,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [InvoicePlane (⭐2.1k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
+*   [InvoicePlane (⭐2.2k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
 
 ## [2. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 

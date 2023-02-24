@@ -159,7 +159,7 @@ Webpage: N/A
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐260)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐265)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -233,7 +233,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Authorization
 
-*   [authorize (⭐96)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
+*   [authorize (⭐98)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
 
 ### Cloud Infrastructure and Management
 
@@ -245,7 +245,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐392)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐393)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [24. Tips](/content/git-tips/tips/week/README.md)
 
@@ -316,7 +316,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Software / Frameworks
 
-*   [Home Assistant (⭐57k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+*   [Home Assistant (⭐58k)](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
 
 ### Software / Middlewares
 
@@ -326,7 +326,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Web Frameworks
 
-*   [Syro (⭐133)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐132)](https://github.com/soveran/syro/) - Simple router for web applications.
 
 ## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 

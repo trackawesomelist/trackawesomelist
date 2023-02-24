@@ -28,7 +28,8 @@
 
 ### ARKit
 
-*   [ARHeadsetKit (⭐79)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐85)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
+    Microsoft Hololens.
 
 ## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 

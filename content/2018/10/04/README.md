@@ -22,7 +22,7 @@
 
 ### Miscellaneous / Episodes
 
-*   [Reverse Engineering Resources (⭐63)](https://github.com/ps1337/automotive-security-research)
+*   [Reverse Engineering Resources (⭐65)](https://github.com/ps1337/automotive-security-research)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

@@ -90,7 +90,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Excision Mail (⭐141)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
+*   [Excision Mail (⭐142)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -102,7 +102,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐110)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`
+*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐111)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`
 
 ### Software / Task Management & To-do Lists
 

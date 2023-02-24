@@ -68,7 +68,7 @@ Topics: Mobile Web, PWAs, Flask, Blockchain\
 
 ### Class Based
 
-*   [Omi (⭐12k)](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
+*   [Omi (⭐13k)](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 
 ---
 

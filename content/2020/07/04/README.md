@@ -181,13 +181,13 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [framer-motion (⭐17k)](https://github.com/framer/motion) - An animation and gesture library.
+*   [framer-motion (⭐18k)](https://github.com/framer/motion) - An animation and gesture library.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐230)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
+*   [slowtec/tokio-modbus (⭐233)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
 
 ## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 

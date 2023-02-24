@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐557)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐566)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [hcledit (⭐268)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐275)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [11. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -863,11 +863,11 @@
 
 ### Component Libraries
 
-*   [Smart Web Components (⭐317)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
+*   [Smart Web Components (⭐330)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 
 ### Tools
 
-*   [Custom Elements Locator (⭐31)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
+*   [Custom Elements Locator (⭐36)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 *   [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 
 ## [42. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
@@ -927,7 +927,7 @@
 
 ### Modules / Utils
 
-*   [garn-validator (⭐42)](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
+*   [garn-validator (⭐41)](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 
 ## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1066,15 +1066,15 @@
 
 ### API Builder and Discovery
 
-*   [Blueprinter (⭐908)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Blueprinter (⭐917)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 
 ### GUI
 
-*   [Glimmer (⭐315)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐326)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐939)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐957)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## [57. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 

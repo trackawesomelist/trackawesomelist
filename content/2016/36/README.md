@@ -221,7 +221,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐802)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐805)](https://github.com/nelson-brochado/understanding-math)
 
 ## [24. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -383,11 +383,11 @@
 
 ### Libraries and Tools / C
 
-*   [vircar (⭐130)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
+*   [vircar (⭐132)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### Libraries and Tools / Go
 
-*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐157)](https://github.com/carloop/simulator)
+*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐158)](https://github.com/carloop/simulator)
 
 ## [33. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -458,7 +458,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Configuration
 
-*   [confex (⭐295)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐296)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
@@ -471,7 +471,7 @@ Webpage: <http://www.deysbreeker.nl/>
 *   [edeliver (⭐1.9k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐11)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 *   [gatling (⭐501)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
-*   [heroku-buildpack-elixir (⭐796)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [heroku-buildpack-elixir (⭐797)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 

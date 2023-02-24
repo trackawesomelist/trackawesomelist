@@ -32,7 +32,7 @@
 
 ### Action
 
-*   [re3 (⭐1.3k)](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
+*   [re3 (⭐1.4k)](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

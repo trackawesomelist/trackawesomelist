@@ -52,7 +52,7 @@
 ### OS and Kernels / MIT
 
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada\_KALINDA is a sort of Mac Plus like OS written in Ada95.
-*   [cxos (⭐37)](https://github.com/ajxs/cxos) - Ada Operating System development example.
+*   [cxos (⭐36)](https://github.com/ajxs/cxos) - Ada Operating System development example.
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Audio
 
-*   [ModernAVPlayer (⭐259)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
+*   [ModernAVPlayer (⭐262)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 
 ### Device
 
-*   [Deviice (⭐57)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
+*   [Deviice (⭐58)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
 
 ### Fonts
 
@@ -82,7 +82,7 @@
 
 ### Localization / Barcode
 
-*   [Translatio (⭐19)](https://github.com/andrealufino/Translatio) - Super lightweight library that helps you to localize strings, even directly in storyboards.
+*   [Translatio (⭐20)](https://github.com/andrealufino/Translatio) - Super lightweight library that helps you to localize strings, even directly in storyboards.
 
 ### Text / Barcode
 

@@ -10,7 +10,7 @@
 
 ### Markdown Processors
 
-*   [word-to-markdown (⭐1.3k)](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
+*   [word-to-markdown (⭐1.4k)](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
 
 ## [2. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

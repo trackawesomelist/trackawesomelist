@@ -31,7 +31,7 @@
 
 ### Concurrency
 
-*   [async+ (⭐132)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
+*   [async+ (⭐139)](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

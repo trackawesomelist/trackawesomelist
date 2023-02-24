@@ -55,7 +55,7 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Oso (⭐2.8k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+*   [Oso (⭐2.9k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
 ## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

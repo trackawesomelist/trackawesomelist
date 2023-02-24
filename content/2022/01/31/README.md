@@ -22,7 +22,7 @@
 
 ### Other / Package managers
 
-*   [ynuwenhof/zigbraten (⭐0)](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
+*   [ynuwenhof/zigbraten (⭐1)](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -65,10 +65,6 @@
 ### Archives and primary sources / Europe
 
 *   [Encyclopédie d'histoire numérique](https://ehne.fr/) - European History through renewed historiographic objects and major contemporary challenges.
-
-### Archives and primary sources / Germany
-
-*   [PICTURA paedagogica](https://pictura.bbf.dipf.de/viewer/index/) - Digital image archive on the history of education with 131'155 objects.
 
 ### Archives and primary sources / Global
 

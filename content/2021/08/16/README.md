@@ -16,7 +16,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraformize (⭐136)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint.
+*   [terraformize (⭐138)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint.
 
 ## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -131,19 +131,17 @@
 
 ### Clearnet & Anonymous Networking / Wireguard
 
-*   [WireGuard (⭐205)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
+*   [WireGuard (⭐212)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
 ### Clearnet & Anonymous Networking / OpenVPN
 
-*   [How To make a VPN Gateway in Qubes (⭐205)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+*   [How To make a VPN Gateway in Qubes (⭐212)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 
-### Optics and Extra Info / OpenVPN
+### Optics and Extra Info / Unikernel-like
 
-*   [3mdeb](https://3mdeb.com/)
-*   [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
-*   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
+*   [3mdeb](https://3mdeb.com/) - We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients.
 
-### Social media / OpenVPN
+### Social media / Web articles
 
 *   [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
 *   [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page

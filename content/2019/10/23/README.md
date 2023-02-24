@@ -131,7 +131,7 @@
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
-*   [nef (⭐187)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐188)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

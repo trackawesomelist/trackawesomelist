@@ -87,7 +87,7 @@
 
 ### Integrations
 
-*   [remount (⭐623)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐635)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

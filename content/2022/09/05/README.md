@@ -16,7 +16,7 @@
 
 ### Database Schema Migration
 
-*   [bytebase (⭐4.8k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐4.9k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -30,7 +30,7 @@
 
   Documentation: [Documentation](https://betterscan.io)
 
-  Price: Open Source and PRO version
+  Price: Non-free Community Edition and Paid PRO version
 
   Stars: [![Stars](https://img.shields.io/github/stars/marcinguy/betterscan-ce.svg)](https://github.com/marcinguy/betterscan-ce/)
 
@@ -44,7 +44,7 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [archlinux (⭐3)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
 

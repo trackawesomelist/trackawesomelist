@@ -97,7 +97,7 @@ A curated list of awesome mathematics resources.
 
 ## Learn to Learn
 
-*   [Understanding Mathematics (⭐802)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐805)](https://github.com/nelson-brochado/understanding-math)
 
 ## Youtube Series
 
@@ -161,7 +161,7 @@ A curated list of awesome mathematics resources.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/\~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐261k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐267k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Magazines
@@ -254,7 +254,6 @@ A curated list of awesome mathematics resources.
 ### Surreal Numbers
 
 *   [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/\~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
-*   [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - Gretchen Grimm
 *   [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 *   [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
@@ -318,7 +317,7 @@ A curated list of awesome mathematics resources.
 *   [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/\~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 *   [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 *   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐471)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐474)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 *   [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 *   [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 *   [Linear Algebra](https://www.math.ucdavis.edu/\~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -600,7 +599,7 @@ A curated list of awesome mathematics resources.
 
 # Related Awesome Lists
 
-*   [Theoretical Computer Science (⭐331)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐340)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 # License
 

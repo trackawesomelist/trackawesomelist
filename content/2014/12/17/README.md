@@ -10,13 +10,13 @@
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐126)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
-*   [is-online (⭐1.1k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐966)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [empty-trash (⭐128)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
+*   [public-ip (⭐968)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
-*   [meow (⭐3.1k)](https://github.com/sindresorhus/meow) - CLI app helper.
+*   [meow (⭐3.2k)](https://github.com/sindresorhus/meow) - CLI app helper.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Authentication
 
-*   [oauth2 (⭐688)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐694)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐56)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks

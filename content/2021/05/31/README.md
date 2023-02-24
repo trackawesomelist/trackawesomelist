@@ -20,7 +20,7 @@
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐3.8k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐3.9k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
 ## [3. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -241,7 +241,7 @@
 
 ### Modules / Utils
 
-*   [buckets (⭐22)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
+*   [buckets (⭐23)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 
 ## [13. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 

@@ -10,16 +10,16 @@
 
 ### Using ChatGPT in other apps
 
-*   [ChatGPT for Slack bot (⭐122)](https://github.com/pedrorito/ChatGPTSlackBot)
+*   [ChatGPT for Slack bot (⭐161)](https://github.com/pedrorito/ChatGPTSlackBot)
 
 ### Coding
 
-*   [Explain runtime error message with ChatGPT (⭐360)](https://github.com/shobrook/stackexplain)
-*   ⭐️ [PR code review using ChatGPT (⭐223)](https://github.com/kxxt/chatgpt-action)
+*   [Explain runtime error message with ChatGPT (⭐381)](https://github.com/shobrook/stackexplain)
+*   ⭐️ [PR code review using ChatGPT (⭐306)](https://github.com/kxxt/chatgpt-action)
 
 ### Other
 
-*   [Share your wildest ChatGPT conversations with one click (⭐282)](https://github.com/domeccleston/sharegpt)
+*   [Share your wildest ChatGPT conversations with one click (⭐322)](https://github.com/domeccleston/sharegpt)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Misc libraries
 
-*   [kassane/libvlc-zig (⭐5)](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
+*   [kassane/libvlc-zig (⭐4)](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Databases
 
-*   [Supabase (⭐138)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐141)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐30)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
+*   [emileferreira/nvim-strict (⭐31)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

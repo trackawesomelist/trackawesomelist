@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [scrivener (⭐544)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐545)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

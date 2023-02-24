@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐164)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐172)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ## [2. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Platforms
 
-*   [Node-RED (⭐344)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐350)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [openrndr/orx (⭐88)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+*   [openrndr/orx (⭐90)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Overview / TikTok
 
-*   [ProxiTok (⭐985)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
+*   [ProxiTok (⭐1k)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
     *   Official instance: <https://proxitok.pabloferreiro.es/>
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -131,7 +131,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐95)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐98)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [15. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

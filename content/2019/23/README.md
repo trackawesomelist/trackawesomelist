@@ -47,7 +47,7 @@
 
 ### Server-Side Rendering / Lazy Load
 
-*   [react-esi (⭐638)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
+*   [react-esi (⭐642)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -426,7 +426,7 @@ Free (Open Source)
 
 ### Realm
 
-*   [Unrealm (⭐518)](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
+*   [Unrealm (⭐519)](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
 
 ### Events
 
@@ -476,10 +476,6 @@ Free (Open Source)
 *   [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 
 ## [25. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
-
-### Tutorials / Getting Started
-
-*   [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
 
 ### Tutorials / Advanced
 
@@ -627,7 +623,7 @@ Free (Open Source)
 
 ### Class Based
 
-*   [Lightning Web Components (⭐1.3k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
+*   [Lightning Web Components (⭐1.4k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 
 ## [31. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 

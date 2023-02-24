@@ -56,7 +56,7 @@
 
 ### Demo
 
-*   [Vue.js Demo App (⭐46)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
+*   [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

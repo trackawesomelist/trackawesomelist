@@ -32,7 +32,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [locus (⭐300)](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
+*   [locus (⭐301)](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

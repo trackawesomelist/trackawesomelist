@@ -63,7 +63,7 @@
 
 ### Cryptography / Barcode
 
-*   [Themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

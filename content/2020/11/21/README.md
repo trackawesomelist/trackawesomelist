@@ -58,7 +58,7 @@
 
 ### Skeleton
 
-*   :strawberry: [MixerApi/Bake (⭐3)](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
+*   [MixerApi/Bake](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
 
 ---
 

@@ -22,7 +22,7 @@
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐188)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐192)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

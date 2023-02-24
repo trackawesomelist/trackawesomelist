@@ -16,11 +16,11 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐169)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐172)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
-*   [did\_you\_mean (⭐1.8k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
+*   [did\_you\_mean (⭐1.9k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

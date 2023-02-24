@@ -72,7 +72,7 @@
 
 ### Colors
 
-*   [SwiftHEXColors (⭐692)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐691)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### JSON
 
@@ -80,7 +80,7 @@
 
 ### XML
 
-*   [AEXML (⭐976)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐978)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -93,7 +93,7 @@
 ### UI / Barcode
 
 *   [BreakOutToRefresh (⭐2.5k)](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
-*   [FloatRatingView (⭐546)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
+*   [FloatRatingView (⭐547)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 
 ### Menu / Barcode
 
@@ -156,7 +156,7 @@
 
 ### Database Drivers
 
-*   [TinyTDS (⭐590)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+*   [TinyTDS (⭐592)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
 ## [14. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Authentication
 
-*   [ueberauth\_twitter (⭐34)](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
+*   [ueberauth\_twitter (⭐35)](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
 
 ### Build Tools
 
@@ -385,7 +385,7 @@
 
 ### Images
 
-*   [imgex (⭐31)](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
+*   [imgex (⭐32)](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
 
 ### Macros
 
@@ -397,7 +397,7 @@
 
 ### OTP
 
-*   [erlexec (⭐473)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐474)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 

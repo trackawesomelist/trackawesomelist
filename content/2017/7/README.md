@@ -43,7 +43,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐2.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐3k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Misc
 
-*   [any\_hash.cr (⭐33)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
+*   [any\_hash.cr (⭐32)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
 
 ### Official Documentation Translations
 
@@ -385,7 +385,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### REST and API
 
-*   [plug\_rest (⭐52)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
+*   [plug\_rest (⭐53)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
 
 ### Validations
 

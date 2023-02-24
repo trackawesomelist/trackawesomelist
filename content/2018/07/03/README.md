@@ -10,7 +10,7 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgwatch2 (⭐1.4k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
+*   [pgwatch2 (⭐1.5k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
 
 ## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

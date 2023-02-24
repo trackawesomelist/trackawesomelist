@@ -69,7 +69,7 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [boxx (⭐85)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
+*   [boxx (⭐88)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 
 ### Operating system
 
@@ -77,8 +77,8 @@
 
 ### User Interface toolkits
 
-*   [vig (⭐40)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) GUI toolkit.
-*   [vnk (⭐40)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
+*   [vig (⭐42)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vnk (⭐41)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

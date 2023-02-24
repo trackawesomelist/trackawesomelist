@@ -365,7 +365,7 @@ git log Branch1 ^Branch2
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐923)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐926)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
@@ -410,7 +410,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Text
 
-*   [matcher (⭐524)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐528)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -420,7 +420,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐990)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [mem (⭐992)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 *   [adit (⭐47)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)

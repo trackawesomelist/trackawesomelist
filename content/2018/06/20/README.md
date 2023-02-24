@@ -10,7 +10,7 @@
 
 ### Testing / Zabbix
 
-*   [DbFit (⭐218)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [DbFit (⭐217)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

@@ -45,7 +45,7 @@
 
 ### Other / Godot version unknown
 
-*   [codetranslator (⭐32)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
+*   [codetranslator (⭐33)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 *   [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
 
 ## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)

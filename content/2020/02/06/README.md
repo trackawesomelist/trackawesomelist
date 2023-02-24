@@ -64,7 +64,7 @@
 
 ### UI Testing
 
-*   [AutoMate (⭐273)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
+*   [AutoMate (⭐275)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 
 ## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

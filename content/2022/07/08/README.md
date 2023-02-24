@@ -28,7 +28,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Escape GraphMan (⭐146)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
+*   [Escape GraphMan (⭐171)](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Miscellaneous Software Projects / Eagle
 
-*   [Language PCB (⭐16)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+*   [Language PCB (⭐17)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
 
@@ -94,8 +94,8 @@
 
 ### UCLA / Commonsense Knowledgebase
 
-*   [Song-Chun Zhu](http://www.stat.ucla.edu/\~sczhu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
-*   [Tao Gao](http://www.stat.ucla.edu/\~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/\~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
+*   [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/) - ***Department of Statistics, Department of Computer Science, UCLA***.
+*   [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
 *   [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, Department of Statistics, UCLA***.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)

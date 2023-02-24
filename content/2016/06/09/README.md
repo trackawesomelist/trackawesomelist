@@ -33,13 +33,13 @@
 
 ### Development Environment
 
-*   [CakePHP Vagrant Setup (⭐5)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
+*   [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐426)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐427)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [5. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 

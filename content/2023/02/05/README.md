@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2023
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -234,7 +234,7 @@
 
   Description: Create custom images using AI.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :x:
 
 
 - Name: [Bg Eraser](http://bgeraser.com)
@@ -785,7 +785,7 @@
 
 - Name: [Askrobi](http://www.askrobi.com)
 
-  Title: Power of AI in Whatsapp.
+  Title: Power of AI in WhatsApp.
 
   Description: Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!.
 
@@ -1911,15 +1911,6 @@
 
 ### Organization & Automation
 
-- Name: [BuildAI](http://www.buildai.space)
-
-  Title: Build AI Interfaces in Minutes.
-
-  Description: Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Hexowatch](http://hexact.pxf.io/beth0)
 
   Title: Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking.
@@ -2498,7 +2489,7 @@
 
 - Name: [Goatchat](http://goatchat.ai)
 
-  Title: Goatchat AI - Avatar Chatgpt.
+  Title: Goatchat AI - Avatar ChatGPT.
 
   Description: Did you ever want to ask Napoleon or Einstein a few questions? Well, now you have a chance.
 
@@ -3003,15 +2994,6 @@
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Easy-Peasy.AI](http://easy-peasy.ai)
-
-  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
-
-  Description: Easy-Peasy.AI believes that everyone has a story to tell. With our AI copywriting tools, we help you tell your story in the most engaging way possible.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Eilla](http://eilla.ai)
 
   Title: Eilla AI - AI Content Generation Assistant.
@@ -3314,7 +3296,7 @@
 
 - Name: [Albus](https://www.springworks.in/albus/)
 
-  Title: Albus - Chatgpt Now on Slack.
+  Title: Albus - ChatGPT Now on Slack.
 
   Description: Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack. Have the power of ChatGPT now right inside your Workspace!.
 
@@ -4740,31 +4722,25 @@
 ### Applications / Emulators
 
 *   iPod
-    *   [clicky (⭐102)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐111)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Other services
 
 *   [Pastewin (⭐6)](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
-*   [Flexisip](https://www.linphone.org/technical-corner/flexisip/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐108)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
+*   [Flexisip](https://www.linphone.org/technical-corner/flexisip/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐110)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
 
 ### Software / Recipe Management
 
-*   [Chowdown.io](https://chowdown.io/) - Simple recipes in Markdown format. ([Source Code (⭐531)](https://github.com/clarklab/chowdown)) `Unlicense` `Ruby`
+*   [Chowdown.io](https://chowdown.io/) - Simple recipes in Markdown format. ([Source Code (⭐538)](https://github.com/clarklab/chowdown)) `Unlicense` `Ruby`
 
-## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Manuals
 
@@ -4772,7 +4748,7 @@
 *   [Gerber Signmaker IVB User's Manual (1983) (manualslib)](https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html)
 *   [Roland DXY-1350A -1150A User's Manual (1997) (manualslib)](https://www.manualslib.com/manual/884553/Roland-Dxy_1350.html)
 
-## [9. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 
@@ -4919,7 +4895,7 @@
 
 
 
-## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Transition To Pure Rigour Math / Monograph
 
@@ -4929,7 +4905,7 @@
 
 *   [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - A story about people, pioneers with diverse backgrounds and characters who established a new field.
 
-## [11. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Debugging
 

@@ -72,7 +72,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐438)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐451)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

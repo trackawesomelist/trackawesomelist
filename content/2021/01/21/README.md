@@ -28,7 +28,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐259)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐262)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
@@ -277,13 +277,13 @@
 
 ### Software / DNS
 
-*   [blocky (⭐2.2k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
+*   [blocky (⭐2.3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
 
 ## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Tools
 
-*   [Keycloak Pulumi (⭐22)](https://github.com/pulumi/pulumi-keycloak)
+*   [Keycloak Pulumi (⭐24)](https://github.com/pulumi/pulumi-keycloak)
 
 ## [11. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

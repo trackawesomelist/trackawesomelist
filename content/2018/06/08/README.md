@@ -69,7 +69,7 @@
 ### Mobile
 
 *   [json-mop (⭐56)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐104)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐103)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -85,7 +85,7 @@
 
 ### Cache
 
-*   [Carlos (⭐628)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐631)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ## [8. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

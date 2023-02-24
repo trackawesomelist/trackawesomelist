@@ -26,7 +26,7 @@
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐430)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐431)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 

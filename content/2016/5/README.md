@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01 - Feb 07, 2016
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -268,7 +268,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Audio Editing
 
-*   [Audacity (⭐8.8k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+*   [Audacity (⭐8.9k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 
 ### Audio Libraries
 
@@ -311,7 +311,7 @@ Webpage: <http://hanahaus.com/>
 *   [Lydown (⭐23)](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 *   [MuseScore (⭐9.1k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐525)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐526)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.5k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming
@@ -324,7 +324,7 @@ Webpage: <http://hanahaus.com/>
 *   [IanniX (⭐296)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 *   [Leipzig (⭐442)](https://github.com/ctford/leipzig) - a composition library for Overtone.
 *   [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
-*   [Nyquist](https://www.cs.cmu.edu/\~music/nyquist/) - a sound synthesis and composition language.
+*   [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 *   [Overtone (⭐5.6k)](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 *   [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 *   [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
@@ -357,17 +357,7 @@ Webpage: <http://hanahaus.com/>
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
     *   [by @hollance (⭐27k)](https://github.com/hollance/swift-algorithm-club)
 
-## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Filtering and Validation
-
-*   [HtmlPurifier plugin (⭐43)](https://github.com/burzum/cakephp-html-purifier) - Purifier Plugin that features a trait, behavior and helper to allow you to get sanitization and filtering where you need it. You can configure multiple sets of filter rules as well.
-
-### Templating
-
-*   [JadeView plugin (⭐0)](https://github.com/clthck/cakephp-jade) - Jade template engine plugin.
-
-## [25. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
+## [24. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
 
 ### Package Status
 
@@ -375,7 +365,7 @@ Webpage: <http://hanahaus.com/>
 *   `Quality` : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
 *   `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.
 
-## [26. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / I companies
 
@@ -389,7 +379,7 @@ Webpage: <http://hanahaus.com/>
 
 *   Go <https://blog.golang.org/>
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
@@ -399,13 +389,13 @@ Webpage: <http://hanahaus.com/>
 
 *   [ck (⭐2.2k)](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
 *   [junction (⭐1.3k)](https://github.com/preshing/junction) - A library of concurrent data structures in C++. \[BSD]
-*   [libcds (⭐2.2k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
+*   [libcds (⭐2.3k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
 
 ### GUI
 
 *   [GacUI (⭐2.1k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
 
-## [28. Tips](/content/git-tips/tips/week/README.md)
+## [27. Tips](/content/git-tips/tips/week/README.md)
 
 ## Check if the change was a part of a release.
 
@@ -413,7 +403,7 @@ Webpage: <http://hanahaus.com/>
 git name-rev --name-only <SHA-1>
 ```
 
-## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -425,21 +415,21 @@ git name-rev --name-only <SHA-1>
 
 ### State Machines
 
-*   [transitions (⭐532)](https://github.com/troessner/transitions) - A ruby state machine implementation.
+*   [transitions (⭐533)](https://github.com/troessner/transitions) - A ruby state machine implementation.
 
-## [30. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [29. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 
-## [31. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [30. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Projects Using Spark
 
 *   [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 
-## [32. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [31. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -452,7 +442,7 @@ git name-rev --name-only <SHA-1>
 
 *   [More TensorFlow tutorials (⭐5.6k)](https://github.com/pkmital/tensorflow_tutorials)
 
-## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -464,11 +454,11 @@ git name-rev --name-only <SHA-1>
 
 ### Documentation
 
-*   [bureaucrat (⭐323)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐324)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
-*   [hello\_phoenix (⭐130)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
+*   [hello\_phoenix (⭐131)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
 
 ### Framework Components
 
@@ -486,20 +476,20 @@ git name-rev --name-only <SHA-1>
 
 ### Protocols
 
-*   [riffed (⭐299)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
+*   [riffed (⭐300)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 
 ### Third Party APIs
 
 *   [xe (⭐21)](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
 
-## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
 *   [Drekkar (⭐22)](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 *   [Androl4b (⭐993)](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Menu / Barcode
 
@@ -508,10 +498,10 @@ git name-rev --name-only <SHA-1>
 ### UITableView / Barcode
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
-*   [PullToRefreshSwift (⭐535)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
+*   [PullToRefreshSwift (⭐536)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 *   [Shoyu (⭐277)](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 
-## [36. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [35. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### Bolt
 
@@ -521,13 +511,13 @@ git name-rev --name-only <SHA-1>
 
 *   [docker-neo4j (⭐278)](https://github.com/neo4j/docker-neo4j) - Docker Images for the Neo4j Graph Database.
 
-## [37. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [36. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Form Frameworks / NoSQL Databases
 
 *   [HTML::FormHandler](https://metacpan.org/pod/HTML::FormHandler) - HTML forms using Moose.
 
-## [38. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [37. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### services
 
@@ -537,14 +527,14 @@ git name-rev --name-only <SHA-1>
 
 *   [geojson.xyz](http://geojson.xyz/): natural earth data in web-friendly sizes with hotlinking
 
-## [39. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [38. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [500px Gallery Demo (⭐42)](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
 *   [Fuse Samples (⭐179)](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 
-## [40. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [39. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### General
 
@@ -554,7 +544,7 @@ git name-rev --name-only <SHA-1>
 
 *   [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 
-## [41. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [40. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Official resources
 
@@ -587,7 +577,7 @@ git name-rev --name-only <SHA-1>
 *   [Joomla-Vagrant (⭐143)](https://github.com/joomlatools/joomlatools-vagrant).
 *   [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
 
-## [42. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [41. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 

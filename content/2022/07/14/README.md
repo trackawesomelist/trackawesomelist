@@ -10,7 +10,7 @@
 
 ### Canvas / Examples
 
-*   [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles (⭐4.3k)](https://github.com/matteobruni/tsparticles) particles animations samples
+*   [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles (⭐4.8k)](https://github.com/matteobruni/tsparticles) particles animations samples
 
 ### Libraries / To draw using canvas
 
@@ -22,7 +22,7 @@
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [itlbv (⭐0)](https://github.com/itlbv/itlbv-ohmyzsh-theme) - Minimalist. Includes decorators for `git` status and the current directory.
 *   [zp (⭐7)](https://github.com/Karitham/zp) - Fast prompt, written in `zig`. Includes `git` status and current directory decorators.
@@ -120,7 +120,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [AG Grid (⭐9.5k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
+*   [AG Grid (⭐9.7k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 *   [MUI X Data grid (⭐2.3k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 
 ### Audio / Video
@@ -129,7 +129,7 @@
 
 ### Device Input / Keyboard Events
 
-*   [react-keyboard-navigator (⭐16)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐17)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
 
 ### Form Logic / Mouse Events
 
@@ -137,7 +137,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [react-device-frameset (⭐29)](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
+*   [react-device-frameset (⭐31)](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
 
 ## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -157,13 +157,13 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐45)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐46)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Boilerplates
 
-*   [Model-View-Presenter template (⭐23)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
+*   [Model-View-Presenter template (⭐24)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
 
 ## [13. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 

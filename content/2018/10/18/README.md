@@ -61,7 +61,7 @@
 
 ### Canvas / Examples
 
-*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐477)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
+*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐480)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
 
 ### Libraries / To draw using canvas
 

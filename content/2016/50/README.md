@@ -209,7 +209,7 @@
 
 ### Packages / Text
 
-*   [unhomoglyph (⭐31)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
+*   [unhomoglyph (⭐32)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 ## [19. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Apps / Translations
 
-*   [wagtailtrans (⭐104)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+*   [wagtailtrans (⭐103)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 

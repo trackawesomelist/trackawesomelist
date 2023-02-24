@@ -50,7 +50,7 @@
 
 *   [Crystar (⭐37)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
 *   [snappy (⭐17)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
-*   [zstd.cr (⭐38)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐19k)](https://github.com/facebook/zstd) compression library
+*   [zstd.cr (⭐38)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐20k)](https://github.com/facebook/zstd) compression library
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

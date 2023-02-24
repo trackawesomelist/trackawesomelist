@@ -123,8 +123,8 @@
 
 ### Editable data grid / spreadsheet
 
-*   [gigatables-react (⭐135)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐5.8k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [gigatables-react (⭐136)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
+*   [react-data-grid (⭐5.9k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
 
@@ -140,11 +140,11 @@
 
 ### Audio / Video
 
-*   [react-player (⭐7.3k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐7.4k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐387)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐390)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
@@ -156,7 +156,7 @@
 
 ### Form Components / Sortable List
 
-*   [react-anything-sortable (⭐455)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+*   [react-anything-sortable (⭐454)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 
 ### Form Components / Image Editing
 
@@ -168,7 +168,7 @@
 
 ### Component Collections / Material Design
 
-*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
+*   [react-admin (⭐22k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 
 ### Reporter / Visibility Reporter
 
@@ -203,9 +203,6 @@
 ### Boilerplate / Mouse Events
 
 *   [generator-starhackit (⭐1.3k)](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
-*   [react-redux-universal-hot-example (⭐12k)](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
-*   [relay-fullstack (⭐993)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
-*   [universal-redux (⭐462)](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 
 ### Utilities / Mouse Events
 
@@ -222,11 +219,11 @@
 
 ### UI / Mouse Events
 
-*   [react-static-container (⭐221)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
+*   [react-static-container (⭐222)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐897)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐896)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 
@@ -234,7 +231,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐144)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐146)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

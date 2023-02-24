@@ -2,7 +2,7 @@
 
 :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 963 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 980 · 🏷️ Security
 
 [ [Daily](/content/daviddias/awesome-hacking-locations/README.md) / Weekly / [Overview](/content/daviddias/awesome-hacking-locations/readme/README.md) ]
 
@@ -66,7 +66,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Austria 🇦🇹 / Vienna
 
-> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐223k)](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐238k)](https://github.com/sindresorhus/awesome) thing.
 
 This is a community curated list, please submit your PR with the spots you know and love for hacking!
 
@@ -165,22 +165,6 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 | Wifi | Power | Coffee | Address                                                                            | Open Hours                                                      |
 | ---- | ----- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | open | ✔     | ✔      | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/maps/YaHLw8SkRLtYhG9q6) | Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM |
-
-## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
-
-### Portugal 🇵🇹 / Porto
-
-#### Costa COFFEE
-
-> Influencer vibes, great coffee, English-speaking, accepts AliPay and has nice croissants.
-
-Webpage: <https://https://www.costa.co.uk/>
-
-| Wifi | Power | Address                                                                                                | Open Hours                |
-| ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------------- |
-| ✔    | ✔     | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm |
-
-![](https://www.speedtest.net/result/8644645756.png)
 
 ## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
 
@@ -364,20 +348,6 @@ Webpage: <https://ironcladcoffee.com/>
 | Wifi                   | Power | Climatization | Address                                                                 | Open Hours                                                                    |
 | ---------------------- | ----- | ------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | open, password on wall | ✔     | ❄️/♨️         | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
-
-## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
-
-### Portugal 🇵🇹 / Braga
-
-#### Starbucks Braga
-
-> Starbucks coffee shop in the city center, with WiFi access and some tables to work. Calm and clean space.
-
-Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430>
-
-| Wifi | Power | Address                                                                                                      | Open Hours                                  |
-| ---- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| ✔    | ✔     | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00 |
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
@@ -674,7 +644,7 @@ Webpage: <http://www.jimmymonkey.com/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------- |
 | ✔    | ✔     | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM |
 
-See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://github.com/otobrglez/awesome-workplaces-slovenia)
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
 

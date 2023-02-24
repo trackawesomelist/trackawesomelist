@@ -29,7 +29,7 @@
 
 ### Software / Make your life easier
 
-*   [RestQA (⭐55)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+*   [RestQA (⭐61)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
 
 ### Training (Includes developer training for automation testers) / Other
 
@@ -184,7 +184,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐689)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐768)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

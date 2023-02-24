@@ -27,7 +27,7 @@
 
 ### Chemistry
 
-*   [gromacs (⭐495)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
+*   [gromacs (⭐501)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
 
 ### Image Processing
 
@@ -48,7 +48,7 @@
 
 ### Miscellaneous
 
-*   [libsigc++ (⭐256)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
+*   [libsigc++ (⭐258)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 
 ### Compiler
 
@@ -70,7 +70,7 @@
 
 ### Related projects / Other services
 
-*   [Pluja's Awesome Privacy (⭐8k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
+*   [Pluja's Awesome Privacy (⭐8.2k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools
 
-*   [keycloak-scanner Python CLI (⭐28)](https://github.com/NeuronAddict/keycloak-scanner)
+*   [keycloak-scanner Python CLI (⭐30)](https://github.com/NeuronAddict/keycloak-scanner)
 
 ## [10. Awesome Ava](/content/avajs/awesome-ava/README.md)
 

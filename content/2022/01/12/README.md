@@ -60,7 +60,7 @@
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [sklearn-expertsys (⭐482)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-expertsys (⭐483)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

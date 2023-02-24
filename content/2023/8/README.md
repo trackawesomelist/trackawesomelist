@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20 - Feb 26, 2023
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -126,6 +126,10 @@
 
 *   [StrTk](https://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
 
+### Websites
+
+*   [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
+
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
@@ -187,15 +191,27 @@
 
 ## [18. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
+### Content Generation & Seo
+
+- Name: [Easy-Peasy.AI](https://easy-peasy.ai/?via=beth0)
+
+  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
+
+  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Customer Support
 
 - Name: [OneTone.ai](https://onetone.ai)
 
-  Title: OneTone.ai
+  Title: We Help Support Teams Communicate Faster and More Accurate.
 
   Description: OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -227,7 +243,7 @@
 
 - Name: [Rephrasee.com](https://rephrasee.com)
 
-  Title: Rephrasee.com – Easily Rephrase, Translate and Proofread
+  Title: Rephrasee.com – Easily Rephrase, Translate and Proofread.
 
   Description: This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology.
 
@@ -472,13 +488,24 @@
 
 *   [Quix Streams (⭐12)](https://github.com/quixio/quix-streams) \[Python] - a streaming library originally designed for the McLaren Formula 1 racing team that can process high volumes of time-series data with up to nanosecond precision using Apache Kafka as a message broker.
 
-## [37. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [37. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Blog posts
+
+*   [Alternatives to Pandas: Python Polars](https://codesolid.com/alternatives-to-pandas-python-polars/) - An article that explores the Python Polars module as an alternative to Pandas, comparing their similarities and differences and providing some examples by [(@JohnLockwood)](https://github.com/JohnLockwood)
+*   [Pandas vs Polars - A comparison on File I/O](https://www.shipyardapp.com/blog/pandas-vs-polars/) - A blog post that evaluates Polars and Pandas in terms of I/O performance and speed when handling large datasets by Wes Poulsen.
+
+### Contributing / Node.js
+
+*   [Damien Dotta (@ddotta)](https://github.com/ddotta) - Maintainer of Awesome Polars list
+
+## [38. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [wopee.io](https://wopee.io/) - Autonomous testing platform providing bot for autonomous visual regression testing.
 
-## [38. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bot Building
 
@@ -512,7 +539,7 @@
 
 *   [Lets-Go-Further](https://lets-go-further.alexedwards.net) - Advanced patterns for building APIs and web applications in Go.
 
-## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [40. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -536,7 +563,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -568,7 +595,7 @@
 
 *   `IPL-1.0` - [IBM Public License](https://spdx.org/licenses/IPL-1.0.html)
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -578,13 +605,13 @@
 
 *   [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.
 
-## [42. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [43. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Libraries
 
 *   [audioFlux (⭐15)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -608,13 +635,13 @@
 
 *   [bennypowers/splitjoin.nvim (⭐36)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
 
-## [44. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/week/README.md)
+## [45. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/week/README.md)
 
 ### Content Creation
 
 *   [Bitcoin Plugins for Elgato Streamdecks (⭐0)](https://github.com/quilloughbee/streamdeck-bitcoin-plugins)
 
-## [45. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [46. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17 - Oct 23, 2016
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -223,13 +223,7 @@
 *   [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 *   [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
 
-## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Environment
-
-*   [Environments plugin (⭐47)](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle environments.
-
-## [18. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [17. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Tools / OpenOffice
 
@@ -239,7 +233,7 @@
 
 *   [Russian Forum](http://autoit-script.ru/)
 
-## [19. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Maps
 
@@ -249,7 +243,7 @@
 
 *   [BEMSimpleLineGraph (⭐2.7k)](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
 
-## [20. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [19. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -264,19 +258,19 @@
 
 *   [dropwizard-riak (⭐1)](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak
 
-## [21. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [20. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   [Video series from Data School, about Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y). "Reference guide to 30 common pandas tasks (plus 6 hours of supporting video)."
 
-## [22. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [21. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Examples
 
 *   [Youtube (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md): A case study of OKRs for Youtube.
 
-## [23. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
@@ -286,38 +280,38 @@
 
 *   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) \[MIT]
 
-## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-scale-cluster (⭐129)](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 
-## [25. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
 *   [Odroid](http://www.hardkernel.com/) - The ODROID means Open + Droid. It is a development platform for the hardware as well as the software.
 
-## [26. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
-*   [wagtailnews (⭐63)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
+*   [wagtailnews (⭐64)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 
-## [27. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [26. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Podcasts / Individual Podcast episodes
 
 *   [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
 
-## [28. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Add Citations to Your Code / HTML+CSS+JS
 
 *   [duecredit (⭐216)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
-## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -336,19 +330,19 @@
 *   Marek Majkowski <https://idea.popcount.org/>
 *   Mary Rose Cook <https://maryrosecook.com/blog/>
 
-## [30. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [29. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / JavaScript
 
 *   [GoJS](http://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
 
-## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tutorials / iOS
 
 *   [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
 
-## [32. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
+## [31. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
 ### Books
 
@@ -387,13 +381,13 @@
 *   [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c) - Talk on working backward to solve problems by Maurice Ashley
 *   [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
 
-## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
 *   [Jest (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 
-## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [33. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -409,7 +403,7 @@
 
 *   [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -427,25 +421,25 @@
 
 *   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 
-## [36. Bots](/content/hackerkid/bots/week/README.md)
+## [35. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tutorials / Go
 
 *   [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.kimh0igkz)
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐321)](https://github.com/jayway/vue-js-workshop)
 
-## [38. Computer Science](/content/ossu/computer-science/week/README.md)
+## [37. Computer Science](/content/ossu/computer-science/week/README.md)
 
 ### How to show your progress / Which programming languages should I use?
 
 *   `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
 
-## [39. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [38. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Security / Links
 
@@ -456,26 +450,26 @@
     *   [Architecting Containers Part 2: Why the User Space Matters](http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/)
     *   [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
-## [40. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [39. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Websites
 
 *   [Jekyll Starter Kit (⭐143)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Docker Related
 
 *   [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
 *   [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
 
-## [42. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [41. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Boostnote (⭐17k)](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers.
 
-## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -489,7 +483,7 @@
 
 *   [TDSP-Utilities (⭐364)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
-## [44. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [43. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### Bolt
 
@@ -512,7 +506,7 @@
 
 *   [Hardware Sizing Calculator](https://neo4j.com/hardware-sizing-calculator/)
 
-## [45. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -600,7 +594,7 @@
 *   [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) - 13 May 2015.
 *   [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) - 30 January 2015.
 
-## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -619,7 +613,7 @@
 
 *   [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 
-## [47. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [46. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Gaming
 
@@ -665,7 +659,7 @@
 
 *   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
-## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -679,7 +673,7 @@
 
 *   [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 
-## [49. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [48. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Tools using the   *SSH*   protocol
 
@@ -723,7 +717,7 @@
 *   [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow `CVE 2016 077[7-8]`.
 *   [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - `sshd\_config` for `6.7+`, `5.3`.
 
-## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -763,9 +757,9 @@
 
 ### Source Generator
 
-*   [Awesome Unity (⭐5.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐5.6k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
-## [51. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [50. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
@@ -798,7 +792,7 @@
 *   Mixing Convolutional and Adversarial Networks
     *   Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. \[[Paper](http://arxiv.org/pdf/1511.06434.pdf)]
 
-## [52. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 

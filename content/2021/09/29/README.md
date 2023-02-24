@@ -22,7 +22,7 @@
 
 ### Software / Ticketing
 
-*   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐104)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
+*   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐106)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

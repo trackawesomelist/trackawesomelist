@@ -28,7 +28,7 @@
 
 ### Software / Automation
 
-*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐2.6k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
+*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐2.7k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

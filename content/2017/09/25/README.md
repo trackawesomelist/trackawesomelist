@@ -82,11 +82,11 @@
 
 ### Authorization
 
-*   [Petergate (⭐191)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
+*   [Petergate (⭐192)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 
 ### CLI Utilities
 
-*   [TablePrint (⭐844)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐849)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

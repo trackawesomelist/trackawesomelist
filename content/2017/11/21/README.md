@@ -77,7 +77,7 @@ Webpage: <http://www.jimmymonkey.com/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------- |
 | ✔    | ✔     | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM |
 
-See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://github.com/otobrglez/awesome-workplaces-slovenia)
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

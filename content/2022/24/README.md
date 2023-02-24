@@ -28,7 +28,7 @@
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐550)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐564)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Tools / Ironsworn
 
-*   [Starforged Sectors Discord Bot (⭐0)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
+*   [Starforged Sectors Discord Bot (⭐1)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
 
 ## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -216,9 +216,9 @@
 
 ### Security
 
-*   [Fingerprinter (⭐244)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐337)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐557)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [Fingerprinter (⭐246)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐349)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐562)](https://github.com/digininja/pipal) - Password analyser and statistics generator
 *   [WhatWeb (⭐4.3k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
@@ -226,7 +226,7 @@
 
 ### Photo / Image
 
-*   [react-photo-album (⭐128)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐140)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [19. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -424,7 +424,7 @@
 
 ### Software / Automation
 
-*   [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code (⭐2.7k)](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
+*   [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code (⭐2.8k)](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
 
 ## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -436,7 +436,7 @@
 
 ### Images / Barcode
 
-*   [Harbeth (⭐209)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐223)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
 ## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -538,12 +538,12 @@
 
 ## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [git-sync (⭐42)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
 *   [smartcache (⭐14)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [paxton (⭐0)](https://github.com/p1xt4n/ohmyzsh-theme-paxton) - Inspired by powerline. Includes segments for `git` branch, time, last command exit status and current directory. Requires a powerline-compatible font.
 *   [yellow-sea-diamonds (⭐0)](https://github.com/jimratliff/yellow-sea-diamonds-zsh-theme) - Includes decorations for `git` status, current directory, active python virtual environment, and the exit status of the last command run.
@@ -620,12 +620,12 @@
 
 ### Modules / Database
 
-*   [cotton (⭐129)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
-*   [dangoDB (⭐101)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
-*   [deno\_mongo (⭐467)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
+*   [cotton (⭐128)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
+*   [dangoDB (⭐100)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
+*   [deno\_mongo (⭐471)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
 *   [deno\_mysql (⭐243)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-*   [redis (⭐410)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐418)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [40. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -700,7 +700,7 @@
 
 ### GUI
 
-*   [DB Lens (⭐221)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
+*   [DB Lens (⭐223)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 
 ### Schema / Design
 
@@ -718,13 +718,13 @@
 
 ### Utility / Diagnostics
 
-*   [m-demare/attempt.nvim (⭐57)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+*   [m-demare/attempt.nvim (⭐58)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
 ## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Networking
 
-*   [SNMP (⭐23)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+*   [SNMP (⭐24)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
 ## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -742,7 +742,7 @@
 
 ### Debug
 
-*   [Touca (⭐138)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐143)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
 ## [53. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 

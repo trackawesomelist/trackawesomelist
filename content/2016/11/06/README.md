@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Imagery
-
-*   [Thumber plugin (⭐7)](https://github.com/mirko-pagliai/cakephp-thumber) - A plugin to create thumbnails using [intervention/image (⭐13k)](https://github.com/Intervention/image).
-
-## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Topic-specific
 
@@ -28,25 +22,25 @@
 
 *   [Network Analysis: An Integrative Approach to the Structure of Psychopathology](http://www.annualreviews.org/doi/full/10.1146/annurev-clinpsy-050212-185608) (*Annual Review of Clinical Psychology*, 2013).
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
 *   [Jot (⭐558)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
-## [5. Awesome Redux](/content/brillout/awesome-redux/README.md)
+## [4. Awesome Redux](/content/brillout/awesome-redux/README.md)
 
 ### Utilities / Side Effects
 
 *   [redux-ship (⭐615)](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
 
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Community Resources
 
 *   [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 
@@ -119,7 +113,7 @@
 
 *   [Angular 2 OAuth2 OIDC from Manfred Steyer](https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Science
 
@@ -127,13 +121,13 @@
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [Zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-sites / Git
 
 *   [Cryptopals Crypto Challenges](http://cryptopals.com/) - A series of applied cryptography challenges, starting from very basic challenges, such as hex to base 64 challanges, and gradually increasing the difficulty up to abstract algebra.
 
-## [10. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
+## [9. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
 
 ### Modules
 

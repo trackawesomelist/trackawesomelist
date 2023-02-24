@@ -157,7 +157,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.7k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.8k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -182,15 +182,15 @@
 
 ### Documentation
 
-*   [readme](https://readme.com/) - Personalized and dynamic developer docs.
 *   [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
+*   [readme](https://readme.com/) - Personalized and dynamic developer docs.
 
 ### Environment & Secret Management
 
-*   [Vault](https://www.vaultproject.io/) - API driven secret key management.
-*   [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 *   [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
+*   [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 *   [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
+*   [Vault](https://www.vaultproject.io/) - API driven secret key management.
 
 ## [14. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -203,7 +203,7 @@
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐54)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐53)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
 ## [16. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

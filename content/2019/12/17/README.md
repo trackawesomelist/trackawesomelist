@@ -23,7 +23,7 @@
 
 ### Dynamic type checkers
 
-*   [typical (⭐167)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
+*   [typical (⭐172)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

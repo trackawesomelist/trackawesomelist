@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09 - Dec 15, 2019
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -362,15 +362,15 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐990)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
+*   [gonic (⭐1k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [InvoicePlane (⭐2.1k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
+*   [InvoicePlane (⭐2.2k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
 
 ### Software / Note-taking & Editors
 
-*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐983)](https://github.com/josephernest/writing)) `MIT` `Javascript`
+*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐984)](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 ### Software / Proxy
 
@@ -408,19 +408,13 @@
 
 *   [k8s-usenet (⭐75)](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
 
-## [31. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Security
-
-*   [BryanCrowe/EncryptedType (⭐7)](https://github.com/bcrowe/cakephp-encrypted-type) - Simple solution that enables Encrypted data types to be stored in the database.
-
-## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Vue Expenses (⭐201)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
-## [33. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [32. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Firmware
 
@@ -430,13 +424,13 @@
 
 *   [ESP8266Wifi (⭐437)](https://github.com/ekstrand/ESP8266wifi) - Simple Arduino Wifi library for the 8266.
 
-## [34. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [33. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [navi (⭐12k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 
-## [35. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [34. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -458,19 +452,19 @@
 
 *   [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
 
-## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 
-## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Database Tools
 
-*   [Database Consistency (⭐708)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐782)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
-## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [37. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Client libraries / C/C++
 
@@ -485,13 +479,13 @@
 
 *   [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
 
-## [39. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [38. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services
 
 *   [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
 
-## [40. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Real-time / Real-time Operating System (RTOS)
 
@@ -519,19 +513,19 @@
 
 *   [`xmc4-hal`](https://github.com/xmc-rs/xmc4-hal) - ![crates.io](https://img.shields.io/crates/v/xmc4-hal.svg)
 
-## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [The Art of SLOs Workshop Materials](https://cre.page.link/art-of-slos)
 
-## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Unofficial
 
 *   [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - Unofficial Discord server dedicated to the Crystal Programming Language
 
-## [43. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [42. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 

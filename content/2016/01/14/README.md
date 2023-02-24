@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 14, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,20 +20,13 @@ Webpage: <http://coffeecollective.dk/>
 | ---- | ----- | ----------------------------------------------------------------------- | --------------------------------------------------- |
 | ✘    | ✔     | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2) | Mon-Fri 7:30-19:00, Sat 9:00-18:00, Sun 10:00-18:00 |
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-### Third Party APIs
-
-*   [CakeTmdb plugin (⭐4)](https://github.com/drmonkeyninja/cakephp-tmdb) - The Movie Database (TMDB) API integration.
-*   [Salesforce plugin (⭐7)](https://github.com/voycey/cakephp-salesforce) - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.
-
-## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
 *   [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
-## [4. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [3. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Security
 
@@ -48,37 +41,37 @@ Webpage: <http://coffeecollective.dk/>
     *   [Labs (⭐3.3k)](https://github.com/RPISEC/Malware/tree/master/Labs)
     *   [Projects (⭐3.3k)](https://github.com/RPISEC/Malware/tree/master/Projects)
 
-## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
-### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
+### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [A Reference Architecture for the Internet of Things](http://wso2.com/wso2_resources/wso2_whitepaper_a-reference-architecture-for-the-internet-of-things.pdf) - This white paper introduces a Reference Architecture for the Internet of Things (IoT): this includes the devices as well as the server-side and cloud architecture required to interact with and manage the devices.
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Window Management / Web
 
 *   [SnapX (⭐37)](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
 
-## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Plugins
 
 *   [Emacs (⭐6)](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 *   [Sublime (⭐22)](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
 *   [exsentry (⭐23)](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
-*   [honeybadger (⭐168)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
+*   [honeybadger (⭐170)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 
 ### Queue
 
 *   [elixir\_nsq (⭐82)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 
-## [9. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
+## [8. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
 ### Fortran Websites
 

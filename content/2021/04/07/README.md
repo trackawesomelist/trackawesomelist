@@ -97,7 +97,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-tree (⭐291)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nix-tree (⭐322)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

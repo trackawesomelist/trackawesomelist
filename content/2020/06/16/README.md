@@ -45,7 +45,7 @@
 
 ### Applications / Cryptocurrencies
 
-*   [tendermint-rs (⭐456)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐462)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 

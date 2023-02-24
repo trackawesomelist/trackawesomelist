@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐850)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐849)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

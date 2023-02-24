@@ -20,17 +20,17 @@
 
 ### Table
 
-*   [ka-table (⭐452)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐464)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ### Loader
 
-*   [react-block-ui (⭐290)](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
+*   [react-block-ui (⭐295)](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐209)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐212)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Software / Pastebins
 
-*   [pasty (⭐156)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`
+*   [pasty (⭐157)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

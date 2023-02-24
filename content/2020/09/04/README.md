@@ -67,7 +67,7 @@
 
 ### Plugins / Languages and Environments
 
-*   [MDX (⭐171)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
+*   [MDX (⭐186)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

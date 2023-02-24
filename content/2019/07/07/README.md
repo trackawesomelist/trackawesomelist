@@ -29,7 +29,7 @@
 
 ### Miscellaneous
 
-*   [react-swipe-to-delete-ios (⭐32)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+*   [react-swipe-to-delete-ios (⭐33)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 
 ## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 

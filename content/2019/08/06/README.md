@@ -27,6 +27,8 @@
 ### Mobile
 
 *   [LispWorks](http://www.lispworks.com/) - an integrated cross-platform development tool for Common Lisp.
+    *   reputed features include: the CAPI cross-platform and native GUI toolkit, the LispWorks IDE, the mobile platforme runtime (iOs, Android), its Java interface, the tree shaker to build lighter binaries, its KnowledgeWorks system for "rule-based, object-oriented, logical, functional and database programming", and more.
+    *   has a free edition, with limitations (heap size limit, time limit).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

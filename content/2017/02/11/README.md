@@ -57,7 +57,7 @@
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
-*   [Hakan Kardas](https://www.cse.unr.edu/\~hkardes/) - Personal Web Page
+*   [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
 *   [Hilary Mason](https://hilarymason.com/) - Personal Web Page
 *   [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings Data Sciene
 *   [Siah](https://openresearch.wordpress.com/) a PhD student at Berkeley

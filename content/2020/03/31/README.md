@@ -16,7 +16,7 @@
 
 ### Utility / Barcode
 
-*   [Playbook (⭐970)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
+*   [Playbook (⭐981)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Themes
 
-*   [Carbon Design (⭐19)](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*   [Carbon Design (⭐20)](https://github.com/httpsOmkar/carbon-keycloak-theme)
 
 ### Kubernetes
 
@@ -88,7 +88,7 @@
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐90)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐92)](https://github.com/klg71/keycloakmigration)
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Algorithms, Containers and Protocols / MIT
 
-*   [ada-language-server (⭐179)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐181)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 
 ### Simulation / MIT
 

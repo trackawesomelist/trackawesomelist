@@ -8,15 +8,27 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ## [Feb 24, 2023](/content/2023/02/24/README.md)
 
+### Content Generation & Seo
+
+- Name: [Easy-Peasy.AI](https://easy-peasy.ai/?via=beth0)
+
+  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
+
+  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Customer Support
 
 - Name: [OneTone.ai](https://onetone.ai)
 
-  Title: OneTone.ai
+  Title: We Help Support Teams Communicate Faster and More Accurate.
 
   Description: OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -24,7 +36,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Rephrasee.com](https://rephrasee.com)
 
-  Title: Rephrasee.com – Easily Rephrase, Translate and Proofread
+  Title: Rephrasee.com – Easily Rephrase, Translate and Proofread.
 
   Description: This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology.
 
@@ -59,18 +71,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
-
-### Content Generation & Seo
-
-- Name: [Easy-Peasy.AI](https://easy-peasy.ai/)
-
-  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
-
-  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 
 ### Sales & Marketing
 

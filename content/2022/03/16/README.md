@@ -10,7 +10,7 @@
 
 ### Development tools / Web Servers
 
-*   [comtrya (⭐282)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
+*   [comtrya (⭐302)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Showcases / XML
 
-*   [Edrys (⭐239)](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Edrys (⭐244)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
 ## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
@@ -36,7 +36,7 @@
 
 *   [Telgarsky. Deep Learning Theory. Illinois](https://mjt.cs.illinois.edu/dlt/) - Focuses on simplified proofs over what appears in the literature, and classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.
 *   [Vaughan. CS260: Machine Learning Theory](http://www.jennwv.com/courses/F11.html) - A broad overview of the theoretical foundations underlying common machine learning algorithms.
-*   [Livni. COS 511 Theoretical Machine Learning. Princeton](https://www.cs.princeton.edu/\~rlivni/cos511/cos511.html) - Formally define and study various models that have been proposed for learning. The course will present and contrast the statistical, computational and online models for learning. We will present and rigorously analyze some of the most successful algorithms in machine learning that are extensively used today.
+*   [Livni. COS 511 Theoretical Machine Learning. Princeton](https://www.cs.princeton.edu/~rlivni/cos511/cos511.html) - Formally define and study various models that have been proposed for learning. The course will present and contrast the statistical, computational and online models for learning. We will present and rigorously analyze some of the most successful algorithms in machine learning that are extensively used today.
 *   [Moitra. Theoretical Foundations for Deep Learning. MIT](https://people.csail.mit.edu/moitra/408b.html) - It explores theoretical foundations for deep learning, emphasizing the following themes: (1) Approximation: What sorts of functions can be represented by deep networks, and does depth provably increase the expressive power? (2) Optimization: Essentially all optimization problems we want to solve in practice are non-convex. What frameworks can be used to analyze such problems? (3) Beyond-Worst Case Analysis: Deep networks can memorize worst-case data, so why do they generalize well on real-world data?
 *   [Arora. Overcoming Intractability in Machine Learning](https://www.cs.princeton.edu/courses/archive/spring15/cos598D/) - A seminar course that will focus on the following phenomenon: many problems in machine learning are formally intractable (e.g., NP-hard). Nevertheless they are solved in practice by heuristics. Can we design algorithms with provable guarantees (running time, solution quality)?
 
@@ -57,11 +57,11 @@
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐331)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐340)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [elagoht (⭐0)](https://github.com/Elagoht/Elagoht.zsh-theme) - Includes decorations for hostname, current directory, virtual environment, `git` status, and the execution time of last command.
 
@@ -89,7 +89,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Redpanda (⭐5.7k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
+*   [Redpanda (⭐6.2k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
 
 ## [12. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 

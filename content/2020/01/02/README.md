@@ -10,7 +10,7 @@
 
 ### Open Source / Other
 
-*   [Upcount (⭐316)](https://github.com/madisvain/upcount) - Invoicing.
+*   [Upcount (⭐317)](https://github.com/madisvain/upcount) - Invoicing.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐692)](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐720)](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
 
 ## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

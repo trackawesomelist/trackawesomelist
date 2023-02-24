@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26 - Jul 02, 2017
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,8 +26,8 @@
 
 ### Libraries / Scripting
 
-*   [gluon-lang/gluon (⭐2.7k)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
-*   [murarth/ketos (⭐720)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
+*   [gluon-lang/gluon (⭐2.8k)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
+*   [murarth/ketos (⭐722)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -364,12 +364,12 @@
 
 ### Community Extensions
 
-*   [Keyloak Proxy written in Go (⭐943)](https://github.com/gambol99/keycloak-proxy)
+*   [Keyloak Proxy written in Go (⭐944)](https://github.com/gambol99/keycloak-proxy)
 
 ### Integrations
 
 *   [Keycloak support for Aurelia (⭐3)](https://github.com/waynepennington/aurelia-keycloak)
-*   [Keycloak OAuth2 Auth for PHP (⭐151)](https://github.com/stevenmaguire/oauth2-keycloak)
+*   [Keycloak OAuth2 Auth for PHP (⭐155)](https://github.com/stevenmaguire/oauth2-keycloak)
 *   [Jenkins Keycloak Authentication Plugin (⭐26)](https://github.com/jenkinsci/keycloak-plugin)
 
 ### Themes
@@ -406,17 +406,7 @@
 
 *   [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) by Clément Escoffier
 
-## [41. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### File Manipulation
-
-*   [Image plugin (⭐20)](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
-
-### Miscellaneous
-
-*   [DatabaseBackup plugin (⭐16)](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups.
-
-## [42. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [41. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -431,20 +421,20 @@
 *   [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 *   [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
 
-## [43. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [42. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Getting help offline
 
 *   VimL functions end in `()`, e.g. `:h reverse()`
 *   commands start with `:`, e.g. `:h :echo`
 
-## [44. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [43. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
 *   [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat: (⭐85)](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 
-## [45. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [44. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 

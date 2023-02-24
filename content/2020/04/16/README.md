@@ -81,7 +81,7 @@
 
 ### Email
 
-*   :strawberry: [EmailQueue plugin (⭐57)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
+*   [EmailQueue plugin (⭐57)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 
 ## [9. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 

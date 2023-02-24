@@ -38,7 +38,7 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [zredis-cmd (⭐4)](https://github.com/z-shell/zredis-cmd) - Utilizes variable sharing done by [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) plugin to implement remote command execution.
 
@@ -58,7 +58,7 @@
 
 ### Relational Database Drivers
 
-*   [KSQL (⭐207)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
+*   [KSQL (⭐208)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

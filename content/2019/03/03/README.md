@@ -93,8 +93,8 @@
 
 ### Miscellaneous
 
-*   [Scientific Computing (⭐954)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐209)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Scientific Computing (⭐964)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+*   [Amazon Sellers (⭐213)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

@@ -80,7 +80,7 @@ git config --global help.autocorrect 1
 ### Libraries / Game development
 
 *   Corange
-    *   [lucidscape/corange-rs (⭐43)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
+    *   [lucidscape/corange-rs (⭐44)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

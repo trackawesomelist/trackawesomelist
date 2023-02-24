@@ -123,13 +123,13 @@
 
 ### Development Environment
 
-*   [CakePHP Vagrant Setup (⭐5)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
+*   [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐426)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐427)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [16. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -149,7 +149,7 @@
 
 *   [ANNetGPGPU (⭐93)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
 *   [Recast/Detour (⭐5.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐896)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
@@ -178,7 +178,7 @@
 
 ### Examples and funny stuff
 
-*   [ex\_chain (⭐18)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
+*   [ex\_chain (⭐19)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
 
 ### Images
 
@@ -219,7 +219,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐443)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐446)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -554,11 +554,11 @@ git config core.fileMode false
 
 ### Packages / Debugging / Profiling
 
-*   [ctrace (⭐117)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+*   [ctrace (⭐118)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 
 ### Resources / Tutorials
 
-*   [You Don't Know Node.js (⭐1.4k)](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
+*   [You Don't Know Node.js (⭐1.5k)](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 
 ## [36. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/week/README.md)
 

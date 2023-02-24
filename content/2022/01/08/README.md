@@ -47,7 +47,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [aztfy (⭐941)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
+*   [aztfy (⭐998)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
 *   [hcldump (⭐3)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
 *   [hclgrep (⭐79)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
@@ -55,7 +55,7 @@
 
 ### CLI
 
-*   [SQLLine (⭐543)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐550)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
@@ -64,8 +64,8 @@
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐413)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐684)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐425)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐685)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -116,9 +116,9 @@
 
 ### Feature Flags
 
+*   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 *   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
 *   [split](https://www.split.io/) - Feature flags platform with data analytics.
-*   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 
 ---
 

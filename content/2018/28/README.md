@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09 - Jul 15, 2018
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -162,7 +162,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐132)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
+*   [AlertHub (⭐133)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
 
 ### Software / Pastebins
 
@@ -188,13 +188,7 @@ Webpage: <https://yoghut.com/>
 | ---- | ----- | ------------- | ------------------------------------------------------------------- | ------------------------------------ |
 | ✔    | ✔     | ❄️/♨️         | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM |
 
-## [23. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Templating
-
-*   [Datalist plugin (⭐6)](https://github.com/rrd108/cakephp-datalist) - Support for HTML5 datalist element with the possibility to create new entries into associated models.
-
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Third party Guides
 
@@ -208,7 +202,7 @@ Webpage: <https://yoghut.com/>
 
 *   [StyledTextKit (⭐1.2k)](https://github.com/GitHawkApp/StyledTextKit) - Declarative building and fast rendering attributed string library.
 
-## [25. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -220,7 +214,7 @@ Webpage: <https://yoghut.com/>
 
 *   [Next SEO (⭐6.1k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
-## [26. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [25. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### SSRF - Server-Side Request Forgery
 
@@ -234,45 +228,45 @@ Webpage: <https://yoghut.com/>
 
 *   [XSStrike (⭐11k)](https://github.com/s0md3v/XSStrike) - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@s0md3v](https://github.com/s0md3v).
 
-## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
 *   [LOKI (⭐2.6k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [StatsLib (⭐426)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐428)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
-## [29. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [28. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Programming Language Design Patterns
 
 *   Go
     *   [design-patterns (⭐21k)](https://github.com/tmrts/go-patterns)
 
-## [30. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [29. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
 
-## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [HackerX](https://www.hackerx.org/jobs/)
 *   [Remotees](https://remotees.com/)
 
-## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [iGlance (⭐2.3k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
 
-## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Columnar Databases
 
@@ -281,7 +275,7 @@ Webpage: <https://yoghut.com/>
 *   [IndexR (⭐448)](https://github.com/shunfei/indexr) - an open-source columnar storage format for fast & realtime analytic with big data.
 *   [LocustDB (⭐1.4k)](https://github.com/cswinter/LocustDB) - an experimental analytics database aiming to set a new standard for query performance on commodity hardware.
 
-## [34. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [33. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References
 
@@ -311,13 +305,13 @@ Webpage: <https://yoghut.com/>
 
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 
-## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Texas Instruments
 
 *   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐31)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐80)](https://github.com/thejpster/pc-keyboard).
 
-## [36. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [35. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -327,13 +321,13 @@ Webpage: <https://yoghut.com/>
 
 *   [Generic File Parser](https://github.com/uppusaikiran/generic-parser) - A Single Library Parser to extract meta information,static analysis and detect macros within the files.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [How a cat inspired system reliability at Knowlarity](https://medium.com/@Knowlarity_Engineering/how-a-cat-inspired-system-reliability-at-knowlarity-ad73c24f29a7)
 
-## [38. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [37. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Testing
 
@@ -347,7 +341,7 @@ Webpage: <https://yoghut.com/>
 
 *   [Test helpers: The next generation](https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation)
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -362,13 +356,13 @@ Webpage: <https://yoghut.com/>
 
 *   [Book (⭐317)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
-## [40. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [39. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Command Line / XML
 
 *   [darg (⭐37)](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
 
-## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 

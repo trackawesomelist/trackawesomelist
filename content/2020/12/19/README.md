@@ -61,7 +61,7 @@
 
 ### Front-End Development
 
-*   [Svelte (⭐803)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+*   [Svelte (⭐829)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
 ## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Miscellaneous
 
-*   [fastcomments-react (⭐3)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
+*   [fastcomments-react (⭐4)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
 *   [react-pulse-text (⭐12)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
 
 ## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
@@ -110,7 +110,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐332)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐331)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

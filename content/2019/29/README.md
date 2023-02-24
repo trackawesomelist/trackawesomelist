@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22 - Jul 28, 2019
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -323,7 +323,7 @@
 
 ### Mock / Barcode
 
-*   [AutoMockable (⭐39)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
+*   [AutoMockable (⭐40)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
 
 ## [11. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -400,7 +400,6 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 ### Utilities / MIT
 
 *   [licensing (⭐0)](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
-*   [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
 *   [rsfile (⭐0)](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
 *   [cstrings (⭐0)](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 *   [ada-bundler (⭐5)](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
@@ -409,37 +408,31 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
-## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
-
-### Security
-
-*   [StopSpam plugin (⭐1)](https://github.com/mirko-pagliai/cakephp-stop-spam) - A plugin that allows you to check if a username, email address or IP address has been reported as a spammer.
-
-## [18. Tools](/content/lvwzhen/tools/week/README.md)
+## [17. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Image compression
 
 *   [Compress-Or-Die](https://compress-or-die.com/)
 
-## [19. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [18. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Tools
 
-*   [web-component-analyzer (⭐409)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐426)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
 
-## [21. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
 
-## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [21. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Automation
 
@@ -458,13 +451,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
-## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
 
-## [24. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [23. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra
 
@@ -543,7 +536,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
 *   [Stack Overflow: spark-cassandra-connector](https://stackoverflow.com/questions/tagged/spark-cassandra-connector)
 
-## [25. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [24. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Software / Genetic Perturbations
 
@@ -575,7 +568,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Minimum redundancy feature selection from microarray gene expression data](https://doi.org/10.1142/S0219720005001004) - Minimum redundancy - maximum relevance feature selection framework.
 *   [Weakly supervised learning of single-cell feature embeddings](https://doi.org/10.1109/CVPR.2018.00970) - Training CNNs using a weakly supervised approach for feature learning.
 
-## [26. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
+## [25. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
 
 ### Guides
 
@@ -600,13 +593,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io\&t=year) - Reddit posts relating to Adafruit IO.
 
-## [27. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [26. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
 
-## [28. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [27. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
@@ -618,17 +611,17 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [htm (⭐7.9k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
-## [29. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [28. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [MalwareAnalyser.io](https://malwareanalyser.io/) - Online malware anomaly-based static analyser with heuristic detection engine powered by data mining and machine learning.
 
-## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐524)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐528)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ### Developer Tools / Command Line Tools
 
@@ -638,7 +631,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -648,13 +641,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [rn-action-picker (⭐1)](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
 *   [rn-collapsible-section (⭐1)](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
 
-## [32. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [31. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
 *   [sylkie](https://dlrobertson.github.io/sylkie/) - Command line tool and library for testing networks for common address spoofing security vulnerabilities in IPv6 networks using the Neighbor Discovery Protocol.
 
-## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Boilerplate
 
@@ -672,13 +665,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [undollar (⭐123)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 *   [pipe\_exec (⭐49)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
-## [34. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - This book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
-## [35. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -708,13 +701,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [RFC7807](https://tools.ietf.org/html/rfc7807) - Problem Details for HTTP APIs.
 
-## [36. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [35. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 
 *   [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - Car racing simulator.
 
-## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
@@ -733,7 +726,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 *   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 
-## [38. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [37. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -745,31 +738,31 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 *   [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
-## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Runtime / Playground
 
 *   [typescript-is (⭐910)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
-## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [39. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - This early-access book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
-## [41. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [40. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Infrastructure / Transactions
 
 *   [HBase-QoD (⭐1)](https://github.com/algarecu/hbase-0.94.8-qod) - Vector-field consistency for HBase fine-grained transactional inter-DC replication.
 
-## [42. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [41. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Projects / Open Source Projects
 
 *   [Bootcamp: An enterprise social network (⭐2.2k)](https://github.com/vitorfs/bootcamp)
 
-## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -804,7 +797,7 @@ Webpage: <http://www.cafevitoria.com/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ✔    | ✔     | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am |
 
-## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Logging and monitoring
 
@@ -820,9 +813,9 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Third-party APIs
 
-*   [kube-client.cr (⭐20)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
+*   [kube-client.cr (⭐21)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
-## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -838,17 +831,17 @@ Webpage: <http://www.cafevitoria.com/>
 
 
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐260)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐264)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ### Software / Proxy
 
-*   [SOCKS5Engine (⭐39)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
+*   [SOCKS5Engine (⭐40)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
 
-## [47. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -885,7 +878,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 
-## [48. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [47. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Other
 
@@ -915,7 +908,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [Waves Community Portal](https://wavescommunity.com/) - Official portal features some of the tools and projects that make up Waves ecosystem.
 
-## [49. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [48. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Development Tools
 

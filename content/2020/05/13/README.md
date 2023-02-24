@@ -55,13 +55,13 @@
 
 ### Tools / XML
 
-*   [denox (⭐138)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
+*   [denox (⭐137)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [AppCompatProcessor (⭐163)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
+*   [AppCompatProcessor (⭐166)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
@@ -195,7 +195,7 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐736)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Preact (⭐742)](https://github.com/preactjs/awesome-preact#readme) - App framework.
 *   [Web Performance Budget (⭐83)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
@@ -204,11 +204,11 @@ Free
 
 ### Learn
 
-*   [Educational Games (⭐691)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐696)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐842)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐843)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
@@ -217,8 +217,8 @@ Free
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.6k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐117k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐164)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Self Hosted (⭐119k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐165)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

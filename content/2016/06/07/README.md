@@ -10,7 +10,7 @@
 
 ### Resources / Tutorials
 
-*   [You Don't Know Node.js (⭐1.4k)](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
+*   [You Don't Know Node.js (⭐1.5k)](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 
 ## [2. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐443)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐446)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 

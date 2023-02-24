@@ -34,7 +34,7 @@
 
 ### Software / Libraries and Tools
 
-*   [United Manufacturing Hub (⭐168)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
+*   [United Manufacturing Hub (⭐174)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

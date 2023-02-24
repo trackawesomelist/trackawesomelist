@@ -54,7 +54,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐2.7k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐3k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

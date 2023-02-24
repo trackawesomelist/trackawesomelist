@@ -116,7 +116,7 @@
 
 ### Email
 
-*   [ex\_postmark (⭐3)](https://github.com/KamilLelonek/ex_postmark) - Postmark adapter for sending template emails in Elixir.
+*   [ex\_postmark (⭐4)](https://github.com/KamilLelonek/ex_postmark) - Postmark adapter for sending template emails in Elixir.
 
 ### Frameworks
 
@@ -124,7 +124,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐244)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [appsignal-elixir (⭐245)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
 *   [prometheus-phoenix (⭐66)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 

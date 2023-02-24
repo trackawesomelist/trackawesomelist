@@ -18,7 +18,7 @@
 
 ### Queue
 
-*   [oban (⭐2.4k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
+*   [oban (⭐2.5k)](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
 
 ## [2. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 

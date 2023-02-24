@@ -474,7 +474,7 @@
 
 ### Software / Automation
 
-*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐2.6k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
+*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐2.7k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
 
 ## [38. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
@@ -645,7 +645,7 @@
 
 ### Packages / Mad science
 
-*   [Brain.js (⭐13k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+*   [Brain.js (⭐14k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 
 ### Packages / AST
 

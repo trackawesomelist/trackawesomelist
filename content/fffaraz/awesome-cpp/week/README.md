@@ -17,6 +17,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [StrTk](https://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
 
+### Websites
+
+*   [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Audio

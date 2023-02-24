@@ -97,7 +97,7 @@
 
 ### Beginner
 
-*   [Lisp Quickstart](https://cs.gmu.edu/\~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
+*   [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 
 ## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 

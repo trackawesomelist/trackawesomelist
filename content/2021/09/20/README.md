@@ -10,7 +10,7 @@
 
 ### Environment & Secret Management
 
-*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management
+*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

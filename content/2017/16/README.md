@@ -10,7 +10,7 @@
 
 ### Official Documentation Translations
 
-*   [crystal-dash-docset (⭐13)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
+*   [crystal-dash-docset (⭐14)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -44,8 +44,8 @@
 ### Open-source sites / Lists
 
 *   [Secure the News (⭐96)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
-*   [HackSoft (⭐16)](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
-*   [HackConf (⭐13)](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
+*   [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
+*   [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 
 ## [5. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
@@ -340,7 +340,7 @@
 
 ### Queue
 
-*   [task\_bunny (⭐201)](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
+*   [task\_bunny (⭐202)](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 
 ### Release Management
 
@@ -348,23 +348,9 @@
 
 ## [27. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
-### Miscellaneous
-
-*   [CakeMiddlewares (⭐4)](https://github.com/chrisShick/CakeMiddlewares) - A collection of Cakephp Middlewares.
-*   [Comments plugin (⭐8)](https://github.com/Kareylo/CakePHP-Comments) - A fully customizable Comments plugin.
-
-### Notifications
-
-*   [ker0x/CakeGcm plugin (⭐8)](https://github.com/ker0x/CakeGCM) - A plugin to send downstream messages to an Android or iOS device through Google Cloud Messaging.
-*   [ker0x/Push plugin (⭐18)](https://github.com/ker0x/cakephp-push) - A plugin to send push notifications through services like Firebase Cloud Messaging.
-
-### ORM / Database / Datamapping
-
-*   [Serializeable Data Types plugin (⭐2)](https://github.com/burzum/cakephp-serialize-data-types) - Serialize DB content as JSON or using phps serializing functions.
-
 ### Development Environment
 
-*   [Docker (⭐31)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
+*   [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
 
 ## [28. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -514,19 +500,10 @@
 
 ## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
-### Math
-
-*   [ExprTK](http://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. \[MIT]
-*   [Wykobi](http://www.wykobi.com/) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. \[MIT]
-
 ### Web Application Framework
 
 *   [lwan (⭐5.7k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
 *   [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. \[Apache2]
-
-### Miscellaneous
-
-*   [StrTk](http://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
 
 ## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

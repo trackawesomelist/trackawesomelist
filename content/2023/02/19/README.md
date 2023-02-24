@@ -99,18 +99,6 @@
 
 ## [11. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
-### Content Generation & Seo
-
-- Name: [Easy-Peasy.AI](https://easy-peasy.ai/)
-
-  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
-
-  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
 ### Sales & Marketing
 
 - Name: [SimplePhones.ai](https://simplephones.ai/)
@@ -143,7 +131,7 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐828)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
+*   [Matchering (⭐846)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -228,4 +216,5 @@
 
 ---
 
+- Prev: [Feb 20, 2023](/content/2023/02/20/README.md)
 - Next: [Feb 17, 2023](/content/2023/02/17/README.md)

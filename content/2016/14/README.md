@@ -196,7 +196,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 ### Static Site Generation
 
 *   [Jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
-    *   [Awesome Jekyll (⭐565)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
+    *   [Awesome Jekyll (⭐569)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
 
 ## [20. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
@@ -473,7 +473,7 @@ git checkout --orphan <branch_name>
 
 ### Logging / Barcode
 
-*   [AEConsole (⭐142)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
+*   [AEConsole (⭐144)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 
 ### Text / Barcode
 

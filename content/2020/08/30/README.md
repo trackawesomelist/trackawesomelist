@@ -33,7 +33,7 @@
 
 ### Official
 
-*   [Apphud (⭐143)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+*   [Apphud (⭐144)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
 ## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 

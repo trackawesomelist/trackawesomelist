@@ -100,7 +100,7 @@
 
 ### Concurrency
 
-*   [libcds (⭐2.2k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
+*   [libcds (⭐2.3k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
 
 ## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

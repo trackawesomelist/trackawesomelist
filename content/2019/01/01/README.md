@@ -22,7 +22,7 @@
 
 ### Functional
 
-*   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+*   [hybrids (⭐2.8k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
 ## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

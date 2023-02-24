@@ -51,7 +51,7 @@ git rev-parse --show-toplevel
 
 ### Testing
 
-*   [Fixtures plugin (⭐2)](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
+*   [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -208,7 +208,7 @@ git rev-parse --show-toplevel
 
 ### Third-party APIs
 
-*   [terjira (⭐813)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+*   [terjira (⭐812)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 
 ## [20. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -307,7 +307,7 @@ git rev-parse --show-toplevel
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐240)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐241)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ### Testing
 

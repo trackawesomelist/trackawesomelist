@@ -1266,7 +1266,7 @@ Topics: Standards, Web Assembly\
 
 ### Modules / Utils
 
-*   [deno-opn (⭐34)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
+*   [deno-opn (⭐37)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 
 ## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -1276,7 +1276,7 @@ Topics: Standards, Web Assembly\
 
 ### Serialization
 
-*   [nanopb (⭐3.3k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.4k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [37. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

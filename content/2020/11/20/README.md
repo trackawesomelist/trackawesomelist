@@ -57,7 +57,7 @@
 
 ### Open Source / Other
 
-*   [Graviton Editor (⭐980)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+*   [Graviton Editor (⭐991)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -93,7 +93,6 @@
 ### Archives and primary sources / Switzerland
 
 *   [Archives Online](https://www.archives-online.org/) - Archival search engine for Switzerland.
-*   [Digithek](https://www.digithek.ch/de/) - A collection of digital finding aids for secondary and vocational schools.
 *   [e-newspaperarchives.ch](https://www.e-newspaperarchives.ch/) - Swiss newspapers.
 *   [E-Periodica](https://www.e-periodica.ch/) - Swiss journals.
 *   [e-rara](https://www.e-rara.ch/) - The platform for digitised rare books from Swiss libraries.
@@ -114,7 +113,7 @@
 *   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
 *   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐505)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Scientific Writing (⭐520)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
 ## [7. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -144,7 +143,7 @@
 
 ### Decentralized Systems
 
-*   [Substrate (⭐635)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐640)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

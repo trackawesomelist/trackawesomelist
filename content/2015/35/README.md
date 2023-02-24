@@ -993,7 +993,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ### Third Party APIs
 
-*   [nadia (⭐359)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
+*   [nadia (⭐362)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
 
 ## [27. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

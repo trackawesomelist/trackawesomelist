@@ -47,7 +47,7 @@
 
 ### Private Module Registries / Miscellaneous
 
-*   [terraform-registry (⭐45)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
+*   [terraform-registry (⭐46)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
 ## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

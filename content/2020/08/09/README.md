@@ -22,7 +22,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐4.8k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐5k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

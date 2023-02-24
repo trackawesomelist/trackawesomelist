@@ -53,7 +53,7 @@
 
 ### Authentication / OAuth2 & OpenID
 
-*   [Casdoor (⭐4.6k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+*   [Casdoor (⭐5.1k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 ## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -90,12 +90,12 @@
 
 ### Visualization
 
-*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐70)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
 *   [Ganimede (⭐3)](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
-*   [Voila (⭐4.5k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
+*   [Voila (⭐4.6k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐123)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐127)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
 ## [19. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

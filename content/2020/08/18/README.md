@@ -104,7 +104,7 @@
 
 ### Modules / Utils
 
-*   [garn-validator (⭐42)](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
+*   [garn-validator (⭐41)](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 
 ---
 

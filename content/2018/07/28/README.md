@@ -15,7 +15,7 @@
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐117)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Calculators (⭐118)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
