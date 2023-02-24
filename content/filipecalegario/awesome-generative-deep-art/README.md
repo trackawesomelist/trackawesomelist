@@ -16,6 +16,11 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Noam Chomsky on ChatGPT: It's "Basically High-Tech Plagiarism" and "a Way of Avoiding Learning" | Open Culture](https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html)
+*   [Will ChatGPT Kill the Student Essay? | The Atlantic](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/)
+
 ### Collections / Generative Adversarial Networks (GANs)
 
 *   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript

@@ -2,9 +2,15 @@
 
 :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 830 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 848 · 🏷️ Computer Science
 
 [ [Daily](/content/lucasviola/awesome-functional-programming/README.md) / Weekly / [Overview](/content/lucasviola/awesome-functional-programming/readme/README.md) ]
+
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Table of Contents / Books
+
+*   [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition) - Fully updated to Elixir 1.14, this authoritative bestseller reveals how Elixir tackles problems of scalability, fault tolerance, and high availability.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -96,7 +102,7 @@
 
 ### Table of Contents / Repos
 
-*   [Parsing With Haskell Parser Combinators (⭐86)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
+*   [Parsing With Haskell Parser Combinators (⭐85)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
 
 ## [Aug 26 - Sep 01, 2019](/content/2019/34/README.md)
 
@@ -108,7 +114,7 @@
 
 ### Table of Contents / Repos
 
-*   [Bow (⭐612)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+*   [Bow (⭐619)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 
 ## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
 
@@ -178,7 +184,7 @@
 ### Table of Contents / Repos
 
 *   [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-*   [Functional Programming In JavaScript (⭐304)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+*   [Functional Programming In JavaScript (⭐302)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 
 ## [Dec 07 - Dec 13, 2015](/content/2015/49/README.md)
 
@@ -188,7 +194,7 @@
 
 ### Table of Contents / Papers
 
-*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/\~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
+*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
 *   [Translating Haskell to Isabelle](http://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf)
 
 ### Table of Contents / Wikis
@@ -233,7 +239,7 @@
 
 ### Table of Contents / Repos
 
-*   [J-Bob (⭐400)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐402)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
 ### Table of Contents / People
 

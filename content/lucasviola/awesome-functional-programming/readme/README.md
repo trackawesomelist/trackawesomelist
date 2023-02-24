@@ -2,7 +2,7 @@
 
 :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 830 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 848 · 🏷️ Computer Science
 
 [ [Daily](/content/lucasviola/awesome-functional-programming/README.md) / [Weekly](/content/lucasviola/awesome-functional-programming/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@
 
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Based on the [Awesome (⭐225k)](https://github.com/sindresorhus/awesome/) project
+Based on the [Awesome (⭐238k)](https://github.com/sindresorhus/awesome/) project
 
 ## What is this about?
 
@@ -21,7 +21,7 @@ and for the whole usage of [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_
 This repo gathers some material on Functional Programming such as blog posts, papers, videos,
 tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 
-Want to contribute? Please refer to [this (⭐830)](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
+Want to contribute? Please refer to [this (⭐847)](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ Want to contribute? Please refer to [this (⭐830)](https://github.com/lucasviol
 *   [Sound and Decidable Type Inference for Functional Dependencies](http://research.microsoft.com/en-us/um/people/simonpj/papers/fd-chr/esop04.pdf) - Another very famous paper on Type Inference by the main creator of Haskell and GHC
 *   [Template Meta-Programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf) - Paper about generating code at compile-time in Haskell
 *   [Why Functional Programming Matters](http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
-*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/\~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
+*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
 *   [Translating Haskell to Isabelle](http://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf)
 
 ### Wikis
@@ -88,6 +88,7 @@ Want to contribute? Please refer to [this (⭐830)](https://github.com/lucasviol
 *   [Jax in Action](https://www.manning.com/books/jax-in-action) - A book about The JAX numerical computing library.
 *   [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - Automate complex tasks and processes with PowerShell scripts.
 *   [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
+*   [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition) - Fully updated to Elixir 1.14, this authoritative bestseller reveals how Elixir tackles problems of scalability, fault tolerance, and high availability.
 
 ### Communities
 
@@ -134,13 +135,13 @@ Want to contribute? Please refer to [this (⭐830)](https://github.com/lucasviol
 
 *   [Idris Koans (⭐169)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 *   [Functional Javascript Workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
-*   [J-Bob (⭐400)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐402)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 *   [Haskell Must Watch (⭐1.1k)](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 *   [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-*   [Functional Programming In JavaScript (⭐304)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+*   [Functional Programming In JavaScript (⭐302)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 *   [Functional Programming Jargon (⭐18k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
-*   [Bow (⭐612)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
-*   [Parsing With Haskell Parser Combinators (⭐86)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
+*   [Bow (⭐619)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+*   [Parsing With Haskell Parser Combinators (⭐85)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
 
 ### People
 
