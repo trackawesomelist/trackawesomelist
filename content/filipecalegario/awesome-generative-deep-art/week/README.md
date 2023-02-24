@@ -8,6 +8,18 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
+### The Generative AI Area: history, maps, and definitions
+
+*   [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
+
+### Online Tools and Applications / Generative Adversarial Networks (GANs)
+
+*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
+
+### Collections / Generative Adversarial Networks (GANs)
+
+*   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
+
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [hwchase17/langchain (⭐7.6k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
@@ -441,7 +453,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
 
-### Image Synthesis / Collections
+### Collections / Generative Adversarial Networks (GANs)
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 
@@ -472,7 +484,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Synthetic Creativity - by Cavin - Deep Markets](https://deepmarkets.substack.com/p/synthetic-creativity)
 *   [Our Vision for the Future of Synthetic Media | by Victor Riparbelli | Medium](https://vriparbelli.medium.com/our-vision-for-the-future-of-synthetic-media-8791059e8f3a)
 
-### Image Synthesis / Collections
+### Collections / Generative Adversarial Networks (GANs)
 
 *   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
 
@@ -671,22 +683,6 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   \[🔥] [yuval-alaluf/hyperstyle (⭐895)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
 *   \[🔥] [Vadim Epstein’s Aphantasia library (⭐707)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
 
-### Image Synthesis / Collections
-
-*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐47)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
-*   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
-*   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
-*   [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
-*   [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
-*   [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/)
-*   \[🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
-*   [Machine learning for arts](https://ml4a.net/)
-
-### People and works / Interesting GitHub Repositories
-
-*   [dvschultz/ml-art-colabs (⭐799)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
-*   [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
-
 ### Image Synthesis / DALL-E 2
 
 *   [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
@@ -739,6 +735,22 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
 *   \[🔥] [dvschultz/stylegan3 (⭐85)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
 *   \[🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
+
+### Collections / Generative Adversarial Networks (GANs)
+
+*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐47)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
+*   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
+*   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
+*   [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
+*   [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
+*   [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/)
+*   \[🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
+*   [Machine learning for arts](https://ml4a.net/)
+
+### People and works / Interesting GitHub Repositories
+
+*   [dvschultz/ml-art-colabs (⭐799)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
+*   [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
 
 ### Image Upscaling / Generative Adversarial Networks (GANs)
 
@@ -920,14 +932,14 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
-### Image Synthesis / Collections
-
-*   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
-
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
 *   [ouhenio/StyleGAN3-CLIP-notebooks (⭐178)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
 *   [k-l-lambda/stylegan-web (⭐152)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
+
+### Collections / Generative Adversarial Networks (GANs)
+
+*   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
 
 ### Inbox: Text and Natural Language Processing / GPT-3
 

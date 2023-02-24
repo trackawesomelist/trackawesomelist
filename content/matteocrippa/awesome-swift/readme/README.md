@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                                 iOS App                                                                                 |                                                                           Awesome                                                                           |   Linux   | Projects |      Updated      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :---------------: |
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1036   | February 20, 2023 |
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1043   | February 23, 2023 |
 
 ### Contents
 
@@ -173,8 +173,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 [back to top](#readme)
 
-*   [Open Source Updates for Swift Projects](https://www.getrevue.co/profile/ossp_updates/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
-*   [Swift Weekly Brief](https://swiftweeklybrief.com/) - A multi author curated newsletter.
+*   [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
 
 ### Official Guides
 
@@ -205,6 +204,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Stanford course by Paul Hegarty.
 *   [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.
 *   [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.kodeco.com) - High quality programming tutorials.
+*   [Swift & SwiftUI Tutorials](https://janeshswift.com) - SwiftUI learning with Ease.
 *   [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 *   [swift-tips (⭐939)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 *   [SwiftDoc](https://swiftdoc.org/) - Auto-generated documentation.
@@ -278,6 +278,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [App Architecture (⭐2k)](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
 *   [CleanArchitectureRxSwift (⭐3.6k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
 *   [Design-Patterns-In-Swift (⭐14k)](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns.
+*   [GoodReactor (⭐17)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
 *   [Reactant (⭐372)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 *   [ReduxUI (⭐39)](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
 *   [Spin (⭐119)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
@@ -1050,7 +1051,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [HeliumLogger (⭐174)](https://github.com/Kitura/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 *   [Printer (⭐66)](https://github.com/hemangshah/printer) - A fancy logger for your next app.
 *   [Puppy (⭐97)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
-*   [QorumLogs (⭐778)](https://github.com/goktugyil/QorumLogs) - Logging Utility for Xcode & Google Docs.
+*   [QorumLogs (⭐778)](https://github.com/Esqarrouth/QorumLogs) - Logging Utility for Xcode & Google Docs.
 *   [Rainbow (⭐1.7k)](https://github.com/onevcat/Rainbow) :penguin: - Delightful console output.
 *   [SwiftyBeaver (⭐5.6k)](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin: - Multi-platform logging during development & release.
 *   [TinyConsole (⭐2k)](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
@@ -1094,6 +1095,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [Conduit (⭐52)](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 *   [Connectivity (⭐1.6k)](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 *   [Dots (⭐37)](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
+*   [GoodNetworking (⭐17)](https://github.com/GoodRequest/GoodNetworking) - 📡 GoodNetworking simplifies HTTP networking.
 *   [Heimdallr.swift (⭐630)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 *   [Just (⭐1.4k)](https://github.com/dduan/Just) :penguin: - HTTP for Humans (a python-requests style HTTP library).
 *   [Malibu (⭐10)](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
@@ -1237,6 +1239,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 [back to top](#readme)
 
+*   [GoodPersistence (⭐16)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
 *   [keychain-swift (⭐2.4k)](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 *   [KeychainAccess (⭐7.2k)](https://github.com/kishikawakatsumi/KeychainAccess) - Simple wrapper for Keychain that works on iOS and OS X.
 *   [Latch (⭐56)](https://github.com/endocrimes/Latch) - A simple Keychain Wrapper for iOS.
@@ -1542,7 +1545,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 [back to top](#readme)
 
-*   [EZLoadingActivity (⭐613)](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
+*   [EZLoadingActivity (⭐613)](https://github.com/Esqarrouth/EZLoadingActivity) - Lightweight loading activity HUD.
 *   [GradientLoadingBar (⭐805)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 *   [KRProgressHUD (⭐641)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.7k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
@@ -1653,6 +1656,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 *   [Stencil (⭐2.2k)](https://github.com/stencilproject/Stencil) - Simple and powerful template language.
 *   [SwiftCssParser (⭐273)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [Temple (⭐16)](https://github.com/GoodRequest/Temple) - 🗂️ Most advanced project and file templates.
 
 #### TextField
 
@@ -1716,6 +1720,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [Drag and Drop UICollectionView (⭐509)](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 *   [FSPagerView (⭐6.7k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 *   [Gliding Collection (⭐1.5k)](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.
+*   [GoodProvider (⭐15)](https://github.com/GoodRequest/GRProvider) - 🚀 UITableView and UICollectionView provider to simplify basic scenarios of showing the data.
 *   [GravitySlider (⭐971)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 *   [ShelfView-iOS (⭐268)](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 *   [SimpleSource (⭐96)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
@@ -1787,6 +1792,8 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [ExceptionCatcher (⭐103)](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions.
 *   [EZSwiftExtensions (⭐3k)](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
 *   [FluentQuery (⭐145)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
+*   [GoodExtensions-iOS (⭐15)](https://github.com/GoodRequest/GoodExtensions-iOS) - 📑 GoodExtensions is a collection of useful and frequently used extensions.
+*   [GoodUIKit (⭐16)](https://github.com/GoodRequest/GoodUIKit) - 📑 GoodUIKit is an extensions library filled with reusable UI snippets for faster and more efficient development.
 *   [Highlighter (⭐934)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 *   [LifetimeTracker (⭐2.8k)](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 *   [Lumos (⭐146)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.

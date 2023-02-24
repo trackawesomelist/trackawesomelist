@@ -2,9 +2,35 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.2K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
+
+## [Feb 24, 2023](/content/2023/02/24/README.md)
+
+### Customer Support
+
+- Name: [OneTone.ai](https://onetone.ai)
+
+  Title: OneTone.ai
+
+  Description: OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Text
+
+- Name: [Rephrasee.com](https://rephrasee.com)
+
+  Title: Rephrasee.com – Easily Rephrase, Translate and Proofread
+
+  Description: This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 

@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
+### APIs, Data and ML
+
+*   [TemplateTo](https://templateto.com) - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. Free plan comes with 450 PDFs/month and 3 templates.
+
 ### BaaS
 
 *   [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.
@@ -1865,10 +1869,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### CMS
 
 *   [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. No limitations or paywalls.
-
-### Code Quality
-
-*   [SoftaCheck](https://www.softacheck.com/) — An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.
 
 ### Security and PKI
 

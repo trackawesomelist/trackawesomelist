@@ -2,7 +2,7 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / [Weekly](/content/ai-collection/ai-collection/week/README.md) / Overview ]
 
@@ -51,9 +51,10 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 Translations:
 
-*   Russian: [README.ru.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
-*   Chinese (Simplified): [README.zh-CN.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
-*   French: [README.fr.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+*   Русский: [README.ru.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
+*   Chinese (Simplified) 简体中文）: [README.zh-CN.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+*   Français: [README.fr.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+*   español: [README.es.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
 
 ***
 
@@ -422,12 +423,13 @@ Translations:
 
 ## Customer Support
 
-| Name                                     | Title                                                     | Description                                                                                                                         |  Offer Free Version  |
-| ---------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
-| [AI Answers by Cohere](http://cohere.io) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets.                                                             |   :grey\_question:   |
-| [Bahasa](http://www.bahasa.ai)           | Bahasa.Ai - Chatbot Which Serves Customers Fully.         | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia. |   :grey\_question:   |
-| [EddyAI](http://eddyai.com)              | Sell and Support Your Customers Automatically 24/7.       | Increase Sales and Reduce Support Costs.                                                                                            | :white\_check\_mark: |
-| [ResolveAI](http://resolveai.co)         | Resolveai.                                                | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time.                   |   :grey\_question:   |
+| Name                                     | Title                                                     | Description                                                                                                                                            |  Offer Free Version  |
+| ---------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------: |
+| [AI Answers by Cohere](http://cohere.io) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets.                                                                                |   :grey\_question:   |
+| [Bahasa](http://www.bahasa.ai)           | Bahasa.Ai - Chatbot Which Serves Customers Fully.         | Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia.                    |   :grey\_question:   |
+| [EddyAI](http://eddyai.com)              | Sell and Support Your Customers Automatically 24/7.       | Increase Sales and Reduce Support Costs.                                                                                                               | :white\_check\_mark: |
+| [ResolveAI](http://resolveai.co)         | Resolveai.                                                | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time.                                      |   :grey\_question:   |
+| [OneTone.ai](https://onetone.ai)         | OneTone.ai                                                | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. |   :grey\_question:   |
 
 <!--End of Customer Support-->
 
@@ -865,6 +867,7 @@ Translations:
 | [Writemeacoverletter](http://writemeacoverletter.com)   | Write Me a Cover Letter.                                                                   | Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest.                                                                                                             |   :grey\_question:   |
 | [Your Cover Letter](http://yourcoverletter.com)         | AI Cover Letter Builder - Upload Your Resume to Get Started.                               | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds.                                                                                            |   :grey\_question:   |
 | [coverletter.app](http://coverletter.app)               | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App.                    | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology.                                                                                             |   :grey\_question:   |
+| [Rephrasee.com](https://rephrasee.com)                  | Rephrasee.com – Easily Rephrase, Translate and Proofread                                   | This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology.                      | :white\_check\_mark: |
 
 <!--End of Text-->
 

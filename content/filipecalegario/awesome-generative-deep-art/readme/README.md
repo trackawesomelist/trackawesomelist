@@ -23,6 +23,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
         *   [Web UI for Stable Diffusion via Google Colab](#web-ui-for-stable-diffusion-via-google-colab)
         *   [References Collection about Stable Diffusion](#references-collection-about-stable-diffusion)
     *   [Hypertechniques](#hypertechniques)
+        *   [ControlNet](#controlnet)
         *   [Textual Inversion](#textual-inversion)
         *   [DreamBooth](#dreambooth)
         *   [Deforum](#deforum)
@@ -36,13 +37,13 @@ A curated list of generative deep learning tools, works, models, etc. for artist
         *   [Critical Views about Generative AI](#critical-views-about-generative-ai)
         *   [Promptism](#promptism)
     *   [Image Synthesis](#image-synthesis)
-        *   [Collections](#collections)
         *   [DALL-E 2](#dall-e-2)
         *   [Latent Diffusion](#latent-diffusion)
         *   [GLIDE](#glide)
         *   [VQGAN+CLIP](#vqganclip)
         *   [Text-to-image Google Colab Notebooks (Multiple Models)](#text-to-image-google-colab-notebooks-multiple-models)
         *   [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+    *   [Collections](#collections)
     *   [Image Upscaling](#image-upscaling)
     *   [Image Restoration](#image-restoration)
     *   [Online Tools and Applications](#online-tools-and-applications)
@@ -74,6 +75,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## The Generative AI Area: history, maps, and definitions
 
+*   [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
 *   [Matt Shumer on Twitter: "The definitive AI market map Twitter thread"](https://twitter.com/mattshumer_/status/1620465468229451776): "The definitive AI market map Twitter thread"
 *   \[🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
 *   [Engines of Wow: AI Art Comes of Age – Steve Murch](https://www.stevemurch.com/engines-of-wow-ai-art-comes-of-age/2022/12)
@@ -218,6 +220,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Hypertechniques
 
+### ControlNet
+
+*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI (based on ControlNet)
+
 ### Textual Inversion
 
 *   [rinongal/textual\_inversion (⭐2k)](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
@@ -352,6 +358,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Image Synthesis
 
+*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 *   [openai/point-e (⭐4.3k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 *   [\[arxiv/2211.11319\] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
@@ -392,21 +399,6 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/)
 *   [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
 *   [GitHub Repositories of Hugging Face](https://github.com/huggingface)
-
-### Collections
-
-*   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
-*   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
-*   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
-*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐47)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
-*   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
-*   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
-*   [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
-*   [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
-*   [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/)
-*   \[🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
-*   [Machine learning for arts](https://ml4a.net/)
-*   \[🔥] [dvschultz/ml-art-colabs (⭐799)](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
 
 ### DALL-E 2
 
@@ -477,6 +469,22 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Real GANs in AI | Hacker Noon](https://hackernoon.com/real-gans-in-ai): deep dive into what the generative models are, the recent developments in the field, and the usage of GANs in business
 *   [GANshare | Towards Data Science](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376): Creating and Curating Art with AI
 
+## Collections
+
+*   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
+*   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
+*   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
+*   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
+*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐47)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
+*   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
+*   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
+*   [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
+*   [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
+*   [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/)
+*   \[🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
+*   [Machine learning for arts](https://ml4a.net/)
+*   \[🔥] [dvschultz/ml-art-colabs (⭐799)](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
+
 ## Image Upscaling
 
 *   [Model Database - Upscale Wiki](https://upscale.wiki/wiki/Model_Database): list of models for upscaling images
@@ -490,6 +498,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Online Tools and Applications
 
+*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 *   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
 *   [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 *   [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)

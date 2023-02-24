@@ -8,9 +8,50 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
+### Newsletter
+
+*   [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
+
+### Third party Guides
+
+*   [Swift & SwiftUI Tutorials](https://janeshswift.com) - SwiftUI learning with Ease.
+
+### Patterns
+
+*   [GoodReactor (⭐17)](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
+
 ### Layout / Barcode
 
 *   [AnimatedTabBar (⭐64)](https://github.com/exyte/AnimatedTabBar) - A tabbar with a number of preset animations.
+
+### Logging / Barcode
+
+*   [QorumLogs (⭐778)](https://github.com/Esqarrouth/QorumLogs) - Logging Utility for Xcode & Google Docs.
+
+### Network / Barcode
+
+*   [GoodNetworking (⭐17)](https://github.com/GoodRequest/GoodNetworking) - 📡 GoodNetworking simplifies HTTP networking.
+
+### Keychain / Barcode
+
+*   [GoodPersistence (⭐16)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
+
+### HUD / Barcode
+
+*   [EZLoadingActivity (⭐613)](https://github.com/Esqarrouth/EZLoadingActivity) - Lightweight loading activity HUD.
+
+### Template / Barcode
+
+*   [Temple (⭐16)](https://github.com/GoodRequest/Temple) - 🗂️ Most advanced project and file templates.
+
+### UICollectionView / Barcode
+
+*   [GoodProvider (⭐15)](https://github.com/GoodRequest/GRProvider) - 🚀 UITableView and UICollectionView provider to simplify basic scenarios of showing the data.
+
+### Utility / Barcode
+
+*   [GoodExtensions-iOS (⭐15)](https://github.com/GoodRequest/GoodExtensions-iOS) - 📑 GoodExtensions is a collection of useful and frequently used extensions.
+*   [GoodUIKit (⭐16)](https://github.com/GoodRequest/GoodUIKit) - 📑 GoodUIKit is an extensions library filled with reusable UI snippets for faster and more efficient development.
 
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
@@ -147,12 +188,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### UI / Barcode
 
 *   [Popovers (⭐1.1k)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
-
-## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
-
-### Newsletter
-
-*   [Open Source Updates for Swift Projects](https://www.getrevue.co/profile/ossp_updates/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -383,10 +418,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [TextBuilder (⭐183)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
-
-### Newsletter
-
-*   [Swift Weekly Brief](https://swiftweeklybrief.com/) - A multi author curated newsletter.
 
 ### Colors
 
@@ -2843,7 +2874,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Logging / Barcode
 
 *   [CleanroomLogger (⭐1.3k)](https://github.com/emaloney/CleanroomLogger) - Configurable and extensible high-level logging API that is simple, lightweight and performant.
-*   [QorumLogs (⭐778)](https://github.com/goktugyil/QorumLogs) - Logging Utility for Xcode & Google Docs.
 *   [Rainbow (⭐1.7k)](https://github.com/onevcat/Rainbow) :penguin: - Delightful console output.
 *   [SwiftyBeaver (⭐5.6k)](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin: - Multi-platform logging during development & release.
 *   [TinyConsole (⭐2k)](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
@@ -3305,7 +3335,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### HUD / Barcode
 
-*   [EZLoadingActivity (⭐613)](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
 *   [KRProgressHUD (⭐641)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.7k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 

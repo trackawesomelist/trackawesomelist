@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Feb 24, 2023](/content/2023/02/24/README.md)
+
+### Articles / Others
+
+*   [Blazor United - Solving Blazor's biggest challenges?](https://jonhilton.net/blazor-united/) - February 23, 2023 - There are some big changes coming for Blazor in .NET 8 and they look very, very promising.
+
 ## [Feb 23, 2023](/content/2023/02/23/README.md)
 
 ### Videos / Others
