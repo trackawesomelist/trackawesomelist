@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 25, 2023](/content/2023/02/25/README.md)
+
+### Marks / Diagnostics
+
+*   [LeonHeidelbach/trailblazer.nvim (⭐107)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+
 ## [Feb 23, 2023](/content/2023/02/23/README.md)
 
 ### Utility / Diagnostics

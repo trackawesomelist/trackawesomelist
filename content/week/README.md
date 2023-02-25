@@ -252,15 +252,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
 
-#### [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [goprompt (⭐1)](https://github.com/NonLogicalDev/shell.async-goprompt) - Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, `git` information, datetime and parent process name.
-*   [river\_dreams (⭐1)](https://github.com/skippyr/river_dreams) - Includes decorators for `git` information, machine's IP address, time, disk usage on `/`, current Python `venv`, current directory, root status, and the last command's exit status.
-*   [starship2k (⭐1)](https://github.com/2KAbhishek/starship2k) - Includes powerline support, decorators for `git` information, multiple languages and a multiline prompt.
-
-#### [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Analytics
 
@@ -292,7 +284,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   `IPL-1.0` - [IBM Public License](https://spdx.org/licenses/IPL-1.0.html)
 
-#### [29. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+#### [28. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ##### Feature Engineering / General
 
@@ -307,13 +299,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Optuna (⭐7.6k)](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
 
-#### [30. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [29. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Graph algorithms
 
 *   [petgraph/petgraph (⭐2k)](https://github.com/petgraph/petgraph) - Graph data structure library for Rust. [![graph CI status](https://github.com/petgraph/petgraph/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/petgraph/petgraph/actions/workflows/ci.yml)
 
-#### [31. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [30. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Mobile
 
@@ -336,37 +328,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [csv-validator (⭐5)](https://github.com/KoenvdBerg/csv-validator) - Validates tabular CSV data using predefined validations, inspired from its Python homologue "Great Expectations". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-#### [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [neanias/everforest-nvim (⭐20)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
-*   [embark-theme/vim (⭐527)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
-
-##### Bars and Lines / Diagnostics
-
-*   [m4xshen/smartcolumn.nvim (⭐48)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
-
-##### Utility / Diagnostics
-
-*   [yaocccc/nvim-foldsign (⭐2)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
-*   [tenxsoydev/nx.nvim (⭐4)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
-
-##### Motion / Diagnostics
-
-*   [echasnovski/mini.nvim#mini.bracketed (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bracketed.md) - Module of `mini.nvim` to go forward/backward with square brackets.
-
-##### Editing Support / Diagnostics
-
-*   [bennypowers/splitjoin.nvim (⭐36)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
-
-#### [33. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+#### [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ##### Devops / Angular
 
 *   [DevOps Bulletin](https://devopsbulletin.com). The latest DevOps trends in your inbox every week. From AWS, Terraform, and Kubernetes to CI/CD pipelines and cloud-native architecture, we've got you covered!
 
-#### [34. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [32. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Docs / Online Playgrounds
 
@@ -380,13 +348,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [deno\_docker (⭐753)](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
 
-#### [35. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+#### [33. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ##### Nodes / Smarthome
 
 *   [hubitat (⭐20)](https://github.com/fblackburn1/node-red-contrib-hubitat) - Connect with Hubitat.
 
-#### [36. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### Videos / Others
 
@@ -400,7 +368,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/) - February 21, 2023 - The first preview of .NET 8 is ready to download. This blog post covers the major themes and goals that drive the prioritization and selection of enhancements to develop. .NET 8 preview and release candidate builds will be delivered monthly. As usual, the final release will be delivered sometime in November at .NET Conf.
 *   [Azure Active Directory multitenant integration with Blazor WASM – Part 1](https://peterlesliemorris.com/azure-active-directory-multitenant-integration-with-blazor-wasm-part-1/) - February 19, 2023 - This blog is set in two parts. The first describes the process of setting up an Azure Active Directory multitenant on Azure, and the 2nd part describes how to integrate with a Blazor WASM application. [Source code (⭐26)](https://github.com/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant) ![stars](https://img.shields.io/github/stars/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/WalkThrough-AzureActiveDirectoryMultiTenant?style=flat-square\&cacheSeconds=86400) .
 
-#### [37. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+#### [35. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ##### Architecture Patterns
 
@@ -414,7 +382,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [VLC for iOS (⭐810)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
 
-#### [38. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [36. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Newsletter
 
@@ -461,7 +429,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [GoodExtensions-iOS (⭐15)](https://github.com/GoodRequest/GoodExtensions-iOS) - 📑 GoodExtensions is a collection of useful and frequently used extensions.
 *   [GoodUIKit (⭐16)](https://github.com/GoodRequest/GoodUIKit) - 📑 GoodUIKit is an extensions library filled with reusable UI snippets for faster and more efficient development.
 
-#### [39. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [37. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Entry Point
 
@@ -505,7 +473,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [tashy (⭐7)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
 *   [tashy2 (⭐2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 
-#### [40. Ai Collection](/content/ai-collection/ai-collection/README.md)
+#### [38. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ##### Content Generation & Seo
 
@@ -567,7 +535,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [41. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [39. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Math
 
@@ -582,7 +550,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
 
-#### [42. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+#### [40. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ##### Books
 
@@ -594,7 +562,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ex\_check (⭐280)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
-#### [43. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [41. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -606,28 +574,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [OpenStaticAnalyzer (⭐26)](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer) — OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.
 *   [SafeQL](https://safeql.dev) — Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL. SafeQL is an ESLint plugin for writing SQL queries in a type-safe way.
 
-#### [44. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+#### [42. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ##### Boilerplate / Mouse Events
 
 *   [PBandJ (⭐43)](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
 
-#### [45. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data and ML
-
-*   [Datalore](https://datalore.jetbrains.com) - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.
-*   [TemplateTo](https://templateto.com) - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. Free plan comes with 450 PDFs/month and 3 templates.
-
-##### Messaging and Streaming
-
-*   [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required) forever.
-
-##### BaaS
-
-*   [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.
-
-#### [46. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [43. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### The Generative AI Area: history, maps, and definitions
 
@@ -659,7 +612,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
 *   [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
 
-#### [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Libraries
 
@@ -686,7 +639,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [48. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [45. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Cheat Sheets
 
@@ -704,6 +657,62 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Contributing / Node.js
 
 *   [Damien Dotta (@ddotta)](https://github.com/ddotta) - Maintainer of Awesome Polars list
+
+#### [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [zshrpg (⭐0)](https://github.com/aliervo/zshrpg) - A wrapper that fully integrates [rpg-cli (⭐1.2k)](https://github.com/facundoolano/rpg-cli/) with zsh!
+
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [goprompt (⭐1)](https://github.com/NonLogicalDev/shell.async-goprompt) - Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, `git` information, datetime and parent process name.
+*   [river\_dreams (⭐1)](https://github.com/skippyr/river_dreams) - Includes decorators for `git` information, machine's IP address, time, disk usage on `/`, current Python `venv`, current directory, root status, and the last command's exit status.
+*   [starship2k (⭐1)](https://github.com/2KAbhishek/starship2k) - Includes powerline support, decorators for `git` information, multiple languages and a multiline prompt.
+*   [unicorn (⭐0)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐469)](https://github.com/mashaal/wild-cherry).
+
+#### [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Marks / Diagnostics
+
+*   [LeonHeidelbach/trailblazer.nvim (⭐107)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+
+##### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [neanias/everforest-nvim (⭐20)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+*   [embark-theme/vim (⭐527)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
+
+##### Bars and Lines / Diagnostics
+
+*   [m4xshen/smartcolumn.nvim (⭐48)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
+
+##### Utility / Diagnostics
+
+*   [yaocccc/nvim-foldsign (⭐2)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
+*   [tenxsoydev/nx.nvim (⭐4)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
+
+##### Motion / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.bracketed (⭐1.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bracketed.md) - Module of `mini.nvim` to go forward/backward with square brackets.
+
+##### Editing Support / Diagnostics
+
+*   [bennypowers/splitjoin.nvim (⭐36)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+
+#### [48. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data and ML
+
+*   [Datalore](https://datalore.jetbrains.com) - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.
+*   [TemplateTo](https://templateto.com) - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. Free plan comes with 450 PDFs/month and 3 templates.
+
+##### Messaging and Streaming
+
+*   [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required) forever.
+
+##### BaaS
+
+*   [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.
 
 ---
 
@@ -724,13 +733,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 11. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 23K 📝 02&#x2F;24 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 12. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 21K 📝 02&#x2F;22 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 13. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 24K 📝 02&#x2F;19 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-14. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 02&#x2F;24 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-15. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 11K 📝 02&#x2F;25 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-16. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 02&#x2F;25 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-17. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 12K 📝 02&#x2F;23 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+14. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 12K 📝 02&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+15. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 02&#x2F;24 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
+16. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 11K 📝 02&#x2F;25 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+17. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 02&#x2F;25 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 18. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 16K 📝 02&#x2F;19 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-19. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 02&#x2F;21 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-20. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 8.8K 📝 02&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+19. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 8.8K 📝 02&#x2F;25 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+20. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 02&#x2F;21 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 21. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.4K 📝 02&#x2F;24 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 22. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 8.2K 📝 02&#x2F;22 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 23. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 263K 📝 01&#x2F;15 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
@@ -944,7 +953,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 16K, 📝 02&#x2F;04 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
 - [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 5.4K, 📝 01&#x2F;08 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 - [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source ⭐ 4.2K, 📝 22&#x2F;11&#x2F;21 ](https://github.com/sirredbeard/Awesome-WSL)) - Awesome list dedicated to Windows Subsystem for Linux
-- [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 12K, 📝 02&#x2F;23 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 12K, 📝 02&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [awsm.fish](/content/jorgebucaran/awsm.fish/README.md) - ([Source ⭐ 3.2K, 📝 22&#x2F;12&#x2F;21 ](https://github.com/jorgebucaran/awsm.fish)) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md) - ([Source ⭐ 747, 📝 22&#x2F;03&#x2F;21 ](https://github.com/tvvocold/FOSS-for-Dev)) - A hub of Free and open-source software for developers
 - [Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md) - ([Source ⭐ 6.1K, 📝 18&#x2F;09&#x2F;29 ](https://github.com/arslanbilal/git-cheat-sheet)) - :octocat: git and git flow cheat sheet
@@ -956,7 +965,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 8.8K, 📝 02&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 8.8K, 📝 02&#x2F;25 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 21K, 📝 22&#x2F;11&#x2F;15 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 950, 📝 22&#x2F;04&#x2F;30 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!

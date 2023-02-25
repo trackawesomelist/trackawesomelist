@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
+### Marks / Diagnostics
+
+*   [LeonHeidelbach/trailblazer.nvim (⭐107)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [neanias/everforest-nvim (⭐20)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
