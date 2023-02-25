@@ -6,6 +6,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 25, 2023](/content/2023/02/25/README.md)
+
+### The Generative AI Area: history, maps, and definitions
+
+*   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arvix](https://arxiv.org/abs/2302.09419)
+
 ## [Feb 24, 2023](/content/2023/02/24/README.md)
 
 ### The Generative AI Area: history, maps, and definitions

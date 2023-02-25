@@ -10,6 +10,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### The Generative AI Area: history, maps, and definitions
 
+*   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arvix](https://arxiv.org/abs/2302.09419)
 *   [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
 
 ### Online Tools and Applications / Generative Adversarial Networks (GANs)
