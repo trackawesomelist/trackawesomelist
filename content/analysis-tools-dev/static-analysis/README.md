@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Feb 26, 2023](/content/2023/02/26/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [autoflake (⭐714)](https://github.com/PyCQA/autoflake) — Autoflake removes unused imports and unused variables from Python code.
+
 ## [Feb 25, 2023](/content/2023/02/25/README.md)
 
 ### Programming Languages / [Other](#other-1)

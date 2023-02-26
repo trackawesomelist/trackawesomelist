@@ -16,6 +16,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [goprompt (⭐1)](https://github.com/NonLogicalDev/shell.async-goprompt) - Lightning fast. Includes decorators for truncated current directory, last command duration & exit status, vim-mode indicators, `git` information, datetime and parent process name.
 *   [river\_dreams (⭐1)](https://github.com/skippyr/river_dreams) - Includes decorators for `git` information, machine's IP address, time, disk usage on `/`, current Python `venv`, current directory, root status, and the last command's exit status.
+*   [sensa (⭐0)](https://github.com/miccou/sensa-theme) - Includes decorators for `git` status, github username and current directory.
 *   [starship2k (⭐1)](https://github.com/2KAbhishek/starship2k) - Includes powerline support, decorators for `git` information, multiple languages and a multiline prompt.
 *   [unicorn (⭐0)](https://github.com/juliuscaesar/unicorn) - Includes decorators for root status, virtualenv, nvm, rvm, current directory, the time, current directory and emoji `git` information. Inspired by [wild cherry (⭐469)](https://github.com/mashaal/wild-cherry).
 

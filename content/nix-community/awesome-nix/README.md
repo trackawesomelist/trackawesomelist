@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Feb 26, 2023](/content/2023/02/26/README.md)
+
+### Deployment Tools / Newsletters
+
+*   [bento (⭐88)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
+
+### Programming Languages / Clojure
+
+*   [clj-nix (⭐91)](https://github.com/jlesquembre/clj-nix) - Nix helper functions for Clojure projects.
+
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
 ### Command-Line Tools / Newsletters

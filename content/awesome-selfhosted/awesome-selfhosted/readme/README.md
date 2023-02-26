@@ -187,7 +187,7 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 *   [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code (⭐395)](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Python`
 *   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐7.1k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
 *   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Demo](https://playground.eonza.org/), [Source Code (⭐81)](https://github.com/gentee/eonza)) `MIT` `Go`
-*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐2.6k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
+*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐2.7k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
 *   [feed2toot](https://feed2toot.readthedocs.io/en/latest/) - Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon. ([Source Code](https://gitlab.com/chaica/feed2toot)) `GPL-3.0` `Python`
 *   [feedmixer (⭐107)](https://github.com/cristoper/feedmixer) - FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON). ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest\&f=https://americancynic.net/atom.xml\&n=1)) `WTFPL` `Python`
 *   [Headphones (⭐3.2k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
@@ -421,6 +421,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 
 *   [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`
 *   [Courier MTA](https://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](https://www.courier-mta.org/repo.html)) `GPL-3.0` `C`
+*   [DragonFly (⭐196)](https://github.com/corecode/dma) - A small MTA for home and office use. Works on Linux and FreeBSD. `BSD` `C`
 *   [Exim](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge. ([Source Code](https://git.exim.org/exim.git)) `GPL-3.0` `C`
 *   [Haraka](https://haraka.github.io/) - High-performance, pluginable SMTP server written in Javascript. ([Source Code (⭐4.3k)](https://github.com/haraka/Haraka)) `MIT` `Nodejs`
 *   [MailCatcher](https://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code (⭐5.9k)](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
@@ -717,7 +718,7 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 *   [CoreDNS](https://coredns.io/) - Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS. ([Source Code (⭐10k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 *   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.7k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 *   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐892)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
-*   [SmartDNS (⭐5.8k)](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, supports DoT, DoH. `GPL-3.0` `C`
+*   [SmartDNS (⭐5.9k)](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, supports DoT, DoH. `GPL-3.0` `C`
 *   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐221)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 *   [Technitium DNS Server](https://technitium.com/dns/) - An open source authoritative as well as recursive DNS server that can be used for self hosting a DNS server for privacy & security. ([Source Code (⭐1.5k)](https://github.com/TechnitiumSoftware/DnsServer)) `GPL-3.0` `Docker/C#`
 
@@ -952,7 +953,7 @@ Web-based [file managers](https://en.wikipedia.org/wiki/File_manager).
 *Related: [Groupware](#groupware)*
 
 *   [Apaxy](https://oupala.github.io/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod\_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code (⭐1.8k)](https://github.com/oupala/apaxy)) `GPL-3.0` `HTML`
-*   [copyparty (⭐69)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
+*   [copyparty (⭐89)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
 *   [DirectoryLister](https://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code (⭐1.9k)](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP`
 *   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐19k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
 *   [FileGator](https://filegator.io/) - FileGator is a powerful multi-user file manager with a single page front-end. ([Demo](https://demo.filegator.io), [Source Code (⭐1.3k)](https://github.com/filegator/filegator)) `MIT` `PHP`
@@ -985,6 +986,7 @@ Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Brows
 *   [Posio (⭐500)](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT` `Python`
 *   [QuakeJS (⭐83)](https://github.com/begleysm/quakejs) - QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. `MIT` `Nodejs`
 *   [Quizmaster (⭐158)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
+*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐343)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA` `C/C++`
 *   [SourceBans++](https://sbpp.dev/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐274)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 *   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.1k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++`
 *   [The Battle for Wesnoth (⭐4.3k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++`
@@ -1002,7 +1004,7 @@ Utilities for managing game servers.
 *   [ARRCON (⭐16)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
 *   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐581)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
 *   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐3.6k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐931)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐942)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 *   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐4.7k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
 *   [RconCli (⭐132)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
@@ -1083,7 +1085,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 *   [Mindmaps (⭐2.6k)](https://github.com/drichard/mindmaps) - Open source, offline capable, mind mapping application. ([Demo](https://www.mindmaps.app)) `AGPL-3.0` `HTML5`
 *   [My Mind (⭐3.1k)](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 *   [TeamMapper (⭐34)](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
-*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐202)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.4k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
+*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐202)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.5k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
 
 ### Learning and Courses
 
@@ -1327,7 +1329,7 @@ Software that does not fit in another section.
 *   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
 *   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐848)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 *   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐370)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code (⭐2.5k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐2.5k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 *   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐6.9k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
 *   [InvoicePlane (⭐2.2k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
 *   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐254)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
@@ -1775,7 +1777,7 @@ A [low-code](https://en.wikipedia.org/wiki/Low-code_development_platform) develo
 
 *   [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code (⭐25k)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
 *   [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. ([Source Code (⭐17k)](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
-*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐392)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
+*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐402)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
 *   [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code (⭐18k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
 
 ### Software Development - Project Management
@@ -1824,7 +1826,7 @@ Tools and software for [software project management](https://en.wikipedia.org/wi
 *   [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. ([Source Code (⭐167)](https://github.com/nirix/traq)) `GPL-3.0` `PHP/Nodejs`
 *   [Tuleap](https://www.tuleap.org/) - Tuleap is a libre suite to plan, track, code and collaborate on software projects. ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git\&a=tree)) `GPL-2.0` `PHP`
 *   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐1k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
-*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Source Code (⭐994)](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
+*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo15.zentao.pm/), [Source Code (⭐994)](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
 
 ### Software Development - Testing
 
@@ -1832,6 +1834,7 @@ Tools and software for [software project management](https://en.wikipedia.org/wi
 
 Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing).
 
+*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐41)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 *   [DeepfakeHTTP (⭐454)](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
 *   [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code (⭐2.3k)](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
 *   [Sorry Cypress](https://sorry-cypress.dev) - Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests. ([Source Code (⭐2.3k)](https://github.com/sorry-cypress/sorry-cypress)) `MIT` `Typescript`

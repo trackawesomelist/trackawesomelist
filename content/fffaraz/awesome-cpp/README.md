@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 26, 2023](/content/2023/02/26/README.md)
+
+### Configuration
+
+*   [inipp (⭐207)](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. \[MIT]
+
 ## [Feb 24, 2023](/content/2023/02/24/README.md)
 
 ### Websites
@@ -1044,7 +1050,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [inih (⭐1.9k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
 *   [inih (⭐399)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐1.9k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐850)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]
+*   [iniparser (⭐850)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
 *   [libconfuse (⭐421)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
 *   [simpleini (⭐815)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
@@ -2464,7 +2470,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome (⭐238k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐7.9k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [Jul 03, 2017](/content/2017/07/03/README.md)

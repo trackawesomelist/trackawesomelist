@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
+
+### Bayesian Modeling / Bayesian Induction
+
+*   [Building Machines That Learn and Think Like People](https://leylaroksancaglar.github.io/Caglar_Hanson_2017.pdf) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287\&hl=en\&as_sdt=0,5)]. Brenden Lake and Josh Tenenbaum's review on Bayesian modeling.
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Meta-Level Considerations / Rationality
@@ -194,7 +200,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
-### Science Logology / Science of Science
+### Science Logology / Philosophy of Science
 
 *   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
 
@@ -483,7 +489,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794\&hl=en\&as_sdt=0,5\&as_vis=1)]. Original paper on Bayesian generalization.
 *   [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=5476233692839102256)]. \[[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)]. Fei Xu's review on Bayesian word learning.
 *   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
-*   [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287\&hl=en\&as_sdt=0,5)]. Brenden Lake and Josh Tenenbaum's review on Bayesian modeling.
 
 ### Bayesian Modeling / Generative Model
 

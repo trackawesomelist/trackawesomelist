@@ -6,6 +6,26 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 26, 2023](/content/2023/02/26/README.md)
+
+### Papers and References / AI Tools for Research
+
+*   [Elicit](https://elicit.org/): automate research workflow for literature review
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [7 Revealing Ways AIs Fail - IEEE Spectrum](https://spectrum.ieee.org/ai-failures)
+
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
+
+### Inbox: Text and Natural Language Processing / Embeddings
+
+*   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
+*   [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+*   [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
+
 ## [Feb 25, 2023](/content/2023/02/25/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
@@ -201,7 +221,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
-### Papers and References / AI Tools for Paper Reading
+### Papers and References / AI Tools for Research
 
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 
@@ -237,7 +257,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   \[🔥🔥🔥] [DAIR.AI](https://github.com/dair-ai): Democratizing Artificial Intelligence Research, Education, and Technologies
 
-### Papers and References / AI Tools for Paper Reading
+### Papers and References / AI Tools for Research
 
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science

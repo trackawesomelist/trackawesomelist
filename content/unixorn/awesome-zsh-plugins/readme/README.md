@@ -2222,6 +2222,7 @@ If you're using [Antigen (⭐7.5k)](https://github.com/zsh-users/antigen), you c
 *   [seeker (⭐47)](https://github.com/tonyseek/oh-my-zsh-seeker-theme) - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
 *   [seltzer (⭐0)](https://github.com/GrantSeltzer/seltzer.zsh-theme) - Inspired by the dieter theme, uses color-coding to provide information.
 *   [senpai (⭐11)](https://github.com/hiroru/senpai-zsh) - Clean prompt theme for Devops. Includes decorators for `git` status, the kubernetes context, AWS profile, GCP project and Azure active cloud.
+*   [sensa (⭐0)](https://github.com/miccou/sensa-theme) - Includes decorators for `git` status, github username and current directory.
 *   [sepshell (⭐16)](https://github.com/sepehr/sepshell) - Clean and minimal ZSH theme based on the old lost taybalt theme, with `git` bisecting/merging/rebasing modes and configurable prompt symbols.
 *   [serious (⭐0)](https://github.com/oliversandli/serious-zsh-theme) - Includes command exit status and `git` status decorations.
 *   [seti\_UX (⭐2)](https://github.com/ginfuru/iTerm-Seti_UX) - A simple oh-my-zsh-compatible theme with a corresponding iTerm 2 color scheme.

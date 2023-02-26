@@ -334,7 +334,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [inifile-cpp (⭐193)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
 *   [inih (⭐1.9k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
 *   [inih (⭐399)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐1.9k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐850)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]
+*   [iniparser (⭐850)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [inipp (⭐207)](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. \[MIT]
 *   [libconfig (⭐968)](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. \[LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 *   [libconfuse (⭐421)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
 *   [simpleini (⭐815)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
@@ -1331,7 +1332,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [lists (⭐8.8k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [awesome (⭐238k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐3.5k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 *   [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.

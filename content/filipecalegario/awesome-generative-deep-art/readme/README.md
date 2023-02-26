@@ -30,7 +30,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
     *   [Creative Uses of Generative AI Tools](#creative-uses-of-generative-ai-tools)
     *   [Courses and Educational Materials](#courses-and-educational-materials)
     *   [Papers and References](#papers-and-references)
-        *   [AI Tools for Paper Reading](#ai-tools-for-paper-reading)
+        *   [AI Tools for Research](#ai-tools-for-research)
         *   [AI Tools for Searching](#ai-tools-for-searching)
         *   [Papers Collections](#papers-collections)
     *   [Discussions and Philosophy](#discussions-and-philosophy)
@@ -275,8 +275,9 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Papers and References
 
-### AI Tools for Paper Reading
+### AI Tools for Research
 
+*   [Elicit](https://elicit.org/): automate research workflow for literature review
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
@@ -353,6 +354,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Por favor, mais racionalidade e menos frenesi em relação ao chatGPT (Parte 1 de 2) | by Cezar Taurion | Dec, 2022 | Medium](https://c-taurion.medium.com/por-favor-mais-racionalidade-e-menos-frenesi-em-rela%C3%A7%C3%A3o-ao-chatgpt-parte-1-de-2-1d7637e2a854)
 *   [E se estivermos usando uma IA pseudocientífica? - Diogo Cortiz](https://diogocortiz.com.br/computacao-afetiva-e-os-desafios-das-ias-pseudocientificas/)
 *   [As limitações da sensação tecnológica de 2023: o ChatGPT | IAgora? | Época NEGÓCIOS](https://epocanegocios.globo.com/colunas/iagora/coluna/2023/01/as-limitacoes-da-sensacao-tecnologica-de-2023-o-chatgpt.ghtml)
+*   [7 Revealing Ways AIs Fail - IEEE Spectrum](https://spectrum.ieee.org/ai-failures)
 
 ### Promptism
 
@@ -529,6 +531,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Inbox: Text and Natural Language Processing
 
+*   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
 *   [hwchase17/langchain (⭐7.6k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
@@ -547,9 +550,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Embeddings
 
+*   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
 *   [jerryjliu/gpt\_index: GPT Index (LlamaIndex) (⭐4.2k)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
 *   [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
 *   [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
+*   [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+*   [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
 
 ### ChatGPT
 

@@ -17,10 +17,15 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 
+### Papers and References / AI Tools for Research
+
+*   [Elicit](https://elicit.org/): automate research workflow for literature review
+
 ### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [Noam Chomsky on ChatGPT: It's "Basically High-Tech Plagiarism" and "a Way of Avoiding Learning" | Open Culture](https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html)
 *   [Will ChatGPT Kill the Student Essay? | The Atlantic](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/)
+*   [7 Revealing Ways AIs Fail - IEEE Spectrum](https://spectrum.ieee.org/ai-failures)
 
 ### Collections / Generative Adversarial Networks (GANs)
 
@@ -28,15 +33,19 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
+*   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
 *   [hwchase17/langchain (⭐7.6k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 
 ### Inbox: Text and Natural Language Processing / Embeddings
 
+*   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
 *   [jerryjliu/gpt\_index: GPT Index (LlamaIndex) (⭐4.2k)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
 *   [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
 *   [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
+*   [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+*   [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
 
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
@@ -166,7 +175,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   \[🔥🔥🔥] [DAIR.AI](https://github.com/dair-ai): Democratizing Artificial Intelligence Research, Education, and Technologies
 
-### Papers and References / AI Tools for Paper Reading
+### Papers and References / AI Tools for Research
 
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"

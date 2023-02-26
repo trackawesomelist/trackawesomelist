@@ -34,6 +34,18 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐579)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP`
 
+### Software / Communication - Email - Mail Transfer Agents
+
+*   [DragonFly (⭐196)](https://github.com/corecode/dma) - A small MTA for home and office use. Works on Linux and FreeBSD. `BSD` `C`
+
+### Software / Games
+
+*   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐343)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA` `C/C++`
+
+### Software / Software Development - Testing
+
+*   [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code (⭐41)](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+
 ### List of Licenses / Wikis
 
 *   `IPL-1.0` - [IBM Public License](https://spdx.org/licenses/IPL-1.0.html)
@@ -52,7 +64,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [copyparty (⭐69)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
+*   [copyparty (⭐89)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -95,7 +107,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / DNS
 
-*   [SmartDNS (⭐5.8k)](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, supports DoT, DoH. `GPL-3.0` `C`
+*   [SmartDNS (⭐5.9k)](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, supports DoT, DoH. `GPL-3.0` `C`
 
 ### Software / Document Management
 
@@ -240,7 +252,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐931)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐942)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
@@ -252,7 +264,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Low Code
 
-*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐392)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
+*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐402)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
 
 ### Software / URL Shorteners
 
@@ -946,7 +958,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐2.6k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
+*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐2.7k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
 *   [µTask (⭐830)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`
 
 ### Software / Communication - Email - Mail Delivery Agents
@@ -1512,7 +1524,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Knowledge Management Tools
 
-*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐202)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.4k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
+*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐202)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.5k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
 
 ### Software / Miscellaneous
 
@@ -2152,7 +2164,7 @@ A list of Free Software network services and web applications which can be hoste
 *   [Lavagna](https://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([Source Code (⭐606)](https://github.com/digitalfondue/lavagna)) `GPL-3.0` `Java`
 *   [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. ([Demo](http://demo.redmine.org/), [Source Code](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`
 *   [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python`
-*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Source Code (⭐994)](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
+*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo15.zentao.pm/), [Source Code (⭐994)](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Testing
 
@@ -2712,7 +2724,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code (⭐2.5k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐2.5k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ### Software / Note-taking & Editors
 

@@ -772,6 +772,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐665)](https://g
 
 <h2 id="python">Python</h2>
 
+*   [autoflake (⭐714)](https://github.com/PyCQA/autoflake) — Autoflake removes unused imports and unused variables from Python code.
+
 *   [autopep8](https://pypi.org/project/autopep8/) — A tool that automatically formats Python code to conform to the PEP 8 style guide.
     It uses the pycodestyle utility to determine what parts of the code needs to be formatted.
 

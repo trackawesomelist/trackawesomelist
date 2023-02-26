@@ -12,7 +12,7 @@
 
 > The transfer of the meaning of a text from one language to another.
 
-This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:\~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
+This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
 
 ## Contents
 
@@ -49,7 +49,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Project management
 
 *   [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-*   [Traduora (⭐1.7k)](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+*   [Traduora (⭐1.8k)](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
 
 ### Platform-specific tools
 
@@ -59,58 +59,90 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ## Apps
 
-*   [RTranslator (⭐87)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+### Automated translation
+
+*   [RTranslator (⭐88)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
 *   [Crow Translate (⭐1.1k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐15k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+*   [LibreTranslate (⭐3.8k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+
+### i18n manager
+
 *   [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
+
+### Translation software
+
 *   [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
 *   [Argos Translate (⭐1.7k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
-*   [LibreTranslate (⭐3.6k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ## Tools
 
-*   [deep-translator (⭐844)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+### Automatic translation for end users
+
+*   [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
+*   [Crowdin MT](https://store.crowdin.com/crowdin-mt) - A machine learning translator based on translations from Crowdin Global translation memory.
+
+### Translator libraries for developers
+
+*   [deep-translator (⭐870)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [Translator (⭐973)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+
+### i18n frameworks for developers
+
 *   [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
-*   [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
 *   [i18n Ally (⭐2.7k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
-*   [SwiftGoogleTranslate (⭐76)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
-*   [Translate (⭐734)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
-*   [Pootle (⭐1.5k)](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
-*   [Translator (⭐947)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
-*   [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
+*   [Translate (⭐737)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 *   [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
-*   [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Technology aimed at helping teams effortlessly localize websites.
-*   [attranslate (⭐277)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
-*   [Polyglot (⭐324)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
-*   [Globalize (⭐4.7k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
-*   [SimpleLocalize CLI (⭐35)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+*   [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Add-on to Crowdin.
 *   [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 *   [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 *   [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
-*   [Crowdin MT](https://store.crowdin.com/crowdin-mt) - A machine learning translator based on translations from Crowdin Global translation memory.
+*   [Polyglot (⭐327)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+
+### Machine translation for developers
+
+*   [SwiftGoogleTranslate (⭐77)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [attranslate (⭐279)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+
+### Other tools
+
+*   [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
+*   [Pootle (⭐1.5k)](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+*   [Globalize (⭐4.7k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
+*   [SimpleLocalize CLI (⭐37)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 
 ## Articles
+
+### Introductions to internationalization
+
+*   [Stack Overflow Q\&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+*   [Stack Overflow Q\&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between i18n/l10n/g11n and specifically what does each mean for development?
+*   [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
+*   [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - Blog post about the difference between l10n and I18n from Crowdin.
+
+### For developers
 
 *   [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
 *   [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: i18n and l10n.
 *   [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing your app.
 *   [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software globalization and adding languages on computers and mobile devices" by Craig Cummings (slides).
-*   [Stack Overflow Q\&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
-*   [Stack Overflow Q\&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between i18n/l10n/g11n and specifically what does each mean for development?
-*   [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
 *   [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
+*   [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
+*   [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article about Globalization and localization in ASP.NET Core.
+
+### Understanding computer-assisted translation
+
 *   [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
+
+### Machine translation
+
 *   [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 *   [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
-*   [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
-*   [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
-*   [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - Blog post about the difference between l10n and I18n from Crowdin.
-*   [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article about Globalization and localization in ASP.NET Core.
 
 ## Blogs
 
@@ -146,7 +178,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 *   [Project Fluent](https://projectfluent.org) - A localization paradigm designed to unleash the entire expressive power of natural language translations.
 *   [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 *   [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
-*   [GILT Forum (⭐35)](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals.
+*   [Glocalization Strategy Playbook (⭐36)](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals by the GILT forum.
 *   [DeepL Translator](https://www.deepl.com/) - A neural machine translation service launched in August 2017 and owned by Cologne based DeepL SE.
 *   [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation.
 *   [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.

@@ -8,9 +8,17 @@
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
+### Deployment Tools / Newsletters
+
+*   [bento (⭐88)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
+
 ### Command-Line Tools / Newsletters
 
 *   [nix-init (⭐153)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+
+### Programming Languages / Clojure
+
+*   [clj-nix (⭐91)](https://github.com/jlesquembre/clj-nix) - Nix helper functions for Clojure projects.
 
 ### Programming Languages / PureScript
 

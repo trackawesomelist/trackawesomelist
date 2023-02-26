@@ -31,6 +31,7 @@
 *   [DevOps](#devops)
 *   [Programming Languages](#programming-languages)
     *   [Arduino](#arduino)
+    *   [Clojure](#clojure)
     *   [Crystal](#crystal)
     *   [Elm](#elm)
     *   [Haskell](#haskell)
@@ -83,6 +84,7 @@
 
 ## Deployment Tools
 
+*   [bento (⭐88)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 *   [Colmena (⭐483)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 *   [deploy-rs (⭐689)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 *   [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
@@ -152,6 +154,10 @@
 ### Arduino
 
 *   [nixduino (⭐33)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
+
+### Clojure
+
+*   [clj-nix (⭐91)](https://github.com/jlesquembre/clj-nix) - Nix helper functions for Clojure projects.
 
 ### Crystal
 
