@@ -6,6 +6,12 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ Daily / [Weekly](/content/akullpp/awesome-java/week/README.md) / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Feb 26, 2023](/content/2023/02/26/README.md)
+
+### Monitoring
+
+*   [hippo4j (⭐3.6k)](https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md) - Dynamic and observable thread pool framework.
+
 ## [Feb 20, 2023](/content/2023/02/20/README.md)
 
 ### Bytecode Manipulation

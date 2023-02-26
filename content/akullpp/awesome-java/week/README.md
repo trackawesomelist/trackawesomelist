@@ -12,6 +12,10 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 *   [Maker (⭐31)](https://github.com/cojen/maker) - Provides low level bytecode generation.
 
+### Monitoring
+
+*   [hippo4j (⭐3.6k)](https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md) - Dynamic and observable thread pool framework.
+
 ### Testing / Asynchronous
 
 *   [WebTau (⭐282)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
