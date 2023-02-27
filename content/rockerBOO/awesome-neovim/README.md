@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 27, 2023](/content/2023/02/27/README.md)
+
+### Register / Diagnostics
+
+*   [tenxsoydev/karen-yank.nvim (⭐22)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
+
 ## [Feb 26, 2023](/content/2023/02/26/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics

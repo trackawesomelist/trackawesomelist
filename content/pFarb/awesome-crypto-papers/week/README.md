@@ -6,11 +6,17 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 [ [Daily](/content/pFarb/awesome-crypto-papers/README.md) / Weekly / [Overview](/content/pFarb/awesome-crypto-papers/readme/README.md) ]
 
+## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
+
+### Specific topics / Cryptanalysis
+
+*   [Cryptanalysis of block ciphers and protocols](https://web.archive.org/http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
+
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
 ### Specific topics / Zero Knowledge Proofs
 
-*   [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
+*   [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/~crepeau/BCR86.pdf) - Brassau et al.
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -79,7 +85,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Specific topics / Zero Knowledge Proofs
 
-*   [Proofs of knowledge](https://cseweb.ucsd.edu/\~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
+*   [Proofs of knowledge](https://cseweb.ucsd.edu/~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
 *   [Knowledge complexity of interactive proof systems (⭐2)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
 
 ### Books / Post-quantum cryptography
@@ -91,8 +97,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 ### Specific topics / Cryptanalysis
 
 *   [Slide Attacks on a Class of Hash Functions](https://eprint.iacr.org/2008/263) - Applying slide attacks (typical cryptanalysis technique for block ciphers) to hash functions, M. Gorski et al.
-*   [Cryptanalysis of block ciphers and protocols](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
-*   [Intro to Linear & Differential Cryptanalysis](http://www.cs.bc.edu/\~straubin/crypto2017/heys.pdf) - A beginner-friendly paper explaining and demonstrating techniques for linear and differential cryptanalysis.
+*   [Intro to Linear & Differential Cryptanalysis](http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf) - A beginner-friendly paper explaining and demonstrating techniques for linear and differential cryptanalysis.
 
 ### Specific topics / Public key cryptography: General and DLP
 
@@ -100,7 +105,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Books / Post-quantum cryptography
 
-*   [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/\~dabo/cryptobook/) - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptanalysis and cryptography-related security.
+*   [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptanalysis and cryptography-related security.
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
@@ -144,11 +149,11 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Introducing people to data security and cryptography / Simple: cryptography for non-engineers
 
-*   [Nuts and Bolts of Encryption: A Primer for Policymakers](https://www.cs.princeton.edu/\~felten/encryption_primer.pdf).
+*   [Nuts and Bolts of Encryption: A Primer for Policymakers](https://www.cs.princeton.edu/~felten/encryption_primer.pdf).
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/\~dabo/pubs/papers/RSA-survey.pdf) - Great inquiry into attacking RSA and it's internals, by Dan Boneh.
+*   [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) - Great inquiry into attacking RSA and it's internals, by Dan Boneh.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 
@@ -171,7 +176,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Lecture notes by Rafael Pass, Abhi Shelat.
-*   [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/\~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (MIT), M. Bellare (University of California).
+*   [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (MIT), M. Bellare (University of California).
 
 ### Online crypto challenges / Post-quantum cryptography
 
@@ -191,7 +196,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Introducing people to data security and cryptography / Brief introductions
 
-*   [Using Encryption for Authentication in Large Networks](http://inst.eecs.berkeley.edu/\~cs268/sp02/cached_papers/needham.pdf) - By Needham, Schroeder: this is were crypto-based auth starts.
+*   [Using Encryption for Authentication in Large Networks](http://inst.eecs.berkeley.edu/~cs268/sp02/cached_papers/needham.pdf) - By Needham, Schroeder: this is were crypto-based auth starts.
 
 ### Introducing people to data security and cryptography / General cryptographic interest
 
@@ -209,7 +214,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 *   [List of proposed operation modes of AES](http://csrc.nist.gov/groups/ST/toolkit/BCM/modes_development.html) - Maintained by NIST.
 *   [Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html) - If stuff above was a bit hard or you're looking for a good laugh.
 *   [Cache timing attacks on AES](http://cr.yp.to/antiforgery/cachetiming-20050414.pdf) - Example of designing great practical attack on cipher implementation, by Daniel J. Bernstein.
-*   [Cache Attacks and Countermeasures: the Case of AES](http://cs.tau.ac.il/\~tromer/papers/cache.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
+*   [Cache Attacks and Countermeasures: the Case of AES](http://cs.tau.ac.il/~tromer/papers/cache.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
 *   [Salsa20 family of stream ciphers](https://cr.yp.to/snuffle/salsafamily-20071225.pdf) - Broad explanation of Salsa20 security cipher by Daniel J. Bernstein.
 *   [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.
 
@@ -220,12 +225,12 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [New Directions in Cryptography](https://www-ee.stanford.edu/\~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
+*   [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
 *   [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - An explanation of the Diffie-Hellman methon in more engineering terms.
 *   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf) -  Original paper introducing RSA algorithm.
 *   [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - Rather education explanation of every bit behind RSA.
 *   [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
-*   [Remote timing attacks are practical](http://crypto.stanford.edu/\~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
+*   [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
 *   [The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited](https://eprint.iacr.org/2005/307.pdf) - by K. Bentahar.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
@@ -233,13 +238,13 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 *   [Elliptic Curve Cryptography: the serpentine course of a paradigm shift](http://eprint.iacr.org/2008/390.pdf) - Historic inquiry into development of ECC and it's adoption.
 *   [Let's construct an elliptic curve: Introducing Crackpot2065](http://blog.bjrn.se/2015/07/lets-construct-elliptic-curve.html) - Fine example of building up ECC from scratch.
 *   [Explicit-Formulas Database](http://www.hyperelliptic.org/EFD/) - For many elliptic curve representation forms.
-*   [Software implementation of the NIST elliptic curves over prime fields](http://delta.cs.cinvestav.mx/\~francisco/arith/julio.pdf) - Pracitcal example of implementing elliptic curve crypto, by M. Brown et al.
+*   [Software implementation of the NIST elliptic curves over prime fields](http://delta.cs.cinvestav.mx/~francisco/arith/julio.pdf) - Pracitcal example of implementing elliptic curve crypto, by M. Brown et al.
 *   [High-speed high-security signatures](https://ed25519.cr.yp.to/ed25519-20110926.pdf) - Seminal paper on EdDSA signatures on ed25519 curve by Daniel J. Bernstein et al.
 
 ### Specific topics / Zero Knowledge Proofs
 
-*   [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/\~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
-*   [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/\~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - By Goldreich,  Micali and Wigderson, a relative to the above.
+*   [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
+*   [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - By Goldreich,  Micali and Wigderson, a relative to the above.
 *   [A Survey of Zero-Knowledge Proofs with Applications to Cryptography](http://www.austinmohr.com/work/files/zkp.pdf) - Great intro on original ZKP protocols.
 
 ### Specific topics / Key Management
@@ -253,7 +258,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 ### Books / Post-quantum cryptography
 
 *   [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
-*   [The joy of Cryptography](http://web.engr.oregonstate.edu/\~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
+*   [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 *   [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography.
 
 ## [Sep 18 - Sep 24, 2017](/content/2017/38/README.md)
@@ -270,7 +275,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/\~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
+*   [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 
