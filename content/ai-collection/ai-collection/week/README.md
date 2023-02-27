@@ -6,6 +6,32 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
+
+### Organization & Automation
+
+- Name: [BuildAI](https://www.buildai.space/)
+
+  Title: Build AI Interfaces in Minutes.
+
+  Description: Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Other
+
+- Name: [Tweetsift](http://tweetsift.com)
+
+  Title: Tweetsift.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
 ### Content Generation & Seo
@@ -27,18 +53,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: We Help Support Teams Communicate Faster and More Accurate.
 
   Description: OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Education & Learning
-
-- Name: [teachertoolkit.ai](https://teachertoolkit.ai/)
-
-  Title: A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning.
-
-  Description: Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -107,15 +121,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ### Organization & Automation
-
-- Name: [BuildAI](https://www.genius.design/)
-
-  Title: Build AI Interfaces in Minutes.
-
-  Description: Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.
-
-  Offer Free Version: :grey\_question:
-
 
 - Name: [timeMaster](https://www.timemaster.ai/)
 
@@ -248,7 +253,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Dimensions - Rapidly Create Visual Concepts With AI.
 
-  Description: Imagine being able to create beautiful interior designs with ease – that's what Dimensions offers.
+  Description: Imagine being able to create beautiful interior designs with ease – thats what Dimensions offers.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -323,7 +328,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: AI-Powered Design Generation, Editing and Training.
 
-  Description: Accomplice's AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow.
+  Description: Accomplices AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -389,15 +394,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: .
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Article2Image](http://www.stockai.com)
-
-  Title: Free AI-Powered Stock Photos.
-
-  Description: Download AI-generated stock photos for free, with the click of a button. Use in any project without worry about attribution.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Astria.ai](http://www.astria.ai)
@@ -862,15 +858,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :x:
 
 
-- Name: [MagicPic](http://www.magicpic.ai)
-
-  Title: Magicpic - AI Profile Picture Generator.
-
-  Description: Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you.
-
-  Offer Free Version: :x:
-
-
 - Name: [PIXELVIBE](https://www.pixelvibe.com/)
 
   Title: AI Streamlined Creative Workflow.
@@ -936,7 +923,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Theoasis](http://theoasis.com)
 
-  Title: Oasis Â Never Worry How You Look on Camera Again.
+  Title: Oasis Never Worry How You Look on Camera Again.
 
   Description: Create a photorealistic avatar that you can use on every video platform.
 
@@ -1077,7 +1064,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Codeball](http://codeball.ai)
 
-  Title: Codeball Â AI Powered Code Review.
+  Title: Codeball AI Powered Code Review.
 
   Description: Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence.
 
@@ -1169,18 +1156,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: AI Assistant for Software Developers - Tabnine.
 
-  Description: Whether you're part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.
+  Description: Whether you are part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Tensai](http://airtable.com/shrhYf24UkDMr2gPl)
-
-  Title: Tensai - Conversational Ui for Your Codebase.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Text2SQL](http://www.text2sql.ai/)
@@ -1296,9 +1274,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Hypotenuse.ai](http://www.hypotenuse.ai)
 
-  Title: Let AI Write Your Content in Seconds. Without Writer\&Apos;S Block.
+  Title: Let AI Write Your Content in Seconds. Without WriterS Block.
 
-  Description: Provide a few keywords, and we'll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world.
+  Description: Provide a few keywords, and well instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -1515,7 +1493,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Descript](http://www.descript.com?lmref=xru03g)
 
-  Title: There\&Apos;S a New Way to Make Video and Podcasts. A Good Way.
+  Title: ThereS a New Way to Make Video and Podcasts. A Good Way.
 
   Description: Descript is the simple, powerful, and fun way to edit.
 
@@ -1602,7 +1580,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Replicate](http://replicate.com)
 
-  Title: Machine Learning Doesn\&Apos;T Need to Be So Hard.
+  Title: Machine Learning DoesnT Need to Be So Hard.
 
   Description: Run open-source models with a cloud API.
 
@@ -1841,7 +1819,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: The Future of AI-Generated Games.
 
-  Description: We're making AI a tool of creativity and freedom for everyone.
+  Description: Were making AI a tool of creativity and freedom for everyone.
 
   Offer Free Version: :grey\_question:
 
@@ -1985,7 +1963,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Meet the Team - Hirequotient.
 
-  Description: HireQuotient's Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time.
+  Description: HireQuotients Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time.
 
   Offer Free Version: :grey\_question:
 
@@ -2118,9 +2096,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Krisp](http://krisp.ai)
 
-  Title: World\&Apos;S #1 Noise Cancelling App - Krisp.
+  Title: WorldS #1 Noise Cancelling App - Krisp.
 
-  Description: Krisp's AI removes background voices, noises and echo from all your calls, giving you peace of mind.
+  Description: Krisps AI removes background voices, noises and echo from all your calls, giving you peace of mind.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2141,6 +2119,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Replica](http://replicastudios.com)
+
+  Title: Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica.
+
+  Description: Try today with 30 minutes of free voice credit.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Riffusion](http://www.riffusion.com)
@@ -2324,7 +2311,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: AI Tool That Can Turn Annoying Fake.Png Into True, Unfake.Png.
 
-  Description: Don't you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears?.
+  Description: Dont you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears?.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2450,7 +2437,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Write Better Marketing Copy and Content With AI.
 
-  Description: Say goodbye' to the blank page for good.
+  Description: Say goodbye to the blank page for good.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2561,7 +2548,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: AI-Powered Search Engine.
 
-  Description: StockGPT is an AI-powered search engine that was trained on all of Tesla's quarterly earnings call transcripts dating back to Q2 2011.
+  Description: StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2780,7 +2767,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Tability - Get Your Goals Out of Spreadsheets.
 
-  Description: The easiest way to keep track of your OKRs and team goals. Align your team around outcomes â without feeling like a chore.
+  Description: The easiest way to keep track of your OKRs and team goals. Align your team around outcomes without feeling like a chore.
 
   Offer Free Version: :grey\_question:
 
@@ -2798,7 +2785,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Hello History - Chat With AI Generated Historical Figures.
 
-  Description: With the help of modern AI & machine learning weâve brought historical figures back to life. Now is your chance to ask the questions youâve always wanted to ask.
+  Description: With the help of modern AI & machine learning we have brought historical figures back to life. Now is your chance to ask the questions you have always wanted to ask.
 
   Offer Free Version: :grey\_question:
 
@@ -2947,20 +2934,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Talk to AI Human](http://www.talktoaihuman.com)
-
-  Title: Talk to AI Human.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Upword](http://www.upword.ai)
 
   Title: Read Your10X Articles, News Reports, Blogs, Newsletters, Articles Faster With AI.
 
-  Description: Capture key ideas from content with Upword's AI. Create online summary docs. Grow your knowledge.
+  Description: Capture key ideas from content with Upwords AI. Create online summary docs. Grow your knowledge.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3035,7 +3013,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Go From Text to Speech With a Versatile AI Voice Generator.
 
-  Description: AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murf's lifelike AI voices for podcasts, videos, and all your professional presentations.
+  Description: AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3053,7 +3031,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Your Complete Generative Voice AI Toolkit.
 
-  Description: Resemble's AI voice generator lets you create human–like voice overs in seconds.
+  Description: Resembles AI voice generator lets you create human–like voice overs in seconds.
 
   Offer Free Version: :x:
 
@@ -3072,15 +3050,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: The #1 Text to Speech Reader.
 
   Description: Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Unreal Speech](http://unrealspeech.up.railway.app)
-
-  Title: Ultra Realistic Text-to-Speech Api.
-
-  Description: More natural-sounding and up to 4x cheaper than Amazon, Google and Microsoft.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3142,6 +3111,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Papercup](http://www.papercup.com)
+
+  Title: Papercup - AI Dubbing and Video Translation Software.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Rephrasely](http://rephrasely.com?via=beth0)
 
   Title: The Free Rephrase Generator for All Languages!.
@@ -3189,6 +3167,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ### Video
+
+- Name: [BRIA](http://commercial.bria.ai/)
+
+  Title: Create Images and Video at Scale - Bria.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
 
 - Name: [D-ID's Creative Reality Studio](https://www.d-id.com/)
 
@@ -3244,6 +3231,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Simplified](http://simplified.com)
+
+  Title: Simplified: An Easy to Use All-in-One App for Modern Marketing Teams.
+
+  Description: Design, Write, Edit videos, and Publish Content. Built For Teams.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Story Bard](http://www.storybard.co)
 
   Title: Video Stories Generated by AI.
@@ -3253,11 +3249,47 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Summarize Tech](http://www.summarize.tech)
+
+  Title: Summarize.Tech: AI-Powered Video Summaries.
+
+  Description: Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Supercreator AI](http://www.supercreator.ai)
 
-  Title: Supercreator.Ai Â¢ Create Videos 10X Faster With AI.
+  Title: Supercreator.Ai - Create Videos 10X Faster With AI.
 
   Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [ToWords](http://www.towords.io)
+
+  Title: Towords: YouTube to Words.
+
+  Description: Make your videos and audio come alive with written words.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Typestudio](http://www.typestudio.co)
+
+  Title: Type Studio - Edit Your Video by Editing Text.
+
+  Description: Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Vidyo](http://vidyo.ai)
+
+  Title: AI Based Content Repurposing - Vidyo.Ai.
+
+  Description: Create social ready short clips from your videos with AI ✨ Save 90% time and effort.
 
   Offer Free Version: :grey\_question:
 
@@ -3452,7 +3484,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Car Diagnosis AI.
 
-  Description: Get real-time diagnostics and insights into your car's performance with our cutting-edge tool.
+  Description: Get real-time diagnostics and insights into your cars performance with our cutting-edge tool.
 
   Offer Free Version: :grey\_question:
 
@@ -3463,7 +3495,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Description: .
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [AI Image Upscaler](http://www.upscale.media)
@@ -3578,7 +3610,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Check Your Mic for Free.
 
-  Description: Get advice on how to improve your microphone setup. We'll make sure you sound podcast-ready.
+  Description: Get advice on how to improve your microphone setup. Well make sure you sound podcast-ready.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3685,15 +3717,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - Name: [Athena](http://www.apac.ai)
 
   Title: Apac AI Account Portal.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [BRIA](http://commercial.bria.ai/)
-
-  Title: Create Images and Video at Scale - Bria.
 
   Description: .
 
@@ -4046,7 +4069,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Inworld AI – Create AI Characters and Ask Them Anything.
 
-  Description: Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. It's easy, free, and full of possibilities.
+  Description: Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. Its easy, free, and full of possibilities.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -4258,15 +4281,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :x:
 
 
-- Name: [Papercup](http://www.papercup.com)
-
-  Title: Papercup - AI Dubbing and Video Translation Software.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Patience](http://patience.ai)
 
   Title: Patience - AI Art With Stable Diffusion.
@@ -4314,7 +4328,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Phraser](http://phraser.tech)
 
-  Title: Phraser Â the Collaborative Creative AI Tool.
+  Title: Phraser - the Collaborative Creative AI Tool.
 
   Description: Phraser is an app that helps you create images using generative AI (Midjourney, Stable Diffusion, and DALLE 2), collaborate, and get inspired.
 
@@ -4474,15 +4488,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Replica](http://replicastudios.com)
-
-  Title: Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica.
-
-  Description: Try today with 30 minutes of free voice credit.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [RestorePhotos.io](https://www.restorephotos.io/)
 
   Title: Restoring Old Photos Using AI for Everyone.
@@ -4496,7 +4501,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Wonsulting - We Find Dream Jobs.
 
-  Description: Weâve helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days.
+  Description: we have helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days.
 
   Offer Free Version: :grey\_question:
 
@@ -4591,15 +4596,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Simplified](http://simplified.com)
-
-  Title: Simplified: An Easy to Use All-in-One App for Modern Marketing Teams.
-
-  Description: Design, Write, Edit videos, and Publish Content. Built For Teams.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Sitekick](http://www.sitekick.ai)
 
   Title: AI Landing Page Builder.
@@ -4631,7 +4627,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Empowering the World to Create Music - Soundful.
 
-  Description: Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you won't believe it was made with AI.
+  Description: Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you wont believe it was made with AI.
 
   Offer Free Version: :grey\_question:
 
@@ -4647,7 +4643,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Steve AI](http://www.steve.ai)
 
-  Title: Steve.Ai - WorldâS Fastest Way to Create Videos.
+  Title: Steve.Ai - Worlds Fastest Way to Create Videos.
 
   Description: With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video.
 
@@ -4695,15 +4691,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: AI-Generated Podcast Summaries - Sumly.Ai.
 
   Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Summarize Tech](http://www.summarize.tech)
-
-  Title: Summarize.Tech: AI-Powered Video Summaries.
-
-  Description: Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.
 
   Offer Free Version: :grey\_question:
 
@@ -4807,15 +4794,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [ToWords](http://www.towords.io)
-
-  Title: Towords: YouTube to Words.
-
-  Description: Make your videos and audio come alive with written words.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Tunes For Tales](http://tunesfortales.fun)
 
   Title: Tunes for Tales.
@@ -4830,15 +4808,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Get Inspired to Tweet • Tweetai.Com.
 
   Description: Tweet AI.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Typestudio](http://www.typestudio.co)
-
-  Title: Type Studio Â Edit Your Video by Editing Text.
-
-  Description: Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews.
 
   Offer Free Version: :grey\_question:
 
@@ -4863,9 +4832,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Userevaluation](http://www.userevaluation.com)
 
-  Title: User Evaluation Â the Customer Understanding Platform.
+  Title: User Evaluation - the Customer Understanding Platform.
 
-  Description: Whether you're focused on UI, UX Research, Design, or CX â User Evaluation's AI can answer all your questions.
+  Description: Whether you're focused on UI, UX Research, Design, or CX User Evaluation's AI can answer all your questions.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -4895,15 +4864,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Versational maximizes the value said in every conversation. Get AI conversation results for free. Versational transcribes, summarizes, automates data entry, extracts takeaways, lets you share clips, and shows ways to improve your conversations.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Vidyo](http://vidyo.ai)
-
-  Title: AI Based Content Repurposing - Vidyo.Ai.
-
-  Description: Create social ready short clips from your videos with AI ✨ Save 90% time and effort.
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Voice AI](http://voice.ai)
@@ -4940,15 +4900,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Get rid of the watermarks from your images using our powerful AI technology.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [What Cake to Bake?](http://www.whatcaketobake.com)
-
-  Title: What Cake to Bake?.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [What on earth?](http://www.whatonearth.xyz)
@@ -4991,7 +4942,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Writer - AI Writing Platform for Teams.
 
-  Description: World-class companies use Writer's AI writing platform to unlock on-brand content at scale.
+  Description: World-class companies use Writers AI writing platform to unlock on-brand content at scale.
 
   Offer Free Version: :grey\_question:
 
@@ -5086,7 +5037,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Merlin.
 
-  Description: Free Open AI's ChatGPT powered extension to use anywhere!.
+  Description: Free Open AIs ChatGPT powered extension to use anywhere!.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -5122,7 +5073,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Pitchgrade.
 
-  Description: A pitch deck is a presentation that a company uses to pitch to investors. It goes over the company's business model, financial projections, and other key metrics that investors would want to see.
+  Description: A pitch deck is a presentation that a company uses to pitch to investors. It goes over the companys business model, financial projections, and other key metrics that investors would want to see.
 
   Offer Free Version: :grey\_question:
 
@@ -5236,15 +5187,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Dreamup.
 
   Description: The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Dreamspace.art](http://dreamspace.art)
-
-  Title: Dreamspace.
-
-  Description: The prompt diagramming tool.
 
   Offer Free Version: :grey\_question:
 
@@ -5772,7 +5714,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Palette - Colorize Photos.
 
-  Description: A new AI colorizer. Colorize anything from old black and white photos ð¸, style your artworks ð¨, or give modern images a fresh look ð¶. It's as simple as instagram.
+  Description: A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -6046,6 +5988,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Music & Audio Generation
 
+- Name: [Coqui](http://coqui.ai)
+
+  Title: Coqui.
+
+  Description: Direct emotive, generative AI voices for video games, post-production, dubbing and much more….
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Quasi Music](https://quasi.market/radio/)
 
   Title: Create Brand-New Beats.
@@ -6108,7 +6059,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Digital Dogs](http://digitaldogs.ai)
 
-  Title: The Digital Dogsâ¢.
+  Title: The Digital Dogs.
 
   Description: Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more.
 
@@ -6517,15 +6468,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Coqui](http://coqui.ai)
-
-  Title: Coqui.
-
-  Description: Direct emotive, generative AI voices for video games, post-production, dubbing and much more….
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Coverquick](http://www.coverquick.co)
 
   Title: Coverquick.
@@ -6649,7 +6591,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Description: .
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Everypixel](http://www.everypixel.com)
@@ -6692,7 +6634,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Glasp: Social Web Highlighter.
 
-  Description: Highlight & add notes as you read.Create a library of your learning â¤ï¸.
+  Description: Highlight & add notes as you read.Create a library of your learning.
 
   Offer Free Version: :grey\_question:
 
@@ -6771,7 +6713,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Letsenhance](http://letsenhance.io)
 
-  Title: LetâS Enhance - Image Quality Online App & Free Photo Enlarger.
+  Title: LetS Enhance - Image Quality Online App & Free Photo Enlarger.
 
   Description: AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear.
 
@@ -7034,7 +6976,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Petpic.Ai.
 
-  Description: Your favorite animal can now be anything, anywhere, even anyone. Just upload some pics and let AI do its creative magic ð«.
+  Description: Your favorite animal can now be anything, anywhere, even anyone. Just upload some pics and let AI do its creative magic.
 
   Offer Free Version: :grey\_question:
 
@@ -7133,7 +7075,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Scale Knowledge.
 
-  Description: Question Base is a new kind of knowledge base. Powered by AI it answers your teamâs questions inside Slack. Automatically.
+  Description: Question Base is a new kind of knowledge base. Powered by AI it answers your teams questions inside Slack. Automatically.
 
   Offer Free Version: :grey\_question:
 
@@ -7282,15 +7224,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Stable Diffusion Prompt Generator](http://www.thomas.io)
-
-  Title: Thomas.Io.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Stabledojo](http://www.stabledojo.com)
 
   Title: Stabledojo.
@@ -7413,15 +7346,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: This Campsite Does Not Exist.
 
   Description: AI generated campsites featuring stunning locations, tents, and weather all created by AI using stable diffusion.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Thispersondoesnotexist](http://thispersondoesnotexist.com)
-
-  Title: This Person Does Not Exist.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -7575,15 +7499,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Waifu Labs - Magical Anime Portraits.
 
   Description: A state-of-the-art AI that draws custom anime portraits, just for you! This machine learning artist figures out your preferences and creates a perfect character illustration in 4 easy steps. If it sounds like magic, that's because it is!.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [WardrobeAI](http://wardrobeai.com)
-
-  Title: Wardrobeai.
-
-  Description: Our service uses AI to automatically change hairstyles and clothes in your images, giving you endless possibilities for customization.
 
   Offer Free Version: :grey\_question:
 
