@@ -12,6 +12,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-sgtl5000 (⭐1)](https://github.com/rdagger/micropython-sgtl5000) - Library for SGTL5000 Low Power Stereo Codec w/ Headphone Amp.
 
+### Sensors / Temperature Digital
+
+*   [micropython-zacwire (⭐0)](https://github.com/mdaeron/micropython-zacwire) - MicroPython driver for the ZACwire protocol used in TSic 506F temperature sensors.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Tutorials / SRAM

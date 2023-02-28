@@ -50,6 +50,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
     *   [Buttons](#buttons)
     *   [Collapse](#collapse)
     *   [Chart](#chart)
+    *   [Command palette](#command-palette)
     *   [Tree](#tree)
     *   [UI Navigation](#ui-navigation)
     *   [Custom Scrollbar](#custom-scrollbar)
@@ -178,10 +179,8 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 *Display overlay / modal / alert / dialog / lightbox / popup*
 
-*   [reboron (⭐29)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 *   [react-aria-modal (⭐989)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 *   [react-modal (⭐7.2k)](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
-*   [react-skylight (⭐572)](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
 *   [reoverlay (⭐123)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 *   [sweetalert2 (⭐16k)](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 *   [sweetalert2-react-content (⭐581)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
@@ -190,7 +189,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
-*   [cogo-toast (⭐675)](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, \~3.5K. *(No refs / provider needed)*
 *   [react-notifications-component (⭐1.2k)](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 *   [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1\&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 *   [react-local-toast (⭐119)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
@@ -218,7 +216,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *Fixed headers / scroll-up headers / sticky elements*
 
 *   [react-headroom (⭐1.8k)](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
-*   [react-sticky (⭐2.6k)](https://github.com/captivationsoftware/react-sticky) - \<Sticky /> component for awesome React apps.
 *   [react-stickynode (⭐1.1k)](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky.
 
 ### Tabs
@@ -231,7 +228,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
 *   [react-loader-spinner (⭐729)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
-*   [react-block-ui (⭐295)](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 *   [react-redux-loading-bar (⭐923)](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 *   [react-spinners-css (⭐309)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 *   [react-spinners (⭐2.5k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
@@ -247,7 +243,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [react-responsive-carousel (⭐2.4k)](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 *   [react-slick (⭐11k)](https://github.com/akiran/react-slick) - React carousel component.
 *   [keen-slider (⭐3.8k)](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
-*   [react-image-magnify (⭐554)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
 *   [swiper (⭐34k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ### Buttons
@@ -288,6 +283,10 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [react-muze (⭐15)](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 *   [Flowchart React (⭐21)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 *   [react-dashboard (⭐1.5k)](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+
+### Command palette
+
+*   [kbar (⭐3.8k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ### Tree
 
@@ -644,7 +643,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [react-track (⭐341)](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
 *   [react-transitive-number (⭐209)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 *   [react-web-animation (⭐294)](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
-*   [velocity-react (⭐3k)](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
 *   [auto-size-transition (⭐8)](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
 *   [react-particles-bg (⭐565)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 *   [gooey-react (⭐578)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
@@ -772,15 +770,12 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 #### Mouse Events
 
-*   [react-aim (⭐365)](https://github.com/gabrielbull/react-aim) - Determine the cursor aim for triggering mouse events.
 *   [react-hook-mighty-mouse (⭐105)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ### Meta Tags
 
 *Set meta tags, <title>, children of <head>*
 
-*   [react-document-meta (⭐320)](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
-*   [react-document-title (⭐1.9k)](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
 *   [react-helmet-async (⭐1.7k)](https://github.com/staylor/react-helmet-async#readme) - Thread-safe Helmet for React 16+ and friends
 *   [react-helmet (⭐17k)](https://github.com/nfl/react-helmet) - A document head manager for React.
 
@@ -795,7 +790,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 *A/B tests, experiments, ...*
 
-*   [react-ab (⭐432)](https://github.com/olahol/react-ab) - Simple declarative and universal A/B testing component for React.
 *   [react-experiments (⭐314)](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 ## Code Design
@@ -808,27 +802,18 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 *Data flow / data management / data stores / components state / data flow*
 
-*   [alt (⭐3.4k)](https://github.com/goatslacker/alt) - Isomorphic flux implementation.
 *   [baobab-react (⭐309)](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 *   [cerebral (⭐2k)](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
 *   [effector-react (⭐4.1k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
-*   [fluorine-lib (⭐285)](https://github.com/philpl/fluorine) - Reactive state and side effect management for React using a single stream of actions.
 *   [fluxible (⭐1.8k)](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
-*   [fluxxor (⭐1.7k)](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
 *   [kea (⭐1.9k)](https://github.com/mariusandra/kea) - High level architecture for React apps.
-*   [mobx-react (⭐4.9k)](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
 *   [react-3ducks (⭐6)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
-*   [react-controllables (⭐255)](https://github.com/matthewwithanm/react-controllables) - Easily create controllable components.
 *   [react-i13n (⭐373)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
-*   [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 *   [react-redux (⭐23k)](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 *   [redux-batched-actions (⭐1k)](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
-*   [redux-batched-subscribe (⭐499)](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
 *   [redux (⭐59k)](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
-*   [reflux (⭐5.4k)](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
 *   [reselect (⭐19k)](https://github.com/reactjs/reselect) - Selector library for Redux.
 *   [resourcerer (⭐76)](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
-*   [shasta (⭐517)](https://github.com/shastajs/shasta) - Dead simple + opinionated toolkit for building redux/react applications.
 *   [synergies (⭐8)](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
 *   [zustand](https://zustand.surge.sh/) - [docs (⭐28k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
 *   [teaful (⭐678)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
@@ -839,7 +824,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 *   [formsy-react (⭐760)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 *   [Phormal (⭐1)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
-*   [plexus-form (⭐133)](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 *   [react-hook-form (⭐33k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 *   [react-jsonschema-form (⭐12k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 *   [react-client-validation (⭐4)](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
@@ -850,12 +834,10 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 ### Router
 
-*   [react-breadcrumbs (⭐409)](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
 *   [react-router-component (⭐871)](https://github.com/STRML/react-router-component) - Declarative router component for React.
 *   [react-router-scroll (⭐845)](https://github.com/taion/react-router-scroll) - React Router scroll management.
 *   [react-router (⭐50k)](https://github.com/reactjs/react-router) - A complete routing library for React.
 *   [redux-first-history (⭐377)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
-*   [redux-router (⭐2.3k)](https://github.com/acdlite/redux-router) - Redux bindings for React Router – keep your router state inside your Redux store.
 *   [universal-router (⭐1.6k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
 *   [wouter (⭐4.9k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
 
@@ -863,18 +845,12 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 *Component properties asynchronously fetched over the network*
 
-*   [react-async (⭐448)](https://github.com/andreypopp/react-async) - Asynchronously fetch data for React components.
 *   [react-refetch (⭐3.4k)](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
-*   [react-resolver (⭐1.7k)](https://github.com/ericclemmons/react-resolver) - Async rendering & data-fetching for universal React applications.
-*   [react-router-relay (⭐559)](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
-*   [redial (⭐1.1k)](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
-*   [redux-async-connect (⭐649)](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
 *   [redux-connect (⭐549)](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 *   [axios-react (⭐40)](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Communication with server
 
-*   [adrenaline (⭐719)](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 *   [apollo-client (⭐18k)](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
 *   [react-relay (⭐18k)](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 *   [query (⭐33k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
@@ -884,10 +860,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [aesthetic (⭐198)](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 *   [aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite) - It's inline styles, but they work!.
 *   [inline-style-prefixer (⭐387)](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
-*   [paperclip](https://paperclip.dev) - [docs](https://paperclip.dev/docs/) - Build UI primitivites with plain HTML & CSS.
-*   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 *   [react-container-query (⭐869)](https://github.com/d6u/react-container-query) - Modular responsive component.
-*   [react-css-modules (⭐5.2k)](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 *   [react-responsive (⭐6.6k)](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 *   [reactponsive (⭐12)](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 *   [styled-components (⭐38k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
@@ -895,13 +868,11 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 ### HTML Template
 
-*   [hyperx (⭐994)](https://github.com/substack/hyperx) - Tagged template string virtual dom builder.
 *   [jsx-control-statements (⭐1.6k)](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX.
 
 ### Isomorphic Apps
 
 *   [hypernova (⭐5.8k)](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
-*   [isomorphic-relay (⭐244)](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
 *   [isomorphic-style-loader (⭐1.3k)](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
 *   [react-server (⭐3.9k)](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load.
 *   [rill (⭐610)](https://github.com/rill-js/rill) - Universal web application framework.
@@ -915,13 +886,10 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [crisp-react (⭐163)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 *   [cra-template-redux-auth-starter (⭐34)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 *   [electron-react-boilerplate (⭐21k)](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
-*   [essential-react (⭐2k)](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
-*   [generator-react-webpack (⭐2.9k)](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack.
 *   [generator-starhackit (⭐1.3k)](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 *   [nwb (⭐5.5k)](https://github.com/insin/nwb) - CLI tool and devDependency for React apps & components and npm modules.
 *   [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
 *   [PBandJ (⭐43)](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
-*   [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 *   [react-hot-boilerplate (⭐3.9k)](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
 *   [rockpack (⭐492)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 *   [create-react-dependency (⭐25)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
@@ -935,7 +903,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [redux-auth-patch (⭐2.1k)](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 *   [redux-search (⭐1.4k)](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 *   [tcomb-react (⭐200)](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
-*   [react-find](https://github.com/geobde/react-find) - Elegant, accessible search component for React.
 *   [react-universal-hooks (⭐178)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
 ## Utilities

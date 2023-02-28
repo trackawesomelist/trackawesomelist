@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Feb 28, 2023](/content/2023/02/28/README.md)
+
+### Frameworks
+
+*   [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
+
 ## [Feb 24, 2023](/content/2023/02/24/README.md)
 
 ### Code Analysis

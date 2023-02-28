@@ -2,7 +2,7 @@
 
 A curated list of podcasts we like to listen to. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 457 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 462 · 🏷️ Entertainment
 
 [ [Daily](/content/ayr-ton/awesome-geek-podcasts/README.md) / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / Overview ]
 
@@ -245,6 +245,7 @@ A curated list of podcasts we like to listen to.
 *   [Watch Out for Fireballs!](https://www.watchoutforfireballs.com/) - A game club podcast, focused on retro and non-current games.
 *   [Why Are Computers](https://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 *   [WIRED's Webmonkey Podcast](https://www.wired.com/series/webmonkey/) - Glance behind the scenes of WIRED.com with the tech team.
+*   [Women in Analytics After Hours](https://www.womeninanalytics.com/podcast) - Connects with women in all areas of data and analytics to talk about what they do in the space, how they got there, and more.
 
 ## In Portuguese
 

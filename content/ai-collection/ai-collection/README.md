@@ -6,6 +6,32 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Feb 28, 2023](/content/2023/02/28/README.md)
+
+### Education & Learning
+
+- Name: [teachology.ai](https://www.teachology.ai/)
+
+  Title: A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning.
+
+  Description: Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Video
+
+- Name: [Eightify](https://eightify.app/)
+
+  Title: Get 8 key ideas from YouTube videos
+
+  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 
 ### Organization & Automation
@@ -1767,7 +1793,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: The Future of AI-Generated Games.
 
-  Description: Were making AI a tool of creativity and freedom for everyone.
+  Description: We are making AI a tool of creativity and freedom for everyone.
 
   Offer Free Version: :grey\_question:
 
@@ -4951,7 +4977,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Krisp](http://krisp.ai)
 
-  Title: WorldS #1 Noise Cancelling App - Krisp.
+  Title: Worlds #1 Noise Cancelling App - Krisp.
 
   Description: Krisps AI removes background voices, noises and echo from all your calls, giving you peace of mind.
 
