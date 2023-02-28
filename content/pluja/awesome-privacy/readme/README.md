@@ -123,6 +123,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
 *   [ente Auth](https://ente.io/auth) - A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of [ente Photos](https://ente.io), and uses the same battle tested infrastructure. Needs an ente.io account.
+*   [Owky (⭐10)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐462)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
 *   [RaivoOTP](https://github.com/raivo-otp/) - A native, lightweight and secure one-time-password (OTP) solution for **iOS** users.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐1.1k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
@@ -698,7 +699,7 @@ With email aliases, you can finally create a different identity for each website
 **Youtube Music alternative clients**
 
 *   [Beatbump (⭐614)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
-*   [ViMusic (⭐3.3k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐3.5k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 **Deezer alternative clients**
 
@@ -879,9 +880,10 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.
     *   [KeeWeb](https://keeweb.info/) for Web and other platforms.
-*   [Padloc](https://padloc.app/) - The last password manager you'll ever want to use.
-*   [Passky](https://passky.org) - Simple, modern, lightweight, open-source and secure password manager.
 *   [LessPass](https://www.lesspass.com) - Stateless password manager. Remember one master password to access your passwords. No sync needed.
+*   [Padloc](https://padloc.app/) - The last password manager you'll ever want to use.
+*   [Passbolt](https://www.passbolt.com) - An open source password manager designed for team collaboration.
+*   [Passky](https://passky.org) - Simple, modern, lightweight, open-source and secure password manager.
 
 ## Pastebin and Secret Sharing
 
@@ -1123,7 +1125,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **YouTube alternative frontends (web-based):**
 
-*   [Invidious (⭐9.4k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
+*   [Invidious (⭐9.5k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
 *   [Piped (⭐4k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
     *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.5k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 *   [ViewTube (⭐656)](https://github.com/viewtube/viewtube-vue) - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js

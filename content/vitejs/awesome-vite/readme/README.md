@@ -125,6 +125,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-vue-h5-app (⭐4)](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
 *   [vulcan (⭐6)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 *   [vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData (⭐1)](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
+*   [vite-plugin-vue-sfc-in-js (⭐11)](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
 
 #### Vue 2
 
@@ -144,7 +145,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-template-react (⭐41)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 *   [vitejs-template-react-rescript (⭐84)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
 *   [template-vite-react (⭐91)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
-*   [reactjs-vite-tailwindcss-boilerplate (⭐189)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+*   [reactjs-vite-tailwindcss-boilerplate (⭐189)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 *   [Tropical (⭐110)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 *   [vite-plugin-react-refresh (⭐30)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
 *   [vite-reactts18-chakra-jest-husky (⭐37)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
@@ -215,6 +216,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [Vitron (⭐4)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
 *   [Vutron (⭐58)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 *   [vite-electron-plugin (⭐37)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
+*   [vite-plugin-doubleshot (⭐34)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
 #### Elm
 
@@ -288,6 +290,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [Vite-plugin-graphiql (⭐3)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
 *   [vite-plugin-graphql-server (⭐3)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 *   [vite-plugin-multiple (⭐0)](https://github.com/vite-plugin/vite-plugin-multiple) - Allow multiple Vite to run simultaneously.
+*   [vite-plugin-target (⭐2)](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
 
 #### Loaders
 
@@ -303,6 +306,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-svgo (⭐5)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
 *   [vite-plugin-remark-rehype (⭐1)](https://github.com/y-nk/vite-plugin-remark-rehype) - Loads and transform markdown files using the unified ecosystem.
 *   [vite-plugin-gltf (⭐85)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
+*   [vite-plugin-importmap (⭐1)](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
 
 #### Bundling
 
@@ -472,6 +476,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Transformers
 
 *   ![v3] [vite-plugin-md-preview (⭐132)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
+*   ![v3] [vite-plugin-vue-preview (⭐1)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
 
 #### Helpers
 

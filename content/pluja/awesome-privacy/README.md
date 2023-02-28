@@ -6,6 +6,16 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Feb 28, 2023](/content/2023/02/28/README.md)
+
+### 2FA
+
+*   [Owky (⭐10)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
+
+### Password Managers
+
+*   [Passbolt](https://www.passbolt.com) - An open source password manager designed for team collaboration.
+
 ## [Feb 26, 2023](/content/2023/02/26/README.md)
 
 ### Self-Hosted
@@ -418,7 +428,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [ViMusic (⭐3.3k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐3.5k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 ## [Jul 28, 2022](/content/2022/07/28/README.md)
 
@@ -1022,7 +1032,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
     *   [SimpleerTube](https://simpleertube.metalune.xyz/) - A simple frontend for PeerTube with SepiaSearch [Source](https://git.sr.ht/~metalune/simpleweb_peertube).
 *   [Odysee](https://odysee.com/) - Odysee is a video platform backed by the creators of lbry and uses the lbry blockchain protocol.
 *   [DTube (⭐771)](https://github.com/dtube/dtube) - A full-featured video sharing website, decentralized.
-*   [Invidious (⭐9.4k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
+*   [Invidious (⭐9.5k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
 *   [ViewTube (⭐656)](https://github.com/viewtube/viewtube-vue) - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [NewPipe](https://newpipe.net/) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
     *   [NewPipe x Sponsorblock (⭐2.8k)](https://github.com/polymorphicshade/NewPipe) - NewPipe fork that incorporates Sponsorblock.

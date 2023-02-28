@@ -6,6 +6,28 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Feb 28, 2023](/content/2023/02/28/README.md)
+
+### Templates / Vue 3
+
+*   [vite-plugin-vue-sfc-in-js (⭐11)](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
+
+### Templates / Electron
+
+*   [vite-plugin-doubleshot (⭐34)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-target (⭐2)](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-importmap (⭐1)](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
+
+### Vue / Transformers
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-preview (⭐1)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
+
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 
 ### Templates / Vanilla
@@ -920,7 +942,7 @@
 
 ### Templates / React
 
-*   [reactjs-vite-tailwindcss-boilerplate (⭐189)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+*   [reactjs-vite-tailwindcss-boilerplate (⭐189)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 
 ## [Apr 02, 2022](/content/2022/04/02/README.md)
 
