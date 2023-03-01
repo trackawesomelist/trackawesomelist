@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Mar 01, 2023](/content/2023/03/01/README.md)
+
+### Android App Store
+
+*   [Obtainium (⭐903)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+
 ## [Feb 28, 2023](/content/2023/02/28/README.md)
 
 ### 2FA

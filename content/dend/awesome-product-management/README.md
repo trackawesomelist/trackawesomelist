@@ -2,9 +2,15 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 967 · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 980 · 🏷️ Learn
 
 [ Daily / [Weekly](/content/dend/awesome-product-management/week/README.md) / [Overview](/content/dend/awesome-product-management/readme/README.md) ]
+
+## [Mar 01, 2023](/content/2023/03/01/README.md)
+
+### Articles / Screeb
+
+*   [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
@@ -152,12 +158,6 @@
 ### Articles / Screeb
 
 *   [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
-
-## [Mar 15, 2020](/content/2020/03/15/README.md)
-
-### Articles / Screeb
-
-*   [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 
 ## [Jan 25, 2020](/content/2020/01/25/README.md)
 

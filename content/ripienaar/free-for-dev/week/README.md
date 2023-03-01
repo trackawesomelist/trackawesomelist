@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
+### PaaS
+
+*   [WunderGraph](https://cloud.wundergraph.com) - An open source platform that allows you to  quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
+
 ### Design and UI
 
 *   [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.

@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Mar 01, 2023](/content/2023/03/01/README.md)
+
+### Utilities / Mouse Events
+
+*   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-dependencies, customizable, animate-able, SVG-based `<qr-code>` element.
+
 ## [Feb 28, 2023](/content/2023/02/28/README.md)
 
 ### Command palette

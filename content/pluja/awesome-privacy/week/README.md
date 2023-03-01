@@ -12,6 +12,10 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Owky (⭐10)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
 
+### Android App Store
+
+*   [Obtainium (⭐903)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+
 ### Password Managers
 
 *   [Passbolt](https://www.passbolt.com) - An open source password manager designed for team collaboration.

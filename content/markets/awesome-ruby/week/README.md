@@ -6,6 +6,12 @@
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
+
+### Concurrency and Parallelism
+
+*   [Polyphony (⭐479)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
+
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
 ### Serverless
@@ -112,7 +118,7 @@
 
 ### Code Formatting
 
-*   [Standard (⭐2.1k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
+*   [Standard (⭐2.2k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -1142,8 +1148,7 @@
 ### Concurrency and Parallelism
 
 *   [forkoff (⭐72)](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
-*   [Parallel (⭐4k)](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
-    Best suited for map-reduce or e.g. parallel downloads/uploads.
+*   [Parallel (⭐4k)](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations). Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ### Database Tools
 
@@ -1395,7 +1400,7 @@
 
 ### Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐983)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
+*   [Awesome NLP with Ruby (⭐986)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.2k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
 ## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)
@@ -2440,7 +2445,7 @@
 
 ### Database Tools
 
-*   [PgHero (⭐6.8k)](https://github.com/ankane/pghero) - Postgres insights made easy.
+*   [PgHero (⭐6.9k)](https://github.com/ankane/pghero) - Postgres insights made easy.
 
 ### Date and Time Processing
 

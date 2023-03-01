@@ -344,7 +344,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
     *   [Rubocop Rails (⭐676)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
     *   [Rubocop Rspec (⭐731)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
     *   [Rubocop Performance (⭐521)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
-*   [Standard (⭐2.1k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
+*   [Standard (⭐2.2k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
 
 ## Code Highlighting
 
@@ -371,8 +371,8 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 *   [Concurrent Ruby (⭐5.4k)](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 *   [EventMachine (⭐4.2k)](https://github.com/eventmachine/eventmachine) - An event-driven I/O and lightweight concurrency library for Ruby.
 *   [forkoff (⭐72)](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
-*   [Parallel (⭐4k)](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
-    Best suited for map-reduce or e.g. parallel downloads/uploads.
+*   [Parallel (⭐4k)](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations). Best suited for map-reduce or e.g. parallel downloads/uploads.
+*   [Polyphony (⭐479)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
 
 ## Configuration
 
@@ -476,7 +476,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 *   [Large Hadron Migrator (⭐1.8k)](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.
 *   [Lol DBA (⭐1.5k)](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
 *   [Polo (⭐723)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
-*   [PgHero (⭐6.8k)](https://github.com/ankane/pghero) - Postgres insights made easy.
+*   [PgHero (⭐6.9k)](https://github.com/ankane/pghero) - Postgres insights made easy.
 *   [Rails DB (⭐1.4k)](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
 *   [Rein (⭐671)](https://github.com/nullobject/rein) - Database constraints made easy for ActiveRecord.
 *   [Scenic (⭐3.1k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
@@ -873,7 +873,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐983)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
+*   [Awesome NLP with Ruby (⭐986)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
 *   [pocketsphinx-ruby (⭐254)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 *   [Pragmatic Segmenter (⭐509)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.

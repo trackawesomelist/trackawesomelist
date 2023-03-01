@@ -12,6 +12,10 @@ Curated List of React Components & Libraries.
 
 *   [kbar (⭐3.8k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
+### Utilities / Mouse Events
+
+*   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-dependencies, customizable, animate-able, SVG-based `<qr-code>` element.
+
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
 ### Boilerplate / Mouse Events

@@ -910,6 +910,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 **[`Back to top ⬆️`](#table-of-contents)**
 
 *   [qrcode.react (⭐3.3k)](https://github.com/zpao/qrcode.react) - A \<QRCode/> component for use with React.
+*   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-dependencies, customizable, animate-able, SVG-based `<qr-code>` element.
 *   [react-children-utilities (⭐276)](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
 *   [react-media (⭐2.5k)](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
 *   [react-middle-ellipsis (⭐50)](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
