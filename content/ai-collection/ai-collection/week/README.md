@@ -20,6 +20,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Gift Ideas
+
+- Name: [AI Poem Generator](https://aipoemgenerator.com/)
+
+  Title: AiPoemGenerator.Com - Generate Beautiful and Unique Poems Effortlessly.
+
+  Description: Create the perfect gift for every occasion: Birthday of a friend or family member, Weddings, Birth, etc. Just enter a few keywords/topics and let our robots do the rest. The more keywords you provide the more personal the generated poems become.
+
+  Offer Free Version: :x:
+
+
+
 ### Organization & Automation
 
 - Name: [BuildAI](https://www.buildai.space/)
@@ -32,13 +44,25 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Text
+
+- Name: [AI Poem Generator](https://www.aipoemgenerator.org)
+
+  Title: Free AI-powered Poem Generator.
+
+  Description: A free online poem maker that lets you generate beautiful rhyming poems on any subject with AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Video
 
 - Name: [Eightify](https://eightify.app/)
 
-  Title: Get 8 key ideas from YouTube videos
+  Title: Get 8 Key Ideas From YouTube Videos.
 
-  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages
+  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.
 
   Offer Free Version: :white\_check\_mark:
 

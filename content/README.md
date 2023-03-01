@@ -84,6 +84,32 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Obtainium (⭐903)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
 
+#### [12. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+##### Gift Ideas
+
+- Name: [AI Poem Generator](https://aipoemgenerator.com/)
+
+  Title: AiPoemGenerator.Com - Generate Beautiful and Unique Poems Effortlessly.
+
+  Description: Create the perfect gift for every occasion: Birthday of a friend or family member, Weddings, Birth, etc. Just enter a few keywords/topics and let our robots do the rest. The more keywords you provide the more personal the generated poems become.
+
+  Offer Free Version: :x:
+
+
+
+##### Text
+
+- Name: [AI Poem Generator](https://www.aipoemgenerator.org)
+
+  Title: Free AI-powered Poem Generator.
+
+  Description: A free online poem maker that lets you generate beautiful rhyming poems on any subject with AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### [Feb 28, 2023](/content/2023/02/28/README.md)
 
 
@@ -159,7 +185,56 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Setting up Prometheus Monitoring On a Kubernetes Cluster](https://spacelift.io/blog/prometheus-kubernetes) - Setting up Prometheus Monitoring On a Kubernetes Cluster by James Walker.
 
-#### [10. Ai Collection](/content/ai-collection/ai-collection/README.md)
+#### [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+
+##### OS Images
+
+*   [Mainsail OS (⭐326)](https://github.com/mainsail-crew/MainsailOS) - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
+
+#### [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+##### Command palette
+
+*   [kbar (⭐3.8k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
+
+#### [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Design and UI
+
+*   [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
+
+#### [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐186)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+
+#### [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Caching
+
+*   [zkat/cacache-rs (⭐211)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
+
+##### Libraries / Network programming
+
+*   gRPC
+    *   [hyperium/tonic (⭐6.8k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
+    *   [tikv/grpc-rs (⭐1.7k)](https://github.com/tikv/grpc-rs) — The gRPC library for Rust built on C Core library and futures [![Build Status](https://api.travis-ci.org/tikv/grpc-rs.svg?branch=master)](https://travis-ci.org/tikv/grpc-rs)
+
+#### [15. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+##### 2FA
+
+*   [Owky (⭐10)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
+
+##### Password Managers
+
+*   [Passbolt](https://www.passbolt.com) - An open source password manager designed for team collaboration.
+
+#### [16. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ##### Education & Learning
 
@@ -177,62 +252,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - Name: [Eightify](https://eightify.app/)
 
-  Title: Get 8 key ideas from YouTube videos
+  Title: Get 8 Key Ideas From YouTube Videos.
 
-  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages
+  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.
 
   Offer Free Version: :white\_check\_mark:
 
 
-
-#### [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
-
-##### OS Images
-
-*   [Mainsail OS (⭐326)](https://github.com/mainsail-crew/MainsailOS) - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
-
-#### [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-##### Command palette
-
-*   [kbar (⭐3.8k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
-
-#### [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Design and UI
-
-*   [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
-
-#### [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-##### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐186)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-
-#### [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Libraries / Caching
-
-*   [zkat/cacache-rs (⭐211)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
-
-##### Libraries / Network programming
-
-*   gRPC
-    *   [hyperium/tonic (⭐6.8k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
-    *   [tikv/grpc-rs (⭐1.7k)](https://github.com/tikv/grpc-rs) — The gRPC library for Rust built on C Core library and futures [![Build Status](https://api.travis-ci.org/tikv/grpc-rs.svg?branch=master)](https://travis-ci.org/tikv/grpc-rs)
-
-#### [16. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-##### 2FA
-
-*   [Owky (⭐10)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
-
-##### Password Managers
-
-*   [Passbolt](https://www.passbolt.com) - An open source password manager designed for team collaboration.
 
 ### [Feb 27, 2023](/content/2023/02/27/README.md)
 
@@ -362,33 +388,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vite-plugin-isomorphic-import (⭐1)](https://github.com/LyzSg/vite-plugin-isomorphic-import) -  Allows you to configure whether to import modules on the server-side or client-side.
 
-#### [15. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-##### Organization & Automation
-
-- Name: [BuildAI](https://www.buildai.space/)
-
-  Title: Build AI Interfaces in Minutes.
-
-  Description: Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.
-
-  Offer Free Version: :grey\_question:
-
-
-
-##### Other
-
-- Name: [Tweetsift](http://tweetsift.com)
-
-  Title: Tweetsift.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-
-#### [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Libraries
 
@@ -426,11 +426,37 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Data visualization
 
 *   [rerun (⭐1.4k)](https://github.com/rerun-io/rerun) — \[[rerun](https://crates.io/crates/rerun)] — An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time.
+
+#### [17. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+##### Organization & Automation
+
+- Name: [BuildAI](https://www.buildai.space/)
+
+  Title: Build AI Interfaces in Minutes.
+
+  Description: Enter the description of an app that outputs text based on user text input, and we will BUILD IT FOR YOU!.
+
+  Offer Free Version: :grey\_question:
+
+
+
+##### Other
+
+- Name: [Tweetsift](http://tweetsift.com)
+
+  Title: Tweetsift.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
 
 ---
 
@@ -468,10 +494,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 28. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 263K 📝 01&#x2F;15 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 29. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 50K 📝 01&#x2F;31 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 30. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 2.8K 📝 02&#x2F;27 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
-31. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 3.9K 📝 02&#x2F;23 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
-32. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 2.7K 📝 02&#x2F;27 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
-33. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 5.5K 📝 02&#x2F;19 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
-34. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 2.2K 📝 02&#x2F;28 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+31. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 2.2K 📝 03&#x2F;01 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+32. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 3.9K 📝 02&#x2F;23 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
+33. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 2.7K 📝 02&#x2F;27 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
+34. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 5.5K 📝 02&#x2F;19 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
 35. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 4.1K 📝 02&#x2F;21 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 36. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.2K 📝 02&#x2F;23 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
 37. [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 3.6K 📝 02&#x2F;22 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -669,7 +695,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Shell](/content/alebcay/awesome-shell/README.md) - ([Source ⭐ 26K, 📝 22&#x2F;12&#x2F;30 ](https://github.com/alebcay/awesome-shell)) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome Ssh](/content/moul/awesome-ssh/README.md) - ([Source ⭐ 2K, 📝 21&#x2F;09&#x2F;14 ](https://github.com/moul/awesome-ssh)) - :computer: A curated list of SSH resources.
 - [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 16K, 📝 02&#x2F;04 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
-- [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 5.4K, 📝 01&#x2F;08 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
+- [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 5.6K, 📝 01&#x2F;08 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 - [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source ⭐ 4.2K, 📝 22&#x2F;11&#x2F;21 ](https://github.com/sirredbeard/Awesome-WSL)) - Awesome list dedicated to Windows Subsystem for Linux
 - [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 12K, 📝 03&#x2F;01 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [awsm.fish](/content/jorgebucaran/awsm.fish/README.md) - ([Source ⭐ 3.2K, 📝 22&#x2F;12&#x2F;21 ](https://github.com/jorgebucaran/awsm.fish)) - A curation of prompts, plugins & other resources for Fish. 🐚
@@ -870,7 +896,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Miscellaneous
 
-- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 2.2K, 📝 02&#x2F;28 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 2.2K, 📝 03&#x2F;01 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 2.3K, 📝 01&#x2F;30 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 3.6K, 📝 02&#x2F;22 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Amas](/content/sindresorhus/amas/README.md) - ([Source ⭐ 1.4K, 📝 22&#x2F;10&#x2F;27 ](https://github.com/sindresorhus/amas)) - Awesome & Marvelous Amas

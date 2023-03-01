@@ -30,7 +30,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=827" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=830" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=35" />
@@ -128,7 +128,7 @@ Translations:
 | [lumalabs](https://captures.lumalabs.ai/imagine) | Imagine 3D V1.2 (Alpha).                           | An early experiment to prototype and create 3D with text Access to generation is gradually expanding to everyone on the waitlist. | :white\_check\_mark: |
 | [plask](https://plask.ai/)                       | AI-Powered Mocap Animation Tool.                   | Easily extract motion from video without expensive bodysuits or motions work.                                                     | :white\_check\_mark: |
 
-<!--End of Animation & 3D Modeling-->
+<!--End of Animation & 3D Modeling 33-->
 
 <!--lint ignore double-link-->
 
@@ -146,7 +146,7 @@ Translations:
 | [Interior AI](http://interiorai.com)        | Interior Ai: Interior Design Ideas Inspiration, and Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white\_check\_mark: |
 | [Makeit.ai](http://www.maket.ai)            | Generative Design - Architecture Design Software - Maket.                                             | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.       |   :grey\_question:   |
 
-<!--End of Architecture & Interior Design-->
+<!--End of Architecture & Interior Design 1-->
 
 <!--lint ignore double-link-->
 
@@ -246,7 +246,7 @@ Translations:
 | [artssy](https://www.artssy.co/)                                                     | Create Unique AI Generated Images in 1-Click.                                                                | With Artssy AI, your creativity can flow. Create unlimited images in 1 click and discover a world of possibilities!.                                                                                                                                                                 |          :x:         |
 | [flair](http://flair.ai/)                                                            | The AI Design Tool for Branded Content.                                                                      | .                                                                                                                                                                                                                                                                                    | :white\_check\_mark: |
 
-<!--End of Art & Image Generator-->
+<!--End of Art & Image Generator 15-->
 
 <!--lint ignore double-link-->
 
@@ -287,7 +287,7 @@ Translations:
 | [Tryitonai](http://www.tryitonai.com)                   | Stunning Professional Headshots & Portraits - Try It on AI.   | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos.                                                                                                                                                          |   :grey\_question:   |
 | [xpression camera 2.0](http://xpressioncamera.com)      | Xpression Camera.                                             | Become anyone on Zoom, Twitch, or any streaming video.                                                                                                                                                                                                                                 |   :grey\_question:   |
 
-<!--End of Avatars-->
+<!--End of Avatars 2-->
 
 <!--lint ignore double-link-->
 
@@ -309,7 +309,7 @@ Translations:
 | [NOLU](http://noluai.com)               | Interacting With AI Should Be Simple.                           | Meet NOLU. A simple interface for interacting with the Open AI GPT-3 engine.                                                                                                       | :white\_check\_mark: |
 | [Vacay](https://usevacay.com/chatbot)   | Vacation Chat Agent.                                            | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions.                 | :white\_check\_mark: |
 
-<!--End of Chat Bot-->
+<!--End of Chat Bot 3-->
 
 <!--lint ignore double-link-->
 
@@ -345,7 +345,7 @@ Translations:
 | [Whatthediff](http://whatthediff.ai)                               | What-the-Diff – AI-Powered Code Review Assistant.                                          | The AI powered GitHub app that explains the changes within your pull requests in plain english.                                                                                          |   :grey\_question:   |
 | [aidev.codes](https://aidev.codes/)                                | AI Dev Codes for You.                                                                      | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering.                                                                                      | :white\_check\_mark: |
 
-<!--End of Code & Database Assistant-->
+<!--End of Code & Database Assistant 4-->
 
 <!--lint ignore double-link-->
 
@@ -392,7 +392,7 @@ Translations:
 | [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31)     | Automate Content Creation for Your Small Business.                                | Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.                                                                             | :white\_check\_mark: |
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0)                        | Instantly Convert Your YouTube Content Into Engaging Blog Articles.               | Boost your SEO and brand presence.                                                                                                                                                                                      | :white\_check\_mark: |
 
-<!--End of Content Generation & Seo-->
+<!--End of Content Generation & Seo 5-->
 
 <!--lint ignore double-link-->
 
@@ -411,7 +411,7 @@ Translations:
 | [Media.io](https://www.media.io/?ref=beth0)      | Online Video, Audio, Image Creativity Platform Powered by AI.                                        | Simplicity. Diversity. Flexibility.                                                                                                                                                                                                                                                    | :white\_check\_mark: |
 | [Runway](http://runwayml.com)                    | Runway - Next-Generation Creation Suite - Everything You Need to Make Content, Fast.                 | Discover advanced video editing capabilities to take your creations to the next level.                                                                                                                                                                                                 | :white\_check\_mark: |
 
-<!--End of Creators Toolkit-->
+<!--End of Creators Toolkit 6-->
 
 <!--lint ignore double-link-->
 
@@ -427,7 +427,7 @@ Translations:
 | [OneTone.ai](https://onetone.ai)         | We Help Support Teams Communicate Faster and More Accurate. | OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service. | :white\_check\_mark: |
 | [ResolveAI](http://resolveai.co)         | Resolveai.                                                  | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time.                                      |   :grey\_question:   |
 
-<!--End of Customer Support-->
+<!--End of Customer Support 7-->
 
 <!--lint ignore double-link-->
 
@@ -443,7 +443,7 @@ Translations:
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI.                                                                                           | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. |   :grey\_question:   |
 | [teachology.ai](https://www.teachology.ai/) | A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning. | Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.                                                                             | :white\_check\_mark: |
 
-<!--End of Education & Learning-->
+<!--End of Education & Learning 32-->
 
 <!--lint ignore double-link-->
 
@@ -465,7 +465,7 @@ Translations:
 | [Warmer.Ai](http://warmer.ai)                               | Warmer.Ai - AI Email Writer.                                                                | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization.                                                      |   :grey\_question:   |
 | [superReply](http://superreply.co)                          | Upgrade Your Email Game.                                                                    | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch.                                                      | :white\_check\_mark: |
 
-<!--End of Email Assistant-->
+<!--End of Email Assistant 8-->
 
 <!--lint ignore double-link-->
 
@@ -478,7 +478,7 @@ Translations:
 | [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free.                                            |  :grey\_question:  |
 | [Visualhound](http://visualhound.com)               | Visualhound - Prototype Your Fashion Design Ideas With AI.               | Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process. |  :grey\_question:  |
 
-<!--End of Fashion-->
+<!--End of Fashion 9-->
 
 <!--lint ignore double-link-->
 
@@ -501,7 +501,7 @@ Translations:
 | [StoriesForKids](http://www.storiesforkids.ai)         | Storiesforkids.Ai: Personalized Kid'S Books Using AI.     | Turn real-life situations into fun stories & illustrations in seconds.                                                                                                                                              |   :grey\_question:   |
 | [TextStyler](http://www.textstyler.org)                | Re-Write Anything in Fun Styles, Using AI.                | .                                                                                                                                                                                                                   |   :grey\_question:   |
 
-<!--End of Fun-->
+<!--End of Fun 10-->
 
 <!--lint ignore double-link-->
 
@@ -521,7 +521,7 @@ Translations:
 | [hidden door](https://www.hiddendoor.co/) | Hello, Worlds!.                                                      | A new kind of social roleplaying experience, powered by narrative AI.                                                                                                                                 |   :grey\_question:   |
 | [latitude](https://latitude.io/)          | The Future of AI-Generated Games.                                    | We are making AI a tool of creativity and freedom for everyone.                                                                                                                                       |   :grey\_question:   |
 
-<!--End of Gaming-->
+<!--End of Gaming 11-->
 
 <!--lint ignore double-link-->
 
@@ -532,6 +532,7 @@ Translations:
 | Name                                                | Title                                                                                  | Description                                                                                                                                                                                                                                                             |  Offer Free Version  |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
 | [AI Holiday Cards](http://aiholiday.cards)          | AI Holiday Cards.                                                                      | AI engine to create AI Holiday photorealistic Cards for couples.                                                                                                                                                                                                        |   :grey\_question:   |
+| [AI Poem Generator](https://aipoemgenerator.com/)   | AiPoemGenerator.Com - Generate Beautiful and Unique Poems Effortlessly.                | Create the perfect gift for every occasion: Birthday of a friend or family member, Weddings, Birth, etc. Just enter a few keywords/topics and let our robots do the rest. The more keywords you provide the more personal the generated poems become.                   |          :x:         |
 | [AIchristmascards](http://aichristmascards.com)     | Holiday Cards, Reimagined.                                                             | Personalized AI Art Greetings Cards.                                                                                                                                                                                                                                    |          :x:         |
 | [CoolGiftIdeas](http://www.coolgiftideas.io)        | Cool Gift Ideas - AI-Powered Gift Suggestions.                                         | .                                                                                                                                                                                                                                                                       |   :grey\_question:   |
 | [Elf Help](http://www.elfhelp.ai)                   | Elf Help.                                                                              | Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list.                                                                                                    |   :grey\_question:   |
@@ -543,7 +544,7 @@ Translations:
 | [Lovelines](http://lovelines.xyz?ref=ai-collection) | Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI.                      | Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics.                                                                                                                            |          :x:         |
 | [Text2present](http://text2present.com)             | Text2Present.Com - Creative Presents From Busy People.                                 | Allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest. |   :grey\_question:   |
 
-<!--End of Gift Ideas-->
+<!--End of Gift Ideas 12-->
 
 <!--lint ignore double-link-->
 
@@ -557,7 +558,7 @@ Translations:
 | [Replika](http://replika.com)                    | The AI Companion Who Cares.                                             | Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!.                                                             |   :grey\_question:   |
 | [Ubie AI Symptom Checker](http://ubiehealth.com) | Check Symptoms & Find Causes by AI.                                     | Check Symptoms & Find Causes by AI - Answer quiz about your symptoms to find out possible causes, types, severity, and treatment for free by AI. Developed by doctors. | :white\_check\_mark: |
 
-<!--End of Healthcare-->
+<!--End of Healthcare 13-->
 
 <!--lint ignore double-link-->
 
@@ -577,7 +578,7 @@ Translations:
 | [rankode](http://www.rankode.ai)              | AI for Human Resources - Rankode.             | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention.                                                                   |   :grey\_question:   |
 | [springworks](http://www.springworks.in)      | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI.                                                                                                                 | :white\_check\_mark: |
 
-<!--End of Human Resources & Resume-->
+<!--End of Human Resources & Resume 14-->
 
 <!--lint ignore double-link-->
 
@@ -592,7 +593,7 @@ Translations:
 | [PatentPal](http://patentpal.com)              | Generative AI for Intellectual Property. | Automate mechanical writing in your patent applications.                                         | :white\_check\_mark: |
 | [Spellbook](https://www.spellbook.legal/)      | Draft Contracts 3X Faster With AI.       | Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word. |   :grey\_question:   |
 
-<!--End of Legal-->
+<!--End of Legal 16-->
 
 <!--lint ignore double-link-->
 
@@ -607,7 +608,7 @@ Translations:
 | [Make Logo AI](https://makelogo.ai/)        | Makelogo.Ai: Get the Perfect Logo for Your Startup.                                                                 | Generate beautiful and unique logos for your startup, powered by Artifical Intelligence.                            |          :x:         |
 | [Text To Book Cover](http://stockimg.ai)    | AI Image Generation for Teams - You Can Easily Generate AI Logo, AI Book Covers, AI Posters and More - Stockimg AI. | AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI. |   :grey\_question:   |
 
-<!--End of Logo Generator-->
+<!--End of Logo Generator 17-->
 
 <!--lint ignore double-link-->
 
@@ -631,7 +632,7 @@ Translations:
 | [Riffusion](http://www.riffusion.com)                       | Riffusion.                                                                     | Stable diffusion for real-time music generation.                                                                                                                                                        | :white\_check\_mark: |
 | [Soundraw](http://soundraw.io)                              | Stop Searching for the Song You Need. Create It.                               | Royalty-free music, AI generated for you.                                                                                                                                                               | :white\_check\_mark: |
 
-<!--End of Music & Audio Generation-->
+<!--End of Music & Audio Generation 18-->
 
 <!--lint ignore double-link-->
 
@@ -649,7 +650,7 @@ Translations:
 | [mem](https://get.mem.ai/)                                  | The Self-Organizing Workspace.                                                                                       | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically. | :white\_check\_mark: |
 | [timeMaster](https://www.timemaster.ai/)                    | Supercharge Your Focus and Productivity.                                                                             | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.            | :white\_check\_mark: |
 
-<!--End of Organization & Automation-->
+<!--End of Organization & Automation 31-->
 
 <!--lint ignore double-link-->
 
@@ -682,7 +683,7 @@ Translations:
 | [jpghd](http://jpghd.com)                      | JPGHD - Lossless Restoration of Old Photos With AI.                                                                 | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo).          |   :grey\_question:   |
 | [paintbytext](https://paintbytext.chat)        | Paint by Text.                                                                                                      | paintbytext - Edit your photos using written instructions, with the help of an AI.                                                                            | :white\_check\_mark: |
 
-<!--End of Photo & Image Editing-->
+<!--End of Photo & Image Editing 27-->
 
 <!--lint ignore double-link-->
 
@@ -697,7 +698,7 @@ Translations:
 | [Merlin](http://merlin.foyer.work)  | Merlin.                                                           | Free Open AIs ChatGPT powered extension to use anywhere!.                                                | :white\_check\_mark: |
 | [SplashAI](http://www.splashai.art) | Splashai Is a Figma Plugin, Search Engine and AI Image Generator. | .                                                                                                        |   :grey\_question:   |
 
-<!--End of Plugins & Extensions-->
+<!--End of Plugins & Extensions 28-->
 
 <!--lint ignore double-link-->
 
@@ -713,7 +714,7 @@ Translations:
 | [Reviewz](http://www.reviewz.ai)                           | Discover All the Top Things Recommended by Ai.          | .                                                                                                                                                                                                                                                          |  :grey\_question:  |
 | [Sona](http://www.readthistwice.com)                       | Read This Twice - Books Worth Reading Twice.            | We spend countless hours scouring the internet for the best book recommendations from people you admire. Our database is constantly growing, and every single recommendation has been verified for authenticity and includes a link to the source. Enjoy!. |  :grey\_question:  |
 
-<!--End of Reviews & Recommendations-->
+<!--End of Reviews & Recommendations 19-->
 
 <!--lint ignore double-link-->
 
@@ -738,7 +739,7 @@ Translations:
 | [Speaq.ai](https://www.speaq.ai/)               | Ready Made Conversional AI for Your Business.            | Our mission is to revolutionize B2B marketing and customer support with artificial intelligence. Effortlessly schedule meetings and verify attendance with AI. Streamline your survey process with AI conversational calls. |   :grey\_question:   |
 | [unbounce](http://unbounce.com)                 | Smart Marketing Tools to Grow Your Business.             | Turn more of your visitors into customers. Unbounce is the AI-powered landing page builder with smart features that let you create beautiful, high-performing marketing campaigns in just a few minutes.                    |          :x:         |
 
-<!--End of Sales & Marketing-->
+<!--End of Sales & Marketing 20-->
 
 <!--lint ignore double-link-->
 
@@ -756,7 +757,7 @@ Translations:
 | [StockGPT](https://www.askstockgpt.com/)  | AI-Powered Search Engine.                                                                                          | StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.                                                                                 | :white\_check\_mark: |
 | [You](http://you.com)                     | The AI Search Engine You Control.                                                                                  | .                                                                                                                                                                                                                     | :white\_check\_mark: |
 
-<!--End of Search Engines-->
+<!--End of Search Engines 30-->
 
 <!--lint ignore double-link-->
 
@@ -775,7 +776,7 @@ Translations:
 | [SlidesAI](https://www.slidesai.io/)            | Create Presentation Slides With AI in Seconds.             | Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white\_check\_mark: |
 | [Tome](http://beta.tome.app)                    | Generative Storytelling Has Arrived.                       | Unlock your best work with Tome's AI-powered storytelling format.                                                                                                                                           | :white\_check\_mark: |
 
-<!--End of Slides & Web Design-->
+<!--End of Slides & Web Design 29-->
 
 <!--lint ignore double-link-->
 
@@ -795,7 +796,7 @@ Translations:
 | [Tweethunter](http://tweethunter.io)      | Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics.                     | Get sales, growth and new networks. Faster than what you're currently trying.                                                                                                                                                                                                         |   :grey\_question:   |
 | [Tweetspear](http://www.tweetspear.com)   | Tweetspear - Boost Your Twitter Engagement.                                                            | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies .                                                                                                                                                                                                            |   :grey\_question:   |
 
-<!--End of Social Networks & Dating-->
+<!--End of Social Networks & Dating 34-->
 
 <!--lint ignore double-link-->
 
@@ -808,7 +809,7 @@ Translations:
 | [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) | Enhance Voice Recordings for Free.                           | Speech enhancement makes voice recordings sound as if they were recorded in a professional studio.                                                                                                                                                        | :white\_check\_mark: |
 | [Lingostar](http://www.lingostar.ai)                       | Lingostar - Real Conversations With Artificial Intelligence. | Lingostar is the AI who language learners can speak to in English, Spanish, or French. Reach fluency with REAL spoken conversations for free. No more tutors - chat with the Lingostar A.I. to improve your pronunciation, vocabulary, and comprehension. | :white\_check\_mark: |
 
-<!--End of Speech-->
+<!--End of Speech 21-->
 
 <!--lint ignore double-link-->
 
@@ -818,6 +819,7 @@ Translations:
 
 | Name                                                    | Title                                                                                      | Description                                                                                                                                                                                                                            |  Offer Free Version  |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| [AI Poem Generator](https://www.aipoemgenerator.org)    | Free AI-powered Poem Generator.                                                            | A free online poem maker that lets you generate beautiful rhyming poems on any subject with AI.                                                                                                                                        | :white\_check\_mark: |
 | [Bookclub](http://www.bookclub.ai)                      | Bookclub.Ai - Meet Your Next Book.                                                         | .                                                                                                                                                                                                                                      |   :grey\_question:   |
 | [ChatGPT Writer](http://chatgptwriter.ai)               | .                                                                                          | .                                                                                                                                                                                                                                      |   :grey\_question:   |
 | [Childbook](http://www.childbook.ai)                    | Welcome to Children'S Book Creator!.                                                       | Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to.                                                                             |   :grey\_question:   |
@@ -866,7 +868,7 @@ Translations:
 | [Your Cover Letter](http://yourcoverletter.com)         | AI Cover Letter Builder - Upload Your Resume to Get Started.                               | Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds.                                                                                            |   :grey\_question:   |
 | [coverletter.app](http://coverletter.app)               | Custom-Made Cover Letters Ready in Minutes Not Hours - Coverletter.App.                    | Stand out from the competition and increase your chances of getting hired with personalized cover letters from our advanced AI technology.                                                                                             |   :grey\_question:   |
 
-<!--End of Text-->
+<!--End of Text 22-->
 
 <!--lint ignore double-link-->
 
@@ -888,7 +890,7 @@ Translations:
 | [VERBATIK](http://verbatik.com)                                | AI Powered Text to Voice Generation.                                                                         | Generate Realistic Text to Speech (TTS) audio using online AI Voice Generator and best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.         |          :x:         |
 | [Wellsaid](http://wellsaidlabs.com)                            | Convert Text to Voice in Real Time.                                                                          | With WellSaid, you and your team can create a compelling realistic AI voice over for all your digital content.                                                                                                 | :white\_check\_mark: |
 
-<!--End of Text To Speech-->
+<!--End of Text To Speech 23-->
 
 <!--lint ignore double-link-->
 
@@ -911,7 +913,7 @@ Translations:
 | [TranslateVideo](http://www.translate.video)                                                      | Translate.Video.                                                        | .                                                                                                                                                                                                                                                                     |   :grey\_question:   |
 | [Voicetapp](http://voicetapp.com)                                                                 | Voicetapp - Speech to Text Transcription.                               | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology.                                                                                                                                                                     |   :grey\_question:   |
 
-<!--End of Translation & Transcript-->
+<!--End of Translation & Transcript 24-->
 
 <!--lint ignore double-link-->
 
@@ -926,6 +928,7 @@ Translations:
 | [Boolpic](http://boolv.tech)                            | An Intelligent Video Platform That Empowers Brands.                   | Generate on-brand videos 10X faster with AI to boost marketing performance.                                                                 |   :grey\_question:   |
 | [D-ID's Creative Reality Studio](https://www.d-id.com/) | Future-Facing Generative AI.                                          | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers.                     | :white\_check\_mark: |
 | [Deepfakesweb](http://deepfakesweb.com)                 | Make Your Own Deepfakes.                                              | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today.            |   :grey\_question:   |
+| [Eightify](https://eightify.app/)                       | Get 8 Key Ideas From YouTube Videos.                                  | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.                                               | :white\_check\_mark: |
 | [Elai](http://elai.io)                                  | Create AI Videos From Just Text.                                      | Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen.                                    | :white\_check\_mark: |
 | [FilmForge](http://filmforge.uwu.ai)                    | Filmforge AI.                                                         | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included.                                                 |   :grey\_question:   |
 | [Fliki](http://fliki.ai?via=beth0)                      | Turn Text Into Videos With AI Voices.                                 | Create videos from scripts or blog posts using realistic voices in 2 minutes!.                                                              | :white\_check\_mark: |
@@ -941,9 +944,8 @@ Translations:
 | [Vidyo](http://vidyo.ai)                                | AI Based Content Repurposing - Vidyo.Ai.                              | Create social ready short clips from your videos with AI ✨ Save 90% time and effort.                                                        |   :grey\_question:   |
 | [Waymark](http://waymark.com)                           | Boost Local Sales With Unbelievably Easy Video.                       | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. |   :grey\_question:   |
 | [Wzrd.ai](http://wzrd.ai)                               | Experience Your Sound.                                                | WZRD augments your audio with immersive video powered by artificial intelligence.                                                           |   :grey\_question:   |
-| [Eightify](https://eightify.app/)                       | Get 8 key ideas from YouTube videos                                   | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages                                                | :white\_check\_mark: |
 
-<!--End of Video-->
+<!--End of Video 25-->
 
 <!--lint ignore double-link-->
 
@@ -975,7 +977,7 @@ Translations:
 | [Wordtune](http://www.wordtune.com)                     | Wordtune - Your Personal Writing Assistant & Editor.                 | .                                                                                                                                                                       |   :grey\_question:   |
 | [Writefull Academizer](http://x.writefull.com)          | Writefull X: AI Applied to Academic Writing.                         | .                                                                                                                                                                       |   :grey\_question:   |
 
-<!--End of Writing Assistant-->
+<!--End of Writing Assistant 26-->
 
 <!--lint ignore double-link-->
 
@@ -1309,7 +1311,7 @@ Translations:
 | [deck.rocks](https://www.deck.rocks/)                               | Deck.Rocks: Generate Pitch Decks Using GPT-3.                                                                      | .                                                                                                                                                                                                                                                                                  |   :grey\_question:   |
 | [micro Dalle-2](http://micropay.ai)                                 | Dalle-2 Image Generator - Micropay.                                                                                | Anonymous and pay-as-you-go generative AI software.                                                                                                                                                                                                                                |   :grey\_question:   |
 
-<!--End of Other-->
+<!--End of Other 0-->
 
 <!--lint ignore double-link-->
 
