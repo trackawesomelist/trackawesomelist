@@ -507,6 +507,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [hush (⭐116)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
 *   [hush\_aws\_secrets\_manager (⭐19)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
 *   [hush\_gcp\_secret\_manager (⭐18)](https://github.com/gordalina/hush_gcp_secret_manager) - Google Secret Manager provider for hush.
+*   [mahaul (⭐17)](https://github.com/emadalam/mahaul) - Supercharge your environment variables in Elixir. Parse and validate with compile time access guarantees, defaults, fallbacks and app pre-boot validations.
 *   [skogsra (⭐96)](https://github.com/gmtprime/skogsra) - Library to manage OS environment variables and application configuration options with ease
 *   [sweetconfig (⭐2)](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 *   [weave](https://gitlab.com/gt8/open-source/elixir/weave) - JIT configuration loader that works with Kubernetes and Docker Swarm.
@@ -2002,7 +2003,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *   [ilexir (⭐8)](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
 *   [intellij\_elixir (⭐3)](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
 *   [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
-*   [mix.nvim (⭐22)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐25)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 *   [Nova Elixir (⭐8)](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 *   [nvim (⭐23)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.

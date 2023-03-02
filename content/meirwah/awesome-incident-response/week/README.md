@@ -6,11 +6,21 @@ A curated list of tools for incident response
 
 [ [Daily](/content/meirwah/awesome-incident-response/README.md) / Weekly / [Overview](/content/meirwah/awesome-incident-response/readme/README.md) ]
 
+## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
+
+### IR Tools Collection / All-In-One Tools
+
+*   [Dissect (⭐607)](https://github.com/fox-it/dissect) - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+
+### IR Tools Collection / Evidence Collection
+
+*   [Acquire (⭐14)](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses [Dissect (⭐607)](https://github.com/fox-it/dissect) to gather that information from the raw disk, if possible.
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### IR Tools Collection / Linux Evidence Collection
 
-*   [MAGNET DumpIt (⭐48)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
+*   [MAGNET DumpIt (⭐52)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
 
 ### IR Tools Collection / Memory Imaging Tools
 
@@ -20,7 +30,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [SOC Multi-tool (⭐163)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
+*   [SOC Multi-tool (⭐166)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
@@ -32,7 +42,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [MutableSecurity (⭐37)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
+*   [MutableSecurity (⭐38)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -48,7 +58,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [IRIS (⭐631)](https://github.com/dfir-iris/iris-web) - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
+*   [IRIS (⭐649)](https://github.com/dfir-iris/iris-web) - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
 
 ### IR Tools Collection / Books
 
@@ -66,13 +76,13 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Matano (⭐845)](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
+*   [Matano (⭐881)](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [nightHawk (⭐595)](https://github.com/biggiesmallsAG/nightHawkResponse) - Application built for asynchronous forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
+*   [nightHawk (⭐596)](https://github.com/biggiesmallsAG/nightHawkResponse) - Application built for asynchronous forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -84,14 +94,14 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [Hayabusa (⭐1k)](https://github.com/Yamato-Security/hayabusa) - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
-*   [WELA (⭐519)](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
+*   [Hayabusa (⭐1.1k)](https://github.com/Yamato-Security/hayabusa) - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
+*   [WELA (⭐541)](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
-*   [UAC (⭐337)](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+*   [UAC (⭐370)](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -102,7 +112,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Incident Management
 
-*   [Catalyst (⭐152)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
+*   [Catalyst (⭐153)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
 
 ### IR Tools Collection / Log Analysis Tools
 
@@ -116,7 +126,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐441)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐451)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
@@ -128,18 +138,18 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Fleetdm (⭐1k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+*   [Fleetdm (⭐1.1k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 
 ### IR Tools Collection / Other Tools
 
-*   [MFT Browser (⭐242)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+*   [MFT Browser (⭐245)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
 ### IR Tools Collection / Adversary Emulation
 
-*   [Atomic Red Team (ART) (⭐7.1k)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the MITRE ATT\&CK Framework.
+*   [Atomic Red Team (ART) (⭐7.2k)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the MITRE ATT\&CK Framework.
 
 ### IR Tools Collection / Books
 
@@ -156,7 +166,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Linux Evidence Collection
 
-*   [FastIR Collector Linux (⭐153)](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artifacts on live Linux and records the results in CSV files.
+*   [FastIR Collector Linux (⭐155)](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artifacts on live Linux and records the results in CSV files.
 
 ### IR Tools Collection / Log Analysis Tools
 
@@ -169,8 +179,8 @@ A curated list of tools for incident response
 ### IR Tools Collection / Other Tools
 
 *   [Kansa (⭐1.4k)](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
-*   [Munin (⭐731)](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
-*   [PyaraScanner (⭐22)](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
+*   [Munin (⭐736)](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
+*   [PyaraScanner (⭐23)](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
@@ -178,23 +188,23 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [LOKI (⭐2.7k)](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
-*   [DFIR ORC](https://dfir-orc.github.io/) - DFIR ORC is a collection of specialized tools dedicated to reliably parse and collect critical artifacts such as the MFT, registry hives or event logs. DFIR ORC collects data, but does not analyze it: it is not meant to triage machines. It provides a forensically relevant snapshot of machines running Microsoft Windows. The code can be found on [GitHub (⭐315)](https://github.com/DFIR-ORC/dfir-orc).
-*   [FastIR Collector (⭐484)](https://github.com/SekoiaLab/Fastir_Collector) - Tool that collects different artifacts on live Windows systems and records the results in csv files. With the analyses of these artifacts, an early compromise can be detected.
+*   [LOKI (⭐2.8k)](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
+*   [DFIR ORC](https://dfir-orc.github.io/) - DFIR ORC is a collection of specialized tools dedicated to reliably parse and collect critical artifacts such as the MFT, registry hives or event logs. DFIR ORC collects data, but does not analyze it: it is not meant to triage machines. It provides a forensically relevant snapshot of machines running Microsoft Windows. The code can be found on [GitHub (⭐316)](https://github.com/DFIR-ORC/dfir-orc).
+*   [FastIR Collector (⭐486)](https://github.com/SekoiaLab/Fastir_Collector) - Tool that collects different artifacts on live Windows systems and records the results in csv files. With the analyses of these artifacts, an early compromise can be detected.
 *   [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape) - Kroll Artifact Parser and Extractor (KAPE) by Eric Zimmerman. A triage tool that finds the most prevalent digital artifacts and then parses them quickly. Great and thorough when time is of the essence.
-*   [MEERKAT (⭐370)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based triage and threat hunting for Windows.
+*   [MEERKAT (⭐372)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based triage and threat hunting for Windows.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
 ### IR Tools Collection / Incident Management
 
 *   [DFTimewolf (⭐225)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
-*   [Shuffle (⭐877)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
+*   [Shuffle (⭐890)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 
 ### IR Tools Collection / Other Tools
 
-*   [Raccine (⭐854)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
-*   [sysmon-config (⭐3.9k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
+*   [Raccine (⭐859)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+*   [sysmon-config (⭐4k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 *   [sysmon-modular (⭐2.1k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
@@ -213,31 +223,31 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Playbooks
 
-*   [AWS Incident Response Runbook Samples (⭐710)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
+*   [AWS Incident Response Runbook Samples (⭐715)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Flare (⭐4.5k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
-*   [Kuiper (⭐602)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
+*   [Flare (⭐4.6k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
+*   [Kuiper (⭐605)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
 *   [Velociraptor (⭐1.7k)](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
 
 ### IR Tools Collection / Evidence Collection
 
-*   [artifactcollector (⭐183)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
-*   [Forensic Artifacts (⭐817)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
+*   [artifactcollector (⭐184)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
+*   [Forensic Artifacts (⭐825)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 *   [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and \*nix based operating systems.
 
 ### IR Tools Collection / Knowledge Bases
 
-*   [Digital Forensics Artifact Knowledge Base (⭐47)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
+*   [Digital Forensics Artifact Knowledge Base (⭐50)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 *   [Windows Events Attack Samples (⭐1.8k)](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
-*   [Windows Registry Knowledge Base (⭐120)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+*   [Windows Registry Knowledge Base (⭐123)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [LogonTracer (⭐2.2k)](https://github.com/JPCERTCC/LogonTracer) - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
+*   [LogonTracer (⭐2.3k)](https://github.com/JPCERTCC/LogonTracer) - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
 *   [Sigma (⭐6.1k)](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems already containing an extensive ruleset.
 
 ### IR Tools Collection / Memory Analysis Tools
@@ -246,7 +256,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Forensics (⭐2.6k)](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
+*   [Awesome Forensics (⭐2.7k)](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
 *   [Didier Stevens Suite (⭐1.5k)](https://github.com/DidierStevens/DidierStevensSuite) - Tool collection
 
 ### IR Tools Collection / Playbooks
@@ -255,23 +265,23 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [Ghidra (⭐37k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
+*   [Ghidra (⭐38k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
 *   [Rizin (⭐1.8k)](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset
 
 ### IR Tools Collection / Scanner Tools
 
-*   [Fenrir (⭐550)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
-*   [Spyre (⭐139)](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
+*   [Fenrir (⭐555)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
+*   [Spyre (⭐140)](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Hoarder (⭐147)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
+*   [Hoarder (⭐148)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
 ### IR Tools Collection / Incident Management
 
-*   [DFIRTrack (⭐414)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
+*   [DFIRTrack (⭐419)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -284,9 +294,9 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [APT Hunter (⭐864)](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs.
+*   [APT Hunter (⭐880)](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs.
 *   [Event Log Explorer](https://eventlogxp.com/) - Tool developed to quickly analyze log files and other data.
-*   [Zircolite (⭐448)](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
+*   [Zircolite (⭐454)](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -294,13 +304,13 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Playbooks
 
-*   [Counteractive Playbooks (⭐394)](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
-*   [GuardSIght Playbook Battle Cards (⭐185)](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
-*   [Phantom Community Playbooks (⭐381)](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
+*   [Counteractive Playbooks (⭐403)](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
+*   [GuardSIght Playbook Battle Cards (⭐187)](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
+*   [Phantom Community Playbooks (⭐385)](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
 
 ### IR Tools Collection / Timeline Tools
 
-*   [Aurora Incident Response (⭐594)](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
+*   [Aurora Incident Response (⭐602)](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -335,7 +345,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Other Tools
 
-*   [rastrea2r (⭐210)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
+*   [rastrea2r (⭐212)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -350,7 +360,7 @@ A curated list of tools for incident response
 ### IR Tools Collection / Windows Evidence Collection
 
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
-*   [RegRipper (⭐333)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
+*   [RegRipper (⭐344)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -362,24 +372,24 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [AVML (⭐617)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
+*   [AVML (⭐621)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [AppCompatProcessor (⭐166)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
+*   [AppCompatProcessor (⭐169)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [Cutter](https://github.com/radareorg/cutter) - Reverse engineering platform powered by Radare2.
-*   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
+*   [Radare2 (⭐18k)](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
 
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐528)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐531)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 
@@ -387,8 +397,8 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Invoke-LiveResponse (⭐135)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
-*   [IRTriage (⭐115)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
+*   [Invoke-LiveResponse (⭐136)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
+*   [IRTriage (⭐116)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
 ## [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
 
@@ -412,7 +422,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [MalConfScan (⭐444)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
+*   [MalConfScan (⭐445)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 
 ## [Sep 09 - Sep 15, 2019](/content/2019/36/README.md)
 
@@ -445,19 +455,19 @@ A curated list of tools for incident response
 *   [APTSimulator (⭐2.1k)](https://github.com/NextronSystems/APTSimulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 *   [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - Software for defensive security training, which will bring your network analysis training sessions, incident response drills and red team engagements to a new level.
 *   [Caldera (⭐4.1k)](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT\&CK™) project.
-*   [DumpsterFire (⭐898)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
-*   [Metta (⭐988)](https://github.com/uber-common/metta) - Information security preparedness tool to do adversarial simulation.
-*   [Network Flight Simulator (⭐835)](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
+*   [DumpsterFire (⭐904)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
+*   [Metta (⭐997)](https://github.com/uber-common/metta) - Information security preparedness tool to do adversarial simulation.
+*   [Network Flight Simulator (⭐851)](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 *   [RedHunt-OS (⭐1.1k)](https://github.com/redhuntlabs/RedHunt-OS) - Virtual machine for adversary emulation and threat hunting.
 
 ### IR Tools Collection / All-In-One Tools
 
 *   [Belkasoft Evidence Center](https://belkasoft.com/ec) -  The toolkit will quickly extract digital evidence from multiple sources by analyzing hard drives, drive images, memory dumps, iOS, Blackberry and Android backups, UFED, JTAG and chip-off dumps.
-*   [CimSweep (⭐616)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.
-*   [CIRTkit (⭐132)](https://github.com/byt3smith/CIRTKit) - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes.
+*   [CimSweep (⭐617)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.
+*   [CIRTkit (⭐133)](https://github.com/byt3smith/CIRTKit) - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes.
 *   [Cyber Triage](http://www.cybertriage.com) - Cyber Triage remotely collects and analyzes endpoint data to help determine if it is compromised.  It’s agentless approach and focus on ease of use and automation allows companies to respond without major infrastructure changes and without a team of forensics experts.  Its results are used to decide if the system should be erased or investigated further.
 *   [Doorman (⭐595)](https://github.com/mwielgoszewski/doorman) - osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness.
-*   [Falcon Orchestrator (⭐179)](https://github.com/CrowdStrike/falcon-orchestrator) - Extendable Windows-based application that provides workflow automation, case management and security response functionality.
+*   [Falcon Orchestrator (⭐178)](https://github.com/CrowdStrike/falcon-orchestrator) - Extendable Windows-based application that provides workflow automation, case management and security response functionality.
 *   [MozDef (⭐2.2k)](https://github.com/mozilla/MozDef) - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
 *   [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Another popular distributed open-source computer forensics framework. This framework was built on Linux platform and uses postgreSQL database for storing data.
 *   [osquery](https://osquery.io/) - Easily ask questions about your Linux and macOS infrastructure using a SQL-like query language; the provided *incident-response pack* helps you detect and respond to breaches.
@@ -465,7 +475,7 @@ A curated list of tools for incident response
 *   [The Sleuth Kit & Autopsy](http://www.sleuthkit.org) - Unix and Windows based tool which helps in forensic analysis of computers. It comes with various tools which helps in digital forensics. These tools help in analyzing disk images, performing in-depth analysis of file systems, and various other things.
 *   [TheHive](https://thehive-project.org/) - Scalable 3-in-1 open source and free solution designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
 *   [X-Ways Forensics](http://www.x-ways.net/forensics/) - Forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis.
-*   [Zentral (⭐668)](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
+*   [Zentral (⭐671)](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
 
 ### IR Tools Collection / Disk Image Creation Tools
 
@@ -475,22 +485,22 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Evidence Collection
 
-*   [bulk\_extractor (⭐772)](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
-*   [Cold Disk Quick Response (⭐315)](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
-*   [ir-rescue (⭐408)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [bulk\_extractor (⭐784)](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
+*   [Cold Disk Quick Response (⭐317)](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
+*   [ir-rescue (⭐413)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ### IR Tools Collection / Incident Management
 
 *   [CyberCPR](https://www.cybercpr.com) - Community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
 *   [Fast Incident Response (FIR) (⭐1.5k)](https://github.com/certsocietegenerale/FIR/) - Cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
 *   [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
-*   [threat\_note (⭐411)](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
+*   [threat\_note (⭐415)](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
 
 ### IR Tools Collection / Linux Distributions
 
 *   [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA) - VMware-based appliance used for digital investigation and acquisition and is built entirely from public domain software. Among the tools contained in ADIA are Autopsy, the Sleuth Kit, the Digital Forensics Framework, log2timeline, Xplico, and Wireshark. Most of the system maintenance uses Webmin. It is designed for small-to-medium sized digital investigations and acquisitions. The appliance runs under Linux, Windows, and Mac OS. Both i386 (32-bit) and x86\_64 (64-bit) versions are available.
 *   [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) - Contains numerous tools that help investigators during their analysis, including forensic evidence collection.
-*   [CCF-VM (⭐452)](https://github.com/rough007/CCF-VM) - CyLR CDQR Forensics Virtual Machine (CCF-VM): An all-in-one solution to parsing collected data, making it easily searchable with built-in common searches, enable searching of single and multiple hosts simultaneously.
+*   [CCF-VM (⭐453)](https://github.com/rough007/CCF-VM) - CyLR CDQR Forensics Virtual Machine (CCF-VM): An all-in-one solution to parsing collected data, making it easily searchable with built-in common searches, enable searching of single and multiple hosts simultaneously.
 *   [Digital Evidence & Forensics Toolkit (DEFT)](http://www.deftlinux.net/) - Linux distribution made for computer forensic evidence collection. It comes bundled with the Digital Advanced Response Toolkit (DART) for Windows. A light version of DEFT, called DEFT Zero, is also available, which is focused primarily on forensically sound evidence collection.
 *   [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux distribution that includes a vast collection of best-of-breed open source network security applications useful to the network security professional.
 *   [Security Onion (⭐3k)](https://github.com/Security-Onion-Solutions/security-onion) - Special Linux distro aimed at network security monitoring featuring advanced analysis tools.
@@ -499,17 +509,17 @@ A curated list of tools for incident response
 ### IR Tools Collection / Log Analysis Tools
 
 *   [StreamAlert (⭐2.8k)](https://github.com/airbnb/streamalert) - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.
-*   [SysmonSearch (⭐381)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
+*   [SysmonSearch (⭐383)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [Evolve (⭐252)](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework.
+*   [Evolve (⭐253)](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework.
 *   [inVtero.net (⭐265)](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support.
-*   [LiME (⭐1.4k)](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
+*   [LiME (⭐1.5k)](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
 *   [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - Free memory forensic software that helps incident responders find evil in live memory. Memoryze can acquire and/or analyze memory images, and on live systems, can include the paging file in its analysis.
 *   [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution.
-*   [Volatility (⭐5.9k)](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
-*   [VolatilityBot (⭐252)](https://github.com/mkorman90/VolatilityBot) - Automation tool for researchers cuts all the guesswork and manual tasks out of the binary extraction phase, or to help the investigator in the first steps of performing a memory analysis investigation.
+*   [Volatility (⭐6k)](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
+*   [VolatilityBot (⭐253)](https://github.com/mkorman90/VolatilityBot) - Automation tool for researchers cuts all the guesswork and manual tasks out of the binary extraction phase, or to help the investigator in the first steps of performing a memory analysis investigation.
 *   [VolDiff (⭐188)](https://github.com/aim4r/VolDiff) - Malware Memory Footprint Analysis based on Volatility.
 
 ### IR Tools Collection / Memory Imaging Tools
@@ -520,22 +530,22 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / OSX Evidence Collection
 
-*   [macOS Artifact Parsing Tool (mac\_apt) (⭐575)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
+*   [macOS Artifact Parsing Tool (mac\_apt) (⭐577)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
 *   [OSX Auditor (⭐3.1k)](https://github.com/jipegit/OSXAuditor) - Free Mac OS X computer forensics tool.
 *   [OSX Collector (⭐1.9k)](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
 
 ### IR Tools Collection / Other Lists
 
-*   [List of various Security APIs (⭐742)](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
+*   [List of various Security APIs (⭐749)](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
 
 ### IR Tools Collection / Other Tools
 
 *   [Crits](https://crits.github.io/) - Web-based tool which combines an analytic engine with a cyber threat database.
-*   [Diffy (⭐625)](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
+*   [Diffy (⭐627)](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
 *   [domfind (⭐20)](https://github.com/diogo-fernan/domfind) - Python DNS crawler for finding identical domain names under different TLDs.
 *   [Fileintel (⭐106)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 *   [HELK (⭐3.4k)](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
-*   [Hindsight (⭐842)](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
+*   [Hindsight (⭐847)](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
 *   [Hostintel (⭐245)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 *   [imagemounter (⭐101)](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
 *   [RaQet](https://raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
@@ -546,7 +556,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Playbooks
 
-*   [IRM (⭐557)](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
+*   [IRM (⭐567)](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -555,7 +565,7 @@ A curated list of tools for incident response
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [Cuckoo-modified (⭐381)](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community.
-*   [Cuckoo-modified-api (⭐16)](https://github.com/keithjjones/cuckoo-modified-api) - Python library to control a cuckoo-modified sandbox.
+*   [Cuckoo-modified-api (⭐17)](https://github.com/keithjjones/cuckoo-modified-api) - Python library to control a cuckoo-modified sandbox.
 *   [Mastiff (⭐160)](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
 *   [Viper (⭐1.5k)](https://github.com/viper-framework/viper) - Python based binary analysis and management framework, that works well with Cuckoo and YARA.
 *   [Virustotal](https://www.virustotal.com) - Free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners.
@@ -574,7 +584,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [AChoir (⭐164)](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
+*   [AChoir (⭐166)](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
 *   [Crowd Response](http://www.crowdstrike.com/community-tools/) - Lightweight Windows console application designed to aid in the gathering of system information for incident response and security engagements. It features numerous modules and output formats.
 *   [Fibratus (⭐1.8k)](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
 *   [Panorama (⭐38)](https://github.com/AlmCo/Panorama) - Fast incident overview on live Windows systems.
@@ -585,7 +595,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Evidence Collection
 
-*   [Margarita Shotgun (⭐219)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+*   [Margarita Shotgun (⭐221)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 
 ### IR Tools Collection / Other Tools
 
@@ -602,7 +612,7 @@ A curated list of tools for incident response
 ### IR Tools Collection / Adversary Emulation
 
 *   [AutoTTP (⭐231)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
-*   [Red Team Automation (RTA) (⭐942)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
+*   [Red Team Automation (RTA) (⭐950)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
 
 ## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
 
@@ -620,7 +630,7 @@ A curated list of tools for incident response
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐959)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐961)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [Jul 11 - Jul 17, 2016](/content/2016/28/README.md)
 

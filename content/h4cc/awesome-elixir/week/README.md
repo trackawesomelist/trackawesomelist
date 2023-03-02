@@ -8,6 +8,10 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
+### Configuration
+
+*   [mahaul (⭐17)](https://github.com/emadalam/mahaul) - Supercharge your environment variables in Elixir. Parse and validate with compile time access guarantees, defaults, fallbacks and app pre-boot validations.
+
 ### Frameworks
 
 *   [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
@@ -322,7 +326,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Editors
 
-*   [mix.nvim (⭐22)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐25)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
