@@ -1358,6 +1358,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [triton (⭐75)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
 *   [udpflux (⭐3)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 *   [unreal (⭐6)](https://github.com/cart96/unreal) - Unofficial SurrealDB driver for Elixir.
+*   [walex (⭐74)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
 *   [xandra (⭐321)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 

@@ -16,6 +16,10 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 *   [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
 
+### ORM and Datamapping
+
+*   [walex (⭐74)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
+
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
 ### Code Analysis

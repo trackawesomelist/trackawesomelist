@@ -12,6 +12,10 @@
 
 *   [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions.
 
+### Utilities / Clipboard Tools
+
+*   [ClipTools](https://macmost.com/cliptools) - ClipTools is a status menu application that gives you access to a variety of simple clipboard utilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
+
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Developer Tools / Network Analysis

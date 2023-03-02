@@ -1,12 +1,31 @@
 # Awesome List Updates on Mar 02, 2023
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+
+### Community Extensions
+
+*   [Organizations for Keycloak by p2-inc (⭐119)](https://github.com/p2-inc/keycloak-orgs)
+*   [MagicLink Authenticator by p2-inc (⭐71)](https://github.com/p2-inc/keycloak-magic-link)
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / Clipboard Tools
+
+*   [ClipTools](https://macmost.com/cliptools) - ClipTools is a status menu application that gives you access to a variety of simple clipboard utilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
+
+## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+
+### Tools and session management
+
+*   [t (⭐25)](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
+
+## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### CI / Tutorials & Demo
 
@@ -39,7 +58,7 @@
 
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
 
-## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [5. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -49,25 +68,29 @@
 
 *   [Acquire (⭐14)](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses [Dissect (⭐607)](https://github.com/fox-it/dissect) to gather that information from the raw disk, if possible.
 
-## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [6. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Bootables
 
 *   [rafaelbreno/zig-os (⭐3)](https://github.com/rafaelbreno/zig-os) - A simple OS following Philipp Oppermann's posts "Writing an OS in Rust".
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Configuration
 
 *   [mahaul (⭐17)](https://github.com/emadalam/mahaul) - Supercharge your environment variables in Elixir. Parse and validate with compile time access guarantees, defaults, fallbacks and app pre-boot validations.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+### ORM and Datamapping
+
+*   [walex (⭐74)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
+
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
 *   [06chaynes/http-cache (⭐23)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/Rust/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/rust.yml)
 
-## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### National government datasets
 
@@ -77,7 +100,7 @@
 
 *   [GTFS Spec](https://gtfs.org/schedule/reference/) - Specification for the General Transit Data Feed, or GTFS. Available in several languages.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -91,7 +114,7 @@
 
 *   [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code (⭐21k)](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
 
-## [8. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Libraries / Rust
 
@@ -101,13 +124,13 @@
     *   🎉 [Bevy (⭐22k)](https://github.com/bevyengine/bevy) - 🔥 Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
     *   🎉 [Macroquad (⭐2k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by RayLib.
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Network Configuration Management
 
 *   [OpenWISP](https://openwisp.org/) - Open Source Network Management System for OpenWRT based routers and access points. ([Demo](https://openwisp.org/demo.html), [Source Code](https://github.com/openwisp)) `GPL-3.0` `Python`
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -119,7 +142,7 @@
 *   [ho-my-zsh (⭐1)](https://github.com/Mboukhal/hoMyZsh_theme) - Includes decorators for current directory and `git` information.
 *   [parrot (⭐2)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
 
-## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -145,7 +168,7 @@
 *   [codeburner](https://groupon.github.io/codeburner) — Provides a unified interface to sort and act on the issues it finds.
 *   [Veracode](https://www.veracode.com/security/static-code-analysis) :copyright: — Find flaws in binaries and bytecode without requiring source. Support all major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C, C++ and more.
 
-## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [15. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Integration
 

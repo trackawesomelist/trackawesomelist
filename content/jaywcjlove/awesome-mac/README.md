@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 02, 2023](/content/2023/03/02/README.md)
+
+### Utilities / Clipboard Tools
+
+*   [ClipTools](https://macmost.com/cliptools) - ClipTools is a status menu application that gives you access to a variety of simple clipboard utilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
+
 ## [Mar 01, 2023](/content/2023/03/01/README.md)
 
 ### Browsers / File Sharing

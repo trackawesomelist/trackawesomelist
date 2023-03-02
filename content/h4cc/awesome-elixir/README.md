@@ -12,6 +12,10 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 *   [mahaul (⭐17)](https://github.com/emadalam/mahaul) - Supercharge your environment variables in Elixir. Parse and validate with compile time access guarantees, defaults, fallbacks and app pre-boot validations.
 
+### ORM and Datamapping
+
+*   [walex (⭐74)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
+
 ## [Feb 28, 2023](/content/2023/02/28/README.md)
 
 ### Frameworks
