@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/elyase/awesome-gpt3/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) · ⭐ 3.8K · 🏷️ GPT-3
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/elyase/awesome-gpt3/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) · ⭐ 4.2K · 🏷️ GPT-3
 
 [ [Daily](/content/elyase/awesome-gpt3/README.md) / [Weekly](/content/elyase/awesome-gpt3/week/README.md) / Overview ]
 
@@ -95,6 +95,7 @@ null
 *   [GPT-3 playing chess](https://twitter.com/SRajdev/status/1287353220218662912)
 *   [Designing an IVR flow using natural language](https://twitter.com/nutanc/status/1287801677542612992)
 *   [Patient diagnosis from clinical vignettes](https://twitter.com/AndrewLBeam/status/1287772781480820737)
+*   [ChatGPT REPL (⭐6)](https://github.com/evgenyrodionov/chatgpt_repl)
 
 ## Articles
 
@@ -114,9 +115,10 @@ null
 
 ## Github
 
-*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes](https://github.com/shreyashankar/gpt3-sandbox)
-*   [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
-*   [ChatGPT-wrapper: Use it in python and shell](https://github.com/mmabrouk/chatgpt-wrapper)
+*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.8k)](https://github.com/shreyashankar/gpt3-sandbox)
+*   [gpt-3-experiments by @minimaxir (⭐701)](https://github.com/minimaxir/gpt-3-experiments)
+*   [ChatGPT-wrapper: Use it in python and shell (⭐2k)](https://github.com/mmabrouk/chatgpt-wrapper)
+*   [ChatGPT (GPT-3.5-turbo) API Client in Golang (⭐13)](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
 ## Products
 
@@ -129,4 +131,5 @@ null
     that you can design instantly
 *   [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 *   [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
+*   [Makelog](https://makelog.com/gpt3): Automated changelog powered by GPT-3
 

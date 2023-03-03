@@ -1,8 +1,22 @@
 # Track Awesome Gpt3 Updates Weekly
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/elyase/awesome-gpt3/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) · ⭐ 3.8K · 🏷️ GPT-3
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/elyase/awesome-gpt3/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) · ⭐ 4.2K · 🏷️ GPT-3
 
 [ [Daily](/content/elyase/awesome-gpt3/README.md) / Weekly / [Overview](/content/elyase/awesome-gpt3/readme/README.md) ]
+
+## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
+
+### Demos / Other
+
+*   [ChatGPT REPL (⭐6)](https://github.com/evgenyrodionov/chatgpt_repl)
+
+### Github / Other
+
+*   [ChatGPT (GPT-3.5-turbo) API Client in Golang (⭐13)](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+
+### Products / Other
+
+*   [Makelog](https://makelog.com/gpt3): Automated changelog powered by GPT-3
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -14,7 +28,7 @@
 
 ### Github / Other
 
-*   [ChatGPT-wrapper: Use it in python and shell (⭐357)](https://github.com/mmabrouk/chatgpt-wrapper)
+*   [ChatGPT-wrapper: Use it in python and shell (⭐2k)](https://github.com/mmabrouk/chatgpt-wrapper)
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 
@@ -92,8 +106,8 @@
 
 ### Github / Other
 
-*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.6k)](https://github.com/shreyashankar/gpt3-sandbox)
-*   [gpt-3-experiments by @minimaxir (⭐676)](https://github.com/minimaxir/gpt-3-experiments)
+*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.8k)](https://github.com/shreyashankar/gpt3-sandbox)
+*   [gpt-3-experiments by @minimaxir (⭐701)](https://github.com/minimaxir/gpt-3-experiments)
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 

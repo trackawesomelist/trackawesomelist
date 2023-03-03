@@ -6,6 +6,12 @@ A curated list of awesome tools, utils and projects using Playwright
 
 [ Daily / [Weekly](/content/mxschmitt/awesome-playwright/week/README.md) / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 
+## [Mar 03, 2023](/content/2023/03/03/README.md)
+
+### Utils
+
+*   [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
+
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
 ### Guides

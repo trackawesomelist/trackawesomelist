@@ -12,6 +12,10 @@ A list of awesome resources for tmux
 
 *   [t (⭐25)](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
 
+### Status Bar
+
+*   [tmux-nerd-font-window-name (⭐11)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Plugins

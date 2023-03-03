@@ -16,6 +16,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   [GTFS Spec](https://gtfs.org/schedule/reference/) - Specification for the General Transit Data Feed, or GTFS. Available in several languages.
 
+### GTFS Converters / Ruby
+
+*   [gtfs2emis (⭐21)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### 3rd party GTFS URL directories
