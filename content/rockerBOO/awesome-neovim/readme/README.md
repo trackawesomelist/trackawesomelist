@@ -704,6 +704,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Weissle/easy-action (⭐28)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
 *   [cbochs/portal.nvim (⭐121)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 *   [echasnovski/mini.nvim#mini.bracketed (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bracketed.md) - Module of `mini.nvim` to go forward/backward with square brackets.
+*   [liangxianzhe/nap.nvim (⭐51)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
 
 #### Treesitter Based
 

@@ -16,6 +16,10 @@ Collections of awesome neovim plugins.
 
 *   [tenxsoydev/karen-yank.nvim (⭐22)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
 
+### Motion / Diagnostics
+
+*   [liangxianzhe/nap.nvim (⭐51)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
+
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
 ### Marks / Diagnostics

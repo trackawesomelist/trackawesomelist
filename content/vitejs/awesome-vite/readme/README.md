@@ -186,6 +186,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-mui-ts (⭐10)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
 *   [leo-react-app (⭐2)](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
 *   [template-vite-react-ts-tailwind (⭐3)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
+*   [vite-react-ts-tailwind-template (⭐0)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 
 #### Svelte
 
@@ -253,7 +254,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [@nabla/vite-plugin-eslint (⭐78)](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
 *   [vite-plugin-tauri (⭐106)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 *   [vite-plugin-federation (⭐948)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
-*   [vite-plugin-wasm-pack (⭐132)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐4.9k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-wasm-pack (⭐132)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5k)](https://github.com/rustwasm/wasm-pack), the simple way.
 *   [vite-plugin-comlink (⭐84)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.4k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 *   [vite-plugin-sass-dts (⭐56)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 *   [vite-esbuild-typescript-checker (⭐30)](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.

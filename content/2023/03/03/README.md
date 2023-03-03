@@ -1,12 +1,48 @@
 # Awesome List Updates on Mar 03, 2023
 
-10 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+### Papers / 2022
+
+*   [Two-Face: Adversarial Audit of Commercial Face Recognition Systems](https://ojs.aaai.org/index.php/ICWSM/article/view/19300/19072) - (ICWSM) *Performs an adversarial audit on multiple systems APIs and datasets, making a number of concerning observations.*
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Monitoring
+
+*   [Middleware.io](https://middleware.io/) -  Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.
+
+## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Apps
+
+*   [Twitter Clone (⭐11)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-react-ts-tailwind-template (⭐0)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Motion / Diagnostics
+
+*   [liangxianzhe/nap.nvim (⭐51)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
+
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+
+### Reactive
+
+*   [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/) - Intuitive event-driven reactive programming library for Java with [bindings for Vert.x](https://smallrye.io/smallrye-mutiny-vertx-bindings/).
+
+## [7. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Other
 
@@ -20,19 +56,19 @@
 
 *   [Makelog](https://makelog.com/gpt3): Automated changelog powered by GPT-3
 
-## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [8. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
 *   [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 
-## [3. Awesome V](/content/vlang/awesome-v/README.md)
+## [9. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### GitHub templates / IntelliJ & CLion & GoLand etc
 
 *   [v-project-basement (⭐5)](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
 
-## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Database clients / XML
 
@@ -43,7 +79,7 @@
 *   [dlog (⭐2)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
 *   [gogga (⭐2)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Visual Studio Plugins
 
@@ -53,7 +89,7 @@
 
 *   [M31.FluentAPI (⭐21)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Desktop
 
@@ -63,7 +99,7 @@
 
 *   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -81,19 +117,19 @@
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [14. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Converters / Ruby
 
 *   [gtfs2emis (⭐21)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 
-## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [tmux-nerd-font-window-name (⭐11)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

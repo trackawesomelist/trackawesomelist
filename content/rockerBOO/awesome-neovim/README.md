@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 03, 2023](/content/2023/03/03/README.md)
+
+### Motion / Diagnostics
+
+*   [liangxianzhe/nap.nvim (⭐51)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
+
 ## [Feb 28, 2023](/content/2023/02/28/README.md)
 
 ### Markdown and LaTeX / Diagnostics

@@ -6,6 +6,12 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 [ Daily / [Weekly](/content/vert-x3/vertx-awesome/week/README.md) / [Overview](/content/vert-x3/vertx-awesome/readme/README.md) ]
 
+## [Mar 03, 2023](/content/2023/03/03/README.md)
+
+### Reactive
+
+*   [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/) - Intuitive event-driven reactive programming library for Java with [bindings for Vert.x](https://smallrye.io/smallrye-mutiny-vertx-bindings/).
+
 ## [Mar 02, 2023](/content/2023/03/02/README.md)
 
 ### Integration
