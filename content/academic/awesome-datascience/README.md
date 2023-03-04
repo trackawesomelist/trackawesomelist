@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Mar 04, 2023](/content/2023/03/04/README.md)
+
+### Books / Visualization Tools
+
+*   [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
+*   [Data for All](https://www.manning.com/books/data-for-all)
+
 ## [Feb 22, 2023](/content/2023/02/22/README.md)
 
 ### Disaster
@@ -844,7 +851,7 @@
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐3.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐3.8k)](https://github.com/uber/causalml)
-*   [mlpack (⭐4.2k)](https://github.com/mlpack/mlpack)
+*   [mlpack (⭐4.3k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐4.3k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
@@ -866,7 +873,7 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
@@ -984,7 +991,7 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐8.8k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐156k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐158k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐5.4k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐13k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

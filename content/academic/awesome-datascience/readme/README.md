@@ -335,7 +335,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐3.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐3.8k)](https://github.com/uber/causalml)
-*   [mlpack (⭐4.2k)](https://github.com/mlpack/mlpack)
+*   [mlpack (⭐4.3k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐4.3k)](https://github.com/rasbt/mlxtend)
 *   [modAL (⭐1.9k)](https://github.com/modAL-python/modAL)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
@@ -368,7 +368,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 #### TensorFlow Ecosystem
 
-*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow)
 *   [TensorLayer (⭐7.1k)](https://github.com/tensorlayer/TensorLayer)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet)
@@ -533,7 +533,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Chaos Genius (⭐552)](https://github.com/chaos-genius/chaos_genius/)                                             | ML powered analytics engine for outlier/anomaly detection and root cause analysis                                                                                                                                                                                                                                |
 | [Nimblebox](https://nimblebox.ai/)                                                                               | A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser.                                                                                                                           |
 | [Towhee (⭐1.8k)](https://github.com/towhee-io/towhee)                                                            | A Python library that helps you encode your unstructured data into embeddings.                                                                                                                                                                                                                                   |
-| [LineaPy (⭐562)](https://github.com/LineaLabs/lineapy)                                                           | Ever been frustrated with cleaning up long, messy Jupyter notebooks? With LineaPy, an open source Python library, it takes as little as two lines of code to transform messy development code into production pipelines.                                                                                         |
+| [LineaPy (⭐570)](https://github.com/LineaLabs/lineapy)                                                           | Ever been frustrated with cleaning up long, messy Jupyter notebooks? With LineaPy, an open source Python library, it takes as little as two lines of code to transform messy development code into production pipelines.                                                                                         |
 | [envd (⭐1.5k)](https://github.com/tensorchord/envd)                                                              | 🏕️ machine learning development environment for data science and AI/ML engineering teams                                                                                                                                                                                                                        |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)                              | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources                                                                                                                                            |
 | [MLEM (⭐609)](https://github.com/iterative/mlem)                                                                 | 🐶 Version and deploy your ML models following GitOps principles                                                                                                                                                                                                                                                 |
@@ -615,7 +615,9 @@ This section includes some additional reading material, channels to watch, and t
 *   [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
 *   [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
 *   [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
+*   [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
 *   [Dive into Deep Learning](https://d2l.ai/)
+*   [Data for All](https://www.manning.com/books/data-for-all)
 *   [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 *   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
 *   [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430)
@@ -1067,7 +1069,7 @@ Some data mining competition platforms
 *   [Awesome Machine Learning (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐8.8k)](https://github.com/jnv/lists)
 *   [awesome-dataviz (⭐3.2k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-python (⭐156k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐158k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐5.4k)](https://github.com/qinwf/awesome-R)
 *   [awesome-datasets (⭐53k)](https://github.com/awesomedata/awesome-public-datasets)
