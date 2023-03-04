@@ -93,6 +93,7 @@
 
 *   [Organizations for Keycloak by p2-inc (⭐119)](https://github.com/p2-inc/keycloak-orgs)
 *   [MagicLink Authenticator by p2-inc (⭐71)](https://github.com/p2-inc/keycloak-magic-link)
+*   [Keycloak Metrics based on Micrometer (⭐3)](https://github.com/kokuwaio/keycloak-event-metrics)
 
 ## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 

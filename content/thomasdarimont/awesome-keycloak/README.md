@@ -6,6 +6,12 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Mar 04, 2023](/content/2023/03/04/README.md)
+
+### Community Extensions
+
+*   [Keycloak Metrics based on Micrometer (⭐3)](https://github.com/kokuwaio/keycloak-event-metrics)
+
 ## [Mar 02, 2023](/content/2023/03/02/README.md)
 
 ### Community Extensions

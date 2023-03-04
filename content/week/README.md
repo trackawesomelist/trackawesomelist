@@ -407,14 +407,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [walex (⭐74)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
 
-#### [34. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
-
-##### Community Extensions
-
-*   [Organizations for Keycloak by p2-inc (⭐119)](https://github.com/p2-inc/keycloak-orgs)
-*   [MagicLink Authenticator by p2-inc (⭐71)](https://github.com/p2-inc/keycloak-magic-link)
-
-#### [35. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [34. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Tools and session management
 
@@ -424,7 +417,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [tmux-nerd-font-window-name (⭐11)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 
-#### [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [35. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### National government datasets
 
@@ -438,7 +431,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [gtfs2emis (⭐21)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 
-#### [37. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [36. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### Visual Studio Plugins
 
@@ -448,7 +441,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [M31.FluentAPI (⭐21)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 
-#### [38. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [37. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Caching
 
@@ -466,7 +459,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [hyperium/tonic (⭐6.8k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
     *   [tikv/grpc-rs (⭐1.7k)](https://github.com/tikv/grpc-rs) — The gRPC library for Rust built on C Core library and futures [![Build Status](https://api.travis-ci.org/tikv/grpc-rs.svg?branch=master)](https://travis-ci.org/tikv/grpc-rs)
 
-#### [39. Awesome D](/content/dlang-community/awesome-d/README.md)
+#### [38. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ##### Database clients / XML
 
@@ -477,19 +470,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [dlog (⭐2)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
 *   [gogga (⭐2)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
 
-#### [40. Awesome V](/content/vlang/awesome-v/README.md)
+#### [39. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### GitHub templates / IntelliJ & CLion & GoLand etc
 
 *   [v-project-basement (⭐5)](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
 
-#### [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+#### [40. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ##### Utils
 
 *   [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 
-#### [42. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+#### [41. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ##### Demos / Other
 
@@ -503,7 +496,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Makelog](https://makelog.com/gpt3): Automated changelog powered by GPT-3
 
-#### [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Markdown and LaTeX / Diagnostics
 
@@ -517,13 +510,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [liangxianzhe/nap.nvim (⭐51)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
 
-#### [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+#### [43. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ##### Apps
 
 *   [Twitter Clone (⭐11)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 
-#### [45. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [44. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Monitoring
 
@@ -537,13 +530,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
 
-#### [46. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [45. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2022
 
 *   [Two-Face: Adversarial Audit of Commercial Face Recognition Systems](https://ojs.aaai.org/index.php/ICWSM/article/view/19300/19072) - (ICWSM) *Performs an adversarial audit on multiple systems APIs and datasets, making a number of concerning observations.*
 
-#### [47. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+#### [46. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ##### Integration
 
@@ -560,7 +553,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Failsafe](https://failsafe.dev/) - Failsafe is a lightweight, *zero-dependency* library for handling failures in Java 8+. Concise API. Integration with libraries that use their own schedulers for async executions, such as Akka or Vert.x. [Vert.x example (⭐3.9k)](https://github.com/failsafe-lib/failsafe/blob/master/examples/src/main/java/dev/failsafe/examples/VertxExample.java)
 
-#### [48. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+#### [47. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ##### Graphics Programming
 
@@ -569,20 +562,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) - Adam Marrs, Peter Shirley, Ingo Wald
 *   [Virtual Reality](http://lavalle.pl/vr/) - Steven M. LaValle
 
-#### [49. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [48. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Books / Visualization Tools
 
 *   [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
 *   [Data for All](https://www.manning.com/books/data-for-all)
 
-#### [50. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+#### [49. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ##### Tools / Misc
 
 *   [Humanloop](https://humanloop.com) – Humanloop is a platform for prompt experimentation, finetuning models for better performance, cost optimization, and collecting model generated data and user feedback.
 
-#### [51. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [50. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -621,7 +614,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ezno](https://kaleidawave.github.io/posts/introducing-ezno/) — A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance. Ezno's type checker is built from scratch.  The checker is fully compatible with TypeScript type annotations and can work without any type annotations at all.
 *   [Veracode](https://www.veracode.com/security/static-code-analysis) :copyright: — Find flaws in binaries and bytecode without requiring source. Support all major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C, C++ and more.
 
-#### [52. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [51. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### The Generative AI Area: history, maps, and definitions
 
@@ -645,11 +638,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 
-#### [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Bayesian Modeling / Bayesian Induction
 
 *   [Theory-based Bayesian models of inductive learning and reasoning](http://www.charleskemp.com/papers/TenenbaumGK06.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
+
+#### [53. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+
+##### Community Extensions
+
+*   [Organizations for Keycloak by p2-inc (⭐119)](https://github.com/p2-inc/keycloak-orgs)
+*   [MagicLink Authenticator by p2-inc (⭐71)](https://github.com/p2-inc/keycloak-magic-link)
+*   [Keycloak Metrics based on Micrometer (⭐3)](https://github.com/kokuwaio/keycloak-event-metrics)
 
 ---
 
@@ -697,14 +698,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 38. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 3.9K 📝 02&#x2F;23 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
 39. [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 2.7K 📝 02&#x2F;27 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
 40. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 5.5K 📝 02&#x2F;19 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
-41. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.5K 📝 03&#x2F;03 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
-42. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 4.1K 📝 02&#x2F;21 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-43. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.2K 📝 02&#x2F;23 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
-44. [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 3.6K 📝 02&#x2F;22 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
-45. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.1K 📝 02&#x2F;27 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-46. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K 📝 02&#x2F;07 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
-47. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.5K 📝 02&#x2F;21 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
-48. [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.3K 📝 03&#x2F;02 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
+41. [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.3K 📝 03&#x2F;04 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
+42. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.5K 📝 03&#x2F;03 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
+43. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 4.1K 📝 02&#x2F;21 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+44. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.2K 📝 02&#x2F;23 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
+45. [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 3.6K 📝 02&#x2F;22 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+46. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.1K 📝 02&#x2F;27 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+47. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K 📝 02&#x2F;07 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
+48. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.5K 📝 02&#x2F;21 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
 49. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 20K 📝 02&#x2F;03 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
 50. [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.1K 📝 02&#x2F;21 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 
@@ -1387,7 +1388,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md) - ([Source ⭐ 980, 📝 22&#x2F;08&#x2F;09 ](https://github.com/daviddias/awesome-hacking-locations)) - :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 - [Awesome Honeypots](/content/paralax/awesome-honeypots/README.md) - ([Source ⭐ 6.5K, 📝 22&#x2F;08&#x2F;27 ](https://github.com/paralax/awesome-honeypots)) - an awesome list of honeypot resources
 - [Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md) - ([Source ⭐ 6K, 📝 03&#x2F;02 ](https://github.com/meirwah/awesome-incident-response)) - A curated list of tools for incident response
-- [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.3K, 📝 03&#x2F;02 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
+- [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.3K, 📝 03&#x2F;04 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
 - [Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md) - ([Source ⭐ 961, 📝 21&#x2F;03&#x2F;06 ](https://github.com/fabacab/awesome-lockpicking)) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md) - ([Source ⭐ 9.1K, 📝 20&#x2F;08&#x2F;19 ](https://github.com/rshipp/awesome-malware-analysis)) - Defund the Police.
 - [Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md) - ([Source ⭐ 73, 📝 02&#x2F;19 ](https://github.com/Karneades/awesome-malware-persistence)) - A curated list of awesome malware persistence tools and resources. 
