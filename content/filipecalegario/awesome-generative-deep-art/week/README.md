@@ -24,11 +24,16 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
+*   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
 *   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
 
 ### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
+
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
+*   [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch
 
 ### Miscellaneous / Bio experiments
 

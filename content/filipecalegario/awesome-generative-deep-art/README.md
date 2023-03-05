@@ -8,6 +8,14 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Mar 05, 2023](/content/2023/03/05/README.md)
 
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
+
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
+*   [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch
+
 ### Miscellaneous / Bio experiments
 
 *   [fMRI-to-image](https://twitter.com/danberridge/status/1631489991435243520): tweet by [danberridge](https://twitter.com/danberridge) "The 'presented images' were shown to a group of humans. The 'reconstructed images' were the result of an fMRI output to Stable Diffusion. In other words, Stable Diffusion literally read people's minds."

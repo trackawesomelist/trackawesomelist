@@ -5,8 +5,8 @@
 
 - [Top Repos](top/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
-  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
+  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Awesome Machine Learning](/content/content/josephmisiti/awesome-machine-learning/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Awesome Cpp](/content/content/fffaraz/awesome-cpp/README.md)
