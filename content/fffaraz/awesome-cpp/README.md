@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Mar 05, 2023](/content/2023/03/05/README.md)
+
+### Internationalization
+
+*   [uni-algo (⭐119)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
+
 ## [Mar 01, 2023](/content/2023/03/01/README.md)
 
 ### Miscellaneous

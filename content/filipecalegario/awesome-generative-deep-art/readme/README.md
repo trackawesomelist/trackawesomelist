@@ -714,6 +714,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Miscellaneous
 
+### Bio experiments
+
+*   [fMRI-to-image](https://twitter.com/danberridge/status/1631489991435243520): tweet by [danberridge](https://twitter.com/danberridge) "The 'presented images' were shown to a group of humans. The 'reconstructed images' were the result of an fMRI output to Stable Diffusion. In other words, Stable Diffusion literally read people's minds."
+
 ### Jobs in Generative AI
 
 *   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
@@ -744,5 +748,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/fil
 To the extent possible under law, Filipe Calegario has waived all copyright and
 related or neighboring rights to this work.
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/filipecalegario)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/filipecalegario)
 

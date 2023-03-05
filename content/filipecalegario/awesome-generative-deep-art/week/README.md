@@ -30,6 +30,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 
+### Miscellaneous / Bio experiments
+
+*   [fMRI-to-image](https://twitter.com/danberridge/status/1631489991435243520): tweet by [danberridge](https://twitter.com/danberridge) "The 'presented images' were shown to a group of humans. The 'reconstructed images' were the result of an fMRI output to Stable Diffusion. In other words, Stable Diffusion literally read people's minds."
+
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
