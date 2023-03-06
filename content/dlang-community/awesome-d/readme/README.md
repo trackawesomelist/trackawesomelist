@@ -16,7 +16,7 @@ A curated list of awesome D frameworks, libraries and software. Inspired by [awe
 
 I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
 
-If you know an interesting lib/app in D, please tell us through [GitHub issues (⭐592)](https://github.com/dlang-community/awesome-d/issues) or [edit this file (⭐592)](https://github.com/dlang-community/awesome-d/edit/master/README.md).
+If you know an interesting lib/app in D, please tell us through [GitHub issues (⭐597)](https://github.com/dlang-community/awesome-d/issues) or [edit this file (⭐597)](https://github.com/dlang-community/awesome-d/edit/master/README.md).
 
 # Contents
 
@@ -515,6 +515,8 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *   [vectorflow (⭐1.3k)](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
 *   [bindbc-onnxruntime (⭐7)](https://github.com/lempiji/bindbc-onnxruntime) - bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator
+*   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
+*   [tfd (⭐31)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
 
 ## Parallel computing
 

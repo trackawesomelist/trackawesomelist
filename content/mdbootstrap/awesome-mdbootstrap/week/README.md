@@ -2,9 +2,32 @@
 
 A curated list of awesome things related to MDBootstrap
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 23 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 29 · 🏷️ Front-End Development
 
 [ [Daily](/content/mdbootstrap/awesome-mdbootstrap/README.md) / Weekly / [Overview](/content/mdbootstrap/awesome-mdbootstrap/readme/README.md) ]
+
+## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
+
+### Community
+
+*   [Snippets](https://mdbootstrap.com/snippets/?tag=community) - Projects created with MDBootstrap.
+*   [Support](https://mdbootstrap.com/support/) - Place where you can solve your technical problems.
+
+### Useful Links
+
+*   [UI/UX Tips](https://mdbootstrap.com/docs/standard/customization/ui-ux-tips/) - Quick and easy-to-implement tips to improve your design.
+*   [Services](https://mdbootstrap.com/services/) - We incorporate all of them in our own products, so our developers are uniquely experienced with these tools. We also use a variety of other solutions.
+
+### CLI & hosting
+
+*   [MDB CLI](https://mdbgo.com/) - Create, deploy and host your project with a single command.
+*   [Quick Start](https://mdbgo.com/docs/getting-started/quick-start/) - Get started with MDB CLI easily and quickly and how to use its full potential.
+*   [Getting Started](https://mdbgo.com/docs/getting-started/installation/) - Step by step on how to create your project and deploy.
+*   [Overview](https://mdbgo.com/docs/getting-started/overview/) - Guide which will take you on how to perform different actions.
+
+### Education
+
+*   [Written Tutorials](https://mdbootstrap.com/learn/mdb-foundations/basics/introduction/)
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -35,17 +58,13 @@ A curated list of awesome things related to MDBootstrap
 *   [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit.
 *   [MDB Standard Pro](https://mdbootstrap.com/docs/standard/pro/) - Premium UI Kit for the latest Bootstrap 5. Lifetime usage of 5000+ premium components, thousands of templates, plugins, design blocks.
 
-### Community
-
-*   Projects created with MDBootstrap.
-
 ### Useful Links
 
 *   [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins.
 *   [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB.
 *   [Visual Studio Code snippets (⭐9)](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
 *   [Angular Visual Studio Code snippets (⭐10)](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
-*   [Webpack starter (⭐54)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
+*   [Webpack starter (⭐58)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
 *   [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap.
 
 ### Articles
@@ -74,14 +93,6 @@ A curated list of awesome things related to MDBootstrap
 *   [Footer generator](https://mdbootstrap.com/docs/standard/tools/builders/footer/) - Create bootstrap footer with custom coprytight, buttons, forms, links colors, sizes.
 *   [Navbar generator](https://mdbootstrap.com/docs/standard/tools/builders/navbar/) - Create bootstrap navbar with custom colors, brand, icons, forms, placement.
 
-### CLI & hosting
-
-*   [MDB CLI](https://mdbootstrap.com/docs/standard/cli/) - Create, deploy and host your project with a single command.
-*   [Quick Start](https://mdbootstrap.com/docs/standard/cli/quick-start/) - Get started with MDB CLI easily and quickly and how to use its full potential.
-*   [Getting Started](https://mdbootstrap.com/docs/standard/cli/getting-started/) - Step by step on how to create your project and deploy.
-*   [Overview](https://mdbootstrap.com/docs/standard/cli/overview/) - Guide which will take you on how to perform different actions.
-
 ### Education
 
 *   [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
-*   [Written Tutorials](https://mdbootstrap.com/docs/standard/getting-started/)

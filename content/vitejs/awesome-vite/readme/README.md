@@ -187,6 +187,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [leo-react-app (⭐2)](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
 *   [template-vite-react-ts-tailwind (⭐3)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 *   [vite-react-ts-tailwind-template (⭐0)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
+*   [vite-react-ts-template (⭐0)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 #### Svelte
 
@@ -416,7 +417,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-entry-shaking (⭐15)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 *   [vite-plugin-auto-alias (⭐2)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 *   [vite-plugin-image-placeholder (⭐3)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
-*   [vite-plugin-isomorphic-import (⭐1)](https://github.com/LyzSg/vite-plugin-isomorphic-import) -  Allows you to configure whether to import modules on the server-side or client-side.
+*   [vite-plugin-isomorphic-import (⭐1)](https://github.com/LyzSg/vite-plugin-isomorphic-import) - Allows you to configure whether to import modules on the server-side or client-side.
 
 #### Testing
 
@@ -736,7 +737,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [îles (⭐918)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 *   [Astro (⭐28k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐502)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐6.2k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐2k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐247)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐114)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.

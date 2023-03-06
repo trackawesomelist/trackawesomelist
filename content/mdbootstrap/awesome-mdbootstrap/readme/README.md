@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to MDBootstrap
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 23 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 29 · 🏷️ Front-End Development
 
 [ [Daily](/content/mdbootstrap/awesome-mdbootstrap/README.md) / [Weekly](/content/mdbootstrap/awesome-mdbootstrap/week/README.md) / Overview ]
 
@@ -44,7 +44,8 @@ Pro
 
 ## Community
 
-*   Projects created with MDBootstrap.
+*   [Snippets](https://mdbootstrap.com/snippets/?tag=community) - Projects created with MDBootstrap.
+*   [Support](https://mdbootstrap.com/support/) - Place where you can solve your technical problems.
 
 ## Useful Links
 
@@ -52,9 +53,11 @@ Official projects and resources of MDBootstrap.
 
 *   [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins.
 *   [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB.
+*   [UI/UX Tips](https://mdbootstrap.com/docs/standard/customization/ui-ux-tips/) - Quick and easy-to-implement tips to improve your design.
+*   [Services](https://mdbootstrap.com/services/) - We incorporate all of them in our own products, so our developers are uniquely experienced with these tools. We also use a variety of other solutions.
 *   [Visual Studio Code snippets (⭐9)](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
 *   [Angular Visual Studio Code snippets (⭐10)](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
-*   [Webpack starter (⭐54)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
+*   [Webpack starter (⭐58)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
 *   [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap.
 
 ## Articles
@@ -99,15 +102,15 @@ Tools and utilities to help build apps using MDBootstrap.
 
 Powerful tool which allows you to create different projects. No more difficult configuration and deployment.
 
-*   [MDB CLI](https://mdbootstrap.com/docs/standard/cli/) - Create, deploy and host your project with a single command.
-*   [Quick Start](https://mdbootstrap.com/docs/standard/cli/quick-start/) - Get started with MDB CLI easily and quickly and how to use its full potential.
-*   [Getting Started](https://mdbootstrap.com/docs/standard/cli/getting-started/) - Step by step on how to create your project and deploy.
-*   [Overview](https://mdbootstrap.com/docs/standard/cli/overview/) - Guide which will take you on how to perform different actions.
+*   [MDB CLI](https://mdbgo.com/) - Create, deploy and host your project with a single command.
+*   [Quick Start](https://mdbgo.com/docs/getting-started/quick-start/) - Get started with MDB CLI easily and quickly and how to use its full potential.
+*   [Getting Started](https://mdbgo.com/docs/getting-started/installation/) - Step by step on how to create your project and deploy.
+*   [Overview](https://mdbgo.com/docs/getting-started/overview/) - Guide which will take you on how to perform different actions.
 
 ## Education
 
 Well-organized, up-to-date series of tutorials for the latest Bootstrap, Material Design, HTML, CSS, JavaScript.
 
 *   [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
-*   [Written Tutorials](https://mdbootstrap.com/docs/standard/getting-started/)
+*   [Written Tutorials](https://mdbootstrap.com/learn/mdb-foundations/basics/introduction/)
 

@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/dlang-community/awesome-d/week/README.md) / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Mar 06, 2023](/content/2023/03/06/README.md)
+
+### Machine Learning / XML
+
+*   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
+*   [tfd (⭐31)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
+
 ## [Mar 03, 2023](/content/2023/03/03/README.md)
 
 ### Database clients / XML

@@ -930,6 +930,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropy-stubs (⭐23)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 *   [micropython-extmod-generator (⭐20)](https://github.com/prusnak/micropython-extmod-generator) - Generator for MicroPython external modules written in C.
 *   [micropython-package-template (⭐0)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
+*   [micropython-usermod](https://micropython-usermod.readthedocs.io) - Online book about MicroPython external modules writen in C.
 
 ### Debugging
 
@@ -976,7 +977,7 @@ Other places you can look for MicroPython Libraries:
 
 ## Contributing
 
-Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines (⭐816)](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md) first.
+Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines (⭐831)](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md) first.
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
 
