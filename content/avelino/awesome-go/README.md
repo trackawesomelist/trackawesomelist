@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 06, 2023](/content/2023/03/06/README.md)
+
+### Advanced Console UIs
+
+*   [go-palette (⭐0)](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
+
 ## [Mar 01, 2023](/content/2023/03/01/README.md)
 
 ### Database Schema Migration
@@ -406,7 +412,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [bytebase (⭐4.9k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐5k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [Aug 24, 2022](/content/2022/08/24/README.md)
 
@@ -714,7 +720,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Bot Building
 
-*   [wayback (⭐445)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐463)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -727,7 +733,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐537)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐586)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [May 18, 2022](/content/2022/05/18/README.md)
 
@@ -1540,7 +1546,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [cobra (⭐31k)](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions.
 *   [commandeer (⭐163)](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 *   [complete (⭐878)](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
-*   [Dnote (⭐2.4k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
+*   [Dnote (⭐2.5k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 *   [elvish (⭐5k)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 *   [env (⭐102)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
 *   [flag (⭐123)](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.
@@ -2333,7 +2339,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Beaver (⭐1.4k)](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 *   [Benthos (⭐5.7k)](https://github.com/Jeffail/benthos) - A message streaming bridge between a range of protocols.
 *   [Bus (⭐288)](https://github.com/mustafaturan/bus) - Minimalist message bus implementation for internal communication.
-*   [Centrifugo (⭐6.8k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
+*   [Centrifugo (⭐6.9k)](https://github.com/centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 *   [Chanify (⭐1k)](https://github.com/chanify/chanify) - A push notification server send message to your iOS devices.
 *   [Commander (⭐63)](https://github.com/jeroenrinzema/commander) - A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
 *   [Confluent Kafka Golang Client (⭐3.8k)](https://github.com/confluentinc/confluent-kafka-go) - confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
@@ -2812,7 +2818,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [psql-streamer (⭐49)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 *   [RoadRunner (⭐7k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
-*   [SFTPGo (⭐5.6k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+*   [SFTPGo (⭐5.7k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [simple-jwt-provider (⭐31)](https://github.com/leberKleber/simple-jwt-provider) - Simple and lightweight provider which exhibits JWTs, supports login, password-reset (via mail) and user management.
 *   [Trickster (⭐1.8k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 
@@ -3403,8 +3409,8 @@ A curated list of awesome Go frameworks, libraries and software
 *   [staticcheck (⭐5.2k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tarp (⭐16)](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 *   [tickgit (⭐294)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐395)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐343)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐394)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐344)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [unused (⭐5.2k)](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 *   [validate (⭐60)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
@@ -3526,7 +3532,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [terraform-provider-openapi (⭐236)](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
 *   [traefik (⭐42k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐326)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
-*   [uTask (⭐830)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
+*   [uTask (⭐837)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐21k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 *   [webhook (⭐8.6k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
 *   [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
@@ -3535,7 +3541,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [Better Go Playground](https://goplay.tools) - Go playground with syntax highlight, code completion and other features.
-*   [blocky (⭐2.3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features.
+*   [blocky (⭐2.4k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features.
 *   [borg (⭐1.6k)](https://github.com/crufter/borg) - Terminal based search engine for bash snippets.
 *   [boxed (⭐78)](https://github.com/tejo/boxed) - Dropbox based blog engine.
 *   [Cherry (⭐288)](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.

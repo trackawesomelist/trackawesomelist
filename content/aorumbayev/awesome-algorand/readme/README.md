@@ -370,7 +370,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
 *   [genpyteal (⭐9)](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
 *   [AgorHash (⭐3)](https://github.com/bafio89/agorhash) - Public, permissionless, decentralized and uncensorable free speech protocol.
-*   [AlgoPoaP](https://github.com/AlgoPoaP) - Proof of Attendance Protocol (and much more) on Algorand.
+*   [AlgoPOAP](https://github.com/AlgoPOAP) - Proof of Attendance Protocol (and much more) on Algorand. [Mint your first POAP on Algorand!](https://algopoap.com).
 *   [QRCode Generator (⭐20)](https://github.com/emg110/algorand-qrcode)
 *   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
 *   [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.

@@ -6,18 +6,18 @@
 
 [ [Daily](/content/aorumbayev/awesome-algorand/README.md) / Weekly / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
+
+### Projects / Wallets
+
+*   [AlgoPOAP](https://github.com/AlgoPOAP) - Proof of Attendance Protocol (and much more) on Algorand. [Mint your first POAP on Algorand!](https://algopoap.com).
+
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Languages / C/C++
 
 *   [unreal-algorand-sdk (⭐2)](https://github.com/Wisdom-Labs/Algorand-Unreal-Engine-SDK) - Official Unreal Engine plugin for Algorand Blockchain Platform.
 *   [cplusplus-algorand-sdk (⭐2)](https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK) - Algorand C++ SDK: This repo is providing C++ sdk on algorand chain.
-
-## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
-
-### Projects / Wallets
-
-*   [AlgoPoaP](https://github.com/AlgoPoaP) - Proof of Attendance Protocol (and much more) on Algorand.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 

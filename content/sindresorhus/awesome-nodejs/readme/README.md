@@ -194,6 +194,7 @@
     *   [Weird](#weird)
     *   [Serialization](#serialization)
     *   [Miscellaneous](#miscellaneous)
+*   [Package Manager](#package-manager)
 *   [Resources](#resources)
     *   [Tutorials](#tutorials)
     *   [Discovery](#discovery)
@@ -228,7 +229,7 @@
 *   [BitcoinJS (⭐4.8k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
 *   [Bitcore (⭐4.5k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [PDFKit (⭐8.6k)](https://github.com/foliojs/pdfkit) - PDF generation library.
-*   [turf (⭐7.7k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐7.8k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 *   [webcat (⭐430)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 *   [NodeOS (⭐6.8k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 *   [YodaOS (⭐1.2k)](https://github.com/yodaos-project/yodaos) - AI operating system.
@@ -255,7 +256,7 @@
 *   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 *   [public-ip (⭐968)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 *   [clipboard-cli (⭐466)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-*   [XO (⭐7k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.1k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 *   [ESLint (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 *   [David (⭐956)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 *   [http-server (⭐12k)](https://github.com/http-party/http-server) - Simple, zero-config command-line HTTP server.
@@ -270,7 +271,7 @@
 *   [wifi-password (⭐278)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 *   [wallpaper (⭐936)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 *   [pen (⭐327)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
-*   [dark-mode (⭐632)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐633)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 *   [Jsome (⭐234)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 *   [mobicon (⭐101)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 *   [mobisplash (⭐65)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
@@ -416,7 +417,7 @@
 ### Web frameworks
 
 *   [Fastify (⭐26k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Next.js (⭐100k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Next.js (⭐102k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 *   [Nuxt.js (⭐44k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Micro (⭐10k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
@@ -521,7 +522,7 @@
 *   [jimp (⭐12k)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 *   [probe-image-size (⭐851)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 *   [qrcode (⭐6.4k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
-*   [ImageScript (⭐476)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐478)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Text
 
@@ -695,7 +696,7 @@
 *   [WebdriverIO (⭐8k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 *   [Jest (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 *   [TestCafe (⭐9.6k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
-*   [abstruse (⭐867)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐872)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 *   [CodeceptJS (⭐3.8k)](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
 *   [Puppeteer (⭐82k)](https://github.com/puppeteer/puppeteer) - Headless Chrome.
 *   [Playwright (⭐48k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
@@ -868,6 +869,12 @@
 *   [patch-package (⭐8.2k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 *   [editly (⭐3.9k)](https://github.com/mifi/editly) - Declarative video editing API.
 *   [wild-wild-path (⭐598)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+
+## Package Manager
+
+*   [npm](https://docs.npmjs.com/about-npm) - The default package manager.
+*   [pnpm](https://pnpm.io) - Disk space efficient package manager.
+*   [yarn](https://yarnpkg.com) - Alternative package manager.
 
 ## Resources
 

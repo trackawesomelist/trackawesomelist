@@ -2,7 +2,7 @@
 
  :books: Books everyone should read!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 9.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 9.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/hackerkid/Mind-Expanding-Books/README.md) / [Weekly](/content/hackerkid/Mind-Expanding-Books/week/README.md) / Overview ]
 
@@ -19,8 +19,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Books everyone should read!
-
-🌱 You might be interested in the beta website at <https://books.vishnuks.com>. Source code live in `app/` directory.
 
 ## Table of Contents
 
@@ -78,6 +76,7 @@
 | The Big Short: Inside the Doomsday Machine                                                                            | Michael Lewis                                   | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short)                                                                      | 2015           |
 | The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives | Peter H. Diamandis, Steven Kotler               | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think)                                               | 2020           |
 | The Middle Finger Project                                                                                             | Ash Ambirge                                     | [4.22](https://www.goodreads.com/book/show/46064079-the-middle-finger-project?from_search=true\&from_srp=true\&qid=WY4obsfps3\&rank=1) | 2020           |
+| Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration                              | Ed Catmull, Amy Wallace                         | [4.21](https://www.goodreads.com/book/show/18077903-creativity-inc)                                                                    | 2014           |
 | The Score Takes Care of Itself: My Philosophy of Leadership                                                           | Bill Walsh, Steve Jamison, Craig Walsh          | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself)                                                     | 2009           |
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers                                  | Ben Horowitz                                    | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)                                                  | 2014           |
 | Think and Grow Rich                                                                                                   | Napoleon Hill                                   | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)                                                               | 1937           |
@@ -661,7 +660,7 @@ If you like Mind Expanding books you should check out my new project <http://dif
 
 *   [@hackerkid](https://github.com/hackerkid) for starting the list.
 *   [@geritol](https://github.com/geritol) for building the framework for maintaining the list.
-*   All the [contributors (⭐9.3k)](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
+*   All the [contributors (⭐9.8k)](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
 
 ## License
 

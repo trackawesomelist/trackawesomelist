@@ -6,6 +6,14 @@
 
 [ [Daily](/content/sindresorhus/awesome-nodejs/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-nodejs/readme/README.md) ]
 
+## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
+
+### Package Manager / Miscellaneous
+
+*   [npm](https://docs.npmjs.com/about-npm) - The default package manager.
+*   [pnpm](https://pnpm.io) - Disk space efficient package manager.
+*   [yarn](https://yarnpkg.com) - Alternative package manager.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Packages / Data validation
@@ -86,7 +94,7 @@
 
 ### Packages / Web frameworks
 
-*   [Next.js (⭐100k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Next.js (⭐102k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 *   [Micro (⭐10k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 *   [LoopBack (⭐4.4k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 *   [TypeGraphQL (⭐7.6k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
@@ -267,7 +275,7 @@
 
 ### Packages / Image
 
-*   [ImageScript (⭐476)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐478)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -914,7 +922,7 @@
 
 ### Packages / Command-line apps
 
-*   [XO (⭐7k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.1k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 
 ## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
 
@@ -944,7 +952,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐867)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐872)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [Aug 28 - Sep 03, 2017](/content/2017/35/README.md)
 
@@ -1016,7 +1024,7 @@
 *   [Live Server (⭐4.1k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐121)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐632)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐633)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -1453,7 +1461,7 @@
 
 ### Packages / Mad science
 
-*   [turf (⭐7.7k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐7.8k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 

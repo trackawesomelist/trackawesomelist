@@ -2,9 +2,23 @@
 
  :books: Books everyone should read!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 9.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 9.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/hackerkid/Mind-Expanding-Books/README.md) / Weekly / [Overview](/content/hackerkid/Mind-Expanding-Books/readme/README.md) ]
+
+## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
+
+### Startups and Business
+
+- Name: Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
+
+  Author: Ed Catmull, Amy Wallace
+
+  Goodreads Rating: [4.21](https://www.goodreads.com/book/show/18077903-creativity-inc)
+
+  Year Published: 2014
+
+
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 

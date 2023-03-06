@@ -46,7 +46,7 @@ A curated list of awesome qubes os links
 
 A security-focused desktop operating system that aims to provide security through isolation.
 
-This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐238k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐240k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -59,6 +59,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     *   [System Information & Requirements](#system-information--requirements)
     *   [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
     *   [How-to guides](#how-to-guides)
+        *   [journoSEC](#journosec)
     *   [Templates](#templates)
     *   [VM-Hardening](#vm-hardening)
     *   [Desktop Customization](#desktop-customization)
@@ -146,6 +147,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/) - This is an overview of device handling in Qubes OS.
 *   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight Qube that can be created quickly and will self-destruct when closed.
 *   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
+*   [How to persist Tailscale tunnel in QubesOS  (⭐0)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
+*   [How to use Qubes for journalists and Humans Rights Defenders (⭐7)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
+    *   [PAM distress login for xscreensaver (⭐0)](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
+    *   [Automated Arkenfox Qubes browser install (⭐7)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
 
 ## Templates
 
@@ -238,13 +243,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 *   [i2p-Whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on Qubes-Whonix.
 *   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
-*   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
+*   [Lokinet (⭐1.4k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 *   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 
 ### Crypto
 
 *   [Split Bitcoin Wallet (⭐212)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
-*   [Awesome-DeSci (⭐26)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+*   [Awesome-DeSci (⭐33)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
 ## Kernels
 
@@ -263,20 +268,20 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
 *   [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
 *   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
-*   [Qubes-Mirage-Firewall (⭐187)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+*   [Qubes-Mirage-Firewall (⭐188)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
 ### Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐745)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐749)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ## Exploitation Tools
 
-*   [Awesome-Fuzzing (⭐623)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
-*   [AFL++ (⭐3.4k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
-*   [Bonzai (⭐112)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [Awesome-Fuzzing (⭐638)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [AFL++ (⭐3.5k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+*   [Bonzai (⭐114)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
-*   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
+*   [Joern (⭐1.3k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [LeechCore (⭐279)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
@@ -369,7 +374,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
     *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
     *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
-*   [The Book of Secret Knowledge (⭐89k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [The Book of Secret Knowledge (⭐92k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 *   [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers
@@ -410,7 +415,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 ## Adventure Further
 
-*   Adventures start here ---> [Adventure Here! (⭐238k)](https://github.com/sindresorhus/awesome) - All the awesome list.
+*   Adventures start here ---> [Adventure Here! (⭐240k)](https://github.com/sindresorhus/awesome) - All the awesome list.
     **[⬆ back to top](#awesome-qubes-os-)**
 
 `:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X`
