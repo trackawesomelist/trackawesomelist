@@ -1,12 +1,102 @@
 # Awesome List Updates on Mar 06 - Mar 12, 2023
 
-19 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Cloud Storage
+
+*   [Restic](https://restic.net/) - Restic is also command line program to manage files on various cloud storage providers. Restic uses encryption by default. Few noteworthy features of restic include browsing through storage as git like snapshots at no extra storage cost, deduplication and significant savings through compression.
+
+## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Graphics
+
+*   [mpv-v (⭐7)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐65)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐32)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Android / Tests
+
+*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐84)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐236)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐570)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐322)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### The Generative AI Area: history, maps, and definitions
+
+*   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
+
+### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
+
+*   \[🔥] [whitead/paper-qa (⭐1.2k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+
+### Image Synthesis / Promptism
+
+*   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### PaaS
+
+*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.
+
+## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+
+### Utilities
+
+*   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
+
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Elixir / Phoenix
+
+*   [Versioned APIs with Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF) *(:card\_file\_box: archived)*
+
+## [8. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -17,7 +107,7 @@
 *   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐7)](https://github.com/martinbel/polars-tutorial).
 *   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankandrade).
 
-## [2. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [9. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques / Linux
 
@@ -26,7 +116,7 @@
 *   [ebpfkit (⭐505)](https://github.com/Gui774ume/ebpfkit) - Rootkit leveraging eBPF.
 *   [TripleCross (⭐1.4k)](https://github.com/h3xduck/TripleCross) - Rootkit leveraging eBPF.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
@@ -52,7 +142,7 @@
 *   [`ra6t1`](https://github.com/ra-rs/ra/tree/main/pac/ra6t1) Peripheral Access Crate for ra6t1 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6t1.svg)
 *   [`ra6t2`](https://github.com/ra-rs/ra/tree/main/pac/ra6t2) Peripheral Access Crate for ra6t2 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/ra6t2.svg)
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Iteration
 
@@ -61,20 +151,20 @@
     *   "It is, in general, the most complete implementation of the Transducer pattern."
     *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
 
-## [5. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [12. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Machine Learning / XML
 
 *   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
 *   [tfd (⭐31)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
 
-## [6. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Code Generation / SRAM
 
 *   [micropython-usermod](https://micropython-usermod.readthedocs.io) - Online book about MicroPython external modules writen in C.
 
-## [7. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
+## [14. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
 
 ### Community
 
@@ -97,43 +187,43 @@
 
 *   [Written Tutorials](https://mdbootstrap.com/learn/mdb-foundations/basics/introduction/)
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [vite-react-ts-template (⭐0)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
-## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [16. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Manyverse](https://gitlab.com/staltz/manyverse): A social network off the grid. Scuttlebutt for mobile.
 
-## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [17. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Development
 
 *   [migrate-mongo (⭐770)](https://github.com/seppevs/migrate-mongo) - Database migration tool
 
-## [11. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [18. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### Sysadmin
 
 *   [collective.regenv (⭐2)](https://github.com/collective/collective.regenv) - Override registry settings using environment variables.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [19. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [SAST Online](https://sast.online/) :copyright: — Examine the Android Source code to identify any security issues or vulnerabilities.
 
-## [13. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [20. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [safejax (⭐14)](https://github.com/alvarobartt/safejax) - Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors`. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
@@ -143,7 +233,7 @@
 
 *   [openaigo (⭐176)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
 
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Package Manager / Miscellaneous
 
@@ -151,7 +241,7 @@
 *   [pnpm](https://pnpm.io) - Disk space efficient package manager.
 *   [yarn](https://yarnpkg.com) - Alternative package manager.
 
-## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [23. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -165,7 +255,7 @@
 
 
 
-## [17. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [24. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### How-to guides
 
@@ -174,7 +264,7 @@
     *   [PAM distress login for xscreensaver (⭐0)](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
     *   [Automated Arkenfox Qubes browser install (⭐7)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
 
-## [18. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
@@ -184,7 +274,7 @@
 
 *   [sgqlc (⭐448)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
-## [19. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [26. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Projects / Wallets
 

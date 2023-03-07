@@ -49,7 +49,7 @@ A curated list of Generative AI tools, works, models, and references
     *   [Online Tools and Applications](#online-tools-and-applications)
     *   [Datasets](#datasets)
     *   [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
-        *   [Embeddings](#embeddings)
+        *   [Embeddings and Semantic Search](#embeddings-and-semantic-search)
         *   [ChatGPT](#chatgpt)
         *   [GPT-3](#gpt-3)
         *   [BLOOM](#bloom)
@@ -67,6 +67,7 @@ A curated list of Generative AI tools, works, models, and references
         *   [Galleries](#galleries)
     *   [Related Awesome Lists](#related-awesome-lists)
     *   [Miscellaneous](#miscellaneous)
+        *   [Bio experiments](#bio-experiments)
         *   [Jobs in Generative AI](#jobs-in-generative-ai)
         *   [Improving Google Colab experience](#improving-google-colab-experience)
         *   [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
@@ -75,6 +76,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## The Generative AI Area: history, maps, and definitions
 
+*   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
 *   \[🔥] [The landscape of generative AI landscape reports | by Ramsri Goutham | Jan, 2023 | Medium](https://ramsrigoutham.medium.com/the-landscape-of-generative-ai-landscape-reports-615a417b15d): a meta report on the reports published by 9 venture capital firms
 *   [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1/): overview of Generative AI by Cohere AI
 *   [Generative AI with Cohere: Part 2 - Use Case Ideation](https://txt.cohere.ai/generative-ai-part-2/): a list of Generative AI use cases by Cohere AI
@@ -114,7 +116,7 @@ A curated list of Generative AI tools, works, models, and references
 ### For text-to-image
 
 *   [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
-*   [daspartho/prompt-extend (⭐145)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
+*   [daspartho/prompt-extend (⭐148)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
 *   [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 *   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
 *   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
@@ -288,16 +290,17 @@ A curated list of Generative AI tools, works, models, and references
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐369)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐410)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐0)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### AI Tools for Searching
 
+*   [whitead/paper-qa (⭐1.2k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 *   [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
 
 ### Papers Collections
 
-*   [dair-ai/ML-Papers-Explained (⭐3k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+*   [dair-ai/ML-Papers-Explained (⭐3.2k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
 *   [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow)
 *   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
 *   [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8): Community knowledge base for Casual GAN Papers
@@ -371,6 +374,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Image Synthesis
 
+*   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 *   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 *   [openai/point-e (⭐4.5k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
@@ -463,7 +467,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Generative Adversarial Networks (GANs)
 
-*   \[🔥] [weihaox/awesome-gan-inversion (⭐893)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐900)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 *   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 *   [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
 *   [yuval-alaluf/stylegan3-editing (⭐550)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
@@ -561,6 +565,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Embeddings and Semantic Search
 
+*   \[🔥] [whitead/paper-qa (⭐1.2k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
 *   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 *   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
@@ -640,7 +645,7 @@ A curated list of Generative AI tools, works, models, and references
 ## Inbox: Video AI tools
 
 *   [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐95)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐101)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 *   [THUDM/CogVideo (⭐2.5k)](https://github.com/THUDM/CogVideo): text-to-video generation
 *   [baowenbo/DAIN (⭐7.7k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
@@ -653,7 +658,7 @@ A curated list of Generative AI tools, works, models, and references
 ## Inbox: Developing + AI
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
-*   [openai/openai-cookbook (⭐13k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [openai/openai-cookbook (⭐16k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ## People and works
 
@@ -734,7 +739,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Auxiliary tools and concepts
 
-*   [chaiNNer-org/chaiNNer (⭐1.8k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
+*   [chaiNNer-org/chaiNNer (⭐1.9k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 *   [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 *   [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
 *   [HashLips/hashlips\_art\_engine (⭐6.8k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers

@@ -6,6 +6,20 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Mar 07, 2023](/content/2023/03/07/README.md)
+
+### The Generative AI Area: history, maps, and definitions
+
+*   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
+
+### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
+
+*   \[🔥] [whitead/paper-qa (⭐1.2k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+
+### Image Synthesis / Promptism
+
+*   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
+
 ## [Mar 05, 2023](/content/2023/03/05/README.md)
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
@@ -184,7 +198,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
-*   [daspartho/prompt-extend (⭐145)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
+*   [daspartho/prompt-extend (⭐148)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
 
 ### Inbox: Stable Diffusion / For text-to-image
 
@@ -200,11 +214,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Developing + AI / Text-related Generative Tools
 
-*   [openai/openai-cookbook (⭐13k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [openai/openai-cookbook (⭐16k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ### Miscellaneous / Auxiliary tools and concepts
 
-*   [chaiNNer-org/chaiNNer (⭐1.8k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
+*   [chaiNNer-org/chaiNNer (⭐1.9k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
@@ -283,11 +297,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   \[🔥] [weihaox/awesome-gan-inversion (⭐893)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐900)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
 ### Inbox: Video AI tools / Text-related Generative Tools
 
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐95)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐101)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 
 ### People and works / Artists and Artworks
 
@@ -311,12 +325,12 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐369)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐410)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐0)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Papers and References / Papers Collections
 
-*   [dair-ai/ML-Papers-Explained (⭐3k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+*   [dair-ai/ML-Papers-Explained (⭐3.2k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 

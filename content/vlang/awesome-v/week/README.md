@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ [Daily](/content/vlang/awesome-v/README.md) / Weekly / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
+
+### Graphics
+
+*   [mpv-v (⭐7)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Discord
