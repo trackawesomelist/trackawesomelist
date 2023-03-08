@@ -115,6 +115,10 @@
 
 *   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.
 
+### Miscellaneous
+
+*   [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)
+
 ## [14. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
@@ -132,12 +136,13 @@
 ### Resources / Blog posts
 
 *   [Discover the Power of Polars Library for Fast and Efficient Data Manipulation in Python](https://python.plainenglish.io/discovering-polars-library-1d63c1eefb44) - An article that quickly compares Polars to other data manipulation libraries by [Morpheus](https://medium.com/@morpheuX/about).
-    *   [Why is Polars All The Rage?](https://seattledataguy.substack.com/p/why-is-polars-all-the-rage) - An article that explains why Polars will become very popular by [SeattleDataGuy](https://substack.com/profile/4963622-seattledataguy) and [Daniel Beach](https://substack.com/profile/21715962-daniel-beach).
+*   [Why is Polars All The Rage?](https://seattledataguy.substack.com/p/why-is-polars-all-the-rage) - An article that explains why Polars will become very popular by [SeattleDataGuy](https://substack.com/profile/4963622-seattledataguy) and [Daniel Beach](https://substack.com/profile/21715962-daniel-beach).
 
 ### Resources / Talks and videos
 
 *   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐7)](https://github.com/martinbel/polars-tutorial).
-*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankandrade).
+*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by \[@ifrankandrade]\(<https://github.com/ifrankand>
+*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
 
 ## [17. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 

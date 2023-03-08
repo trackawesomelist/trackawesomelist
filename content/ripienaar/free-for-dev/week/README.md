@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.
 
+### Miscellaneous
+
+*   [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)
+
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Monitoring
@@ -2429,9 +2433,9 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Miscellaneous
 
-*   [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
-*   [redirection.io](https://redirection.io/) — SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
 *   [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
+*   [redirection.io](https://redirection.io/) — SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
+*   [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
@@ -2814,8 +2818,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Miscellaneous
 
-*   [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 *   [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.
+*   [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
 ## [Sep 07 - Sep 13, 2020](/content/2020/36/README.md)
 

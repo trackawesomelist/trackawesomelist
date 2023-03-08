@@ -105,6 +105,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Alternatives to Pandas: Python Polars](https://codesolid.com/alternatives-to-pandas-python-polars/) - An article that explores the Python Polars module as an alternative to Pandas, comparing their similarities and differences and providing some examples by [@JohnLockwood](https://github.com/JohnLockwood)
 *   [Pandas vs Polars - A comparison on File I/O](https://www.shipyardapp.com/blog/pandas-vs-polars/) - A blog post that evaluates Polars and Pandas in terms of I/O performance and speed when handling large datasets by Wes Poulsen.
 *   [Discover the Power of Polars Library for Fast and Efficient Data Manipulation in Python](https://python.plainenglish.io/discovering-polars-library-1d63c1eefb44) - An article that quickly compares Polars to other data manipulation libraries by [Morpheus](https://medium.com/@morpheuX/about).
+*   [Why is Polars All The Rage?](https://seattledataguy.substack.com/p/why-is-polars-all-the-rage) - An article that explains why Polars will become very popular by [SeattleDataGuy](https://substack.com/profile/4963622-seattledataguy) and [Daniel Beach](https://substack.com/profile/21715962-daniel-beach).
 
 ### Talks and videos
 
@@ -116,7 +117,8 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Polars Introduction for Python with a 128GB Ryzen 24-core Benchmark vs Pandas](https://www.youtube.com/watch?v=J0wpRP-ExVg\&ab_channel=JeffHeaton) ⏳ `12 min` - A video that provides an introduction to Polars for Python by [@jeffheaton](https://github.com/jeffheaton). Notebook used for the video [in this github repo (⭐163)](https://github.com/jeffheaton/present/blob/master/youtube/polars/polars.ipynb).
 *   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐7)](https://github.com/martinbel/polars-tutorial).
 *   [Polars vs Pandas](https://www.youtube.com/watch?v=jU8Ghp7tRCU\&ab_channel=hu-po) ⏳ `37 min` - A detailed video on Youtube that compares Polars and Pandas by [@hu-po](https://github.com/hu-po).
-*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankandrade).
+*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by \[@ifrankandrade]\(<https://github.com/ifrankand>
+*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
 
 ## Follow : Official
 

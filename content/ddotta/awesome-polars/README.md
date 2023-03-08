@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Mar 08, 2023](/content/2023/03/08/README.md)
+
+### Resources / Blog posts
+
+*   [Why is Polars All The Rage?](https://seattledataguy.substack.com/p/why-is-polars-all-the-rage) - An article that explains why Polars will become very popular by [SeattleDataGuy](https://substack.com/profile/4963622-seattledataguy) and [Daniel Beach](https://substack.com/profile/21715962-daniel-beach).
+
+### Resources / Talks and videos
+
+*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
+
 ## [Mar 06, 2023](/content/2023/03/06/README.md)
 
 ### Resources / Blog posts
@@ -15,7 +25,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Resources / Talks and videos
 
 *   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐7)](https://github.com/martinbel/polars-tutorial).
-*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankandrade).
+*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by \[@ifrankandrade]\(<https://github.com/ifrankand>
 
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 

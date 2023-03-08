@@ -30,13 +30,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
 
-#### [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Authentication, Authorization and User Management
-
-*   [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
-
-#### [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Personal Dashboards
 
@@ -46,7 +40,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Mindwendel](https://www.mindwendel.com/) - Brainstorm and upvote ideas and thoughts within your team. ([Demo](https://www.mindwendel.com), [Source Code (⭐28)](https://github.com/mindwendel/mindwendel)) `AGPL-3.0` `Docker/Elixir`
 
-#### [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+#### [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ##### Automation
 
@@ -57,7 +51,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 
-#### [6. Ai Collection](/content/ai-collection/ai-collection/README.md)
+#### [5. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ##### Video
 
@@ -70,6 +64,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
   Offer Free Version: :white\_check\_mark :
 
 
+
+#### [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Authentication, Authorization and User Management
+
+*   [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
+
+##### Miscellaneous
+
+*   [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)
+
+#### [7. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Blog posts
+
+*   [Why is Polars All The Rage?](https://seattledataguy.substack.com/p/why-is-polars-all-the-rage) - An article that explains why Polars will become very popular by [SeattleDataGuy](https://substack.com/profile/4963622-seattledataguy) and [Daniel Beach](https://substack.com/profile/21715962-daniel-beach).
+
+##### Resources / Talks and videos
+
+*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
 
 ### [Mar 07, 2023](/content/2023/03/07/README.md)
 
@@ -327,12 +341,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Resources / Blog posts
 
 *   [Discover the Power of Polars Library for Fast and Efficient Data Manipulation in Python](https://python.plainenglish.io/discovering-polars-library-1d63c1eefb44) - An article that quickly compares Polars to other data manipulation libraries by [Morpheus](https://medium.com/@morpheuX/about).
-    *   [Why is Polars All The Rage?](https://seattledataguy.substack.com/p/why-is-polars-all-the-rage) - An article that explains why Polars will become very popular by [SeattleDataGuy](https://substack.com/profile/4963622-seattledataguy) and [Daniel Beach](https://substack.com/profile/21715962-daniel-beach).
 
 ##### Resources / Talks and videos
 
 *   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐7)](https://github.com/martinbel/polars-tutorial).
-*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankandrade).
+*   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by \[@ifrankandrade]\(<https://github.com/ifrankand>
 
 ---
 
@@ -417,7 +430,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md) - ([Source ⭐ 1.5K, 📝 22&#x2F;12&#x2F;04 ](https://github.com/sitepoint-editors/awesome-symfony)) - A list of awesome Symfony bundles, utilities and resources.
 - [Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md) - ([Source ⭐ 316, 📝 19&#x2F;02&#x2F;23 ](https://github.com/pehapkari/awesome-symfony-education)) - Useful sources around Symfony - articles, series and books (not Bundles)
 - [Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md) - ([Source ⭐ 748, 📝 22&#x2F;02&#x2F;03 ](https://github.com/livewire/awesome-tall-stack)) - A curated list of awesome things related to the TALL stack.
-- [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 4K, 📝 02&#x2F;17 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
+- [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 4.1K, 📝 02&#x2F;17 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
 - [Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md) - ([Source ⭐ 563, 📝 20&#x2F;10&#x2F;07 ](https://github.com/iJackUA/awesome-vagrant)) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 - [Awesome Vapor](/content/vapor-community/awesome-vapor/README.md) - ([Source ⭐ 980, 📝 19&#x2F;10&#x2F;21 ](https://github.com/vapor-community/awesome-vapor)) - A curated list of Vapor-related awesome projects.
 - [Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md) - ([Source ⭐ 66, 📝 20&#x2F;08&#x2F;16 ](https://github.com/PhantomYdn/awesome-wicket)) - A curated list of awesome projects powered by Apache Wicket 
@@ -1028,7 +1041,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.4K, 📝 22&#x2F;11&#x2F;16 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 621, 📝 21&#x2F;01&#x2F;13 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 28K, 📝 22&#x2F;07&#x2F;23 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 78, 📝 03&#x2F;06 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 78, 📝 03&#x2F;08 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.

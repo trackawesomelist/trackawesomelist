@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
 
+### Miscellaneous
+
+*   [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)
+
 ## [Mar 07, 2023](/content/2023/03/07/README.md)
 
 ### PaaS
@@ -3086,8 +3090,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Miscellaneous
 
-*   [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
 *   [redirection.io](https://redirection.io/) — SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
+*   [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
 
 ## [Feb 19, 2021](/content/2021/02/19/README.md)
 
@@ -3528,8 +3532,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Miscellaneous
 
-*   [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 *   [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.
+*   [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
 ## [Sep 11, 2020](/content/2020/09/11/README.md)
 
