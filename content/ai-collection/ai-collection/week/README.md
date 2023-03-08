@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
+
+### Video
+
+- Name: [Augie](https://www.augxlabs.com/)
+
+  Title: Augie transforms words into videos!
+
+  Description: Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words!
+
+  Offer Free Version: :white\_check\_mark :
+
+
+
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Education & Learning

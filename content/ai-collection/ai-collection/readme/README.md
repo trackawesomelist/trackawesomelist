@@ -51,26 +51,23 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 Translations:
 
-*   Русский: [README.ru.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
-*   Chinese (Simplified) 简体中文）: [README.zh-CN.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
-*   Français: [README.fr.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
-*   español: [README.es.md (⭐2.1k)](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
+*   Русский: [README.ru.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
+*   Chinese (Simplified) 简体中文）: [README.zh-CN.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+*   Français: [README.fr.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+*   español: [README.es.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
 
 ***
 
 <div align="center">
     <h5>Promotion</h5>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/raw/main/Looka.png" alt="Lookah" border="0"/>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
+        <img width="300" src="https://github.com/ai-collection/ai-collection/raw/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
     </a>
-    <p>This week's awesome AI application promotion is <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Looka</b>
+    <p>This week's awesome AI application promotion is <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>easy-peasy.AI</b>
     </a></p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank">
-        <img width="200" src="https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg" alt="looka logo">
-    </a>
-    <h4>Design your own beautiful brand</h4>
-    <p>Premium logo designs — generate 100s of custom logos for free, with no account required until you&#39;re ready to purchase</p>
-    <a href="https://looka.grsm.io/jscfk35v34tn" target="_blank"><b>Get Started</b></a>
+    <h4>Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant</h4>
+    <p>Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.</p>
+    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started</b></a>
 </div>
 
 ***
@@ -921,29 +918,30 @@ Translations:
 
 ## Video
 
-| Name                                                    | Title                                                                 | Description                                                                                                                                 |  Offer Free Version  |
-| ------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
-| [AI Host](https://livereacting.sjv.io/beth0)            | Run Interactive Live Streams.                                         | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream.        |          :x:         |
-| [BRIA](http://commercial.bria.ai/)                      | Create Images and Video at Scale - Bria.                              | .                                                                                                                                           |   :grey\_question:   |
-| [Boolpic](http://boolv.tech)                            | An Intelligent Video Platform That Empowers Brands.                   | Generate on-brand videos 10X faster with AI to boost marketing performance.                                                                 |   :grey\_question:   |
-| [D-ID's Creative Reality Studio](https://www.d-id.com/) | Future-Facing Generative AI.                                          | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers.                     | :white\_check\_mark: |
-| [Deepfakesweb](http://deepfakesweb.com)                 | Make Your Own Deepfakes.                                              | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today.            |   :grey\_question:   |
-| [Eightify](https://eightify.app/)                       | Get 8 Key Ideas From YouTube Videos.                                  | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.                                               | :white\_check\_mark: |
-| [Elai](http://elai.io)                                  | Create AI Videos From Just Text.                                      | Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen.                                    | :white\_check\_mark: |
-| [FilmForge](http://filmforge.uwu.ai)                    | Filmforge AI.                                                         | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included.                                                 |   :grey\_question:   |
-| [Fliki](http://fliki.ai?via=beth0)                      | Turn Text Into Videos With AI Voices.                                 | Create videos from scripts or blog posts using realistic voices in 2 minutes!.                                                              | :white\_check\_mark: |
-| [Gling](http://www.gling.ai)                            | Creator, Get Your Time Back.                                          | Our AI will cut silences and bad takes for you so you can focus on your YouTube videos.                                                     |   :grey\_question:   |
-| [Move](https://www.move.ai/)                            | Move AI.                                                              | Capture high quality motion data from video in any environment using mobile phones.                                                         |   :grey\_question:   |
-| [Pictory](http://pictory.ai?ref=milana31)               | Video Creation Made Easy.                                             | Automatically create short, highly-sharable branded videos from your long form content.                                                     |   :grey\_question:   |
-| [Simplified](http://simplified.com)                     | Simplified: An Easy to Use All-in-One App for Modern Marketing Teams. | Design, Write, Edit videos, and Publish Content. Built For Teams.                                                                           |   :grey\_question:   |
-| [Story Bard](http://www.storybard.co)                   | Video Stories Generated by AI.                                        | .                                                                                                                                           |   :grey\_question:   |
-| [Summarize Tech](http://www.summarize.tech)             | Summarize.Tech: AI-Powered Video Summaries.                           | Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.                              |   :grey\_question:   |
-| [Supercreator AI](http://www.supercreator.ai)           | Supercreator.Ai - Create Videos 10X Faster With AI.                   | .                                                                                                                                           |   :grey\_question:   |
-| [ToWords](http://www.towords.io)                        | Towords: YouTube to Words.                                            | Make your videos and audio come alive with written words.                                                                                   |   :grey\_question:   |
-| [Typestudio](http://www.typestudio.co)                  | Type Studio - Edit Your Video by Editing Text.                        | Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews.                                       |   :grey\_question:   |
-| [Vidyo](http://vidyo.ai)                                | AI Based Content Repurposing - Vidyo.Ai.                              | Create social ready short clips from your videos with AI ✨ Save 90% time and effort.                                                        |   :grey\_question:   |
-| [Waymark](http://waymark.com)                           | Boost Local Sales With Unbelievably Easy Video.                       | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. |   :grey\_question:   |
-| [Wzrd.ai](http://wzrd.ai)                               | Experience Your Sound.                                                | WZRD augments your audio with immersive video powered by artificial intelligence.                                                           |   :grey\_question:   |
+| Name                                                    | Title                                                                 | Description                                                                                                                                 |   Offer Free Version  |
+| ------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: |
+| [AI Host](https://livereacting.sjv.io/beth0)            | Run Interactive Live Streams.                                         | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream.        |          :x:          |
+| [BRIA](http://commercial.bria.ai/)                      | Create Images and Video at Scale - Bria.                              | .                                                                                                                                           |    :grey\_question:   |
+| [Boolpic](http://boolv.tech)                            | An Intelligent Video Platform That Empowers Brands.                   | Generate on-brand videos 10X faster with AI to boost marketing performance.                                                                 |    :grey\_question:   |
+| [D-ID's Creative Reality Studio](https://www.d-id.com/) | Future-Facing Generative AI.                                          | Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers.                     |  :white\_check\_mark: |
+| [Deepfakesweb](http://deepfakesweb.com)                 | Make Your Own Deepfakes.                                              | Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today.            |    :grey\_question:   |
+| [Eightify](https://eightify.app/)                       | Get 8 Key Ideas From YouTube Videos.                                  | ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.                                               |  :white\_check\_mark: |
+| [Elai](http://elai.io)                                  | Create AI Videos From Just Text.                                      | Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen.                                    |  :white\_check\_mark: |
+| [FilmForge](http://filmforge.uwu.ai)                    | Filmforge AI.                                                         | Instantly generate engaging videos. Captions, voiceover, transcript, and graphics included.                                                 |    :grey\_question:   |
+| [Fliki](http://fliki.ai?via=beth0)                      | Turn Text Into Videos With AI Voices.                                 | Create videos from scripts or blog posts using realistic voices in 2 minutes!.                                                              |  :white\_check\_mark: |
+| [Gling](http://www.gling.ai)                            | Creator, Get Your Time Back.                                          | Our AI will cut silences and bad takes for you so you can focus on your YouTube videos.                                                     |    :grey\_question:   |
+| [Move](https://www.move.ai/)                            | Move AI.                                                              | Capture high quality motion data from video in any environment using mobile phones.                                                         |    :grey\_question:   |
+| [Pictory](http://pictory.ai?ref=milana31)               | Video Creation Made Easy.                                             | Automatically create short, highly-sharable branded videos from your long form content.                                                     |    :grey\_question:   |
+| [Simplified](http://simplified.com)                     | Simplified: An Easy to Use All-in-One App for Modern Marketing Teams. | Design, Write, Edit videos, and Publish Content. Built For Teams.                                                                           |    :grey\_question:   |
+| [Story Bard](http://www.storybard.co)                   | Video Stories Generated by AI.                                        | .                                                                                                                                           |    :grey\_question:   |
+| [Summarize Tech](http://www.summarize.tech)             | Summarize.Tech: AI-Powered Video Summaries.                           | Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.                              |    :grey\_question:   |
+| [Supercreator AI](http://www.supercreator.ai)           | Supercreator.Ai - Create Videos 10X Faster With AI.                   | .                                                                                                                                           |    :grey\_question:   |
+| [ToWords](http://www.towords.io)                        | Towords: YouTube to Words.                                            | Make your videos and audio come alive with written words.                                                                                   |    :grey\_question:   |
+| [Typestudio](http://www.typestudio.co)                  | Type Studio - Edit Your Video by Editing Text.                        | Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews.                                       |    :grey\_question:   |
+| [Vidyo](http://vidyo.ai)                                | AI Based Content Repurposing - Vidyo.Ai.                              | Create social ready short clips from your videos with AI ✨ Save 90% time and effort.                                                        |    :grey\_question:   |
+| [Waymark](http://waymark.com)                           | Boost Local Sales With Unbelievably Easy Video.                       | When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark. |    :grey\_question:   |
+| [Wzrd.ai](http://wzrd.ai)                               | Experience Your Sound.                                                | WZRD augments your audio with immersive video powered by artificial intelligence.                                                           |    :grey\_question:   |
+| [Augie](https://www.augxlabs.com/)                      | Augie transforms words into videos!                                   | Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words!                      | :white\_check\_mark : |
 
 <!--End of Video 25-->
 
