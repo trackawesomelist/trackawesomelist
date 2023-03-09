@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Mar 09, 2023](/content/2023/03/09/README.md)
+
+### Robotics
+
+*   [Ruckig (⭐406)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
+
 ## [Mar 05, 2023](/content/2023/03/05/README.md)
 
 ### Internationalization
@@ -77,12 +83,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Debug
 
-*   [snitch (⭐97)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+*   [snitch (⭐103)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
 
 ### Game Engine
 
-*   [Torque2D (⭐739)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
-*   [Torque3D (⭐809)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
+*   [Torque2D (⭐775)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+*   [Torque3D (⭐850)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 
 ### Math
 
@@ -108,13 +114,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Math
 
-*   [MatX (⭐681)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
+*   [MatX (⭐690)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
 
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
 ### Frameworks
 
-*   [libxutils (⭐16)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐17)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 

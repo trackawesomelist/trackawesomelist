@@ -2,21 +2,21 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 184 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 199 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
+
+## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
+
+### Automotive
+
+*   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG078) - Kia configurator (Korean).
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Extensions and Utilities
 
-*   [PlayBuild (⭐3)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
-
-## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
-
-### Automotive
-
-*   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - Kia configurator (Korean).
+*   [PlayBuild (⭐6)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -41,10 +41,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
-
-### Automotive
-
-*   [Husqvarna](https://webxr.s3-accelerate.amazonaws.com/Husqvarna/index.html) - Configurator technology demonstration from Visionaries777.
 
 ### AR/VR/XR
 
@@ -258,7 +254,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### PlayCanvas
 
-*   [Engine (⭐8.1k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8.2k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -334,7 +330,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [playcanvas-vue (⭐37)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
+*   [playcanvas-vue (⭐38)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 
 ### Browser Games
 
@@ -395,10 +391,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [playcanvas-ar (⭐198)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-ar (⭐203)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 *   [playcanvas-p2.js (⭐20)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-*   [playcanvas-spine (⭐40)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐46)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-spine (⭐42)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
+*   [playcanvas-tween (⭐48)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 *   [Sublime Completions (⭐5)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
@@ -451,7 +447,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.1k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 

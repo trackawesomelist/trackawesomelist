@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 184 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 199 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / Overview ]
 
@@ -37,7 +37,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## PlayCanvas
 
 *   [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-*   [Engine (⭐8.1k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8.2k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
@@ -71,15 +71,15 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## Extensions and Utilities
 
 *   [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
-*   [playcanvas-ar (⭐198)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-ar (⭐203)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 *   [playcanvas-p2.js (⭐20)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-*   [playcanvas-spine (⭐40)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐46)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
-*   [playcanvas-vue (⭐37)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-*   [tween.js (⭐9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [playcanvas-spine (⭐42)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
+*   [playcanvas-tween (⭐48)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-vue (⭐38)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
+*   [tween.js (⭐9.1k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 *   [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
-*   [PlayBuild (⭐3)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
+*   [PlayBuild (⭐6)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
 *   [Sublime Completions (⭐5)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
 ## Technical Demos
@@ -174,10 +174,9 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [BMW i8](http://car.playcanvas.com) - Car visualizer.
 *   [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
 *   [Honda Civic Type R](https://www.honda.co.jp/CIVICTYPE-R/configurator/) - Configurator (Japanese).
-*   [Husqvarna](https://webxr.s3-accelerate.amazonaws.com/Husqvarna/index.html) - Configurator technology demonstration from Visionaries777.
 *   [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 *   [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
-*   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - Kia configurator (Korean).
+*   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG078) - Kia configurator (Korean).
 *   [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 *   [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - Car visualizer.
 *   [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - Explore Nissan's Arriya in 3D (Japanese - requires sign in).
@@ -216,5 +215,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐184)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐199)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

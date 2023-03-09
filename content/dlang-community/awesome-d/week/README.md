@@ -8,6 +8,34 @@
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Getting Help
+
+*   [D on Discord](https://discord.gg/invite/bMZk9Q4) - Another very active community for D conversations and question.
+
+### People
+
+*   [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
+
+### Tutorials
+
+*   [Functional image processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
+
+### Web Frameworks / Bare metal / kernel development
+
+*   [Handy-Httpd (⭐16)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
+
+### Data serialization / JSON
+
+*   [fast.json (⭐109)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
+
+### Game Frameworks / XML
+
+*   [rengfx (⭐78)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+
+### Games / XML
+
+*   [Electronvolt (formerly Atrium) (⭐108)](https://github.com/gecko0307/electronvolt) - FPS game with physics based puzzles using OpenGL.
+
 ### Machine Learning / XML
 
 *   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
@@ -64,10 +92,6 @@
 
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
-### Getting Help
-
-*   [D on Discord](https://discord.gg/bMZk9Q4) - Another very active community for D conversations and question.
-
 ### Game Frameworks / XML
 
 *   [Dagon (⭐270)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
@@ -110,7 +134,6 @@
 ### People
 
 *   [Walter Bright](https://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
-*   [Andrei Alexandrescu, PhD](https://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
 
 ### Events
 
@@ -124,7 +147,7 @@
 
 *   [TDPL](https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
 *   [Programming in D](https://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners.
-*   [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](https://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
+*   [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](https://www.cppstories.com/2014/08/review-of-d-cookbook/).
 *   [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) - This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D. (...) This book will help you get up to speed with the language and avoid common pitfalls that arise when translating C-family experience to D.
 *   [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) - Whether you are new to the world of D, or already have developed applications in D, or if you want to leverage the power of D for web development, then this book is ideal for you.
 
@@ -133,7 +156,6 @@
 *   [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
 *   [Component programming in D](https://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
 *   [Component programming with ranges](https://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
-*   [Functional image processing in D](https://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
 *   [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/BlogPost/JsonSerialiser/0) - D metaprogramming tutorial series
 
 ### Tutorials / Bare metal / kernel development
@@ -247,11 +269,9 @@
 ### Game Frameworks / XML
 
 *   [Dash (⭐416)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
-*   [rengfx (⭐78)](https://github.com/xdrie/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 
 ### Games / XML
 
-*   [Atrium (⭐108)](https://github.com/gecko0307/atrium) - FPS game with physics based puzzles using OpenGL.
 *   [Backgammony (⭐38)](https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
 
 ### Internationalization / XML
@@ -623,12 +643,6 @@
 
 *   [mysql-native (⭐80)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 
-## [Oct 19 - Oct 25, 2015](/content/2015/42/README.md)
-
-### Data serialization / JSON
-
-*   [fast.json (⭐109)](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
-
 ## [Oct 12 - Oct 18, 2015](/content/2015/41/README.md)
 
 ### Javascript / Bare metal / kernel development
@@ -752,7 +766,7 @@
 *   [arsd (⭐481)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 *   [ddb (⭐39)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
 *   [ddbc (⭐73)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
-*   [hibernated (⭐79)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)).
+*   [hibernated (⭐79)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 *   [dvorm (⭐18)](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 
 ### GUI Libs / XML

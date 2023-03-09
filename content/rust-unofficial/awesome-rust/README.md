@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 09, 2023](/content/2023/03/09/README.md)
+
+### Applications / Utilities
+
+*   [Epic Asset Manager (⭐221)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+
 ## [Mar 07, 2023](/content/2023/03/07/README.md)
 
 ### Libraries / Image processing

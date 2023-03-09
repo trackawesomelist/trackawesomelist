@@ -119,7 +119,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libPhenom (⭐1.7k)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
 *   [LibSourcey (⭐1.3k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
 *   [LibU (⭐402)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
-*   [libxutils (⭐16)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐17)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 *   [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. \[MIT]
 *   [MiLi (⭐17)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. \[Boost]
 *   [OpenFrameworks (⭐9.3k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
@@ -464,7 +464,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Nanotimer (⭐111)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 *   [Nonius (⭐348)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 *   [Remotery (⭐2.5k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
-*   [snitch (⭐97)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
+*   [snitch (⭐103)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
 *   [Touca (⭐334)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 *   [UnitTest++ (⭐513)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 *   [Unity (⭐2.9k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
@@ -504,8 +504,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Polycode (⭐2.4k)](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). \[MIT] [website](http://polycode.org/)
 *   [raylib (⭐12k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 *   [Spring (⭐3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
-*   [Torque2D (⭐739)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
-*   [Torque3D (⭐809)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
+*   [Torque2D (⭐775)](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+*   [Torque3D (⭐850)](https://github.com/TorqueGameEngines/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 *   [toy engine (⭐1.5k)](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 *   [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. \[MIT]
 
@@ -726,7 +726,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [GMP](https://gmplib.org/) - A C library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. \[LGPL3 & GPL2]
 *   [Klein (⭐646)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 *   [linalg.h (⭐765)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
-*   [MatX (⭐681)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
+*   [MatX (⭐690)](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax \[BSD 3-clause]
 *   [MIRACL (⭐535)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 *   [NumCpp (⭐2.8k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 *   [muparser](https://beltoforion.de/en/muparser) - muParser is an extensible high performance math expression parser library written in C++. \[MIT]
@@ -895,6 +895,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. \[BSD]
 *   [RobWork](https://gitlab.com/sdurobotics/RobWork) - A collection of C++ libraries for simulation and control of robot systems. \[Apache2] [website](http://www.robwork.dk/)
 *   [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. \[BSD]
+*   [Ruckig (⭐406)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 *   [YARP (Yet Another Robot Platform) (⭐451)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## Scientific Computing

@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Applications / Utilities
+
+*   [Epic Asset Manager (⭐221)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+
 ### Libraries / Image processing
 
 *   [marekm4/dominant\_color (⭐16)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
