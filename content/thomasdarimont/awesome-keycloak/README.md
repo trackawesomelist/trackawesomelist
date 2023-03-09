@@ -6,6 +6,16 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Mar 09, 2023](/content/2023/03/09/README.md)
+
+### Articles
+
+*   [Keycloak as Authorization Server in .NET](https://nikiforovall.github.io/dotnet/keycloak/2022/12/28/keycloak-authorization-server.html)
+
+### Example Projects
+
+*   [Example for using Keycloak Authorization with ASP.NET Core (⭐126)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+
 ## [Mar 04, 2023](/content/2023/03/04/README.md)
 
 ### Community Extensions

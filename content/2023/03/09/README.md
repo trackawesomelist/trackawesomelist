@@ -1,12 +1,40 @@
 # Awesome List Updates on Mar 09, 2023
 
-9 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Slide Show and Presentation Tools / Telegram
+
+*   [nimdone](https://nimdone.com)
+
+## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+
+### Articles
+
+*   [Keycloak as Authorization Server in .NET](https://nikiforovall.github.io/dotnet/keycloak/2022/12/28/keycloak-authorization-server.html)
+
+### Example Projects
+
+*   [Example for using Keycloak Authorization with ASP.NET Core (⭐126)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### JSON
+
+*   [jsonhandlers (⭐0)](https://github.com/abusomani/jsonhandlers) - JSON library to expose simple handlers that lets you easily read and write json from various sources.
+
+## [4. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+
+### Development
+
+*   [vudu (⭐21)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
+
+## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Open source / GPL (with linking exception)
 
@@ -69,13 +97,13 @@
 
 *   [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Utils / Third-party APIs
 
 *   [Blackbird](https://orthecreedence.github.io/blackbird/) - a Promise implementation for Common Lisp [MIT](https://opensource.org/licenses/MIT).
 
-## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Getting Help
 
@@ -105,19 +133,19 @@
 
 *   [Electronvolt (formerly Atrium) (⭐108)](https://github.com/gecko0307/electronvolt) - FPS game with physics based puzzles using OpenGL.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Robotics
 
 *   [Ruckig (⭐406)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
 *   [Epic Asset Manager (⭐221)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Mail
 
@@ -184,19 +212,19 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Automotive
 
 *   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG078) - Kia configurator (Korean).
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Python / Angular
 
 *   [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/). One Python tip every week, sent on Wednesdays.
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Terraform Enterprise / Vendor supported providers
 
