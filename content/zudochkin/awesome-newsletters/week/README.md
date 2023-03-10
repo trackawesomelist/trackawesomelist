@@ -8,6 +8,10 @@ A list of amazing Newsletters
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Swift / Angular
+
+*   [Indie Watch](https://indie.watch/). Weekly interviews with successful iOS & macOS developers about strategies and tips you can use to create profitable indie apps.
+
 ### Python / Angular
 
 *   [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/). One Python tip every week, sent on Wednesdays.

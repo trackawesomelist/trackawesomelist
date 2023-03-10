@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Mar 10, 2023](/content/2023/03/10/README.md)
+
+### Swift / Angular
+
+*   [Indie Watch](https://indie.watch/). Weekly interviews with successful iOS & macOS developers about strategies and tips you can use to create profitable indie apps.
+
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 
 ### Python / Angular
