@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Mar 10, 2023](/content/2023/03/10/README.md)
+
+### Templates / Vue 3
+
+*   [vite-plugin-style-vw-loader (⭐0)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
+
 ## [Mar 06, 2023](/content/2023/03/06/README.md)
 
 ### Templates / React
@@ -700,7 +706,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-keyboard-navigator (⭐17)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐19)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 
 ## [Jun 30, 2022](/content/2022/06/30/README.md)
 
@@ -1606,7 +1612,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐31)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐34)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [May 26, 2021](/content/2021/05/26/README.md)
 

@@ -8,6 +8,10 @@
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Templates / Vue 3
+
+*   [vite-plugin-style-vw-loader (⭐0)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
+
 ### Templates / React
 
 *   [vite-react-ts-template (⭐0)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
@@ -590,7 +594,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-keyboard-navigator (⭐17)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐19)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -1291,7 +1295,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐31)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐34)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 

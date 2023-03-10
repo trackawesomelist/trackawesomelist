@@ -127,7 +127,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐5.4k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐567)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐230)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [PySpark Cheatsheet (⭐237)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
@@ -136,7 +136,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 *   [Tutorials to get started on signal processings for machine learning (⭐25)](https://github.com/jinglescode/python-signal-processing)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐6.3k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐6.4k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -153,6 +153,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 *   [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
 *   [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 *   [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W\&B
+*   [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
 
 ### MOOC's
 
@@ -317,19 +318,19 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 **[`^        back to top        ^`](#awesome-data-science)**
 
 *   [scikit-learn](https://scikit-learn.org/)
-*   [scikit-multilearn (⭐812)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐817)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐483)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.3k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐375)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐655)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐486)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐420)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [scikit-rebate (⭐376)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐658)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐485)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐418)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐715)](https://github.com/rsteca/sklearn-deap)
 *   [sigopt\_sklearn (⭐73)](https://github.com/sigopt/sigopt-sklearn)
 *   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation)
-*   [scikit-image (⭐5.2k)](https://github.com/scikit-image/scikit-image)
-*   [scikit-opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐270)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-image (⭐5.3k)](https://github.com/scikit-image/scikit-image)
+*   [scikit-opt (⭐3.9k)](https://github.com/guofei9987/scikit-opt)
+*   [scikit-posthocs (⭐271)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐667)](https://github.com/pystruct/pystruct)
 *   [Shogun](https://www.shogun-toolbox.org/)
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn)
@@ -341,10 +342,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐12k)](https://github.com/davisking/dlib)
-*   [imodels (⭐1k)](https://github.com/csinva/imodels)
-*   [RuleFit (⭐342)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐755)](https://github.com/dswah/pyGAM)
-*   [Deepchecks (⭐2.4k)](https://github.com/deepchecks/deepchecks)
+*   [imodels (⭐1.1k)](https://github.com/csinva/imodels)
+*   [RuleFit (⭐348)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐756)](https://github.com/dswah/pyGAM)
+*   [Deepchecks (⭐2.5k)](https://github.com/deepchecks/deepchecks)
 *   [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 
 ### Deep Learning Packages
@@ -357,27 +358,27 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [torchaudio (⭐2k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.2k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.5k)](https://github.com/pytorch/tnt)
-*   [PyToune (⭐541)](https://github.com/GRAAL-Research/poutyne)
-*   [skorch (⭐5k)](https://github.com/skorch-dev/skorch)
+*   [PyToune (⭐540)](https://github.com/GRAAL-Research/poutyne)
+*   [skorch (⭐5.1k)](https://github.com/skorch-dev/skorch)
 *   [PyVarInf (⭐343)](https://github.com/ctallec/pyvarinf)
 *   [pytorch\_geometric (⭐17k)](https://github.com/pyg-team/pytorch_geometric)
 *   [GPyTorch (⭐3k)](https://github.com/cornellius-gp/gpytorch)
 *   [pyro (⭐7.8k)](https://github.com/pyro-ppl/pyro)
 *   [Catalyst (⭐3.1k)](https://github.com/catalyst-team/catalyst)
-*   [pytorch\_tabular (⭐831)](https://github.com/manujosephv/pytorch_tabular)
+*   [pytorch\_tabular (⭐843)](https://github.com/manujosephv/pytorch_tabular)
 
 #### TensorFlow Ecosystem
 
 *   [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow)
-*   [TensorLayer (⭐7.1k)](https://github.com/tensorlayer/TensorLayer)
+*   [TensorLayer (⭐7.2k)](https://github.com/tensorlayer/TensorLayer)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet)
 *   [tensorpack (⭐6.3k)](https://github.com/tensorpack/tensorpack)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.3k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐739)](https://github.com/itdxer/neupy)
+*   [NeuPy (⭐742)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐350)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐626)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐631)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐63)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐10)](https://github.com/bsautermeister/tensorlight)
@@ -394,7 +395,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐493)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.2k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐442)](https://github.com/google/qkeras)
+*   [qkeras (⭐445)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -425,7 +426,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [jqplot](https://www.jqplot.com/)
 *   [Matplotlib](https://matplotlib.org/)
 *   [nvd3](https://nvd3.org/)
-*   [Netron (⭐21k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐22k)](https://github.com/lutzroeder/netron)
 *   [Openrefine](https://openrefine.org/)
 *   [plot.ly](https://plot.ly/)
 *   [raw](https://rawgraphs.io)
@@ -451,13 +452,13 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [The Data Science Lifecycle Process (⭐360)](https://github.com/dslp/dslp)                                        | The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo                                                                                                                                              |
 | [Data Science Lifecycle Template Repo (⭐141)](https://github.com/dslp/dslp-repo-template)                        | Template repository for data science lifecycle project                                                                                                                                                                                                                                                           |
 | [RexMex (⭐260)](https://github.com/AstraZeneca/rexmex)                                                           | A general purpose recommender metrics library for fair evaluation.                                                                                                                                                                                                                                               |
-| [ChemicalX (⭐610)](https://github.com/AstraZeneca/chemicalx)                                                     | A PyTorch based deep learning library for drug pair scoring.                                                                                                                                                                                                                                                     |
-| [PyTorch Geometric Temporal (⭐1.9k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)          | Representation learning on dynamic graphs.                                                                                                                                                                                                                                                                       |
-| [Little Ball of Fur (⭐624)](https://github.com/benedekrozemberczki/littleballoffur)                              | A graph sampling library for NetworkX with a Scikit-Learn like API.                                                                                                                                                                                                                                              |
+| [ChemicalX (⭐613)](https://github.com/AstraZeneca/chemicalx)                                                     | A PyTorch based deep learning library for drug pair scoring.                                                                                                                                                                                                                                                     |
+| [PyTorch Geometric Temporal (⭐2k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)            | Representation learning on dynamic graphs.                                                                                                                                                                                                                                                                       |
+| [Little Ball of Fur (⭐626)](https://github.com/benedekrozemberczki/littleballoffur)                              | A graph sampling library for NetworkX with a Scikit-Learn like API.                                                                                                                                                                                                                                              |
 | [Karate Club (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub)                                         | An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.                                                                                                                                                                                                                    |
-| [ML Workspace (⭐2.9k)](https://github.com/ml-tooling/ml-workspace)                                               | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code)                                                             |
+| [ML Workspace (⭐3k)](https://github.com/ml-tooling/ml-workspace)                                                 | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code)                                                             |
 | [Neptune.ai](https://neptune.ai)                                                                                 | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.                                                                                                          |
-| [steppy (⭐134)](https://github.com/minerva-ml/steppy)                                                            | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.                                                                                                                                    |
+| [steppy (⭐135)](https://github.com/minerva-ml/steppy)                                                            | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.                                                                                                                                    |
 | [steppy-toolkit (⭐21)](https://github.com/minerva-ml/steppy-toolkit)                                             | Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective.                                                                                                                                                                               |
 | [Datalab from Google](https://cloud.google.com/datalab/docs/)                                                    | easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.                                                                                                                                                                                          |
 | [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html)                               | is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.                                                                                                                                                                                                                 |
@@ -465,7 +466,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Tidyverse](https://www.tidyverse.org/)                                                                          | is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.                                                                                                                                                          |
 | [RStudio](https://www.rstudio.com)                                                                               | IDE – powerful user interface for R. It’s free and open source, works on Windows, Mac, and Linux.                                                                                                                                                                                                                |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)                                                           | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing                                                                                                                                                                             |
-| [Pandas GUI (⭐2.8k)](https://github.com/adrotog/PandasGUI)                                                       | Pandas GUI                                                                                                                                                                                                                                                                                                       |
+| [Pandas GUI (⭐2.9k)](https://github.com/adrotog/PandasGUI)                                                       | Pandas GUI                                                                                                                                                                                                                                                                                                       |
 | [Scikit-Learn](https://scikit-learn.org/stable/)                                                                 | Machine Learning in Python                                                                                                                                                                                                                                                                                       |
 | [NumPy](https://numpy.org/)                                                                                      | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays.                                                                                                  |
 | [Vaex](https://vaex.io/)                                                                                         | Vaex is a Python library that allows you to visualize large datasets and calculate statistics at high speeds.                                                                                                                                                                                                    |
@@ -482,7 +483,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)                                                                    | Weka is a collection of machine learning algorithms for data mining tasks.                                                                                                                                                                                                                                       |
 | [Octave](https://www.gnu.org/software/octave/)                                                                   | GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)                                                                                                                                                                                                     |
 | [Apache Spark](https://spark.apache.org/)                                                                        | Lightning-fast cluster computing                                                                                                                                                                                                                                                                                 |
-| [Hydrosphere Mist (⭐320)](https://github.com/Hydrospheredata/mist)                                               | a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.                                                                                                                                                                                      |
+| [Hydrosphere Mist (⭐321)](https://github.com/Hydrospheredata/mist)                                               | a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.                                                                                                                                                                                      |
 | [Data Mechanics](https://www.datamechanics.co)                                                                   | A data science and engineering platform making Apache Spark more developer-friendly and cost-effective.                                                                                                                                                                                                          |
 | [Caffe](https://caffe.berkeleyvision.org/)                                                                       | Deep Learning Framework                                                                                                                                                                                                                                                                                          |
 | [Torch](https://torch.ch/)                                                                                       | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT                                                                                                                                                                                                                                                                      |
@@ -503,43 +504,43 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Albumentations (⭐12k)](https://github.com/albumentations-team/albumentations)                                   | А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops. |
 | [DVC (⭐11k)](https://github.com/iterative/dvc)                                                                   | An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files.                                                                                              |
 | [Lambdo (⭐15)](https://github.com/asavinov/lambdo)                                                               | is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation.                                                                            |
-| [Feast (⭐4k)](https://github.com/feast-dev/feast)                                                                | A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.                                                                                                                              |
+| [Feast (⭐4.1k)](https://github.com/feast-dev/feast)                                                              | A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.                                                                                                                              |
 | [Polyaxon (⭐3.3k)](https://github.com/polyaxon/polyaxon)                                                         | A platform for reproducible and scalable machine learning and deep learning.                                                                                                                                                                                                                                     |
 | [LightTag](https://www.lighttag.io/)                                                                             | Text Annotation Tool for teams                                                                                                                                                                                                                                                                                   |
 | [UBIAI](https://ubiai.tools)                                                                                     | Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling                                                                                                                  |
-| [Trains (⭐4.1k)](https://github.com/allegroai/clearml)                                                           | Auto-Magical Experiment Manager, Version Control & DevOps for AI                                                                                                                                                                                                                                                 |
-| [Hopsworks (⭐873)](https://github.com/logicalclocks/hopsworks)                                                   | Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster)  and offline (Apache Hive) access, train and serve models at scale.                                                                                                        |
+| [Trains (⭐4.2k)](https://github.com/allegroai/clearml)                                                           | Auto-Magical Experiment Manager, Version Control & DevOps for AI                                                                                                                                                                                                                                                 |
+| [Hopsworks (⭐888)](https://github.com/logicalclocks/hopsworks)                                                   | Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster)  and offline (Apache Hive) access, train and serve models at scale.                                                                                                        |
 | [MindsDB (⭐14k)](https://github.com/mindsdb/mindsdb)                                                             | MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.                                                                                                                                                |
-| [Lightwood (⭐333)](https://github.com/mindsdb/lightwood)                                                         | A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code.                                                                                                               |
+| [Lightwood (⭐340)](https://github.com/mindsdb/lightwood)                                                         | A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code.                                                                                                               |
 | [AWS Data Wrangler (⭐3.3k)](https://github.com/awslabs/aws-data-wrangler)                                        | An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc).                                                                                                                   |
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)                                                        | AWS Rekognition is a service that lets developers working with Amazon Web Services add image analysis to their applications. Catalog assets, automate workflows, and extract meaning from your media and applications.                                                                                           |
 | [Amazon Textract](https://aws.amazon.com/textract/)                                                              | Automatically extract printed text, handwriting, and data from any document.                                                                                                                                                                                                                                     |
 | [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)                                          | Spot product defects using computer vision to automate quality inspection. Identify missing product components, vehicle and structure damage, and irregularities for comprehensive quality control.                                                                                                              |
 | [Amazon CodeGuru](https://aws.amazon.com/codeguru/)                                                              | Automate code reviews and optimize application performance with ML-powered recommendations.                                                                                                                                                                                                                      |
-| [CML (⭐3.6k)](https://github.com/iterative/cml)                                                                  | An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests.                                                                   |
+| [CML (⭐3.7k)](https://github.com/iterative/cml)                                                                  | An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests.                                                                   |
 | [Dask](https://dask.org/)                                                                                        | An open source Python library to painlessly transition your analytics code to distributed computing systems (Big Data)                                                                                                                                                                                           |
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)                                                     | A Python-based inferential statistics, hypothesis testing and regression framework                                                                                                                                                                                                                               |
 | [Gensim](https://radimrehurek.com/gensim/)                                                                       | An open-source library for topic modeling of natural language text                                                                                                                                                                                                                                               |
 | [spaCy](https://spacy.io/)                                                                                       | A performant natural language processing toolkit                                                                                                                                                                                                                                                                 |
 | [Grid Studio (⭐8.8k)](https://github.com/ricklamers/gridstudio)                                                  | Grid studio is a web-based spreadsheet application with full integration of the Python programming language.                                                                                                                                                                                                     |
 | [Python Data Science Handbook (⭐38k)](https://github.com/jakevdp/PythonDataScienceHandbook)                      | Python Data Science Handbook: full text in Jupyter Notebooks                                                                                                                                                                                                                                                     |
-| [Shapley (⭐190)](https://github.com/benedekrozemberczki/shapley)                                                 | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.                                                                                                                                                                                                                     |
+| [Shapley (⭐192)](https://github.com/benedekrozemberczki/shapley)                                                 | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.                                                                                                                                                                                                                     |
 | [DAGsHub](https://dagshub.com)                                                                                   | A platform built on open source tools for data, model and pipeline management.                                                                                                                                                                                                                                   |
 | [Deepnote](https://deepnote.com)                                                                                 | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud.                                                                                                                                                                                                  |
 | [Valohai](https://valohai.com)                                                                                   | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment.                                                                                                                                                                                                                  |
 | [PyMC3](https://docs.pymc.io/)                                                                                   | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning)                                                                                                                                                                                                                         |
 | [PyStan](https://pypi.org/project/pystan/)                                                                       | Python interface to Stan (Bayesian inference and modeling)                                                                                                                                                                                                                                                       |
 | [hmmlearn](https://pypi.org/project/hmmlearn/)                                                                   | Unsupervised learning and inference of Hidden Markov Models                                                                                                                                                                                                                                                      |
-| [Chaos Genius (⭐552)](https://github.com/chaos-genius/chaos_genius/)                                             | ML powered analytics engine for outlier/anomaly detection and root cause analysis                                                                                                                                                                                                                                |
+| [Chaos Genius (⭐561)](https://github.com/chaos-genius/chaos_genius/)                                             | ML powered analytics engine for outlier/anomaly detection and root cause analysis                                                                                                                                                                                                                                |
 | [Nimblebox](https://nimblebox.ai/)                                                                               | A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser.                                                                                                                           |
-| [Towhee (⭐1.8k)](https://github.com/towhee-io/towhee)                                                            | A Python library that helps you encode your unstructured data into embeddings.                                                                                                                                                                                                                                   |
+| [Towhee (⭐1.9k)](https://github.com/towhee-io/towhee)                                                            | A Python library that helps you encode your unstructured data into embeddings.                                                                                                                                                                                                                                   |
 | [LineaPy (⭐570)](https://github.com/LineaLabs/lineapy)                                                           | Ever been frustrated with cleaning up long, messy Jupyter notebooks? With LineaPy, an open source Python library, it takes as little as two lines of code to transform messy development code into production pipelines.                                                                                         |
 | [envd (⭐1.5k)](https://github.com/tensorchord/envd)                                                              | 🏕️ machine learning development environment for data science and AI/ML engineering teams                                                                                                                                                                                                                        |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)                              | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources                                                                                                                                            |
-| [MLEM (⭐609)](https://github.com/iterative/mlem)                                                                 | 🐶 Version and deploy your ML models following GitOps principles                                                                                                                                                                                                                                                 |
+| [MLEM (⭐614)](https://github.com/iterative/mlem)                                                                 | 🐶 Version and deploy your ML models following GitOps principles                                                                                                                                                                                                                                                 |
 | [MLflow](https://mlflow.org/)                                                                                    | MLOps framework for managing ML models across their full lifecycle                                                                                                                                                                                                                                               |
-| [cleanlab (⭐5.3k)](https://github.com/cleanlab/cleanlab)                                                         | Python library for data-centric AI and automatically detecting various issues in ML datasets                                                                                                                                                                                                                     |
-| [AutoGluon (⭐5.3k)](https://github.com/awslabs/autogluon)                                                        | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data                                                                                                                                                                                                        |
+| [cleanlab (⭐5.5k)](https://github.com/cleanlab/cleanlab)                                                         | Python library for data-centric AI and automatically detecting various issues in ML datasets                                                                                                                                                                                                                     |
+| [AutoGluon (⭐5.4k)](https://github.com/awslabs/autogluon)                                                        | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data                                                                                                                                                                                                        |
 | [Arize AI](https://arize.com/)                                                                                   | Arize AI community tier observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift.                                                                                                                                              |
 | [Aureo.io](https://aureo.io)                                                                                     | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data.                                                                     |
 | [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers. |                                                                                                                                                                                                                                                                                                                  |
@@ -1034,7 +1035,7 @@ Some data mining competition platforms
 *   [GHDx](https://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐470)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐469)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
 *   [undata](https://data.un.org/)
 *   [NASA SocioEconomic Data and Applications Center - SEDAC](https://sedac.ciesin.columbia.edu/)
@@ -1054,7 +1055,7 @@ Some data mining competition platforms
 *   [Covid-19 (⭐1.2k)](https://github.com/datasets/covid-19)
 *   [Covid-19 Google (⭐114)](https://github.com/google-research/open-covid-19-data)
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
-*   [5000 Images of Clothes (⭐70)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐74)](https://github.com/alexeygrigorev/clothing-dataset)
 
 ### Comics
 
@@ -1079,15 +1080,15 @@ Some data mining competition platforms
 *   [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
 *   [Awesome Machine Learning On Source Code (⭐5.8k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
 *   [Awesome Community Detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection)
-*   [Awesome Graph Classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
+*   [Awesome Graph Classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.3k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers (⭐855)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐431)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐516)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Gradient Boosting Papers (⭐875)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Computer Vision Models (⭐432)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐519)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.5k)](https://github.com/mhagiwara/100-nlp-papers)
-*   [Awesome Game Datasets (⭐472)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐479)](https://github.com/leomaurodesenv/game-datasets#readme)
 *   [Data Science Interviews Questions (⭐7.3k)](https://github.com/alexeygrigorev/data-science-interviews)
 *   [Awesome Explainable Graph Reasoning (⭐1.9k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
@@ -1096,7 +1097,7 @@ Some data mining competition platforms
 
 ### Hobby
 
-*   [Awesome Music Production (⭐652)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐665)](https://github.com/ad-si/awesome-music-production)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
