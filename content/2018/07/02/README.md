@@ -32,7 +32,7 @@
 
 ### Concurrency
 
-*   [Cpp-Taskflow (⭐7.8k)](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ Parallel Programming with Task Dependencies. \[MIT]
+*   [Cpp-Taskflow (⭐7.9k)](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ Parallel Programming with Task Dependencies. \[MIT]
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

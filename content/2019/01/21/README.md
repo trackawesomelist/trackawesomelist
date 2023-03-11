@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐554)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐555)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐305)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐304)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
@@ -61,7 +61,7 @@
 
 ### Debug
 
-*   [check (⭐928)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐936)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
@@ -151,7 +151,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-autocomplete (⭐100)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
+*   [wagtail-autocomplete (⭐102)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 
 ### Apps / Testing
 

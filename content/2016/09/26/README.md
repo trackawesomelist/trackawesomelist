@@ -29,7 +29,7 @@
 
 ### Open Source Repos / Elastic Compute Cloud
 
-*   [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire: (⭐33k)](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on EC2. No scripts.
+*   [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire: (⭐35k)](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on EC2. No scripts.
 
 ## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

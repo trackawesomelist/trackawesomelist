@@ -128,7 +128,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-condition-watcher (⭐46)](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
+*   [vue-condition-watcher (⭐47)](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
 
 ---
 

@@ -58,7 +58,7 @@
 
 ### High Availability / Miscellaneous
 
-*   [Cortex (⭐4.9k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+*   [Cortex (⭐5k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
 *   [Thanos (⭐11k)](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
@@ -81,7 +81,7 @@
 
 ### Business
 
-*   [Wardley Maps (⭐528)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+*   [Wardley Maps (⭐532)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ### Miscellaneous
 

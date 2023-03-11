@@ -28,7 +28,7 @@
 
 ### Configuration / Language Processing
 
-*   [sdlang (⭐111)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+*   [sdlang (⭐112)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 
 ---
 

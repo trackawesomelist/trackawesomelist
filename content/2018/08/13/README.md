@@ -114,7 +114,7 @@
 
 ### Open Source Repos / Elastic Compute Cloud
 
-*   [evannuil/aws-snapshot-tool :fire::fire: (⭐212)](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
+*   [evannuil/aws-snapshot-tool :fire::fire: (⭐211)](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
 
 ---
 

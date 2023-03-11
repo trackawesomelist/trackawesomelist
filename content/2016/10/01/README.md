@@ -61,7 +61,7 @@ Webpage: N/A
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-data-visualization-sample :fire: (⭐172)](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
+*   [amazon-kinesis-data-visualization-sample :fire: (⭐171)](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
 
 ## [7. Amas](/content/sindresorhus/amas/README.md)
 

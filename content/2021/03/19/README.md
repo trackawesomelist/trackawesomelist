@@ -119,7 +119,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vuetube (⭐12)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
+*   [vuetube (⭐11)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 
 ## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

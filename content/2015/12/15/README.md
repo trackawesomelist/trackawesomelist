@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2015
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,32 +79,62 @@
 
 *   [Rest for Haskell (⭐387)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Haxe / Spock Framework
+
+*   [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
+
+### iOS / Bootstrap
+
+*   [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+
+### LaTeX / TeX / TeX
+
+*   [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
+*   [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
+
+### Lisp / TeX
+
+*   [Common Lisp Quick Reference](http://clqr.boundp.org)
+*   [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python, Break Python](http://learnpythonbreakpython.com)
+*   [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+*   [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
+
+### Ruby / Sinatra
+
+*   [Sinatra Book (⭐659)](https://github.com/sinatra/sinatra-book)
+
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Babel Seed Projects / Components
 
 *   [angular2-fullstack-starter (⭐32)](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
 
-## [7. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [8. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Who to Follow / Slides and Notes
 

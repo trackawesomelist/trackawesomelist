@@ -65,7 +65,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [cfn-python-lint :fire::fire::fire::fire: (⭐2k)](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
+*   [cfn-python-lint :fire::fire::fire::fire: (⭐2.1k)](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
 
 ---
 

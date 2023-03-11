@@ -76,7 +76,7 @@
 
 ### Utility / Diagnostics
 
-*   [figsoda/nix-develop.nvim (⭐16)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
+*   [figsoda/nix-develop.nvim (⭐17)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Orchestration
 
-*   [docker rollout (⭐895)](https://github.com/Wowu/docker-rollout) - Zero downtime deployment for Docker Compose services by [@Wowu](https://github.com/Wowu)
+*   [docker rollout (⭐1.1k)](https://github.com/Wowu/docker-rollout) - Zero downtime deployment for Docker Compose services by [@Wowu](https://github.com/Wowu)
 
 ---
 

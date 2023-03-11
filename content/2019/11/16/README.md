@@ -44,7 +44,7 @@
 
 ### Debug
 
-*   [μt (⭐981)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
+*   [μt (⭐991)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
 
 ## [7. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Health and Social Science
 
-*   [Digital History (⭐164)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐165)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

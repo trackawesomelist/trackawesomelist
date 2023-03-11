@@ -10,7 +10,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐670)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐676)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -25,10 +25,6 @@
 ### System Modeling / MIT
 
 *   [ada-fuzzy (⭐3)](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
-
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
-
-*   [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,7 +42,7 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

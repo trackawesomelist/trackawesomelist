@@ -78,7 +78,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [aws2tf (⭐227)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+*   [aws2tf (⭐242)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 
 ### Terraform Enterprise / Vendor supported providers
 

@@ -56,7 +56,7 @@
 
 ### Utilities
 
-*   [Vert.x Dataloader (⭐70)](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
+*   [Vert.x Dataloader (⭐71)](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
 
 ## [7. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

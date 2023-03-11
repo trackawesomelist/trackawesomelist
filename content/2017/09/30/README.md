@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [amazon-ecs-agent :fire::fire::fire::fire: (⭐1.9k)](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers.
+*   [amazon-ecs-agent :fire::fire::fire::fire: (⭐2k)](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers.
 
 ## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

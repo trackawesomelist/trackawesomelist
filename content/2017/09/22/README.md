@@ -100,7 +100,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐867)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐872)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Protocols
 
-*   [FluentFTP (⭐2.4k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+*   [FluentFTP (⭐2.5k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 
 ## [10. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 

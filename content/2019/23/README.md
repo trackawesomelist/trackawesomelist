@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Connectivity Data and Reports (⭐78)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+*   [Connectivity Data and Reports (⭐79)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -670,7 +670,7 @@ Free (Open Source)
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐157)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐158)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [36. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 

@@ -23,7 +23,7 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐654)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐657)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-aggregators :fire: (⭐148)](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
+*   [amazon-kinesis-aggregators :fire: (⭐151)](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐217)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐220)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Multimedia
 
-*   [SFML (⭐8.4k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐8.5k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
@@ -166,7 +166,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.1k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [19. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 

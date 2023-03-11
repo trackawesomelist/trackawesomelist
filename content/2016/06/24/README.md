@@ -52,7 +52,7 @@
 
 ### Third-party APIs
 
-*   [fb\_graph2 (⭐106)](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
+*   [fb\_graph2 (⭐105)](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

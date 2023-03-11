@@ -86,7 +86,7 @@
 *   [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 *   [wardley-omnigraffle (⭐18)](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
 *   [Wardley Maps in LaTeX (⭐4)](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
-*   [yEd Palette (⭐11)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+*   [yEd Palette (⭐12)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
 
 ### Templates / Doctrine Assessement
 

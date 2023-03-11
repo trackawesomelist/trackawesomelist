@@ -11,15 +11,15 @@
 ### Dev Tools / Bare metal / kernel development
 
 *   [D-Scanner (⭐235)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
-*   [dfmt (⭐185)](https://github.com/dlang-community/dfmt) - formatter for D source code
+*   [dfmt (⭐189)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ### IDEs & Editors / Bare metal / kernel development
 
-*   [Dutyl (⭐80)](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
+*   [Dutyl (⭐79)](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [dlang-requests (⭐138)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
+*   [dlang-requests (⭐145)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
 ## [2. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
@@ -73,15 +73,11 @@
 *   [subreddit-spark](https://www.reddit.com/r/spark/) - Spark at Reddit.
 *   [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
 
-### Sound / MIT
-
-*   [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
-
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Pastebins
 
-*   [snipt (⭐66)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
+*   [snipt (⭐67)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

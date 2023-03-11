@@ -40,7 +40,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [mhart/react-server-routing-example :fire::fire: (⭐300)](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
+*   [mhart/react-server-routing-example :fire::fire: (⭐299)](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -64,11 +64,11 @@ git add -i
 
 ### Resources / Projects Using Spark
 
-*   [Photon ML (⭐791)](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
+*   [Photon ML (⭐792)](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
 
 ### Resources / Docker Images
 
-*   [sequenceiq/docker-spark (⭐767)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
+*   [sequenceiq/docker-spark (⭐765)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

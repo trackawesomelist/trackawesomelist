@@ -42,7 +42,7 @@
 
 ### Open Source Repos / Code Deploy
 
-*   [aws-codedeploy-plugin :fire: (⭐152)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
+*   [aws-codedeploy-plugin :fire: (⭐151)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
 
 ---
 

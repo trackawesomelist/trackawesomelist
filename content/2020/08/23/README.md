@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐566)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐570)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -280,7 +280,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐369)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐373)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ## [10. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -347,7 +347,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [beaknit/cform :fire: (⭐102)](https://github.com/beaknit/cform) - SublimeText plugin.
+*   [beaknit/cform :fire: (⭐103)](https://github.com/beaknit/cform) - SublimeText plugin.
 
 ### Open Source Repos / Lambda
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 23, 2018
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,19 +63,29 @@
 
 *   [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
 
-## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Blazor
+
+*   [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
+
+### Clojure / Non-X86
+
+*   [Clojure community-driven documentation](http://clojure-doc.org)
+
+## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [The serverless and event-driven future](https://www.youtube.com/watch?v=TZPPjAv12KU) - How the Event Gateway enables a new way to build event-driven applications.
 
-## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / S individuals
 
 *   Sergey Zhuk <http://sergeyzhuk.me/>
 
-## [11. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
+## [12. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
 ### Texts / Announcements and Memos
 
@@ -86,25 +96,25 @@
 
 *   [Adobe Photoshop](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/) (1990) - The first version of Adobe Photoshop (written in Pascal)
 
-## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
-*   [mongo-monitor (⭐75)](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
+*   [mongo-monitor (⭐77)](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Game
 
 *   [BEPUphysics (⭐1.5k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Chattier](https://github.com/raniesantos/chattier) - SPA social network built with Laravel 5.6, Vue.js 2, and Bulma (Buefy components + Bulmaswatch themes). Also uses JWT authentication.
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 

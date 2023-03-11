@@ -16,7 +16,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [devops-israel/aws-inventory :fire::fire: (⭐385)](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
+*   [devops-israel/aws-inventory :fire::fire: (⭐387)](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐508)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐515)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

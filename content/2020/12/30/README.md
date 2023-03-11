@@ -16,7 +16,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [revo-grid](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
+*   [revo-grid (⭐2.3k)](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
 
 ## [3. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

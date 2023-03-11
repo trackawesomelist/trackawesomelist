@@ -18,7 +18,7 @@
 
 ### Visual Studio Plugins
 
-*   [CodeContracts (⭐873)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
+*   [CodeContracts (⭐874)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
 
 ---
 

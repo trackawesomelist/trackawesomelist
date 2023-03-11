@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23 - Jan 29, 2017
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,7 +32,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐848)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐334)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐853)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐337)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -46,26 +46,20 @@
 
 *   [Toucan (⭐534)](https://github.com/metabase/toucan)
 
-## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
-
-### Cloud Support
-
-*   [S3 (⭐30)](https://github.com/hubrick/vertx-s3-client) - A fully functional Vert.x client for S3.
-
-## [8. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [7. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [rtree (⭐990)](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R\*-tree implementations in Java with reactive api.
 *   [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 
-## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [8. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### editors & viewers
 
 *   [geojson2image (⭐11)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 
-## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -79,19 +73,19 @@
 
 *   [Codedoodl.es](http://codedoodl.es/) - Showcase of curated creative coding sketches.
 
-## [11. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### JSON Schema Resources
 
 *   [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
 
-## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
 *   [SkyTools (⭐249)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
-## [13. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
+## [12. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
 ### Learning Material / Other
 
@@ -117,7 +111,7 @@
 
     Curious about monads? Wikipedia gives a good [overview on monads](https://en.wikipedia.org/wiki/Monad_\(functional_programming\)) and [this article](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) explains monads in more details with graphics and simple examples.
 
-## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Tools / Templates & Starter Kits
 
@@ -125,8 +119,8 @@
 
 ### Open-source sites / Lists
 
-*   [Torchbox (⭐112)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
-*   [Made with Wagtail (⭐75)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
+*   [Torchbox (⭐111)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
+*   [Made with Wagtail (⭐76)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 *   [OpenCanada.org (⭐14)](https://github.com/OpenCanada/website) – The opencanada.org website source.
 *   [Table Tennis Wellington Business Class (⭐5)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 *   [Jordi Joan’s blog (⭐20)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
@@ -136,7 +130,7 @@
 *   [dev.hel.fi (⭐13)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
 *   [Digital Helsinki (⭐19)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 
-## [15. Tips](/content/git-tips/tips/week/README.md)
+## [14. Tips](/content/git-tips/tips/week/README.md)
 
 ## Generates a summary of pending changes
 
@@ -149,7 +143,7 @@ git request-pull v1.0 https://git.ko.xz/project master:for-linus
 git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ```
 
-## [16. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [15. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Courses / Topic-specific
 
@@ -168,7 +162,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven H. Strogatz and many others.
 *   [A Twenty-First Century Science](http://www.nature.com/nature/journal/v445/n7127/full/445489a.html) - Essay by Duncan J. Watts.
 
-## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
@@ -178,19 +172,19 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [Kestrel (⭐6)](https://github.com/papertrail/kestrel) - distributed message queue system.
 
-## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [17. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [ICRA Robot Challenges](http://www.icra2017.org/conference/robot-challenges)
 
-## [19. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
 *   [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 
-## [20. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [19. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -205,13 +199,13 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [Instrumentation: Worst case performance matters](https://honeycomb.io/blog/2017/01/instrumentation-worst-case-performance-matters/)
 *   [Instrumentation: What does 'uptime' mean?](https://honeycomb.io/blog/2017/01/instrumentation-what-does-uptime-mean/)
 
-## [21. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [20. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Database / Security
 
 *   [rails\_db (⭐1.4k)](https://github.com/igorkasyanchuk/rails_db) - Rails Database Viewer and SQL Query Runner
 
-## [22. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [21. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
@@ -230,7 +224,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [Selenium (⭐876)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐9.5k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
-## [23. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [22. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Courses
 
@@ -240,7 +234,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
 *   [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
 
-## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -251,7 +245,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
 *   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -265,7 +259,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [dotnetfiddle](https://dotnetfiddle.net) - .NET sandbox for developers to quickly try out code and share code snippets.
 
-## [26. Typography](/content/deanhume/typography/week/README.md)
+## [25. Typography](/content/deanhume/typography/week/README.md)
 
 ### Books
 
@@ -275,7 +269,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [Google Font Combinations](https://briangardner.com/google-font-combinations/)
 
-## [27. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [26. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / Edit
 
@@ -297,7 +291,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) - Addon which allows jumping to tokens within AHK source code.
 
-## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### REST / ORM
 
@@ -307,7 +301,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
 
-## [29. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
+## [28. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
 
 ### Getting Started
 
@@ -496,7 +490,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [Medium](https://medium.com/search?q=less%20css)
 *   [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
 
-## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -595,7 +589,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
 *   [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
-## [31. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [30. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
@@ -605,13 +599,13 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [Fuse Input Validation (⭐1)](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
 
-## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [31. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Machine Learning
 
-*   [machine-learning-samples :fire::fire::fire: (⭐858)](https://github.com/awslabs/machine-learning-samples) - Sample apps.
+*   [machine-learning-samples :fire::fire::fire: (⭐862)](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 
-## [33. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [32. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
@@ -630,20 +624,20 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Related Lists
 
-*   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.1k)](https://github.com/kgryte/awesome-peer-to-peer)
+*   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.2k)](https://github.com/kgryte/awesome-peer-to-peer)
 *   [https://github.com/retrohacker/awesome-p2p (⭐140)](https://github.com/retrohacker/awesome-p2p)
 *   [https://github.com/Kikobeats/awesome-network-js (⭐528)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐183)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐185)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
-## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [33. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Lenses
 
 *   [partial.lenses (⭐888)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Logging
 
@@ -653,7 +647,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [CodeLineage](https://marketplace.visualstudio.com/items?itemName=HippoCampSoftwareLtd.CodeLineage) - Easy access to a cumulative diff view between file revisions (supports svn, git, mercurial, perforce).
 
-## [36. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [35. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
@@ -672,25 +666,25 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   2010
     *   *bayes\_motel – Bayesian classification for Ruby* by [Mike Perham](https://twitter.com/mperham) <sup>\[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
 
-## [37. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [36. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [ggplot (⭐3.6k)](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
 *   [defql (⭐102)](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
 
-## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [Greece](https://www.meetup.com/dddgreece/)
 
-## [40. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [39. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -699,7 +693,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
     *   [Lecture notes](http://web.stanford.edu/class/cs276/index.html#syllabus)
     *   [Readings](http://web.stanford.edu/class/cs276/index.html#books)
 
-## [41. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### MusaicFM
 
@@ -719,28 +713,28 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
 
-## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [41. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐778)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐779)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
-*   [formatador (⭐442)](https://github.com/geemus/formatador) - STDOUT text formatting.
-*   [Ru (⭐403)](https://github.com/tombenner/ru) - Ruby in your shell.
+*   [formatador (⭐441)](https://github.com/geemus/formatador) - STDOUT text formatting.
+*   [Ru (⭐404)](https://github.com/tombenner/ru) - Ruby in your shell.
 *   [Terminal Table (⭐1.5k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 *   [Tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
 ### Code Highlighting
 
-*   [CodeRay (⭐834)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [CodeRay (⭐835)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
 *   [pygments.rb (⭐562)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.2k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐723)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐729)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -756,13 +750,13 @@ Free
 
 ### Search
 
-*   [scoped\_search (⭐260)](https://github.com/wvanbergen/scoped_search) - Adds a scope supporting search queries and autocompletion against existing fields on ActiveRecord models and associations.
+*   [scoped\_search (⭐261)](https://github.com/wvanbergen/scoped_search) - Adds a scope supporting search queries and autocompletion against existing fields on ActiveRecord models and associations.
 
 ### Video
 
 *   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
-## [43. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 

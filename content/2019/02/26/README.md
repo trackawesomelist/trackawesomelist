@@ -498,19 +498,19 @@
 
 ### Gaming
 
-*   [Minecraft (⭐293)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐303)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐197)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐201)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐2.7k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐2.8k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Miscellaneous
 
-*   [Board Games (⭐213)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐217)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 
 ## [22. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -529,7 +529,7 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [Stelligent/mu :fire::fire::fire: (⭐971)](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
+*   [Stelligent/mu :fire::fire::fire: (⭐973)](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
 
 ## [25. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

@@ -29,13 +29,13 @@
 
 ### Plugins
 
-*   🎨🧬 [Themeable (⭐34)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
+*   🎨🧬 [Themeable (⭐35)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-ali-oss (⭐8)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+*   [vite-plugin-ali-oss (⭐10)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 
 ## [6. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 

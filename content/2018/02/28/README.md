@@ -64,7 +64,7 @@
 
 ### Open Source Repos / Elastic Compute Cloud
 
-*   [mirakui/ec2ssh :fire::fire: (⭐247)](https://github.com/mirakui/ec2ssh) - SSH config manager.
+*   [mirakui/ec2ssh :fire::fire: (⭐248)](https://github.com/mirakui/ec2ssh) - SSH config manager.
 
 ---
 

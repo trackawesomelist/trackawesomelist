@@ -34,7 +34,7 @@
 
 ### Open Source Repos / S3
 
-*   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐597)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
+*   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐595)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 
 ## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

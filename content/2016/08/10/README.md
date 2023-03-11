@@ -71,7 +71,7 @@ git push --force-with-lease <remote-name> <branch-name>
 
 ### ORM
 
-*   [PetaPoco (⭐1.9k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCOs
+*   [PetaPoco (⭐2k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCOs
 
 ### Tools
 

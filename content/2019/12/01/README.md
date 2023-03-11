@@ -17,7 +17,7 @@
 ### HAL implementation crates / Espressif
 
 *   [`rust-xtensa`](https://github.com/MabezDev/rust-xtensa)
-    *   rust fork enables projects to be built for the ESP32 and ESP8266. ([quick start repo (⭐340)](https://github.com/MabezDev/xtensa-rust-quickstart)).
+    *   rust fork enables projects to be built for the ESP32 and ESP8266. ([quick start repo (⭐341)](https://github.com/MabezDev/xtensa-rust-quickstart)).
 
 ## [3. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 

@@ -109,7 +109,7 @@
 
 ### Open Source Repos / Cognito
 
-*   [capeless/warrant :fire::fire: (⭐441)](https://github.com/capless/warrant) - Python library for using Cognito.
+*   [capeless/warrant :fire::fire: (⭐453)](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ---
 

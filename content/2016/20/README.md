@@ -140,8 +140,8 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐640)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
-    *   [mrhooray/torch (⭐125)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐644)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
+    *   [mrhooray/torch (⭐126)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
@@ -320,7 +320,7 @@
 
 ### SDKs and Samples / PHP SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐5.7k)](https://github.com/aws/aws-sdk-php)
+*   [Repo :fire::fire::fire::fire::fire: (⭐5.8k)](https://github.com/aws/aws-sdk-php)
 
 ## [20. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 

@@ -226,7 +226,7 @@
 
 ### Coding Style Guides
 
-*   [fast-ruby (⭐5.4k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [fast-ruby (⭐5.5k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 
 ### Date and Time Processing
 

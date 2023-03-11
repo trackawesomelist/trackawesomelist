@@ -109,7 +109,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-geo :fire::fire: (⭐268)](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
+*   [dynamodb-geo :fire::fire: (⭐270)](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

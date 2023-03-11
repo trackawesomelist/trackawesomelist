@@ -58,7 +58,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [LinqOptimizer (⭐464)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+*   [LinqOptimizer (⭐466)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 
 ### Continuous Integration
 

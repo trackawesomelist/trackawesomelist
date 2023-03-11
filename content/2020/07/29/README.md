@@ -34,7 +34,7 @@
 
 ### Tools and session management
 
-*   [vim-tmux-navigator (⭐4k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+*   [vim-tmux-navigator (⭐4.1k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
 ## [6. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [v-github-icon (⭐6)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
+*   [v-github-icon (⭐5)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
 
 ### Components & Libraries / Utilities
 
@@ -96,7 +96,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [janak (⭐25)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
+*   [janak (⭐26)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 
 ## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

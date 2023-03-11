@@ -46,7 +46,7 @@
 
 ### Software / Libraries and Tools
 
-*   [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
+*   [ops](https://ops.city/) - A free open source tool to build, run, and deploy Linux applications as unikernels.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 

@@ -34,7 +34,7 @@ Free
 
 ### Alertmanager / Miscellaneous
 
-*   [Karma (⭐1.8k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+*   [Karma (⭐1.9k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -79,7 +79,7 @@ Free
 
 ### no-std crates / WIP
 
-*   [light-cli (⭐14)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface ![crates.io](https://img.shields.io/crates/v/light_cli.svg)
+*   [light-cli (⭐15)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface ![crates.io](https://img.shields.io/crates/v/light_cli.svg)
 
 ## [8. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

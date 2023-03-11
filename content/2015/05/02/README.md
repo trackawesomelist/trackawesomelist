@@ -32,7 +32,7 @@ Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.2k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.3k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ---
 

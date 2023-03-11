@@ -208,7 +208,7 @@
 
 ### SDKs and Samples / PHP SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐5.7k)](https://github.com/aws/aws-sdk-php)
+*   [Repo :fire::fire::fire::fire::fire: (⭐5.8k)](https://github.com/aws/aws-sdk-php)
 
 ## [11. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 

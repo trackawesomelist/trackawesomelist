@@ -10,7 +10,7 @@
 
 ### JupyterLab Extensions
 
-*   [go-to-definition (⭐216)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
+*   [go-to-definition (⭐214)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Utility / Collection View Layout
 
-*   [ZamzamKit (⭐260)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐264)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

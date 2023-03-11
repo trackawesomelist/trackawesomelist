@@ -60,15 +60,15 @@
 ### JavaScript / General-Purpose Machine Learning
 
 *   [LDA.js (⭐279)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
-*   [Node-SVM (⭐296)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
+*   [Node-SVM (⭐295)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
 
-*   [simple-statistics (⭐2.8k)](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
+*   [simple-statistics (⭐2.9k)](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐442)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐446)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

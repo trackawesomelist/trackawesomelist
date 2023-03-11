@@ -11,9 +11,9 @@
 ### Libraries / Platform specific
 
 *   Linux
-    *   [hannobraun/inotify-rs (⭐222)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
-    *   [pop-os/distinst (⭐203)](https://github.com/pop-os/distinst/) — Linux distribution installer
-    *   [yaa110/rust-iptables (⭐66)](https://github.com/yaa110/rust-iptables) \[[iptables](https://crates.io/crates/iptables)] — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings [![build badge](https://api.travis-ci.org/yaa110/rust-iptables.svg?branch=master)](https://travis-ci.org/yaa110/rust-iptables)
+    *   [hannobraun/inotify-rs (⭐221)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
+    *   [pop-os/distinst (⭐202)](https://github.com/pop-os/distinst/) — Linux distribution installer
+    *   [yaa110/rust-iptables (⭐68)](https://github.com/yaa110/rust-iptables) \[[iptables](https://crates.io/crates/iptables)] — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings [![build badge](https://api.travis-ci.org/yaa110/rust-iptables.svg?branch=master)](https://travis-ci.org/yaa110/rust-iptables)
 
 ## [2. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -30,18 +30,18 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-shortcuts (⭐3)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
+*   [vite-plugin-shortcuts (⭐4)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Control Panels
 
-*   [Cockpit](http://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code (⭐7.8k)](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
+*   [Cockpit](http://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code (⭐8k)](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
 *   [ISPConfig](http://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
-*   [Sentora](http://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code (⭐594)](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
-*   [VestaCP](http://vestacp.com/) - Open-Source hosting control panel. ([Source Code (⭐2.7k)](https://github.com/serghey-rodin/vesta)) `GPL-3.0` `PHP/Shell/Other`
+*   [Sentora](http://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code (⭐597)](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
+*   [VestaCP](http://vestacp.com/) - Open-Source hosting control panel. ([Source Code (⭐2.8k)](https://github.com/serghey-rodin/vesta)) `GPL-3.0` `PHP/Shell/Other`
 *   [Virtualmin](http://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
-*   [Webmin](http://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code (⭐2.3k)](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
+*   [Webmin](http://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code (⭐2.4k)](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
 
 ### Software / DNS - Control Panels
 
@@ -62,7 +62,7 @@
     *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
     *   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Application statistic listener.
     *   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
-    *   [Telegraf (⭐12k)](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+    *   [Telegraf (⭐13k)](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 *   Dashboards
     *   [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
     *   [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
@@ -86,7 +86,7 @@
 
 ### Registry / Other
 
-*   [Dragonfly (⭐989)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
+*   [Dragonfly (⭐1.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
 
 ## [6. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
@@ -196,15 +196,6 @@
   Title: Dreamup.
 
   Description: The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Dreamspace.art](http://dreamspace.art)
-
-  Title: Dreamspace.
-
-  Description: The prompt diagramming tool.
 
   Offer Free Version: :grey\_question:
 
@@ -504,7 +495,7 @@
 
   Title: Palette - Colorize Photos.
 
-  Description: A new AI colorizer. Colorize anything from old black and white photos ð¸, style your artworks ð¨, or give modern images a fresh look ð¶. It's as simple as instagram.
+  Description: A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram.
 
   Offer Free Version: :white\_check\_mark:
 

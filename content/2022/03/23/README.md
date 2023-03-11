@@ -10,8 +10,8 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐394)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐394)](https://github.com/google/transit/pull/303).
-*   [GTFS Editor (⭐131)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐92)](https://github.com/ibi-group/datatools-ui).)
+*   [gtfs-blocks-to-transfers (⭐4)](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id (⭐404)](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal) (⭐404)](https://github.com/google/transit/pull/303).
+*   [GTFS Editor (⭐130)](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools (⭐92)](https://github.com/ibi-group/datatools-ui).)
 *   [GTFS Editor for Vagrant (⭐5)](https://github.com/laidig/vagrant-gtfs-editor) - Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
@@ -36,7 +36,7 @@
 
 ### Bit Sets
 
-*   [bitset (⭐1k)](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
+*   [bitset (⭐1.1k)](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
 
 ### Bloom and Cuckoo Filters
 
@@ -96,7 +96,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-icons (⭐18)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+*   [vue-icons (⭐19)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 ## [12. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Status Bar
 
-*   [tmux-packet-loss (⭐7)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
+*   [tmux-packet-loss (⭐8)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

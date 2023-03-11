@@ -16,7 +16,7 @@
 
 ### Training and Materials / Web articles
 
-*   [The Book of Secret Knowledge (⭐89k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [The Book of Secret Knowledge (⭐92k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
 ## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
 

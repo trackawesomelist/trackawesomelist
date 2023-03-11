@@ -71,7 +71,7 @@
 
 ### Open Source Repos / S3
 
-*   [kahing/goofys :fire::fire::fire::fire::fire: (⭐4.3k)](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
+*   [kahing/goofys :fire::fire::fire::fire::fire: (⭐4.5k)](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
 
 ---
 

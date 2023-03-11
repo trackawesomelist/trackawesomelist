@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Redshift
 
-*   [getredash/redash :fire::fire::fire::fire::fire: (⭐22k)](https://github.com/getredash/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
+*   [getredash/redash :fire::fire::fire::fire::fire: (⭐23k)](https://github.com/getredash/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
 
 ---
 

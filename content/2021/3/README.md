@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2021
 
-54 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -151,24 +151,24 @@
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐189)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
+*   [cristianoliveira/funzzy (⭐192)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
 
 ### Libraries / GUI
 
-*   [ImGui (⭐45k)](https://github.com/ocornut/imgui)
+*   [ImGui (⭐46k)](https://github.com/ocornut/imgui)
     *   [imgui-rs (⭐2.1k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Collaboration/Education
 
-*   [nbgitpuller (⭐173)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
+*   [nbgitpuller (⭐174)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 
 ## [7. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Models and Projects / JAX
 
-*   [Fourier Feature Networks (⭐938)](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/\~bmild/fourfeat).
+*   [Fourier Feature Networks (⭐962)](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 
 ### Videos / NumPyro
 
@@ -224,16 +224,16 @@
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3.1k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome robotics :octocat: (⭐3.2k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Awesome robotics libraries :octocat: (⭐1.7k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
 *   [Awesome ROS2 :octocat: (⭐1.2k)](https://github.com/fkromer/awesome-ros2#readme)
-*   [Awesome artificial intelligence :octocat: (⭐7.3k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome artificial intelligence :octocat: (⭐7.4k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome machine learning :octocat: (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome deep learning :octocat: (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐8k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8.1k)](https://github.com/aikorea/awesome-rl/#readme)
 *   [Awesome SLAM datasets :octocat: (⭐1.2k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.3k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.4k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -259,7 +259,7 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐215)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐218)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -291,7 +291,7 @@
 
 ### Packages / Interactivity
 
-*   [Jupyter ROS2 (⭐18)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
+*   [Jupyter ROS2 (⭐19)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -520,11 +520,11 @@
 
 ### Software / DNS
 
-*   [blocky (⭐2.3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
+*   [blocky (⭐2.4k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐761)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐775)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
 ## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -546,7 +546,7 @@
 
 ### Python / Natural Language Processing
 
-*   [Rasa (⭐15k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
+*   [Rasa (⭐16k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 
 ## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -643,8 +643,8 @@
 
 ### Tools and session management
 
-*   [libtmux (⭐835)](https://github.com/tmux-python/libtmux) Python API for tmux
-*   [teamocil (⭐2.2k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
+*   [libtmux (⭐852)](https://github.com/tmux-python/libtmux) Python API for tmux
+*   [teamocil (⭐2.3k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 *   [tmuxp (⭐3.6k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 
 ### Books / Development and testing
@@ -662,7 +662,7 @@
 
 ### no-std crates / WIP
 
-*   [embassy (⭐1.5k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐1.6k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
 ## [31. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -674,7 +674,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐290)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐292)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -762,7 +762,7 @@
 
 ### Algorithms, Containers and Protocols / MIT
 
-*   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3
+*   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
 
 ## [40. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -774,8 +774,8 @@
 
 ### Databases / ORMs
 
-*   [Piccolo (⭐861)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
-    *   [FastAPI Examples (⭐13)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
+*   [Piccolo (⭐975)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
+    *   [FastAPI Examples (⭐17)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
 
 ### Tutorials / Other Tools
 
@@ -858,7 +858,7 @@
 
 ### Open Source Repos / S3
 
-*   [peak/s5cmd :fire::fire::fire: (⭐1.3k)](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
+*   [peak/s5cmd :fire::fire::fire: (⭐1.5k)](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
 
 ### Open Source Repos / Security
 
@@ -928,7 +928,21 @@
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### BETA / Non-X86
+
+*   [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
+
+### JavaScript / React
+
+*   [React Book, your beginner guide to React (⭐1.2k)](https://github.com/softchris/react-book/) - Chris Noring
+
+### JavaScript / Vue.js
+
+*   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
+
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -938,7 +952,7 @@
 
 *   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
-## [53. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [54. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
@@ -956,7 +970,7 @@
 
 *   [PyQtGraph (⭐3k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
-## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
@@ -964,7 +978,7 @@
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐248)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐249)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ---
 

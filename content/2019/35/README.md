@@ -41,7 +41,7 @@
 
 ### Packages / Application layer
 
-*   [vision\_opencv (⭐409)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
+*   [vision\_opencv (⭐417)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -71,11 +71,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Crypto Dashboard (⭐214)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
+*   [Vue Crypto Dashboard (⭐216)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweetalert2 (⭐590)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
+*   [vue-sweetalert2 (⭐598)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 *   [vue-modality (⭐5)](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 
 ## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
@@ -94,7 +94,7 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [ecs-demo-php-simple-app :fire: (⭐149)](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app.
+*   [ecs-demo-php-simple-app :fire: (⭐151)](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app.
 
 ### Open Source Repos / Glacier
 
@@ -258,11 +258,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [LibreNews](https://librenews.io/) - Decentralized and secure breaking news notification system. ([Source Code (⭐85)](https://github.com/milesmcc/LibreNews-Server/)) `GPL-3.0` `Python`
+*   [LibreNews](https://librenews.io/) - Decentralized and secure breaking news notification system. ([Source Code (⭐86)](https://github.com/milesmcc/LibreNews-Server/)) `GPL-3.0` `Python`
 
 ### Software / Learning and Courses
 
-*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐224)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
+*   [OpenOLAT](https://www.openolat.com/?lang=en) - OpenOLAT is a web-based learning management system for teaching, education, assessment and communication. ([Demo](https://learn.olat.com), [Source Code (⭐228)](https://github.com/OpenOLAT/OpenOLAT)) `Apache-2.0` `Java`
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -724,35 +724,35 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Neuraxle (⭐554)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
+*   [Neuraxle (⭐560)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
 
 ### Go / Natural Language Processing
 
-*   [go-ngram (⭐108)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
+*   [go-ngram (⭐109)](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *\[Deprecated]*
 *   [paicehusk (⭐29)](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm. *\[Deprecated]*
-*   [go-porterstemmer (⭐184)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
+*   [go-porterstemmer (⭐185)](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **\[Deprecated]**
 
 ### Go / General-Purpose Machine Learning
 
 *   [birdland (⭐40)](https://github.com/rlouf/birdland) - A recommendation library in Go.
 *   [leaves (⭐370)](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
 *   [go-ml-transpiler (⭐66)](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
-*   [golearn (⭐8.7k)](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
+*   [golearn (⭐8.8k)](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
 *   [goml (⭐1.4k)](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
 *   [gorgonia (⭐4.8k)](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
 *   [therfoo (⭐18)](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 *   [neat (⭐67)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **\[Deprecated]**
-*   [GoNN (⭐351)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
+*   [GoNN (⭐352)](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **\[Deprecated]**
 *   [go-dnn (⭐5)](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
 
 ### Go / Spatial analysis and geometry
 
-*   [go-geom (⭐650)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
+*   [go-geom (⭐660)](https://github.com/twpayne/go-geom) - Go library to handle geometries.
 *   [gogeo (⭐1.5k)](https://github.com/golang/geo) - Spherical geometry in Go.
 
 ### Go / Data Analysis / Data Visualization
 
-*   [gota (⭐2.5k)](https://github.com/go-gota/gota) - Dataframes.
+*   [gota (⭐2.6k)](https://github.com/go-gota/gota) - Dataframes.
 *   [gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) - A linear algebra package for Go.
 *   [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - Implementations of optimization algorithms.
 *   [gonum/plot](https://godoc.org/gonum.org/v1/plot) - A plotting library.
@@ -764,7 +764,7 @@
 
 ### Credits / Misc
 
-*   References for Go were mostly cut-and-pasted from [gopherdata (⭐805)](https://github.com/gopherdata/resources/tree/master/tooling)
+*   References for Go were mostly cut-and-pasted from [gopherdata (⭐815)](https://github.com/gopherdata/resources/tree/master/tooling)
 
 ---
 

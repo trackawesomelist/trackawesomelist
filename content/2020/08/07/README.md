@@ -72,7 +72,7 @@
 
 ### Logos
 
-*   [Devicon (⭐6.9k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
+*   [Devicon (⭐7.1k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
 ## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

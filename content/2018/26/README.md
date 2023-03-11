@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 25 - Jul 01, 2018
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -173,7 +173,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [Repo with Samples :fire: (⭐185)](https://github.com/awslabs/aws-python-sample)
+*   [Repo with Samples :fire: (⭐189)](https://github.com/awslabs/aws-python-sample)
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -436,7 +436,7 @@
 
 ### Libraries / JavaScript
 
-*   [CASL Mongoose (⭐4.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐4.7k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
 ## [33. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -470,13 +470,19 @@
 
 *   [nhibernate-core (⭐2k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [37. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Language](http://www.cplusplus.com/doc/tutorial/)
+
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
 *   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐2.7k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
 
-## [38. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [39. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### Genomics
 
@@ -487,13 +493,13 @@
 
 *   [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 
-## [39. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [40. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Codius
 
 *   [Codius Hosts](http://codiushosts.com/)
 
-## [40. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [41. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Other
 
@@ -507,13 +513,13 @@
 
 *   [BrainBlasted's Privacy and Free Software Blog](https://brainblasted.gitlab.io/) - Practical look at issues involving free software and privacy.
 
-## [41. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [42. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [Slate (⭐26k)](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
@@ -559,19 +565,19 @@
 
 *   [Launcher Icons (⭐1.7k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
-## [43. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [44. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
 *   [YCM (⭐43)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐442)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [44. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [45. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x health check (⭐11)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
-## [45. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [46. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@alyssais](https://github.com/alyssais), [Homebrew (⭐34k)](https://github.com/Homebrew/brew)
     *   "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
@@ -583,7 +589,7 @@
 *   [@tbrisker](https://github.com/tbrisker), [Foreman (⭐2.3k)](https://github.com/theforeman/foreman)
     *   "On maintaining Foreman" ([video](https://vimeo.com/276832413))
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -592,13 +598,13 @@
 ### JavaScript / Demos and Scripts
 
 *   [The Bot (⭐5)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
-*   [Half Beer (⭐6)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
+*   [Half Beer (⭐7)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.9k)](https://github.com/cazala/synaptic).
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐766)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐770)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
-## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [48. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
@@ -606,13 +612,13 @@
 *   [aurelia-slickgrid (⭐116)](https://github.com/ghiscoding/aurelia-slickgrid) \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 *   [casl-aurelia (⭐4.3k)](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) \* Permissions management plugin which allows to integrate Aurelia and CASL
 
-## [48. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [tools.trace (⭐339)](https://github.com/clojure/tools.trace)
 
-## [49. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [50. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Office
 
@@ -622,7 +628,7 @@
 
 *   [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 
-## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [51. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Media Consumption
 
@@ -633,7 +639,7 @@
 
 *   [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
-## [51. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [52. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -641,7 +647,7 @@
 *   [VHostScan (⭐984)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [SubFinder (⭐6.4k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
-## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [53. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -651,7 +657,7 @@
 
 *   [babel-parser (⭐42k)](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel.
 
-## [53. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [54. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 

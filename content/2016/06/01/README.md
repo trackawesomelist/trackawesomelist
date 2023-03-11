@@ -124,7 +124,7 @@
 
 ### Apps
 
-*   [Dota2 (⭐88)](https://github.com/ValveSoftware/Dota-2-Vulkan/) - by Valve.
+*   [Dota2 (⭐91)](https://github.com/ValveSoftware/Dota-2-Vulkan/) - by Valve.
 
 ## [11. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

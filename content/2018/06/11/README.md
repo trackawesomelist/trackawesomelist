@@ -183,7 +183,7 @@
 
 ### Open Source Repos / CloudWatch
 
-*   [jorgebastida/awslogs :fire::fire::fire::fire::fire: (⭐4.5k)](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
+*   [jorgebastida/awslogs :fire::fire::fire::fire::fire: (⭐4.6k)](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
 
 ---
 

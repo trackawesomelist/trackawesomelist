@@ -16,7 +16,7 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [collie (⭐59)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+*   [collie (⭐58)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
 
 ### Data serialization / Binary Serilization
 

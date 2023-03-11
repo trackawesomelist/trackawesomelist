@@ -36,7 +36,7 @@
 
 ### CSV
 
-*   [Csv::Parser (⭐16)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
+*   [Csv::Parser (⭐15)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
 
 ## [6. Awesome React](/content/enaqx/awesome-react/README.md)
 

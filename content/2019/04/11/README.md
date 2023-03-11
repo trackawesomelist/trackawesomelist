@@ -50,8 +50,8 @@
 
 ### Visualization
 
-*   [ipytree (⭐104)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
-*   [xleaflet (⭐76)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
+*   [ipytree (⭐103)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+*   [xleaflet (⭐75)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 *   [xwebrtc (⭐15)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 *   [xwidgets (⭐130)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 

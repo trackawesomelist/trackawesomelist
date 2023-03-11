@@ -14,7 +14,7 @@
 
 ### Software / Polls and Events
 
-*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐302)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
+*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐303)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
 
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 

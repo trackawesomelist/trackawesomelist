@@ -45,7 +45,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐284)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐285)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

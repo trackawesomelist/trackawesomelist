@@ -64,7 +64,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-client-python :fire::fire: (⭐344)](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
+*   [amazon-kinesis-client-python :fire::fire: (⭐350)](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
 
 ## [9. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

@@ -845,12 +845,6 @@ A curated list of podcasts we like to listen to.
 
 *   [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 
-## [Jul 21, 2016](/content/2016/07/21/README.md)
-
-### In English
-
-*   [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
-
 ## [Jul 20, 2016](/content/2016/07/20/README.md)
 
 ### In Portuguese

@@ -36,7 +36,7 @@
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/\~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
+*   [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 

@@ -96,7 +96,7 @@
 
 ### Open Source Repos / Route 53
 
-*   [route53-infima :fire::fire: (⭐316)](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
+*   [route53-infima :fire::fire: (⭐322)](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
 
 ---
 

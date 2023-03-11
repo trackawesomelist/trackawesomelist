@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,7 +36,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐848)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐334)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐853)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐337)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -56,26 +56,20 @@
 
 *   [Toucan (⭐534)](https://github.com/metabase/toucan)
 
-## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
-
-### Cloud Support
-
-*   [S3 (⭐30)](https://github.com/hubrick/vertx-s3-client) - A fully functional Vert.x client for S3.
-
-## [9. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
 *   [rtree (⭐990)](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R\*-tree implementations in Java with reactive api.
 *   [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnetfiddle](https://dotnetfiddle.net) - .NET sandbox for developers to quickly try out code and share code snippets.
 
-## [11. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [10. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### editors & viewers
 

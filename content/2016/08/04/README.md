@@ -57,7 +57,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Open Source Repos / Security
 
-*   [alex/letsencrypt-aws :fire::fire::fire: (⭐730)](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
+*   [alex/letsencrypt-aws :fire::fire::fire: (⭐729)](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
 
 ## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

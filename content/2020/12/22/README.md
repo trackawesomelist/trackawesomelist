@@ -16,13 +16,13 @@
 
 ### Others / Object detection and object tracking
 
-*   [Pcx :octocat: (⭐1.1k)](https://github.com/keijiro/Pcx) - Point cloud importer/renderer for Unity.
+*   [Pcx :octocat: (⭐1.2k)](https://github.com/keijiro/Pcx) - Point cloud importer/renderer for Unity.
 
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [attractions (⭐793)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐823)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐728)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐739)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
@@ -73,7 +73,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐451)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐479)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ---
 

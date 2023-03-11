@@ -42,11 +42,11 @@
 
 ### Development Environment
 
-*   [Git Hooks (⭐838)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐840)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.1k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### Open Source Repos / Redshift
 
-*   [aws-lambda-redshift-loader :fire::fire::fire: (⭐588)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
+*   [aws-lambda-redshift-loader :fire::fire::fire: (⭐591)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
 
 ## [27. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -497,7 +497,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐678)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐697)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -529,7 +529,7 @@
 
 ### Networking
 
-*   [KCP (⭐12k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
+*   [KCP (⭐13k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
 
 ### Coding Style Tools
 

@@ -23,11 +23,11 @@
 
 ### Command Line Tools / Universal Command Line Interface
 
-*   [awslabs/aws-shell :fire::fire::fire::fire::fire: (⭐6.7k)](https://github.com/awslabs/aws-shell)
+*   [awslabs/aws-shell :fire::fire::fire::fire::fire: (⭐6.8k)](https://github.com/awslabs/aws-shell)
 
 ### Open Source Repos / CLI
 
-*   [aws-shell :fire::fire::fire::fire::fire: (⭐6.7k)](https://github.com/awslabs/aws-shell)
+*   [aws-shell :fire::fire::fire::fire::fire: (⭐6.8k)](https://github.com/awslabs/aws-shell)
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

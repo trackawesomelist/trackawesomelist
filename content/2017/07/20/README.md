@@ -38,7 +38,7 @@
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐384)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐385)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Open Source Repos / SQS
 
-*   [phstc/shoryuken :fire::fire::fire::fire: (⭐1.9k)](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
+*   [phstc/shoryuken :fire::fire::fire::fire: (⭐2k)](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
 
 ---
 

@@ -24,7 +24,7 @@
 
 ### Image Processing
 
-*   [DotImaging (⭐309)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [donnemartin/dev-setup :fire::fire::fire::fire: (⭐5.8k)](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
+*   [donnemartin/dev-setup :fire::fire::fire::fire: (⭐5.9k)](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
 
 ## [6. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 

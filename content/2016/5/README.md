@@ -261,8 +261,8 @@ Webpage: <http://hanahaus.com/>
 
 ### Rust / General-Purpose Machine Learning
 
-*   [deeplearn-rs (⭐201)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐553)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [deeplearn-rs (⭐202)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+*   [rustlearn (⭐557)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -340,7 +340,7 @@ Webpage: <http://hanahaus.com/>
 ### Data serialization / Binary Serilization
 
 *   [cerealed (⭐90)](https://github.com/atilaneves/cerealed)  - Serialisation library for D
-*   [dproto (⭐35)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
+*   [dproto (⭐36)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
 ## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -383,7 +383,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
+*   [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
 
 ### Concurrency
 
@@ -415,7 +415,7 @@ git name-rev --name-only <SHA-1>
 
 ### State Machines
 
-*   [transitions (⭐533)](https://github.com/troessner/transitions) - A ruby state machine implementation.
+*   [transitions (⭐534)](https://github.com/troessner/transitions) - A ruby state machine implementation.
 
 ## [29. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Python / Natural Language Processing
 
-*   [Rasa (⭐15k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
+*   [Rasa (⭐16k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐248)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐249)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -110,8 +110,8 @@
 
 ### Tools and session management
 
-*   [libtmux (⭐835)](https://github.com/tmux-python/libtmux) Python API for tmux
-*   [teamocil (⭐2.2k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
+*   [libtmux (⭐852)](https://github.com/tmux-python/libtmux) Python API for tmux
+*   [teamocil (⭐2.3k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 *   [tmuxp (⭐3.6k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 
 ### Books / Development and testing
@@ -129,7 +129,7 @@
 
 ### no-std crates / WIP
 
-*   [embassy (⭐1.5k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐1.6k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

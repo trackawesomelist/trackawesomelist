@@ -163,7 +163,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Logging
 
-*   [glog (⭐5.9k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
+*   [glog (⭐6k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
 
 ### PDF
 

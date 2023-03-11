@@ -38,7 +38,7 @@
 
 ### Authorization
 
-*   [Consul (⭐306)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
+*   [Consul (⭐309)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

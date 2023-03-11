@@ -151,7 +151,7 @@
 
 ### Static Site Generators
 
-*   [Pretzel (⭐599)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐600)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 

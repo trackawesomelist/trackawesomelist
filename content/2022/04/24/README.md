@@ -142,7 +142,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [apollo-vue-devtools (⭐18)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
+*   [apollo-vue-devtools (⭐17)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
 ## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 

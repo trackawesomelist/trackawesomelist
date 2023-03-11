@@ -32,7 +32,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [quri (⭐96)](https://github.com/fukamachi/quri) - Another URI library for
+*   [quri (⭐98)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 

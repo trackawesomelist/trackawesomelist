@@ -44,7 +44,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-scratchable (⭐49)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
+*   [vue-scratchable (⭐50)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
 
 ## [6. Awesome Indie](/content/mezod/awesome-indie/README.md)
 

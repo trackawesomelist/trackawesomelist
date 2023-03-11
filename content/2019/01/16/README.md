@@ -120,7 +120,7 @@
 
 ### Collaboration/Education
 
-*   [IPythonBlocks (⭐154)](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter.
+*   [IPythonBlocks (⭐155)](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter.
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -138,11 +138,11 @@
 
 ### Contents / Communication
 
-*   [SpaceX GO (⭐793)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
+*   [SpaceX GO (⭐792)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
 ### Contents / Finance
 
-*   [Platypus Crypto (⭐178)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
+*   [Platypus Crypto (⭐180)](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
 
 ### Contents / Media
 
@@ -151,7 +151,7 @@
 
 ### Contents / Productivity
 
-*   [Trinity Orientation (⭐604)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
+*   [Trinity Orientation (⭐606)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 
 ---
 

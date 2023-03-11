@@ -28,7 +28,7 @@
 
 ### Tools
 
-*   💼 [twined-components (⭐6)](https://github.com/lowfront/twined-components) - Extended component of a styled-components that prioritizes class names for use in Tailwind CSS.
+*   💼 [twined-components (⭐7)](https://github.com/lowfront/twined-components) - Extended component of a styled-components that prioritizes class names for use in Tailwind CSS.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

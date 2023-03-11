@@ -142,8 +142,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐575)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐951)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐574)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐959)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -358,7 +358,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐4.8k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐4.9k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [23. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 

@@ -14,7 +14,7 @@
 
 ### Networking
 
-*   [Proxygen (⭐7.7k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
+*   [Proxygen (⭐7.8k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
 
 ### Other Awesome Projects
 

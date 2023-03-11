@@ -128,7 +128,7 @@
 ### Scheduling
 
 *   [FluentScheduler (⭐2.5k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
-*   [NCrontab (⭐757)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [NCrontab (⭐766)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -277,7 +277,7 @@
 
 ### Samples
 
-*   [vkcube (⭐93)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐95)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [23. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
@@ -338,7 +338,7 @@
 
 ### Open Source Repos / S3
 
-*   [mumrah/s3-multipart :fire: (⭐160)](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
+*   [mumrah/s3-multipart :fire: (⭐162)](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 
 ## [31. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Automation / Conversion
 
-*   [swaggerjmx (⭐92)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
+*   [swaggerjmx (⭐94)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Open Source Repos / Security
 
-*   [salesforce/policy\_sentry :fire::fire::fire::fire: (⭐1.7k)](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
+*   [salesforce/policy\_sentry :fire::fire::fire::fire: (⭐1.8k)](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
 
 ---
 

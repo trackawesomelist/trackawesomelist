@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [News Weaver (⭐23)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
+*   [News Weaver (⭐24)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
 
 ### Components & Libraries / UI Components
 

@@ -71,7 +71,7 @@
 
 ### Architecture Patterns
 
-*   [The Composable Architecture (⭐8.1k)](https://github.com/pointfreeco/swift-composable-architecture) - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+*   [The Composable Architecture (⭐8.2k)](https://github.com/pointfreeco/swift-composable-architecture) - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 ### ARKit
 
@@ -152,4 +152,5 @@
 
 ---
 
+- Prev: [Feb 25, 2023](/content/2023/02/25/README.md)
 - Next: [Feb 23, 2023](/content/2023/02/23/README.md)

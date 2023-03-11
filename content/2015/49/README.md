@@ -320,7 +320,7 @@
 
 ### Database Drivers
 
-*   [RethinkDb.Driver (⭐372)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
+*   [RethinkDb.Driver (⭐373)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 
 ### IoC
 
@@ -336,12 +336,12 @@
 
 ### Testing
 
-*   [Bogus (⭐6.7k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐6.8k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 *   [FsCheck (⭐1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐5.4k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [35. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -351,7 +351,7 @@
 
 ### Table of Contents / Papers
 
-*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/\~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
+*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
 *   [Translating Haskell to Isabelle](http://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf)
 
 ### Table of Contents / Wikis
@@ -369,7 +369,7 @@
 
 ### Database
 
-*   [LMDB++ (⭐262)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
+*   [LMDB++ (⭐263)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
 ## [38. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

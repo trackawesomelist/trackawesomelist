@@ -40,7 +40,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐201)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐203)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ---
 

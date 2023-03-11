@@ -16,7 +16,7 @@
 
 ### Status Bar
 
-*   [tmux-nordvpn (⭐15)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
+*   [tmux-nordvpn (⭐16)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

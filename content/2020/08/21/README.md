@@ -45,9 +45,9 @@
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐2.9k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐64)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
-*   [Todo Example (⭐25)](https://github.com/beary/vite-example) - Todo app with routing and state management.
+*   [Icônes (⭐3k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐66)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Todo Example (⭐28)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [7. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Contents / Business
 
-*   [Minsk8 (⭐55)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
+*   [Minsk8 (⭐58)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 
 ### Contents / Finance
 
@@ -314,7 +314,7 @@
 
 ### Open Source Repos / Security
 
-*   [cloudsploit/scans :fire::fire::fire::fire: (⭐2.4k)](https://github.com/cloudsploit/scans) - Detects security risks.
+*   [cloudsploit/scans :fire::fire::fire::fire: (⭐2.5k)](https://github.com/cloudsploit/scans) - Detects security risks.
 
 ## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

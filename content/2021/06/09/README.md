@@ -11,7 +11,7 @@
 ### Software / Community-Supported Agriculture (CSA)
 
 *   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐283)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
-*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐32)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
+*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐33)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -31,7 +31,7 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [DFIRTrack (⭐414)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
+*   [DFIRTrack (⭐419)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
 ## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-rancher2 (⭐211)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
+*   [terraform-provider-rancher2 (⭐213)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [dananas/kotlin-glsl (⭐34)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
+*   [dananas/kotlin-glsl (⭐35)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 

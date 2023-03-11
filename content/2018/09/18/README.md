@@ -85,7 +85,7 @@
 
 ### Platforms
 
-*   [DigitalOcean (⭐297)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐299)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 
@@ -95,7 +95,7 @@
 
 ### Open Source Repos / Device Farm
 
-*   [aws-device-farm-sample-app-for-android :fire: (⭐160)](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
+*   [aws-device-farm-sample-app-for-android :fire: (⭐161)](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
 
 ---
 

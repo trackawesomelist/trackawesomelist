@@ -65,7 +65,7 @@
 
 ### Open Source Repos / S3
 
-*   [minio/minio :fire::fire::fire::fire::fire: (⭐36k)](https://github.com/minio/minio) - Object storage server compatible with S3.
+*   [minio/minio :fire::fire::fire::fire::fire: (⭐38k)](https://github.com/minio/minio) - Object storage server compatible with S3.
 
 ## [9. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐375)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐376)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### IoC
 
-*   [Microsoft.Extensions.DependencyInjection (⭐875)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
+*   [Microsoft.Extensions.DependencyInjection (⭐872)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
 *   [Scrutor (⭐2.8k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
 ### Markdown Processors
@@ -315,7 +315,7 @@
 
 ### Tools
 
-*   [Visual Studio Uninstaller (⭐3.8k)](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
+*   [Visual Studio Uninstaller (⭐3.9k)](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 
 ## [29. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

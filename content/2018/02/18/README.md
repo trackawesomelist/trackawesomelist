@@ -44,7 +44,7 @@
 
 ### Middleware
 
-*   [Gateleen (⭐70)](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
+*   [Gateleen (⭐71)](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
 
 ### Examples
 

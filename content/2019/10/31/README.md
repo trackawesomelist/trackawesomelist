@@ -75,7 +75,7 @@
 
 ### Tools / Misc
 
-*   [Kedro (⭐8k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐8.1k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
@@ -267,8 +267,8 @@
 *   [VideoSplashKit (⭐1.2k)](https://github.com/svhawks/VideoSplashKit) - VideoSplashKit - UIViewController library for creating easy intro pages with background videos.
 *   [paper-onboarding (⭐3.2k)](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
 *   [SwiftyOverlay (⭐80)](https://github.com/saeid/SwiftyOverlay) - Easy and quick way to show intro / instructions over app UI without any additional images in real-time!
-*   [WhatsNewKit (⭐2.9k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
-*   [OnboardKit (⭐477)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [WhatsNewKit (⭐3k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+*   [OnboardKit (⭐482)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ### WebSocket / Collection View Layout
 
@@ -309,7 +309,7 @@
 
 *   [Swinject (⭐5.7k)](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift.
 *   [Guise (⭐53)](https://github.com/prosumma/Guise) - An elegant, flexible, type-safe dependency resolution framework for Swift.
-*   [Weaver (⭐700)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift.
+*   [Weaver (⭐702)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift.
 *   [Needle (⭐1.5k)](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
 *   [Locatable (⭐116)](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
 
@@ -339,7 +339,7 @@
 *   [raywenderlich.com](https://www.raywenderlich.com/ios) - Tutorials for developers and gamers.
 *   [Awesome-Swift-Education (⭐5.5k)](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
 *   [Awesome-Swift-Playgrounds (⭐3.8k)](https://github.com/uraimo/Awesome-Swift-Playgrounds) - A List of Awesome Swift Playgrounds!
-*   [Conferences.digital (⭐770)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐771)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 *   [DaddyCoding](https://daddycoding.com/) - iOS Tutorials ranging from beginners to advance.
 
 ### Newsletters / Collection View Layout
@@ -357,7 +357,7 @@
 
 ### Other Awesome Lists / Collection View Layout
 
-*   [Open Source apps (⭐33k)](https://github.com/dkhamsing/open-source-ios-apps) list of open source iOS apps.
+*   [Open Source apps (⭐34k)](https://github.com/dkhamsing/open-source-ios-apps) list of open source iOS apps.
 *   Awesome-swift
     *   [@matteocrippa (⭐23k)](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
     *   [@Wolg (⭐5.4k)](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.

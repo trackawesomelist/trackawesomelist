@@ -52,7 +52,7 @@
 ### OS and Kernels / MIT
 
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada\_KALINDA is a sort of Mac Plus like OS written in Ada95.
-*   [cxos (⭐36)](https://github.com/ajxs/cxos) - Ada Operating System development example.
+*   [cxos (⭐34)](https://github.com/ajxs/cxos) - Ada Operating System development example.
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

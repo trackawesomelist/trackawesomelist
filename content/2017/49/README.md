@@ -292,7 +292,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [node-vue-template (⭐72)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
+*   [node-vue-template (⭐73)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
 
 ### Components & Libraries / UI Components
 
@@ -312,7 +312,7 @@
 
 ### Articles / iOS
 
-*   [Raspberry Pi A to Z List (⭐921)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+*   [Raspberry Pi A to Z List (⭐922)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
 ## [33. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

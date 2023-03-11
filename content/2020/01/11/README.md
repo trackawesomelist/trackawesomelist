@@ -48,7 +48,7 @@
 
 ### Tutorial
 
-*   [Mike Bailey's Vulkan Page](http://web.engr.oregonstate.edu/\~mjb/vulkan/) - Provides extensive Vulkan course slides. \[CC BY-NC-ND 4.0]
+*   [Mike Bailey's Vulkan Page](http://web.engr.oregonstate.edu/~mjb/vulkan/) - Provides extensive Vulkan course slides. \[CC BY-NC-ND 4.0]
 
 ---
 

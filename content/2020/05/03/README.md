@@ -30,7 +30,7 @@
 
 ### Database Drivers
 
-*   [ruby-pg (⭐666)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+*   [ruby-pg (⭐669)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 
 ### Robotics
 
@@ -86,7 +86,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kouts/vue-modal (⭐97)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
+*   [@kouts/vue-modal (⭐98)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 
 ## [7. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -110,15 +110,15 @@
 
 ### Serverless / Other Tools
 
-*   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
-*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐121)](https://github.com/iwpnd/fastapi-aws-lambda-example))
+*   [Chalice (⭐9.5k)](https://github.com/aws/chalice)
+*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐123)](https://github.com/iwpnd/fastapi-aws-lambda-example))
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Other Tools
 
 *   FastAPI CRUD Example:
-    *   [Async flavor (⭐278)](https://github.com/testdrivenio/fastapi-crud-async)
-    *   [Sync Flavor (⭐56)](https://github.com/testdrivenio/fastapi-crud-sync)
+    *   [Async flavor (⭐312)](https://github.com/testdrivenio/fastapi-crud-async)
+    *   [Sync Flavor (⭐61)](https://github.com/testdrivenio/fastapi-crud-sync)
 
 ## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 

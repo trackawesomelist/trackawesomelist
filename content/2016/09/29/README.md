@@ -65,7 +65,7 @@
 
 ### Open Source Repos / S3
 
-*   [s3tools/s3cmd :fire::fire::fire::fire::fire: (⭐4k)](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
+*   [s3tools/s3cmd :fire::fire::fire::fire::fire: (⭐4.1k)](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -24,9 +24,9 @@
 
 - Name: [Krisp](http://krisp.ai)
 
-  Title: World\&Apos;S #1 Noise Cancelling App - Krisp.
+  Title: Worlds #1 Noise Cancelling App - Krisp.
 
-  Description: Krisp's AI removes background voices, noises and echo from all your calls, giving you peace of mind.
+  Description: Krisps AI removes background voices, noises and echo from all your calls, giving you peace of mind.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -81,7 +81,7 @@
 
 ### Frameworks
 
-*   [libxutils (⭐16)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐17)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 
 ## [9. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-gltf (⭐75)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
+*   [vite-plugin-gltf (⭐85)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 
 ## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

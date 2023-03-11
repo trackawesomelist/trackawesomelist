@@ -50,8 +50,8 @@
 
 ### Packages / General Purpose Libraries
 
-*   [spark-daria (⭐698)](https://github.com/mrpowers/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
-*   [quinn (⭐364)](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
+*   [spark-daria (⭐709)](https://github.com/mrpowers/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
+*   [quinn (⭐411)](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
 
 ### Resources / Books
 

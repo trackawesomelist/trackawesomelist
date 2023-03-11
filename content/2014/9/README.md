@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03 - Mar 09, 2014
 
-3 awesome lists updated this week.
+4 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,22 @@
 
 *   [es6-import-validate (⭐6)](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate (⭐3)](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.
 
-## [3. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [A beginner's guide to HTML\&CSS](http://learn.shayhowe.com/html-css/)
+*   [An advanced guide to HTML\&CSS](http://learn.shayhowe.com/advanced-html-css/)
+
+### .NET Framework / PicoLisp
+
+*   [.NET for Visual FoxPro Developers](http://foxcentral.net/microsoft/NETforVFPDevelopers.htm)
+
+### Perl / PicoLisp
+
+*   [Perl Training Australia - Course Notes](http://perltraining.com.au/notes.html)
+
+## [4. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Books / Docs / Videos
 

@@ -10,7 +10,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [bobbin-cli (⭐110)](https://github.com/bobbin-rs/bobbin-cli) A Rust command line tool to simplify embedded development and deployment.
+*   [bobbin-cli (⭐111)](https://github.com/bobbin-rs/bobbin-cli) A Rust command line tool to simplify embedded development and deployment.
 
 ## [2. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 

@@ -426,7 +426,6 @@
 
 ### Wallets
 
-*   [MyAlgo Connect (⭐56)](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
 *   [AlgoSigner (⭐89)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 
 ### Blockchain Explorers

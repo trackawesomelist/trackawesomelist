@@ -68,7 +68,7 @@
 
 ### Testing
 
-*   [treebeard (⭐154)](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
+*   [treebeard (⭐153)](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
 
 ## [7. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Extensions
 
-*   [next-joi (⭐111)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
+*   [next-joi (⭐112)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

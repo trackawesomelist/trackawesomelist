@@ -106,7 +106,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [jimpick/lambda-comments :fire::fire::fire: (⭐624)](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
+*   [jimpick/lambda-comments :fire::fire::fire: (⭐623)](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 
 ## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

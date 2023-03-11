@@ -120,7 +120,7 @@
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐600)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind (⭐602)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
 ## [13. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 

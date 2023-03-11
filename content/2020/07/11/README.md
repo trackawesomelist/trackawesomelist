@@ -16,17 +16,17 @@
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐627)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
+*   [oauth2 (⭐638)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 
-*   [grycap/scar :fire::fire::fire: (⭐582)](https://github.com/grycap/scar) - Transparently execute containers out of Docker images in AWS Lambda.
+*   [grycap/scar :fire::fire::fire: (⭐585)](https://github.com/grycap/scar) - Transparently execute containers out of Docker images in AWS Lambda.
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Similarweb/finala :fire::fire::fire: (⭐666)](https://github.com/similarweb/finala) - A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses.
+*   [Similarweb/finala :fire::fire::fire: (⭐684)](https://github.com/similarweb/finala) - A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses.
 
 ## [4. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lumino (⭐63)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-lumino (⭐64)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

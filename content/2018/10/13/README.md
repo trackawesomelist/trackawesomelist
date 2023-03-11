@@ -10,7 +10,7 @@
 
 ### Open Source Repos / CLI
 
-*   [amazon-ecs-cli :fire::fire::fire::fire: (⭐1.6k)](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands.
+*   [amazon-ecs-cli :fire::fire::fire::fire: (⭐1.7k)](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands.
 
 ## [2. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Misc
 
-*   [Guard (⭐682)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐683)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

@@ -79,7 +79,6 @@
 
 ### Other / Paid
 
-*   [Heroicons](https://www.heroicons.com) - Unique set of icons for your marketing website.
 *   [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.
 
 ## [9. Alternative Internet](/content/redecentralize/alternative-internet/README.md)

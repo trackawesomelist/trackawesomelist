@@ -442,7 +442,7 @@
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐266)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐270)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ---
 

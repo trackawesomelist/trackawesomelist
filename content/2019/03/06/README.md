@@ -29,7 +29,7 @@
 
 ### CLI Utilities
 
-*   [Whirly (⭐316)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
+*   [Whirly (⭐317)](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
 
 ### Cryptocurrencies and Blockchains
 
@@ -37,7 +37,7 @@
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐550)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐552)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
@@ -53,7 +53,7 @@
 
 ### Plugins
 
-*   [extrakto (⭐629)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐657)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

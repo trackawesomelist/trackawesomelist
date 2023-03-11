@@ -26,8 +26,8 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐230)](https://github.com/ElementsProject/libwally-core)
-*   [secp256k1 (⭐1.6k)](https://github.com/bitcoin-core/secp256k1)
+*   [libwally-core (⭐233)](https://github.com/ElementsProject/libwally-core)
+*   [secp256k1 (⭐1.7k)](https://github.com/bitcoin-core/secp256k1)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -115,11 +115,11 @@
 
 ### Introducing people to data security and cryptography / Simple: cryptography for non-engineers
 
-*   [Nuts and Bolts of Encryption: A Primer for Policymakers](https://www.cs.princeton.edu/\~felten/encryption_primer.pdf).
+*   [Nuts and Bolts of Encryption: A Primer for Policymakers](https://www.cs.princeton.edu/~felten/encryption_primer.pdf).
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/\~dabo/pubs/papers/RSA-survey.pdf) - Great inquiry into attacking RSA and it's internals, by Dan Boneh.
+*   [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) - Great inquiry into attacking RSA and it's internals, by Dan Boneh.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 
@@ -142,7 +142,7 @@
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Lecture notes by Rafael Pass, Abhi Shelat.
-*   [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/\~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (MIT), M. Bellare (University of California).
+*   [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (MIT), M. Bellare (University of California).
 
 ### Online crypto challenges / Post-quantum cryptography
 
@@ -173,7 +173,7 @@
 
 ### Miscellaneous
 
-*   [Captcha (⭐952)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Captcha (⭐961)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ---
 

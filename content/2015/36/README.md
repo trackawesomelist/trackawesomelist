@@ -325,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐512)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐513)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -571,13 +571,13 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### PDF
 
-*   [Squid (⭐218)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
+*   [Squid (⭐217)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
 
 ## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.3k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.4k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 

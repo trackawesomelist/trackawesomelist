@@ -22,7 +22,7 @@
 
 ### Multimedia
 
-*   [SFML (⭐8.4k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐8.5k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 
@@ -61,7 +61,7 @@ git config core.fileMode false
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐217)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐220)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ---
 

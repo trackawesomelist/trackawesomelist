@@ -16,7 +16,7 @@
 
 ### Open Source Repos / Data
 
-*   [nathanmarz/storm-deploy :fire::fire::fire: (⭐517)](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters.
+*   [nathanmarz/storm-deploy :fire::fire::fire: (⭐516)](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters.
 
 ## [3. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
@@ -47,13 +47,13 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Recommender (⭐254)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+*   [Recommender (⭐256)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 ### C++ / General-Purpose Machine Learning
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DyNet (⭐3.3k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐412)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [Fido (⭐411)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [LightGBM (⭐15k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.

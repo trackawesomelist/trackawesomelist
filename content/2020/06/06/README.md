@@ -59,7 +59,7 @@
 
 ### Apps
 
-*   [Feednext (⭐243)](https://github.com/feednext/feednext) - An open source social media application.
+*   [Feednext (⭐247)](https://github.com/feednext/feednext) - An open source social media application.
 
 ## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Projects
 
-*   [Yew-WebRTC-Chat (⭐110)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+*   [Yew-WebRTC-Chat (⭐111)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

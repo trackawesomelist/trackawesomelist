@@ -2,7 +2,7 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.4K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
@@ -12,11 +12,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Augie](https://www.augxlabs.com/)
 
-  Title: Augie transforms words into videos!
+  Title: Augie Transforms Words Into Videos!.
 
-  Description: Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words!
+  Description: Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words!.
 
-  Offer Free Version: :white\_check\_mark :
+  Offer Free Version: :white\_check\_mark:
 
 
 

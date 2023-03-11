@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [lambda-refarch-iotbackend :fire::fire: (⭐250)](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
+*   [lambda-refarch-iotbackend :fire::fire: (⭐252)](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
 
 ## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Platforms
 
-*   [Home Assistant (⭐4.4k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐4.5k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Logging
 
-*   [Syslogger (⭐112)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+*   [Syslogger (⭐113)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
 
 ## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 

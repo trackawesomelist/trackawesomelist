@@ -91,7 +91,7 @@
 
 ### Miscellaneous
 
-*   [pprint (⭐889)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐894)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ---
 

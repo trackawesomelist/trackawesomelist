@@ -11,7 +11,7 @@
 ### Compilers, Transpilers and Languages
 
 *   [Mono-basic (⭐100)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
-*   [Netjs (⭐944)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
+*   [Netjs (⭐946)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

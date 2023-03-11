@@ -10,7 +10,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐328)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐335)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [2. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐844)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐847)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -54,7 +54,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/C-base>
 
 ### Open Source Repos / SES
 
-*   [drewblas/aws-ses :fire::fire::fire: (⭐547)](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
+*   [drewblas/aws-ses :fire::fire::fire: (⭐549)](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
 
 ---
 

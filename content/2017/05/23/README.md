@@ -127,7 +127,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐372)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐373)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

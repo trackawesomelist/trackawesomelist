@@ -389,7 +389,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐172)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐198)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -399,15 +399,15 @@
 
 ### SDKs and Samples / Android SDK
 
-*   [Repo :fire::fire::fire: (⭐963)](https://github.com/aws/aws-sdk-android)
+*   [Repo :fire::fire::fire: (⭐981)](https://github.com/aws/aws-sdk-android)
 
 ### Open Source Repos / Cognito
 
-*   [capeless/warrant :fire::fire: (⭐441)](https://github.com/capless/warrant) - Python library for using Cognito.
+*   [capeless/warrant :fire::fire: (⭐453)](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ### Open Source Repos / Elastic Container Service
 
-*   [service-discovery-ecs-consul :fire: (⭐109)](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
+*   [service-discovery-ecs-consul :fire: (⭐108)](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
 
 ## [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -429,7 +429,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyCM (⭐1.3k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
+*   [PyCM (⭐1.4k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 
 ## [35. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -495,7 +495,7 @@
 
 ### Tools and session management
 
-*   [tmux-up (⭐109)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
+*   [tmux-up (⭐110)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 
 ### Plugins
 

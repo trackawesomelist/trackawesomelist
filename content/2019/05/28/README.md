@@ -117,7 +117,7 @@
 
 ### SDKs and Samples / IoT SDK
 
-*   [Repo for C :fire::fire::fire: (⭐856)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
+*   [Repo for C :fire::fire::fire: (⭐876)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -178,22 +178,16 @@
 
 *   [react-container-dimensions (⭐227)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 
-### Meta Tags / Mouse Events
-
-*   [react-document-meta (⭐320)](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
-
 ### Portal / Mouse Events
 
 *   [react-layer-stack (⭐157)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
 
 ### Data Store / Mouse Events
 
-*   [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 *   [redux-batched-actions (⭐1k)](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
 
 ### Props from server / Mouse Events
 
-*   [redux-async-connect (⭐649)](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
 *   [redux-connect (⭐549)](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 
 ### Isomorphic Apps / Mouse Events

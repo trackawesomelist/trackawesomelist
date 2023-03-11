@@ -1,18 +1,36 @@
 # Awesome List Updates on Oct 25, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Eiffel / Non-X86
+
+*   [A Functional Pattern System for Object-Oriented Design](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
+
+### Java / Bootstrap
+
+*   [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Tiny Python 3.6 Notebook (⭐1.4k)](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
+
+### Standard ML / Play Scala
+
+*   [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
+
+## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [snowboy2mqtt (⭐6)](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection.
 
-## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Trackers / Private Trackers
 
@@ -34,26 +52,26 @@
 *   [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 *   [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 
-## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Tutorials
 
 *   [Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
 *   [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
 
-## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Server
 
 *   [Greenplum Database (⭐5.4k)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
 
-## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Sound Programming Languages
 
 *   [Csound](https://csound.com/) - A sound and music computing system.
 
-## [6. Awesome Indie](/content/mezod/awesome-indie/README.md)
+## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
 ### Communities / Other
 
@@ -65,25 +83,25 @@
 
     A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
 
-## [7. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [8. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Libraries / Drivers
 
 *   [mrpierrot/cycle-net ★0 (⭐2)](https://github.com/mrpierrot/cycle-net) - A Cycle.js driver for Node.js HTTP(S)/WS(S)/Socket.io server
 
-## [8. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Xamarin.Forms
 
 *   [Sharpnado.Presentation.Forms ★28 (⭐607)](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Machine Learning and Data Science
 
 *   [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
 
-## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services
 
@@ -93,13 +111,13 @@
 
 *   [dpxdt (⭐1.4k)](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 
-## [11. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [12. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
 
-## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 

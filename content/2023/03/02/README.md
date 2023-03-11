@@ -121,7 +121,7 @@
 *   Rust: Game Framework
     *   🎉 [Ambient (⭐2.6k)](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
     *   🎉 [Amethyst (⭐7.9k)](https://github.com/amethyst/amethyst) - Data-driven 2D/3D game engine aiming to be fast and configurable.
-    *   🎉 [Bevy (⭐22k)](https://github.com/bevyengine/bevy) - 🔥 Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
+    *   🎉 [Bevy (⭐22k)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
     *   🎉 [Macroquad (⭐2k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by RayLib.
 
 ## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
@@ -183,4 +183,5 @@
 
 ---
 
+- Prev: [Mar 03, 2023](/content/2023/03/03/README.md)
 - Next: [Mar 01, 2023](/content/2023/03/01/README.md)

@@ -10,7 +10,7 @@
 
 ### Performance Monitoring
 
-*   [Skylight (⭐286)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
+*   [Skylight (⭐288)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

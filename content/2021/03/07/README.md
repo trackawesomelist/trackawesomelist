@@ -45,7 +45,7 @@
 
 ### Libraries
 
-*   [RLax (⭐959)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
+*   [RLax (⭐982)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 
 ## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -169,16 +169,19 @@
 
 ## [13. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools / Platform-specific tools
+### Tools / i18n frameworks for developers
 
-*   [SimpleLocalize CLI (⭐35)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 *   [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 
-### Articles / Platform-specific tools
+### Tools / Other tools
+
+*   [SimpleLocalize CLI (⭐37)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+
+### Articles / For developers
 
 *   [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
 
-### Blogs / Platform-specific tools
+### Blogs / Machine translation
 
 *   [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
 *   [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.

@@ -149,7 +149,6 @@ A curated list of podcasts we like to listen to.
 *   [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
 *   [Iron Sysadmin](https://www.ironsysadmin.com/) - A Podcast by real world sysadmins, for real world sysadmins.
 *   [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
-*   [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 *   [Javascript Jabber](https://devchat.tv/podcasts/js-jabber/) - Weekly podcast discussion about Javascript on the front and back ends.
 *   [JS Party](https://changelog.com/jsparty) – A community celebration of JavaScript and the web
 *   [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.

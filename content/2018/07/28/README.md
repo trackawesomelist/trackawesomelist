@@ -10,12 +10,12 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐536)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐542)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐118)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Calculators (⭐119)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

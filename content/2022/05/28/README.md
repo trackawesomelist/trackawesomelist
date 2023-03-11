@@ -28,8 +28,8 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [gal (⭐1)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐155k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
-*   [headline (⭐116)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
+*   [gal (⭐1)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
+*   [headline (⭐119)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -53,8 +53,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vountdown (⭐1)](https://github.com/logustra/vountdown) - A minimalist countdown component
-*   [vinscroll (⭐2)](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
+*   [vountdown (⭐2)](https://github.com/logustra/vountdown) - A minimalist countdown component
+*   [vinscroll (⭐3)](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

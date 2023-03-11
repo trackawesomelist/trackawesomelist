@@ -473,7 +473,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐30)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐31)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -516,7 +516,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Open Source Repos / Elastic Container Service
 
-*   [ecs-refarch-continuous-deployment :fire::fire::fire: (⭐826)](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
+*   [ecs-refarch-continuous-deployment :fire::fire::fire: (⭐833)](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
 
 ## [35. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -536,7 +536,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Docker
 
-*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐30)](https://github.com/OpenPj/keycloak-docker-quickstart)
+*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐31)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 

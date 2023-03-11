@@ -28,7 +28,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [doddle-model (⭐142)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+*   [doddle-model (⭐141)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

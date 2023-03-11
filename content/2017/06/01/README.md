@@ -10,7 +10,7 @@
 
 ### Apps / Customer experience
 
-*   [Wagtail Personalisation (⭐114)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+*   [Wagtail Personalisation (⭐115)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

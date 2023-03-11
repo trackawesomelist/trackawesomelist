@@ -36,7 +36,7 @@
 
 ### Authentication Authorisation
 
-*   [Vert.x-Pac4j (⭐118)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
+*   [Vert.x-Pac4j (⭐119)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -418,7 +418,7 @@ git rev-list --count <branch-name>
 
 ### ORM
 
-*   [PetaPoco (⭐1.9k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCOs
+*   [PetaPoco (⭐2k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCOs
 
 ### Tools
 

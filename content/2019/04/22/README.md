@@ -40,7 +40,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [Alephbet/gimel :fire::fire: (⭐223)](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
+*   [Alephbet/gimel :fire::fire: (⭐224)](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
 
 ---
 

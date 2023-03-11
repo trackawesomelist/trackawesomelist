@@ -34,7 +34,7 @@
 
 ### SDKs and Samples / Haskell SDK
 
-*   [aristidb/aws :fire::fire: (⭐224)](https://github.com/aristidb/aws)
+*   [aristidb/aws :fire::fire: (⭐228)](https://github.com/aristidb/aws)
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

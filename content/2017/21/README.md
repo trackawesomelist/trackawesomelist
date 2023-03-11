@@ -64,7 +64,7 @@
 
 ### Software / Middlewares
 
-*   [I1820](https://i1820.github.io/) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
+*   [I1820](https://i1820.github.io/) - I1820 is a free open source platform that provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -442,7 +442,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐372)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐373)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -453,7 +453,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐324)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐326)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 *   [vue2-simplert (⭐216)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 *   [vue-model-autoset (⭐18)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
@@ -493,7 +493,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐386)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐388)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -659,7 +659,7 @@
 
 ### Open Source Repos / S3
 
-*   [schickling/git-s3 :fire::fire: (⭐229)](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
+*   [schickling/git-s3 :fire::fire: (⭐228)](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
 
 ---
 

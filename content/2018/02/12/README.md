@@ -10,8 +10,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XMR Miner (⭐494)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
-*   [XMR Paper (⭐4)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
+*   [XMR Miner (⭐495)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
+*   [XMR Paper (⭐5)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 
 ## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -29,8 +29,8 @@
 
 ### Miscellaneous
 
-*   [cl-svg (⭐36)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [Varjo (⭐202)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [cl-svg (⭐35)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Varjo (⭐203)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Parris (⭐319)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
+*   [Parris (⭐320)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

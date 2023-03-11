@@ -27,7 +27,7 @@
 
 ### Applications / System tools
 
-*   [Kondo (⭐962)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
+*   [Kondo (⭐992)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Projects
 
-*   [yew-styles-page (⭐127)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
+*   [yew-styles-page (⭐128)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Networking
 
-*   [tlse (⭐487)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
+*   [tlse (⭐489)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 
 ## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

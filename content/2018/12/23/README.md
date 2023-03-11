@@ -80,13 +80,13 @@
 
 ### Application Templates
 
-*   [Nucleus (⭐340)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐341)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / API Gateway
 
-*   [aws-apigateway-swagger-importer :fire::fire::fire: (⭐519)](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
+*   [aws-apigateway-swagger-importer :fire::fire::fire: (⭐517)](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

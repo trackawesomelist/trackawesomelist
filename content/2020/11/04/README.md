@@ -66,7 +66,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-qr-reader (⭐73)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
+*   [vue3-qr-reader (⭐71)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 
 ## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -87,7 +87,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [V-Dashboard (⭐776)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
+*   📁 [V-Dashboard (⭐781)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 ### Starters & Themes
 
@@ -149,7 +149,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [alestic/lambdash :fire::fire::fire: (⭐526)](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
+*   [alestic/lambdash :fire::fire::fire: (⭐527)](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
 
 ## [13. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

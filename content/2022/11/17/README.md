@@ -10,7 +10,7 @@
 
 ### Clojure
 
-*   [Cloture (⭐342)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
+*   [Cloture (⭐346)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
 *   [cl-oju (⭐12)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [clj-con (⭐17)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [clj-re (⭐6)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
@@ -126,7 +126,7 @@
 
 ### Charts / Checkbox
 
-*   [Layer Cake (⭐735)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+*   [Layer Cake (⭐785)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -196,7 +196,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfautomv (⭐448)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfautomv (⭐457)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 
 ## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

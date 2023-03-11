@@ -38,7 +38,7 @@
 
 ### Samples
 
-*   Khronos [Vulkan samples (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.9k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+*   Khronos [Vulkan samples (⭐3k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐3k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 

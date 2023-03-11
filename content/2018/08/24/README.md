@@ -124,7 +124,7 @@
 
 ### SDKs and Samples / .NET SDK
 
-*   [Repo :fire::fire::fire::fire: (⭐1.8k)](https://github.com/aws/aws-sdk-net)
+*   [Repo :fire::fire::fire::fire: (⭐1.9k)](https://github.com/aws/aws-sdk-net)
 
 ---
 

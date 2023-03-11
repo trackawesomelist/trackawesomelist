@@ -22,7 +22,7 @@
 
 ### SDKs and Samples / Android SDK
 
-*   [Repo :fire::fire::fire: (⭐963)](https://github.com/aws/aws-sdk-android)
+*   [Repo :fire::fire::fire: (⭐981)](https://github.com/aws/aws-sdk-android)
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

@@ -24,7 +24,7 @@
 
 ### Monitoring & Quality Control
 
-*   [MXF Inspect (⭐21)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+*   [MXF Inspect (⭐24)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

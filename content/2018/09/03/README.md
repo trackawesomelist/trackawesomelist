@@ -16,7 +16,7 @@
 
 ### Open Source Repos / S3
 
-*   [danilop/yas3fs :fire::fire::fire: (⭐628)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
+*   [danilop/yas3fs :fire::fire::fire: (⭐636)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 

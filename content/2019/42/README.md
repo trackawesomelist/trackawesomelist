@@ -22,7 +22,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐304)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐305)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Tools
 
-*   [Pwnagotchi (⭐5.4k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+*   [Pwnagotchi (⭐5.5k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐82)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐83)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
@@ -167,11 +167,11 @@
 ### Javascript / Isomorphic web frameworks
 
 *   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐68)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
-    *   [paren6 (⭐19)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+    *   [paren6 (⭐20)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
 
 ### Others / Third-party APIs
 
-*   [avm (⭐50)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
+*   [avm (⭐51)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
@@ -509,7 +509,7 @@ Topics: CSS, CSS in JS, React\
 ### Document
 
 *   [Arm](https://developer.arm.com/solutions/graphics/apis/vulkan)
-    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐530)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐543)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
     *   [Vulkan's Key Features on Arm Architecture](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Vulkan%20API%20key%20features%20on%20ARM%20architecture.pdf)
     *   [Porting a Graphics Engine to the Vulkan API](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
     *   [Get Your Engine Ready for Vulkan on Mobile](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Get%20Your%20Engine%20Ready%20for%20Vulkan%20on%20Mobile.pdf)
@@ -518,7 +518,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Samples
 
-*   [Vulkan Best Practice for Mobile Developers Samples (⭐530)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+*   [Vulkan Best Practice for Mobile Developers Samples (⭐543)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 
 ### Tools
 
@@ -544,7 +544,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-client-nodejs :fire::fire: (⭐279)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
+*   [amazon-kinesis-client-nodejs :fire::fire: (⭐283)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
 
 ## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -686,20 +686,44 @@ Topics: CSS, CSS in JS, React\
 *   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.4k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
-## [53. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [53. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+
+### Official Resources
+
+*   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
+*   [GitHub Repository (⭐6.8k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
+*   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
+
+### Distributions
+
+*   [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
+
+### Tools / Extending JMeter
+
+*   [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
+*   [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
+*   [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
+
+### Community / Blogs
+
+*   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
+*   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
+
+## [54. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Server Side Swift
 
 *   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 *   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 
-## [54. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [55. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 
-## [55. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [56. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -743,7 +767,7 @@ Topics: CSS, CSS in JS, React\
 *   [Stéphane Peter](https://github.com/sponsors/megastep) - AudioKit contributor, Makeself and other libraries and projects.
 *   [Tim Oliver](https://github.com/sponsors/TimOliver) - Multitude of iOS libraries and various contribution to the iOS ecosystem.
 
-## [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -753,7 +777,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Building Remote Teams](https://www.buildingremoteteams.com/) - Targeted at people already working remotely and focuses on nuanced challenges of remote work.
 
-## [57. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -767,7 +791,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [IKOS (⭐1.8k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
-## [58. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [59. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### UK / London
 
@@ -781,7 +805,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [59. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [60. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Competition / Other
 
@@ -791,7 +815,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
-## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [61. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -821,19 +845,19 @@ Topics: CSS, CSS in JS, React\
 
 
 
-## [61. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [62. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
 *   [v-chart-plugin (⭐198)](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
-## [62. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [63. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 
-## [63. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [64. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Party
 
@@ -865,7 +889,7 @@ Topics: CSS, CSS in JS, React\
 | ------: | -------: | ---: |
 |   3 - 6 |       12 |  30m |
 
-## [64. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [65. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Converters
 
@@ -900,7 +924,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 
-## [65. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [66. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
@@ -910,7 +934,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
-## [66. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [67. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -920,18 +944,18 @@ Topics: CSS, CSS in JS, React\
 
 *   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
-## [67. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [68. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Katalyst](https://katalyst.codurance.com/)
 *   [The Beverages Prices Refactoring Kata (⭐1)](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
 
-## [68. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [69. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐422)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐428)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -939,13 +963,13 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Groupware
 
-*   [HRCloud2 (⭐184)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
+*   [HRCloud2 (⭐185)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
 *   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
 
-## [69. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [70. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
@@ -955,7 +979,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Canvas (⭐3k)](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
 
-## [70. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [71. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Data binding
 
@@ -977,7 +1001,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [Android Architecture Blueprints (⭐42k)](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 
-## [71. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [72. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Algorithm
 
@@ -996,7 +1020,7 @@ Topics: CSS, CSS in JS, React\
 *   [SwiftCop (⭐543)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
 *   [SwiftFormat (⭐6.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
-## [72. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [73. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -1026,34 +1050,6 @@ Topics: CSS, CSS in JS, React\
 ### Programming Languages/Frameworks/Platforms / Python
 
 *   [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
-
-## [73. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
-
-### Official Resources
-
-*   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐6.7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
-*   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
-*   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
-
-### Distributions
-
-*   [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
-
-### Performance Testing / Mobile Apps
-
-*   [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
-
-### Tools / Extending JMeter
-
-*   [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
-*   [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
-*   [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
-
-### Community / Blogs
-
-*   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
-*   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
 ## [74. Awesome Math](/content/rossant/awesome-math/week/README.md)
 

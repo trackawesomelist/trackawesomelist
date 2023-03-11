@@ -38,7 +38,6 @@ next to it. This icon means the component is part of the official
 *   [Vert.x Event Bus Extensions](#vertx-event-bus-extensions)
 *   [Cluster Managers](#cluster-managers)
 *   [Cloud Support](#cloud-support)
-*   [Docker](#docker)
 *   [Microservices](#microservices)
 *   [Search Engines](#search-engines)
 *   [Template Engines](#template-engines)
@@ -275,10 +274,6 @@ next to it. This icon means the component is part of the official
 *   [OpenShift DIY cartridge (⭐1)](https://github.com/vert-x3/vertx-openshift-diy-quickstart) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - OpenShift DIY Cartridge using Vert.x.
 *   [OpenShift Vert.x cartridge (⭐20)](https://github.com/vert-x3/vertx-openshift-cartridge) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - OpenShift Vert.x Cartridge using Vert.x.
 *   [AWS SDK (⭐44)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
-
-## Docker
-
-*   [Docker images (⭐119)](https://github.com/vert-x3/vertx-stack/tree/master/stack-docker) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Docker images for Vert.x.
 
 ## Microservices
 

@@ -20,7 +20,7 @@
 
 ### Software / Password Managers
 
-*   [PassWall (⭐677)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
+*   [PassWall (⭐682)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -474,7 +474,7 @@
 
 ### Tools and session management
 
-*   [vim-tmux-navigator (⭐4k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+*   [vim-tmux-navigator (⭐4.1k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
 ## [34. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
@@ -705,7 +705,7 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI Cache (⭐186)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
+*   [FastAPI Cache (⭐190)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 
 ## [45. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -741,8 +741,8 @@
 
 ### Github / Other
 
-*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.6k)](https://github.com/shreyashankar/gpt3-sandbox)
-*   [gpt-3-experiments by @minimaxir (⭐676)](https://github.com/minimaxir/gpt-3-experiments)
+*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.8k)](https://github.com/shreyashankar/gpt3-sandbox)
+*   [gpt-3-experiments by @minimaxir (⭐701)](https://github.com/minimaxir/gpt-3-experiments)
 
 ## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -836,11 +836,11 @@
 *   [@geospoc/v-mapbox (⭐136)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 *   [ckeditor4-vue (⭐60)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-*   [vue-scratchable (⭐49)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
+*   [vue-scratchable (⭐50)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
 
 ### Components & Libraries / UI Utilities
 
-*   [v-github-icon (⭐6)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
+*   [v-github-icon (⭐5)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
 
 ### Components & Libraries / Utilities
 
@@ -850,7 +850,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [janak (⭐25)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
+*   [janak (⭐26)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 
 ## [57. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 

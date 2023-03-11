@@ -170,6 +170,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ruby-nix (⭐65)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
+#### [9. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+
+##### Contents / Companies
+
+*   [GitHub Next](https://github.com/githubnext) - Exploring the future of software development.
+
+##### Contents / Telemetry
+
+*   [Sentry](https://github.com/getsentry) - Real-time crash reporting for your web apps, mobile apps, and games.
+
 ### [Mar 09, 2023](/content/2023/03/09/README.md)
 
 
@@ -331,6 +341,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Blackbird](https://orthecreedence.github.io/blackbird/) - a Promise implementation for Common Lisp [MIT](https://opensource.org/licenses/MIT).
     *   see also [promise (⭐11)](https://github.com/Shinmera/promise) - a basic promise datastructure, with timeouts. ZLIB.
+
+#### [13. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+
+##### Contents / User Interface
+
+*   [Exyte](https://github.com/exyte) - Developers with 5+ years of experience in iOS, Android, and the art of clear communication.
 
 ---
 
@@ -854,6 +870,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md) - ([Source ⭐ 2.5K, 📝 22&#x2F;09&#x2F;16 ](https://github.com/unicodeveloper/awesome-opensource-apps)) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md) - ([Source ⭐ 413, 📝 22&#x2F;03&#x2F;20 ](https://github.com/ibaaj/awesome-OpenSourcePhotography)) - A list of awesome free open source software & libraries for photography. Also tools for video.
 - [Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md) - ([Source ⭐ 362, 📝 22&#x2F;10&#x2F;31 ](https://github.com/osmlab/awesome-openstreetmap)) - 😎 Curated list of awesome OpenSteetMap-projects
+- [Awesome Orgs](/content/beansource/awesome-orgs/README.md) - ([Source ⭐ 9, 📝 03&#x2F;10 ](https://github.com/beansource/awesome-orgs)) - 🥰 List of awesome GitHub organizations
 - [Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md) - ([Source ⭐ 25, 📝 02&#x2F;15 ](https://github.com/ecohealthalliance/awesome-parasite)) - A curated list of host-parasite information
 - [Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md) - ([Source ⭐ 503, 📝 22&#x2F;06&#x2F;15 ](https://github.com/tobiasbueschel/awesome-pokemon)) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 - [Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md) - ([Source ⭐ 488, 📝 22&#x2F;09&#x2F;26 ](https://github.com/catalinmiron/awesome-prisma)) - A collection of awesome things regarding Prisma ecosystem.

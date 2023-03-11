@@ -32,7 +32,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Distributed Media Processing
 
-*   [StormCV (⭐169)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
+*   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

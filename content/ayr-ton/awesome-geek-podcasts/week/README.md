@@ -734,10 +734,6 @@ A curated list of podcasts we like to listen to.
 
 ## [Jul 18 - Jul 24, 2016](/content/2016/29/README.md)
 
-### In English
-
-*   [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
-
 ### In Portuguese
 
 *   [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.

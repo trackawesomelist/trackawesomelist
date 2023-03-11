@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -122,12 +122,6 @@
 ### Alliances / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 *   [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
-
-## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
-
-### Data serialization / JSON
-
-*   [fast.json (⭐109)](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 
 ---
 

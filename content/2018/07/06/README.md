@@ -49,7 +49,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [Roboschool (⭐2k)](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
+*   [Roboschool (⭐2.1k)](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
 *   [Retro (⭐2.9k)](https://github.com/openai/retro) - Retro Games in Gym
 *   [SLM Lab (⭐1.1k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 

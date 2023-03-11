@@ -22,13 +22,13 @@
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐234)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
+*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐235)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Gem Generators
 
-*   [Gemsmith (⭐424)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐426)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐485)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐496)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

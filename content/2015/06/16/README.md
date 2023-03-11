@@ -114,7 +114,7 @@
 
 ### Blockchain Explorers
 
-*   [Bitcoin Transaction Explorer (⭐175)](https://github.com/JornC/bitcoin-transaction-explorer)
+*   [Bitcoin Transaction Explorer (⭐176)](https://github.com/JornC/bitcoin-transaction-explorer)
 
 ---
 

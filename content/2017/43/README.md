@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2017
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,7 +67,7 @@
 
 ### OS Images
 
-*   [DietPi (⭐3.6k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
+*   [DietPi (⭐3.7k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -318,11 +318,11 @@
 
 ### Misc
 
-*   [DeviceId (⭐526)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐535)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐438)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐440)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -456,15 +456,15 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.6k)](https://github.com/boto/boto3)
+*   [Repo :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/boto/boto3)
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-client-ruby :fire: (⭐143)](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
+*   [amazon-kinesis-client-ruby :fire: (⭐144)](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
 
 ### Open Source Repos / Security
 
-*   [trailofbits/algo :fire::fire::fire::fire::fire: (⭐26k)](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
+*   [trailofbits/algo :fire::fire::fire::fire::fire: (⭐27k)](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 
 ### Open Source Repos / Accompanying Repos
 
@@ -510,7 +510,17 @@
 *   [Hide Files on GitHub (⭐306)](https://github.com/sindresorhus/hide-files-on-github)
 *   [mdn/webextension-examples (⭐3.4k)](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
-## [33. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
+
+### Verilog / Deno
+
+*   [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
+
+## [34. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Community Resources
 
@@ -552,7 +562,7 @@
 
 *   [homely (⭐15)](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff.
 
-## [34. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [35. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -570,13 +580,13 @@
     *   [Practicals](http://uvadlc.github.io/#practicals)
     *   [Readings](http://uvadlc.github.io/#other-links)
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -600,27 +610,27 @@
 *   [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) by Edd Yerburgh (Summer 2018)
 *   [Vue.js 2 and Bootstrap 4 Web Development](https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development) by Olga Filipova, Packt. (September 2017)
 
-## [37. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [38. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [grid-styled (⭐2.1k)](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components
 
-## [38. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [39. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Framer Sheet (⭐17)](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
 *   [FramerAudio (⭐47)](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 
-## [39. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [40. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Bibliography / HTML+CSS+JS
 
 *   [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 *   [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
 
-## [40. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [41. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -630,13 +640,13 @@
 
 *   [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
 
-## [41. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [42. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Courses
 
 *   [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
 
-## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [43. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
@@ -647,25 +657,25 @@
 *   [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths cheat-sheet for 2D and 3D game-makers.
 *   [Tiny 3D](https://cantelope.org/tiny_3D/) - The smallest possible perspective engine on a 2D canvas.
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
 *   [crest (⭐219)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
-## [44. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [45. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot version unknown
 
 *   [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 
-## [45. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [46. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Books / Other
 
 *   **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 
-## [46. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [47. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -698,7 +708,7 @@
 
 *   Matthew Green <https://blog.cryptographyengineering.com/>
 
-## [47. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [48. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
@@ -708,7 +718,7 @@
 
 *   [SiriDB (⭐467)](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 
-## [48. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [49. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Documentation
 
@@ -718,7 +728,7 @@
 
 *   [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
 
-## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -733,7 +743,7 @@
 *   [Building good SLOs - CRE life lessons](https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html)
 *   [No Grumpy Humans and Other Site Reliability Engineering Lessons from Google](https://thenewstack.io/sre-lessons-google-no-grumpy-humans/)
 
-## [50. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [51. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Games / Others
 
@@ -744,13 +754,13 @@
 
 *   [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 
-## [51. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [52. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Blog Posts
 
 *   [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -761,7 +771,7 @@
 
 *   [LINQ to DB (linq2db)](https://linq2db.github.io/) - The fastest LINQ database access library offering a simple, lightweight, fast, and type-safe layer between your POCO objects and your database for more than 10 database engines with full SQL support.
 
-## [53. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [54. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
@@ -779,13 +789,13 @@
 
 *   [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
 
-## [54. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [55. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### LaTeX formulas on the web
 
 *   [Auto-LaTeX Equations with Google Docs](https://sites.google.com/site/autolatexequations) - Render high-quality math equations directly in Google Docs.
 
-## [55. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [56. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Transition / Barcode
 

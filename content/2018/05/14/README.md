@@ -87,7 +87,7 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 ### Apps / Misc
 
-*   [Wagtail App Pages (⭐26)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
+*   [Wagtail App Pages (⭐27)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 *   [Wagtail Import Export (⭐32)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
 
 ---

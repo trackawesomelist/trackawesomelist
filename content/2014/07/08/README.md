@@ -83,8 +83,8 @@
 
 ### Command Line / XML
 
-*   [scriptlike (⭐88)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.1k)](https://github.com/antirez/linenoise).
+*   [scriptlike (⭐89)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
+*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.2k)](https://github.com/antirez/linenoise).
 
 ## [3. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

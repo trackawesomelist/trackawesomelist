@@ -454,17 +454,17 @@
 
 ### Basic / Bare metal / kernel development
 
-*   [hunt (⭐88)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
+*   [hunt (⭐89)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
 *   [hunt-time (⭐2)](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
 *   [hunt-validation (⭐3)](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
 ### Web Frameworks / Bare metal / kernel development
 
 *   [hunt-net (⭐19)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
-*   [hunt-http (⭐29)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
+*   [hunt-http (⭐30)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 *   [hunt-stomp (⭐0)](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
 *   [Hunt Framework (⭐285)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
-*   [grpc (⭐46)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
+*   [grpc (⭐45)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
 *   [kissrpc (⭐39)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
 *   [hunt-gossip (⭐0)](https://github.com/huntlabs/hunt-gossip) - A Apache V2 gossip protocol implementation for D programming language.
 *   [hunt-cache (⭐6)](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
@@ -472,7 +472,7 @@
 ### Database clients / XML
 
 *   [hunt-entity (⭐54)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-*   [hunt-database (⭐45)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
+*   [hunt-database (⭐46)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 
 ### Command Line / XML
 
@@ -480,7 +480,7 @@
 
 ### Text Processing / Language Processing
 
-*   [hunt-markdown (⭐12)](https://github.com/huntlabs/hunt-markdown) - A markdown parsing and rendering library for D programming language. Support commonMark.
+*   [hunt-markdown (⭐11)](https://github.com/huntlabs/hunt-markdown) - A markdown parsing and rendering library for D programming language. Support commonMark.
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -528,7 +528,7 @@
 
 ### Open Source Repos / CLI
 
-*   [99designs/aws-vault :fire::fire::fire::fire::fire: (⭐6.9k)](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
+*   [99designs/aws-vault :fire::fire::fire::fire::fire: (⭐7.3k)](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
 
 ---
 

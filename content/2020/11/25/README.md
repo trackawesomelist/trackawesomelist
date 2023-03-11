@@ -74,7 +74,7 @@
 
 ### Radio and Podcasts Tools / Telegram
 
-*   [Podgrab (⭐974)](https://github.com/akhilrex/podgrab)
+*   [Podgrab (⭐1.1k)](https://github.com/akhilrex/podgrab)
 
 ## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

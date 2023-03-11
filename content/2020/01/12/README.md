@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12, 2020
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,13 +41,7 @@
 *   [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
 *   [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
-
-### Open source / GPL (with linking exception)
-
-*   [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
-
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇵🇱 Poland / Misc
 
@@ -59,7 +53,7 @@
 *   [Poznan Flutter Developer Group](https://www.meetup.com/poznan-flutter-developers/)
 *   [Flutter Wrocław Meetup](https://www.meetup.com/Flutter-Wroc%C5%82aw/)
 
-## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
@@ -67,9 +61,9 @@
 
 ### Apps / Doctrine Assessement
 
-*   [Doctrine (⭐44)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐45)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
-## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Utilities
 

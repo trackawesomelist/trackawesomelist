@@ -122,7 +122,7 @@
 
 ### Packages / Storage
 
-*   [Delta Lake (⭐5.3k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
+*   [Delta Lake (⭐5.7k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
 
 ## [11. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -398,7 +398,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐6.1k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐6.2k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 

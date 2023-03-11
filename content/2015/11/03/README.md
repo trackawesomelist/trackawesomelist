@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,7 +54,13 @@
 
 *   [toniq (⭐340)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
-## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [A Guide to Python's Magic Methods (⭐1.6k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+
+## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
@@ -77,13 +83,13 @@
 
 *   [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / D individuals
 
 *   Dragan Gaic <http://www.gajotres.net/>
 
-## [8. Tips](/content/git-tips/tips/README.md)
+## [9. Tips](/content/git-tips/tips/README.md)
 
 ## Show the most recent tag on the current branch.
 

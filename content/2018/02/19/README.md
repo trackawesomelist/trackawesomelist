@@ -28,7 +28,7 @@
 
 ### Samples
 
-*   Sascha Willems's [Vulkan-glTF-PBR (⭐671)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
+*   Sascha Willems's [Vulkan-glTF-PBR (⭐679)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
 ## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

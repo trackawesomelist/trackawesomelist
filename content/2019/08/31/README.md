@@ -10,7 +10,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [LibreNews](https://librenews.io/) - Decentralized and secure breaking news notification system. ([Source Code (⭐85)](https://github.com/milesmcc/LibreNews-Server/)) `GPL-3.0` `Python`
+*   [LibreNews](https://librenews.io/) - Decentralized and secure breaking news notification system. ([Source Code (⭐86)](https://github.com/milesmcc/LibreNews-Server/)) `GPL-3.0` `Python`
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -1,18 +1,24 @@
 # Awesome List Updates on Dec 16, 2014
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Go / Phoenix
+
+*   [Effective Go](https://golang.org/doc/effective_go.html)
+
+## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Articles / Bare metal / kernel development
 
 *   [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 
-## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [3. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
@@ -47,7 +53,7 @@
 *   [DEF CON](https://legitbs.net/)
 *   [CSAW CTF](https://ctf.isis.poly.edu/)
 
-## [3. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [4. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Build-time transpilation / Brunch Plugins
 

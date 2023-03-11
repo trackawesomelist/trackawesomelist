@@ -16,7 +16,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐290)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐292)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Algorithms, Containers and Protocols / MIT
 
-*   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3
+*   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
 
 ## [12. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Open Source Repos / S3
 
-*   [peak/s5cmd :fire::fire::fire: (⭐1.3k)](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
+*   [peak/s5cmd :fire::fire::fire: (⭐1.5k)](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2019
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -80,11 +80,11 @@
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐422)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐428)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Groupware
 
-*   [HRCloud2 (⭐184)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
+*   [HRCloud2 (⭐185)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
@@ -118,20 +118,14 @@
 
 *   [RocketSkill App iOS Interview Questions (⭐13)](https://github.com/mindash/iOS-structured-interview)
 
-## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-### Performance Testing / Mobile Apps
-
-*   [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
-
-## [12. Awesome Math](/content/rossant/awesome-math/README.md)
+## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
 *   [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
 *   [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 
-## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Water
 
@@ -151,7 +145,7 @@
 
     They believe in optimizing the energy consumption without compromising with the convenience and then neutralizing the remaining energy requirement. Their vision is to provide accessibility to affordable power derived from renewable resources, free of geographic and transmission constraints.
 
-## [14. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [13. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
@@ -163,13 +157,13 @@
 
 *   [HackThisSite (⭐216)](https://github.com/HackThisSite/CTF-Writeups) - CTF write-ups repo maintained by HackThisSite team.
 
-## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [crie (⭐12)](https://github.com/c910335/crie) - Compile-time Trie
 
-## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -180,7 +174,7 @@
 *   [Automatically add Label or Assignee to an Issue (⭐56)](https://github.com/Naturalclar/issue-action)
 *   [Action to send LGTM reaction as image or GIF when we say lgtm (⭐59)](https://github.com/micnncim/action-lgtm-reaction)
 
-## [17. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / IDE
 

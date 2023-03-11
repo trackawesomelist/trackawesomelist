@@ -112,7 +112,7 @@
 
 ### Open Source Repos / CLI
 
-*   [awsmobile-cli :fire: (⭐142)](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
+*   [awsmobile-cli :fire: (⭐141)](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
 
 ---
 

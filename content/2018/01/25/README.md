@@ -28,7 +28,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel Enso (⭐1k)](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
+*   [Laravel Enso (⭐1.1k)](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

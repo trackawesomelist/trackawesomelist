@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 29 - Jan 04, 2014
 
-14 awesome lists updated this week.
+15 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### IoC
 
-*   [LightInject (⭐567)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
+*   [LightInject (⭐569)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -110,13 +110,19 @@
 *   [addyosmani/es6-tools (⭐3.9k)](https://github.com/addyosmani/es6-tools)
 *   [ericdouglas/ES6-Learning (⭐4.6k)](https://github.com/ericdouglas/ES6-Learning)
 
-## [10. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Ruby / Tornado
+
+*   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Validation
 
 *   [validator.dart (⭐62)](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -141,13 +147,13 @@
 *   [faust (⭐25)](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 *   [kitsune (⭐11)](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 
-## [12. Typography](/content/deanhume/typography/week/README.md)
+## [13. Typography](/content/deanhume/typography/week/README.md)
 
 ### Tools
 
 *   [A simple plugin to keep font-size in proportion with it's containers size (⭐39)](https://github.com/jkroso/flowtype)
 
-## [13. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [14. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -175,7 +181,7 @@
 *   [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.
 *   [murder (⭐2.5k)](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -183,7 +189,7 @@
 
 ### Compression
 
-*   [smaz (⭐1k)](https://github.com/antirez/smaz) - Small strings compression library. \[BSD]
+*   [smaz (⭐1.1k)](https://github.com/antirez/smaz) - Small strings compression library. \[BSD]
 
 ### Cryptography
 
@@ -192,7 +198,7 @@
 ### Debug
 
 *   [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. \[LGPL2]
-*   [libtap (⭐234)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
+*   [libtap (⭐235)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
 
 ### Game Engine
 
@@ -213,19 +219,19 @@
 
 ### JSON
 
-*   [frozen (⭐640)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
+*   [frozen (⭐642)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
 *   [QJson (⭐274)](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. \[LGPL2]
 
 ### Math
 
-*   [Apophenia (⭐188)](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing \[GPL2]
+*   [Apophenia (⭐189)](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing \[GPL2]
 *   [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. \[GPL2]
 
 ### Networking
 
 *   [Mongoose (⭐9.2k)](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. \[GPL2]
 *   [Onion (⭐1.9k)](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. \[Apache2/GPL2]
-*   [Tufão (⭐559)](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
+*   [Tufão (⭐560)](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
 
 ### Scripting
 
@@ -244,7 +250,7 @@
 
 *   [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. \[BSD, GPL2]
 *   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Commercial]
-*   [Stage (⭐360)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
+*   [Stage (⭐364)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
 *   [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. \[LGPL2]
 
 ---

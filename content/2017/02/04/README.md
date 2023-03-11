@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -146,14 +146,32 @@
 
 *   Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).
 
-## [4. Amas](/content/sindresorhus/amas/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Crystal / Non-X86
+
+*   [Crystal for Rubyists](http://www.crystalforrubyists.com)
+
+### Java / Bootstrap
+
+*   [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+
+### PostgreSQL / Zend
+
+*   [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
+
+### Scala / Sinatra
+
+*   [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
+
+## [5. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexhq), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq).
 *   [CJ Patoilo (⭐1)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
 
-## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Disassemblers and debuggers
 

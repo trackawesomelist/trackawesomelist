@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -700,6 +700,12 @@
 ### Utilities (uncategorized) / Others
 
 *   [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
+
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 
 ---
 

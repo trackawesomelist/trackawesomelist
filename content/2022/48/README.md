@@ -22,7 +22,7 @@
 
 ### Github / Other
 
-*   [ChatGPT-wrapper: Use it in python and shell (⭐357)](https://github.com/mmabrouk/chatgpt-wrapper)
+*   [ChatGPT-wrapper: Use it in python and shell (⭐2k)](https://github.com/mmabrouk/chatgpt-wrapper)
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 

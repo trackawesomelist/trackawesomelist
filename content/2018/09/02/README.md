@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [ecs-blue-green-deployment :fire::fire: (⭐428)](https://github.com/awslabs/ecs-blue-green-deployment) - Blue-green deployment on ECS.
+*   [ecs-blue-green-deployment :fire::fire: (⭐438)](https://github.com/awslabs/ecs-blue-green-deployment) - Blue-green deployment on ECS.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Visualization
 
-*   [jupyter-gmaps (⭐748)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+*   [jupyter-gmaps (⭐749)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

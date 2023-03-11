@@ -114,25 +114,19 @@
 
 *   [emailjs (⭐2.1k)](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 
-## [12. Awesome D](/content/dlang-community/awesome-d/week/README.md)
-
-### Data serialization / JSON
-
-*   [fast.json (⭐109)](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
-
-## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [12. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Projects to keep an eye on (ie projects in development)
 
 *   [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code (⭐12)](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
 
-## [14. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [13. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [d3.sketchy (⭐241)](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 
-## [15. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [14. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Standalone Code Points
 
@@ -233,19 +227,19 @@
 *   [Domino tiles](https://codepoints.net/domino_tiles)
 *   [Mahjong tiles](https://codepoints.net/mahjong_tiles)
 
-## [16. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [15. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / How To Read a Paper
 
 *   [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [16. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 
-## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
@@ -256,13 +250,13 @@
 *   [Face recognition with Google's FaceNet deep neural network. (⭐15k)](https://github.com/cmusatyalab/openface)
 *   [Basic digit recognition neural network (⭐96)](https://github.com/joeledenberg/DigitRecognition)
 
-## [19. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [18. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Module Loaders / Brunch Plugins
 
 *   [Babel Module Loader (⭐4.7k)](https://github.com/babel/babel-loader)
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / V companies
 
@@ -276,7 +270,7 @@
 
 *   Undocumented Matlab <http://undocumentedmatlab.com/>
 
-## [21. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [20. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -287,7 +281,7 @@
     *   It covers how to measure and understand performance and scalability of parallel programs.
     *   It covers tools and methods to find bugs in concurrent programs.
 
-## [22. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [21. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Resources for those already familiar with GitHub
 
@@ -302,6 +296,16 @@
 *   [Mozilla Festival (⭐44)](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 *   [Open Source Society University (⭐126k)](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 *   [Clef's Handbook (⭐2.7k)](https://github.com/clef/handbook) - An employee handbook built for inclusion.
+
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### iOS / Bootstrap
+
+*   [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
+
+### PostgreSQL / Zend
+
+*   [Postgres Official Documentation](http://www.postgresql.org/docs/)
 
 ## [23. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -346,7 +350,7 @@
 
 *   [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
 *   [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
-*   [LoRa Alliance](https://www.lora-alliance.org/) - The LoRa Alliance is an open, non-profit association of members that believes the internet of things era is now. It was initiated by industry leaders with a mission to standardize Low Power Wide Area Networks (LPWAN) being deployed around the world to enable Internet of Things (IoT), machine-to-machine (M2M), and smart city, and industrial applications.
+*   [LoRa Alliance](https://www.lora-alliance.org/) - The LoRa Alliance is an open, non-profit association of members that believes the internet of things era is now. It was initiated by industry leaders with a mission to standardize Low Power Wide Area Networks (LPWAN) being deployed around the world to enable Internet of Things (IoT), machine-to-machine (M2M), smart city, and industrial applications.
 *   [Thread Group](http://threadgroup.org/) - The Thread Group, composed of members from Nest, Samsung, ARM, Freescale, Silicon Labs, Big Ass Fans and Yale, drives the development of the Thread network protocol.
 *   [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® is a worldwide network of companies composed of several companies forming a global non-profit association with the goal of driving the best user experience with a new wireless networking technology – regardless of brand.
 *   [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards.
@@ -372,7 +376,7 @@
 
 ### Markdown Processors
 
-*   [CommonMark.NET (⭐987)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
+*   [CommonMark.NET (⭐989)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
 
 ## [29. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -453,12 +457,12 @@
 
 ### SDKs and Samples / Clojure SDK
 
-*   [Install (⭐968)](https://github.com/mcohen01/amazonica#installation)
-*   [Docs (⭐968)](https://github.com/mcohen01/amazonica#documentation)
+*   [Install (⭐980)](https://github.com/mcohen01/amazonica#installation)
+*   [Docs (⭐980)](https://github.com/mcohen01/amazonica#documentation)
 
 ### SDKs and Samples / Go SDK
 
-*   [Install (⭐7.9k)](https://github.com/aws/aws-sdk-go/wiki)
+*   [Install (⭐8.2k)](https://github.com/aws/aws-sdk-go/wiki)
 *   [Docs](http://docs.aws.amazon.com/sdk-for-go/api/)
 *   [Learn More](https://aws.amazon.com/sdk-for-go/)
 *   [goamz/goamz :fire::fire: (⭐373)](https://github.com/goamz/goamz)
@@ -485,17 +489,17 @@
 
 ### SDKs and Samples / Perl SDK
 
-*   [Install (⭐160)](https://github.com/pplu/aws-sdk-perl#installation)
+*   [Install (⭐164)](https://github.com/pplu/aws-sdk-perl#installation)
 *   [Docs](https://metacpan.org/pod/Paws)
 *   [Learn More](https://metacpan.org/pod/Paws)
 
 ### SDKs and Samples / PHP SDK
 
-*   [Repo with Samples (⭐87)](https://github.com/awslabs/aws-php-sample)
+*   [Repo with Samples (⭐86)](https://github.com/awslabs/aws-php-sample)
 *   [Install](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html)
 *   [Docs](https://aws.amazon.com/documentation/sdk-for-php/)
 *   [Learn More](https://aws.amazon.com/sdk-for-php/)
-*   [aws-sdk-php-silex (⭐82)](https://github.com/aws/aws-sdk-php-silex)
+*   [aws-sdk-php-silex (⭐81)](https://github.com/aws/aws-sdk-php-silex)
 
 ### SDKs and Samples / Python SDK
 
@@ -504,8 +508,8 @@
 
 ### SDKs and Samples / Ruby SDK
 
-*   [appoxy/aws :fire::fire: (⭐232)](https://github.com/appoxy/aws)
-*   [rightscale/right\_aws :fire::fire: (⭐451)](https://github.com/rightscale/right_aws)
+*   [appoxy/aws :fire::fire: (⭐233)](https://github.com/appoxy/aws)
+*   [rightscale/right\_aws :fire::fire: (⭐452)](https://github.com/rightscale/right_aws)
 
 ### SDKs and Samples / Scala SDK
 
@@ -533,18 +537,18 @@
 
 ### Command Line Tools / Universal Command Line Interface
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐13k)](https://github.com/aws/aws-cli)
+*   [Repo :fire::fire::fire::fire::fire: (⭐14k)](https://github.com/aws/aws-cli)
 *   [Install](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html)
 *   [Docs](https://aws.amazon.com/documentation/cli/)
 *   [Learn More](https://aws.amazon.com/cli/)
 
 ### Open Source Repos / CLI
 
-*   [donnemartin/saws :fire::fire::fire::fire::fire: (⭐5k)](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface.
-*   [aws-cli :fire::fire::fire::fire::fire: (⭐13k)](https://github.com/aws/aws-cli) - Universal Command Line Interface.
+*   [donnemartin/saws :fire::fire::fire::fire::fire: (⭐5.1k)](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface.
+*   [aws-cli :fire::fire::fire::fire::fire: (⭐14k)](https://github.com/aws/aws-cli) - Universal Command Line Interface.
 *   [awscli-cookbook (⭐38)](https://github.com/awslabs/awscli-cookbook) - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
-*   [achiku/jungle :fire::fire::fire: (⭐844)](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler.
-*   [timkay/aws :fire::fire: (⭐404)](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
+*   [achiku/jungle :fire::fire::fire: (⭐843)](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler.
+*   [timkay/aws :fire::fire: (⭐408)](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
 
 ### Command Line Tools / Windows PowerShell
 
@@ -558,7 +562,7 @@
 
 ### Open Source Repos / API Gateway
 
-*   [aws-apigateway-sdk-java (⭐29)](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
+*   [aws-apigateway-sdk-java (⭐30)](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
 
 ### Social / Conferences
 
@@ -569,8 +573,8 @@
 ### Open Source Repos / CloudFormation
 
 *   [aws-cfn-custom-resource-examples (⭐84)](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
-*   [aws-cfn-resource-bridge (⭐70)](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
-*   [cfncluster-cookbook (⭐89)](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
+*   [aws-cfn-resource-bridge (⭐71)](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
+*   [cfncluster-cookbook (⭐91)](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
 
 ### Open Source Repos / CloudSearch
 
@@ -578,19 +582,19 @@
 
 ### Open Source Repos / CloudTrail
 
-*   [aws-cloudtrail-processing-library (⭐74)](https://github.com/aws/aws-cloudtrail-processing-library) - Easily consume and process log files.
+*   [aws-cloudtrail-processing-library (⭐75)](https://github.com/aws/aws-cloudtrail-processing-library) - Easily consume and process log files.
 *   [AppliedTrust/traildash :fire::fire: (⭐362)](https://github.com/AppliedTrust/traildash) - Slick dashboard.
 
 ### Open Source Repos / Elastic Container Service
 
-*   [ecs-cloudwatch-logs (⭐69)](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets from the blog using Amazon ECS and Amazon CloudWatch logs.
+*   [ecs-cloudwatch-logs (⭐70)](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets from the blog using Amazon ECS and Amazon CloudWatch logs.
 *   [ecs-mesos-scheduler-driver :fire: (⭐169)](https://github.com/awslabs/ecs-mesos-scheduler-driver) - Integrates Apache Mesos.
-*   [ecs-task-kite (⭐60)](https://github.com/awslabs/ecs-task-kite) - Simple ambassador container for inter-task communication.
+*   [ecs-task-kite (⭐61)](https://github.com/awslabs/ecs-task-kite) - Simple ambassador container for inter-task communication.
 *   [py-flask-signup-docker (⭐77)](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
 
 ### Open Source Repos / CloudWatch
 
-*   [logstash-output-cloudwatchlogs (⭐37)](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
+*   [logstash-output-cloudwatchlogs (⭐38)](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
 *   [newrelic-platform/newrelic\_aws\_cloudwatch\_plugin :fire: (⭐156)](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin.
 
 ### Open Source Repos / OpsWorks
@@ -600,54 +604,54 @@
 *   [opsworks-attribute-customization (⭐4)](https://github.com/awslabs/opsworks-attribute-customization) - Attribute customization example.
 *   [opsworks-capistrano (⭐9)](https://github.com/awslabs/opsworks-capistrano) - Capistrano with instances.
 *   [opsworks-demo-php-photo-share-app (⭐16)](https://github.com/awslabs/opsworks-demo-php-photo-share-app) - Simple PHP photo share app.
-*   [opsworks-demo-php-simple-app (⭐43)](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
+*   [opsworks-demo-php-simple-app (⭐44)](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
 *   [opsworks-demo-rails-photo-share-app (⭐16)](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
 *   [opsworks-first-cookbook (⭐9)](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
-*   [opsworks-windows-demo- (⭐30)](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
+*   [opsworks-windows-demo- (⭐31)](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
 *   [opsworks-windows-demo-cookbooks (⭐9)](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
 *   [todo-sample-app-cookbooks (⭐5)](https://github.com/awslabs/todo-sample-app-cookbooks) - Custom cookbooks associated with the todo-sample-app.
 
 ### Open Source Repos / Code Pipeline
 
 *   [aws-codepipeline-custom-job-worker (⭐33)](https://github.com/awslabs/aws-codepipeline-custom-job-worker) - Develop your own job worker when creating a custom action.
-*   [aws-codepipeline-jenkins-aws-codedeploy\_linux (⭐42)](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux) - Four-stage pipeline for Linux.
-*   [aws-codepipeline-plugin-for-jenkins (⭐80)](https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins) - Jenkins plugin.
-*   [AWSCodePipeline-Jenkins-AWSCodeDeploy\_Windows (⭐11)](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) - Four-stage pipeline for Windows.
-*   [AWSCodePipeline-S3-AWSCodeDeploy\_Windows (⭐7)](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) - Simple pipeline for Windows.
+*   [aws-codepipeline-jenkins-aws-codedeploy\_linux (⭐44)](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux) - Four-stage pipeline for Linux.
+*   [aws-codepipeline-plugin-for-jenkins (⭐82)](https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins) - Jenkins plugin.
+*   [AWSCodePipeline-Jenkins-AWSCodeDeploy\_Windows (⭐12)](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) - Four-stage pipeline for Windows.
+*   [AWSCodePipeline-S3-AWSCodeDeploy\_Windows (⭐8)](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) - Simple pipeline for Windows.
 
 ### Open Source Repos / Cognito
 
 *   [amazon-cognito-android (⭐31)](https://github.com/aws/amazon-cognito-android) - Sync SDK for Android.
-*   [amazon-cognito-developer-authentication-sample (⭐97)](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) - Authentication sample.
+*   [amazon-cognito-developer-authentication-sample (⭐98)](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) - Authentication sample.
 *   [amazon-cognito-dotnet (⭐8)](https://github.com/aws/amazon-cognito-dotnet) - Sync SDK for .NET.
-*   [amazon-cognito-ios (⭐33)](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
+*   [amazon-cognito-ios (⭐34)](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
 *   [amazon-cognito-streams-sample (⭐9)](https://github.com/awslabs/amazon-cognito-streams-sample) - Consuming Streams sample.
 
 ### Open Source Repos / Device Farm
 
-*   [aws-device-farm-appium-tests-for-sample-app (⭐83)](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Appium TestNG Android tests.
+*   [aws-device-farm-appium-tests-for-sample-app (⭐87)](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Appium TestNG Android tests.
 *   [aws-device-farm-calabash-tests-for-sample-app (⭐9)](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) - Calabash Android tests.
 *   [aws-device-farm-gradle-plugin (⭐58)](https://github.com/awslabs/aws-device-farm-gradle-plugin) - Gradle plugin.
 *   [aws-device-farm-jenkins-plugin (⭐86)](https://github.com/awslabs/aws-device-farm-jenkins-plugin) - Jenkins plugin.
 
 ### Open Source Repos / DynamoDB
 
-*   [aws-dotnet-session-provider (⭐29)](https://github.com/aws/aws-dotnet-session-provider) - A session state provider for ASP.NET apps.
-*   [aws-dotnet-trace-listener (⭐14)](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events.
+*   [aws-dotnet-session-provider (⭐31)](https://github.com/aws/aws-dotnet-session-provider) - A session state provider for ASP.NET apps.
+*   [aws-dotnet-trace-listener (⭐15)](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events.
 *   [aws-dynamodb-mars-json-demo (⭐50)](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
 *   [aws-dynamodb-session-tomcat (⭐96)](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
-*   [aws-sessionstore-dynamodb-ruby (⭐67)](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
+*   [aws-sessionstore-dynamodb-ruby (⭐66)](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
 *   [dynamodb-import-export-tool (⭐91)](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
 *   [dynamodb-online-index-violation-detector (⭐9)](https://github.com/awslabs/dynamodb-online-index-violation-detector) - Finds violations on an online GSI's hash key and range key.
 *   [dynamodb-tictactoe-example-app (⭐48)](https://github.com/awslabs/dynamodb-tictactoe-example-app) - Lightweight python app.
 
 ### Open Source Repos / Kinesis
 
-*   [dynamodb-streams-kinesis-adapter (⭐86)](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter.
+*   [dynamodb-streams-kinesis-adapter (⭐89)](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter.
 *   [amazon-kinesis-client-net (⭐57)](https://github.com/awslabs/amazon-kinesis-client-net) - Client Library for .NET.
-*   [amazon-kinesis-learning (⭐97)](https://github.com/awslabs/amazon-kinesis-learning) - Learning Kinesis Development.
+*   [amazon-kinesis-learning (⭐102)](https://github.com/awslabs/amazon-kinesis-learning) - Learning Kinesis Development.
 *   [kinesis-log4j-appender (⭐62)](https://github.com/awslabs/kinesis-log4j-appender) - Log4J Appender.
-*   [kinesis-poster-worker (⭐70)](https://github.com/awslabs/kinesis-poster-worker) - Simple multi-threaded Python Poster and Worker.
+*   [kinesis-poster-worker (⭐69)](https://github.com/awslabs/kinesis-poster-worker) - Simple multi-threaded Python Poster and Worker.
 *   [mqtt-kinesis-bridge (⭐40)](https://github.com/awslabs/mqtt-kinesis-bridge) - Simple MQTT bridge in Python.
 
 ### Open Source Repos / Elastic Beanstalk
@@ -666,8 +670,8 @@
 ### Open Source Repos / Elastic Compute Cloud
 
 *   [ConradIrwin/aws-name-server :fire::fire::fire: (⭐556)](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up instances by name.
-*   [skavanagh/EC2Box :fire::fire: (⭐416)](https://github.com/skavanagh/EC2Box) - A web-based SSH console to manage multiple instances simultaneously.
-*   [wbailey/claws :fire: (⭐165)](https://github.com/wbailey/claws) - CLI-driven console with capistrano integration.
+*   [skavanagh/EC2Box :fire::fire: (⭐421)](https://github.com/skavanagh/EC2Box) - A web-based SSH console to manage multiple instances simultaneously.
+*   [wbailey/claws :fire: (⭐164)](https://github.com/wbailey/claws) - CLI-driven console with capistrano integration.
 
 ### Open Source Repos / Elastic File System
 
@@ -675,14 +679,14 @@
 
 ### Open Source Repos / Elastic Search
 
-*   [elastic/elasticsearch-cloud-aws :fire::fire::fire: (⭐582)](https://github.com/elastic/elasticsearch-cloud-aws) - Plugin for Elasticsearch.
+*   [elastic/elasticsearch-cloud-aws :fire::fire::fire: (⭐581)](https://github.com/elastic/elasticsearch-cloud-aws) - Plugin for Elasticsearch.
 
 ### Open Source Repos / Elasticache
 
 *   [aws-elasticache-cluster-client-libmemcached (⭐22)](https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached) - Libmemcached library support.
-*   [aws-elasticache-cluster-client-memcached-for-java (⭐80)](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java.
+*   [aws-elasticache-cluster-client-memcached-for-java (⭐83)](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java.
 *   [aws-elasticache-cluster-client-memcached-for-php (⭐56)](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php) - Enhanced PHP library connecting to ElastiCache.
-*   [elasticache-cluster-config-net (⭐27)](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery.
+*   [elasticache-cluster-config-net (⭐28)](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery.
 
 ### Open Source Repos / Lambda
 
@@ -700,13 +704,13 @@
 ### Open Source Repos / S3
 
 *   [grippy/node-s3 (⭐96)](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
-*   [marcel/aws-s3 :fire::fire::fire: (⭐783)](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
+*   [marcel/aws-s3 :fire::fire::fire: (⭐781)](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 *   [MathieuLoutre/grunt-aws-s3 :fire::fire: (⭐294)](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 *   [tongwang/s3fs-c :fire: (⭐132)](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
 
 ### Open Source Repos / Simple Workflow
 
-*   [aws-flow-ruby :fire: (⭐138)](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
+*   [aws-flow-ruby :fire: (⭐139)](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
 *   [aws-flow-ruby-samples (⭐66)](https://github.com/awslabs/aws-flow-ruby-samples) - AWS Flow Framework for Ruby samples.
 *   [aws-flow-ruby-opsworks-helloworld (⭐6)](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - Hello World sample.
 
@@ -716,23 +720,23 @@
 
 ### Open Source Repos / Data
 
-*   [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire: (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
+*   [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire: (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
 *   [everpeace/vagrant-mesos :fire::fire: (⭐438)](https://github.com/everpeace/vagrant-mesos) - Spin up your Mesos Cluster with Vagrant.
 *   [jhorey/ferry :fire::fire: (⭐252)](https://github.com/jhorey/ferry) -  Define, run, and deploy big data apps using Docker.
 
 ### Open Source Repos / Security
 
 *   [aws-sha256-agentcs (⭐6)](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 Agent Compatibility Ccanner.
-*   [aws-tvm-anonymous (⭐32)](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration.
-*   [aws-tvm-identity (⭐36)](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
-*   [s2n :fire::fire::fire::fire::fire: (⭐4.2k)](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
+*   [aws-tvm-anonymous (⭐33)](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration.
+*   [aws-tvm-identity (⭐38)](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
+*   [s2n :fire::fire::fire::fire::fire: (⭐4.3k)](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
 
 ### Open Source Repos / Accompanying Repos
 
 *   [aws-demo-php-simple-app (⭐12)](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
 *   [aws-mobile-sample-wif (⭐3)](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
 *   [aws-mobile-self-paced-labs-samples (⭐15)](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.
-*   [java-meme-generator-sample (⭐53)](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
+*   [java-meme-generator-sample (⭐54)](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
 *   [railsconf2013-tech-demo :fire: (⭐167)](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013.
 *   [reinvent2013-js-blog-demo (⭐30)](https://github.com/awslabs/reinvent2013-js-blog-demo) - Demo blogging app from re:Invent 2013.
 *   [reinvent2013-mobile-photo-share (⭐23)](https://github.com/awslabs/reinvent2013-mobile-photo-share) - Mobile photo share app from re:Invent 2014.
@@ -740,19 +744,19 @@
 *   [reinvent2015-dev309 (⭐7)](https://github.com/awslabs/reinvent2015-dev309) - Large Scale Metrics Analysis from re:Invent 2015.
 *   [timely-security-analytics (⭐28)](https://github.com/awslabs/timely-security-analytics) - Security analytics sample from 2015 re:Invent 2015.
 *   [todo-sample-app (⭐27)](https://github.com/awslabs/todo-sample-app) - Simple "Todo" app from RailsConf 2014.
-*   [startup-class/setup :fire::fire: (⭐298)](https://github.com/startup-class/setup) -  EC2 setup files for Startup Engineering MOOC.
+*   [startup-class/setup :fire::fire: (⭐297)](https://github.com/startup-class/setup) -  EC2 setup files for Startup Engineering MOOC.
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [amediamanager (⭐62)](https://github.com/awslabs/amediamanager) - Media manager.
 *   [aws-hal-client-java (⭐15)](https://github.com/awslabs/aws-hal-client-java) - Java client for the Hypertext Application Language.
-*   [aws-model-validators (⭐9)](https://github.com/awslabs/aws-model-validators) - Tools for validating the AWS service JSON model files.
+*   [aws-model-validators](https://github.com/awslabs/aws-model-validators) - Tools for validating the AWS service JSON model files.
 *   [aws-sdk-js-sample-video-transcoder (⭐22)](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) - Sample cross-platform video transcoder app.
-*   [bcoe/thumbd :fire::fire: (⭐443)](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
+*   [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
 *   [jpillora/grunt-aws :fire: (⭐174)](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
 *   [meducation/propono :fire::fire: (⭐315)](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby.
 *   [mozilla/awsbox :fire::fire::fire: (⭐813)](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps.
-*   [Netflix/aws-autoscaling :fire::fire: (⭐424)](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
+*   [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
 *   [Netflix/SimianArmy :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/Netflix/SimianArmy) - Tools to keep your cloud operating in top form.
 *   [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash) - Open-source LaunchRock alternative. Build beautiful splash pages.
 
@@ -831,7 +835,7 @@
 *   [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels, AWS CTO.
 *   [Things I Like...](http://jeff-barr.com/) - Jeff Barr, AWS Chief Evangelist.
 *   [Netflix Tech Blog](http://techblog.netflix.com/)
-*   [A Curated List of Engineering Blogs (⭐22k)](https://github.com/kilimchoi/engineering-blogs)
+*   [A Curated List of Engineering Blogs (⭐24k)](https://github.com/kilimchoi/engineering-blogs)
 
 ### Social / Twitter Influencers
 

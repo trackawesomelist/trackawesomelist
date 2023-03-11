@@ -10,7 +10,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.4k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
+*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.5k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
 
 ### Software / Learning and Courses
 

@@ -10,7 +10,7 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [vue-dom-hints (⭐15)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
+*   [vue-dom-hints (⭐18)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
 
 ## [2. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

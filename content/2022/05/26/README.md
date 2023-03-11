@@ -30,7 +30,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [mobiletoly/urlsome (⭐3)](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
+*   [mobiletoly/urlsome (⭐4)](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
 
 ## [5. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 

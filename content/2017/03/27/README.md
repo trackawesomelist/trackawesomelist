@@ -66,7 +66,7 @@
 
 ### Multimedia content processing
 
-*   [Flowblade (⭐1.8k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
+*   [Flowblade (⭐1.9k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 *   [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 
 ## [10. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)

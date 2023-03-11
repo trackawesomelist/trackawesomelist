@@ -165,7 +165,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐314)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐355)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [9. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

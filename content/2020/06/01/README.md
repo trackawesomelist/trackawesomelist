@@ -10,13 +10,13 @@
 
 ### Apps
 
-*   [CourseLit (⭐327)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [CourseLit (⭐343)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Content Management Systems
 
-*   [Sitecore (⭐57)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+*   [Sitecore (⭐58)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

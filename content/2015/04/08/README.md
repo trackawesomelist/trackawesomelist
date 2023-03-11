@@ -56,7 +56,7 @@
 
 ### Third-party APIs
 
-*   [Slack ruby gem (⭐247)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
+*   [Slack ruby gem (⭐246)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

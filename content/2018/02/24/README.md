@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [lambda-refarch-fileprocessing :fire::fire: (⭐436)](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
+*   [lambda-refarch-fileprocessing :fire::fire: (⭐438)](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

@@ -68,7 +68,7 @@
 
 ### Plugins
 
-*   [tmux-fingers (⭐716)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐724)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Build Tools / Bare metal / kernel development
 
-*   [dub (⭐603)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [dub (⭐618)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 
 ### Compilers / Bare metal / kernel development
 
@@ -102,7 +102,7 @@
 
 ### IDEs & Editors / Bare metal / kernel development
 
-*   [Visual D (⭐276)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
+*   [Visual D (⭐280)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 
 ## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -682,12 +682,12 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Open Source Repos / Code Deploy
 
-*   [aws-codedeploy-plugin :fire: (⭐152)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
+*   [aws-codedeploy-plugin :fire: (⭐151)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
 
 ### Open Source Repos / S3
 
-*   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐597)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
-*   [ncw/rclone :fire::fire::fire::fire::fire: (⭐35k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
+*   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐595)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
+*   [ncw/rclone :fire::fire::fire::fire::fire: (⭐37k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 
 ## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -746,7 +746,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 ### JavaScript Engines
 
 *   [Jint (⭐3.2k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐748)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jurassic (⭐750)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 

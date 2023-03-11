@@ -114,7 +114,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-feather-icons (⭐578)](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
-*   [vue-feather (⭐130)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
+*   [vue-feather (⭐132)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
 
 ---
 

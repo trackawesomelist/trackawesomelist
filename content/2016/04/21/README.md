@@ -16,7 +16,7 @@
 
 ### WebSocket
 
-*   [Firehose (⭐725)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐724)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

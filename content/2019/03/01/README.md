@@ -124,7 +124,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Vue HQ Admin Dashboard](https://vue-hq.netlify.com/) – A modern admin dashboard powered by Vue, Sass, Firestore, and Netlify.
-*   [MToDo (⭐8)](https://github.com/satriaajiputra/mtodo) - Mini To Do Lists with simple auth built with Vue.js and JSON Server as data mock. Great as reference for anyone that finding reference about real world Vue.js
+*   [MToDo (⭐9)](https://github.com/satriaajiputra/mtodo) - Mini To Do Lists with simple auth built with Vue.js and JSON Server as data mock. Great as reference for anyone that finding reference about real world Vue.js
 
 ## [10. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 

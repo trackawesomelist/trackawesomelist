@@ -58,7 +58,7 @@
 
 ### Python / Natural Language Processing
 
-*   [Snips NLU (⭐3.7k)](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
+*   [Snips NLU (⭐3.8k)](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

@@ -448,11 +448,11 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [sparkleformation/sfn (⭐62)](https://github.com/sparkleformation/sfn) - CLI for stack management.
+*   [sparkleformation/sfn (⭐63)](https://github.com/sparkleformation/sfn) - CLI for stack management.
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [snowplow/snowplow :fire::fire::fire::fire::fire: (⭐6.2k)](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
+*   [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
 
 ### Appendix of Core Services / Compute Services
 

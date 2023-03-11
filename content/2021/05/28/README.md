@@ -44,24 +44,24 @@
 ### Applications
 
 *   [Aether (⭐1.1k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-*   [Airshare (⭐600)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
+*   [Airshare (⭐603)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
     communities with auditable moderation and mod elections.
 *   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 *   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
 *   [Hyperpad (⭐195)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
 *   [instant.io (⭐3.2k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 *   [IPFS bin ☠️ (⭐131)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-*   [IPFS Desktop (⭐4.9k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [IPFS Desktop (⭐5k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
 *   [iWant ☠️ (⭐289)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 *   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-*   [Peertransfer ☠️ (⭐280)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [Peertransfer ☠️ (⭐282)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 *   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐317)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐322)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ## [7. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -70,17 +70,13 @@
 *   [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit.
 *   [MDB Standard Pro](https://mdbootstrap.com/docs/standard/pro/) - Premium UI Kit for the latest Bootstrap 5. Lifetime usage of 5000+ premium components, thousands of templates, plugins, design blocks.
 
-### Community
-
-*   Projects created with MDBootstrap.
-
 ### Useful Links
 
 *   [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins.
 *   [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB.
 *   [Visual Studio Code snippets (⭐9)](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
 *   [Angular Visual Studio Code snippets (⭐10)](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
-*   [Webpack starter (⭐54)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
+*   [Webpack starter (⭐58)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
 *   [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap.
 
 ### Articles
@@ -109,17 +105,9 @@
 *   [Footer generator](https://mdbootstrap.com/docs/standard/tools/builders/footer/) - Create bootstrap footer with custom coprytight, buttons, forms, links colors, sizes.
 *   [Navbar generator](https://mdbootstrap.com/docs/standard/tools/builders/navbar/) - Create bootstrap navbar with custom colors, brand, icons, forms, placement.
 
-### CLI & hosting
-
-*   [MDB CLI](https://mdbootstrap.com/docs/standard/cli/) - Create, deploy and host your project with a single command.
-*   [Quick Start](https://mdbootstrap.com/docs/standard/cli/quick-start/) - Get started with MDB CLI easily and quickly and how to use its full potential.
-*   [Getting Started](https://mdbootstrap.com/docs/standard/cli/getting-started/) - Step by step on how to create your project and deploy.
-*   [Overview](https://mdbootstrap.com/docs/standard/cli/overview/) - Guide which will take you on how to perform different actions.
-
 ### Education
 
 *   [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
-*   [Written Tutorials](https://mdbootstrap.com/docs/standard/getting-started/)
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -169,7 +157,7 @@
 
 ### Contents / Social Network
 
-*   [Harpy (⭐1.8k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.8k)](https://github.com/robertodoering/harpy)
+*   [Harpy (⭐1.9k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.9k)](https://github.com/robertodoering/harpy)
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -180,7 +168,7 @@
 
 ### Display / OLED
 
-*   [micropython-oled (⭐0)](https://github.com/mcauser/deshipu-micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
+*   [micropython-oled (⭐1)](https://github.com/mcauser/deshipu-micropython-oled) - Collection of drivers for monochrome OLED displays, PCD8544, SH1106, SSD1306, UC1701X.
 
 ### IO / ADC
 
@@ -188,7 +176,7 @@
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐80)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
+*   [encodermenu (⭐81)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 

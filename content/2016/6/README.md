@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08 - Feb 14, 2016
 
-36 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -162,13 +162,19 @@
 *   Should have an organization backing the service and have a potential paid support plan
 *   Should copy & paste from Microsoft word
 
-## [16. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Learning Go](https://miek.nl/go/)
+
+## [17. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [potiron (⭐73)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
 
-## [17. Tips](/content/git-tips/tips/week/README.md)
+## [18. Tips](/content/git-tips/tips/week/README.md)
 
 ## Grab a single file from a stash
 
@@ -203,45 +209,45 @@ git checkout <commit-ish> -- <file_path>
 git clean -fd --dry-run
 ```
 
-## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Job queues
 
 *   [bull (⭐14k)](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 
-## [19. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [20. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [Syncano (⭐5)](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 
-## [20. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [21. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [How to Design Programs](http://www.htdp.org/) / [Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 
-## [21. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [22. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Game Engines
 
 *   [Drystal](https://drystal.github.io/) - Open source, games can run on Linux or on any platform with a recent web browser.
 *   [Amulet](http://www.amulet.xyz/) - Open source, audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 
-## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Media
 
 *   [Java Profiling from the Ground Up](https://www.youtube.com/watch?v=_6vJyciXkwo) - Nitsan Wakart.
 
-## [23. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [24. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Backoffice extensions
 
 *   [refinerycms-redactor (⭐2)](https://github.com/rabid/refinerycms-redactor) - WYSIWYG editor with [Redactor](https://imperavi.com/redactor/)
 *   [refinerycms-snoods (⭐1)](https://github.com/cleverlemming/refinerycms-snoods) - Creating download pages and sending leads to Salesforce
 
-## [24. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [25. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Articles
 
@@ -261,25 +267,25 @@ git clean -fd --dry-run
 *   [identity-function](https://github.com/substack/identity-function) - Always return the input argument.
 *   [mem (⭐977)](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Logging
 
 *   [ELMAH](https://elmah.github.io/) - Official ELMAH site
 
-## [26. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [27. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Authentication & OAuth
 
 *   [phalcon-authmiddleware (⭐27)](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
 
-## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Modals and Popups / Other
 
 *   [SweetAlert (⭐22k)](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -289,7 +295,7 @@ git clean -fd --dry-run
 
 *   [mail (⭐365)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
-## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Queue
 
@@ -307,32 +313,32 @@ git clean -fd --dry-run
 
 *   [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 
-## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tools / Extending JMeter
 
 *   [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 
-## [31. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [32. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Websites
 
 *   [Try Pyramid](https://trypyramid.com/) - The Start Small, Finish Big,
     Stay Finished Framework. Official website.
 
-## [32. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [33. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
 *   [gganimate (⭐1.8k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
 
-## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-connectors :fire::fire: (⭐328)](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services.
 
-## [34. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [35. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Videos / Old recordings
 
@@ -361,7 +367,7 @@ git clean -fd --dry-run
 *   [The Humble Programmer](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF) (1972) - Dijkstra's overview of the programming universe as he saw it in 1972
 *   [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 
-## [35. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [36. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C++
 
@@ -375,7 +381,7 @@ git clean -fd --dry-run
 
 *   [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
 
-## [36. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [37. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Command aliases
 

@@ -26,7 +26,7 @@
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-copyright (⭐10)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+*   [svelte-copyright (⭐12)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Applications / Security tools
 
-*   [Cherrybomb (⭐735)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+*   [Cherrybomb (⭐748)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
 ## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐296)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐299)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

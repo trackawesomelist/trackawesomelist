@@ -93,7 +93,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-lodash (⭐103)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
+*   [vue-lodash (⭐104)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 
 ## [13. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 

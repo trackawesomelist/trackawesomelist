@@ -1,48 +1,55 @@
 # Awesome List Updates on May 17, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ada
+
+*   [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+*   [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
+
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Development
 
 *   [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** \[1:07:57]
 
-## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Others
 
 *   [eiR (⭐3)](https://github.com/girke-lab/eiR) - Accelerated similarity searching of small molecules
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Scheduling
 
-*   [que-scheduler (⭐99)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
+*   [que-scheduler (⭐100)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Visual Programming Languages
 
 *   [Pixel Nodes](https://pixelnodes.app/) \[iPad] - Live graphics node editor, powered by PixelKit.
 
-## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Architecture
 
 *   [*The Clean Swift Handbook* by Raymond Law](https://clean-swift.com/handbook)
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Configuration & Discovery / Scala
 
 *   [Microconfig](https://microconfig.io) - Modern and simple way of microservice configuration management.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Use Cases
 
@@ -56,13 +63,13 @@
 *   [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by [@viljamis](https://twitter.com/viljamis)
 *   [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) by [@maxlynch](https://twitter.com/maxlynch)
 
-## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services
 
 *   [Visual Regression Tracker (⭐450)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
@@ -72,25 +79,25 @@
 
 *   [denolib/awesome-deno (⭐3.8k)](https://github.com/denolib/awesome-deno)
 
-## [10. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [11. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / General Purpose
 
 *   [LSP](https://packagecontrol.io/packages/LSP) — Language Server Protocol support for Sublime Text 3 that gives you IDE features.
 
-## [11. Awesome List](/content/sindresorhus/awesome/README.md)
+## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
-*   [Python (⭐156k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐158k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐3.9k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐520)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [CircuitPython (⭐524)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
     *   [Data Science (⭐1.8k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
     *   [Typing (⭐1.3k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐816)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [MicroPython (⭐831)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
-## [12. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [13. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Generation
 
@@ -104,7 +111,7 @@
 
 *   [Hashcash for PHP/JavaScript forms (⭐42)](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
 
-## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / GPS
 
@@ -112,7 +119,7 @@
 
 ### Storage / Database
 
-*   [uPyMySQL (⭐16)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
+*   [uPyMySQL (⭐17)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 *   [micropython-redis (⭐19)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 *   [picoredis (⭐7)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 *   [micropg (⭐15)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
@@ -127,7 +134,7 @@
 *   [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook) - By Marwan Alsabbagh. ISBN 9781838649951.
 *   [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937) - By Yury Magda. ISBN 9781090900937.
 
-## [14. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [15. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 

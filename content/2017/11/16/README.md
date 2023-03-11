@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [AmmoBin.ca (⭐17)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
+*   [AmmoBin.ca (⭐18)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
 
 ## [9. Amas](/content/sindresorhus/amas/README.md)
 

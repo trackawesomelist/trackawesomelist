@@ -30,7 +30,7 @@ git name-rev --name-only <SHA-1>
 
 ### State Machines
 
-*   [transitions (⭐533)](https://github.com/troessner/transitions) - A ruby state machine implementation.
+*   [transitions (⭐534)](https://github.com/troessner/transitions) - A ruby state machine implementation.
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

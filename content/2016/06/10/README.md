@@ -46,7 +46,7 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.1k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -30,11 +30,11 @@
 
 ### Libraries / Logging
 
-*   [jesusprubio/leg (⭐203)](https://github.com/jesusprubio/leg) — Elegant print for lazy devs. Make your CLIs nicer with minimal effort. [![Build Status](https://github.com/jesusprubio/leg/workflows/CI/badge.svg)](https://github.com/jesusprubio/leg/actions/workflows/ci.yml)
+*   [jesusprubio/leg (⭐204)](https://github.com/jesusprubio/leg) — Elegant print for lazy devs. Make your CLIs nicer with minimal effort. [![Build Status](https://github.com/jesusprubio/leg/workflows/CI/badge.svg)](https://github.com/jesusprubio/leg/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
-*   [fleabitdev/gamelisp (⭐353)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for Rust game development
+*   [fleabitdev/gamelisp (⭐355)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for Rust game development
 
 ## [4. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 

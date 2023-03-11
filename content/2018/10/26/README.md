@@ -113,7 +113,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml5 (⭐5.9k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+*   [ml5 (⭐6k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
 
 ## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

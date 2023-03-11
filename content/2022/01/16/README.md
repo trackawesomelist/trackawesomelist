@@ -22,7 +22,7 @@
 
 ### Specific topics / Zero Knowledge Proofs
 
-*   [Proofs of knowledge](https://cseweb.ucsd.edu/\~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
+*   [Proofs of knowledge](https://cseweb.ucsd.edu/~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
 *   [Knowledge complexity of interactive proof systems (⭐2)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
 
 ### Books / Post-quantum cryptography

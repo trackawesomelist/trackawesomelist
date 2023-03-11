@@ -10,7 +10,7 @@
 
 ### Testing
 
-*   [Moq.Contrib.HttpClient (⭐153)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
+*   [Moq.Contrib.HttpClient (⭐159)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Software / Wikis
 
-*   [Cowyo (⭐871)](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
+*   [Cowyo (⭐874)](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
 
 ## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

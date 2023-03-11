@@ -56,7 +56,7 @@
 
 ### Core Extensions
 
-*   [Finishing Moves (⭐198)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Finishing Moves (⭐197)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

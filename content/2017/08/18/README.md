@@ -52,7 +52,7 @@
 
 ### SDKs and Samples / Scala SDK
 
-*   [seratch/AWScala :fire::fire::fire: (⭐731)](https://github.com/seratch/AWScala)
+*   [seratch/AWScala :fire::fire::fire: (⭐740)](https://github.com/seratch/AWScala)
 
 ---
 

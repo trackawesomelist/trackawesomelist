@@ -119,7 +119,7 @@
 
 ### Monitoring & Quality Control
 
-*   [SilentJack (⭐20)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
+*   [SilentJack (⭐23)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -304,7 +304,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐766)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐769)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -318,7 +318,7 @@
 
 ### Tools / Deployment
 
-*   [puppet-mongodb (⭐93)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
+*   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -336,8 +336,8 @@
 
 ### SDKs and Samples / Perl SDK
 
-*   [Repo :fire: (⭐160)](https://github.com/pplu/aws-sdk-perl)
-*   [Repo with Samples :fire: (⭐160)](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
+*   [Repo :fire: (⭐164)](https://github.com/pplu/aws-sdk-perl)
+*   [Repo with Samples :fire: (⭐164)](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
 
 ### Open Source Repos / Security
 
@@ -357,18 +357,18 @@
 
 ### Miscellaneous
 
-*   [opticl (⭐177)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [opticl (⭐176)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐132)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐134)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### REPLs / Third-party APIs
 
-*   [cl-repl (⭐131)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+*   [cl-repl (⭐134)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 
 ### Apps / Third-party APIs
 
@@ -515,7 +515,7 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐251)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐252)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐115)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 

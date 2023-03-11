@@ -80,7 +80,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Netflix/ice :fire::fire::fire::fire::fire: (⭐2.8k)](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
+*   [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
 
 ## [10. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 

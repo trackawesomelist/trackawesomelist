@@ -119,7 +119,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [cfncluster :fire::fire::fire: (⭐714)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
+*   [cfncluster :fire::fire::fire: (⭐743)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
 ## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

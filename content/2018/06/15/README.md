@@ -73,7 +73,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-a11y-dialog (⭐92)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
-*   [vue-slideout-panel (⭐168)](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
+*   [vue-slideout-panel (⭐169)](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
 ---
 

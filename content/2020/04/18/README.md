@@ -128,7 +128,7 @@ Language: English
 
 ### Projects Using Vue.js / Open Source
 
-*   [Sheiley Shop (⭐45)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+*   [Sheiley Shop (⭐46)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -245,11 +245,11 @@ Language: English
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐61)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐64)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 
-*   [tmux-cpu-info (⭐8)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
+*   [tmux-cpu-info (⭐9)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 
 ## [12. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 

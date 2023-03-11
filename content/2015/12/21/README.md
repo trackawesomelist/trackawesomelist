@@ -22,7 +22,7 @@
 
 ### Debug
 
-*   [benchmark (⭐7.2k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
+*   [benchmark (⭐7.3k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
 *   [Google Mock (⭐29k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
 *   [Google Test (⭐29k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 

@@ -86,7 +86,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐132)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐134)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
@@ -129,8 +129,8 @@
 
 ### SDKs and Samples / Perl SDK
 
-*   [Repo :fire: (⭐160)](https://github.com/pplu/aws-sdk-perl)
-*   [Repo with Samples :fire: (⭐160)](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
+*   [Repo :fire: (⭐164)](https://github.com/pplu/aws-sdk-perl)
+*   [Repo with Samples :fire: (⭐164)](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -48,7 +48,7 @@
 
 ### SDKs and Samples / IoT SDK
 
-*   [Repo for Arduino Yun :fire: (⭐157)](https://github.com/aws/aws-iot-device-sdk-arduino-yun/)
+*   [Repo for Arduino Yun :fire: (⭐161)](https://github.com/aws/aws-iot-device-sdk-arduino-yun/)
 
 ---
 

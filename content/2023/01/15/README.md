@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2023
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -124,6 +124,15 @@
 
 ### Music & Audio Generation
 
+- Name: [Coqui](http://coqui.ai)
+
+  Title: Coqui.
+
+  Description: Direct emotive, generative AI voices for video games, post-production, dubbing and much more….
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Quasi Music](https://quasi.market/radio/)
 
   Title: Create Brand-New Beats.
@@ -186,7 +195,7 @@
 
 - Name: [Digital Dogs](http://digitaldogs.ai)
 
-  Title: The Digital Dogsâ¢.
+  Title: The Digital Dogs.
 
   Description: Cross-app, AI Digital Dogs NFTs for Virtual worlds, VR, AR, social apps, games and more.
 
@@ -595,15 +604,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Coqui](http://coqui.ai)
-
-  Title: Coqui.
-
-  Description: Direct emotive, generative AI voices for video games, post-production, dubbing and much more….
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Coverquick](http://www.coverquick.co)
 
   Title: Coverquick.
@@ -727,7 +727,7 @@
 
   Description: .
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Everypixel](http://www.everypixel.com)
@@ -770,7 +770,7 @@
 
   Title: Glasp: Social Web Highlighter.
 
-  Description: Highlight & add notes as you read.Create a library of your learning â¤ï¸.
+  Description: Highlight & add notes as you read.Create a library of your learning.
 
   Offer Free Version: :grey\_question:
 
@@ -849,7 +849,7 @@
 
 - Name: [Letsenhance](http://letsenhance.io)
 
-  Title: LetâS Enhance - Image Quality Online App & Free Photo Enlarger.
+  Title: LetS Enhance - Image Quality Online App & Free Photo Enlarger.
 
   Description: AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear.
 
@@ -1112,7 +1112,7 @@
 
   Title: Petpic.Ai.
 
-  Description: Your favorite animal can now be anything, anywhere, even anyone. Just upload some pics and let AI do its creative magic ð«.
+  Description: Your favorite animal can now be anything, anywhere, even anyone. Just upload some pics and let AI do its creative magic.
 
   Offer Free Version: :grey\_question:
 
@@ -1211,7 +1211,7 @@
 
   Title: Scale Knowledge.
 
-  Description: Question Base is a new kind of knowledge base. Powered by AI it answers your teamâs questions inside Slack. Automatically.
+  Description: Question Base is a new kind of knowledge base. Powered by AI it answers your teams questions inside Slack. Automatically.
 
   Offer Free Version: :grey\_question:
 
@@ -1360,15 +1360,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Stable Diffusion Prompt Generator](http://www.thomas.io)
-
-  Title: Thomas.Io.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Stabledojo](http://www.stabledojo.com)
 
   Title: Stabledojo.
@@ -1491,15 +1482,6 @@
   Title: This Campsite Does Not Exist.
 
   Description: AI generated campsites featuring stunning locations, tents, and weather all created by AI using stable diffusion.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Thispersondoesnotexist](http://thispersondoesnotexist.com)
-
-  Title: This Person Does Not Exist.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -1657,15 +1639,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [WardrobeAI](http://wardrobeai.com)
-
-  Title: Wardrobeai.
-
-  Description: Our service uses AI to automatically change hairstyles and clothes in your images, giving you endless possibilities for customization.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Webapi.ai 2.0](http://webapi.ai)
 
   Title: .
@@ -1755,13 +1728,13 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [SOC Multi-tool (⭐163)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
+*   [SOC Multi-tool (⭐166)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Video Editing / Alternative clients/modifications of Discord:
 
-*   [LosslessCut (⭐15k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+*   [LosslessCut (⭐16k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -1773,7 +1746,7 @@
 
 ### Boilerplates
 
-*   [NextJS Chargebee Subscription (⭐3)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐4)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -1814,7 +1787,13 @@
 
 ### Models and Projects / Flax
 
-*   [GNNs for Solving Combinatorial Optimization Problems (⭐1)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+*   [GNNs for Solving Combinatorial Optimization Problems (⭐10)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
 
 ---
 

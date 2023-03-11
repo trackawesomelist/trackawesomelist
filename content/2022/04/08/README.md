@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,12 +11,12 @@
 ### Python / Python Survival Analysis
 
 *   [lifelines (⭐2k)](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
-*   [Scikit-Survival (⭐878)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
+*   [Scikit-Survival (⭐901)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 
 ### R / General-Purpose Machine Learning
 
 *   [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
-    \-\* [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**
+    -\* [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**
 
 ## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Go / Community
 
-*   [vite-go (⭐88)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
+*   [vite-go (⭐101)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
 
 ## [4. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Projects
 
-*   [CocktailMaker (⭐70)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
+*   [CocktailMaker (⭐71)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 
 ### Books / iOS
 
@@ -102,15 +102,9 @@
 
 ### Miscellaneous
 
-*   [Concord (⭐366)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐373)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Analytics, Events and Statistics
-
-*   [Swetrix Analytics](https://swetrix.com/) — Privacy-focused web analytics. Free plan includes up to 5000 events per month.
-
-## [14. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions
 

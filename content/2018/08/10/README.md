@@ -65,7 +65,7 @@ Free
 
 ### Rendering/Publishing/Conversion
 
-*   [rst2ipynb (⭐15)](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
+*   [rst2ipynb (⭐16)](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 
 ### Community Resources
 

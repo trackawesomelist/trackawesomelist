@@ -6,25 +6,21 @@
 
 
 
-## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Containers
+### Bash / Non-X86
 
-*   [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
+*   [Conquer the Command Line](https://magpi.raspberrypi.org/books/command-line-second-edition/pdf/download) - Richard Smedley (PDF)
 
-### Data Science
+### PHP / PicoLisp
 
-*   [Mining of Massive Datasets](http://infolab.stanford.edu/\~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
-
-### Graphical User Interfaces
-
-*   [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
+*   [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [Strawberry GraphQL (⭐2.7k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
+*   [Strawberry GraphQL (⭐3k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 
 ## [3. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -74,11 +70,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [weilbith/nvim-code-action-menu (⭐465)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
+*   [weilbith/nvim-code-action-menu (⭐474)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐198)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.5k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐210)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.5k)](https://github.com/honza/vim-snippets).
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -90,7 +86,7 @@
 
 ### Applications / Text editors
 
-*   [ilai-deutel/kibi (⭐908)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [ilai-deutel/kibi (⭐922)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

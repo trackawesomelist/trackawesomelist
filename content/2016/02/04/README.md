@@ -10,7 +10,7 @@
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
+*   [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs \[Apache]
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -142,7 +142,7 @@
 ### Data serialization / Binary Serilization
 
 *   [cerealed (⭐90)](https://github.com/atilaneves/cerealed)  - Serialisation library for D
-*   [dproto (⭐35)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
+*   [dproto (⭐36)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
 ---
 

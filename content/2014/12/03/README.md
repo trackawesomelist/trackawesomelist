@@ -29,7 +29,7 @@
 
 ### Security
 
-*   [Metasploit (⭐29k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+*   [Metasploit (⭐30k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 
 ---
 

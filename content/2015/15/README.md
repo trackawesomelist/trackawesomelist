@@ -38,7 +38,7 @@
 
 ### JavaScript / Misc
 
-*   [regression-js (⭐884)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+*   [regression-js (⭐886)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -140,7 +140,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Third-party APIs
 
-*   [Slack ruby gem (⭐247)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
+*   [Slack ruby gem (⭐246)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 
 ### Web Frameworks
 

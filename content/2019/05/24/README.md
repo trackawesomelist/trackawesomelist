@@ -41,7 +41,7 @@
 ### Platforms
 
 *   [Android (⭐9.8k)](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-*   [React Native (⭐32k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+*   [React Native (⭐33k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 
 ### Programming Languages
 

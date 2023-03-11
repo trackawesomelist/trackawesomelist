@@ -42,7 +42,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐403)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐407)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -77,7 +77,7 @@
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐366)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐375)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -132,7 +132,7 @@
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐185)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐198)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 

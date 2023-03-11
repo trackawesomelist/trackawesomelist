@@ -78,7 +78,7 @@
 
 ### Multimedia content processing
 
-*   [EBU ADM Renderer (⭐49)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
+*   [EBU ADM Renderer (⭐54)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

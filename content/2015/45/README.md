@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2015
 
-27 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -84,7 +84,7 @@
 
 ### CLI
 
-*   [docopt.cpp (⭐986)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
+*   [docopt.cpp (⭐985)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 
 ## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -131,7 +131,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐284)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐285)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ### Queues and Messaging
 
@@ -360,7 +360,25 @@ git describe --tags --abbrev=0
 *   [GMStepper (⭐916)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐175)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Agda
+
+*   [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+
+### Force.com / Phoenix
+
+*   [Developer Workbooks](http://developer.force.com/workbook)
+
+### Groovy / Spock Framework
+
+*   [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [A Guide to Python's Magic Methods (⭐1.6k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+
+## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -390,7 +408,7 @@ git describe --tags --abbrev=0
 
 ### Table of Contents / Repos
 
-*   [J-Bob (⭐400)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐402)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
 ### Table of Contents / People
 
@@ -400,7 +418,7 @@ git describe --tags --abbrev=0
 *   [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) - Former software architect for Microsoft, Functional Programming researcher, gives lectures on	FP, Software Design and Reactive programming.
 *   [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
-## [27. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [28. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 

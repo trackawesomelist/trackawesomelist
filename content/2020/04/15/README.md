@@ -16,7 +16,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-spring-calendar (⭐40)](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
+*   [vue-spring-calendar (⭐41)](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐627)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐635)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -92,7 +92,6 @@
 
 ### Trainings & Courses / Editors
 
-*   [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
 *   [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)

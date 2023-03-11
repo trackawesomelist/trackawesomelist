@@ -108,7 +108,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.6k)](https://github.com/boto/boto3)
+*   [Repo :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/boto/boto3)
 
 ### Open Source Repos / Accompanying Repos
 

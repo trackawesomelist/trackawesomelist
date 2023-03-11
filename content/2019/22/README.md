@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03 - Jun 09, 2019
 
-66 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -190,38 +190,44 @@
 
 *   [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) - BDD uses human-readable descriptions of software user requirements as the basis for software tests.
 
-## [22. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Oberon / PicoLisp
+
+*   [Algorithms and Data-Structures](https://inf.ethz.ch/personal/wirth/AD.pdf) - Niklaus Wirth (PDF)
+
+## [23. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
 ### Books
 
 *   [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
 *   [Text Mining with R](https://www.tidytextmining.com)
 
-## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [24. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [static-GTFS-manager (⭐126)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
 
-## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [25. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [GitHub Actions for Python project with poetry (⭐261)](https://github.com/abatilo/actions-poetry)
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
 *   [EntityFrameworkCore.DataEncryption (⭐208)](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption) - A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
 
-## [26. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 
-## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [28. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
@@ -382,36 +388,36 @@
 
 *   [hackernews-react-graphql (⭐4.4k)](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
 
-## [28. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [29. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation / Opcodes
 
 *   [gb-opcodes](https://gbdev.github.io/gb-opcodes/optables/) - Opcodes table
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Motrix (⭐36k)](https://github.com/agalwood/Motrix) - Download manager.
 
-## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Job queues
 
 *   [sqs-consumer (⭐1.4k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
-## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Profiler and Optimization
 
 *   [rbspy (⭐2.4k)](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
 
-## [32. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [33. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [Scala (⭐8.6k)](https://github.com/lauris/awesome-scala#readme)
-    *   [Scala Native (⭐229)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+*   [Scala (⭐8.7k)](https://github.com/lauris/awesome-scala#readme)
+    *   [Scala Native (⭐228)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 
 ### Computer Science
 
@@ -419,15 +425,15 @@
 
 ### Miscellaneous
 
-*   [CSV (⭐484)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐488)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
-## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [34. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Publishing
 
 *   [release-it (⭐5.7k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
-## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Web Components
 
@@ -441,19 +447,19 @@
 
 *   [ember-dynamic-render-template (⭐14)](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Analytics / Navigation Demos
 
 *   [react-native-flurry-sdk ★15 (⭐40)](https://github.com/flurry/react-native-flurry-sdk) - Official React Native wrapper for Flurry SDK. Supports Android, iOS and tvOS.
 
-## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [37. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Keycloak Essentials](https://medium.com/keycloak/keycloak-essentials-86254b2f1872)
 
-## [37. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [38. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Free Content
 
@@ -466,13 +472,13 @@
 *   [Awesome Gradient Boosting Papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
 *   [Awesome Fraud Detection Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
-## [38. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [39. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Articles
 
 *   [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
 
-## [39. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [40. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Algorithms and AI
 
@@ -501,25 +507,25 @@
 *   [gdxGifRecorder (⭐38)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 *   [noise4j (⭐88)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 
-## [40. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [41. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
 *   ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
 
-## [41. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [42. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
 *   [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
 
-## [42. Tools](/content/lvwzhen/tools/week/README.md)
+## [43. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Response
 
 *   [Polypane](http://polypane.rocks)
 
-## [43. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [44. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
@@ -527,19 +533,19 @@
 *   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
 *   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 
-## [44. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [45. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Typography / Storyboard
 
 *   [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
 
-## [45. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [46. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
 
-## [46. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [47. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -553,13 +559,13 @@
 
 *   [Matrix (⭐897)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
-## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [48. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Scroll / Other
 
 *   [simpleParallax (⭐1.5k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
-## [48. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [49. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Games
 
@@ -576,11 +582,11 @@
 *   [awesome snowkit (⭐123)](https://github.com/anissen/awesome-snowkit)
 *   [awesome haxe js (⭐26)](https://github.com/MatthijsKamstra/awesome-haxe-js)
 
-## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [dark-mode (⭐632)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [dark-mode (⭐633)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
@@ -599,7 +605,7 @@
 
 *   [Manta](https://getmanta.app/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hql287/Manta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [50. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [51. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
@@ -621,13 +627,13 @@
 
 *   [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick \*\*\*.
 
-## [51. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [52. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / IoT SDK
 
-*   [Repo for C :fire::fire::fire: (⭐856)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
+*   [Repo for C :fire::fire::fire: (⭐876)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
-## [52. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### i18n / Mouse Events
 
@@ -660,7 +666,6 @@
 
 *   [react-aria-modal (⭐989)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 *   [react-modal (⭐7.2k)](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
-*   [react-skylight (⭐572)](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
 
 ### Notification
 
@@ -679,7 +684,6 @@
 ### Sticky
 
 *   [react-headroom (⭐1.8k)](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
-*   [react-sticky (⭐2.6k)](https://github.com/captivationsoftware/react-sticky) - \<Sticky /> component for awesome React apps.
 *   [react-stickynode (⭐1.1k)](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky.
 
 ### Tabs
@@ -694,7 +698,7 @@
 ### Carousel
 
 *   [react-id-swiper (⭐1.4k)](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
-*   [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
+*   [react-responsive-carousel (⭐2.4k)](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 *   [react-slick (⭐11k)](https://github.com/akiran/react-slick) - React carousel component.
 
 ### Collapse
@@ -949,14 +953,8 @@
 
 *   [react-swipe (⭐1.7k)](https://github.com/voronianski/react-swipe) - Swipe.js as a React component.
 
-### Device Input / Mouse Events
-
-*   [react-aim (⭐365)](https://github.com/gabrielbull/react-aim) - Determine the cursor aim for triggering mouse events.
-
 ### Meta Tags / Mouse Events
 
-*   [react-document-meta (⭐320)](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
-*   [react-document-title (⭐1.9k)](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
 *   [react-helmet (⭐17k)](https://github.com/nfl/react-helmet) - A document head manager for React.
 
 ### Portal / Mouse Events
@@ -966,57 +964,38 @@
 
 ### Test User Behavior / Mouse Events
 
-*   [react-ab (⭐432)](https://github.com/olahol/react-ab) - Simple declarative and universal A/B testing component for React.
 *   [react-experiments (⭐314)](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 ### Data Store / Mouse Events
 
-*   [alt (⭐3.4k)](https://github.com/goatslacker/alt) - Isomorphic flux implementation.
 *   [baobab-react (⭐309)](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 *   [cerebral (⭐2k)](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
-*   [fluorine-lib (⭐285)](https://github.com/philpl/fluorine) - Reactive state and side effect management for React using a single stream of actions.
 *   [fluxible (⭐1.8k)](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
-*   [fluxxor (⭐1.7k)](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
 *   [kea (⭐1.9k)](https://github.com/mariusandra/kea) - High level architecture for React apps.
-*   [mobx-react (⭐4.9k)](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
-*   [react-controllables (⭐255)](https://github.com/matthewwithanm/react-controllables) - Easily create controllable components.
 *   [react-i13n (⭐373)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
-*   [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 *   [react-redux (⭐23k)](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 *   [redux-batched-actions (⭐1k)](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
-*   [redux-batched-subscribe (⭐499)](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
 *   [redux (⭐59k)](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
-*   [reflux (⭐5.4k)](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
 *   [reselect (⭐19k)](https://github.com/reactjs/reselect) - Selector library for Redux.
-*   [shasta (⭐517)](https://github.com/shastajs/shasta) - Dead simple + opinionated toolkit for building redux/react applications.
 
 ### Form Logic / Mouse Events
 
-*   [plexus-form (⭐133)](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 *   [react-jsonschema-form (⭐12k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 
 ### Router / Mouse Events
 
-*   [react-breadcrumbs (⭐409)](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
 *   [react-router-component (⭐871)](https://github.com/STRML/react-router-component) - Declarative router component for React.
 *   [react-router-scroll (⭐845)](https://github.com/taion/react-router-scroll) - React Router scroll management.
 *   [react-router (⭐50k)](https://github.com/reactjs/react-router) - A complete routing library for React.
-*   [redux-router (⭐2.3k)](https://github.com/acdlite/redux-router) - Redux bindings for React Router – keep your router state inside your Redux store.
 *   [universal-router (⭐1.6k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
 
 ### Props from server / Mouse Events
 
-*   [react-async (⭐448)](https://github.com/andreypopp/react-async) - Asynchronously fetch data for React components.
 *   [react-refetch (⭐3.4k)](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
-*   [react-resolver (⭐1.7k)](https://github.com/ericclemmons/react-resolver) - Async rendering & data-fetching for universal React applications.
-*   [react-router-relay (⭐559)](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
-*   [redial (⭐1.1k)](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
-*   [redux-async-connect (⭐649)](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
 *   [redux-connect (⭐549)](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 
 ### Communication with server / Mouse Events
 
-*   [adrenaline (⭐719)](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 *   [apollo-client (⭐18k)](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
 *   [react-relay (⭐18k)](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 
@@ -1024,21 +1003,17 @@
 
 *   [aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite) - It's inline styles, but they work!.
 *   [inline-style-prefixer (⭐387)](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
-*   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 *   [react-container-query (⭐869)](https://github.com/d6u/react-container-query) - Modular responsive component.
-*   [react-css-modules (⭐5.2k)](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 *   [react-responsive (⭐6.6k)](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 *   [styled-components (⭐38k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 
 ### HTML Template / Mouse Events
 
-*   [hyperx (⭐994)](https://github.com/substack/hyperx) - Tagged template string virtual dom builder.
 *   [jsx-control-statements (⭐1.6k)](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX.
 
 ### Isomorphic Apps / Mouse Events
 
 *   [hypernova (⭐5.8k)](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
-*   [isomorphic-relay (⭐244)](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
 *   [isomorphic-style-loader (⭐1.3k)](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
 *   [react-server (⭐3.9k)](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load.
 *   [rill (⭐610)](https://github.com/rill-js/rill) - Universal web application framework.
@@ -1048,11 +1023,8 @@
 
 *   [create-react-app (⭐99k)](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 *   [electron-react-boilerplate (⭐21k)](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
-*   [essential-react (⭐2k)](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
-*   [generator-react-webpack (⭐2.9k)](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack.
 *   [generator-starhackit (⭐1.3k)](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 *   [nwb (⭐5.5k)](https://github.com/insin/nwb) - CLI tool and devDependency for React apps & components and npm modules.
-*   [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 *   [react-hot-boilerplate (⭐3.9k)](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
 
 ### Miscellaneous / Mouse Events
@@ -1151,13 +1123,13 @@
 
 *   [gatsby (⭐54k)](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
 
-## [53. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [54. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Talks
 
 *   [Next-Generation 3D Graphics on the Web](https://www.youtube.com/watch?v=K2JzIUIHIhc) - Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
 
-## [54. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [55. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -1167,19 +1139,19 @@
 
 *   [pedquant](http://pedquant.com/) - Public Economic Data and Quantitative Analysis
 
-## [55. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [56. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
 *   [GitHub Bug Dataset](http://www.inf.u-szeged.hu/\~ferenc/papers/GitHubBugDataSet/) - Bug Dataset of 15 Java open-source projects characterized by static source code metrics.
 
-## [56. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [57. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Demos, Samples, and Additional Libraries / Participants' solutions
 
 *   [QuantumPeep (⭐34)](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript.
 
-## [57. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [58. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Command-line Interface Development
 
@@ -1196,7 +1168,7 @@
 *   [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
     *   [awesome-dash (⭐1.7k)](https://github.com/Acrotrend/awesome-dash)
 
-## [58. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [59. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Premium / Game Engine resources
 
@@ -1207,16 +1179,16 @@
 *   [Spacex-Go (⭐779)](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 *   [Superhero Interaction (⭐218)](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 
-## [59. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [60. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cli (⭐913)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
+*   [cli (⭐921)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 
 ### Containers
 
 *   [robin-hood-hashing (⭐1.3k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐894)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-map (⭐901)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### CSV
 
@@ -1224,12 +1196,12 @@
 
 ### JSON
 
-*   [taoJSON (⭐507)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
+*   [taoJSON (⭐509)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
 
 ### Math
 
-*   [GLM (⭐7.2k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
-*   [linalg.h (⭐761)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
+*   [GLM (⭐7.3k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [linalg.h (⭐765)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
 
 ### Memory Allocation
 
@@ -1237,9 +1209,9 @@
 
 ### Networking
 
-*   [libhttpserver (⭐724)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐731)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
-## [60. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [61. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -1253,25 +1225,25 @@
 
 *   [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
 
-## [61. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [62. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Ecommerce
 
 *   [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
 
-## [62. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [63. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Libraries and Frameworks / API libraries
 
 *   [EOSIO/eosjs (⭐1.4k)](https://github.com/EOSIO/eosjs) - Official JavaScript SDK.
 
-## [63. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [64. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Extensions/Libraries
 
 *   [react-hook-form (⭐31k)](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
 
-## [64. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [65. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
@@ -1280,13 +1252,13 @@
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
 *   [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 
-## [65. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [66. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Language Support
 
 *   [Php (⭐13)](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
 
-## [66. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [67. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Download Managers / Free Indexers
 

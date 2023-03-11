@@ -544,7 +544,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [boto3 :fire::fire::fire::fire::fire: (⭐7.6k)](https://github.com/boto/boto3)
+*   [boto3 :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/boto/boto3)
 
 ### Open Source Repos / Elastic Container Service
 
@@ -859,13 +859,13 @@
 
 ### Bindings
 
-*   [vulkan (⭐386)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
+*   [vulkan (⭐396)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
 ## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐144)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐145)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 

@@ -117,7 +117,7 @@
 
 ### Tools
 
-*   [CSharpier (⭐544)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐45k)](https://github.com/prettier/prettier) printing process.
+*   [CSharpier (⭐564)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐45k)](https://github.com/prettier/prettier) printing process.
 
 ## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -165,7 +165,7 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [Catalyst (⭐152)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
+*   [Catalyst (⭐153)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -181,7 +181,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐236)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
+*   [luisiacc/gruvbox-baby (⭐242)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
 
 ## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

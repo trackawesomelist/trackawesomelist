@@ -104,7 +104,7 @@
 ### Misc
 
 *   [Aeron.NET (⭐440)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
-*   [TypeShape (⭐270)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
+*   [TypeShape (⭐269)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 30 - Feb 05, 2017
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -204,45 +204,63 @@
 
 *   Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).
 
-## [9. Amas](/content/sindresorhus/amas/week/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Crystal / Non-X86
+
+*   [Crystal for Rubyists](http://www.crystalforrubyists.com)
+
+### Java / Bootstrap
+
+*   [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+
+### PostgreSQL / Zend
+
+*   [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
+
+### Scala / Sinatra
+
+*   [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
+
+## [10. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexhq), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq).
 *   [CJ Patoilo (⭐1)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
 
-## [10. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Disassemblers and debuggers
 
 *   [ScratchABit (⭐380)](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
 
-## [11. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [12. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [Juice Shop CTF (⭐317)](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 
-## [12. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [13. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
 *   [open\_nlp (⭐11)](https://github.com/hck/open_nlp) -
     JRuby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [Hydrosphere Mist (⭐318)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
+*   [Hydrosphere Mist (⭐320)](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 
-## [14. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [15. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Scriptable by Lua
 
 *   [luakit](https://luakit.github.io/luakit/) - Fast, small, webkit based browser framework extensible by Lua.
 
-## [15. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [16. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Courses
 
@@ -257,7 +275,7 @@
 
 *   [openalpr (⭐11k)](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
 
-## [16. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [17. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Understanding Nginx
 
@@ -291,13 +309,13 @@
 
 *   [Difference between OpenResty and Tengine (⭐11k)](https://github.com/openresty/openresty/issues/54)
 
-## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Japanese
 
 *   [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
 
-## [18. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [19. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Monitoring
 
@@ -307,26 +325,26 @@
 
 *   [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
 
-## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
 *   [xgboost (⭐24k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
-## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [21. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Diaspora (⭐13k)](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 *   [Orbit (⭐1.6k)](https://github.com/haadcode/orbit): Distributed, serverless, peer-to-peer chat application on IPFS.
 
-## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [22. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
 *   [admiral (⭐131)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
 
-## [22. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [23. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / PHP
 
@@ -336,19 +354,19 @@
 
 *   [Geb](http://www.gebish.org/) - It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit & TestNG.
 
-## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
-*   [Hopscotch map (⭐583)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐585)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
-## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [25. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Lelylan](http://www.lelylan.com/) - Lelylan is an IoT cloud platform based on a lightweight microservices architecture. The Lelylan platform is both hardware-agnostic and platform-agnostic. This means that you can connect any hardware, from the ESP8266 to the most professional embedded hardware solution and everything in between - and it can run on any public cloud, your own private datacenter, or even in a hybrid environment, whether virtualized or bare metal.
 
-## [25. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [26. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Belgium 🇧🇪 / Brussels
 
@@ -376,14 +394,14 @@ Webpage: <http://www.fuglen.com/japanese/>
 | ---- | ----- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | ✔    | ✔     | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2) | Mon-Tue: 8am-10pm, Wed-Thu: 8am-1am, Fri: 8am-2am, Sat: 9am-2am, Sun: 9am-12am |
 
-## [26. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [27. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [geohash (⭐380)](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
 *   [hollow (⭐1.1k)](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
 
-## [27. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [28. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / C
 
@@ -417,7 +435,7 @@ Webpage: <http://www.fuglen.com/japanese/>
 *   [kramdown (⭐1.6k)](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
 *   [Redcarpet (⭐4.8k)](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn.
 
-## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -436,7 +454,7 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 *   [Yannis Gravezas](https://github.com/wizgrav) - A creative coder with several projects featured in chrome experiments, fwa and elsewhere.
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -457,31 +475,31 @@ Webpage: <http://www.fuglen.com/japanese/>
 *   [SLOs, SLIs, SLAs, oh my - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html)
 *   [Service Levels and Error Budgets](https://www.usenix.org/conference/srecon16/program/presentation/jones)
 
-## [30. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [31. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
 *   [No, Bots are not killing apps (Bad apps are killing apps)](https://blog.prototypr.io/bots-wont-replace-apps-c88ff164990c#.2sp9vfqtv) - Written by Anders Lassen.
 
-## [31. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [32. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / JavaScript Profile
 
 *   [TernJS (⭐812)](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
 
-## [32. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [33. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [Beginner's Guide to Reverse Engineering GB](http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm) - Some starting tips on disassembling and reverse engineering.
 
-## [33. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [34. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Testing
 
 *   [aiomock (⭐23)](https://github.com/nhumrich/aiomock/) - A python mock library that supports async methods.
 
-## [34. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [35. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Seed Project
 
@@ -491,25 +509,25 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 *   [michaelbull/aurelia-hacker-news (⭐61)](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) \* A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Extensions
 
 *   [Z.ExtensionMethods (⭐1k)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
-## [36. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [37. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Videos/Talks
 
 *   [How to create a build system with npm scripts](http://www.penta-code.com/how-to-create-a-build-system-with-npm-scripts/) - Video tutorial series on setting up a front-end build system.
 
-## [37. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [38. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### CouchApps / Hosting
 
 *   [List of CouchApps](https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html)
 
-## [38. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [39. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### CAD Specific / Eagle
 
@@ -527,13 +545,13 @@ Webpage: <http://www.fuglen.com/japanese/>
 *   [Julian Ilett](https://www.youtube.com/user/julius256) - Buys cheapest electronic modules he can find and tries to do useful things with them.
 *   [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - Teardowns, large lighting projects, xrays and more.
 
-## [39. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [40. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Knot.x (⭐126)](https://github.com/Cognifide/knotx) - Efficient & high-performance integration platform for modern websites built on Vert.x 3.
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
@@ -551,13 +569,13 @@ Webpage: <http://www.fuglen.com/japanese/>
 
 *   [Confreaks (Elixir)](http://confreaks.tv/tags/40) - Elixir related conference talks.
 
-## [41. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [42. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Conferences
 
 *   [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16\~22 Oct. 2017)
 
-## [42. Tips](/content/git-tips/tips/week/README.md)
+## [43. Tips](/content/git-tips/tips/week/README.md)
 
 ## Backup untracked files.
 
@@ -565,13 +583,13 @@ Webpage: <http://www.fuglen.com/japanese/>
 git ls-files --others -i --exclude-standard | xargs zip untracked.zip
 ```
 
-## [43. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [44. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Video
 
 *   [ijkplayer (⭐31k)](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 
-## [44. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [45. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / C companies
 
@@ -585,7 +603,7 @@ git ls-files --others -i --exclude-standard | xargs zip untracked.zip
 
 *   Vlad Mihalcea <https://vladmihalcea.com/>
 
-## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 

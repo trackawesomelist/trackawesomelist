@@ -85,7 +85,7 @@
 
 ### Open Source Repos / CLI
 
-*   [awsmobile-cli :fire: (⭐142)](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
+*   [awsmobile-cli :fire: (⭐141)](https://github.com/aws/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
 
 ## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
@@ -424,7 +424,7 @@
 
 ### Text Processing / Language Processing
 
-*   [eBay's TSV utilities (⭐1.3k)](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
+*   [eBay's TSV utilities (⭐1.4k)](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
 
 ## [37. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 

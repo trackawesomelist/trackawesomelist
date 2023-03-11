@@ -64,7 +64,7 @@
 
 ### Open Source Repos / S3
 
-*   [mumrah/s3-multipart :fire: (⭐160)](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
+*   [mumrah/s3-multipart :fire: (⭐162)](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 
 ## [10. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 

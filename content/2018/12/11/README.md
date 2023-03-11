@@ -41,11 +41,7 @@
 
 ### Games / MIT
 
-*   [co-terminal-apps (⭐24)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
-
-### Bindings / MIT
-
-*   [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
+*   [co-terminal-apps (⭐25)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -93,7 +89,7 @@
 
 ### Tools / Misc
 
-*   [Notebooks (⭐26)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+*   [Notebooks (⭐30)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 
 ---
 

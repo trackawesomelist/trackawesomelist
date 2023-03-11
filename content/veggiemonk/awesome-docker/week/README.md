@@ -123,12 +123,6 @@
 
 *   [dcp (⭐43)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
 
-## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
-
-### Monitoring Services / Other
-
-*   [Discover Docker courses](https://bestcourses.io/results?q=docker\&size=n_20_n) - Easily discover Docker courses from various popular online learning platforms.
-
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
 ### Container Composition

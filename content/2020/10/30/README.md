@@ -10,29 +10,29 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐812)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐817)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐483)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.3k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐375)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐655)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐486)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐420)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [scikit-rebate (⭐376)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐658)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐485)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐418)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐715)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation)
-*   [scikit-image (⭐5.2k)](https://github.com/scikit-image/scikit-image)
-*   [scikit-opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐270)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-image (⭐5.3k)](https://github.com/scikit-image/scikit-image)
+*   [scikit-opt (⭐3.9k)](https://github.com/guofei9987/scikit-opt)
+*   [scikit-posthocs (⭐271)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐667)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐3.2k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐3.8k)](https://github.com/uber/causalml)
-*   [mlpack (⭐4.2k)](https://github.com/mlpack/mlpack)
+*   [mlpack (⭐4.3k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐4.3k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐12k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐342)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐755)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐348)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐756)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -48,14 +48,14 @@
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐171k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.5k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.3k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐739)](https://github.com/itdxer/neupy)
+*   [NeuPy (⭐742)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐350)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐626)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐631)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐63)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐10)](https://github.com/bsautermeister/tensorlight)
@@ -70,7 +70,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐493)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.2k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐442)](https://github.com/google/qkeras)
+*   [qkeras (⭐445)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -168,11 +168,11 @@
 
 ### Auth
 
-*   [FastAPI JWT Auth (⭐430)](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended (⭐1.4k)](https://github.com/vimalloc/flask-jwt-extended)).
+*   [FastAPI JWT Auth (⭐483)](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended (⭐1.4k)](https://github.com/vimalloc/flask-jwt-extended)).
 
 ### Developer Tools / Other Tools
 
-*   [Manage FastAPI (⭐942)](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
+*   [Manage FastAPI (⭐1.2k)](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 
 ### PaaS / Other Tools
 
@@ -202,7 +202,7 @@
 
 ### Applications / Games
 
-*   [doukutsu-rs (⭐581)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
+*   [doukutsu-rs (⭐585)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
 
 ---
 

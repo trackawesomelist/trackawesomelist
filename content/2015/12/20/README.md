@@ -44,27 +44,27 @@
 
 ### SDKs and Samples / Go SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/aws/aws-sdk-go)
+*   [Repo :fire::fire::fire::fire::fire: (⭐8.2k)](https://github.com/aws/aws-sdk-go)
 
 ### Open Source Repos / Lambda
 
-*   [cloudnative/lambda-chat :fire::fire: (⭐385)](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
+*   [cloudnative/lambda-chat :fire::fire: (⭐388)](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
 
 ### Open Source Repos / S3
 
-*   [pgherveou/gulp-awspublish :fire::fire: (⭐398)](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
+*   [pgherveou/gulp-awspublish :fire::fire: (⭐399)](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 
 ### Open Source Repos / DevOps
 
-*   [chef-cookbooks/aws :fire::fire: (⭐529)](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
+*   [chef-cookbooks/aws :fire::fire: (⭐552)](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 
 ### Open Source Repos / Security
 
-*   [sebsto/AWSVPN :fire: (⭐179)](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
+*   [sebsto/AWSVPN :fire: (⭐178)](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Comcast/cmb :fire::fire: (⭐280)](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
+*   [Comcast/cmb :fire::fire: (⭐279)](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
 *   [puppetlabs/puppetlabs-aws :fire: (⭐188)](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
 
 ### Guides, Books, Documentation, and Training / Books
@@ -81,7 +81,7 @@
 
 ### XML
 
-*   [TinyXML++ (⭐90)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
+*   [TinyXML++ (⭐91)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
 
 ---
 

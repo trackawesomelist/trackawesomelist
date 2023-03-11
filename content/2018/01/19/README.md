@@ -62,7 +62,7 @@
 
 ### Miscellaneous
 
-*   [opticl (⭐177)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [opticl (⭐176)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Apps / Third-party APIs
 
@@ -90,7 +90,7 @@
 
 ### Monitoring & Quality Control
 
-*   [SilentJack (⭐20)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
+*   [SilentJack (⭐23)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Nextjs Starter Peacock (⭐117)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+*   [Nextjs Starter Peacock (⭐118)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tabler-icons (⭐134)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐14k)](https://github.com/tabler/tabler-icons) SVG icons.
+*   [vue-tabler-icons (⭐141)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐14k)](https://github.com/tabler/tabler-icons) SVG icons.
 *   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
@@ -135,7 +135,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [evostra (⭐251)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [evostra (⭐252)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
@@ -146,13 +146,13 @@
 ### Projects
 
 *   [Internet Chronometer (⭐105)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
-*   [Pi-KVM (⭐5.6k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+*   [Pi-KVM (⭐5.8k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
 ## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Results Processing / Results Analysis
 
-*   [JtlReporter (⭐80)](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
+*   [JtlReporter (⭐84)](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
 
 ## [21. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

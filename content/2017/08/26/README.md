@@ -21,7 +21,7 @@
 
 ### OS / XML
 
-*   [XOmB (⭐331)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+*   [XOmB (⭐332)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

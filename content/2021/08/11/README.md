@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [muxile (⭐72)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+*   [muxile (⭐74)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -22,13 +22,13 @@
 
 ### GTFS Validators / Ruby
 
-*   [gtfstidy (⭐80)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
+*   [gtfstidy (⭐81)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [Destack for Next.js (⭐789)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [Destack for Next.js (⭐829)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

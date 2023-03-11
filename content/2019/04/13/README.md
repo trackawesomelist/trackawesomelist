@@ -42,7 +42,7 @@
 
 ### Bindings
 
-*   [nvk (⭐878)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
+*   [nvk (⭐882)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Open Source Repos / Code Deploy
 
-*   [aws-codedeploy-agent :fire::fire: (⭐293)](https://github.com/aws/aws-codedeploy-agent) - Sample agent.
+*   [aws-codedeploy-agent :fire::fire: (⭐303)](https://github.com/aws/aws-codedeploy-agent) - Sample agent.
 
 ---
 

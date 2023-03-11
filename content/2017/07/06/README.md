@@ -16,7 +16,7 @@
 
 ### Monitoring & Quality Control
 
-*   [Jack Meter (⭐40)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
+*   [Jack Meter (⭐42)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -273,7 +273,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐790)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐791)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -281,7 +281,7 @@
 
 ### Distributed Computing
 
-*   [Foundatio (⭐1.6k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
+*   [Foundatio (⭐1.7k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 
 ### GUI
 
@@ -289,7 +289,7 @@
 
 ### MVVM
 
-*   [Gemini (⭐982)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐988)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 

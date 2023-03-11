@@ -81,7 +81,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@egjs/vue-flicking (⭐2.2k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
+*   [@egjs/vue-flicking (⭐2.3k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
 
 ---
 

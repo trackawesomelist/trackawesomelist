@@ -34,8 +34,8 @@
 
 ### CLI
 
-*   [linenoise (⭐3.1k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐341)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.2k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐344)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -92,7 +92,7 @@
 
 ### IoC
 
-*   [DryIoc (⭐816)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐821)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

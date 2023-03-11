@@ -10,7 +10,7 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐251)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐252)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐115)](https://github.com/jll63/yomm11) \[Boost]
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,13 @@
 
 *   [MultiToggleButton (⭐83)](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (like the camera flash and timer buttons).
 
-## [4. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Node.js
+
+*   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
+
+## [5. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 
 ### Common Algorithms and Procedures
 
@@ -58,13 +64,13 @@
 *   [Data Science Python (⭐4.6k)](https://github.com/ujjwalkarn/DataSciencePython)
 *   [Machine Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Java
 
 *   [GraphStream](http://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
 
-## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### ReactJS
 
@@ -76,19 +82,19 @@
 
 
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Slack / Other
 
 *   [openFrameworks](https://ofslack.herokuapp.com/) - openFrameworks Slack.
 
-## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   [GL\_vs\_VK (⭐75)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
+*   [GL\_vs\_VK (⭐76)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Clojure / Git
 
@@ -102,7 +108,7 @@
 
 *   [libsodium-laravel (⭐21)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 
-## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [11. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
@@ -112,17 +118,17 @@
 
 *   [evilgrade (⭐1.2k)](https://github.com/infobyte/evilgrade) - Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Science and Data analysis
 
 *   [linalg (⭐42)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Data Pipeline
 
-*   [data-pipeline-samples :fire::fire: (⭐456)](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
+*   [data-pipeline-samples :fire::fire: (⭐460)](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
 
 ---
 

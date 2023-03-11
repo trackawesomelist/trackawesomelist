@@ -41,7 +41,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [NuxTube (⭐14)](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with NuxtJs.
+*   [NuxTube (⭐15)](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with NuxtJs.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -98,7 +98,7 @@
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
-*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐143)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐148)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
 ## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

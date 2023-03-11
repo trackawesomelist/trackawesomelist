@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19 - Aug 25, 2019
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,15 @@
 
 ### Gaming
 
-*   [libGDX (⭐691)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐698)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐485)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐497)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐714)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐719)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -77,7 +77,7 @@
 
 ### General
 
-*   [VSCode Icons (⭐742)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐749)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Python / Natural Language Processing
 
-*   [BigARTM (⭐635)](https://github.com/bigartm/bigartm) - topic modelling platform.
+*   [BigARTM (⭐639)](https://github.com/bigartm/bigartm) - topic modelling platform.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -197,7 +197,13 @@
 *   [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.
 *   [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html) - NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.
 
-## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [19. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Logic / Mouse Events
+
+*   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
+
+## [20. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### 5\. WSL2
 
@@ -217,7 +223,7 @@
 
 *   [wslexec (⭐37)](https://github.com/int128/wslexec) - Execute Linux executables as .exe files on Windows. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [20. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
+## [21. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
 ### Information / Articles & Blogs
 
@@ -227,17 +233,17 @@
 
 *   [frech (⭐0)](https://github.com/Ingo60/frech) - Fully functional chess engine.
 
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Sharry (⭐514)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java`
+*   [Sharry (⭐522)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java`
 
 ### Software / Proxy
 
-*   [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code (⭐3.7k)](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
+*   [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code (⭐3.8k)](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
 
-## [22. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [23. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Information / Talks
 
@@ -248,7 +254,7 @@
 
 *   [IntelliJ Eta (⭐52)](https://github.com/typelead/intellij-eta) - Plugin for IntelliJ.
 
-## [23. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [24. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### Communities
 
@@ -264,7 +270,7 @@
 *   [gatsby-source-filesystem](https://www.gatsbyjs.org/packages/gatsby-source-filesystem)
 *   [gatsby-source-wordpress](https://www.gatsbyjs.org/packages/gatsby-source-wordpress)
 
-## [24. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [25. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Terminal
 
@@ -274,13 +280,13 @@
 
 *   [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
 
-## [25. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [26. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
 *   [FindIDL (⭐16)](https://github.com/apriorit/FindIDL) - CMake module for building [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) files with MIDL and generating CLR DLL using [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer). [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Python SDK
 
@@ -288,7 +294,7 @@
 
 ### Open Source Repos / Accompanying Repos
 
-*   [aws-spot-labs :fire::fire::fire: (⭐864)](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
+*   [aws-spot-labs :fire::fire::fire: (⭐885)](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
 
 ### Guides, Books, Documentation, and Training / Case Studies: Powered by AWS
 
@@ -328,14 +334,14 @@
 *   [.NET](https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/)
 *   [Security](https://aws.amazon.com/blogs/security/)
 
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [28. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Blockchain / Cryptocurrencies / Angular
 
 *   [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 *   [Build Blockchain](https://www.buildblockchain.tech/newsletter). Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
 
-## [28. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [29. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -351,21 +357,11 @@
 
 *   [control-freak](https://github.com/catx23/control-freak) - IDE for IoT & friends. Built in MQTT support.
 
-## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
-
-### Form Logic / Mouse Events
-
-*   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
-
-### Miscellaneous / Mouse Events
-
-*   [react-find](https://github.com/geobde/react-find) - Elegant, accessible search component for React.
-
 ## [30. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Metadata
 
-*   [libklvanc (⭐48)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
+*   [libklvanc (⭐50)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
 
 ## [31. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -429,7 +425,22 @@
 
 *   [feedmereadmes (⭐1.1k)](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 
-## [33. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Elixir / Non-X86
+
+*   [Elixir Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/elixir-succinctly) (PDF, Kindle) (email address requested, not required)
+
+### Flutter / Phoenix
+
+*   [Cookbook](https://flutter.dev/docs/cookbook)
+*   [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
+
+### Ruby / Tornado
+
+*   [I Love Ruby](https://i-love-ruby.gitlab.io)
+
+## [34. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Videos
 
@@ -465,17 +476,17 @@
 *   [Fun Tricks](https://assistant.google.com/services/a/uid/00000038e95bb789) - Lighten up your day with jokes and other fun tricks. Check them out, there's always something new to try.
 *   [Google Podcasts](https://assistant.google.com/services/a/uid/000000e0ea9c992f) - Listen to your favorite podcasts by asking your Assistant.
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Configuration
 
-*   [libconfig (⭐968)](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. \[LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
+*   [libconfig (⭐978)](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. \[LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 
 ### Machine Learning
 
 *   [libsvm (⭐4.3k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -496,17 +507,17 @@
 *   [Building Stylistic UIs with Emotion-JS for React Native](https://heartbeat.fritz.ai/how-to-use-emotion-js-with-react-native-fccac9c78779)
 *   [Getting Started with Firestore and React Native](https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/)
 
-## [36. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [37. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Games
 
-*   [Pokedex (⭐1.8k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
+*   [Pokedex (⭐1.9k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
 
 ### Contents / Travel
 
-*   [Flight search (⭐803)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
+*   [Flight search (⭐813)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
 
-## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [38. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Universal Seed Projects / Components
 
@@ -516,13 +527,13 @@
 
 *   [NG-MATERO (⭐882)](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
 
-## [38. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [39. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Testing / Scala
 
 *   [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -540,13 +551,13 @@
 
 *   [serverlessDotNetStarter (⭐45)](https://github.com/pharindoko/serverlessDotNetStarter) starter kit for development and deployment of lambda functions in the AWS cloud based on serverless framework.
 
-## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
 
-## [41. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [42. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Objective-C
 
@@ -556,7 +567,7 @@
 
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 
-## [42. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [43. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Quick Start / update
 
@@ -566,7 +577,7 @@
 *   Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook (⭐806)](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
 *   Save file. Done! Now the git hook will be triggered automatically.
 
-## [43. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [44. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -585,13 +596,13 @@
 *   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
 
-## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-session (⭐298)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐301)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
-## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [46. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Adapters
 
@@ -661,13 +672,13 @@
 
 *   [glimmer-hn-pwa (⭐28)](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
 
-## [46. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [47. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Tools / Web, JavaScript
 
 *   [gremlins.js (⭐8.9k)](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript.
 
-## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [48. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -675,15 +686,15 @@
 
 ### Tools
 
-*   [HealthyPi (⭐166)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
+*   [HealthyPi (⭐170)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
-## [48. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [49. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Managers
 
 *   [fff (⭐3.8k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 
-## [49. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [50. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### REST / ORM
 

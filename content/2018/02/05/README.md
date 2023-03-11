@@ -110,7 +110,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomotroid (⭐2.9k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
+*   [Pomotroid (⭐3.1k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 
 ---
 

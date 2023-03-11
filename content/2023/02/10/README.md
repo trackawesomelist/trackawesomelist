@@ -10,7 +10,7 @@
 
 ### Compilers and interpreters
 
-*   [fubark/cyber (⭐530)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
+*   [fubark/cyber (⭐679)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [gogu (⭐46)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+*   [gogu (⭐48)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

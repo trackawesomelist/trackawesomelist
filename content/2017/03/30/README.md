@@ -98,7 +98,7 @@
 
 ### Open Source Repos / API Gateway
 
-*   [api-gateway-secure-pet-store :fire::fire: (⭐311)](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
+*   [api-gateway-secure-pet-store :fire::fire: (⭐310)](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
 
 ## [11. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/README.md)
 

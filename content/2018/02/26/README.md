@@ -98,7 +98,7 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Open Playout Automation (⭐141)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+*   [Open Playout Automation (⭐147)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
 ## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

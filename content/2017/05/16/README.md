@@ -14,7 +14,7 @@
 
 ### Software / Libraries and Tools
 
-*   [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua ! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
+*   [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Samples
 
-*   [vulkantoy (⭐30)](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. \[MIT]
+*   [vulkantoy (⭐31)](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. \[MIT]
 
 ---
 

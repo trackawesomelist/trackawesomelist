@@ -10,7 +10,7 @@
 
 ### Math
 
-*   [universal (⭐303)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
+*   [universal (⭐308)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ## [2. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -103,11 +103,11 @@
 
 ### Packages / Application layer
 
-*   [ros2\_pytorch (⭐24)](https://github.com/klintan/ros2_pytorch) - ROS2 nodes for computer vision tasks in PyTorch ![ros2\_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
+*   [ros2\_pytorch (⭐28)](https://github.com/klintan/ros2_pytorch) - ROS2 nodes for computer vision tasks in PyTorch ![ros2\_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 
 ### Packages / Driver layer
 
-*   [ros2\_track\_imu (⭐2)](https://github.com/klintan/ros2_track_imu) - ROS2 node for TrackIMU IMU sensor![ros2\_track\_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
+*   [ros2\_track\_imu (⭐3)](https://github.com/klintan/ros2_track_imu) - ROS2 node for TrackIMU IMU sensor![ros2\_track\_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
 
 ## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Open Source Repos / DevOps
 
-*   [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire: (⭐4.5k)](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
+*   [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire: (⭐4.7k)](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

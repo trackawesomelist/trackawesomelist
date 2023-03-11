@@ -207,7 +207,7 @@ Language: English
 
 ### Open Source Repos / S3
 
-*   [bloomreach/s4cmd :fire::fire::fire::fire: (⭐1.2k)](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
+*   [bloomreach/s4cmd :fire::fire::fire::fire: (⭐1.3k)](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
 
 ---
 

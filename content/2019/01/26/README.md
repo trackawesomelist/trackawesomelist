@@ -48,17 +48,17 @@
 
 ### Front-End Development
 
-*   [Mobile Web Development (⭐1.1k)](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
+*   [Mobile Web Development (⭐1.2k)](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
 
 ### Miscellaneous
 
-*   [Parasite (⭐25)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+*   [Parasite (⭐26)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 
 ## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Web Archives
 
-*   [Archives Unleashed Toolkit (⭐121)](https://github.com/archivesunleashed/aut) <img src="https://img.shields.io/github/last-commit/archivesunleashed/aut.svg"> -  Open-source toolkit for analyzing web archives.
+*   [Archives Unleashed Toolkit (⭐125)](https://github.com/archivesunleashed/aut) <img src="https://img.shields.io/github/last-commit/archivesunleashed/aut.svg"> -  Open-source toolkit for analyzing web archives.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

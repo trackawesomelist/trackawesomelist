@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,14 +10,14 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue-Low-Code (⭐288)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
-*   [Figma-Low-Code (⭐626)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
+*   [Vue-Low-Code (⭐300)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
+*   [Figma-Low-Code (⭐631)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Version Control
 
-*   [nbQA (⭐686)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
+*   [nbQA (⭐716)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -93,7 +93,17 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [LockLab's Lock Picking Course](https://locklab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Haskell / Spock Framework
+
+*   [Wise Man's Haskell (⭐46)](https://github.com/anchpop/wise_mans_haskell/blob/master/book.md#preface) - Andre Popovitch
+
+### Ruby / Ruby on Rails
+
+*   [Api on Rails 6 (⭐350)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
+
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -103,7 +113,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [zpyi (⭐98)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
-## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [11. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Courses & Books & Blogs
 
@@ -113,7 +123,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [High-Frequency-Trading-Model-with-IB (⭐2k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### People Investigations / Telegram
 
@@ -144,7 +154,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 *   [Forbes Global 2000](http://www.forbes.com/global2000/)
 
-## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Benchmark - JavaScript / Meetups
 

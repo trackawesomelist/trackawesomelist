@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -118,13 +118,19 @@
 
 *   [gzip-size-cli (⭐180)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 
-## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Unix / Deno
+
+*   [Unix as IDE (⭐338)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
+
+## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Resources / Articles
 
 *   [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 

@@ -62,7 +62,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐323)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐358)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

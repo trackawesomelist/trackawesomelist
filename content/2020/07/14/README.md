@@ -111,7 +111,7 @@
 
 ### Open Source Repos / S3
 
-*   [mishudark/s3-parallel-put :fire::fire: (⭐301)](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
+*   [mishudark/s3-parallel-put :fire::fire: (⭐303)](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
 
 ### Guides, Books, Documentation, and Training / General Guides
 

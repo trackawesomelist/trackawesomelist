@@ -602,6 +602,71 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 
+#### [52. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+
+##### Contents / Companies
+
+*   [GitHub Next](https://github.com/githubnext) - Exploring the future of software development.
+*   [Grafana Labs](https://github.com/grafana) - Grafana Labs is behind leading open source projects Grafana and Loki, and the creator of the first open & composable observability platform.
+*   [Vercel](https://github.com/vercel) - Develop. Preview. Ship. Creators of Next.js.
+*   [Prisma](https://github.com/prisma) - Prisma makes working with databases easy.
+*   [Microsoft](https://github.com/microsoft) - Open source projects and samples from Microsoft.
+*   [HashiCorp](https://github.com/hashicorp) - Consistent workflows to provision, secure, connect, and run any infrastructure for any application.
+*   [GitHub](https://github.com/github) - How people build software.
+
+##### Contents / Cloud
+
+*   [Kong](https://github.com/Kong) - The Cloud Connectivity Company. Community Driven & Enterprise Adopted.
+*   [Kubernetes](https://github.com/kubernetes)
+*   [Docker](https://github.com/docker) - Docker helps developers bring their ideas to life by conquering the complexity of app development.
+
+##### Contents / Web
+
+*   [unified](https://github.com/unifiedjs) - content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
+*   [Hono](https://github.com/honojs) - Ultrafast web framework for the Edge.
+*   [Oven](https://github.com/oven-sh) - The company behind Bun, the incredibly fast JavaScript runtime, bundler, transpiler and package manager.
+*   [Vue](https://github.com/vuejs)
+*   [Nuxt](https://github.com/nuxt) - The Intuitive Vue Framework.
+*   [Nest](https://github.com/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications 🚀
+*   [Node.js](https://github.com/nodejs)
+*   [TanStack](https://github.com/TanStack) - Open source software for building better UI and UX.
+*   [Deno](https://github.com/denoland)
+*   [UnJS](https://github.com/unjs) - Unified JavaScript Tools.
+*   [Poimandres](https://github.com/pmndrs) - Open source developer collective.
+*   [Cypress.io](https://github.com/cypress-io) - Fast, easy and reliable testing for anything that runs in a browser.
+*   [CodeSandbox](https://github.com/codesandbox) - An online editor tailored for web applications.
+*   [choo](https://github.com/choojs) - (very) small browser tools. Choo choo.
+*   [Fiber](https://github.com/gofiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
+
+##### Contents / Database
+
+*   [EdgeDB](https://github.com/edgedb) - A next-generation graph-relational database.
+*   [Supabase](https://github.com/supabase) - The open source Firebase alternative.
+*   [SurrealDB](https://github.com/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
+
+##### Contents / User Interface
+
+*   [Exyte](https://github.com/exyte) - Developers with 5+ years of experience in iOS, Android, and the art of clear communication.
+*   [Storybook](https://github.com/storybookjs) - Build bulletproof user interfaces.
+*   [Tailwind Labs](https://github.com/tailwindlabs) - Creators of Tailwind CSS and Headless UI, and authors of Refactoring UI.
+
+##### Contents / Analytics
+
+*   [PostHog](https://github.com/PostHog) - Open-source product analytics platform.
+
+##### Contents / Telemetry
+
+*   [Sentry](https://github.com/getsentry) - Real-time crash reporting for your web apps, mobile apps, and games.
+
+##### Contents / Other
+
+*   [Charm](https://github.com/charmbracelet) - We build tools to make the command line glamorous.
+*   [TheAlgorithms](https://github.com/thealgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language.
+*   [Hugging Face](https://github.com/huggingface) - The AI community building the future.
+*   [Nrwl](https://github.com/nrwl) - We are a team of engineers building software and open source: Nx and Nx Cloud.
+*   [Z-Shell](https://github.com/z-shell) - Open-source society passionate about Zsh.
+*   [ReadMe](https://github.com/readmeio) - Beautiful, personalized, interactive developer hubs 🦉
+
 ---
 
 - Next: [Feb 27 - Mar 05, 2023](&#x2F;content&#x2F;2023&#x2F;9&#x2F;README.md)
@@ -1124,6 +1189,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md) - ([Source ⭐ 2.5K, 📝 22&#x2F;09&#x2F;16 ](https://github.com/unicodeveloper/awesome-opensource-apps)) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md) - ([Source ⭐ 413, 📝 22&#x2F;03&#x2F;20 ](https://github.com/ibaaj/awesome-OpenSourcePhotography)) - A list of awesome free open source software & libraries for photography. Also tools for video.
 - [Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md) - ([Source ⭐ 362, 📝 22&#x2F;10&#x2F;31 ](https://github.com/osmlab/awesome-openstreetmap)) - 😎 Curated list of awesome OpenSteetMap-projects
+- [Awesome Orgs](/content/beansource/awesome-orgs/README.md) - ([Source ⭐ 9, 📝 03&#x2F;10 ](https://github.com/beansource/awesome-orgs)) - 🥰 List of awesome GitHub organizations
 - [Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md) - ([Source ⭐ 25, 📝 02&#x2F;15 ](https://github.com/ecohealthalliance/awesome-parasite)) - A curated list of host-parasite information
 - [Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md) - ([Source ⭐ 503, 📝 22&#x2F;06&#x2F;15 ](https://github.com/tobiasbueschel/awesome-pokemon)) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 - [Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md) - ([Source ⭐ 488, 📝 22&#x2F;09&#x2F;26 ](https://github.com/catalinmiron/awesome-prisma)) - A collection of awesome things regarding Prisma ecosystem.

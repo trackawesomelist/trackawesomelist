@@ -138,7 +138,7 @@
 
 ### Image Processing
 
-*   [DotImaging (⭐309)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -150,12 +150,12 @@
 
 ### SDKs and Samples / JavaScript SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.2k)](https://github.com/aws/aws-sdk-js)
+*   [Repo :fire::fire::fire::fire::fire: (⭐7.3k)](https://github.com/aws/aws-sdk-js)
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [donnemartin/dev-setup :fire::fire::fire::fire: (⭐5.8k)](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
-*   [Netflix/asgard :fire::fire::fire::fire::fire: (⭐2.2k)](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
+*   [donnemartin/dev-setup :fire::fire::fire::fire: (⭐5.9k)](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
+*   [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
 
 ## [11. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -882,7 +882,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐494)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐498)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 

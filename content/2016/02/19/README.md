@@ -93,7 +93,7 @@
 
 ### Samples
 
-*   [vkcube (⭐93)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐95)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)

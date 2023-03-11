@@ -21,7 +21,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐401)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐403)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -61,9 +61,9 @@
 
 ## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
-### UI Libraries, Components & Templates
+### Plugins
 
-*   📚 [Tailwind Elements](https://tailwind-elements.com/) - Huge collection of free components, mobile-friendly thanks to Bootstrap 5.
+*   🎨🧩 [Tailwind Elements](https://tailwind-elements.com/) - Extends Tailwind CSS with 500+ interactive components (datepickers, modals, forms, tables, darkmode).
 
 ## [10. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐29)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐34)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

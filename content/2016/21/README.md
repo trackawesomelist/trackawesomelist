@@ -125,30 +125,30 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐158)](https://github.com/atilaneves/reggae) - meta build system in D
-*   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐56)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [reggae (⭐160)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [Makefile (⭐21)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+*   [cmake-d (⭐59)](https://github.com/dcarp/cmake-d) - CMake D Projects
 *   [cook2 (⭐25)](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 
 ### Containers / Bare metal / kernel development
 
-*   [memutils (⭐37)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-*   [dlib.container (⭐204)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+*   [memutils (⭐39)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+*   [dlib.container (⭐212)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 *   [std.rcstring (⭐9)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ### Data serialization / XML
 
-*   [orange (⭐72)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
-*   [std.experimental.xml (⭐22)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
+*   [orange (⭐71)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+*   [std.experimental.xml (⭐21)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 
 ### GUI Libs / XML
 
-*   [LibUI (⭐35)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui (⭐10k)](https://github.com/andlabs/libui)
+*   [LibUI (⭐34)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui (⭐10k)](https://github.com/andlabs/libui)
 
 ### Image Processing / XML
 
-*   [dlib.image (⭐204)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐470)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐470)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐470)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐470)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [dlib.image (⭐212)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+*   [color.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ### Logging / Language Processing
 
@@ -156,7 +156,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Configuration / Language Processing
 
-*   [inifile-D (⭐22)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+*   [inifile-D (⭐24)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -560,7 +560,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Samples
 
-*   [Stardust from Intel (⭐112)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐112)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐113)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐113)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ### Bindings
 

@@ -43,7 +43,7 @@
 
 ### Open Source Repos / S3
 
-*   [minio/minio :fire::fire::fire::fire::fire: (⭐36k)](https://github.com/minio/minio) - Object storage server compatible with S3.
+*   [minio/minio :fire::fire::fire::fire::fire: (⭐38k)](https://github.com/minio/minio) - Object storage server compatible with S3.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

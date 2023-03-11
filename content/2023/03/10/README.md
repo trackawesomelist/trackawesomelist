@@ -1,24 +1,34 @@
 # Awesome List Updates on Mar 10, 2023
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [1. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+
+### Contents / Companies
+
+*   [GitHub Next](https://github.com/githubnext) - Exploring the future of software development.
+
+### Contents / Telemetry
+
+*   [Sentry](https://github.com/getsentry) - Real-time crash reporting for your web apps, mobile apps, and games.
+
+## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / Ruby
 
 *   [ruby-nix (⭐65)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
-## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Mineo.app](https://mineo.app) - Data Ops platform with Jupyter-compatible notebooks, no code blocks, and support for creating dashboards.
 
-## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Libraries
 
@@ -54,31 +64,31 @@
 
 *   [Deno Vulkan (⭐7)](https://github.com/deno-windowing/vulkan) - Vulkan API bindings for Deno. \[Apache Licence 2.0]
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
 *   [vite-plugin-style-vw-loader (⭐0)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.splitjoin (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Free Courses
 
 *   [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
 *   [Repo :fire::fire::fire: (⭐552)](https://github.com/brendanhay/amazonka)
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Swift / Angular
 
@@ -86,4 +96,5 @@
 
 ---
 
+- Prev: [Mar 11, 2023](/content/2023/03/11/README.md)
 - Next: [Mar 09, 2023](/content/2023/03/09/README.md)

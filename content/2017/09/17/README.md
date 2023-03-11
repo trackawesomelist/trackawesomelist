@@ -31,7 +31,7 @@
 
 ### Office
 
-*   [ExcelDataReader (⭐3.3k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
+*   [ExcelDataReader (⭐3.4k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

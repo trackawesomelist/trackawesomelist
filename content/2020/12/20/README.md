@@ -10,13 +10,13 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐95)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐96)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Community / NumPyro
 
-*   [JAX GitHub Discussions (⭐21k)](https://github.com/google/jax/discussions)
+*   [JAX GitHub Discussions (⭐22k)](https://github.com/google/jax/discussions)
 *   [Reddit](https://www.reddit.com/r/JAX/)
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
@@ -120,7 +120,7 @@
 
 ### Streaming
 
-*   [Owncast (⭐6.5k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
+*   [Owncast (⭐7k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
 
 ## [7. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -162,39 +162,48 @@
 
 ## [11. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools / Platform-specific tools
+### Tools / i18n frameworks for developers
 
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
-*   [SwiftGoogleTranslate (⭐76)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 *   [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 
-### Articles / Platform-specific tools
+### Tools / Machine translation for developers
+
+*   [SwiftGoogleTranslate (⭐77)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+
+### Articles / Introductions to internationalization
+
+*   [Stack Overflow Q\&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between i18n/l10n/g11n and specifically what does each mean for development?
+*   [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
+
+### Articles / For developers
 
 *   [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: i18n and l10n.
 *   [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing your app.
 *   [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software globalization and adding languages on computers and mobile devices" by Craig Cummings (slides).
-*   [Stack Overflow Q\&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between i18n/l10n/g11n and specifically what does each mean for development?
-*   [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
+
+### Articles / Understanding computer-assisted translation
+
 *   [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
 
-### Blogs / Platform-specific tools
+### Blogs / Machine translation
 
 *   [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
 *   [Between Translations](http://foxdocs.biz/BetweenTranslations/) - Run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
 
-### Online Courses / Platform-specific tools
+### Online Courses / Machine translation
 
 *   [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of internationalization and internationalization for digital products provided by the University of Washington.
 *   [Machine Translation](https://www.coursera.org/learn/machinetranslation) - Explains the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
 
-### Books / Platform-specific tools
+### Books / Machine translation
 
 *   [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information) - Establishes background in NLP and statistics, then develops the basics through to current research. By the end readers can build their own translation systems. The author is [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
 *   [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information) - This introduction to machine translation starts from the basics of neural network methods and reaches the state of the art, while giving historical, linguistic, and applied context. Code examples in Python give a hands-on blueprint for implementation. The author is still Philipp Koehn.
 *   [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory and practice of translation from a variety of linguistic and cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ\&hl=en) and [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 
-### Other / Platform-specific tools
+### Other / Machine translation
 
 *   [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
 
@@ -202,7 +211,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐237)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐260)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

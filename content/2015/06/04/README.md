@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [ub-canaries (⭐162)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
+*   [ub-canaries (⭐163)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 
 ### Websites
 
@@ -35,7 +35,7 @@
 
 ### Ruby Libraries
 
-*   [Bitcoin-ruby (⭐908)](https://github.com/lian/bitcoin-ruby)
+*   [Bitcoin-ruby (⭐907)](https://github.com/lian/bitcoin-ruby)
 
 ### Python Libraries
 

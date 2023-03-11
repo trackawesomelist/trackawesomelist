@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2015
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,27 +38,27 @@
 
 ### SDKs and Samples / Go SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/aws/aws-sdk-go)
+*   [Repo :fire::fire::fire::fire::fire: (⭐8.2k)](https://github.com/aws/aws-sdk-go)
 
 ### Open Source Repos / Lambda
 
-*   [cloudnative/lambda-chat :fire::fire: (⭐385)](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
+*   [cloudnative/lambda-chat :fire::fire: (⭐388)](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
 
 ### Open Source Repos / S3
 
-*   [pgherveou/gulp-awspublish :fire::fire: (⭐398)](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
+*   [pgherveou/gulp-awspublish :fire::fire: (⭐399)](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 
 ### Open Source Repos / DevOps
 
-*   [chef-cookbooks/aws :fire::fire: (⭐529)](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
+*   [chef-cookbooks/aws :fire::fire: (⭐552)](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 
 ### Open Source Repos / Security
 
-*   [sebsto/AWSVPN :fire: (⭐179)](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
+*   [sebsto/AWSVPN :fire: (⭐178)](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Comcast/cmb :fire::fire: (⭐280)](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
+*   [Comcast/cmb :fire::fire: (⭐279)](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
 *   [puppetlabs/puppetlabs-aws :fire: (⭐188)](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
 
 ### Guides, Books, Documentation, and Training / Books
@@ -75,7 +75,7 @@
 
 ### XML
 
-*   [TinyXML++ (⭐90)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
+*   [TinyXML++ (⭐91)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Cloud
 
-*   [browse-everything (⭐109)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
+*   [browse-everything (⭐108)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 
 ## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -338,26 +338,56 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [Rest for Haskell (⭐387)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Haxe / Spock Framework
+
+*   [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
+
+### iOS / Bootstrap
+
+*   [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+
+### LaTeX / TeX / TeX
+
+*   [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
+*   [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
+
+### Lisp / TeX
+
+*   [Common Lisp Quick Reference](http://clqr.boundp.org)
+*   [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python, Break Python](http://learnpythonbreakpython.com)
+*   [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+*   [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
+
+### Ruby / Sinatra
+
+*   [Sinatra Book (⭐659)](https://github.com/sinatra/sinatra-book)
+
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Babel Seed Projects / Components
 
 *   [angular2-fullstack-starter (⭐32)](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
 
-## [29. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [30. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [31. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [32. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Polyfills
 
@@ -379,7 +409,7 @@ git update-index --no-assume-unchanged <file_name>
 *   Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
 *   Nicolas [@necolas](https://twitter.com/necolas)
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -389,7 +419,7 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [33. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [34. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
@@ -413,13 +443,13 @@ git update-index --no-assume-unchanged <file_name>
 *   full privileges -> isolate on kernel level
 *   absolute privileges -> run it in separate vm
 
-## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [35. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [D3.compose (⭐699)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

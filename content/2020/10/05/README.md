@@ -85,7 +85,7 @@
 
 ### HTTP Servers / Interfaces to other package managers
 
-*   👍[Clack (⭐962)](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL](http://opensource.franz.com/preamble.html).  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
+*   👍[Clack (⭐964)](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL](http://opensource.franz.com/preamble.html).  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -98,7 +98,7 @@
 *   [vue-datasource (⭐423)](https://github.com/coderdiaz/vue-datasource) - A vue.js server-side component to create dynamic tables.
 *   [md-svg-vue (⭐14)](https://github.com/IPRIT/md-svg-vue) - Material Design Icons by Google for Vue.js & Nuxt.js (server-side support (with caching), inline svg rendering, official icon names)
 *   [v-selectpage (⭐235)](https://github.com/TerryZ/v-selectpage) - A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server-side resources supports.
-*   [vue-file-agent (⭐705)](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
+*   [vue-file-agent (⭐712)](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
 
 ### Components & Libraries / Frameworks
 
@@ -107,7 +107,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [FormVuelar (⭐296)](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
+*   [FormVuelar (⭐297)](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 
 ### Components & Libraries / Utilities
 
@@ -128,7 +128,7 @@
 
 ### Components & Libraries / Prerendering
 
-*   [ssr-vuejs-nodejs (⭐6)](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render vuejs with nodejs without Nuxt.
+*   [ssr-vuejs-nodejs (⭐8)](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render vuejs with nodejs without Nuxt.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

@@ -43,7 +43,7 @@
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐746)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐766)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
 ## [6. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐52k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐53k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Libraries / Community
 

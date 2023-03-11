@@ -74,7 +74,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [boto3 :fire::fire::fire::fire::fire: (⭐7.6k)](https://github.com/boto/boto3)
+*   [boto3 :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/boto/boto3)
 
 ## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2015
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -57,7 +57,7 @@
 
 ### SDKs and Samples / Perl SDK
 
-*   [Install (⭐160)](https://github.com/pplu/aws-sdk-perl#installation)
+*   [Install (⭐164)](https://github.com/pplu/aws-sdk-perl#installation)
 *   [Docs](https://metacpan.org/pod/Paws)
 *   [Learn More](https://metacpan.org/pod/Paws)
 
@@ -97,6 +97,12 @@
 *   [Mozilla Festival (⭐44)](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 *   [Open Source Society University (⭐126k)](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 *   [Clef's Handbook (⭐2.7k)](https://github.com/clef/handbook) - An employee handbook built for inclusion.
+
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### PostgreSQL / Zend
+
+*   [Postgres Official Documentation](http://www.postgresql.org/docs/)
 
 ---
 

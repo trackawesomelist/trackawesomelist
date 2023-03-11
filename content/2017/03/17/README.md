@@ -22,7 +22,7 @@
 
 ### Open Source Repos / S3
 
-*   [anomalizer/ngx\_aws\_auth :fire::fire: (⭐445)](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
+*   [anomalizer/ngx\_aws\_auth :fire::fire: (⭐452)](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
 
 ## [4. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

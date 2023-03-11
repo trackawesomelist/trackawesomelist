@@ -73,13 +73,13 @@
 ### Multimedia content processing
 
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
-*   [MP4Box.js (⭐1.3k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
+*   [MP4Box.js (⭐1.4k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 
 ## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Game Frameworks / XML
 
-*   [DAllegro5 (⭐39)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
+*   [DAllegro5 (⭐40)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 
 ## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

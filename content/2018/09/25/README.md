@@ -24,7 +24,7 @@
 
 ### Docker
 
-*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐30)](https://github.com/OpenPj/keycloak-docker-quickstart)
+*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐31)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## [4. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

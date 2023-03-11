@@ -14,13 +14,13 @@
 
 ### Tools
 
-*   [oidc-bash-client (⭐70)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐72)](https://github.com/please-openit/oidc-bash-client)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
-*   [vue-postgrest (⭐58)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+*   [vue-postgrest (⭐59)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Macadam (⭐89)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐4)](https://github.com/Streampunk/sevruga)) graphics.
+*   [Macadam (⭐90)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐4)](https://github.com/Streampunk/sevruga)) graphics.
 
 ### Radio Production
 

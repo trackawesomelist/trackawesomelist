@@ -81,7 +81,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyOD (⭐6.7k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+*   [PyOD (⭐6.8k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

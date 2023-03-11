@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### SDKs and Samples / Java SDK
 
-*   [Repo with Samples :fire::fire: (⭐215)](https://github.com/awslabs/aws-java-sample)
+*   [Repo with Samples :fire::fire: (⭐218)](https://github.com/awslabs/aws-java-sample)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -69,19 +69,13 @@
 *   [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 *   [Article](https://web.archive.org/web/20190116071957/http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - A list of common CMake antipatterns (from 2013 but still relevant).
 
-## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
-
-### Articles / Screeb
-
-*   [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
-
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2014
 
 *   [Mark Stuart: **Paypal: Web Security in Node.js and Javascript Apps (SPAs)**](http://youtu.be/vE5kCqwoSUg) \[29:11]
 
-## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Customer Support
 

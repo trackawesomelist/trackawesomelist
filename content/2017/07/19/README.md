@@ -131,7 +131,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-transactions :fire::fire: (⭐348)](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
+*   [dynamodb-transactions :fire::fire: (⭐351)](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

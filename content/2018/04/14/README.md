@@ -93,7 +93,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Testura.Code (⭐263)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
+*   [Testura.Code (⭐265)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Netflix/ribbon :fire::fire::fire::fire::fire: (⭐4.3k)](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers.
+*   [Netflix/ribbon :fire::fire::fire::fire::fire: (⭐4.4k)](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers.
 
 ---
 

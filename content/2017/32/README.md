@@ -137,11 +137,11 @@ Webpage: <http://www.26grados.com/>
 
 ### Open Source Repos / S3
 
-*   [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire: (⭐6.5k)](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
+*   [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire: (⭐6.9k)](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
 
 ### Open Source Repos / SES
 
-*   [drewblas/aws-ses :fire::fire::fire: (⭐547)](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
+*   [drewblas/aws-ses :fire::fire::fire: (⭐549)](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -330,7 +330,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐62k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐63k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [27. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -463,7 +463,7 @@ git push -u origin <branch_name>
 
 ### Other Tools / Telegram
 
-*   [Datasploit (⭐2.7k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+*   [Datasploit (⭐2.8k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
 ## [39. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -482,7 +482,7 @@ git push -u origin <branch_name>
 
 ### UI Automation
 
-*   [Atata (⭐447)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐452)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -490,15 +490,15 @@ git push -u origin <branch_name>
 
 *   [Laugh Engine (⭐383)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
 *   [TLVulkanRenderer (⭐91)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
-*   [Vulkan-Hpp Samples (⭐304)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
+*   [Vulkan-Hpp Samples (⭐306)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
 
 ### Related lists
 
-*   [awesome (⭐234k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
-*   [awesome-d3d12 (⭐196)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
+*   [awesome-d3d12 (⭐197)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

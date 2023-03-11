@@ -16,7 +16,7 @@
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐5.4k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Table of Contents / Papers
 
-*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/\~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
+*   [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
 *   [Translating Haskell to Isabelle](http://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf)
 
 ### Table of Contents / Wikis
@@ -44,7 +44,7 @@
 
 ### Database
 
-*   [LMDB++ (⭐262)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
+*   [LMDB++ (⭐263)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
 ## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

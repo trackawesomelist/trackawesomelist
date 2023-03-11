@@ -125,7 +125,7 @@
 
 ### Multimedia content processing
 
-*   [L-SMASH (⭐214)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
+*   [L-SMASH (⭐212)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

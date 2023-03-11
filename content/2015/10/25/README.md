@@ -62,7 +62,7 @@
 ### Software / Operating systems
 
 *   [NodeOS](http://node-os.com/) - NodeOS is an operating system entirely written in Javascript, and managed by npm on top of  the Linux kernel.
-*   [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs.
+*   [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT is a family of Windows 10 editions targeted toward a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -26,7 +26,7 @@
 
 ### Software / Password Managers
 
-*   [PassWall (⭐677)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
+*   [PassWall (⭐682)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 

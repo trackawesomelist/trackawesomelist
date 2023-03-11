@@ -28,7 +28,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-client :fire::fire::fire: (⭐599)](https://github.com/awslabs/amazon-kinesis-client) Client library for Amazon Kinesis.
+*   [amazon-kinesis-client :fire::fire::fire: (⭐607)](https://github.com/awslabs/amazon-kinesis-client) Client library for Amazon Kinesis.
 
 ## [3. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Glosa (⭐76)](https://github.com/glosa/glosa-server) - Open source commentary system easy to integrate with static pages. You can import from Disqus. `GPL-3.0` `Java`
+*   [Glosa (⭐77)](https://github.com/glosa/glosa-server) - Open source commentary system easy to integrate with static pages. You can import from Disqus. `GPL-3.0` `Java`
 
 ## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

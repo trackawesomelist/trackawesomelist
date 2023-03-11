@@ -82,7 +82,7 @@
 
 ### Open Source Repos / Security
 
-*   [RiotGames/cloud-inquisitor :fire::fire: (⭐455)](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security.
+*   [RiotGames/cloud-inquisitor :fire::fire: (⭐451)](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security.
 
 ## [6. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -94,7 +94,7 @@
 
 ### OCR Tools / Telegram
 
-*   [OCRmyPDF (⭐8.1k)](https://github.com/jbarlow83/OCRmyPDF/)
+*   [OCRmyPDF (⭐8.4k)](https://github.com/jbarlow83/OCRmyPDF/)
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

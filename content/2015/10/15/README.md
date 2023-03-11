@@ -94,7 +94,7 @@
 
 ### Open Source Repos / Data
 
-*   [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire: (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
+*   [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire: (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
 
 ---
 

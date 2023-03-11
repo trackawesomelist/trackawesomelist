@@ -67,7 +67,7 @@
 
 ### Plugins
 
-*   💼🧬 [Radix (⭐1.3k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   💼🧬 [Radix (⭐1.4k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

@@ -18,7 +18,7 @@
 
 ### Build Tools / Bare metal / kernel development
 
-*   [dub (⭐603)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [dub (⭐618)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 
 ### Compilers / Bare metal / kernel development
 
@@ -26,7 +26,7 @@
 
 ### IDEs & Editors / Bare metal / kernel development
 
-*   [Visual D (⭐276)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
+*   [Visual D (⭐280)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -79,7 +79,7 @@ Webpage: <http://copenhagencoffeelab.com/>
 
 ### Open Source Repos / S3
 
-*   [ncw/rclone :fire::fire::fire::fire::fire: (⭐35k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
+*   [ncw/rclone :fire::fire::fire::fire::fire: (⭐37k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -90,7 +90,7 @@ Webpage: <http://copenhagencoffeelab.com/>
 ### JavaScript Engines
 
 *   [Jint (⭐3.2k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐748)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jurassic (⭐750)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

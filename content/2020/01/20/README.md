@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,7 +67,33 @@
 
 *   [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
 
-## [9. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Force.com / Phoenix
+
+*   [Apex Workbook](https://web.archive.org/web/20170102233924/https://resources.docs.salesforce.com/sfdc/pdf/apex_workbook.pdf) (PDF)
+*   [Force.com Fundamentals](http://developerforce.s3.amazonaws.com/books/Force.com_Fundamentals.pdf) (PDF)
+*   [Force.com Workbook](https://web.archive.org/web/20160804055738/http://resources.docs.salesforce.com:80/sfdc/pdf/forcecom_workbook.pdf) (PDF)
+*   [Heroku Workbook](https://res.cloudinary.com/hy4kyit2a/image/upload/workbook_text_Heroku.pdf) (PDF)
+*   [Integration Workbook](https://web.archive.org/web/20150919023850/https://resources.docs.salesforce.com/sfdc/pdf/integration_workbook.pdf) (PDF)
+*   [Salesforce1 Mobile App Workbook](https://res.cloudinary.com/hy4kyit2a/image/upload/s1_mobile_woorkbook_v3-21.pdf) (PDF)
+*   [Visualforce Workbook](https://web.archive.org/web/20150921195528/https://resources.docs.salesforce.com/sfdc/pdf/workbook_vf.pdf) (PDF)
+
+### Hadoop / Spock Framework
+
+*   [Cloudera Impala](https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf) - John Russel (PDF)
+
+### Haskell / Spock Framework
+
+*   [Beautiful Code, Compelling Evidence](https://web.archive.org/web/20160411023943/http://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) - J.R. Heard (PDF)
+
+### HTML and CSS / Spock Framework
+
+*   [Canvassing](https://web.archive.org/web/20160505010319/http://learnjs.io/canvassing/read/)
+*   [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+*   [HTML5 for Publishers](https://www.oreilly.com/library/view/html5-for-publishers/9781449320065/pr02.html) - Sanders Kleinfeld
+
+## [10. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Periodic Global Connectivity Reports
 
@@ -77,25 +103,25 @@
 
 *   [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a potpourri of countries based on OpenSignal data gathering.
 
-## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Development
 
 *   [Checkov (⭐4.8k)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 
-## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [12. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 
-## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Stub packages
 
 *   [wsgitypes (⭐2)](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Input Types
 
@@ -105,13 +131,13 @@
 
 *   [reactponsive (⭐12)](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 
-## [14. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Distribution
 
 *   [jlink.online (⭐1)](https://github.com/cilki/jlink.online) - Builds optimized runtimes over HTTP.
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -121,19 +147,19 @@
 
 *   [CurrySoftware/perlin (⭐70)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)]
 
-## [16. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [17. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### ZSH
 
 *   [zinit (⭐25)](https://github.com/zdharma/zinit) - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services.
 
-## [17. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [18. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Workshops / Doctrine Assessement
 
-*   [Wardley Maps Battle Camp (⭐37)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Wardley Maps Battle Camp (⭐39)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
-## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 

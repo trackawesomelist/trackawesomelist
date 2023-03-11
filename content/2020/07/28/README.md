@@ -154,7 +154,7 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI Cache (⭐186)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
+*   [FastAPI Cache (⭐190)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 
 ## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -197,8 +197,8 @@
 
 ### Github / Other
 
-*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.6k)](https://github.com/shreyashankar/gpt3-sandbox)
-*   [gpt-3-experiments by @minimaxir (⭐676)](https://github.com/minimaxir/gpt-3-experiments)
+*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.8k)](https://github.com/shreyashankar/gpt3-sandbox)
+*   [gpt-3-experiments by @minimaxir (⭐701)](https://github.com/minimaxir/gpt-3-experiments)
 
 ## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

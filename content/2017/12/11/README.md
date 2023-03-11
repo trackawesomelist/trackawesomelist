@@ -22,7 +22,7 @@
 
 ### Web Frameworks
 
-*   [Irked (⭐29)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
+*   [Irked (⭐30)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
 
 ## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-modal-dialogs (⭐294)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 
 ## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
@@ -77,7 +77,7 @@
 
 ### SDKs and Samples / IoT SDK
 
-*   [Repo for JavaScript :fire::fire::fire: (⭐938)](https://github.com/aws/aws-iot-device-sdk-js)
+*   [Repo for JavaScript :fire::fire::fire: (⭐945)](https://github.com/aws/aws-iot-device-sdk-js)
 
 ---
 

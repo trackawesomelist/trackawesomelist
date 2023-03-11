@@ -179,7 +179,7 @@ git status --short --branch
 
 ### Interoperability
 
-*   [pythonnet (⭐3.5k)](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+*   [pythonnet (⭐3.6k)](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 
 ---
 

@@ -89,7 +89,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollama (⭐415)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
+*   [vue-scrollama (⭐416)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Completion / Diagnostics
 
-*   [simrat39/rust-tools.nvim (⭐1.5k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
+*   [simrat39/rust-tools.nvim (⭐1.6k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 
 ## [11. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

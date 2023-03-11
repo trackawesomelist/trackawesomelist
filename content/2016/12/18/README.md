@@ -28,8 +28,8 @@
 
 ### Open Source Repos / Lambda
 
-*   [chalice :fire::fire::fire::fire::fire: (⭐9.3k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
-*   [kubek2k/lambdoku :fire::fire::fire: (⭐573)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
+*   [chalice :fire::fire::fire::fire::fire: (⭐9.6k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
+*   [kubek2k/lambdoku :fire::fire::fire: (⭐571)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 

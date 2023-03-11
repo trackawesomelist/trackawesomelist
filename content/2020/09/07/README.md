@@ -123,7 +123,7 @@
 
 ### Open Source Repos / Code Pipeline
 
-*   [aws-codepipeline-s3-aws-codedeploy\_linux :fire: (⭐138)](https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux) - Simple pipeline for Linux.
+*   [aws-codepipeline-s3-aws-codedeploy\_linux :fire: (⭐145)](https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux) - Simple pipeline for Linux.
 
 ---
 

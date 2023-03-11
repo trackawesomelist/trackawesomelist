@@ -110,7 +110,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [aws-cdk :fire::fire::fire::fire::fire: (⭐9.4k)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
+*   [aws-cdk :fire::fire::fire::fire::fire: (⭐9.9k)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
 
 ---
 

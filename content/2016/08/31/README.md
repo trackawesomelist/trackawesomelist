@@ -58,7 +58,7 @@
 
 ### Tools
 
-*   [Visual Studio Uninstaller (⭐3.8k)](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
+*   [Visual Studio Uninstaller (⭐3.9k)](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

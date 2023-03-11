@@ -10,7 +10,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [aws-dynamodb-examples :fire::fire: (⭐439)](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
+*   [aws-dynamodb-examples :fire::fire: (⭐465)](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
 
 ## [2. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [oruga (⭐908)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+*   [oruga (⭐931)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 
 ### Components & Libraries / UI Utilities
 
@@ -33,7 +33,7 @@
 
 ### Official
 
-*   [Apphud (⭐144)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+*   [Apphud (⭐145)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
 ## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 

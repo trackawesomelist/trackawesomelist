@@ -26,7 +26,7 @@
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐278)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐281)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -97,7 +97,6 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐16)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 *   [Awesome JMeter (⭐584)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
@@ -126,7 +125,8 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Gatling (⭐45)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
+*   [Awesome Tsung (⭐16)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome Gatling (⭐50)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐261)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐264)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Math
 
-*   [Klein (⭐641)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐646)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ---
 

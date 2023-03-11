@@ -61,7 +61,7 @@
 
 ### Concurrency and Parallelism
 
-*   [Concurrent Ruby (⭐5.4k)](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+*   [Concurrent Ruby (⭐5.5k)](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

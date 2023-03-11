@@ -8,7 +8,7 @@
 
 ## [1. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Other / Platform-specific tools
+### Other / Machine translation
 
 *   [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
 *   [AutoML Translation Documentation](https://cloud.google.com/translate/automl/docs) - A documentation of AutoML Translation from Google.
@@ -76,7 +76,7 @@
 
   Title: Dimensions - Rapidly Create Visual Concepts With AI.
 
-  Description: Imagine being able to create beautiful interior designs with ease – that's what Dimensions offers.
+  Description: Imagine being able to create beautiful interior designs with ease – thats what Dimensions offers.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -151,7 +151,7 @@
 
   Title: AI-Powered Design Generation, Editing and Training.
 
-  Description: Accomplice's AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow.
+  Description: Accomplices AI-powered platform helps your team generate 100% royalty-free logos, photos and graphics while saving time, cutting costs, and simplifying your workflow.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -217,15 +217,6 @@
   Description: .
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Article2Image](http://www.stockai.com)
-
-  Title: Free AI-Powered Stock Photos.
-
-  Description: Download AI-generated stock photos for free, with the click of a button. Use in any project without worry about attribution.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Astria.ai](http://www.astria.ai)
@@ -690,15 +681,6 @@
   Offer Free Version: :x:
 
 
-- Name: [MagicPic](http://www.magicpic.ai)
-
-  Title: Magicpic - AI Profile Picture Generator.
-
-  Description: Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an magical avatars of you.
-
-  Offer Free Version: :x:
-
-
 - Name: [PIXELVIBE](https://www.pixelvibe.com/)
 
   Title: AI Streamlined Creative Workflow.
@@ -755,7 +737,7 @@
 
 - Name: [Theoasis](http://theoasis.com)
 
-  Title: Oasis Â Never Worry How You Look on Camera Again.
+  Title: Oasis Never Worry How You Look on Camera Again.
 
   Description: Create a photorealistic avatar that you can use on every video platform.
 
@@ -887,7 +869,7 @@
 
 - Name: [Codeball](http://codeball.ai)
 
-  Title: Codeball Â AI Powered Code Review.
+  Title: Codeball AI Powered Code Review.
 
   Description: Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence.
 
@@ -979,18 +961,9 @@
 
   Title: AI Assistant for Software Developers - Tabnine.
 
-  Description: Whether you're part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.
+  Description: Whether you are part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Tensai](http://airtable.com/shrhYf24UkDMr2gPl)
-
-  Title: Tensai - Conversational Ui for Your Codebase.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Text2SQL](http://www.text2sql.ai/)
@@ -1106,9 +1079,9 @@
 
 - Name: [Hypotenuse.ai](http://www.hypotenuse.ai)
 
-  Title: Let AI Write Your Content in Seconds. Without Writer\&Apos;S Block.
+  Title: Let AI Write Your Content in Seconds. Without WriterS Block.
 
-  Description: Provide a few keywords, and we'll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world.
+  Description: Provide a few keywords, and well instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -1316,7 +1289,7 @@
 
 - Name: [Descript](http://www.descript.com?lmref=xru03g)
 
-  Title: There\&Apos;S a New Way to Make Video and Podcasts. A Good Way.
+  Title: ThereS a New Way to Make Video and Podcasts. A Good Way.
 
   Description: Descript is the simple, powerful, and fun way to edit.
 
@@ -1403,7 +1376,7 @@
 
 - Name: [Replicate](http://replicate.com)
 
-  Title: Machine Learning Doesn\&Apos;T Need to Be So Hard.
+  Title: Machine Learning DoesnT Need to Be So Hard.
 
   Description: Run open-source models with a cloud API.
 
@@ -1615,7 +1588,7 @@
 
   Title: The Future of AI-Generated Games.
 
-  Description: We're making AI a tool of creativity and freedom for everyone.
+  Description: We are making AI a tool of creativity and freedom for everyone.
 
   Offer Free Version: :grey\_question:
 
@@ -1750,7 +1723,7 @@
 
   Title: Meet the Team - Hirequotient.
 
-  Description: HireQuotient's Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time.
+  Description: HireQuotients Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time.
 
   Offer Free Version: :grey\_question:
 
@@ -1897,6 +1870,15 @@
   Description: Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Replica](http://replicastudios.com)
+
+  Title: Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica.
+
+  Description: Try today with 30 minutes of free voice credit.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Soundraw](http://soundraw.io)
@@ -2062,7 +2044,7 @@
 
   Title: AI Tool That Can Turn Annoying Fake.Png Into True, Unfake.Png.
 
-  Description: Don't you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears?.
+  Description: Dont you hate it when you find that perfect, supposedly background-less Image, and download it, but when you go to use it, the dreaded checkerboard appears?.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2188,7 +2170,7 @@
 
   Title: Write Better Marketing Copy and Content With AI.
 
-  Description: Say goodbye' to the blank page for good.
+  Description: Say goodbye to the blank page for good.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2299,7 +2281,7 @@
 
   Title: AI-Powered Search Engine.
 
-  Description: StockGPT is an AI-powered search engine that was trained on all of Tesla's quarterly earnings call transcripts dating back to Q2 2011.
+  Description: StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2482,7 +2464,7 @@
 
   Title: Tability - Get Your Goals Out of Spreadsheets.
 
-  Description: The easiest way to keep track of your OKRs and team goals. Align your team around outcomes â without feeling like a chore.
+  Description: The easiest way to keep track of your OKRs and team goals. Align your team around outcomes without feeling like a chore.
 
   Offer Free Version: :grey\_question:
 
@@ -2500,7 +2482,7 @@
 
   Title: Hello History - Chat With AI Generated Historical Figures.
 
-  Description: With the help of modern AI & machine learning weâve brought historical figures back to life. Now is your chance to ask the questions youâve always wanted to ask.
+  Description: With the help of modern AI & machine learning we have brought historical figures back to life. Now is your chance to ask the questions you have always wanted to ask.
 
   Offer Free Version: :grey\_question:
 
@@ -2649,20 +2631,11 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Talk to AI Human](http://www.talktoaihuman.com)
-
-  Title: Talk to AI Human.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Upword](http://www.upword.ai)
 
   Title: Read Your10X Articles, News Reports, Blogs, Newsletters, Articles Faster With AI.
 
-  Description: Capture key ideas from content with Upword's AI. Create online summary docs. Grow your knowledge.
+  Description: Capture key ideas from content with Upwords AI. Create online summary docs. Grow your knowledge.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2737,7 +2710,7 @@
 
   Title: Go From Text to Speech With a Versatile AI Voice Generator.
 
-  Description: AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murf's lifelike AI voices for podcasts, videos, and all your professional presentations.
+  Description: AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2755,7 +2728,7 @@
 
   Title: Your Complete Generative Voice AI Toolkit.
 
-  Description: Resemble's AI voice generator lets you create human–like voice overs in seconds.
+  Description: Resembles AI voice generator lets you create human–like voice overs in seconds.
 
   Offer Free Version: :x:
 
@@ -2774,15 +2747,6 @@
   Title: The #1 Text to Speech Reader.
 
   Description: Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Unreal Speech](http://unrealspeech.up.railway.app)
-
-  Title: Ultra Realistic Text-to-Speech Api.
-
-  Description: More natural-sounding and up to 4x cheaper than Amazon, Google and Microsoft.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2844,6 +2808,15 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [Papercup](http://www.papercup.com)
+
+  Title: Papercup - AI Dubbing and Video Translation Software.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Rephrasely](http://rephrasely.com?via=beth0)
 
   Title: The Free Rephrase Generator for All Languages!.
@@ -2891,6 +2864,15 @@
 
 
 ### Video
+
+- Name: [BRIA](http://commercial.bria.ai/)
+
+  Title: Create Images and Video at Scale - Bria.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
 
 - Name: [D-ID's Creative Reality Studio](https://www.d-id.com/)
 
@@ -2946,6 +2928,15 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [Simplified](http://simplified.com)
+
+  Title: Simplified: An Easy to Use All-in-One App for Modern Marketing Teams.
+
+  Description: Design, Write, Edit videos, and Publish Content. Built For Teams.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Story Bard](http://www.storybard.co)
 
   Title: Video Stories Generated by AI.
@@ -2955,11 +2946,47 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [Summarize Tech](http://www.summarize.tech)
+
+  Title: Summarize.Tech: AI-Powered Video Summaries.
+
+  Description: Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Supercreator AI](http://www.supercreator.ai)
 
-  Title: Supercreator.Ai Â¢ Create Videos 10X Faster With AI.
+  Title: Supercreator.Ai - Create Videos 10X Faster With AI.
 
   Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [ToWords](http://www.towords.io)
+
+  Title: Towords: YouTube to Words.
+
+  Description: Make your videos and audio come alive with written words.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Typestudio](http://www.typestudio.co)
+
+  Title: Type Studio - Edit Your Video by Editing Text.
+
+  Description: Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Vidyo](http://vidyo.ai)
+
+  Title: AI Based Content Repurposing - Vidyo.Ai.
+
+  Description: Create social ready short clips from your videos with AI ✨ Save 90% time and effort.
 
   Offer Free Version: :grey\_question:
 
@@ -3136,7 +3163,7 @@
 
   Title: Car Diagnosis AI.
 
-  Description: Get real-time diagnostics and insights into your car's performance with our cutting-edge tool.
+  Description: Get real-time diagnostics and insights into your cars performance with our cutting-edge tool.
 
   Offer Free Version: :grey\_question:
 
@@ -3147,7 +3174,7 @@
 
   Description: .
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [AI Image Upscaler](http://www.upscale.media)
@@ -3262,7 +3289,7 @@
 
   Title: Check Your Mic for Free.
 
-  Description: Get advice on how to improve your microphone setup. We'll make sure you sound podcast-ready.
+  Description: Get advice on how to improve your microphone setup. Well make sure you sound podcast-ready.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3369,15 +3396,6 @@
 - Name: [Athena](http://www.apac.ai)
 
   Title: Apac AI Account Portal.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [BRIA](http://commercial.bria.ai/)
-
-  Title: Create Images and Video at Scale - Bria.
 
   Description: .
 
@@ -3730,7 +3748,7 @@
 
   Title: Inworld AI – Create AI Characters and Ask Them Anything.
 
-  Description: Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. It's easy, free, and full of possibilities.
+  Description: Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. Its easy, free, and full of possibilities.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3942,15 +3960,6 @@
   Offer Free Version: :x:
 
 
-- Name: [Papercup](http://www.papercup.com)
-
-  Title: Papercup - AI Dubbing and Video Translation Software.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Patience](http://patience.ai)
 
   Title: Patience - AI Art With Stable Diffusion.
@@ -3998,7 +4007,7 @@
 
 - Name: [Phraser](http://phraser.tech)
 
-  Title: Phraser Â the Collaborative Creative AI Tool.
+  Title: Phraser - the Collaborative Creative AI Tool.
 
   Description: Phraser is an app that helps you create images using generative AI (Midjourney, Stable Diffusion, and DALLE 2), collaborate, and get inspired.
 
@@ -4158,15 +4167,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Replica](http://replicastudios.com)
-
-  Title: Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica.
-
-  Description: Try today with 30 minutes of free voice credit.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [RestorePhotos.io](https://www.restorephotos.io/)
 
   Title: Restoring Old Photos Using AI for Everyone.
@@ -4180,7 +4180,7 @@
 
   Title: Wonsulting - We Find Dream Jobs.
 
-  Description: Weâve helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days.
+  Description: we have helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days.
 
   Offer Free Version: :grey\_question:
 
@@ -4275,15 +4275,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Simplified](http://simplified.com)
-
-  Title: Simplified: An Easy to Use All-in-One App for Modern Marketing Teams.
-
-  Description: Design, Write, Edit videos, and Publish Content. Built For Teams.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Sitekick](http://www.sitekick.ai)
 
   Title: AI Landing Page Builder.
@@ -4315,7 +4306,7 @@
 
   Title: Empowering the World to Create Music - Soundful.
 
-  Description: Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you won't believe it was made with AI.
+  Description: Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you wont believe it was made with AI.
 
   Offer Free Version: :grey\_question:
 
@@ -4331,7 +4322,7 @@
 
 - Name: [Steve AI](http://www.steve.ai)
 
-  Title: Steve.Ai - WorldâS Fastest Way to Create Videos.
+  Title: Steve.Ai - Worlds Fastest Way to Create Videos.
 
   Description: With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video.
 
@@ -4379,15 +4370,6 @@
   Title: AI-Generated Podcast Summaries - Sumly.Ai.
 
   Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Summarize Tech](http://www.summarize.tech)
-
-  Title: Summarize.Tech: AI-Powered Video Summaries.
-
-  Description: Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.
 
   Offer Free Version: :grey\_question:
 
@@ -4491,15 +4473,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [ToWords](http://www.towords.io)
-
-  Title: Towords: YouTube to Words.
-
-  Description: Make your videos and audio come alive with written words.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Tunes For Tales](http://tunesfortales.fun)
 
   Title: Tunes for Tales.
@@ -4514,15 +4487,6 @@
   Title: Get Inspired to Tweet • Tweetai.Com.
 
   Description: Tweet AI.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Typestudio](http://www.typestudio.co)
-
-  Title: Type Studio Â Edit Your Video by Editing Text.
-
-  Description: Type Studio is a fast, simple, and joyful way to edit and growyour podcasts, streams, and interviews.
 
   Offer Free Version: :grey\_question:
 
@@ -4547,9 +4511,9 @@
 
 - Name: [Userevaluation](http://www.userevaluation.com)
 
-  Title: User Evaluation Â the Customer Understanding Platform.
+  Title: User Evaluation - the Customer Understanding Platform.
 
-  Description: Whether you're focused on UI, UX Research, Design, or CX â User Evaluation's AI can answer all your questions.
+  Description: Whether you're focused on UI, UX Research, Design, or CX User Evaluation's AI can answer all your questions.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -4579,15 +4543,6 @@
   Description: Versational maximizes the value said in every conversation. Get AI conversation results for free. Versational transcribes, summarizes, automates data entry, extracts takeaways, lets you share clips, and shows ways to improve your conversations.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Vidyo](http://vidyo.ai)
-
-  Title: AI Based Content Repurposing - Vidyo.Ai.
-
-  Description: Create social ready short clips from your videos with AI ✨ Save 90% time and effort.
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Voice AI](http://voice.ai)
@@ -4624,15 +4579,6 @@
   Description: Get rid of the watermarks from your images using our powerful AI technology.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [What Cake to Bake?](http://www.whatcaketobake.com)
-
-  Title: What Cake to Bake?.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [What on earth?](http://www.whatonearth.xyz)
@@ -4675,7 +4621,7 @@
 
   Title: Writer - AI Writing Platform for Teams.
 
-  Description: World-class companies use Writer's AI writing platform to unlock on-brand content at scale.
+  Description: World-class companies use Writers AI writing platform to unlock on-brand content at scale.
 
   Offer Free Version: :grey\_question:
 
@@ -4722,7 +4668,7 @@
 ### Applications / Emulators
 
 *   iPod
-    *   [clicky (⭐111)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐112)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
 ## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -4738,7 +4684,7 @@
 
 ### Software / Recipe Management
 
-*   [Chowdown.io](https://chowdown.io/) - Simple recipes in Markdown format. ([Source Code (⭐538)](https://github.com/clarklab/chowdown)) `Unlicense` `Ruby`
+*   [Chowdown.io](https://chowdown.io/) - Simple recipes in Markdown format. ([Source Code (⭐545)](https://github.com/clarklab/chowdown)) `Unlicense` `Ruby`
 
 ## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 

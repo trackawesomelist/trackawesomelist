@@ -128,7 +128,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [Vuecket (⭐30)](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
+*   [Vuecket (⭐31)](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 
 ### Projects Using Vue.js / Apps/Websites
 

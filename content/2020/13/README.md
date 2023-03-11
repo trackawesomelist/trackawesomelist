@@ -36,7 +36,7 @@
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Online books
+### Online Books
 
 *   [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 
@@ -148,11 +148,11 @@
 ### Libraries / Encoding
 
 *   JSON
-    *   [importcjj/rust-ajson (⭐91)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
-    *   [maciejhirsz/json-rust (⭐512)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
-    *   [pikkr/pikkr (⭐616)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
-    *   [serde-rs/json (⭐3.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.7k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
-    *   [simd-lite/simd-json (⭐766)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
+    *   [importcjj/rust-ajson (⭐92)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
+    *   [maciejhirsz/json-rust (⭐514)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
+    *   [pikkr/pikkr (⭐619)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
+    *   [serde-rs/json (⭐3.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.8k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
+    *   [simd-lite/simd-json (⭐776)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
 ## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -285,7 +285,7 @@
 
 ### Plugins
 
-*   [tmux-thumbs (⭐594)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐630)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [26. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -583,10 +583,6 @@
 *   [Arthas (⭐32k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
 ## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### UI / Barcode
-
-*   [ActivityIndicatorView (⭐988)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### CSV
 
@@ -887,7 +883,28 @@
 
 *   🔌 [Firecoil (⭐35)](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
 
-## [36. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [36. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+
+### Communication / Writing
+
+*   [Technical Writing Courses](https://developers.google.com/tech-writing) - This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers in a company.
+
+## [37. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+
+### Hosted Notebook Solutions
+
+*   [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - Managed JupyterLab notebook instances configured with GPU-enabled machine learning frameworks on Google Cloud Platform.
+*   [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - Jupyter and JupyterLab for Apache Spark using Google Cloud Dataproc.
+
+### Articles/Guides/Tutorials
+
+*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐516)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
+
+## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Activity Indicator
+
+*   [ActivityIndicatorView (⭐1k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### Menu
 
@@ -899,24 +916,7 @@
 
 ### User Consent / Collection View Layout
 
-*   [PrivacyFlash Pro (⭐141)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
-
-## [37. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
-
-### Communication / Writing
-
-*   [Technical Writing Courses](https://developers.google.com/tech-writing) - This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers in a company.
-
-## [38. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
-
-### Hosted Notebook Solutions
-
-*   [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - Managed JupyterLab notebook instances configured with GPU-enabled machine learning frameworks on Google Cloud Platform.
-*   [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - Jupyter and JupyterLab for Apache Spark using Google Cloud Dataproc.
-
-### Articles/Guides/Tutorials
-
-*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐516)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
+*   [PrivacyFlash Pro (⭐143)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ## [39. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -934,7 +934,7 @@
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐38)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐40)](https://github.com/Blazemeter/HLSPlugin)
 
 ## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -992,7 +992,7 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐35k)](https://github.com/gorhill/uBlock)
 
 ## [49. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -1022,11 +1022,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐346)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐350)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐197)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [52. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 

@@ -151,7 +151,7 @@ Language: English
 
 ### Contents / Entertainment
 
-*   [TV Randshow (⭐118)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+*   [TV Randshow (⭐121)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
 ## [14. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 

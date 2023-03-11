@@ -34,7 +34,7 @@
 
 ### CMS
 
-*   [BlogEngine.NET (⭐906)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐911)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 

@@ -10,8 +10,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐575)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐951)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐574)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐959)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -58,7 +58,7 @@
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐4.8k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐4.9k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

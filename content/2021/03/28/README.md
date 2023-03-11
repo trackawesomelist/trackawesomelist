@@ -29,11 +29,11 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-elements (⭐529)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
+*   [vue-stripe-elements (⭐530)](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
 
 ### Components & Libraries / Dev Tools
 
-*   [Volar (⭐4.2k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+*   [Volar (⭐4.3k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

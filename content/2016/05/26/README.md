@@ -28,7 +28,7 @@
 
 ### Samples
 
-*   [Stardust from Intel (⭐112)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐112)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐113)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐113)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -81,14 +81,14 @@
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐158)](https://github.com/atilaneves/reggae) - meta build system in D
-*   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐56)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [reggae (⭐160)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [Makefile (⭐21)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+*   [cmake-d (⭐59)](https://github.com/dcarp/cmake-d) - CMake D Projects
 
 ### Data serialization / XML
 
-*   [orange (⭐72)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
-*   [std.experimental.xml (⭐22)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
+*   [orange (⭐71)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+*   [std.experimental.xml (⭐21)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

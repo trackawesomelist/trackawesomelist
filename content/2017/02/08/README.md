@@ -52,7 +52,7 @@
 
 ### Game Frameworks / XML
 
-*   [Voxelman (⭐117)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+*   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

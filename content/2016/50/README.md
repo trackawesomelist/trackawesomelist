@@ -227,7 +227,7 @@
 
 ### Apps / Translations
 
-*   [wagtailtrans (⭐103)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+*   [wagtailtrans (⭐104)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -279,8 +279,8 @@
 
 ### Open Source Repos / Lambda
 
-*   [chalice :fire::fire::fire::fire::fire: (⭐9.3k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
-*   [kubek2k/lambdoku :fire::fire::fire: (⭐573)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
+*   [chalice :fire::fire::fire::fire::fire: (⭐9.6k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
+*   [kubek2k/lambdoku :fire::fire::fire: (⭐571)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
 *   [Miserlou/Zappa :fire::fire::fire::fire::fire: (⭐12k)](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
 
 ## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -444,7 +444,7 @@ git var -l | <variable>
 
 ### Subtitling
 
-*   [imscJS (⭐74)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+*   [imscJS (⭐75)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
 ## [46. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -457,7 +457,7 @@ git var -l | <variable>
 
 ### Tools and session management
 
-*   [tat (⭐36)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
+*   [tat (⭐37)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 
 ### Books / Development and testing
 

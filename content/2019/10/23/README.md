@@ -234,9 +234,9 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐54)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐59)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐40)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐41)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

@@ -34,9 +34,9 @@
 
 ### Scientific / XML
 
-*   [mir (⭐209)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-*   [mir-algorithm (⭐209)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
-*   [mir-random (⭐30)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
+*   [mir (⭐211)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+*   [mir-algorithm (⭐211)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+*   [mir-random (⭐31)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -189,7 +189,7 @@
 
 ### SDKs and Samples / Scala SDK
 
-*   [seratch/AWScala :fire::fire::fire: (⭐731)](https://github.com/seratch/AWScala)
+*   [seratch/AWScala :fire::fire::fire: (⭐740)](https://github.com/seratch/AWScala)
 
 ## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐3.6k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
+*   [pest-parser/pest (⭐3.7k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -500,12 +500,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐147)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐215)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [LeafPlayer (⭐148)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [JSON Editor (⭐217)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-intersect (⭐322)](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
+*   [vue-intersect (⭐321)](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
 
 ### Components & Libraries / Utilities
 

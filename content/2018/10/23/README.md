@@ -27,7 +27,7 @@
 
 ### Template Engine
 
-*   [RazorLight (⭐1.3k)](https://github.com/toddams/RazorLight) - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
+*   [RazorLight (⭐1.4k)](https://github.com/toddams/RazorLight) - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.1k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
 
 ---
 

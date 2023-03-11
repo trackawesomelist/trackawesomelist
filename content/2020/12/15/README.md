@@ -64,12 +64,12 @@
 
 ## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Blogs / Platform-specific tools
+### Blogs / Machine translation
 
 *   [Speakt](https://speakt.com/blog/) - Well-rounded resource, offering in-depth information from the best professionals in the industry on everything related to translation.
 *   [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
 
-### Online Courses / Platform-specific tools
+### Online Courses / Machine translation
 
 *   [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - English grammar course for beginners provided by the University of California.
 *   [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - English grammar course for people with experience provided by the University of California.
@@ -106,7 +106,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐179)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐181)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐478)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐481)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
 
 ---
 

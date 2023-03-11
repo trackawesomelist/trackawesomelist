@@ -34,7 +34,7 @@
 
 ### Functional
 
-*   [underscore (⭐80)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
+*   [underscore (⭐81)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
 
 ### Third-party APIs
 

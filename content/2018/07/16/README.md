@@ -72,7 +72,7 @@
 
 ### Text Processing / Language Processing
 
-*   [eBay's TSV utilities (⭐1.3k)](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
+*   [eBay's TSV utilities (⭐1.4k)](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
 
 ## [8. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 

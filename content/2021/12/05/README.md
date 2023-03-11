@@ -14,13 +14,9 @@
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
-### Getting Help
-
-*   [D on Discord](https://discord.gg/bMZk9Q4) - Another very active community for D conversations and question.
-
 ### Game Frameworks / XML
 
-*   [Dagon (⭐248)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
+*   [Dagon (⭐270)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

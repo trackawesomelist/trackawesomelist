@@ -44,7 +44,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Native script (⭐5k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
+*   [Native script (⭐5.1k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 *   [Vue Native (⭐8.3k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
 ## [6. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
@@ -57,7 +57,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-checkly (⭐40)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
+*   [terraform-provider-checkly (⭐41)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 

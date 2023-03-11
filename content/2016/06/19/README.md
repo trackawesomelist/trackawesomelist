@@ -40,7 +40,7 @@
 
 ### Open Source Repos / S3
 
-*   [sorentwo/carrierwave-aws :fire::fire: (⭐402)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
+*   [sorentwo/carrierwave-aws :fire::fire: (⭐408)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

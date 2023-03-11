@@ -32,7 +32,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐753)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐756)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -42,16 +42,16 @@
 
 ### DVB & WiFi
 
-*   [ts2mpa (⭐3)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
+*   [ts2mpa (⭐4)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
 
 ### Hybrid Radio
 
 *   [RadioDNS for Node.js (⭐6)](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
-*   [RadioVIS Stomp Server (⭐10)](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
+*   [RadioVIS Stomp Server (⭐11)](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
 
 ### Network & Storage Testing
 
-*   [Fio (⭐3.8k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐4k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)

@@ -96,7 +96,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [localstack/localstack :fire::fire::fire::fire::fire: (⭐44k)](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+*   [localstack/localstack :fire::fire::fire::fire::fire: (⭐46k)](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -110,7 +110,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Online books
+### Online Books
 
 *   [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming book at Wikibooks.
 *   [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95: The Craft of Object-Oriented Programming.

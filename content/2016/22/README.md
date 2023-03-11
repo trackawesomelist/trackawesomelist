@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30 - Jun 05, 2016
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -97,7 +97,17 @@
 
 *   [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+### HTML and CSS / Spock Framework
+
+*   [MaintainableCSS](http://maintainablecss.com)
+
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -114,19 +124,19 @@
 *   [Industrial Control System Security (⭐1.1k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 *   [Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence)
 
-## [8. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [9. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 
-## [9. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [10. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Discovery
 
 *   [Pursuit](https://pursuit.purescript.org/)
 
-## [10. Bots](/content/hackerkid/bots/week/README.md)
+## [11. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Platform Documentation
 
@@ -153,13 +163,13 @@
 
 *   [PHP (⭐2.5k)](https://github.com/irazasyed/telegram-bot-sdk)
 
-## [11. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [12. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [CapAnalysis](http://www.capanalysis.net/ca/) - CapAnalysis is a web visual tool for information security specialists, system administrators and everyone who needs to analyze large amounts of captured network traffic. A live web demo is [available](http://pcap.capanalysis.net/) for testing.
 
-## [12. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/week/README.md)
+## [13. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/week/README.md)
 
 ### Communities
 
@@ -180,7 +190,7 @@
 *   [TinkerPop Book](http://www.tinkerpopbook.com/) - A long promised book for Tinkeprop but never fulfilled until now. You cans till request a notification.
 *   [Linux Foundation Presentation](http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015TinkerPop3.pdf) - A presentation by Linux Foundation given by David Robinson at IBM aboit Apache TinkerPop3.
 
-## [13. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [14. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -222,7 +232,7 @@
 
 *   [Dropwizard internals](http://www.dropwizard.io/0.9.2/docs/manual/internals.html)
 
-## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [15. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Courses / Hash functions
 
@@ -249,7 +259,7 @@
 *   [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography.
 *   [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
@@ -261,19 +271,19 @@
 
 *   [AnyChart](http://www.anychart.com) - fast, simple and flexible JavaScript (HTML5) charting library featuring pure JS API.
 
-## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [17. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
 *   [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
-## [17. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [18. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Projects
 
 *   [tv-remote-cli (⭐28)](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
 
-## [18. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [19. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### SQL on Hadoop
 
@@ -290,32 +300,32 @@
 
 *   [Apache SINGA (incubating)](https://singa.incubator.apache.org/) - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
 
-## [19. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 
-## [20. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [21. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [framer-Firebase (⭐232)](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
 
-## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Data Structure and Storage
 
 *   [Knapsack (⭐540)](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 
-## [22. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [23. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Works with AVA
 
 *   [Spectron (⭐1.7k)](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
 *   [Chūhai (⭐88)](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
 
-## [23. Awesome Unicode](/content/jagracey/Awesome-Unicode/week/README.md)
+## [24. Awesome Unicode](/content/jagracey/Awesome-Unicode/week/README.md)
 
 ### Myths of Unicode
 
@@ -383,20 +393,20 @@
 *   [Version 4.0.1](http://www.unicode.org/versions/Unicode4.0.1/)
 *   [Version 4.0.0](http://www.unicode.org/versions/corrigendum5.html)
 
-## [24. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [25. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
-*   [Dota2 (⭐88)](https://github.com/ValveSoftware/Dota-2-Vulkan/) - by Valve.
+*   [Dota2 (⭐91)](https://github.com/ValveSoftware/Dota-2-Vulkan/) - by Valve.
 
-## [25. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [26. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Resources
 
 *   [lucee5-heroku (⭐9)](https://github.com/mikesprague/lucee5-heroku) - Application template for deploying Lucee 5 apps to Heroku by Mike Sprague
 *   [Vagrant LEMTL (⭐40)](https://github.com/mikesprague/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
 
-## [26. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [27. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -411,7 +421,7 @@
 
 *   [Capsule (⭐1.1k)](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
 
-## [27. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [28. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Libraries
 
@@ -438,7 +448,7 @@
 
 *   [Finessing \`feColorMatrix\`](http://alistapart.com/article/finessing-fecolormatrix)
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
@@ -476,7 +486,7 @@
 
 *   [SlideMenuControllerSwift (⭐3.3k)](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
 
-## [29. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [30. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -488,7 +498,7 @@ Run `brew install qlcolorcode` or [download manually (⭐608)](https://github.co
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
-## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [31. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / P companies
 
@@ -506,7 +516,7 @@ Run `brew install qlcolorcode` or [download manually (⭐608)](https://github.co
 
 *   T.J. Maher <http://adventuresinautomation.blogspot.com/>
 
-## [31. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [32. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
@@ -515,7 +525,7 @@ Run `brew install qlcolorcode` or [download manually (⭐608)](https://github.co
 *   [d3-ring-note (⭐110)](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 *   [swoopyarrows (⭐102)](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows
 
-## [32. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [33. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Video
 
@@ -546,19 +556,19 @@ Run `brew install qlcolorcode` or [download manually (⭐608)](https://github.co
 *   [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 *   [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
 *   [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. \[MIT]
 
-## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Method-specific
 
 *   *[Handbook of Graph Drawing and Visualization](https://www.crcpress.com/Handbook-of-Graph-Drawing-and-Visualization/Tamassia/9781584884125)*, edited by Roberto Tamassia ([chapter proofs](https://cs.brown.edu/\~rt/gdhandbook/); 2013).
 
-## [35. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [36. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 

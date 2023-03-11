@@ -58,7 +58,7 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐6.1k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐6.3k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [apex/apex  (⭐23)](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
+*   [apex/apex  (⭐25)](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 
 ## [2. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐20)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐22)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

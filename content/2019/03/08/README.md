@@ -105,13 +105,13 @@
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [ClashX (⭐23k)](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClashX (⭐23k)](https://github.com/yichengchen/clashX) - A rule-based proxy for Mac based on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
-*   [sparkleformation/sparkle\_formation :fire::fire: (⭐223)](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
+*   [sparkleformation/sparkle\_formation :fire::fire: (⭐221)](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
 
 ---
 

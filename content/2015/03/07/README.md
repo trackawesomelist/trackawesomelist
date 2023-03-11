@@ -17,7 +17,7 @@
 
 ### Coding Style Guides
 
-*   [fast-ruby (⭐5.4k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [fast-ruby (⭐5.5k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

@@ -89,7 +89,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [sparkleformation/sfn (⭐62)](https://github.com/sparkleformation/sfn) - CLI for stack management.
+*   [sparkleformation/sfn (⭐63)](https://github.com/sparkleformation/sfn) - CLI for stack management.
 
 ## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

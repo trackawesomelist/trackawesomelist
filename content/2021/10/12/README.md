@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,13 @@
 
 *   [Pandan](https://sindresorhus.com/pandan) - Time awareness in your menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1569600264)
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Forth / Phoenix
+
+*   [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
+
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Market Analysis
 
@@ -43,7 +49,7 @@
     *   [Gartner Magic Quadrant for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/397953)
     *   [The Forrester Wave: Enterprise iPaaS](https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201)
 
-## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [7. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Imgur
 
@@ -52,13 +58,13 @@
     *   Example album on Imgur.com: <https://imgur.com/a/GD6p5Fi>
     *   Same album on Imgin: <https://imgin.voidnet.tech/a/GD6p5Fi>
 
-## [7. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [8. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leaving a Team](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leaving-a-Team.md)
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
@@ -68,7 +74,7 @@
 
 *   [Blazor File Drop Zone (⭐11)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 
@@ -79,25 +85,25 @@
 *   [Pravatar](https://pravatar.cc/) - Generate random/placeholder fake avatar, which url can be directly hotlinked in your web/app.
 *   [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. Which the urls can be directly hotlinked in your web/app. Support config parameters via the url.
 
-## [10. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [11. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 
-## [11. Awesome React](/content/enaqx/awesome-react/README.md)
+## [12. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Development Tools
 
 *   [react-scanner (⭐444)](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-shared-modules (⭐18)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
+*   [vite-plugin-shared-modules (⭐19)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
-## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / OpenSUSE / SUSE Enterprise Linux
 
@@ -105,7 +111,7 @@
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-153/9n6j06bmcgt3) for OpenSUSE Leap 15.3.
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h) for OpenSUSE Leap 15.2.
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 

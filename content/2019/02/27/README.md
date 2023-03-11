@@ -216,11 +216,11 @@
 
 ### Metadata
 
-*   [libadm (⭐25)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+*   [libadm (⭐26)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 
 ### Multimedia content processing
 
-*   [libbw64 (⭐17)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+*   [libbw64 (⭐19)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 
 ## [11. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -297,12 +297,12 @@
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.4k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    *   [Protips (⭐24k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐5.8k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Protips (⭐25k)](https://github.com/AllThingsSmitty/css-protips#readme)
+    *   [Frameworks (⭐5.9k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.2k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [PICO-8 (⭐2.3k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 
 ## [15. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Accompanying Repos
 
-*   [aws-spot-labs :fire::fire::fire: (⭐864)](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
+*   [aws-spot-labs :fire::fire::fire: (⭐885)](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
 
 ## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -40,37 +40,31 @@
 *   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
 
-## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-### Miscellaneous / Mouse Events
-
-*   [react-find](https://github.com/geobde/react-find) - Elegant, accessible search component for React.
-
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
 *   [Catalyst (⭐424)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
-## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Metadata
 
-*   [libklvanc (⭐48)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
+*   [libklvanc (⭐50)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
 
-## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Objective-C
 
 *   [*Objective-C for Absolute Beginners* by Gary Bennett, Mitchell Fisher, Brad Lees](https://www.amazon.com/Objective-C-Absolute-Beginners-iPhone-Programming/dp/1430236531)
 
-## [9. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Client libraries / Rust
 
 *   [WavesRS (⭐0)](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
 
-## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [9. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
@@ -124,6 +118,17 @@
 ### Get Feedback
 
 *   [feedmereadmes (⭐1.1k)](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Elixir / Non-X86
+
+*   [Elixir Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/elixir-succinctly) (PDF, Kindle) (email address requested, not required)
+
+### Flutter / Phoenix
+
+*   [Cookbook](https://flutter.dev/docs/cookbook)
+*   [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 
 ## [11. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -187,11 +192,11 @@
 
 ### Contents / Games
 
-*   [Pokedex (⭐1.8k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
+*   [Pokedex (⭐1.9k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
 
 ### Contents / Travel
 
-*   [Flight search (⭐803)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
+*   [Flight search (⭐813)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
 
 ## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

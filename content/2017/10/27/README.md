@@ -220,7 +220,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-client-ruby :fire: (⭐143)](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
+*   [amazon-kinesis-client-ruby :fire: (⭐144)](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
 
 ---
 

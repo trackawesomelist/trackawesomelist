@@ -141,7 +141,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-titan-storage-backend :fire::fire: (⭐443)](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
+*   [dynamodb-titan-storage-backend :fire::fire: (⭐442)](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -224,10 +224,6 @@
 *   [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
-
-### In English
-
-*   [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 
 ### In Portuguese
 
@@ -363,13 +359,14 @@
 
 ### Podcasts / Other
 
+*   [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 *   [MaximAbramchuck/awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
-*   [μMongo (⭐429)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+*   [μMongo (⭐432)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ## [28. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -575,11 +572,11 @@
 
 ### Apps / Forms
 
-*   [Wagtail ReCaptcha (⭐50)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐875)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+*   [Wagtail ReCaptcha (⭐50)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐881)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Apps / Misc
 
-*   [wagtailmenus (⭐347)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+*   [wagtailmenus (⭐350)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 
 ### Resources / Presentations
 

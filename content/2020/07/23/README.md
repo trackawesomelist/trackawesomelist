@@ -81,7 +81,7 @@
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [AVML (⭐617)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
+*   [AVML (⭐621)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

@@ -39,7 +39,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-titan-storage-backend :fire::fire: (⭐443)](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
+*   [dynamodb-titan-storage-backend :fire::fire: (⭐442)](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
 
 ## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 

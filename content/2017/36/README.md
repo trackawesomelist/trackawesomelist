@@ -115,7 +115,7 @@
 
 ### Multimedia content processing
 
-*   [Dynamorse (⭐43)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
+*   [Dynamorse (⭐45)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 
 ## [15. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
@@ -279,7 +279,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐353)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐352)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ### Components & Libraries / UI Utilities
 
@@ -367,7 +367,7 @@ Webpage: <https://www.facebook.com/cafelinne/>
 
 ### Example Projects
 
-*   [Monitor your keycloak with prometheus (⭐64)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
+*   [Monitor your keycloak with prometheus (⭐65)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
 *   [Custom User Storage Provider .ear with jboss-cli setup (⭐86)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
 
 ---

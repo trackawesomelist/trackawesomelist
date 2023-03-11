@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -49,19 +49,26 @@
 *   [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 *   [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 
-## [5. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Django
+
+*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
+*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
+
+## [6. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Learn / Documentation
 
 *   [cycle.js.org](http://cycle.js.org/) - Cycle.js official tutorial and documentation.
 
-## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [7. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Data Ingestion and Integration
 
 *   [Gobblin from LinkedIn (⭐2.1k)](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop
 
-## [7. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [8. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Websites
 

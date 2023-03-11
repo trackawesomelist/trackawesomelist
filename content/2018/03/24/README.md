@@ -23,7 +23,7 @@
 ### IR Tools Collection / Adversary Emulation
 
 *   [AutoTTP (⭐231)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
-*   [Red Team Automation (RTA) (⭐942)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
+*   [Red Team Automation (RTA) (⭐950)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
 
 ## [4. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

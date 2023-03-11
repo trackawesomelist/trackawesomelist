@@ -22,7 +22,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [kinesis-storm-spout :fire: (⭐106)](https://github.com/awslabs/kinesis-storm-spout) - Spout for Storm.
+*   [kinesis-storm-spout :fire: (⭐107)](https://github.com/awslabs/kinesis-storm-spout) - Spout for Storm.
 
 ## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

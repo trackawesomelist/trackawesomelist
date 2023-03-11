@@ -17,7 +17,7 @@
 
 ### Official
 
-*   [Apphud (⭐144)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+*   [Apphud (⭐145)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
 ## [3. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -229,7 +229,7 @@
 
 ### Applications / Database
 
-*   [Materialize (⭐4.8k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/tests)
+*   [Materialize (⭐4.9k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/tests)
 
 ## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -252,7 +252,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [nbdev (⭐4k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+*   [nbdev (⭐4.1k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
 ## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -383,7 +383,7 @@
 
 ### Image Processing
 
-*   [ImageProcessing (⭐747)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐754)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [22. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -480,7 +480,7 @@
 
 ### Automation / Conversion
 
-*   [swaggerjmx (⭐92)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
+*   [swaggerjmx (⭐94)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
 ## [34. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -591,11 +591,11 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [aws-dynamodb-examples :fire::fire: (⭐439)](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
+*   [aws-dynamodb-examples :fire::fire: (⭐465)](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
 
 ### Open Source Repos / Security
 
-*   [salesforce/policy\_sentry :fire::fire::fire::fire: (⭐1.7k)](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
+*   [salesforce/policy\_sentry :fire::fire::fire::fire: (⭐1.8k)](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
 
 ## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -639,7 +639,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [oruga (⭐908)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+*   [oruga (⭐931)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 
 ### Components & Libraries / UI Utilities
 
@@ -691,7 +691,7 @@
 
 ### Python Libraries
 
-*   [bitcoin\_tools (⭐242)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
+*   [bitcoin\_tools (⭐247)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 *   [oogway (⭐10)](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
 ## [51. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)

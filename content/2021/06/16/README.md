@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweet-calendar (⭐35)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
+*   [vue-sweet-calendar (⭐34)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
 
 ## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Boilerplate / Other Tools
 
-*   [openapi-python-client (⭐495)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
+*   [openapi-python-client (⭐603)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 
 ## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐109)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐112)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

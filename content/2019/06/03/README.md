@@ -157,7 +157,7 @@
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐157)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐158)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

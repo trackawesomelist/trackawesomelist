@@ -28,7 +28,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐670)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐676)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -43,10 +43,6 @@
 ### System Modeling / MIT
 
 *   [ada-fuzzy (⭐3)](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
-
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
-
-*   [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -64,7 +60,7 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -285,7 +281,7 @@ Topics: Standards, Web Assembly\
 
 ### Open Source Repos / Accompanying Repos
 
-*   [aws-arch-backoff-simulator :fire: (⭐214)](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
+*   [aws-arch-backoff-simulator :fire: (⭐220)](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
 
 ## [30. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
@@ -1272,7 +1268,7 @@ Topics: Standards, Web Assembly\
 
 ### Database
 
-*   [SOCI (⭐1.2k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[BSL-1.0]
+*   [SOCI (⭐1.2k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[Boost]
 
 ### Serialization
 

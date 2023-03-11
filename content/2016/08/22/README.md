@@ -10,7 +10,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [SwiftLearner (⭐38)](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
+*   [SwiftLearner (⭐39)](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
 
 ## [2. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 

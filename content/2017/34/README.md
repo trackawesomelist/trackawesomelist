@@ -68,7 +68,7 @@
 
 ### OS / XML
 
-*   [XOmB (⭐331)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+*   [XOmB (⭐332)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [peterkh/cumulus :fire::fire: (⭐205)](https://github.com/peterkh/cumulus) - Manages stacks.
+*   [peterkh/cumulus :fire::fire: (⭐206)](https://github.com/peterkh/cumulus) - Manages stacks.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐340)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐348)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -474,7 +474,7 @@
 
 ### Email
 
-*   [Maily (⭐683)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐685)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### File Upload
 
@@ -487,7 +487,7 @@
 
 ### Profiler and Optimization
 
-*   [batch-loader (⭐959)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+*   [batch-loader (⭐964)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
 ## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 

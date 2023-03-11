@@ -206,7 +206,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [aws-dynamodb-encryption-java :fire: (⭐133)](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java.
+*   [aws-dynamodb-encryption-java :fire: (⭐134)](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java.
 
 ### Open Source Repos / S3
 

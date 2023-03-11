@@ -10,7 +10,7 @@
 
 ### Open Source Repos / CLI
 
-*   [awscli-aliases :fire::fire: (⭐407)](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
+*   [awscli-aliases :fire::fire: (⭐425)](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
 
 ## [2. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 

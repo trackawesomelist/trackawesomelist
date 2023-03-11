@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 21, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -73,12 +73,6 @@
 ### On-line courses / Ruby
 
 *   [Planetizen "Building a Transit Map Web App" course](https://courses.planetizen.com/course/building-transit-map-app) - A video tutorial on setting up your own web-based mapping application, with no coding experience required.
-
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-### Overlay
-
-*   [reboron (⭐29)](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 
 ---
 

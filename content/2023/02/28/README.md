@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 28, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -92,20 +92,7 @@
 
 *   [NetNewsWire (⭐6.6k)](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐186)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-
-## [12. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [11. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Education & Learning
 
@@ -123,33 +110,33 @@
 
 - Name: [Eightify](https://eightify.app/)
 
-  Title: Get 8 key ideas from YouTube videos
+  Title: Get 8 Key Ideas From YouTube Videos.
 
-  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages
+  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.
 
   Offer Free Version: :white\_check\_mark:
 
 
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
 
-## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Command palette
 
 *   [kbar (⭐3.8k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
-## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Women in Analytics After Hours](https://www.womeninanalytics.com/podcast) - Connects with women in all areas of data and analytics to talk about what they do in the space, how they got there, and more.
 
-## [16. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / C/C++
 
@@ -158,4 +145,5 @@
 
 ---
 
+- Prev: [Mar 01, 2023](/content/2023/03/01/README.md)
 - Next: [Feb 27, 2023](/content/2023/02/27/README.md)

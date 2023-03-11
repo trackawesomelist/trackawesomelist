@@ -45,7 +45,7 @@
 
 ### Applications / Cryptocurrencies
 
-*   [tendermint-rs (⭐462)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐464)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [OMX: The Open Matrix data file format (⭐41)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
+*   [OMX: The Open Matrix data file format (⭐42)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
 
 ## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

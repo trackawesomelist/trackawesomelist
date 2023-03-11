@@ -70,7 +70,7 @@ Language: English
 
 ### Linter
 
-*   [AnyLint (⭐117)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐118)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 

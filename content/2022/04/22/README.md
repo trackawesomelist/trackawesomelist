@@ -63,7 +63,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [sensedeep/dynamodb-onetable :fire::fire: (⭐472)](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB library for single table designs using NodeJS.
+*   [sensedeep/dynamodb-onetable :fire::fire: (⭐537)](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB library for single table designs using NodeJS.
 
 ## [9. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

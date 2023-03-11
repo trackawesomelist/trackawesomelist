@@ -72,7 +72,7 @@
 
 ### Audio
 
-*   [Verovio (⭐526)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐531)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -86,10 +86,6 @@
 *   [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 
 ## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
-
-### Apps / StreamField
-
-*   [Wagtail UI Plus (⭐52)](https://github.com/davidcondenl/wagtailuiplus) - Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks.
 
 ### Apps / Misc
 

@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Security
 
-*   [AdRoll/hologram :fire::fire::fire: (⭐773)](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
+*   [AdRoll/hologram :fire::fire::fire: (⭐783)](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
 
 ## [2. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

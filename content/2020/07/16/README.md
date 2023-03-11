@@ -10,7 +10,7 @@
 
 ### Packages / Middleware
 
-*   [Livy (⭐715)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
+*   [Livy (⭐745)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -120,7 +120,7 @@ git switch -c <branch-name>
 
 ### Open Source Repos / Cognito
 
-*   [rahulpsd18/cognito-backup-restore :fire: (⭐181)](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
+*   [rahulpsd18/cognito-backup-restore :fire: (⭐184)](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
 
 ---
 

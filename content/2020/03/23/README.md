@@ -22,7 +22,7 @@
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐38)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐40)](https://github.com/Blazemeter/HLSPlugin)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐35k)](https://github.com/gorhill/uBlock)
 
 ## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐197)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

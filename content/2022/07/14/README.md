@@ -66,7 +66,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-ml-benchmarks (⭐25)](https://github.com/nikolaydubina/go-ml-benchmarks) — benchmarks of machine learning inference for Go.
+*   [go-ml-benchmarks (⭐26)](https://github.com/nikolaydubina/go-ml-benchmarks) — benchmarks of machine learning inference for Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -79,7 +79,7 @@
 
 ### JavaScript / Natural Language Processing
 
-*   [nlp.js (⭐5.3k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
+*   [nlp.js (⭐5.4k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -87,7 +87,7 @@
 
 ### Julia / General-Purpose Machine Learning
 
-*   [MLJ (⭐1.5k)](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
+*   [MLJ (⭐1.6k)](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐46)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐50)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

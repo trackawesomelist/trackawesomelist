@@ -46,17 +46,17 @@
 
 ### Apps / Misc
 
-*   [Wagtail Transfer (⭐71)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
+*   [Wagtail Transfer (⭐73)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
-*   [logstash-input-dynamodb :fire: (⭐104)](https://github.com/awslabs/logstash-input-dynamodb) - Logstash input plugin.
+*   [logstash-input-dynamodb :fire: (⭐105)](https://github.com/awslabs/logstash-input-dynamodb) - Logstash input plugin.
 
 ### Open Source Repos / Security
 
-*   [bridgecrewio/checkov :fire::fire::fire::fire::fire: (⭐4.8k)](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
+*   [bridgecrewio/checkov :fire::fire::fire::fire::fire: (⭐5.3k)](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### SDKs and Samples / Ruby SDK
 
-*   [aws-sdk-rails :fire::fire: (⭐512)](https://github.com/aws/aws-sdk-rails)
+*   [aws-sdk-rails :fire::fire: (⭐534)](https://github.com/aws/aws-sdk-rails)
 
 ## [3. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 

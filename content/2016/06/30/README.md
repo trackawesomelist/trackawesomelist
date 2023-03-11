@@ -64,7 +64,7 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 ### SDKs and Samples / Clojure SDK
 
-*   [Repo :fire::fire::fire: (⭐968)](https://github.com/mcohen01/amazonica)
+*   [Repo :fire::fire::fire: (⭐980)](https://github.com/mcohen01/amazonica)
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Introducing people to data security and cryptography / Brief introductions
 
-*   [Using Encryption for Authentication in Large Networks](http://inst.eecs.berkeley.edu/\~cs268/sp02/cached_papers/needham.pdf) - By Needham, Schroeder: this is were crypto-based auth starts.
+*   [Using Encryption for Authentication in Large Networks](http://inst.eecs.berkeley.edu/~cs268/sp02/cached_papers/needham.pdf) - By Needham, Schroeder: this is were crypto-based auth starts.
 
 ### Introducing people to data security and cryptography / General cryptographic interest
 
@@ -45,7 +45,7 @@
 *   [List of proposed operation modes of AES](http://csrc.nist.gov/groups/ST/toolkit/BCM/modes_development.html) - Maintained by NIST.
 *   [Stick figure guide to AES](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html) - If stuff above was a bit hard or you're looking for a good laugh.
 *   [Cache timing attacks on AES](http://cr.yp.to/antiforgery/cachetiming-20050414.pdf) - Example of designing great practical attack on cipher implementation, by Daniel J. Bernstein.
-*   [Cache Attacks and Countermeasures: the Case of AES](http://cs.tau.ac.il/\~tromer/papers/cache.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
+*   [Cache Attacks and Countermeasures: the Case of AES](http://cs.tau.ac.il/~tromer/papers/cache.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
 *   [Salsa20 family of stream ciphers](https://cr.yp.to/snuffle/salsafamily-20071225.pdf) - Broad explanation of Salsa20 security cipher by Daniel J. Bernstein.
 *   [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.
 
@@ -56,12 +56,12 @@
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [New Directions in Cryptography](https://www-ee.stanford.edu/\~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
+*   [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
 *   [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - An explanation of the Diffie-Hellman methon in more engineering terms.
 *   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf) -  Original paper introducing RSA algorithm.
 *   [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - Rather education explanation of every bit behind RSA.
 *   [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
-*   [Remote timing attacks are practical](http://crypto.stanford.edu/\~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
+*   [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
 *   [The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited](https://eprint.iacr.org/2005/307.pdf) - by K. Bentahar.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
@@ -69,13 +69,13 @@
 *   [Elliptic Curve Cryptography: the serpentine course of a paradigm shift](http://eprint.iacr.org/2008/390.pdf) - Historic inquiry into development of ECC and it's adoption.
 *   [Let's construct an elliptic curve: Introducing Crackpot2065](http://blog.bjrn.se/2015/07/lets-construct-elliptic-curve.html) - Fine example of building up ECC from scratch.
 *   [Explicit-Formulas Database](http://www.hyperelliptic.org/EFD/) - For many elliptic curve representation forms.
-*   [Software implementation of the NIST elliptic curves over prime fields](http://delta.cs.cinvestav.mx/\~francisco/arith/julio.pdf) - Pracitcal example of implementing elliptic curve crypto, by M. Brown et al.
+*   [Software implementation of the NIST elliptic curves over prime fields](http://delta.cs.cinvestav.mx/~francisco/arith/julio.pdf) - Pracitcal example of implementing elliptic curve crypto, by M. Brown et al.
 *   [High-speed high-security signatures](https://ed25519.cr.yp.to/ed25519-20110926.pdf) - Seminal paper on EdDSA signatures on ed25519 curve by Daniel J. Bernstein et al.
 
 ### Specific topics / Zero Knowledge Proofs
 
-*   [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/\~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
-*   [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/\~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - By Goldreich,  Micali and Wigderson, a relative to the above.
+*   [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
+*   [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - By Goldreich,  Micali and Wigderson, a relative to the above.
 *   [A Survey of Zero-Knowledge Proofs with Applications to Cryptography](http://www.austinmohr.com/work/files/zkp.pdf) - Great intro on original ZKP protocols.
 
 ### Specific topics / Key Management
@@ -89,7 +89,7 @@
 ### Books / Post-quantum cryptography
 
 *   [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
-*   [The joy of Cryptography](http://web.engr.oregonstate.edu/\~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
+*   [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 *   [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography.
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
@@ -156,7 +156,7 @@
 
 ### Open Source Repos / Accompanying Repos
 
-*   [aws-big-data-blog :fire::fire::fire: (⭐882)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
+*   [aws-big-data-blog :fire::fire::fire: (⭐891)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

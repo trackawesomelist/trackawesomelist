@@ -71,7 +71,7 @@
 
 ### Debug
 
-*   [μt (⭐981)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
+*   [μt (⭐991)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework \[Boost]
 
 ## [8. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -180,15 +180,15 @@
 ### Dev Tools / Bare metal / kernel development
 
 *   [D-Scanner (⭐235)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
-*   [dfmt (⭐185)](https://github.com/dlang-community/dfmt) - formatter for D source code
+*   [dfmt (⭐189)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ### IDEs & Editors / Bare metal / kernel development
 
-*   [Dutyl (⭐80)](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
+*   [Dutyl (⭐79)](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [dlang-requests (⭐138)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
+*   [dlang-requests (⭐145)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
 ## [21. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
@@ -235,10 +235,6 @@
 *   [subreddit-ada](https://www.reddit.com/r/ada/) - Ada at Reddit.
 *   [subreddit-spark](https://www.reddit.com/r/spark/) - Spark at Reddit.
 *   [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
-
-### Sound / MIT
-
-*   [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 
 ## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -290,7 +286,7 @@
 
 ### Software / Pastebins
 
-*   [snipt (⭐66)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
+*   [snipt (⭐67)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 
 ## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -443,7 +439,7 @@
 
 ### Mobile
 
-*   [jonathan (⭐153)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
+*   [jonathan (⭐154)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
 
 ### Community
 
@@ -459,7 +455,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐64)](https://github.com/braintree/restricted-input)
+*   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐63)](https://github.com/braintree/restricted-input)
 
 ## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -474,11 +470,11 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐195)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐199)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ### Health and Social Science
 
-*   [Digital History (⭐164)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐165)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [46. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 

@@ -86,7 +86,7 @@
 
 ### SDKs and Samples / JavaScript SDK
 
-*   [Repo with Samples :fire::fire: (⭐296)](https://github.com/awslabs/aws-nodejs-sample)
+*   [Repo with Samples :fire::fire: (⭐298)](https://github.com/awslabs/aws-nodejs-sample)
 
 ---
 

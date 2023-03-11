@@ -328,13 +328,13 @@
 
 ### Open Source Repos / S3
 
-*   [sorentwo/carrierwave-aws :fire::fire: (⭐402)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
+*   [sorentwo/carrierwave-aws :fire::fire: (⭐408)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [convox/rack :fire::fire::fire::fire: (⭐1.9k)](https://github.com/convox/rack) - Open-source PaaS on AWS.
-*   [Netflix/aminator :fire::fire::fire: (⭐931)](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
-*   [Spinnaker/spinnaker :fire::fire::fire::fire::fire: (⭐8.7k)](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
+*   [Netflix/aminator :fire::fire::fire: (⭐934)](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
+*   [Spinnaker/spinnaker :fire::fire::fire::fire::fire: (⭐8.8k)](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 
 ## [25. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

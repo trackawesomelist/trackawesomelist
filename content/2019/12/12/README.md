@@ -22,7 +22,7 @@
 
 ### Front-End Development
 
-*   [Seed (⭐191)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+*   [Seed (⭐192)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
 ## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 06, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Themes
 
-*   [tmux-gruvbox (⭐347)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
+*   [tmux-gruvbox (⭐367)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -40,31 +40,37 @@
 
 *   [How to Make Keycloak Start Up Faster When There Are a Lot of Offline Sessions](https://medium.com/swlh/how-to-make-keycloak-start-up-faster-when-there-are-a-lot-of-offline-sessions-78ee49a907cb)
 
-## [6. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
+
+## [7. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Governance
 
 *   [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478) 🎓
 
-## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Game Engine Bindings / XML
 
-*   [Godot-D (⭐190)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+*   [Godot-D (⭐195)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Machine Learning / Runner
 
 *   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Java / Deep Learning
 
 *   [deepjavalibrary/djl (⭐3k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Source Code Repos
 
@@ -97,7 +103,7 @@
 
 *   [GoatCounter](https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.
 *   [Expensify](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
-*   [Keen](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
+*   [Keen](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 1,000 events/month free
 *   [Yandex.Metrica](https://metrica.yandex.com/) — Unlimited free analytics
 *   [Mixpanel](https://mixpanel.com/) — 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency
 
@@ -133,30 +139,30 @@
 
 *   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 
-## [11. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [12. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / General Purpose Libraries
 
-*   [Joblib Apache Spark Backend (⭐211)](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
+*   [Joblib Apache Spark Backend (⭐217)](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
 
 ### Packages / Storage
 
 *   [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Integration with the lakeFS atomic versioned storage layer.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Reactive Programming
 
 *   [ObsevableComputations (⭐94)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vueuse (⭐14k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
-*   [localize-vue-2x (⭐1)](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
+*   [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 
-## [14. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 

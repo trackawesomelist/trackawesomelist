@@ -37,7 +37,7 @@
 
 ### Metadata
 
-*   [MAJ API (⭐14)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
+*   [MAJ API (⭐15)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Resources / Docker Images
 
-*   [jupyter/docker-stacks/pyspark-notebook (⭐6.9k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
+*   [jupyter/docker-stacks/pyspark-notebook (⭐7.1k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 
 ---
 

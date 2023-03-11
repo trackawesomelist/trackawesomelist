@@ -52,7 +52,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Netflix/aminator :fire::fire::fire: (⭐931)](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
+*   [Netflix/aminator :fire::fire::fire: (⭐934)](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
 
 ## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 

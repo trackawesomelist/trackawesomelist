@@ -16,7 +16,7 @@
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐441)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐451)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -80,7 +80,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐328)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐332)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [hami-vuex (⭐20)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
+*   [hami-vuex (⭐21)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
 
 ## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -116,11 +116,11 @@
 
 *   [OpenOwnership Register](https://register.openownership.org/)
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### SVG / Barcode
+### Other Parsing
 
-*   [SVGView (⭐294)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐305)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Logging
 
-*   [ULogViewer (⭐82)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐90)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ## [17. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

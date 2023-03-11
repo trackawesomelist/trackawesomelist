@@ -16,7 +16,7 @@
 
 ### Software / Search Engines
 
-*   [sist2 (⭐506)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
+*   [sist2 (⭐515)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐92)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐95)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -131,7 +131,7 @@
 
 *   [asm-cli-rust (⭐246)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
 *   [denoland/deno (⭐88k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐374)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [kytan (⭐379)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.7k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 *   [rx (⭐2.6k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 

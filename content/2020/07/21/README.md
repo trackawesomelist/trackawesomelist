@@ -72,7 +72,7 @@
 
 ### Tools
 
-*   [WebStation SYSMON (⭐180)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
+*   [WebStation SYSMON (⭐181)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -128,7 +128,7 @@
 ### Simulators / Object detection and object tracking
 
 *   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
-    *   [GitHub repository :octocat: (⭐989)](https://github.com/osrf/gazebo)
+    *   [GitHub repository :octocat: (⭐996)](https://github.com/osrf/gazebo)
 
 ## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

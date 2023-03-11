@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -89,17 +89,7 @@
 
 *   [M31.FluentAPI (⭐21)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐2)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -117,19 +107,19 @@
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 
-## [14. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Converters / Ruby
 
 *   [gtfs2emis (⭐21)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 
-## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [tmux-nerd-font-window-name (⭐11)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 
-## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -137,4 +127,5 @@
 
 ---
 
+- Prev: [Mar 04, 2023](/content/2023/03/04/README.md)
 - Next: [Mar 02, 2023](/content/2023/03/02/README.md)

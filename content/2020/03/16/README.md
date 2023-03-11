@@ -36,7 +36,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-dream (⭐121)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
+*   [neural-dream (⭐122)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

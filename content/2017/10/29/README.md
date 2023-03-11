@@ -64,7 +64,7 @@
 
 ### Open Source Repos / Security
 
-*   [trailofbits/algo :fire::fire::fire::fire::fire: (⭐26k)](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
+*   [trailofbits/algo :fire::fire::fire::fire::fire: (⭐27k)](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 
 ## [5. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

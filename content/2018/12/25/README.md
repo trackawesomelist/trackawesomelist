@@ -967,7 +967,7 @@
 
 ### Database
 
-*   [SOCI (⭐1.2k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[BSL-1.0]
+*   [SOCI (⭐1.2k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[Boost]
 
 ---
 

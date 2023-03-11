@@ -46,7 +46,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-layout-system (⭐33)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+*   [vue-layout-system (⭐34)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
 ## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

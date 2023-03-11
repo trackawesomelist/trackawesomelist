@@ -336,7 +336,7 @@
 
 ## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Other / Platform-specific tools
+### Other / Machine translation
 
 *   [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
 

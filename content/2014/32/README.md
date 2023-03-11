@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 11 - Aug 17, 2014
 
-16 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,7 +31,14 @@
 *   [Regression Analysis Refcard](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) - R Reference Card for Regression Analysis.
 *   [Reference Card for ESS](http://ess.r-project.org/refcard.pdf) - Reference Card for ESS.
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
+*   [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
+
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Streams
 
@@ -52,13 +59,13 @@
 
 *   [strip-bom (⭐102)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 
-## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [6. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Tools / Coverage
 
 *   [App::Ack](https://metacpan.org/pod/App::Ack) - ack is a tool like grep, optimized for programmers.
 
-## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key Map Data Model
 
@@ -70,13 +77,13 @@
 *   [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
 *   [MonetDB](https://www.monetdb.org/) - column store database.
 
-## [7. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [8. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / Client Side Profile
 
 *   [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
-## [8. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
+## [9. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
 ### Clojure
 
@@ -138,25 +145,25 @@
 
 *   [BlinkDB (⭐646)](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data \[website]	(<http://blinkdb.cs.berkeley.edu/>)
 
-## [9. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [10. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Polyfills / Brunch Plugins
 
 *   [`Number.isFinite`](https://github.com/sindresorhus/is-finite)
 
-## [10. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [11. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Integrated Development Environment / Web
 
 *   [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Queue
 
-*   [Hangfire (⭐8k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
+*   [Hangfire (⭐8.1k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 
-## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Metaprogramming
 
@@ -166,7 +173,7 @@
     *   [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
     *   [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
-## [13. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [14. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Boxes
 
@@ -212,7 +219,7 @@
 *   [Laravel4-Vagrant (⭐488)](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 *   [OpenStack on Ansible with Vagrant (⭐219)](https://github.com/openstack-ansible/openstack-ansible).
 
-## [14. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -224,11 +231,11 @@
 
 ### Command Line / XML
 
-*   [terminal.d (⭐470)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐470)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
+*   [terminal.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐481)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 
 ### Game Frameworks / XML
 
-*   [DGame (⭐86)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+*   [DGame (⭐84)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 
 ### Games / XML
 
@@ -236,20 +243,20 @@
 
 ### Image Processing / XML
 
-*   [ArmageddonEngine (⭐167)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
+*   [ArmageddonEngine (⭐168)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 *   [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
 
 ### Configuration / Language Processing
 
-*   [sdlang (⭐111)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+*   [sdlang (⭐112)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Coding Style
 
 *   [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 

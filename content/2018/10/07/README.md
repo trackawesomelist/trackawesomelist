@@ -55,7 +55,7 @@
 
 ### Bindings
 
-*   [libvulkan.lua (⭐44)](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Lua bindings for Vulkan.
+*   [libvulkan.lua (⭐46)](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Lua bindings for Vulkan.
 
 ## [6. Awesome C](/content/inputsh/awesome-c/README.md)
 

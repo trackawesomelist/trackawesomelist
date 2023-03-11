@@ -18,7 +18,7 @@
 
 ### Front-End Development
 
-*   [Angular (⭐8.7k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Angular (⭐8.8k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 
 ### Back-End Development
 
@@ -30,7 +30,7 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐240)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐242)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.7k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)

@@ -48,7 +48,7 @@
 
 ### Database
 
-*   [Streamstone (⭐357)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐358)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ---
 

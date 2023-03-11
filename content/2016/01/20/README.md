@@ -506,8 +506,8 @@
 
 ### Scientific / XML
 
-*   [scid (⭐83)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
-*   [dstats (⭐24)](https://github.com/DlangScience/dstats) -  A statistics library for D.
+*   [scid (⭐84)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+*   [dstats (⭐25)](https://github.com/DlangScience/dstats) -  A statistics library for D.
 
 ---
 

@@ -201,7 +201,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐334)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐355)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
@@ -331,7 +331,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / DSL
 
-*   [Ruby-JMeter (⭐745)](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
+*   [Ruby-JMeter (⭐744)](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
@@ -432,6 +432,7 @@ A collection of resources covering different aspects of JMeter usage.
         *   [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
         *   [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
         *   [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
+        *   [jmeter-ecs (⭐41)](https://github.com/smithmicro/jmeter-ecs) - JMeter docker image for distributed testing on EC2 Container Service (ECS).
     *   DigitalOcean
         *   [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using DigitalOcean, JMeter and Docker.
     *   Microsoft Azure
@@ -567,7 +568,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.2k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.3k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 

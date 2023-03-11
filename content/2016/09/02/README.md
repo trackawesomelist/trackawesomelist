@@ -16,7 +16,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐375)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐376)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

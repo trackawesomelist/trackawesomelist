@@ -10,7 +10,7 @@
 
 ### Open Source Repos / CloudWatch
 
-*   [cloudwatch-logs-subscription-consumer :fire::fire: (⭐399)](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
+*   [cloudwatch-logs-subscription-consumer :fire::fire: (⭐398)](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Misc
 
-*   [Streams (⭐382)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+*   [Streams (⭐381)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 
 ### Source Generator
 

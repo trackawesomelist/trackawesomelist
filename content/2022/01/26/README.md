@@ -52,12 +52,12 @@
 
 ### Libraries/Frameworks / Database
 
-*   [andrewoma/kwery (⭐204)](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
+*   [andrewoma/kwery (⭐203)](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 *   [jasync-sql/jasync-sql (⭐1.5k)](https://github.com/jasync-sql/jasync-sql) - Kotlin port of mauricio's async driver for postgres/mysql.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [CuriousNikhil/k5-compose (⭐180)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
+*   [CuriousNikhil/k5-compose (⭐182)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Templates / Vue 3
 
-*   [Modern Vue (⭐267)](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
+*   [Modern Vue (⭐274)](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
 
 ## [11. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

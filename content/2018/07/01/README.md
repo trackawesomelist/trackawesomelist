@@ -192,7 +192,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [Repo with Samples :fire: (⭐185)](https://github.com/awslabs/aws-python-sample)
+*   [Repo with Samples :fire: (⭐189)](https://github.com/awslabs/aws-python-sample)
 
 ## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

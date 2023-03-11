@@ -194,7 +194,7 @@
 
 ### Open Source Repos / Elastic Compute Cloud
 
-*   [openebs/openebs :fire::fire::fire::fire::fire: (⭐7.8k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
+*   [openebs/openebs :fire::fire::fire::fire::fire: (⭐8k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 
 ---
 

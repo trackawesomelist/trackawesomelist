@@ -38,7 +38,7 @@
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐819)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐825)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ---
 

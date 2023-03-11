@@ -10,7 +10,7 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [nightHawk (⭐595)](https://github.com/biggiesmallsAG/nightHawkResponse) - Application built for asynchronous forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
+*   [nightHawk (⭐596)](https://github.com/biggiesmallsAG/nightHawkResponse) - Application built for asynchronous forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
 
 ## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Color / Diagnostics
 
-*   [brenoprata10/nvim-highlight-colors (⭐127)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
+*   [brenoprata10/nvim-highlight-colors (⭐137)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

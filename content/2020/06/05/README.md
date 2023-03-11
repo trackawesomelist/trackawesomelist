@@ -91,8 +91,8 @@
     *   [AVA (⭐340)](https://github.com/avajs/awesome-ava#readme) - Test runner.
     *   [ESLint (⭐3.5k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐5.7k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐323)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐695)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [Observables (⭐324)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐694)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
     *   [30 Seconds of Code (⭐108k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
     *   [Ponyfills (⭐47)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 

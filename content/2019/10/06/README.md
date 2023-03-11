@@ -104,7 +104,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-style-pt (⭐771)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
+*   [neural-style-pt (⭐775)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Packages / Penetration testing
 
-*   [aztarna (⭐84)](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
+*   [aztarna (⭐85)](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
 *   [ros2\_fuzzer (⭐18)](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)

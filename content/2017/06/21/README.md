@@ -10,7 +10,7 @@
 
 ### SDKs and Samples / Java SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐3.8k)](https://github.com/aws/aws-sdk-java)
+*   [Repo :fire::fire::fire::fire::fire: (⭐3.9k)](https://github.com/aws/aws-sdk-java)
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

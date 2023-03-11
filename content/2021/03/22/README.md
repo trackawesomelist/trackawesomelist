@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,20 +10,20 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixfmt (⭐335)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nixfmt (⭐340)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 
 ### Development / Newsletters
 
-*   [nix-direnv (⭐785)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nix-direnv (⭐807)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 
 ### Programming Languages / Haskell
 
 *   [cabal2nix (⭐317)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐464)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [haskell.nix (⭐467)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Programming Languages / Python
 
-*   [mach-nix (⭐703)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
+*   [mach-nix (⭐710)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
 *   [pypi2nix (⭐188)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Overlays / Webinterface
@@ -64,11 +64,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐39)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
+*   [gtfs-via-postgres (⭐42)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ### Other multimodal data formats / Ruby
 
-*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐80)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐81)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
 ## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -114,26 +114,24 @@
 
 *   [linguist (⭐174)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
-
-### Table of Contents / Streaming Engine
-
-*   [HStreamDB (⭐590)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
-*   [Kuiper (⭐910)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
-
-## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
-
-### Software / Middlewares
-
-*   [NanoMQ (⭐738)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
-
-## [14. Awesome React](/content/enaqx/awesome-react/README.md)
+## [12. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tutorials / React Interview Questions
 
 *   [React Coding Challenges (⭐2.5k)](https://github.com/alexgurr/react-coding-challenges/)
 
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+
+### Software / Frameworks
+
+*   [HStreamDB (⭐590)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+
+### Software / Middlewares
+
+*   [Kuiper (⭐910)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
+*   [NanoMQ (⭐738)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
+
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

@@ -31,7 +31,7 @@
 
 ### Ruby / Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐979)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
+*   [Awesome NLP with Ruby (⭐986)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 
 ## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

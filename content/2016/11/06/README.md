@@ -26,7 +26,7 @@
 
 ### Misc
 
-*   [Jot (⭐558)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐562)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [4. Awesome Redux](/content/brillout/awesome-redux/README.md)
 

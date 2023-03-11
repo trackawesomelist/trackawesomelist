@@ -16,7 +16,7 @@
 
 ### Hardware
 
-*   [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio is a solution to add mesh networking capability and WiFi-Internet access to all yout IoT devices, and it is Arduino compatible.
+*   [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio is a solution to add mesh networking capability and WiFi-Internet access to all your IoT devices, and it is Arduino compatible.
 
 ## [3. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 

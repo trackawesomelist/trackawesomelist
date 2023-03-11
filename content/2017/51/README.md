@@ -23,7 +23,7 @@
 ### Hardware Support
 
 *   [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
-    *   [Open-source Driver (⭐1.4k)](https://github.com/GPUOpen-Drivers/AMDVLK)
+    *   [Open-source Driver (⭐1.5k)](https://github.com/GPUOpen-Drivers/AMDVLK)
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -267,7 +267,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [simplebeerservice :fire::fire: (⭐314)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
+*   [simplebeerservice :fire::fire: (⭐316)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
 ## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -342,13 +342,13 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐341)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐348)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐876)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐878)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 

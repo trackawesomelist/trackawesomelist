@@ -198,7 +198,7 @@
 
 ### Distributed Media Processing
 
-*   [StormCV (⭐169)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
+*   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## [7. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 

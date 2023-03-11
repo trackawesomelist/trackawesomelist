@@ -91,7 +91,7 @@
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [n2ex (⭐271)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
+*   [n2ex (⭐272)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 
 ### Components & Libraries / UI Utilities
 

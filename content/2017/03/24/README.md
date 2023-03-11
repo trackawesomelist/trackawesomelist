@@ -59,7 +59,7 @@
 
 ### Multimedia content processing
 
-*   [Codem-isoboxer (⭐92)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+*   [Codem-isoboxer (⭐97)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐352)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐351)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ---
 

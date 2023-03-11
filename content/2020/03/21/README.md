@@ -68,7 +68,7 @@
 
 ### Open Source Repos / Cognito
 
-*   [amazon-cognito-js :fire::fire: (⭐202)](https://github.com/aws/amazon-cognito-js) - Sync SDK for JavaScript.
+*   [amazon-cognito-js :fire::fire: (⭐203)](https://github.com/aws/amazon-cognito-js) - Sync SDK for JavaScript.
 
 ---
 

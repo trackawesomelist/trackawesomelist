@@ -34,7 +34,7 @@ git cherry -v master <branch-to-be-merged>
 
 ### SDK and API Clients
 
-*   [Azure PowerShell (⭐3.4k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+*   [Azure PowerShell (⭐3.5k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
 ## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

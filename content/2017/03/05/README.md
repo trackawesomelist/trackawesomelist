@@ -6,13 +6,19 @@
 
 
 
-## [1. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [1. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+
+### Open Source Repos / Lambda
+
+*   [eawsy/aws-lambda-go :fire::fire::fire: (⭐703)](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
+
+## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### General / Other
 
 *   [Pentest Cheat Sheets (⭐3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 
-## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
@@ -22,14 +28,14 @@
 
 *   [Esofiles (⭐82)](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
 
-## [3. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Routing
 
 *   [Router (⭐79)](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
 *   [Secretary (⭐774)](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 
-## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [5. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / General Purpose
 
@@ -52,7 +58,7 @@
 *   <http://tmtheme-editor.herokuapp.com> — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: [https://github.com/aziz/tmTheme-Editor (⭐1.6k)](https://github.com/aziz/tmTheme-Editor)
 *   [Schemr (⭐138)](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
 
-## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Backups
 
@@ -61,16 +67,6 @@
 ### Contents / Extensions
 
 *   [PG\_Themis (⭐29)](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
-
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
-
-### SDKs and Samples / Haskell SDK
-
-*   [Repo :fire::fire: (⭐538)](https://github.com/brendanhay/amazonka)
-
-### Open Source Repos / Lambda
-
-*   [eawsy/aws-lambda-go :fire::fire::fire: (⭐704)](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
 
 ---
 

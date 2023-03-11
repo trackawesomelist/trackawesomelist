@@ -114,7 +114,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [Appliscale/perun (⭐84)](https://github.com/Appliscale/perun) - A CLI tool for linting/validation and managing CloudFormation templates and stacks.
+*   [Appliscale/perun (⭐85)](https://github.com/Appliscale/perun) - A CLI tool for linting/validation and managing CloudFormation templates and stacks.
 
 ---
 

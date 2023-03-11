@@ -28,13 +28,13 @@
 
 ### Search Engines
 
-*   [librengine (⭐43)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐44)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / VPN
 
-*   [Headscale (⭐10k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐11k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Packages / Driver layer
 
-*   [odrive\_ros2\_control (⭐135)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
+*   [odrive\_ros2\_control (⭐140)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-easy-data-table (⭐247)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
+*   [vue3-easy-data-table (⭐274)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 
 ## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Libraries / Community
 
-*   [vavite (⭐227)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vavite (⭐236)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

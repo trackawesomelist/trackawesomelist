@@ -1,18 +1,25 @@
 # Awesome List Updates on Dec 14, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### CUDA / Non-X86
+
+*   [CUDA C Best Practices Guide](https://docs.nvidia.com/pdf/CUDA_C_Best_Practices_Guide.pdf) (PDF)
+*   [CUDA C Programming Guide](https://docs.nvidia.com/pdf/CUDA_C_Programming_Guide.pdf) (PDF)
+
+## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [John Allspaw's AMA on Incident Analysis and Postmortems](https://community.atlassian.com/t5/Jira-Ops-questions/I-m-John-Allspaw-Ask-Me-Anything-about-incident-analysis-and/qaq-p/957084)
 
-## [2. Awesome Atom](/content/mehcode/awesome-atom/README.md)
+## [3. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 
 ### Lint
 
@@ -22,19 +29,19 @@
     *   [linter-gcc](https://atom.io/packages/linter-gcc) - on-the-fly linting!
     *   [linter-cpplint](https://atom.io/packages/linter-cpplint) - checks against google style guide
 
-## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Templates / Preferences
 
 *   [DrawApp (⭐226)](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 
-## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 
-## [5. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Asia / Indonesia 🇮🇩
 
@@ -52,13 +59,13 @@ Topics: webpack, React, ES6, Tooling, CSS\
 Topics: Mobile Web, PWAs, Flask, Blockchain\
 <https://twitter.com/aviaryan123>
 
-## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Podcasts and Screencasts / Mocking
 
 *   [The Java Council](https://virtualjug.com/#podcast)
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Best Practices
 

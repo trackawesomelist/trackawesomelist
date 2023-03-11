@@ -100,10 +100,6 @@
 
 *   [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
 
-### Results Processing / Results Analysis
-
-*   [JAnalyser](http://janalyser.com/) - Browser-based results analysis tool.
-
 ### Trainings & Courses / Editors
 
 *   [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
