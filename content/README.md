@@ -65,24 +65,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
         🔥 - - Hot, Amazing Resource!
     *   🌎 - Website
 
-#### [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+##### Command-Line Tools / Newsletters
+
+*   [deadnix (⭐211)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+
+#### [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+##### Spreadsheets and Documents
+
+*   [CAXLSX (⭐401)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+
+#### [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### The Generative AI Area: history, maps, and definitions
 
 *   [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
 *   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
 
-#### [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+##### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
 
-##### Command-Line Tools / Newsletters
-
-*   [deadnix (⭐211)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
-
-#### [9. Awesome Ruby](/content/markets/awesome-ruby/README.md)
-
-##### Spreadsheets and Documents
-
-*   [CAXLSX (⭐401)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
 
 ### [Mar 10, 2023](/content/2023/03/10/README.md)
 

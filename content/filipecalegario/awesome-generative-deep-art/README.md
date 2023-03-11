@@ -13,6 +13,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
 *   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
 
+### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
+
+*   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
+
 ## [Mar 07, 2023](/content/2023/03/07/README.md)
 
 ### The Generative AI Area: history, maps, and definitions

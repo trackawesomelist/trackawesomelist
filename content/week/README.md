@@ -535,23 +535,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
         🔥 - - Hot, Amazing Resource!
     *   🌎 - Website
 
-#### [46. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### The Generative AI Area: history, maps, and definitions
-
-*   [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
-*   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
-*   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
-
-##### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
-
-*   \[🔥] [whitead/paper-qa (⭐1.2k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
-
-##### Image Synthesis / Promptism
-
-*   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
-
-#### [47. Ai Collection](/content/ai-collection/ai-collection/README.md)
+#### [46. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ##### Video
 
@@ -565,7 +549,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [48. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [47. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Command-Line Tools / Newsletters
 
@@ -575,19 +559,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ruby-nix (⭐65)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
-#### [49. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [48. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### Spreadsheets and Documents
 
 *   [CAXLSX (⭐401)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
-#### [50. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [49. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Robotics
 
 *   [Ruckig (⭐406)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
-#### [51. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [50. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Iteration
 
@@ -600,6 +584,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Blackbird](https://orthecreedence.github.io/blackbird/) - a Promise implementation for Common Lisp [MIT](https://opensource.org/licenses/MIT).
     *   see also [promise (⭐11)](https://github.com/Shinmera/promise) - a basic promise datastructure, with timeouts. ZLIB.
+
+#### [51. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### The Generative AI Area: history, maps, and definitions
+
+*   [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
+*   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
+*   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
+
+##### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
+
+*   \[🔥] [whitead/paper-qa (⭐1.2k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+*   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
+
+##### Image Synthesis / Promptism
+
+*   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 
 ---
 
