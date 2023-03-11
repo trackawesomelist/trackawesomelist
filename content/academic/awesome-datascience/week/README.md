@@ -12,6 +12,10 @@
 
 *   [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
 
+### Datasets / Book Deals (Affiliated) 🛍
+
+*   [IBB Open Portal](https://data.ibb.gov.tr/en/)
+
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Books / Visualization Tools
@@ -574,7 +578,7 @@
 
 *   [awesome-dataviz (⭐3.2k)](https://github.com/javierluraschi/awesome-dataviz)
 *   [awesome-datasets (⭐53k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [Awesome Data Science Ideas (⭐619)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐79)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
@@ -960,9 +964,9 @@
 *   [Awesome Graph Classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.3k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Gradient Boosting Papers (⭐875)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 *   [Awesome Computer Vision Models (⭐432)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Monte Carlo Tree Search (⭐519)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.5k)](https://github.com/mhagiwara/100-nlp-papers)
 

@@ -8,6 +8,16 @@ Curated list of resources on HashiCorp's Terraform
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Providers / Vendor supported providers
+
+*   [terraform-provider-azapi (⭐115)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐281)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
+*   [terraform-provider-terracurl (⭐68)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unamanged API calls to your target endpoint.
+
+### Tools / Vendor supported providers
+
+*   [aztfexport (⭐1k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
+
 ### Terraform Enterprise / Vendor supported providers
 
 *   [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI.
@@ -297,7 +307,6 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Tools / Vendor supported providers
 
-*   [aztfy (⭐1k)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
 *   [hcldump (⭐3)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
 *   [hclgrep (⭐79)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
@@ -469,7 +478,6 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-azuredevops (⭐0)](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 *   [terraform-provider-dominos (⭐1k)](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
 *   [terraform-provider-k8s (⭐133)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
 *   [terraform-provider-snowflake (⭐381)](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
@@ -546,7 +554,6 @@ Curated list of resources on HashiCorp's Terraform
 
 *   [Complete Terraform documentation as PDF files (Updated nightly) (⭐182)](https://github.com/antonbabenko/terraform-docs-as-pdf)
 *   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐72)](https://github.com/terraform-aws-modules/meta)
-*   [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 
 ### Tutorials and Blog Posts / Writing Custom Providers
 

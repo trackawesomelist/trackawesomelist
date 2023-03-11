@@ -976,6 +976,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [clippy](https://rust-lang.github.io/rust-clippy) — A code linter to catch common mistakes and improve your Rust code.
 
+*   [diff.rs](https://diff.rs) — Web application (WASM) to render a diff between Rust crate versions.
+
 *   [dylint](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy) — A tool for running Rust lints from dynamic libraries. Dylint makes it easy for developers to maintain their own personal lint collections.
 
 *   [electrolysis](https://kha.github.io/electrolysis) — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.

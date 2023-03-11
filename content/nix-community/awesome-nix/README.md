@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Mar 11, 2023](/content/2023/03/11/README.md)
+
+### Command-Line Tools / Newsletters
+
+*   [deadnix (⭐211)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+
 ## [Mar 10, 2023](/content/2023/03/10/README.md)
 
 ### Programming Languages / Ruby

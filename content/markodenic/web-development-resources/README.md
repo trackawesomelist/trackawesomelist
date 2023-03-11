@@ -2,9 +2,17 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.5K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.6K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Mar 11, 2023](/content/2023/03/11/README.md)
+
+### Icons:
+
+- Website: <https://tabler-icons.io>
+
+
 
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 
@@ -724,9 +732,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://remixicon.com>
-
-
-- Website: <https://tablericons.com>
 
 
 - Website: <https://simpleicons.org>

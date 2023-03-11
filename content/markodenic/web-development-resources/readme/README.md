@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.5K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.6K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -272,7 +272,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://css.gg>                            |
 | <https://lineicons.com>                     |
 | <https://remixicon.com>                     |
-| <https://tablericons.com>                   |
+| <https://tabler-icons.io>                   |
 | <https://simpleicons.org>                   |
 | <https://feathericons.com>                  |
 | <https://svgrepo.com>                       |

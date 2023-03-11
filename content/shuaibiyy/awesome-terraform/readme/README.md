@@ -68,7 +68,6 @@ Terraform enables you to safely and predictably create, change, and improve prod
 *   [Terraform Bug Tracker (⭐36k)](https://github.com/hashicorp/terraform/issues)
 *   [Terraform Community Modules](https://github.com/terraform-community-modules)
 *   [Terraform Twitter Community](https://twitter.com/i/communities/1501688565884928007)
-*   [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 *   [Terraform Discuss](https://discuss.hashicorp.com/c/terraform-core/27)
 *   [Terraform Provider/Module Registry](https://registry.terraform.io/)
 *   [Terraform PDF Doc (⭐55)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
@@ -237,7 +236,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 *   [terraform-provider-alicloud (⭐509)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
 *   [terraform-provider-atlas (⭐36)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
-*   [terraform-provider-azuredevops (⭐0)](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
+*   [terraform-provider-azapi (⭐115)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐281)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 *   [terraform-provider-buildkite (⭐48)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
 *   [terraform-provider-checkly (⭐41)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 *   [terraform-provider-confluent (⭐77)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
@@ -266,6 +266,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-spinnaker (⭐146)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
 *   [terraform-provider-spotinst (⭐59)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 *   [terraform-provider-stripe (⭐224)](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
+*   [terraform-provider-terracurl (⭐68)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unamanged API calls to your target endpoint.
 *   [terraform-provider-ucloud (⭐63)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 *   [terraform-provider-uptimerobot (⭐118)](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 *   [terraform-provider-vaulted (⭐33)](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
@@ -289,7 +290,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [atmos (⭐372)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
 *   [atlantis (⭐5.9k)](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 *   [aws2tf (⭐242)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
-*   [aztfy (⭐1k)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
+*   [aztfexport (⭐1k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
 *   [blast radius (⭐1.8k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
 *   [Checkov (⭐5.3k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [Cloudrail (⭐22)](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy\_dollar\_sign:

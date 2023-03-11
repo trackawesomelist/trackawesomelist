@@ -8,6 +8,10 @@
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Programming Languages / [Other](#other-1)
+
+*   [diff.rs](https://diff.rs) — Web application (WASM) to render a diff between Rust crate versions.
+
 ### Other / [Other](#other-1)
 
 *   [SAST Online](https://sast.online/) :copyright: — Examine the Android Source code to identify any security issues or vulnerabilities.

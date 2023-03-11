@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Mar 11, 2023](/content/2023/03/11/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [diff.rs](https://diff.rs) — Web application (WASM) to render a diff between Rust crate versions.
+
 ## [Mar 06, 2023](/content/2023/03/06/README.md)
 
 ### Other / [Other](#other-1)

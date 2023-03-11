@@ -8,6 +8,10 @@
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Command-Line Tools / Newsletters
+
+*   [deadnix (⭐211)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+
 ### Programming Languages / Ruby
 
 *   [ruby-nix (⭐65)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
