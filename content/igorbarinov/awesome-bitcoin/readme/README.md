@@ -52,7 +52,9 @@ A curated list of bitcoin services and tools for software developers
 
 ## Blockchain API and Web services
 
+*   [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
 *   [block.io](https://block.io)
+*   [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 *   [BlockCypher](https://www.blockcypher.com)
 *   [Esplora (⭐750)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 *   [Gem.co](https://gem.co)

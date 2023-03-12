@@ -6,13 +6,19 @@
 
 
 
-## [1. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Containers
+
+*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Spreadsheets and Documents
 
 *   [CAXLSX (⭐401)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
-## [2. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [3. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Legend / Model Assets
 
@@ -21,13 +27,13 @@
         🔥 - - Hot, Amazing Resource!
     *   🌎 - Website
 
-## [3. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [4. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [Macige (⭐5)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
-## [4. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [5. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Icons:
 
@@ -35,7 +41,7 @@
 
 
 
-## [5. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [6. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Newsletters
 
@@ -45,13 +51,13 @@
 
 *   [ruby-nix (⭐65)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Mineo.app](https://mineo.app) - Data Ops platform with Jupyter-compatible notebooks, no code blocks, and support for creating dashboards.
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -87,7 +93,7 @@
 
 *   [Deno Vulkan (⭐7)](https://github.com/deno-windowing/vulkan) - Vulkan API bindings for Deno. \[Apache Licence 2.0]
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Free Courses
 
@@ -97,19 +103,19 @@
 
 *   [IBB Open Portal](https://data.ibb.gov.tr/en/)
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
 *   [Repo :fire::fire::fire: (⭐552)](https://github.com/brendanhay/amazonka)
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Slide Show and Presentation Tools / Telegram
 
 *   [nimdone](https://nimdone.com)
 
-## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -119,13 +125,13 @@
 
 *   [Example for using Keycloak Authorization with ASP.NET Core (⭐126)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
 
-## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [13. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Development
 
 *   [vudu (⭐21)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
 
-## [13. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Open source / GPL (with linking exception)
 
@@ -188,19 +194,19 @@
 
 *   [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Robotics
 
 *   [Ruckig (⭐406)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [16. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG078) - Kia configurator (Korean).
 
-## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [17. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Swift / Angular
 
@@ -210,7 +216,7 @@
 
 *   [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/). One Python tip every week, sent on Wednesdays.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
@@ -226,7 +232,7 @@
 
 *   [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI.
 
-## [18. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [19. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Video
 
@@ -240,7 +246,7 @@
 
 
 
-## [19. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [20. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -251,7 +257,7 @@
 *   [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
@@ -261,19 +267,19 @@
 
 *   [Mindwendel](https://www.mindwendel.com/) - Brainstorm and upvote ideas and thoughts within your team. ([Demo](https://www.mindwendel.com), [Source Code (⭐28)](https://github.com/mindwendel/mindwendel)) `AGPL-3.0` `Docker/Elixir`
 
-## [21. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [22. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
 *   [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
 
-## [22. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [23. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Security
 
 *   [CetusGuard (⭐7)](https://github.com/hectorm/cetusguard) - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints
 
-## [23. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
+## [24. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
 
 ### Contents / Companies
 
@@ -338,13 +344,13 @@
 *   [Z-Shell](https://github.com/z-shell) - Open-source society passionate about Zsh.
 *   [ReadMe](https://github.com/readmeio) - Beautiful, personalized, interactive developer hubs 🦉
 
-## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Commonsense / Intuitive Physics
 
 *   [Intuitive physics learning in a deep-learning model inspired by developmental psychology](https://www.nature.com/articles/s41562-022-01394-8) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13803979681049451699\&hl=en\&as_sdt=0,5)]. A machine-learning dataset designed to evaluate conceptual understanding of intuitive physics, adopting the violation-of-expectation (VoE) paradigm from developmental psychology; a deep-learning system that learns intuitive physics directly from visual data, inspired by studies of visual cognition in children.
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Utilities
 
@@ -354,7 +360,7 @@
 
 *   [marekm4/dominant\_color (⭐16)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
-## [26. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [27. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Postal Addresses
 
@@ -362,26 +368,26 @@
 *   [Why doesn't Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - Costa Rican uses an idiosyncratic system of addresses that relies on landmarks, history and quite a bit of guesswork.
 *   [USPS Postal Addressing Standards](https://pe.usps.com/text/pub28/welcome.htm) - Describes both standardized address formats and content.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [utilyre/sentiment.nvim (⭐8)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
 *   [echasnovski/mini.nvim#mini.splitjoin (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
-## [28. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [29. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Cloud Storage
 
 *   [Restic](https://restic.net/) - Restic is also command line program to manage files on various cloud storage providers. Restic uses encryption by default. Few noteworthy features of restic include browsing through storage as git like snapshots at no extra storage cost, deduplication and significant savings through compression.
 
-## [29. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [30. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Graphics
 
 *   [mpv-v (⭐7)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
-## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [31. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -398,7 +404,11 @@
 
 *   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data and ML
+
+*   [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert html or urls to pdf wit a simple API. 100 conversions per month for free.
 
 ### Authentication, Authorization and User Management
 
@@ -412,17 +422,16 @@
 
 *   [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)
 
-## [32. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [33. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+### Blockchain API and Web services
 
-### Elixir / Phoenix
-
-*   [Versioned APIs with Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF) *(:card\_file\_box: archived)*
+*   [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
+*   [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 
 ## [34. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -583,9 +592,12 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [diff.rs](https://diff.rs) — Web application (WASM) to render a diff between Rust crate versions.
+*   [holistic](https://holistic.dev/) — More than 1,300 rules to analyze SQL queries. Takes an SQL schema definition and the query source code to generate improvement recommendations. Detects code smells, unused indexes, unused tables, views, materialized views, and more.
 
 ### Other / [Other](#other-1)
 
+*   [Hopper](https://www.hopperapp.com/) :copyright: — macOS and Linux reverse engineering tool that lets you disassemble, decompile and debug applications. Hopper displays the code using different representations, e.g. the Control Flow Graph, and the pseudo-code of a procedure. Supports Apple Silicon.
+*   [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 *   [SAST Online](https://sast.online/) :copyright: — Examine the Android Source code to identify any security issues or vulnerabilities.
 
 ## [46. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 12, 2023](/content/2023/03/12/README.md)
+
+### APIs, Data and ML
+
+*   [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert html or urls to pdf wit a simple API. 100 conversions per month for free.
+
 ## [Mar 08, 2023](/content/2023/03/08/README.md)
 
 ### Authentication, Authorization and User Management

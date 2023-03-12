@@ -6,6 +6,13 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Mar 12, 2023](/content/2023/03/12/README.md)
+
+### Blockchain API and Web services
+
+*   [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
+*   [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
+
 ## [Mar 07, 2023](/content/2023/03/07/README.md)
 
 ### Utilities

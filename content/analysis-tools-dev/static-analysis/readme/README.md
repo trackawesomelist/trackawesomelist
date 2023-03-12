@@ -49,62 +49,59 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 #### [Programming Languages](#programming-languages-1)
 
-<details>
- <summary>Show languages</summary>
-  <!-- Please use HTML syntax here so that it works for Github and mkdocs -->
-  <ul>
-    <li><a href="#abap">ABAP</a></li>
-    <li><a href="#ada">Ada</a></li>
-    <li><a href="#asm">Assembly</a></li>
-    <li><a href="#awk">Awk</a></li>
-    <li><a href="#c">C</a></li>
-    <li><a href="#csharp">C#</a></li>
-    <li><a href="#cpp">C++</a></li>
-    <li><a href="#clojure">Clojure</a></li>
-    <li><a href="#coffeescript">CoffeeScript</a></li>
-    <li><a href="#coldfusion">ColdFusion</a></li>
-    <li><a href="#crystal">Crystal</a></li>
-    <li><a href="#dart">Dart</a></li>
-    <li><a href="#delphi">Delphi</a></li>
-    <li><a href="#dlang">Dlang</a></li>
-    <li><a href="#elixir">Elixir</a></li>
-    <li><a href="#elm">Elm</a></li>
-    <li><a href="#erlang">Erlang</a></li>
-    <li><a href="#fsharp">F#</a></li>
-    <li><a href="#fortran">Fortran</a></li>
-    <li><a href="#go">Go</a></li>
-    <li><a href="#groovy">Groovy</a></li>
-    <li><a href="#haskell">Haskell</a></li>
-    <li><a href="#haxe">Haxe</a></li>
-    <li><a href="#java">Java</a></li>
-    <li><a href="#javascript">JavaScript</a></li>
-    <li><a href="#julia">Julia</a></li>
-    <li><a href="#kotlin">Kotlin</a></li>
-    <li><a href="#lua">Lua</a></li>
-    <li><a href="#matlab">MATLAB</a></li>
-    <li><a href="#nim">Nim</a></li>
-    <li><a href="#ocaml">Ocaml</a></li>
-    <li><a href="#php">PHP</a></li>
-    <li><a href="#plsql">PL/SQL</a></li>
-    <li><a href="#perl">Perl</a></li>
-    <li><a href="#python">Python</a></li>
-    <li><a href="#r">R</a></li>
-    <li><a href="#ruby">Ruby</a></li>
-    <li><a href="#rust">Rust</a></li>
-    <li><a href="#sql">SQL</a></li>
-    <li><a href="#scala">Scala</a></li>
-    <li><a href="#shell">Shell</a></li>
-    <li><a href="#swift">Swift</a></li>
-    <li><a href="#tcl">Tcl</a></li>
-    <li><a href="#typescript">TypeScript</a></li>
-    <li><a href="#verilog">Verilog/SystemVerilog</a></li>
-    <li><a href="#vim-script">Vim Script</a></li>
-    </ul>
-</details>
+*   [ABAP](#abap)
+*   [Ada](#ada)
+*   [Assembly](#asm)
+*   [Awk](#awk)
+*   [C](#c)
+*   [C#](#csharp)
+*   [C++](#cpp)
+*   [Clojure](#clojure)
+*   [CoffeeScript](#coffeescript)
+*   [ColdFusion](#coldfusion)
+*   [Crystal](#crystal)
+*   [Dart](#dart)
+*   [Delphi](#delphi)
+*   [Dlang](#dlang)
+*   [Elixir](#elixir)
+*   [Elm](#elm)
+*   [Erlang](#erlang)
+*   [F#](#fsharp)
+*   [Fortran](#fortran)
+*   [Go](#go)
+*   [Groovy](#groovy)
+*   [Haskell](#haskell)
+*   [Haxe](#haxe)
+*   [Java](#java)
+*   [JavaScript](#javascript)
+*   [Julia](#julia)
+*   [Kotlin](#kotlin)
+*   [Lua](#lua)
+*   [MATLAB](#matlab)
+*   [Nim](#nim)
+*   [Ocaml](#ocaml)
+*   [PHP](#php)
+*   [PL/SQL](#plsql)
+*   [Perl](#perl)
+*   [Python](#python)
+*   [R](#r)
+*   [Ruby](#ruby)
+*   [Rust](#rust)
+*   [SQL](#sql)
+*   [Scala](#scala)
+*   [Shell](#shell)
+*   [Swift](#swift)
+*   [Tcl](#tcl)
+*   [TypeScript](#typescript)
+*   [Verilog/SystemVerilog](#verilog)
+*   [Vim Script](#vim-script)
 
-#### [Multiple languages](#multiple-languages-1)
+#### [Multiple Languages](#multiple-languages-1)
 
 #### [Other](#other-1)
+
+<details>
+ <summary>Show Other</summary>
 
 *   [Ansible](#ansible)
 *   [Archive](#archive)
@@ -146,6 +143,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 *   [Writing](#writing)
 *   [YAML](#yaml)
 *   [git](#git)
+
+</details>
 
 ***
 
@@ -243,7 +242,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [.NET Analyzers](https://github.com/DotNetAnalyzers) — An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
 
-*   [ArchUnitNET (⭐470)](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
+*   [ArchUnitNET (⭐479)](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 
 *   [code-cracker](https://code-cracker.github.io) — An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 
@@ -556,7 +555,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [Mariana Trench](https://mariana-tren.ch/) — Our security focused static analysis tool for Android and Java applications. Mariana Trench analyzes Dalvik bytecode and is built to run fast on large codebases (10s of millions of lines of code). It can find vulnerabilities as code changes, before it ever lands in your repository.
 
-*   [NullAway (⭐3.2k)](https://github.com/uber/NullAway) — Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
+*   [NullAway (⭐3.3k)](https://github.com/uber/NullAway) — Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
 
 *   [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) — Checks dependencies for known, publicly disclosed, vulnerabilities.
 
@@ -1012,6 +1011,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [dbcritic (⭐162)](https://github.com/channable/dbcritic) — dbcritic finds problems in a database schema, such as a missing primary key constraint in a table.
 
+*   [holistic](https://holistic.dev/) — More than 1,300 rules to analyze SQL queries. Takes an SQL schema definition and the query source code to generate improvement recommendations. Detects code smells, unused indexes, unused tables, views, materialized views, and more.
+
 *   [sqlcheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
 
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
@@ -1239,7 +1240,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [Offensive 360](https://offensive360.com/) :copyright: — Commercial Static Code Analysis system doesn't require building the source code or pre-compilation.
 
-*   [OpenStaticAnalyzer (⭐26)](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer) — OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.
+*   [OpenStaticAnalyzer (⭐27)](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer) — OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.
 
 *   [parasoft](https://www.parasoft.com/) :copyright: — Automated Software Testing Solutions for unit-, API-, and web UI testing. Complies with MISRA, OWASP, and others.
 
@@ -1275,7 +1276,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [Rome Formatter](https://rome.tools/blog/2022/04/05/rome-formatter-release) — A performant and fault-tolerant code formatter for JS/TS written in Rust
 
-*   [Roslyn Analyzers (⭐1.3k)](https://github.com/dotnet/roslyn-analyzers) — Roslyn-based implementation of FxCop analyzers.
+*   [Roslyn Analyzers (⭐1.4k)](https://github.com/dotnet/roslyn-analyzers) — Roslyn-based implementation of FxCop analyzers.
 
 *   [Roslyn Security Guard](https://security-code-scan.github.io) — Project that focuses on the identification of potential vulnerabilities such as SQL injection, cross-site scripting (XSS), CSRF, cryptography weaknesses, hardcoded passwords and many more.
 
@@ -1291,7 +1292,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain) :copyright: — Quickly find and remediate high-priority security issues.  Semgrep Supply Chain prioritizes the 2% of vulnerabilities that are reachable from your code.
 
-*   [ShiftLeft Scan (⭐605)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
+*   [ShiftLeft Scan (⭐612)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 
 *   [shipshape (⭐264)](https://github.com/google/shipshape) :warning: — Static program analysis platform that allows custom analyzers to plug in through a common interface.
 
@@ -1327,11 +1328,11 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [TencentCodeAnalysis](https://tca.tencent.com/) — Tencent Cloud Code Analysis (TCA for short, code-named CodeDog inside the company early) is a comprehensive platform for code analysis and issue tracking. TCA consist of three components, server, web and client. It integrates of a number of self-developed tools, and also supports dynamic integration of code analysis tools in various programming languages.
 
-*   [ThreatMapper (⭐3k)](https://github.com/deepfence/ThreatMapper) — Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.
+*   [ThreatMapper (⭐3.1k)](https://github.com/deepfence/ThreatMapper) — Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.
 
 *   [todocheck (⭐394)](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
 
-*   [trivy (⭐16k)](https://github.com/aquasecurity/trivy) — A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.
+*   [trivy (⭐17k)](https://github.com/aquasecurity/trivy) — A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.
 
 *   [trunk](https://trunk.io) :copyright: — Modern repositories include many technologies, each with its own set of linters. With 30+ linters and counting, Trunk makes it dead-simple to identify, install, configure, and run the right linters, static analyzers, and formatters for all your repos.
 
@@ -1395,11 +1396,15 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 
 *   [Ghidra](https://ghidra-sre.org) — A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 
+*   [Hopper](https://www.hopperapp.com/) :copyright: — macOS and Linux reverse engineering tool that lets you disassemble, decompile and debug applications. Hopper displays the code using different representations, e.g. the Control Flow Graph, and the pseudo-code of a procedure. Supports Apple Silicon.
+
 *   [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) :copyright: — Binary code analysis tool.
 
 *   [Jakstab (⭐134)](https://github.com/jkinder/jakstab) — Jakstab is an Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
 
 *   [JEB Decompiler](https://www.pnfsoftware.com/) :copyright: — Decompile and debug binary code. Break down and analyze document files. Android Dalvik, MIPS, ARM, Intel x86, Java, WebAssembly & Ethereum Decompilers.
+
+*   [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 
 *   [Manalyze (⭐900)](https://github.com/JusticeRage/Manalyze) — A static analyzer, which checks portable executables for malicious content.
 
@@ -1748,6 +1753,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐671)](https://g
 *   [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 
 *   [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+
+*   [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 
 *   [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
 

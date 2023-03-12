@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Mar 12, 2023](/content/2023/03/12/README.md)
+
+### Containers
+
+*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
+
 ## [Mar 04, 2023](/content/2023/03/04/README.md)
 
 ### Graphics Programming

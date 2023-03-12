@@ -12,6 +12,11 @@ A curated list of bitcoin services and tools for software developers
 
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
 
+### Blockchain API and Web services
+
+*   [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
+*   [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Playgrounds
