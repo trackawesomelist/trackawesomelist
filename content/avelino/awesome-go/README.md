@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 12, 2023](/content/2023/03/12/README.md)
+
+### Go Generate Tools / Libraries for creating HTTP middlewares
+
+*   [options-gen (⭐37)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
+
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 
 ### JSON

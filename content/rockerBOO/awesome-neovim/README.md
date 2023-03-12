@@ -6,6 +6,24 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 12, 2023](/content/2023/03/12/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [neanias/everforest-nvim (⭐24)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+
+### Terminal Integration / Diagnostics
+
+*   [willothy/flatten.nvim (⭐82)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+
+### Editing Support / Diagnostics
+
+*   [willothy/moveline.nvim (⭐22)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+
+### Indent / Diagnostics
+
+*   [shellRaining/hlchunk.nvim (⭐12)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+
 ## [Mar 10, 2023](/content/2023/03/10/README.md)
 
 ### Editing Support / Diagnostics
@@ -52,17 +70,13 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [tenxsoydev/nx.nvim (⭐4)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
+*   [tenxsoydev/nx.nvim (⭐7)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 
 ### Motion / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.bracketed (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-bracketed.md) - Module of `mini.nvim` to go forward/backward with square brackets.
 
 ## [Feb 22, 2023](/content/2023/02/22/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [neanias/everforest-nvim (⭐24)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 
 ### Editing Support / Diagnostics
 

@@ -370,12 +370,30 @@
 
 ## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [neanias/everforest-nvim (⭐24)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+
+### Terminal Integration / Diagnostics
+
+*   [willothy/flatten.nvim (⭐82)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+
 ### Editing Support / Diagnostics
 
 *   [utilyre/sentiment.nvim (⭐8)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
+*   [willothy/moveline.nvim (⭐22)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 *   [echasnovski/mini.nvim#mini.splitjoin (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
+### Indent / Diagnostics
+
+*   [shellRaining/hlchunk.nvim (⭐12)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+
 ## [29. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### ChatGPT
+
+*   [llama.cpp (⭐2.4k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+    *   [llama-dl (⭐2.5k)](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's GPT model
 
 ### Cloud Storage
 
@@ -619,6 +637,10 @@
 ### Third-party APIs
 
 *   [openaigo (⭐176)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
+
+### Go Generate Tools / Libraries for creating HTTP middlewares
+
+*   [options-gen (⭐37)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
 
 ## [48. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 

@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [openaigo (⭐176)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
 
+### Go Generate Tools / Libraries for creating HTTP middlewares
+
+*   [options-gen (⭐37)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
+
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Database Schema Migration

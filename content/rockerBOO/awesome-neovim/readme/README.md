@@ -375,7 +375,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [lourenci/github-colors (⭐71)](https://github.com/lourenci/github-colors) - GitHub colors leveraging Tree-sitter to get 100% accuracy.
 *   [sainnhe/gruvbox-material (⭐1.3k)](https://github.com/sainnhe/gruvbox-material) - Gruvbox modification with softer contrast and Tree-sitter support.
 *   [sainnhe/everforest (⭐1.7k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
-*   [neanias/everforest-nvim (⭐24)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+*   [neanias/everforest-nvim (⭐24)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 *   [NTBBloodbath/doom-one.nvim (⭐142)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 *   [dracula/vim (⭐1.2k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
 *   [Mofiqul/dracula.nvim (⭐389)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
@@ -575,12 +575,13 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [echasnovski/mini.nvim#mini.animate (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 *   [figsoda/nix-develop.nvim (⭐17)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 *   [yaocccc/nvim-foldsign (⭐11)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
-*   [tenxsoydev/nx.nvim (⭐4)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
+*   [tenxsoydev/nx.nvim (⭐7)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 
 ### Terminal Integration
 
 *   [LoricAndre/OneTerm.nvim (⭐38)](https://github.com/LoricAndre/OneTerm.nvim) - Plugin framework for running commands in the terminal.
 *   [nikvdp/neomux (⭐239)](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
+*   [willothy/flatten.nvim (⭐82)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
 *   [akinsho/nvim-toggleterm.lua (⭐2.3k)](https://github.com/akinsho/nvim-toggleterm.lua) - A Neovim Lua plugin to help easily manage multiple terminal windows.
 *   [norcalli/nvim-terminal.lua (⭐152)](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode which leverages conceal and highlights your buffer with the correct color codes.
 *   [numToStr/FTerm.nvim (⭐568)](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in Lua.
@@ -779,6 +780,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [gbprod/yanky.nvim (⭐361)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 *   [sQVe/sort.nvim (⭐81)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 *   [booperlv/nvim-gomove (⭐154)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
+*   [willothy/moveline.nvim (⭐22)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 *   [echasnovski/mini.nvim#mini.move (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
 *   [anuvyklack/pretty-fold.nvim (⭐317)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
 *   [bennypowers/nvim-regexplainer (⭐445)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
@@ -833,6 +835,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Darazaki/indent-o-matic (⭐138)](https://github.com/Darazaki/indent-o-matic) - Dumb automatic fast indentation detection written in Lua.
 *   [Abstract-IDE/penvim (⭐33)](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader.
 *   [yaocccc/nvim-hlchunk (⭐32)](https://github.com/yaocccc/nvim-hlchunk) - Highlight a `{}` chunk.
+*   [shellRaining/hlchunk.nvim (⭐12)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ### Command Line
 

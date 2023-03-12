@@ -8,10 +8,23 @@ Collections of awesome neovim plugins.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [neanias/everforest-nvim (⭐24)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+
+### Terminal Integration / Diagnostics
+
+*   [willothy/flatten.nvim (⭐82)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+
 ### Editing Support / Diagnostics
 
 *   [utilyre/sentiment.nvim (⭐8)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
+*   [willothy/moveline.nvim (⭐22)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 *   [echasnovski/mini.nvim#mini.splitjoin (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
+
+### Indent / Diagnostics
+
+*   [shellRaining/hlchunk.nvim (⭐12)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -36,7 +49,6 @@ Collections of awesome neovim plugins.
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [nyoom-engineering/oxocarbon.nvim (⭐580)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
-*   [neanias/everforest-nvim (⭐24)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 *   [embark-theme/vim (⭐530)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
 
 ### Bars and Lines / Diagnostics
@@ -46,7 +58,7 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [yaocccc/nvim-foldsign (⭐11)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
-*   [tenxsoydev/nx.nvim (⭐4)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
+*   [tenxsoydev/nx.nvim (⭐7)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 
 ### Motion / Diagnostics
 
