@@ -2,9 +2,18 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 278 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 391 · 🏷️ Security
 
 [ Daily / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Mar 13, 2023](/content/2023/03/13/README.md)
+
+### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
+
+*   [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Execution (TA0002).
+*   [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Credential Access (TA0006).
+*   [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
+*   [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Defense Evasion (TA0005).
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -12,7 +21,7 @@
 
 *   [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introduction to SIEM.
 
-### Free Beginner Blue Team Path / Level 2 - Security Operations & Incident Response
+### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
 *   [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh) - An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.
 
@@ -68,7 +77,7 @@
 *   [Windows Fundamentals](https://tryhackme.com/room/windowsfundamentals1xbx) -  Intro to Windows.
 *   [Red Line](https://tryhackme.com/room/btredlinejoxr3d) - Learn how to use Redline to perform memory analysis and scan for IOCs on an endpoint.
 
-### Free Beginner Blue Team Path / Level 2 - Security Operations & Incident Response
+### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
 *   [Investigating Windows](https://tryhackme.com/room/investigatingwindows) - Investigating Windows.
 *   [Squid Game](https://tryhackme.com/room/squidgameroom) - Squid game-themed CTF.
@@ -184,7 +193,7 @@
 *   [Volatility](https://tryhackme.com/room/bpvolatility) - Intro to memory analysis with volatility.
 *   [Autopsy](https://tryhackme.com/room/autopsy2ze0) - Use Autopsy to investigate artifacts from a disk image.
 
-### Free Beginner Blue Team Path / Level 2 - Security Operations & Incident Response
+### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
 *   [Juicy Details](https://tryhackme.com/room/juicydetails) - A popular juice shop has been breached! Analyze the logs to see what had happened.
 *   [Carnage](https://tryhackme.com/room/c2carnage) - Apply your analytical skills to analyze the malicious network traffic using Wireshark.

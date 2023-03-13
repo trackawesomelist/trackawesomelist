@@ -67,6 +67,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
     *   [Tutorials](#tutorials)
     *   [Videos](#videos)
     *   [GitHub templates](#github-templates)
+    *   [Patterns](#patterns)
 
 ## Applications
 
@@ -383,4 +384,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### GitHub templates
 
 *   [v-project-basement (⭐5)](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
+
+### Patterns
+
+*   [MVU.v (⭐3)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 

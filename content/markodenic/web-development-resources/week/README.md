@@ -6,6 +6,14 @@ Awesome Web Development Resources.
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
+
+### Photos:
+
+- Website: <https://freeforcommercialuse.net>
+
+
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Icons:

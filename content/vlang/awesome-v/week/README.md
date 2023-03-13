@@ -12,6 +12,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [v-tiktok (⭐3)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
+### Patterns / IntelliJ & CLion & GoLand etc
+
+*   [MVU.v (⭐3)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Graphics

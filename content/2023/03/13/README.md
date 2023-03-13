@@ -1,12 +1,68 @@
 # Awesome List Updates on Mar 13, 2023
 
-9 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Blog posts
+
+*   [Polars vs Pandas — 4 key concept differences](https://python.plainenglish.io/polars-vs-pandas-4-key-concept-differences-3c09713c0fe8) - An article that helps to understand key differences between Pandans and Polars Data Science libraries by [@DataScienceDisciple](https://github.com/DataScienceDisciple).
+
+## [2. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
+
+### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
+
+*   [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Execution (TA0002).
+*   [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Credential Access (TA0006).
+*   [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
+*   [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Defense Evasion (TA0005).
+
+## [3. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+
+### General Tools
+
+*   [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
+
+### Utilities
+
+*   [Gifify (⭐1.1k)](https://github.com/jclem/gifify) - convert screen recording into GIF
+
+### Libraries / Java
+
+*   [GIFDroid (⭐102)](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter
+
+## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Photos:
+
+- Website: <https://freeforcommercialuse.net>
+
+
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [asdf (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐17k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐404)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐404)](https://github.com/asdf-community/asdf-direnv/blob/master/README.md#pro-tips).
+*   [pins (⭐1)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [aofxta (⭐0)](https://github.com/aofxta/aofxta.zsh-theme/) - Includes decorators for last command's execution time, `git` information, current directory and current time.
+*   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
+*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
+
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Files and Directories / Search
+
+*   [skim (⭐3.9k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
+
+## [7. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
 
 ### Use ChatGPT Anywhere / Chatbots
 
@@ -20,13 +76,17 @@
 
 *   [Useful ChatGPT Prompts](https://www.explainthis.io/en/chatgpt): A comprehensive list of useful ChatGPT prompts to help you get the most out of ChatGPT.
 
-## [2. Awesome V](/content/vlang/awesome-v/README.md)
+## [8. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Web
 
 *   [v-tiktok (⭐3)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
-## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+### Patterns / IntelliJ & CLion & GoLand etc
+
+*   [MVU.v (⭐3)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
+
+## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Audio
 
@@ -48,7 +108,7 @@
 
 *   [micropython-stepper (⭐1)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 
-## [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Music / Text
 
@@ -96,7 +156,7 @@
 *   [Pock (⭐9.9k)](https://github.com/pock/pock) - Display macOS Dock in Touch Bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Touch Emoji (⭐46)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Projects
 
@@ -130,7 +190,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [6. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [12. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
@@ -139,13 +199,13 @@
 *   [Hogwarts Legacy Reviews](https://www.kaggle.com/datasets/georgescutelnicu/hogwarts-legacy-reviews) - A list of Hogwarts Legacy reviews.
 *   [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - Steam game stats.
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Icons
 
 *   [Lucide (⭐3.8k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
-## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Backups
 
@@ -168,7 +228,7 @@
 
 *   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐5.9k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Documentation
 
