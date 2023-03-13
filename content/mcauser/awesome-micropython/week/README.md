@@ -6,6 +6,28 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ [Daily](/content/mcauser/awesome-micropython/README.md) / Weekly / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
+
+### Audio
+
+*   [micropython-dfplayer (⭐1)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
+
+### Communications / RC receiver
+
+*   [micropython-ppm\_reader (⭐3)](https://github.com/redoxcode/micropython-ppm_reader) - Library to decode PPM signals coming from a RC receiver.
+
+### Display / LCD Character
+
+*   [micropython-i2c-lcd (⭐2)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
+
+### Motion / Servo
+
+*   [micropython-servo (⭐1)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
+
+### Motion / Stepper
+
+*   [micropython-stepper (⭐1)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Code Generation / SRAM

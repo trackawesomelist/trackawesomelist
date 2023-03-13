@@ -84,6 +84,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-jq6500 (⭐16)](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
 *   [KT403A-MP3 (⭐9)](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
 *   [micropython-buzzer (⭐11)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
+*   [micropython-dfplayer (⭐1)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
 *   [micropython-dfplayer (⭐33)](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
 *   [micropython-longwave (⭐6)](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 *   [micropython-vs1053 (⭐18)](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
@@ -275,6 +276,10 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-ppm-decoder (⭐9)](https://github.com/dastultz/micropython-ppm-decoder) - Utility for decoding an R/C receiver PPM frame signal.
 *   [ESP32-433Mhz-Receiver-and-Tools (⭐6)](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433MHz receiver written in MicroPython and tools for Windows.
 
+#### RC receiver
+
+*   [micropython-ppm\_reader (⭐3)](https://github.com/redoxcode/micropython-ppm_reader) - Library to decode PPM signals coming from a RC receiver.
+
 #### REPL
 
 *   [webrepl](https://micropython.org/webrepl) - MicroPython WebREPL.
@@ -410,6 +415,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-lcd (⭐17)](https://github.com/wjdp/micropython-lcd) - Class for controlling the HD44780 from a MicroPython Pyboard.
 *   [HD44780-lcd-upy](https://gitlab.com/rafalosa/HD44780-lcd-upy) - MicroPython module for controlling a generic HD44780 LCD.
 *   [LCM1602-14\_LCD\_Library (⭐9)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
+*   [micropython-i2c-lcd (⭐2)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
 
 #### LCD Graphic
 
@@ -591,9 +597,11 @@ Other places you can look for MicroPython Libraries:
 #### Servo
 
 *   [micropython-pca9685 (⭐1)](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
+*   [micropython-servo (⭐1)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 
 #### Stepper
 
+*   [micropython-stepper (⭐1)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 *   [micropython-upybbot (⭐74)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
 *   [uln2003 (⭐38)](https://github.com/IDWizard/uln2003) - Driver for 5V 28BYJ-48 stepper motors.
 *   [micropython-multiaxis](https://gitlab.com/olivierlenoir/micropython-multiaxis) - Multiaxis with MicroPython ESP32 and DRV8825.

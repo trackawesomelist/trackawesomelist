@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Mar 13, 2023](/content/2023/03/13/README.md)
+
+### Web
+
+*   [v-tiktok (⭐3)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
+
 ## [Mar 07, 2023](/content/2023/03/07/README.md)
 
 ### Graphics
