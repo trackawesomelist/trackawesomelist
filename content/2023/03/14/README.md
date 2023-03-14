@@ -1,24 +1,99 @@
 # Awesome List Updates on Mar 14, 2023
 
-9 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Reading and Writing Tools / Text Editors
+
+*   [Tot](https://tot.rocks/) - Tot is an elegant, simple way to collect & edit text. It’s your tiny text companion! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/tot/id1491071483)
+
+### Developer Tools / Command Line Tools
+
+*   [cmatrix (⭐3.1k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [2. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Slides & Web Design
+
+- Name: [STORYD](http://www.storyd.ai)
+
+  Title: Data Presentations Leaders Love
+
+  Description: Helps professionals quickly and easily create data-driven business presentations.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [3. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+
+### Clients
+
+*   [Circe (⭐372)](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
+*   [IRC Vitamin](https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin) - Simple, fast and easy access to multiple IRC networks. `Android`
+
+### Bots / Self-hosted
+
+*   [BitBot (⭐126)](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
+*   [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source (⭐70)](https://github.com/pyhoneybot/honeybot)) `Python`
+
+### Frameworks / Self-hosted
+
+*   [IRC::Client (⭐14)](https://github.com/lizmat/IRC-Client) - `Perl6` based extendable IRC client framework.
+*   [irccd](https://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with JavaScript. `C++`.
+
+### Frameworks / Bridges
+
+*   [toxirc (⭐24)](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
+
+## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+
+### Tutorial
+
+*   [Kohi Game Engine Series](https://www.youtube.com/watch?v=dHPuU-DJoBM\&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) - "Vulkan Game Engine series, where we make a game engine from the ground up using C and Vulkan".
+
+### Books
+
+*   [Mastering Graphics Programming with Vulkan](https://www.amazon.com/Mastering-Graphics-Programming-Vulkan-state/dp/1803244798/ref=sr_1_1?keywords=mastering+graphics+programming+with+vulkan\&qid=1678290788\&sprefix=mastering+graphics+%2Caps%2C255\&sr=8-1) - Develop a modern rendering engine from first principles to state-of-the-art techniques, by **Marco Castorina** and **Gabriel Sassone**.
+
+## [5. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+
+### Libraries / C++
+
+*   [WpfAnimatedGif (⭐561)](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
+*   [XamlAnimatedGif (⭐365)](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
+
+### Community / Swift
+
+*   [/r/educationalgifs](https://www.reddit.com/r/educationalgifs/)
+
+## [6. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+
+### File Management
+
+*   [Bat (⭐40k)](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+*   [Clifm (⭐881)](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
+*   [Clipboard (⭐2.9k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
+*   [fzf (⭐50k)](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
+
+## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Clients
 
 *   [Keycloak Mock Library (⭐88)](https://github.com/TNG/keycloak-mock)
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
 *   [go-openai (⭐1.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -28,7 +103,7 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
@@ -71,7 +146,7 @@
     *   [Firefox Add-On: Redirector](https://addons.mozilla.org/firefox/addon/redirector/)
     *   [Chrome Extension: Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
 
-## [5. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [11. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Research / Software
 
@@ -86,13 +161,13 @@
 
 *   [econpizza (⭐23)](https://github.com/gboehl/econpizza) - Toolbox to solve and simulate nonlinear models with heterogeneous agents.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (\~10 PRs).
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
@@ -102,7 +177,7 @@
 
 *   [vite-plugin-solid-svg (⭐33)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
-## [8. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
+## [14. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
 ### Apps / Stacks Web Applications
 
@@ -113,7 +188,7 @@
 *   [Stacks Degens](https://stacksdegens.com) - A car racing game with retro graphics enabled through NFTs.
 *   [Project Indigo](https://www.projectindigonft.com) - An interactive story and RPG experience.
 
-## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 

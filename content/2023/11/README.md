@@ -1,24 +1,88 @@
 # Awesome List Updates on Mar 13 - Mar 19, 2023
 
-23 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Reading and Writing Tools / Text Editors
+
+*   [Tot](https://tot.rocks/) - Tot is an elegant, simple way to collect & edit text. It’s your tiny text companion! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/tot/id1491071483)
+
+### Developer Tools / Command Line Tools
+
+*   [cmatrix (⭐3.1k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [2. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+
+### Slides & Web Design
+
+- Name: [STORYD](http://www.storyd.ai)
+
+  Title: Data Presentations Leaders Love
+
+  Description: Helps professionals quickly and easily create data-driven business presentations.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [3. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+
+### Clients
+
+*   [Circe (⭐372)](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
+*   [IRC Vitamin](https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin) - Simple, fast and easy access to multiple IRC networks. `Android`
+
+### Bots / Self-hosted
+
+*   [BitBot (⭐126)](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
+*   [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source (⭐70)](https://github.com/pyhoneybot/honeybot)) `Python`
+
+### Frameworks / Self-hosted
+
+*   [IRC::Client (⭐14)](https://github.com/lizmat/IRC-Client) - `Perl6` based extendable IRC client framework.
+*   [irccd](https://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with JavaScript. `C++`.
+
+### Frameworks / Bridges
+
+*   [toxirc (⭐24)](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
+
+## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+
+### Tutorial
+
+*   [Kohi Game Engine Series](https://www.youtube.com/watch?v=dHPuU-DJoBM\&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) - "Vulkan Game Engine series, where we make a game engine from the ground up using C and Vulkan".
+
+### Books
+
+*   [Mastering Graphics Programming with Vulkan](https://www.amazon.com/Mastering-Graphics-Programming-Vulkan-state/dp/1803244798/ref=sr_1_1?keywords=mastering+graphics+programming+with+vulkan\&qid=1678290788\&sprefix=mastering+graphics+%2Caps%2C255\&sr=8-1) - Develop a modern rendering engine from first principles to state-of-the-art techniques, by **Marco Castorina** and **Gabriel Sassone**.
+
+## [5. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+
+### File Management
+
+*   [Bat (⭐40k)](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+*   [Clifm (⭐881)](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
+*   [Clipboard (⭐2.9k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
+*   [fzf (⭐50k)](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
+
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Clients
 
 *   [Keycloak Mock Library (⭐88)](https://github.com/TNG/keycloak-mock)
 
-## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Third-party APIs
 
 *   [go-openai (⭐1.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
-## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
@@ -61,7 +125,7 @@
     *   [Firefox Add-On: Redirector](https://addons.mozilla.org/firefox/addon/redirector/)
     *   [Chrome Extension: Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
 
-## [4. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [9. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Research / Software
 
@@ -76,13 +140,13 @@
 
 *   [econpizza (⭐23)](https://github.com/gboehl/econpizza) - Toolbox to solve and simulate nonlinear models with heterogeneous agents.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
 *   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (\~10 PRs).
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -92,7 +156,7 @@
 
 *   [vite-plugin-solid-svg (⭐33)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
-## [7. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Apps / Stacks Web Applications
 
@@ -103,19 +167,19 @@
 *   [Stacks Degens](https://stacksdegens.com) - A car racing game with retro graphics enabled through NFTs.
 *   [Project Indigo](https://www.projectindigonft.com) - An interactive story and RPG experience.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
 *   [geomap](https://pypi.org/project/geomap/)
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Polars vs Pandas — 4 key concept differences](https://python.plainenglish.io/polars-vs-pandas-4-key-concept-differences-3c09713c0fe8) - An article that helps to understand key differences between Pandans and Polars Data Science libraries by [@DataScienceDisciple](https://github.com/DataScienceDisciple).
 
-## [10. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [15. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
@@ -124,7 +188,7 @@
 *   [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
 *   [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Defense Evasion (TA0005).
 
-## [11. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [16. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### General Tools
 
@@ -132,13 +196,22 @@
 
 ### Utilities
 
-*   [Gifify (⭐1.1k)](https://github.com/jclem/gifify) - convert screen recording into GIF
+*   [Gifify (⭐1.1k)](https://github.com/jclem/gifify) - Convert screen recording into GIF.
+
+### Libraries / C++
+
+*   [WpfAnimatedGif (⭐561)](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
+*   [XamlAnimatedGif (⭐365)](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 
 ### Libraries / Java
 
-*   [GIFDroid (⭐102)](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter
+*   [GIFDroid (⭐102)](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter.
 
-## [12. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+### Community / Swift
+
+*   [/r/educationalgifs](https://www.reddit.com/r/educationalgifs/)
+
+## [17. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Photos:
 
@@ -146,7 +219,7 @@
 
 
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -159,13 +232,13 @@
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
 *   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
 
-## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Search
 
 *   [skim (⭐3.9k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 
-## [15. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
+## [20. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
 
 ### Use ChatGPT Anywhere / Chatbots
 
@@ -179,7 +252,7 @@
 
 *   [Useful ChatGPT Prompts](https://www.explainthis.io/en/chatgpt): A comprehensive list of useful ChatGPT prompts to help you get the most out of ChatGPT.
 
-## [16. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [21. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
@@ -189,7 +262,7 @@
 
 *   [MVU.v (⭐3)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 
-## [17. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [22. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
@@ -211,7 +284,7 @@
 
 *   [micropython-stepper (⭐1)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 
-## [18. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [23. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Music / Text
 
@@ -259,7 +332,7 @@
 *   [Pock (⭐9.9k)](https://github.com/pock/pock) - Display macOS Dock in Touch Bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Touch Emoji (⭐46)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -301,7 +374,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [20. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [25. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
@@ -310,13 +383,13 @@
 *   [Hogwarts Legacy Reviews](https://www.kaggle.com/datasets/georgescutelnicu/hogwarts-legacy-reviews) - A list of Hogwarts Legacy reviews.
 *   [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - Steam game stats.
 
-## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [26. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Icons
 
 *   [Lucide (⭐3.8k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
-## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
@@ -339,7 +412,7 @@
 
 *   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐5.9k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 
-## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Documentation
 

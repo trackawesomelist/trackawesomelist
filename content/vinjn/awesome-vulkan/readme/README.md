@@ -117,6 +117,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *   [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) - Meta post on how to learn Vulkan
 *   [I Am Graphics And So Can You](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1) - Blog post style tutorial for those new to graphics learning Vulkan.
 *   [Vulkan Game Engine Tutorial](https://www.youtube.com/watch?v=Y9U9IE0gVHA) - Tutorial series on making a vulkan game engine by Brendan Galea on YouTube.
+*   [Kohi Game Engine Series](https://www.youtube.com/watch?v=dHPuU-DJoBM\&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) - "Vulkan Game Engine series, where we make a game engine from the ground up using C and Vulkan".
 *   [Moving to Vulkan (Khronos UK May16)](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
 *   [jhenriques's tutorial](http://jhenriques.net/development.html)
 *   [Lunarg's tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.26.0/windows/tutorial.html)
@@ -151,7 +152,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 ## Samples
 
 *   Khronos [Vulkan samples (⭐3k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐3k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
-*   Sascha Willems's [samples (⭐8.2k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐159)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐8.3k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐159)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 *   (Incomplete) Sascha Willems's [samples port (⭐49)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 *   Sascha Willems's [Vulkan-glTF-PBR (⭐679)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 *   [Vulkan Best Practice for Mobile Developers Samples (⭐543)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
@@ -315,6 +316,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
     *   [Book's Examples (⭐656)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 *   [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields.
+*   [Mastering Graphics Programming with Vulkan](https://www.amazon.com/Mastering-Graphics-Programming-Vulkan-state/dp/1803244798/ref=sr_1_1?keywords=mastering+graphics+programming+with+vulkan\&qid=1678290788\&sprefix=mastering+graphics+%2Caps%2C255\&sr=8-1) - Develop a modern rendering engine from first principles to state-of-the-art techniques, by **Marco Castorina** and **Gabriel Sassone**.
 
 ## Papers
 
@@ -366,7 +368,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Related lists
 
-*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐243k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.

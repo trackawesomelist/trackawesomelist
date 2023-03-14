@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
+
+### Slides & Web Design
+
+- Name: [STORYD](http://www.storyd.ai)
+
+  Title: Data Presentations Leaders Love
+
+  Description: Helps professionals quickly and easily create data-driven business presentations.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Video

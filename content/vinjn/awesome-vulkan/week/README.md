@@ -6,6 +6,16 @@ Awesome Vulkan ecosystem
 
 [ [Daily](/content/vinjn/awesome-vulkan/README.md) / Weekly / [Overview](/content/vinjn/awesome-vulkan/readme/README.md) ]
 
+## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
+
+### Tutorial
+
+*   [Kohi Game Engine Series](https://www.youtube.com/watch?v=dHPuU-DJoBM\&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) - "Vulkan Game Engine series, where we make a game engine from the ground up using C and Vulkan".
+
+### Books
+
+*   [Mastering Graphics Programming with Vulkan](https://www.amazon.com/Mastering-Graphics-Programming-Vulkan-state/dp/1803244798/ref=sr_1_1?keywords=mastering+graphics+programming+with+vulkan\&qid=1678290788\&sprefix=mastering+graphics+%2Caps%2C255\&sr=8-1) - Develop a modern rendering engine from first principles to state-of-the-art techniques, by **Marco Castorina** and **Gabriel Sassone**.
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Libraries
@@ -255,7 +265,7 @@ Awesome Vulkan ecosystem
 
 ### Samples
 
-*   Sascha Willems's [samples (⭐8.2k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐159)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐8.3k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐159)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
@@ -489,7 +499,7 @@ Awesome Vulkan ecosystem
 
 ### Related lists
 
-*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐243k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
