@@ -2,9 +2,24 @@
 
 A curated collection of links for economists
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antontarasenko/awesome-economics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) · ⭐ 944 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antontarasenko/awesome-economics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) · ⭐ 1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/antontarasenko/awesome-economics/README.md) / Weekly / [Overview](/content/antontarasenko/awesome-economics/readme/README.md) ]
+
+## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
+
+### Research / Software
+
+*   [Mendeley](https://www.mendeley.com) - Bibliography management. Support synchronization on multiple plateforms: Mac, Windows, Ipad, Phone...
+*   [Julia](https://julialang.org/) - An open source scientific computing softerware.
+
+### Career / Faculty
+
+*   [Econ Jobs Postings](https://econjobmarket.org/positions) - List of academic job openings.
+
+### Economics on GitHub / Projects
+
+*   [econpizza (⭐23)](https://github.com/gboehl/econpizza) - Toolbox to solve and simulate nonlinear models with heterogeneous agents.
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
@@ -41,22 +56,21 @@ A curated collection of links for economists
 
 ### Economics on GitHub / Projects
 
-*   [econsieve (⭐8)](https://github.com/gboehl/econsieve) - Filter for large-scale nonlinear models.
-*   [macro\_puzzles (⭐67)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
-*   [pydsge (⭐33)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
+*   [macro\_puzzles (⭐72)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
+*   [pydsge (⭐37)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
 
 ## [Oct 29 - Nov 04, 2018](/content/2018/44/README.md)
 
 ### Economics on GitHub / Economists
 
-*   [gboehl](https://github.com/gboehl) - Goethe University Frankfurt, Frankfurt Germany.
+*   [gboehl](https://github.com/gboehl) - Universität Bonn, Bonn, Germany.
 *   [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 
 ### Economics on GitHub / Projects
 
 *   [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
-*   [fecon235 (⭐808)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
-*   [zice-2014 (⭐26)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+*   [fecon235 (⭐894)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+*   [zice-2014 (⭐27)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 
 ### Links Sent by Readers / Projects
 
@@ -88,8 +102,8 @@ A curated collection of links for economists
 
 ### Economics on GitHub / Projects
 
-*   [economics-book (⭐28)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-*   [pyeconomics (⭐170)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+*   [economics-book (⭐29)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+*   [pyeconomics (⭐183)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
@@ -176,7 +190,7 @@ A curated collection of links for economists
 *   [GitHub](https://github.com/) - A repository for code and data. Publishing research here is not a common practice, but it's more convenient that alternatives (university home page, DropBox, etc.).
     *   [GitHub Pages](https://pages.github.com/) - Simple static websites.
     *   [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
-*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 *   [Most common programs used by Economists](http://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists) - A community-managed list of common software.
 *   [Software for Researchers: New Data and Applications](https://antontarasenko.com/2016/01/14/software-for-research/) - Covers software mentioned above and some more.
 
@@ -211,7 +225,6 @@ A curated collection of links for economists
 
 ### Career / Faculty
 
-*   [Econ Jobs Postings](https://econjobmarket.org/postings.php) - List of academic job openings.
 *   [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
 
 ### Economics on GitHub / Economists
@@ -221,4 +234,4 @@ A curated collection of links for economists
 
 ### Economics on GitHub / Projects
 
-*   [quantecon\_nyu\_2016 (⭐107)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+*   [quantecon\_nyu\_2016 (⭐112)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics

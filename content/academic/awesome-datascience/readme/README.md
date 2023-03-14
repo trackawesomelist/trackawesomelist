@@ -442,6 +442,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Redash](https://redash.io/)
 *   [C3](https://c3js.org/)
 *   [TensorWatch (⭐3.3k)](https://github.com/microsoft/tensorwatch)
+*   [geomap](https://pypi.org/project/geomap/)
 
 ### Miscellaneous Tools
 

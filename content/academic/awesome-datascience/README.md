@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Mar 14, 2023](/content/2023/03/14/README.md)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [geomap](https://pypi.org/project/geomap/)
+
 ## [Mar 11, 2023](/content/2023/03/11/README.md)
 
 ### Datasets / Book Deals (Affiliated) 🛍

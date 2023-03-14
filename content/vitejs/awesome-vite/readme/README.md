@@ -126,6 +126,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vulcan (⭐6)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 *   [vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData (⭐1)](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
 *   [vite-plugin-vue-sfc-in-js (⭐11)](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
+*   [vite-vue-lib-template (⭐2)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 *   [vite-plugin-style-vw-loader (⭐0)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 
 #### Vue 2
@@ -287,7 +288,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-virtual-mpa (⭐38)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 *   [tailwindcss-vite-plugin (⭐20)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 *   [vite-plugin-assemblyscript-asc (⭐9)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
-*   [vite-plugin-solid-markdown (⭐6)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 *   [vite-plugin-qiniu-oss (⭐5)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 *   [vite-plugin-stylelint (⭐14)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 *   [Vite-plugin-graphiql (⭐3)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
@@ -546,6 +546,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 *   [vite-plugin-solid (⭐304)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid-markdown (⭐6)](https://github.com/xbmlz/vite-plugin-solid-markdown) - Compile markdown files to Solid components.
+*   [vite-plugin-solid-svg (⭐33)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 <hr>
 

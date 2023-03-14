@@ -186,6 +186,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak Node.js TypeScript Admin Client by Canner (⭐609)](https://github.com/Canner/keycloak-admin/)
 *   [Keycloak Go Client by Cloudtrust (⭐23)](https://github.com/cloudtrust/keycloak-client)
 *   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐221)](https://github.com/relevantfruit/nestjs-keycloak-admin)
+*   [Keycloak Mock Library (⭐88)](https://github.com/TNG/keycloak-mock)
 
 ## Community Extensions
 

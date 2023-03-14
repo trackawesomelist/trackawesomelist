@@ -2,7 +2,7 @@
 
 A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) · ⭐ 74 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) · ⭐ 82 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/friedger/awesome-stacks-chain/README.md) / [Weekly](/content/friedger/awesome-stacks-chain/week/README.md) / Overview ]
 
@@ -59,6 +59,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Send Many](https://sendstx.com) - An application to send STX to many recipients in one transaction.
 *   [MIA Block explorer](http://miamining.com) - A web application to exolore MIA coin transactions for all and personal accounts.
 *   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source (⭐6)](https://github.com/friedger/speed-spend)).
+*   [Sigle](https://app.sigle.io) - A blogging platform.
 
 ### Blockchain Name System
 
@@ -74,31 +75,36 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
 *   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 
+### Games
+
+*   [Stacks Degens](https://stacksdegens.com) - A car racing game with retro graphics enabled through NFTs.
+*   [Project Indigo](https://www.projectindigonft.com) - An interactive story and RPG experience.
+
 ## Clarity Resources
 
 ### Developer Tools
 
-*   [Clarinet (⭐214)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-*   [Clarigen (⭐22)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
+*   [Clarinet (⭐238)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+*   [Clarigen (⭐26)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 *   [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 *   [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 
 ### Libraries
 
 *   [uint256 (⭐3)](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
-*   [clarity-bitcoin (⭐30)](https://github.com/jcnelson/clarity-bitcoin) - A library to verify Bitcoin transactions.
+*   [clarity-bitcoin (⭐32)](https://github.com/jcnelson/clarity-bitcoin) - A library to verify Bitcoin transactions.
 
 ### Contracts
 
-*   [CityCoin (⭐69)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
+*   [CityCoin (⭐70)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 *   [SWAPR (⭐51)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
 *   [FLEXR (⭐18)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
 *   [ClarityDAO (⭐18)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
-*   [NFT Marketplace (⭐13)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
+*   [NFT Marketplace (⭐14)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
 *   [StackStarter (⭐11)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
 *   [Lightning Swaps (⭐0)](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning Network.
 *   [Election Voting (⭐1)](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
-*   [DualX (⭐2)](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
+*   [DualX (⭐3)](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
 
 ### Non-Fungible Tokens
 
@@ -119,18 +125,18 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 ### Frontend Libraries
 
-*   [Stacks.js (⭐882)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
-*   [micro-stacks (⭐68)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [Stacks.js (⭐895)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [micro-stacks (⭐76)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 
 ### CLI
 
-*   [@stacks/cli (⭐882)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+*   [@stacks/cli (⭐895)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
 ### Storage
 
 *   [CompassDB (⭐31)](https://github.com/eder-ai/compass-db) - A library for managing advanced collections in Gaia storage.
 *   [lens-file-source](https://gitlab.com/MyLens/lens-file-source) - File storage abstraction through mechanisms like caching, transactions, and JSON map aggregation for Gaia.
-*   [GaiaDown (⭐10)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
+*   [GaiaDown (⭐11)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
 
 ## Learning Resources
 

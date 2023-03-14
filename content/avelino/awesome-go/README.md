@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 14, 2023](/content/2023/03/14/README.md)
+
+### Third-party APIs
+
+*   [go-openai (⭐1.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+
 ## [Mar 12, 2023](/content/2023/03/12/README.md)
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares

@@ -1,18 +1,121 @@
 # Awesome List Updates on Mar 13 - Mar 19, 2023
 
-15 awesome lists updated this week.
+23 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+
+### Clients
+
+*   [Keycloak Mock Library (⭐88)](https://github.com/TNG/keycloak-mock)
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Third-party APIs
+
+*   [go-openai (⭐1.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+
+## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Overview / YouTube
+
+*   [Poketube (⭐63)](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
+    *   Official instance: <https://poketube.fun>
+
+### Overview / Imgur
+
+*   [Omgur](https://gitlab.wuhoo.xyz/jerry/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
+    *   No JavaScript or ads
+    *   All requests go through the Omgur backend, client never talks to Imgur
+    *   Prevents Imgur from tracking your IP or JavaScript fingerprint
+    *   Lightweight
+    *   Self-hostable
+    *   Mirror of the original repository on Github: [https://github.com/geraldwuhoo/omgur (⭐11)](https://github.com/geraldwuhoo/omgur)
+
+### Overview / Bandcamp
+
+*   [Tent](https://codeberg.org/sun/Tent): A simple alternative front-end for Bandcamp that does not require JavaScript and proxies all requests
+
+### Overview / Mastodon
+
+*   [Tootle](https://gitlab.gnome.org/World/tootle): simple GTK-based Linux Mastodon client
+*   [Fedilab](https://codeberg.org/tom79/Fedilab): multi-account Android Mastodon client
+
+### Overview / Medium
+
+*   [Libmedium (⭐20)](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
+    *   Official website: <https://libmedium.batsense.net>
+
+### Overview / Other services
+
+*   [Wikiless (⭐34)](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
+    *   Official instance: <https://wikiless.org/>
+    *   Public instances: [https://github.com/Metastem/wikiless (⭐34)](https://github.com/Metastem/wikiless)
+
+### Redirection / Other services
+
+*   [Redirector (⭐1.1k)](https://github.com/einaregilsson/Redirector): Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.
+    *   [Firefox Add-On: Redirector](https://addons.mozilla.org/firefox/addon/redirector/)
+    *   [Chrome Extension: Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
+
+## [4. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+
+### Research / Software
+
+*   [Mendeley](https://www.mendeley.com) - Bibliography management. Support synchronization on multiple plateforms: Mac, Windows, Ipad, Phone...
+*   [Julia](https://julialang.org/) - An open source scientific computing softerware.
+
+### Career / Faculty
+
+*   [Econ Jobs Postings](https://econjobmarket.org/positions) - List of academic job openings.
+
+### Economics on GitHub / Projects
+
+*   [econpizza (⭐23)](https://github.com/gboehl/econpizza) - Toolbox to solve and simulate nonlinear models with heterogeneous agents.
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data and ML
+
+*   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (\~10 PRs).
+
+## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vite-vue-lib-template (⭐2)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
+
+### Solid / Integrations
+
+*   [vite-plugin-solid-svg (⭐33)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+
+## [7. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+
+### Apps / Stacks Web Applications
+
+*   [Sigle](https://app.sigle.io) - A blogging platform.
+
+### Apps / Games
+
+*   [Stacks Degens](https://stacksdegens.com) - A car racing game with retro graphics enabled through NFTs.
+*   [Project Indigo](https://www.projectindigonft.com) - An interactive story and RPG experience.
+
+## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [geomap](https://pypi.org/project/geomap/)
+
+## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Polars vs Pandas — 4 key concept differences](https://python.plainenglish.io/polars-vs-pandas-4-key-concept-differences-3c09713c0fe8) - An article that helps to understand key differences between Pandans and Polars Data Science libraries by [@DataScienceDisciple](https://github.com/DataScienceDisciple).
 
-## [2. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [10. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
@@ -21,7 +124,7 @@
 *   [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
 *   [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT\&CK Tactic of Defense Evasion (TA0005).
 
-## [3. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [11. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### General Tools
 
@@ -35,7 +138,7 @@
 
 *   [GIFDroid (⭐102)](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter
 
-## [4. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [12. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Photos:
 
@@ -43,7 +146,7 @@
 
 
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -56,13 +159,13 @@
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
 *   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Search
 
 *   [skim (⭐3.9k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 
-## [7. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
+## [15. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
 
 ### Use ChatGPT Anywhere / Chatbots
 
@@ -76,7 +179,7 @@
 
 *   [Useful ChatGPT Prompts](https://www.explainthis.io/en/chatgpt): A comprehensive list of useful ChatGPT prompts to help you get the most out of ChatGPT.
 
-## [8. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [16. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
@@ -86,7 +189,7 @@
 
 *   [MVU.v (⭐3)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 
-## [9. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [17. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
@@ -108,7 +211,7 @@
 
 *   [micropython-stepper (⭐1)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 
-## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [18. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Music / Text
 
@@ -156,7 +259,15 @@
 *   [Pock (⭐9.9k)](https://github.com/pock/pock) - Display macOS Dock in Touch Bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Touch Emoji (⭐46)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
 ### Android / Projects
 
@@ -190,7 +301,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [12. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [20. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
@@ -199,13 +310,13 @@
 *   [Hogwarts Legacy Reviews](https://www.kaggle.com/datasets/georgescutelnicu/hogwarts-legacy-reviews) - A list of Hogwarts Legacy reviews.
 *   [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - Steam game stats.
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Icons
 
 *   [Lucide (⭐3.8k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
-## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
@@ -228,7 +339,7 @@
 
 *   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐5.9k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 
-## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Documentation
 

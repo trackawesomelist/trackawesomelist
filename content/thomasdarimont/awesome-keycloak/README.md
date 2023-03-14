@@ -6,6 +6,12 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Mar 14, 2023](/content/2023/03/14/README.md)
+
+### Clients
+
+*   [Keycloak Mock Library (⭐88)](https://github.com/TNG/keycloak-mock)
+
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 
 ### Articles

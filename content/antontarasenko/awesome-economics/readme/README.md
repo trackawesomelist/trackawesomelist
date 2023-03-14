@@ -2,7 +2,7 @@
 
 A curated collection of links for economists
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antontarasenko/awesome-economics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) · ⭐ 944 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antontarasenko/awesome-economics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) · ⭐ 1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/antontarasenko/awesome-economics/README.md) / [Weekly](/content/antontarasenko/awesome-economics/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@ A curated collection of links for economists
 
 # Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated collection of links for economists. Part of the ["Awesome X" series (⭐223k)](https://github.com/sindresorhus/awesome).*
+*A curated collection of links for economists. Part of the ["Awesome X" series (⭐243k)](https://github.com/sindresorhus/awesome).*
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
@@ -84,6 +84,7 @@ Writing
 *   [LyX](http://www.lyx.org/) - A free and simple editor for LaTeX.
 *   [Zotero](https://www.zotero.org/) - Bibliography management. Also install (a) Zotero browser plugin to import papers from RePEc to your library; (b) Zotero-LyX plugin to cite literature easily.
 *   [Git](https://git-scm.com/downloads) - A version control system. Useful if you want to revert changes done months ago or collaborate with other authors. DropBox also has version control, but Git is more explicit. A [short intro](http://rogerdudler.github.io/git-guide/). Or use [GitHub Desktop](https://desktop.github.com/) if you like it simple.
+*   [Mendeley](https://www.mendeley.com) - Bibliography management. Support synchronization on multiple plateforms: Mac, Windows, Ipad, Phone...
 
 Computing
 
@@ -95,13 +96,14 @@ Computing
     *   [Julia](https://julialang.org/) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 *   [Mathematica](https://www.wolfram.com/mathematica/) - Symbolic computations. Free alternative
     *   [Sage](http://www.sagemath.org/)
+*   [Julia](https://julialang.org/) - An open source scientific computing softerware.
 
 Sharing
 
 *   [GitHub](https://github.com/) - A repository for code and data. Publishing research here is not a common practice, but it's more convenient that alternatives (university home page, DropBox, etc.).
     *   [GitHub Pages](https://pages.github.com/) - Simple static websites.
     *   [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
-*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 
 Reviews
 
@@ -149,7 +151,7 @@ Reviews
 ### Faculty
 
 *   [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
-*   [Econ Jobs Postings](https://econjobmarket.org/postings.php) - List of academic job openings.
+*   [Econ Jobs Postings](https://econjobmarket.org/positions) - List of academic job openings.
 *   [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
 
 ## Economics on GitHub
@@ -159,7 +161,7 @@ Reviews
 ### Economists
 
 *   [davidrpugh](https://github.com/davidrpugh) - Institute for New Economic Thinking, Oxford Martin School; Oxford Mathematical Institute, Oxford, UK.
-*   [gboehl](https://github.com/gboehl) - Goethe University Frankfurt, Frankfurt Germany.
+*   [gboehl](https://github.com/gboehl) - Universität Bonn, Bonn, Germany.
 *   [hmgaudecker](https://github.com/hmgaudecker) - Universität Bonn, Bonn, Germany.
 *   [jesusfv](https://github.com/jesusfv)
 *   [jstac](https://github.com/jstac) - Australian National University, Canberra, Australia.
@@ -172,16 +174,16 @@ Reviews
 ### Projects
 
 *   [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
-*   [economics-book (⭐28)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-*   [econsieve (⭐8)](https://github.com/gboehl/econsieve) - Filter for large-scale nonlinear models.
-*   [fecon235 (⭐808)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
-*   [macro\_puzzles (⭐67)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
-*   [pydsge (⭐33)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
-*   [pyeconomics (⭐170)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+*   [economics-book (⭐29)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+*   [econpizza (⭐23)](https://github.com/gboehl/econpizza) - Toolbox to solve and simulate nonlinear models with heterogeneous agents.
+*   [fecon235 (⭐894)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+*   [macro\_puzzles (⭐72)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
+*   [pydsge (⭐37)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
+*   [pyeconomics (⭐183)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
-*   [quantecon\_nyu\_2016 (⭐107)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+*   [quantecon\_nyu\_2016 (⭐112)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
-*   [zice-2014 (⭐26)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+*   [zice-2014 (⭐27)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 
 ## Links Sent by Readers
 
