@@ -2,7 +2,7 @@
 
 :european_castle: Fantasy literature worth reading
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 970 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1K · 🏷️ Entertainment
 
 [ [Daily](/content/RichardLitt/awesome-fantasy/README.md) / [Weekly](/content/RichardLitt/awesome-fantasy/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi (⭐3.5k)](https://github.com/sindresorhus/awesome-scifi).*
+*Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi (⭐3.7k)](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/README.md/contributing.md) before contributing.*
 
@@ -192,7 +192,7 @@ Would recommend this entire series and the whole Cosmere to any fantasy fan. - [
 >
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
 >
-> Books 4-6 are sequels that take place 300 years later.
+> Books 4-7 are sequels that take place 300 years later.
 
 Books:
 
@@ -202,7 +202,7 @@ Books:
 *   [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) \[4.2]
 *   [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) \[4.2]
 *   [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) \[4.2]
-*   *More coming*
+*   [The Lost Metal](https://www.goodreads.com/book/show/23947089-the-lost-metal) \[4.5]
 
 #### [Percy Jackson](https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians) *by [Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)*
 
@@ -264,9 +264,9 @@ One of my favorite parts of the books was the unique perspective brought by each
 
 Books:
 
-\-[The City of Brass](https://www.goodreads.com/book/show/32718027-the-city-of-brass)
-\-[The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
-\-[The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
+-[The City of Brass](https://www.goodreads.com/book/show/32718027-the-city-of-brass)
+-[The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
+-[The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
 
 > In the Daevabad Trilogy, S. A. Chakraborty builds an astounding world full of magic and conflict. Nahri begins as a grifter in Egypt, but accidentally summons a djinn who unwillingly introduces her to a world of magic and the city he once called home. Its history is dark and its future uncertain as Nahri discovers who she really is and how she can change the world of the djinn.
 
