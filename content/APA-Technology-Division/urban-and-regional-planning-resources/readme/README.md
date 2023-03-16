@@ -59,6 +59,7 @@ This repository contains curated list of different urban & regional planning dat
 *   [Platforms and Software Resources](#platforms-and-software-resources)
     *   [Environmental and Climate Planning Tools and Platforms](#environmental-and-climate-planning-tools-and-platforms)
     *   [Geospatial Data and Visualization](#geospatial-data-and-visualization)
+    *   [Immersive Planning and Design Platforms](#immersive-planning-and-design-platforms)
     *   [Public Engagement Tools and Platforms](#public-engagement-tools-and-platforms)
     *   [Urban Design Tools and Platforms](#urban-design-tools-and-platforms)
     *   [Urban Planning Tools and Platforms](#urban-planning-tools-and-platforms)
@@ -404,6 +405,18 @@ Software, tools, and platforms for geospatial visualization.
 *   [BlenderGIS (⭐6.1k)](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 *   [Felt](https://felt.com/) - A web based mapping application that enables multple users to colloboratively edit and view in data in real-time.
 
+### Immersive Planning and Design Platforms
+
+Software, tools, and platforms designed to create digital replicas of our world, render urban scenes, and immerse stakeholders in 3D digital environments to illustrate potential designs or alternative futures.
+
+*   [Arkio](https://www.arkio.is/) - Arkio is a new cloud-based collaborative spatial design software that allows planners, designers, and stakeholders to create 3-D models of buildings and neighborhoods over VR and other devices.
+*   [InCitu](https://www.incitu.us/) - InCitu is an AR platform designed to support urban planners in the analysis and visualization of urban data by representing scale models of buildings, affordable housing, mixed-use development, parks, and bridges.
+*   [Polycam](https://poly.cam/) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone’s camera.
+*   [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
+*   [Spectracities](https://www.spectracities.com/) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.
+*   [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion is an easy to use real-time visualization software that creates offline renderer-quality images, animations, and panoramas, together with interactive 360° videos and VR presentations built on Unreal Engine.
+*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games’ Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
+
 ### Public Engagement Tools and Platforms
 
 Software, tools, and platforms intended to aid with public engagement and outreach activities.
@@ -429,7 +442,6 @@ Software, tools, and platforms to assist with urban design and similar creative 
 *   [Inkscape](https://inkscape.org/) - Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
 *   [TestFit](https://testfit.io/) - TestFit features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
 *   [Delve](https://www.sidewalklabs.com/products/delve) - Delve uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
-*   [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion is an easy to use real-time visualization software that creates offline renderer-quality images, animations, and panoramas, together with interactive 360° videos and VR presentations built on Unreal Engine.
 
 ### Urban Planning Tools and Platforms
 
@@ -514,12 +526,12 @@ Other types of planning data & technology resources. They are a good source of i
 
 This page is registered as an [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics.
 
-*   [awesome-transit (⭐958)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
+*   [awesome-transit (⭐974)](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
 *   [micromobility-tools-and-resources (⭐29)](https://github.com/NABSA/micromobility-tools-and-resources) - A collection of micromobility tools and data resources.
 *   [awesome-sustainable-technology (⭐1.4k)](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
 *   [awesome-gis (⭐3.3k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-*   [awesome-agriculture (⭐946)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
-*   [awesome-geojson (⭐1.9k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+*   [awesome-agriculture (⭐953)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
+*   [awesome-geojson (⭐2k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 
 ### Other Technology Resource Aggregators
 
