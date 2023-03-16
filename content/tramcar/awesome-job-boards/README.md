@@ -1,12 +1,38 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 710 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 734 · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Mar 16, 2023](/content/2023/03/16/README.md)
+
+### Blockchain
+
+*   [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
+
+### Design
+
+*   [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+
+### Programming / Frontend
+
+*   [Frontend Careers](https://frontendcareers.com/) - Job board for Frontend Developers
+
+### Remote / TypeScript
+
+*   [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
+
+### Remote / Aggregator
+
+*   [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
+
+### Various / United Kingdom
+
+*   [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
+
 ## [Jan 11, 2023](/content/2023/01/11/README.md)
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 
@@ -34,7 +60,7 @@
 
 *   [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 
@@ -47,12 +73,6 @@
 ### Artificial Intelligence (AI)
 
 *   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
-
-## [Nov 08, 2022](/content/2022/11/08/README.md)
-
-### Blockchain
-
-*   [Woody3](https://www.woody3.xyz/) - Find your dream non-tech job in Web3
 
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
@@ -160,7 +180,7 @@
 
 *   [Rust Jobs](https://rustjobs.dev)
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 
@@ -223,7 +243,7 @@
 
 ## [Dec 14, 2020](/content/2020/12/14/README.md)
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
@@ -277,7 +297,7 @@
 
 *   [Jobs In JS](https://jobsinjs.com/)
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [Werkington](https://www.werkington.com/)
 
@@ -288,11 +308,6 @@
 ### Tech / Aggregator
 
 *   [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
-
-### Tech / Australia
-
-*   [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
-*   [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
 ## [Mar 15, 2020](/content/2020/03/15/README.md)
 
@@ -331,7 +346,7 @@
 
 ## [Sep 14, 2019](/content/2019/09/14/README.md)
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [DailyRemote](https://dailyremote.com/)
 
@@ -367,12 +382,6 @@
 
 *   [Django Jobs](https://djangojobs.net/jobs/)
 
-## [Oct 01, 2018](/content/2018/10/01/README.md)
-
-### Programming / WebAssembly
-
-*   [WebAssembly Jobs](https://webassemblyjobs.com/)
-
 ## [Sep 21, 2018](/content/2018/09/21/README.md)
 
 ### Remote / Aggregator
@@ -389,7 +398,7 @@
 
 *   [WPhired](https://www.wphired.com/) - WordPress Jobs
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [We Work Remotely](https://weworkremotely.com/)
 

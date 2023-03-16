@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jetli/awesome-yew/week/README.md) / [Overview](/content/jetli/awesome-yew/readme/README.md) ]
 
+## [Mar 16, 2023](/content/2023/03/16/README.md)
+
+### Crates / Component Libraries
+
+*   [yew-bootstrap (⭐7)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
+
 ## [Mar 11, 2023](/content/2023/03/11/README.md)
 
 ### Projects

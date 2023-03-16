@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
+### Audio
+
+*   [Aubio (⭐2.9k)](https://github.com/aubio/aubio) - A library for audio and music analysis.\[GPL-3.0] [website](https://aubio.org/)
+
 ### Other Awesome Projects
 
 *   [awesome-hpp (⭐2.3k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
