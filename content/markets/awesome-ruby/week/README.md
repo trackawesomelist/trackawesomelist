@@ -8,6 +8,10 @@
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
+### CMS
+
+*   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
+
 ### Video
 
 *   [VideoInfo (⭐380)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.

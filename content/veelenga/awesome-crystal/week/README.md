@@ -8,6 +8,10 @@
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
+### CLI Builders
+
+*   [Cling (⭐7)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
+
 ### Database Drivers/Clients
 
 *   [surrealdb.cr (⭐4)](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client

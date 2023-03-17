@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Mar 17, 2023](/content/2023/03/17/README.md)
+
+### CLI Builders
+
+*   [Cling (⭐7)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
+
 ## [Mar 16, 2023](/content/2023/03/16/README.md)
 
 ### Database Drivers/Clients

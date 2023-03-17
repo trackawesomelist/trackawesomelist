@@ -57,6 +57,7 @@ Curating awesome GitHub organizations\
 
 <!-- @web -->
 
+*   [Poppinss](https://github.com/poppinss) - Small focused modules for Node.js.
 *   [unified](https://github.com/unifiedjs) - content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
 *   [Hono](https://github.com/honojs) - Ultrafast web framework for the Edge.
 *   [Oven](https://github.com/oven-sh) - The company behind Bun, the incredibly fast JavaScript runtime, bundler, transpiler and package manager.

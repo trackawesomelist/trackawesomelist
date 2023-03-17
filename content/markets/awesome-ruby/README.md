@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Mar 17, 2023](/content/2023/03/17/README.md)
+
+### CMS
+
+*   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
+
 ## [Mar 16, 2023](/content/2023/03/16/README.md)
 
 ### Video

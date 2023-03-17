@@ -148,6 +148,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 *   [Athena Console (⭐12)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
 *   [clicr (⭐30)](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
 *   [clim (⭐118)](https://github.com/at-grandpa/clim) - Slim command line interface builder
+*   [Cling (⭐7)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
 *   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
 *   [Keimeno (⭐15)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 *   [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)

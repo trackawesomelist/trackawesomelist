@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 
+## [Mar 17, 2023](/content/2023/03/17/README.md)
+
+### Learning / Check Also
+
+*   [Web Configs (⭐2)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
+*   [My Neovim Config (⭐39)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
 ### Templates / Misc
@@ -82,7 +89,7 @@
 
 ### Resources / Misc
 
-*   [Email marketing regulations (⭐290)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐404)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [Oct 26, 2022](/content/2022/10/26/README.md)
 
@@ -120,7 +127,7 @@
 
 ### Tools / Misc
 
-*   [email-verifier (⭐618)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐653)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
@@ -146,7 +153,7 @@
 
 ### Self-Hosted Services / Misc
 
-*   [SimpleLogin (⭐3.4k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3.5k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [Mar 29, 2020](/content/2020/03/29/README.md)
 
@@ -250,7 +257,7 @@
 
 ### Testing / Misc
 
-*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailHog (⭐12k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 *   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
 ## [Dec 24, 2018](/content/2018/12/24/README.md)
@@ -305,7 +312,7 @@
 
 ### Templates / Misc
 
-*   [Postmark Transactional Email Templates (⭐2.6k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐2.7k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
 ## [Oct 18, 2018](/content/2018/10/18/README.md)
 
@@ -351,9 +358,9 @@
 
 ## [Jul 09, 2017](/content/2017/07/09/README.md)
 
-### Learning / More Awesome
+### Learning / Check Also
 
-*   📚 [Awesome JS Books (⭐55)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   [Awesome JS Books (⭐56)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
 ## [Jun 13, 2017](/content/2017/06/13/README.md)
 
@@ -500,7 +507,7 @@
 
 ### Templates / Misc
 
-*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources / Misc
 
@@ -517,9 +524,9 @@
 *   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
 *   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
-*   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+*   [Cerberus (⭐4.7k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐684)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐688)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
 *   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
