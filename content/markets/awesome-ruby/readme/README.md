@@ -156,6 +156,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 
 *   [ActiveModel::Serializers (⭐5.3k)](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
 *   [Acts\_As\_Api (⭐508)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
+*   [Alba (⭐693)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 *   [Blanket (⭐464)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 *   [Blueprinter (⭐925)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 *   [cache\_crispies (⭐141)](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
@@ -1313,6 +1314,7 @@ Online tools, services and APIs to simplify development.
 *   [instagram-ruby-gem (⭐1.5k)](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
 *   [itunes\_store\_transporter (⭐118)](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
 *   [linkedin (⭐750)](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
+*   [Notion Ruby Client (⭐88)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 *   [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
 *   [Pusher (⭐656)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 *   [Restforce (⭐753)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.

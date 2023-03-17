@@ -443,30 +443,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
 
-#### [35. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
-
-##### Lecture Videos Playlists / Monograph
-
-*   [Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.
-
-#### [36. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+#### [35. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ##### Integration
 
 *   [cool-stack (⭐6)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
 
-#### [37. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
-
-##### Platforms and Software Resources / Immersive Planning and Design Platforms
-
-*   [Arkio](https://www.arkio.is/) - Arkio is a new cloud-based collaborative spatial design software that allows planners, designers, and stakeholders to create 3-D models of buildings and neighborhoods over VR and other devices.
-*   [InCitu](https://www.incitu.us/) - InCitu is an AR platform designed to support urban planners in the analysis and visualization of urban data by representing scale models of buildings, affordable housing, mixed-use development, parks, and bridges.
-*   [Polycam](https://poly.cam/) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone’s camera.
-*   [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
-*   [Spectracities](https://www.spectracities.com/) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.
-*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games’ Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
-
-#### [38. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [36. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Tutorials & workshops
 
@@ -476,7 +459,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Polars vs Pandas — 4 key concept differences](https://python.plainenglish.io/polars-vs-pandas-4-key-concept-differences-3c09713c0fe8) - An article that helps to understand key differences between Pandans and Polars Data Science libraries by [@DataScienceDisciple](https://github.com/DataScienceDisciple).
 
-#### [39. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [37. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -486,13 +469,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Bearer](https://bearer.com) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
-#### [40. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+#### [38. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ##### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Bittensor](https://bittensor.com/) - Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. [Related resources.](https://taostats.io/links/)
 
-#### [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -511,14 +494,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐157k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
 *   [userandnode (⭐0)](https://github.com/timhilton/userandnode) - A clean theme with decorators for username, node version, current directory, and `git` info.
 
-#### [42. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+#### [40. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ##### Learning / Check Also
 
 *   [Web Configs (⭐2)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
 *   [My Neovim Config (⭐39)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 
-#### [43. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [41. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data and ML
 
@@ -532,14 +515,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AdminMart](https://adminmart.com/) — High Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJs and NuxtJs!
 
-#### [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Photo and Video Galleries
 
 *   [Nextcloud Memories (⭐1.1k)](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://memories-demo.radialapps.com/)) `AGPL-3.0` `PHP`
 *   [SPIS (⭐3)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Rust`
 
-#### [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Libraries
 
@@ -581,7 +564,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [46. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [44. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Reading and Writing Tools / Text Editors
 
@@ -595,23 +578,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Modal File Manager (⭐44)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [47. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [45. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / Utils
 
 *   [croner (⭐206)](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 
-#### [48. Awesome Ruby](/content/markets/awesome-ruby/README.md)
-
-##### CMS
-
-*   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
-
-##### Video
-
-*   [VideoInfo (⭐380)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
-
-#### [49. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [46. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Audio
 
@@ -634,7 +607,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [awesome-hpp (⭐2.3k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 
-#### [50. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [47. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### CLI Builders
 
@@ -644,13 +617,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [surrealdb.cr (⭐4)](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client
 
-#### [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+#### [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ##### Host-based tools / Tarpits
 
 *   [Shufflecake](https://shufflecake.net/) - Plausible deniability for multiple hidden filesystems on Linux.
 
-#### [52. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [49. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2018
 
@@ -670,11 +643,56 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [A peek into the black box: exploring classifiers by randomization](https://github.com/erwanlemerrer/awesome-audit-algorithms/blob/main/README.md/) - (Data Mining and Knowledge Discovery journal) ([code (⭐2)](https://github.com/tsabsch/goldeneye)) *Finds groups of features that can be permuted without changing the output label of predicted samples*
 
-#### [53. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+#### [50. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
 
 ##### Contents / Web
 
 *   [Poppinss](https://github.com/poppinss) - Small focused modules for Node.js.
+
+#### [51. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+
+##### Lecture Videos Playlists / Monograph
+
+*   [Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.
+*   [Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)
+
+##### Lecture Notes / Monograph
+
+*   [Zhou. A Theorist's Toolkit. Illinois](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+*   [O'Donnell. A Theorist's Toolkit. CMU](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+*   [Arora. Thinking Like a Theorist. Princeton](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+*   [Arora. A Theorist's Toolkit. Princeton](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/) - Aimed primarily at first and second year graduate students who plan to do research in theoretical computer science. We will introduce probabilistic, algebraic, combinatorial, and algorithmic methods useful in proofs.
+*   [Kelner. Topics in Theoretical Computer Science: An Algorithmist's Toolkit. MIT](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
+*   [Maji & Valiant. Theoretical Computer Science Toolkit. Purdue](https://www.cs.purdue.edu/homes/hmaji/teaching/Spring%202023/CS-58500-Spring-2023.html)
+
+#### [52. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+##### Platforms and Software Resources / Immersive Planning and Design Platforms
+
+*   [Arkio](https://www.arkio.is/) - Arkio is a new cloud-based collaborative spatial design software that allows planners, designers, and stakeholders to create 3-D models of buildings and neighborhoods over VR and other devices.
+*   [InCitu](https://www.incitu.us/) - InCitu is an AR platform designed to support urban planners in the analysis and visualization of urban data by representing scale models of buildings, affordable housing, mixed-use development, parks, and bridges.
+*   [Polycam](https://poly.cam/) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone's camera.
+*   [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
+*   [Spectracities](https://www.spectracities.com/) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.
+*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
+
+#### [53. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+##### API Builder and Discovery
+
+*   [Alba (⭐693)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+
+##### CMS
+
+*   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
+
+##### Third-party APIs
+
+*   [Notion Ruby Client (⭐88)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
+
+##### Video
+
+*   [VideoInfo (⭐380)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
 
 ---
 
@@ -838,7 +856,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source ⭐ 17K, 📝 01&#x2F;05 ](https://github.com/jtoy/awesome-tensorflow)) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md) - ([Source ⭐ 139, 📝 21&#x2F;04&#x2F;04 ](https://github.com/aaronhma/awesome-tensorflow-js)) - Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js
 - [Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md) - ([Source ⭐ 960, 📝 22&#x2F;02&#x2F;15 ](https://github.com/margaretmz/awesome-tensorflow-lite)) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
-- [Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md) - ([Source ⭐ 362, 📝 03&#x2F;16 ](https://github.com/mostafatouny/awesome-theoretical-computer-science)) - The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
+- [Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md) - ([Source ⭐ 362, 📝 03&#x2F;17 ](https://github.com/mostafatouny/awesome-theoretical-computer-science)) - The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 - [Awesome Xai](/content/altamiracorp/awesome-xai/README.md) - ([Source ⭐ 54, 📝 21&#x2F;05&#x2F;04 ](https://github.com/altamiracorp/awesome-xai)) - Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources
 - [Computer Science](/content/ossu/computer-science/README.md) - ([Source ⭐ 131K, 📝 22&#x2F;03&#x2F;20 ](https://github.com/ossu/computer-science)) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 

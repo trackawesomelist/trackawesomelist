@@ -8,9 +8,17 @@
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
+### API Builder and Discovery
+
+*   [Alba (⭐693)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+
 ### CMS
 
 *   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
+
+### Third-party APIs
+
+*   [Notion Ruby Client (⭐88)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ### Video
 

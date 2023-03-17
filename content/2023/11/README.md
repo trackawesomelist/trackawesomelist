@@ -86,9 +86,17 @@
 
 ## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
+### API Builder and Discovery
+
+*   [Alba (⭐693)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+
 ### CMS
 
 *   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
+
+### Third-party APIs
+
+*   [Notion Ruby Client (⭐88)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ### Video
 
@@ -100,10 +108,10 @@
 
 *   [Arkio](https://www.arkio.is/) - Arkio is a new cloud-based collaborative spatial design software that allows planners, designers, and stakeholders to create 3-D models of buildings and neighborhoods over VR and other devices.
 *   [InCitu](https://www.incitu.us/) - InCitu is an AR platform designed to support urban planners in the analysis and visualization of urban data by representing scale models of buildings, affordable housing, mixed-use development, parks, and bridges.
-*   [Polycam](https://poly.cam/) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone’s camera.
+*   [Polycam](https://poly.cam/) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone's camera.
 *   [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
 *   [Spectracities](https://www.spectracities.com/) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.
-*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games’ Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
+*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
 
 ## [12. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -116,6 +124,16 @@
 ### Lecture Videos Playlists / Monograph
 
 *   [Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.
+*   [Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)
+
+### Lecture Notes / Monograph
+
+*   [Zhou. A Theorist's Toolkit. Illinois](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+*   [O'Donnell. A Theorist's Toolkit. CMU](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+*   [Arora. Thinking Like a Theorist. Princeton](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+*   [Arora. A Theorist's Toolkit. Princeton](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/) - Aimed primarily at first and second year graduate students who plan to do research in theoretical computer science. We will introduce probabilistic, algebraic, combinatorial, and algorithmic methods useful in proofs.
+*   [Kelner. Topics in Theoretical Computer Science: An Algorithmist's Toolkit. MIT](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
+*   [Maji & Valiant. Theoretical Computer Science Toolkit. Purdue](https://www.cs.purdue.edu/homes/hmaji/teaching/Spring%202023/CS-58500-Spring-2023.html)
 
 ## [14. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
