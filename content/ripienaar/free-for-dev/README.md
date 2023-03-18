@@ -12,6 +12,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [deploybot.com](https://www.deploybot.com/) — 1 repository with 10 deployments, free for Open Source
 
+### Font
+
+*   [FontsKey](https://www.fontskey.com/) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
+    **[⬆️ Back to Top](#table-of-contents)**
+
 ## [Mar 17, 2023](/content/2023/03/17/README.md)
 
 ### Miscellaneous

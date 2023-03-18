@@ -16,6 +16,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [deploybot.com](https://www.deploybot.com/) — 1 repository with 10 deployments, free for Open Source
 
+### Font
+
+*   [FontsKey](https://www.fontskey.com/) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
+    **[⬆️ Back to Top](#table-of-contents)**
+
 ### Miscellaneous
 
 *   [BinShare.net](https://binshare.net) - Create & share code or binaries. Avaliable to share as an beautiful image e.g. for Twitter / Facebook post or as a link e.g for chats or forums.

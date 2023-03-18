@@ -6,6 +6,20 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 [ Daily / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / [Overview](/content/wardley-maps-community/awesome-wardley-maps/readme/README.md) ]
 
+## [Mar 18, 2023](/content/2023/03/18/README.md)
+
+### Reading
+
+*   [Cuaderno de trabajo para dibujar estrategias: Método y práctica para la estrategia empresarial (Spanish Edition)](https://www.amazon.com/Cuaderno-trabajo-para-dibujar-estrategias/dp/B09KN2M1FP/) -Fichas visuales en las que se repasan conceptos como necesidades de los usuarios, patrones climáticos, doctrinas, esquemas de juego. Repaso de conceptos, ejemplos y otros temas de estrategia.
+
+### Courses
+
+*   [Spanish, Acelera tu aprendizaje en Mapas de Wardley](https://mapasdewardley.com/estrategia/acelera-tu-aprendizaje/) - Joaquín Peña Fernández, MapasdeWardley.com.
+
+### Maps in the Wild
+
+*   [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - Comparison of scenarios between China, EEUU and Europe.
+
 ## [Mar 08, 2023](/content/2023/03/08/README.md)
 
 ### Apps / Mapping
@@ -253,7 +267,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
     *   E-book - PDF and Kindle [downloads (⭐271)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
-    *   [Spanish Translation](http://joapen.com/mapasdewardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
+    *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 
 ## [Jul 20, 2020](/content/2020/07/20/README.md)
