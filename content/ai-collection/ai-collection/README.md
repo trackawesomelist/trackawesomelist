@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Mar 18, 2023](/content/2023/03/18/README.md)
+
+### Organization & Automation
+
+- Name: [Magical](https://www.getmagical.com/ai)
+
+  Title: Make Tasks Disappear. Like Magic.
+
+  Description: Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Mar 14, 2023](/content/2023/03/14/README.md)
 
 ### Slides & Web Design

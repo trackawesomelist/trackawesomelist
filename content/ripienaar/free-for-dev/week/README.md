@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (\~10 PRs).
 
+### CI and CD
+
+*   [deploybot.com](https://www.deploybot.com/) — 1 repository with 10 deployments, free for Open Source
+
 ### Miscellaneous
 
 *   [BinShare.net](https://binshare.net) - Create & share code or binaries. Avaliable to share as an beautiful image e.g. for Twitter / Facebook post or as a link e.g for chats or forums.

@@ -2,7 +2,7 @@
 
 A collection of bookmarks, resources, articles for product designers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ttt30ga/awesome-product-design/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) · ⭐ 1.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ttt30ga/awesome-product-design/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) · ⭐ 2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ttt30ga/awesome-product-design/README.md) / [Weekly](/content/ttt30ga/awesome-product-design/week/README.md) / Overview ]
 
@@ -180,7 +180,7 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 
 *   [Design Principles FTW](https://www.designprinciplesftw.com/) - The biggest collection of Design Principles on the Internet.
 *   [Awesome Design Systems (⭐15k)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
-*   [Awesome Sketch (⭐728)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+*   [Awesome Sketch (⭐730)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 
 #### Icons
 
@@ -209,6 +209,8 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 *   [Colour Lovers](https://www.colourlovers.com/) - Creative community.
 *   [Color Hunt](https://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
 *   [Brand Colors](https://brand-colors.com/) - 1100+ color collection available in sass, less, stylus and css.
+*   [Atmos](https://atmos.style/) - Everything you need to create color palettes
+*   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
 
 #### Stock Images
 
@@ -239,7 +241,7 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 *   [The 12 Principles](https://the12principles.tumblr.com/) - The 12 basic principles of animation were developed by the ‘old men’ of Walt Disney Studios.
 *   [Hoverstat](https://hoverstat.es/) - The home of alternative digital design.
 *   [Microinteractions](https://microinteractions.com/) - Designing with Details.
-*   [Motion UI Design (⭐749)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
+*   [Motion UI Design (⭐768)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 
 #### Softwares
 
@@ -287,7 +289,7 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 *   [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 *   [YouGov](https://yougov.com/) - We believe in the power of participation.
 *   [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
-*   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
+*   [The Tate Collection (⭐499)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
 ## IoT

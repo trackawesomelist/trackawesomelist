@@ -2,9 +2,16 @@
 
 A collection of bookmarks, resources, articles for product designers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ttt30ga/awesome-product-design/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) · ⭐ 1.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ttt30ga/awesome-product-design/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) · ⭐ 2K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ttt30ga/awesome-product-design/week/README.md) / [Overview](/content/ttt30ga/awesome-product-design/readme/README.md) ]
+
+## [Mar 18, 2023](/content/2023/03/18/README.md)
+
+### Colors / Storyboard
+
+*   [Atmos](https://atmos.style/) - Everything you need to create color palettes
+*   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
 
 ## [Jan 17, 2022](/content/2022/01/17/README.md)
 
@@ -164,7 +171,7 @@ A collection of bookmarks, resources, articles for product designers.
 ### Resources / Storyboard
 
 *   [Awesome Design Systems (⭐15k)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
-*   [Awesome Sketch (⭐728)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+*   [Awesome Sketch (⭐730)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 
 ### Softwares / Storyboard
 
@@ -236,7 +243,7 @@ A collection of bookmarks, resources, articles for product designers.
 *   [Intercom](https://blog.intercom.com/) - Design, Customer Success, & Startup Blog.
 *   [UXDesign.cc](https://uxdesign.cc/) - User Experience, Usability, Product Design. Follow the UXDesign.cc.
 *   [Hoverstat](https://hoverstat.es/) - The home of alternative digital design.
-*   [Motion UI Design (⭐749)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
+*   [Motion UI Design (⭐768)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 *   [Gov.Uk](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) - Making your service accessible: an introduction.
 *   [Smashing Magazine](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/) - Color Contrast And Why You Should Rethink It.
 *   [Web Credible](https://www.webcredible.com/blog/visual-design-and-colour-accessibility/) - Visual design and color accessibility.
@@ -319,5 +326,5 @@ A collection of bookmarks, resources, articles for product designers.
 *   [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 *   [YouGov](https://yougov.com/) - We believe in the power of participation.
 *   [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
-*   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
+*   [The Tate Collection (⭐499)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.

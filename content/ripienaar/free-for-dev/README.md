@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 18, 2023](/content/2023/03/18/README.md)
+
+### CI and CD
+
+*   [deploybot.com](https://www.deploybot.com/) — 1 repository with 10 deployments, free for Open Source
+
 ## [Mar 17, 2023](/content/2023/03/17/README.md)
 
 ### Miscellaneous

@@ -16,6 +16,10 @@
 
 *   [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
 
+### Core Extensions
+
+*   [MemoWise (⭐477)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+
 ### Third-party APIs
 
 *   [Notion Ruby Client (⭐88)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.

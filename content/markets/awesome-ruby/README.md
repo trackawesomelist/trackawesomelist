@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Mar 18, 2023](/content/2023/03/18/README.md)
+
+### Core Extensions
+
+*   [MemoWise (⭐477)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+
 ## [Mar 17, 2023](/content/2023/03/17/README.md)
 
 ### API Builder and Discovery
