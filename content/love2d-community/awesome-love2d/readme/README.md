@@ -59,6 +59,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *   [Lovox (⭐45)](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels.
 *   [g3d (⭐389)](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 *   [model\_renderer (⭐17)](https://github.com/xiejiangzhi/model_renderer) - A simple 3d model renderer for love2d.
+*   [Menori (⭐74)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
 
 ## AI
 
@@ -164,6 +165,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *   [lua-state-machine (⭐303)](https://github.com/kyleconroy/lua-state-machine) - Lua Finite State Machine.
 *   [lue (⭐41)](https://github.com/Ulydev/lue) - Lue is a LÖVE library that allows you to display hue color effects in your game.
 *   [lume (⭐784)](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
+*   [Manami (⭐27)](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
 *   [narrator (⭐78)](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation.
 *   [reflowprint (⭐41)](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time.
 *   [roomy (⭐35)](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
@@ -353,6 +355,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *   [SUIT (⭐422)](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
 *   [YALG (⭐10)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
 *   [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
+*   [Inky (⭐18)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 
 ## Utilities
 

@@ -6,6 +6,20 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/love2d-community/awesome-love2d/week/README.md) / [Overview](/content/love2d-community/awesome-love2d/readme/README.md) ]
 
+## [Mar 19, 2023](/content/2023/03/19/README.md)
+
+### 3D
+
+*   [Menori (⭐74)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
+
+### Helpers
+
+*   [Manami (⭐27)](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
+
+### UI
+
+*   [Inky (⭐18)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
+
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 
 ### Development

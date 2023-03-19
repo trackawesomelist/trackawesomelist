@@ -1,18 +1,44 @@
 # Awesome List Updates on Mar 19, 2023
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+## [1. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+
+### Resources / Videos
+
+*   [Functional Programming in TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
+
+## [2. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+
+### 3D
+
+*   [Menori (⭐74)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
+
+### Helpers
+
+*   [Manami (⭐27)](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
+
+### UI
+
+*   [Inky (⭐18)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
+
+## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+
+### Resources / Roadmaps
+
+*   [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap providing step wise guide to PostgreSQL.
+
+## [4. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Collection / Linux
 
 *   [Linux Security and Monitoring Scripts (⭐134)](https://github.com/sqall01/LSMS) - Security and monitoring scripts you can use to monitor your Linux installation for security-related events or for an investigation. Among other finding systemd unit files used for malware persistence.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
@@ -58,7 +84,7 @@
 
 *   [Boost.Signals2 (⭐53)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Kotlin JavaScript / JavaScript
 
@@ -78,13 +104,13 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Health and Fitness
 
 *   [Meditation App (⭐3)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -102,7 +128,7 @@
 
 *   [The Generative AI Revolution in Games | Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/): this article presents a list of use cases of generative AI in games
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
