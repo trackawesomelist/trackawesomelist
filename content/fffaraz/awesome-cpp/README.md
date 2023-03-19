@@ -6,6 +6,52 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Mar 19, 2023](/content/2023/03/19/README.md)
+
+### Networking
+
+*   [Boost.Asio (⭐912)](https://github.com/boostorg/asio) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
+
+### CLI
+
+*   [Boost.Program\_options (⭐77)](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. \[Boost] [website](https://boost.org/libs/program_options)
+
+### Debug
+
+*   [Boost.Test (⭐134)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
+
+### Image Processing
+
+*   [Boost.GIL (⭐159)](https://github.com/boostorg/gil) - Generic Image Library. \[Boost] [website](https://boost.org/libs/gil)
+
+### Inter-process communication
+
+*   [Boost.Interprocess (⭐93)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
+
+### XML
+
+*   [Boost.PropertyTree (⭐37)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
+
+### Logging
+
+*   [Boost.Log (⭐158)](https://github.com/boostorg/log) - Designed to be very modular and extensible. \[Boost] [website](https://boost.org/libs/log)
+
+### Math
+
+*   [Boost.Multiprecision (⭐143)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
+
+### Scripting
+
+*   [Boost.Python (⭐389)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
+
+### Serialization
+
+*   [Boost.Serialization (⭐96)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
+
+### Miscellaneous
+
+*   [Boost.Signals2 (⭐53)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
+
 ## [Mar 17, 2023](/content/2023/03/17/README.md)
 
 ### Math
@@ -31,7 +77,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome-hpp (⭐2.3k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
+*   [awesome-hpp (⭐2.4k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 
@@ -134,10 +180,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Autosar C++ 2014](https://www.autosar.org/fileadmin/standards/adaptive/21-11/AUTOSAR_RS_CPP14Guidelines.pdf)
 
 ## [Feb 02, 2023](/content/2023/02/02/README.md)
-
-### JSON
-
-*   [Boost.PropertyTree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
 
 ### Math
 
@@ -256,12 +298,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Cert C++](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf)
 *   [Misra C++ 2008](https://www.cppdepend.com/misra-cpp)
-
-## [Sep 16, 2022](/content/2022/09/16/README.md)
-
-### Inter-process communication
-
-*   [Boost.Interprocess](https://www.boost.org/doc/libs/1_80_0/doc/html/interprocess.html) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://www.boost.org/)
 
 ## [Sep 12, 2022](/content/2022/09/12/README.md)
 
@@ -893,7 +929,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [HPX (⭐2.1k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
 *   [Kokkos (⭐1.2k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
-*   [Quantum (⭐504)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+*   [Quantum (⭐504)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 
 ## [Mar 05, 2020](/content/2020/03/05/README.md)
 
@@ -1030,12 +1066,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Articles
 
 *   [CppCon 2019 Presentation Materials (⭐1.2k)](https://github.com/CppCon/CppCon2019) - CppCon 2019 Presentation Materials.
-
-## [Sep 25, 2019](/content/2019/09/25/README.md)
-
-### Serialization
-
-*   [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html) - Boost Serialization Library. \[Boost]
 
 ## [Sep 21, 2019](/content/2019/09/21/README.md)
 
@@ -1422,7 +1452,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Reflection
 
 *   [Better Enums (⭐1.4k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
-*   [CPFG (⭐211)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
+*   [CPFG (⭐211)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
 *   [CPP-Reflection (⭐568)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
 *   [Ponder (⭐583)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
 *   [RTTR (⭐2.6k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
@@ -1494,12 +1524,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Sutter’s Mill](https://herbsutter.com/gotw/)
 *   [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 *   [foonathan::blog()](https://foonathan.net/index.html)
-
-## [Mar 09, 2019](/content/2019/03/09/README.md)
-
-### Containers
-
-*   [Forest](https://github.com/xorz57/forest) - Template library implementing an AVL, a Binary Search, a KD and a Quad Tree. \[MIT]
 
 ## [Mar 05, 2019](/content/2019/03/05/README.md)
 
@@ -2153,7 +2177,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 *   [Awesome interview questions (⭐54k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
@@ -2325,7 +2348,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Scripting
 
-*   [Boost.Python](http://www.boost.org/doc/libs/1_65_1/libs/python/doc/html/index.html) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost]
 *   [Cython (⭐7.8k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
 *   [JavaCpp (⭐4.1k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
 *   [libffi (⭐2.7k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
@@ -2985,7 +3007,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Concurrency
 
-*   [Boost.Compute (⭐1.4k)](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. \[Boost]
+*   [Boost.Compute (⭐1.4k)](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. \[Boost] [website](https://boost.org/libs/compute)
 
 ### Debug
 
@@ -3160,7 +3182,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Math
 
-*   [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost]
 *   [LibTomMath (⭐562)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
 
 ### Coding Style Tools
@@ -3366,22 +3387,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [8cc (⭐5.8k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
-## [Feb 15, 2015](/content/2015/02/15/README.md)
-
-### CLI
-
-*   [Boost.Program\_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. \[Boost]
-
 ## [Feb 07, 2015](/content/2015/02/07/README.md)
 
 ### Frameworks
 
-*   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](http://www.boost.org/)
-
-### Networking
-
-*   [Boost.Asio](http://think-async.com/) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost]
-*   [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. \[Boost] [website](http://pocoproject.org/)
+*   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](https://www.boost.org)
 
 ### Compression
 
@@ -3406,6 +3416,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Multimedia
 
 *   [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. \[zlib]
+
+### Networking
+
+*   [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. \[Boost] [website](http://pocoproject.org/)
 
 ### Talks
 
@@ -3496,12 +3510,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Stage (⭐364)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
 *   [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. \[LGPL2]
 
-## [Dec 22, 2014](/content/2014/12/22/README.md)
-
-### XML
-
-*   [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
-
 ## [Dec 18, 2014](/content/2014/12/18/README.md)
 
 ### Frameworks
@@ -3550,7 +3558,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Miscellaneous
 
-*   [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html) - An implementation of a managed signals and slots system. \[Boost]
 *   [QtVerbalExpressions (⭐58)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
 
 ### Coding Style
@@ -3604,10 +3611,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. \[?]
 *   [LibTomCrypt (⭐1.4k)](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. \[LGPL]
-
-### Debug
-
-*   [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. \[Boost]
 
 ### JSON
 
@@ -3684,10 +3687,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [PicoJSON (⭐1k)](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. \[BSD]
 *   [qt-json (⭐314)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
 
-### Logging
-
-*   [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. \[Boost]
-
 ### Networking
 
 *   [RakNet (⭐3.2k)](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. \[BSD]
@@ -3747,7 +3746,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Image Processing
 
-*   [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - Generic Image Library.
 *   [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 *   [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. \[BSD]
 

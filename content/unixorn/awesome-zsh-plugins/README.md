@@ -6,6 +6,15 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Mar 19, 2023](/content/2023/03/19/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [fzf-dir-navigator (⭐9)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf`.
+*   [lsd (wintermi) (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9.3k)](https://github.com/Peltoche/lsd).
+*   [lsd (z-shell) (⭐3)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐9.3k)](https://github.com/Peltoche/lsd).
+*   [penmux (⭐0)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
+
 ## [Mar 17, 2023](/content/2023/03/17/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
@@ -53,7 +62,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [ho-my-zsh (⭐1)](https://github.com/Mboukhal/hoMyZsh_theme) - Includes decorators for current directory and `git` information.
-*   [parrot (⭐2)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
+*   [parrot (⭐3)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
 
 ## [Mar 01, 2023](/content/2023/03/01/README.md)
 
@@ -253,12 +262,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [gcloud (littleq0903) (⭐77)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
 *   [gcloud (wintermi) (⭐1)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface ([gcloud](https://cloud.google.com/cli) CLI) completions.
-
-## [Jan 03, 2023](/content/2023/01/03/README.md)
-
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9.3k)](https://github.com/Peltoche/lsd).
 
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 

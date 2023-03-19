@@ -12,6 +12,10 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [asdf (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐17k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐407)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐407)](https://github.com/asdf-community/asdf-direnv/blob/master/README.md#pro-tips).
 *   [ask (⭐1)](https://github.com/Michaelwmx/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
+*   [fzf-dir-navigator (⭐9)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf`.
+*   [lsd (wintermi) (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9.3k)](https://github.com/Peltoche/lsd).
+*   [lsd (z-shell) (⭐3)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐9.3k)](https://github.com/Peltoche/lsd).
+*   [penmux (⭐0)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
 *   [pins (⭐1)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
@@ -36,7 +40,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [ho-my-zsh (⭐1)](https://github.com/Mboukhal/hoMyZsh_theme) - Includes decorators for current directory and `git` information.
-*   [parrot (⭐2)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
+*   [parrot (⭐3)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
@@ -154,7 +158,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [cmaker (⭐5)](https://github.com/apalkk/Cmaker) - Makes using `cmake` easier.
 *   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐157k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 *   [golang (⭐2)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
-*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9.3k)](https://github.com/Peltoche/lsd).
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
 *   [rust (wintermi) (⭐1)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
 
