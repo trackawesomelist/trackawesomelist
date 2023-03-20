@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 20, 2023](/content/2023/03/20/README.md)
+
+### Utilities
+
+*   [contextplus (⭐16)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
+
 ## [Mar 18, 2023](/content/2023/03/18/README.md)
 
 ### Authentication and OAuth
@@ -3429,7 +3435,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [apicompat (⭐177)](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 *   [ChainJacking (⭐38)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
-*   [dupl (⭐302)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [dupl (⭐303)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐127)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
@@ -3444,16 +3450,16 @@ A curated list of awesome Go frameworks, libraries and software
 *   [GoLint (⭐4k)](https://github.com/golang/lint) - Golint is a linter for Go source code.
 *   [GoPlantUML (⭐1.3k)](https://github.com/jfeliu007/goplantuml) - Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them.
 *   [goreturns](https://sourcegraph.com/github.com/sqs/goreturns) - Adds zero-value return statements to match the func return types.
-*   [gosimple (⭐5.2k)](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - gosimple is a linter for Go source code that specialises on simplifying code.
+*   [gosimple (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - gosimple is a linter for Go source code that specialises on simplifying code.
 *   [gostatus (⭐244)](https://github.com/shurcooL/gostatus) - Command line tool, shows the status of repositories that contain Go packages.
 *   [lint (⭐67)](https://github.com/surullabs/lint) - Run linters as part of go test.
 *   [php-parser (⭐908)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
-*   [staticcheck (⭐5.2k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
+*   [staticcheck (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tarp (⭐16)](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 *   [tickgit (⭐299)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
 *   [todocheck (⭐394)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
 *   [unconvert (⭐344)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
-*   [unused (⭐5.2k)](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
+*   [unused (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 *   [validate (⭐60)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
 ### Editor Plugins / Libraries for creating HTTP middlewares

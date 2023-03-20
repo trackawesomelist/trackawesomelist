@@ -512,6 +512,8 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 *   [Drill (⭐255)](https://github.com/yatima1460/drill) -  Search files without indexing, but clever crawling
 *   [Cryptic-Resolver (⭐2)](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
 *   [Inochi Creator (⭐433)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
+*   [Literate (⭐616)](https://github.com/zyedidia/Literate) - A literate programming tool for any language
+*   [onedrive (⭐7.4k)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
 
 ## Machine Learning
 

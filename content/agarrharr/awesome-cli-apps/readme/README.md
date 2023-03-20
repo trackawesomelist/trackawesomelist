@@ -115,7 +115,7 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 *   [musikcube (⭐3.5k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 *   [beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and tagger.
-*   [spotify-tui (⭐14k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+*   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 *   [swaglyrics-for-spotify (⭐297)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 *   [dzr (⭐123)](https://github.com/yne/dzr) - deezer.com player.
 
@@ -178,11 +178,11 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 
 *   [emacs (⭐3.8k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
 *   [vim (⭐30k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
-*   [neovim (⭐63k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐64k)](https://github.com/neovim/neovim) - Modern vim.
 *   [kakoune (⭐8.6k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 *   [micro (⭐21k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 *   [o (⭐247)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-*   [helix (⭐19k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+*   [helix (⭐20k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ### Frontend Development
 
@@ -231,7 +231,7 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 ### Release
 
 *   [release-it (⭐6.2k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [clog (⭐792)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐796)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 *   [np (⭐7k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 *   [release (⭐3.5k)](https://github.com/vercel/release) - Generate changelogs with a single command.
 *   [semantic-release (⭐17k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
@@ -286,7 +286,7 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 *   [Timewarrior (⭐935)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.2k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 *   [utt (⭐264)](https://github.com/larose/utt) - Simple time tracking tool.
-*   [Bartib (⭐384)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐391)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ### Note Taking and Lists
 
@@ -314,8 +314,9 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 
 *   [WOPR (⭐3k)](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 *   [decktape (⭐2k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - A markdown presentation tool.
 *   [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
+*   [slides (⭐6.9k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
 
 ### Calendars
 
@@ -442,7 +443,7 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 *   [howdoi (⭐9.9k)](https://github.com/gleitz/howdoi) - Instant coding answers.
 *   [how2 (⭐5.6k)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 *   [The Fuck (⭐76k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [tldr (⭐43k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+*   [tldr (⭐44k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 *   [Wat (⭐469)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐349)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐13k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
@@ -531,7 +532,7 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 
 *   [alder (⭐210)](https://github.com/aweary/alder) - Minimal `tree` with colors.
 *   [exa (⭐21k)](https://github.com/ogham/exa) - Improved version of `ls`.
-*   [tre (⭐457)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [tre (⭐472)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐38)](https://github.com/antonmedv/ll) - `ls` with git status.
 *   [lsd (⭐9.3k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
@@ -545,13 +546,13 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 *   [fz (⭐455)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 *   [goto (⭐828)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 *   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐9.5k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [zoxide (⭐9.7k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ### Search
 
 *   [happyfinder (⭐324)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐29)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐36k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐37k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐50k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐3.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [fd (⭐27k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
@@ -655,7 +656,7 @@ Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) lis
 *   [awesome-git-addons (⭐1.7k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 *   [awesome-shell (⭐27k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
-*   [awesome-zsh-plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+*   [awesome-zsh-plugins (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐50k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## License

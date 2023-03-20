@@ -46,6 +46,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
         *   [Rust](#rust)
         *   [R](#r)
         *   [Node.js](#nodejs)
+        *   [Scala/Java](#scalajava)
     *   [Resources](#resources)
         *   [Cheat Sheets](#cheat-sheets)
         *   [Tutorials & workshops](#tutorials--workshops)
@@ -84,6 +85,10 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 *   [nodejs-polars for Node.js (⭐93)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
 
+### Scala/Java
+
+*   [scala-polars for Scala and Java (⭐2)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+
 ## Resources
 
 ### Cheat Sheets
@@ -93,7 +98,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 ### Tutorials & workshops
 
 *   [Modern Polars](https://kevinheavey.github.io/modern-polars/) - A side by side comparison between Polars and Pandas containing code in both frameworks by [@kevinheavey](https://github.com/kevinheavey).
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Spanish by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐34)](https://github.com/barbosarafael/polars_python_test).
+*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐34)](https://github.com/barbosarafael/polars_python_test).
 
 ### Blog posts
 

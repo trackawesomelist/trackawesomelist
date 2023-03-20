@@ -12,6 +12,11 @@
 
 *   [Programming in Dlang](https://www.youtube.com/watch?v=HS7X9ERdjM4\&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV\&ab_channel=MikeShah) - An introductory video series about programming in D.
 
+### End-user applications / XML
+
+*   [Literate (⭐616)](https://github.com/zyedidia/Literate) - A literate programming tool for any language
+*   [onedrive (⭐7.4k)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Getting Help

@@ -127,7 +127,7 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 ## Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐8.2k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐8.3k)](https://github.com/PointCloudLibrary/pcl)
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
     *   [GitHub repository :octocat: (⭐8.2k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
@@ -246,24 +246,30 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 
 *   [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
-*   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
+*   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.
     *   [GitHub repository :octocat: (⭐996)](https://github.com/osrf/gazebo)
-*   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
+*   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
     *   [GitHub repository :octocat: (⭐8.9k)](https://github.com/carla-simulator/carla)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
-*   [LGSVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
+*   [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
     *   [GitHub repository :octocat: (⭐2k)](https://github.com/lgsvl/simulator)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/LGSVLSimulator)
+*   [OSSDC SIM (⭐55)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
+    *   [GitHub repository :octocat: (⭐55)](https://github.com/OSSDC/OSSDC-SIM)
+    *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 *   [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
     *   [GitHub repository :octocat: (⭐14k)](https://github.com/microsoft/AirSim)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
+*   [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
+    *   [GitHub repository :octocat: (⭐239)](https://github.com/tier4/AWSIM)
+    *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 ## Related awesome
 
 *   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 *   [Awesome robotics :octocat: (⭐3.2k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Awesome robotics libraries :octocat: (⭐1.7k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome ROS2 :octocat: (⭐1.2k)](https://github.com/fkromer/awesome-ros2#readme)
+*   [Awesome ROS 2 :octocat: (⭐1.2k)](https://github.com/fkromer/awesome-ros2#readme)
 *   [Awesome artificial intelligence :octocat: (⭐7.4k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome machine learning :octocat: (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
@@ -276,7 +282,7 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 
 ## Others
 
-*   [ARHeadsetKit (⭐87)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐19)](https://github.com/philipturner/scene-color-reconstruction).
+*   [ARHeadsetKit (⭐89)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐19)](https://github.com/philipturner/scene-color-reconstruction).
 *   [Pointcloudprinter :octocat: (⭐141)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 *   [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
     *   [GitHub repository :octocat:](https://github.com/CloudCompare)

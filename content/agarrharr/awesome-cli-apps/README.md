@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Mar 20, 2023](/content/2023/03/20/README.md)
+
+### Productivity / Presentations
+
+*   [slides (⭐6.9k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
+
 ## [Mar 13, 2023](/content/2023/03/13/README.md)
 
 ### Files and Directories / Search
@@ -165,8 +171,8 @@
 
 ### Development / Text Editors
 
-*   [neovim (⭐63k)](https://github.com/neovim/neovim) - Modern vim.
-*   [helix (⭐19k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+*   [neovim (⭐64k)](https://github.com/neovim/neovim) - Modern vim.
+*   [helix (⭐20k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
 
@@ -226,7 +232,7 @@
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐384)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐391)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
@@ -547,7 +553,7 @@
 ### Files and Directories / Directory Navigation
 
 *   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐9.5k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [zoxide (⭐9.7k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ## [Mar 30, 2020](/content/2020/03/30/README.md)
 
@@ -567,7 +573,7 @@
 
 *   [alder (⭐210)](https://github.com/aweary/alder) - Minimal `tree` with colors.
 *   [exa (⭐21k)](https://github.com/ogham/exa) - Improved version of `ls`.
-*   [tre (⭐457)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [tre (⭐472)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐38)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [Feb 28, 2020](/content/2020/02/28/README.md)
@@ -627,7 +633,7 @@
 
 ### Entertainment / Music
 
-*   [spotify-tui (⭐14k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+*   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
 ## [Nov 19, 2019](/content/2019/11/19/README.md)
 
@@ -790,7 +796,7 @@
 *   [awesome-git-addons (⭐1.7k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 *   [awesome-shell (⭐27k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
-*   [awesome-zsh-plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+*   [awesome-zsh-plugins (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐50k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## [May 09, 2019](/content/2019/05/09/README.md)
@@ -890,7 +896,7 @@
 
 *   [WOPR (⭐3k)](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 *   [decktape (⭐2k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - A markdown presentation tool.
 *   [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Utilities / Calendars
@@ -922,7 +928,7 @@
 
 ### Development / Release
 
-*   [clog (⭐792)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐796)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [Mar 10, 2019](/content/2019/03/10/README.md)
 
@@ -1010,7 +1016,7 @@
 
 *   [happyfinder (⭐324)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐29)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐36k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐37k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐50k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ## [Mar 02, 2019](/content/2019/03/02/README.md)
@@ -1094,7 +1100,7 @@
 ### Command Line Learning / Internet Speedtest
 
 *   [The Fuck (⭐76k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [tldr (⭐43k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+*   [tldr (⭐44k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 *   [Wat (⭐469)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
 ## [Apr 26, 2017](/content/2017/04/26/README.md)

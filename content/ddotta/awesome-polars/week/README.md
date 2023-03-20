@@ -6,11 +6,17 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
+
+### Libraries/Packages/Scripts / Scala/Java
+
+*   [scala-polars for Scala and Java (⭐2)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
 ### Resources / Tutorials & workshops
 
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Spanish by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐34)](https://github.com/barbosarafael/polars_python_test).
+*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐34)](https://github.com/barbosarafael/polars_python_test).
 
 ### Resources / Blog posts
 
