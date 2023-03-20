@@ -68,7 +68,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [pankod/next-boilerplate (⭐1.5k)](https://github.com/pankod/next-boilerplate) A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
 *   [jsynowiec/node-typescript-boilerplate (⭐2k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 *   [typescript-express-starter (⭐2k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
-*   [The Knests Stack (⭐280)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐279)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 *   [tRPC + Next.js](https://trpc.io/docs/nextjs/) - Full-stack starter projects for end-to-end type safe development with React
 *   [nd.ts (⭐27)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 *   :octocat: [samchon/backend (⭐548)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐551)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐196)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
@@ -221,7 +221,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ### Web
 
 *   :octocat: [Angular (⭐87k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
-*   :octocat: [feednext.io (⭐247)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+*   :octocat: [feednext.io (⭐249)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 *   :octocat: [ionic (⭐49k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [React-UWP (⭐1.2k)](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 *   :octocat: [palantir/plottable (⭐2.9k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
@@ -340,6 +340,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 *   [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
 *   [List of free online courses about Typescript](https://skillcombo.com/topic/typescript/free)
+*   [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 
 ## :dollar: Paid Courses
 

@@ -111,6 +111,7 @@ This section contains libraries that are well-made and useful, but have not nece
 *   [SPU (⭐81)](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
 *   [jax-tqdm (⭐26)](https://github.com/jeremiecoullon/jax-tqdm) - Add a tqdm progress bar to JAX scans and loops. <img src="https://img.shields.io/github/stars/jeremiecoullon/jax-tqdm?style=social" align="center">
 *   [safejax (⭐14)](https://github.com/alvarobartt/safejax) - Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors`. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
+*   [Kernex (⭐46)](https://github.com/ASEM000/kernex) - Differentiable stencil decorators in JAX.
 
 <a name="models-and-projects" />
 

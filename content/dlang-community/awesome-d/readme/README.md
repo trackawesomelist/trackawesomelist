@@ -2,7 +2,7 @@
 
   A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dlang-community/awesome-d/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dlang-community/awesome-d](https://github.com/dlang-community/awesome-d) · ⭐ 596 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dlang-community/awesome-d/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dlang-community/awesome-d](https://github.com/dlang-community/awesome-d) · ⭐ 601 · 🏷️ Programming Languages
 
 [ [Daily](/content/dlang-community/awesome-d/README.md) / [Weekly](/content/dlang-community/awesome-d/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@
 
 ***
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python (⭐158k)](https://github.com/vinta/awesome-python).
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python (⭐160k)](https://github.com/vinta/awesome-python).
 
 I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
 
@@ -130,12 +130,12 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 *   [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 *   [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 *   [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐416)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐415)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 *   [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 *   [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 *   [libmir](https://github.com/libmir) - D's numeric library development team
 *   [sociomantic labs](https://www.sociomantic.com) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
-*   [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp (⭐221)](https://github.com/atilaneves/dpp), [autowrap (⭐79)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm (⭐168)](https://github.com/libmir/mir-algorithm), and various other projects.
+*   [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp (⭐220)](https://github.com/atilaneves/dpp), [autowrap (⭐79)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm (⭐167)](https://github.com/libmir/mir-algorithm), and various other projects.
 *   [HuntLabs](https://www.huntlabs.net) - A technology group using DLang. Have pure D language implementation of quickly develop server-side applications and build distributed system services.
 
 ## Books
@@ -153,6 +153,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 *D related tutorials.*
 
 *   [The Dlang Tour](https://tour.dlang.org/) - An interactive tutorial for D, inspired by Golang Tour.
+*   [Programming in Dlang](https://www.youtube.com/watch?v=HS7X9ERdjM4\&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV\&ab_channel=MikeShah) - An introductory video series about programming in D.
 *   [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
 *   [D Template Tutorial (⭐218)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 *   [Component programming in D](https://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
@@ -196,7 +197,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *   [code.dlang.org](https://code.dlang.org/) - Official D library repository. Backed by dub.
 
-*   [dub (⭐618)](https://github.com/dlang/dub) - Official package and build management system for D.
+*   [dub (⭐621)](https://github.com/dlang/dub) - Official package and build management system for D.
 
 ## Compilers
 
@@ -208,7 +209,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 ## WIP Compilers
 
-*   [sdc (⭐211)](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
+*   [sdc (⭐210)](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
 
 ## Dev Tools
 
@@ -221,15 +222,15 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *Manage projects and compile software from source code.*
 
-*   [dub (⭐618)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [dub (⭐621)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 *   [scons-d](https://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
 *   [reggae (⭐160)](https://github.com/atilaneves/reggae) - meta build system in D
 *   [Makefile (⭐21)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐59)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [cmake-d (⭐60)](https://github.com/dcarp/cmake-d) - CMake D Projects
 *   [cook2 (⭐25)](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 *   [button](https://jasonwhite.io/button/) - A universal build system to build your software at the push of a button.
-*   [wild (⭐6)](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex (⭐476)](https://github.com/PowerNex/PowerNex) kernel
+*   [wild (⭐6)](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex (⭐477)](https://github.com/PowerNex/PowerNex) kernel
 
 <a name="ide"></a>
 
@@ -247,25 +248,25 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 <br/>
 
 *   [DCD (⭐336)](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support (⭐336)](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
-*   [serve-d (⭐145)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
+*   [serve-d (⭐149)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
 ## Lexers, Parsers, Parser Generators
 
-*   [libdparse (⭐106)](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
+*   [libdparse (⭐107)](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 *   [Martin Nowak's Lexer (⭐11)](https://github.com/MartinNowak/lexer) - A lexer generator.
 *   [Mono-D's DParser (⭐29)](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
 *   [Pegged (⭐521)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 *   [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
-*   [ctpg (⭐44)](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
+*   [ctpg (⭐45)](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
 *   [dunnart (⭐13)](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
 
 ## Preprocesors
 
-*   [warp (⭐518)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+*   [warp (⭐519)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
 ## Javascript
 
-*   [higgs (⭐859)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
+*   [higgs (⭐860)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
 ## Basic
 
@@ -275,17 +276,17 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 ## Containers
 
-*   [EMSI containers (⭐109)](https://github.com/dlang-community/containers) -  Containers that do not use the GC
+*   [EMSI containers (⭐110)](https://github.com/dlang-community/containers) -  Containers that do not use the GC
 
 <!---->
 
-*   [memutils (⭐39)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-*   [dlib.container (⭐212)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+*   [memutils (⭐40)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+*   [dlib.container (⭐211)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 *   [std.rcstring (⭐9)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ## GitHub Actions
 
-*   [setup-dlang (⭐44)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+*   [setup-dlang (⭐45)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
 *   [dub-upgrade (⭐1)](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
 
 <a name="testing"></a>
@@ -303,7 +304,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 *   [hunt-net (⭐19)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
 *   [hunt-http (⭐30)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 *   [hunt-stomp (⭐0)](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
-*   [libasync (⭐140)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
+*   [libasync (⭐139)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 *   [libhttp2 (⭐34)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 *   [collie (⭐58)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
 *   [dlang-requests (⭐145)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
@@ -313,7 +314,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *   [Hunt Framework (⭐285)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 *   [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
-*   [arsd (⭐481)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
+*   [arsd (⭐483)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 *   [cmsed (⭐16)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
 *RPC library*
@@ -358,18 +359,18 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *   [orange (⭐71)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 *   [std.experimental.xml (⭐21)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
-*   arsd [dom.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
+*   arsd [dom.d (⭐483)](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
 
 ## Database clients
 
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
 *   [hunt-entity (⭐54)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-*   [hunt-database (⭐46)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
+*   [hunt-database (⭐45)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 *   [vibe.d (⭐1.1k)](https://github.com/vibe-d/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
 *   [mysql-native (⭐80)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 *   [ddb (⭐39)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
-*   [arsd (⭐481)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+*   [arsd (⭐483)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 *   [ddbc (⭐73)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
 *   [hibernated (⭐79)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 *   [dvorm (⭐18)](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
@@ -379,11 +380,11 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 ## Command Line
 
 *   [hunt-console (⭐4)](https://github.com/huntlabs/hunt-console) - Hunt console creation easier to create powerful command-line applications.
-*   [tilix (⭐5k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
+*   [tilix (⭐5.1k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 *   [scriptlike (⭐89)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
 *   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.2k)](https://github.com/antirez/linenoise).
 *   [d-colorize](https://code.dlang.org/packages/colorize) - A port of the ruby library [colorize (⭐1.2k)](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
-*   [terminal.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐481)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
+*   [terminal.d (⭐483)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐483)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 *   [dexpect (⭐12)](https://github.com/grogancolin/dexpect/) -  A D implementation of the expect framework. Handy for bash emulation.
 *   [Argon (⭐16)](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D.
 *   [argsd (⭐12)](https://github.com/burner/argsd) - A command line and config file parser for DLang
@@ -391,15 +392,15 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 *   [commandr (⭐37)](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
 *   [luneta (⭐54)](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 *   [argparse](https://code.dlang.org/packages/argparse) - Flexible parser of command line arguments.
-*   [dlog (⭐2)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
+*   [dlog (⭐3)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
 *   [gogga (⭐2)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
 
 ## GUI Libs
 
 *Libraries for working with graphical user interface applications.*
 
-*   [DLangUI (⭐732)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐410)](https://github.com/buggins/dlangide).
-*   [GtkD (⭐308)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
+*   [DLangUI (⭐736)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐410)](https://github.com/buggins/dlangide).
+*   [GtkD (⭐310)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
 *   [DWT (⭐136)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
 *   [tkD (⭐115)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 *   [dqml (⭐42)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
@@ -412,9 +413,9 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *Operating Systems written in D*
 
-*   [PowerNex (⭐476)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
+*   [PowerNex (⭐477)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
 *   [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
-*   [Trinix (⭐95)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
+*   [Trinix (⭐96)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
 *   [XOmB (⭐332)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## Game Bindings
@@ -423,15 +424,15 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *   BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader (⭐25)](https://github.com/BindBC/bindbc-loader):
     *   OpenGL - [bindbc-opengl (⭐33)](https://github.com/BindBC/bindbc-opengl)
-    *   GLFW 3 - [bindbc-glfw (⭐38)](https://github.com/BindBC/bindbc-glfw)
-    *   SDL 2 - [bindbc-sdl (⭐72)](https://github.com/BindBC/bindbc-sdl)
+    *   GLFW 3 - [bindbc-glfw (⭐39)](https://github.com/BindBC/bindbc-glfw)
+    *   SDL 2 - [bindbc-sdl (⭐73)](https://github.com/BindBC/bindbc-sdl)
     *   SDL2\_gfx - [bindbc-sdlgfx (⭐1)](https://github.com/aferust/bindbc-sdlgfx)
     *   SFML 2 - [bindbc-sfml (⭐10)](https://github.com/BindBC/bindbc-sfml)
     *   Imgui - immediate UI - [bindbc-imgui (⭐13)](https://github.com/Inochi2D/bindbc-imgui)
     *   Nuklear - immediate UI - [bindbc-nuklear (⭐38)](https://github.com/Timu5/bindbc-nuklear)
     *   raylib - [bindbc-raylib (⭐12)](https://github.com/o3o/bindbc-raylib)
     *   bgfx - [bindbc-bgfx (⭐21)](https://github.com/GoaLitiuM/bindbc-bgfx)
-    *   WebGPU - [bindbc-wgpu (⭐13)](https://github.com/gecko0307/bindbc-wgpu)
+    *   WebGPU - [bindbc-wgpu (⭐14)](https://github.com/gecko0307/bindbc-wgpu)
     *   Zstandard - compression - [bindbc-zstandard (⭐2)](https://github.com/ZILtoid1991/bindbc-zstandard)
     *   nanomsg-next-gen - [bindbc-nng (⭐1)](https://github.com/darkridder/bindbc-nng)
     *   OpenAL - audio engine - [bindbc-openal (⭐7)](https://github.com/BindBC/bindbc-openal)
@@ -474,9 +475,9 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 ## Game Frameworks
 
 *   [DGame (⭐84)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
-*   [gfm (⭐2)](https://github.com/drug007/gfm7) - D gamedev toolkit.
-*   [Dagon (⭐270)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
-*   [Dash (⭐416)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
+*   [gfm (⭐3)](https://github.com/drug007/gfm7) - D gamedev toolkit.
+*   [Dagon (⭐272)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
+*   [Dash (⭐415)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
 *   [DSFML (⭐100)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 *   [DAllegro5 (⭐40)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 *   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
@@ -500,22 +501,22 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 ## Image Processing
 
-*   [ArmageddonEngine (⭐168)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
+*   [ArmageddonEngine (⭐169)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 *   [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
-*   [dlib.image (⭐212)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
-*   [opencvd (⭐21)](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
+*   [dlib.image (⭐211)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+*   [color.d (⭐483)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐483)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐483)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐483)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [opencvd (⭐22)](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
 
 ## End-user applications
 
 *   [Drill (⭐255)](https://github.com/yatima1460/drill) -  Search files without indexing, but clever crawling
 *   [Cryptic-Resolver (⭐2)](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
-*   [Inochi Creator (⭐412)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
+*   [Inochi Creator (⭐433)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
 
 ## Machine Learning
 
 *   [vectorflow (⭐1.3k)](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
-*   [bindbc-onnxruntime (⭐7)](https://github.com/lempiji/bindbc-onnxruntime) - bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator
+*   [bindbc-onnxruntime (⭐10)](https://github.com/lempiji/bindbc-onnxruntime) - bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator
 *   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
 *   [tfd (⭐31)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
 
@@ -558,7 +559,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *   [sdlang (⭐112)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 *   [D:YAML (⭐114)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
-*   [inifile-D (⭐24)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+*   [inifile-D (⭐23)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## Blog Engine
 

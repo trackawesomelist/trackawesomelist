@@ -6,6 +6,12 @@ JAX - A curated list of resources https://github.com/google/jax
 
 [ [Daily](/content/n2cholas/awesome-jax/README.md) / Weekly / [Overview](/content/n2cholas/awesome-jax/readme/README.md) ]
 
+## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
+
+### Libraries / New Libraries
+
+*   [Kernex (⭐46)](https://github.com/ASEM000/kernex) - Differentiable stencil decorators in JAX.
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Libraries / New Libraries

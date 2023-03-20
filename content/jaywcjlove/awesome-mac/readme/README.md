@@ -399,7 +399,7 @@ Any comments, suggestions? [Let us know! (⭐58k)](https://github.com/jaywcjlove
 *   [nushell (⭐23k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 *   [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
 *   [Rebound (⭐4k)](https://github.com/shobrook/rebound/) - Instantly browse Stack Overflow results in your terminal when you get a compiler error. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-*   [ripgrep (rg) (⭐36k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware][Freeware Icon]
+*   [ripgrep (rg) (⭐37k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware][Freeware Icon]
 *   [Serial](https://www.decisivetactics.com/products/serial/) - Full-featured serial terminal for the Mac.
 *   [shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 *   [silver searcher (ag) (⭐25k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
@@ -858,6 +858,7 @@ Any comments, suggestions? [Let us know! (⭐58k)](https://github.com/jaywcjlove
 
 #### Clipboard Tools
 
+*   [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 *   [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 *   [ClipTools](https://macmost.com/cliptools) - ClipTools is a status menu application that gives you access to a variety of simple clipboard utilities. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
 *   [Clipy](https://clipy-app.com/) - Clipy is a Clipboard extension app for macOS. Based on ClipMenu. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
@@ -1020,7 +1021,6 @@ Any comments, suggestions? [Let us know! (⭐58k)](https://github.com/jaywcjlove
 *   [Enpass](https://www.enpass.io/) - Cross-platform password management tool with cloud integration. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/enpass-password-manager/id455566716)
 *   [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 *   [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) ![Freeware][Freeware Icon]
-*   [LastPass](https://lastpass.com/) - Password management tool for Mac OS and browser.
 *   [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
 *   [SafeInCloud](https://safe-in-cloud.com/en/) - Cross Platform password management, low cost app! [![App Store][app-store Icon]](https://itunes.apple.com/app/safeincloud-password-manager/id883070818)
 *   [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store Icon]](https://apps.apple.com/us/app/strongbox/id1270075435?mt=12)

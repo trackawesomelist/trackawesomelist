@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
+## [Mar 20, 2023](/content/2023/03/20/README.md)
+
+### Utilities (uncategorized) / Others
+
+*   [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
+
 ## [Feb 07, 2023](/content/2023/02/07/README.md)
 
 ### Audio and Video

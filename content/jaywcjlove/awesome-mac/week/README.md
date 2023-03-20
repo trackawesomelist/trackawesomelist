@@ -6,6 +6,12 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
+
+### Utilities / Clipboard Tools
+
+*   [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Slackadays/Clipboard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
 ### Reading and Writing Tools / Text Editors
@@ -565,7 +571,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [ripgrep (rg) (⭐36k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ripgrep (rg) (⭐37k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
@@ -2462,7 +2468,6 @@
 ### Utilities / Password Management
 
 *   [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keeweb/keeweb) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [LastPass](https://lastpass.com/) - Password management tool for Mac OS and browser.
 *   [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mstarke/MacPass)
 
 ### Utilities / Finder Tools
