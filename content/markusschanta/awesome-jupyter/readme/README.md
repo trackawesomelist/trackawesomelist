@@ -59,7 +59,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Runtimes/Frontends
 
 *   [Beaker](http://beakerx.com/) - Development environment with seamless data transmission from one language to another.
-*   [docker-stacks (⭐7.1k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
+*   [docker-stacks (⭐7.2k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 *   [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) - Execute notebooks as experiments to capture and compare results over time.
 *   [Hydrogen (⭐3.8k)](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 *   [Jupyter Notebook (⭐9.8k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
@@ -187,7 +187,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [jupyterlab\_miami\_nights (⭐81)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 *   [jupyterlab\_templates (⭐321)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 *   [latex (⭐543)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [lineapy (⭐570)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐575)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 *   [lsp (⭐31)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 *   [nb\_black (⭐338)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
 *   [python-bytecode (⭐60)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
@@ -225,6 +225,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [lolviz (⭐794)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 *   [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 *   [vpython-jupyter (⭐65)](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
+*   [xontrib-jupyter (⭐9)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
 
 ## Hosted Notebook Solutions
 

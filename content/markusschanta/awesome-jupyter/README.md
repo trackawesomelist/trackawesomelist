@@ -6,6 +6,12 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ Daily / [Weekly](/content/markusschanta/awesome-jupyter/week/README.md) / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Mar 21, 2023](/content/2023/03/21/README.md)
+
+### Domain-Specific Projects
+
+*   [xontrib-jupyter (⭐9)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
+
 ## [Mar 10, 2023](/content/2023/03/10/README.md)
 
 ### Hosted Notebook Solutions
@@ -101,7 +107,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [lineapy (⭐570)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐575)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 
 ## [May 05, 2022](/content/2022/05/05/README.md)
 
@@ -551,7 +557,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Runtimes/Frontends
 
-*   [docker-stacks (⭐7.1k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
+*   [docker-stacks (⭐7.2k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 *   [Hydrogen (⭐3.8k)](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
 *   [Jupyter Notebook (⭐9.8k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 *   [JupyterHub (⭐7.1k)](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.

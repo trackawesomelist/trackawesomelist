@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### Game / Diagnostics
 
 *   [alanfortlink/blackjack.nvim (⭐30)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [jim-fx/sudoku.nvim (⭐34)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 ## [Mar 20, 2023](/content/2023/03/20/README.md)
 

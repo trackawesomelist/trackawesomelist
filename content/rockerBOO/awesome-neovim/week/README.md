@@ -16,6 +16,7 @@ Collections of awesome neovim plugins.
 
 *   [Eandrju/cellular-automaton.nvim (⭐1.3k)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
 *   [alanfortlink/blackjack.nvim (⭐30)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [jim-fx/sudoku.nvim (⭐34)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 

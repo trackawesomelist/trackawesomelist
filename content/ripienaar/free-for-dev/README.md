@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 21, 2023](/content/2023/03/21/README.md)
+
+### Security and PKI
+
+*   [Selefra](https://www.selefra.io/) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+
 ## [Mar 18, 2023](/content/2023/03/18/README.md)
 
 ### CI and CD

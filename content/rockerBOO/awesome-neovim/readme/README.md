@@ -892,6 +892,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [rktjmp/shenzhen-solitaire.nvim (⭐25)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
 *   [Eandrju/cellular-automaton.nvim (⭐1.3k)](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
 *   [alanfortlink/blackjack.nvim (⭐30)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+*   [jim-fx/sudoku.nvim (⭐34)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 #### Competitive Programming
 
