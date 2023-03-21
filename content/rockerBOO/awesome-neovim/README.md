@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 21, 2023](/content/2023/03/21/README.md)
+
+### Game / Diagnostics
+
+*   [alanfortlink/blackjack.nvim (⭐30)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
+
 ## [Mar 20, 2023](/content/2023/03/20/README.md)
 
 ### Code Runner / Diagnostics
