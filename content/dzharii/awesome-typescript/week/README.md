@@ -8,6 +8,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
+### Tools / Playground
+
+*   [dep-tree (⭐17)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
+
 ### :free: Free Courses / Chrome Extensions
 
 *   [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.

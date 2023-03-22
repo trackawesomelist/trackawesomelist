@@ -8,9 +8,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
-### Security and PKI
+### Cloud management solutions
 
-*   [Selefra](https://www.selefra.io/) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+*   [Selefra](https://www.selefra.io/) - Selefra free tier offers individual users to scan one single-source connection to discover security and compliance issues on the configurations level of cloud/infra/SaaS.
+
+### Search
+
+*   [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -3452,7 +3456,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
 *   [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
-*   [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
 *   [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7 day Mailbox History
 *   [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
 *   [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!

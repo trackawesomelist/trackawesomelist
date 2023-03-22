@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Mar 22, 2023](/content/2023/03/22/README.md)
+
+### Tools / Playground
+
+*   [dep-tree (⭐17)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
+
 ## [Mar 20, 2023](/content/2023/03/20/README.md)
 
 ### :free: Free Courses / Chrome Extensions

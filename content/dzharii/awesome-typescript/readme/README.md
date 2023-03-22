@@ -172,6 +172,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [Interactive TypeScript AST Viewer](https://ast.carlosroso.com/) - Write TypeScript snippets and explore its AST.
 *   [type-config (⭐17)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 *   [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
+*   [dep-tree (⭐17)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
 
 ## Types
 
