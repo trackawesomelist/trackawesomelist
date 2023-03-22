@@ -111,6 +111,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
+*   [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 *   [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
 *   [dair-ai/Prompt-Engineering-Guide (⭐14k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
@@ -324,6 +325,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Discussions and Philosophy
 
+*   [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130): OpenAI's paper that discusses the possible implications of GPTs on the U.S. labor market
 *   [Why generative AI scares artists but not content writers](https://www.fastcompany.com/90848228/why-generative-ai-scares-artists-but-not-writers)
 *   [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
 *   [AI Data Laundering - Waxy.org](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/): How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
@@ -625,6 +627,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Inbox: Music and Audio projects
 
+*   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
 *   [lucidrains/musiclm-pytorch (⭐1.8k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 *   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐1.2k)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 *   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text

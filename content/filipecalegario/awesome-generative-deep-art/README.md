@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Mar 22, 2023](/content/2023/03/22/README.md)
+
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
+
+### Discussions and Philosophy / Papers Collections
+
+*   [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130): OpenAI's paper that discusses the possible implications of GPTs on the U.S. labor market
+
 ## [Mar 21, 2023](/content/2023/03/21/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
