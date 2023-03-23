@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Selefra](https://www.selefra.io/) - Selefra free tier offers individual users to scan one single-source connection to discover security and compliance issues on the configurations level of cloud/infra/SaaS.
 
+### Code Generation
+
+*   [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
+
 ### Search
 
 *   [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.

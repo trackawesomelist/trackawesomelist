@@ -12,6 +12,10 @@
 
 *   [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
 
+### Miscellaneous / Others
+
+*   [Dub](https://dub.sh/) - Open-source link shortener.
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Audio and Video

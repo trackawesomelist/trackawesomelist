@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 23, 2023](/content/2023/03/23/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [zurawiki/tiktoken-rs (⭐24)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Rust library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
+
 ## [Mar 18, 2023](/content/2023/03/18/README.md)
 
 ### Applications / Cryptocurrencies
@@ -32,7 +38,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Image processing
 
-*   [marekm4/dominant\_color (⭐16)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
+*   [marekm4/dominant\_color (⭐18)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
 ## [Mar 02, 2023](/content/2023/03/02/README.md)
 
@@ -80,16 +86,16 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [emanuele-em/man-in-the-middle-proxy (⭐155)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
+*   [emanuele-em/man-in-the-middle-proxy (⭐207)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐49)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐53)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ### Libraries / Filesystem
 
 *   Operations
-    *   [ParthJadhav/Rust\_Search (⭐77)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [ParthJadhav/Rust\_Search (⭐82)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
     *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
     *   [pop-os/sys-mount (⭐34)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
     *   [vitiral/path\_abs (⭐45)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods. [![build badge](https://api.travis-ci.org/vitiral/path_abs.svg?branch=master)](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
@@ -99,7 +105,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [64bit/async-openai (⭐174)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+*   [64bit/async-openai (⭐251)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
@@ -152,7 +158,7 @@ A curated list of Rust code and resources.
 ### Applications / Emulators
 
 *   iOS
-    *   [touchHLE (⭐1k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
+    *   [touchHLE (⭐1.3k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 
 ### Libraries / System
 
@@ -162,11 +168,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [nix-community/nix-init (⭐188)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
+*   [nix-community/nix-init (⭐312)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
 
 ### Libraries / System
 
-*   [ardaku/whoami (⭐86)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — Rust crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
+*   [ardaku/whoami (⭐87)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] — Rust crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
 
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
@@ -226,13 +232,13 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [xilem (⭐1.1k)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.7k)](https://github.com/linebender/druid).
+*   [xilem (⭐1.2k)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.7k)](https://github.com/linebender/druid).
 
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 
 ### Libraries / Configuration
 
-*   [softprops/envy (⭐661)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+*   [softprops/envy (⭐672)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
 ## [Jan 15, 2023](/content/2023/01/15/README.md)
 
@@ -250,7 +256,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐289)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐313)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
 
 ### Libraries / Peripherals
 
@@ -265,12 +271,12 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐154)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐179)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐269)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐278)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
@@ -2605,6 +2611,7 @@ A curated list of Rust code and resources.
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
     *   [crates.nvim (⭐412)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [rust-tools.nvim (⭐1.6k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
     *   [rust.vim (⭐3.4k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐626)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
@@ -3005,6 +3012,7 @@ A curated list of Rust code and resources.
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web [![Build Status](https://api.travis-ci.org/koute/cargo-web.svg?branch=master)](https://travis-ci.org/koute/cargo-web)
+    *   [leptos (⭐7.2k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐1.7k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture. [![Build Status](https://api.travis-ci.org/ivanceras/sauron.svg?branch=master)](https://travis-ci.org/ivanceras/sauron)
     *   [seed](https://seed-rs.org/) — A Rust framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web [![Build Status](https://api.travis-ci.org/koute/stdweb.svg?branch=master)](https://travis-ci.org/koute/stdweb)

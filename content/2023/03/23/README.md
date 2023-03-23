@@ -1,18 +1,78 @@
 # Awesome List Updates on Mar 23, 2023
 
-6 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+### Misc libraries
+
+*   [karlseguin/log.zig (⭐20)](https://github.com/karlseguin/log.zig) - Structured logging library.
+
+### Network / HTTP
+
+*   [karlseguin/http.zig (⭐8)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [zurawiki/tiktoken-rs (⭐24)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Rust library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / File Organization Tools
+
+*   [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
+
+## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Education & Learning
+
+- Name: [Cratecode](https://cratecode.com/)
+
+  Title: Cratecode - Learn to Code for Free
+
+  Description: Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+
+### Miscellaneous / Others
+
+*   [Dub](https://dub.sh/) - Open-source link shortener.
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Code Generation
+
+*   [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
+
+## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
+
+### Music Programming
+
+*   [Sardine (⭐79)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+
+## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Other / [Other](#other-1)
+
+*   [Credential Digger (⭐237)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate.
+
+## [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Tutorials & workshops
 
 *   [Prise en main de Polars](http://colab.research.google.com/github/inseefrlab/ssphub/blob/main/content/notebooks/polars-tuto.ipynb) - A notebook tutorial in French that illustrates the main features of Polars by [@romaintailhurat](https://github.com/romaintailhurat) and [@linogaliana](https://github.com/linogaliana). There is also an accompanying [blog post ](https://ssphub.netlify.app/post/polars/).
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Misc
 
@@ -26,7 +86,7 @@
 
 *   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -40,7 +100,7 @@
 
 *   [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
 
-## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Libraries / Rust
 
@@ -53,13 +113,13 @@
     *   🎉 [egui (⭐14k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
     *   🔒 [Slint (⭐6k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
 
-## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [13. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries
 
 *   [scure-btc-signer (⭐30)](https://github.com/paulmillr/scure-btc-signer) — Secure, audited minimal library for creating, signing & decoding Bitcoin transactions.
 
-## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [14. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### CI/CD / Other
 

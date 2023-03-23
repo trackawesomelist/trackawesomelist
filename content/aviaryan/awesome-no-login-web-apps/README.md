@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
+## [Mar 23, 2023](/content/2023/03/23/README.md)
+
+### Miscellaneous / Others
+
+*   [Dub](https://dub.sh/) - Open-source link shortener.
+
 ## [Mar 20, 2023](/content/2023/03/20/README.md)
 
 ### Utilities (uncategorized) / Others

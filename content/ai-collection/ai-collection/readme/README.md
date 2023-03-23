@@ -51,11 +51,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 Translations:
 
-*   Русский: [README.ru.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
-*   Chinese (Simplified) 简体中文）: [README.zh-CN.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
-*   Français: [README.fr.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
-*   español: [README.es.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
-*   Hindi हिंदी: [README.hi.md (⭐2.4k)](https://github.com/ai-collection/ai-collection/blob/main/README.hi.md)
+*   Русский: [README.ru.md (⭐2.5k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
+*   Chinese (Simplified) 简体中文）: [README.zh-CN.md (⭐2.5k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+*   Français: [README.fr.md (⭐2.5k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+*   español: [README.es.md (⭐2.5k)](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
+*   Hindi हिंदी: [README.hi.md (⭐2.5k)](https://github.com/ai-collection/ai-collection/blob/main/README.hi.md)
 
 ***
 
@@ -440,6 +440,7 @@ Translations:
 | [Replicate](http://replicate.com)           | Machine Learning DoesnT Need to Be So Hard.                                                                 | Run open-source models with a cloud API.                                                                                                                                                                                                                                    | :white\_check\_mark: |
 | [Speakingclubai](http://speakingclubai.com) | Speaking Club AI.                                                                                           | Welcome to Speaking Club AI - the ultimate language learning tool for anyone looking to improve their speaking skills in a foreign language. With Speaking Club AI, you can practice    your conversation skills with a personalized AI language partner anytime, anywhere. |   :grey\_question:   |
 | [teachology.ai](https://www.teachology.ai/) | A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning. | Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.                                                                             | :white\_check\_mark: |
+| [Cratecode](https://cratecode.com/)         | Cratecode - Learn to Code for Free                                                                          | Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics.                                                                                              | :white\_check\_mark: |
 
 <!--End of Education & Learning 32-->
 

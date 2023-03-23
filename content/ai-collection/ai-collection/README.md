@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Mar 23, 2023](/content/2023/03/23/README.md)
+
+### Education & Learning
+
+- Name: [Cratecode](https://cratecode.com/)
+
+  Title: Cratecode - Learn to Code for Free
+
+  Description: Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Mar 18, 2023](/content/2023/03/18/README.md)
 
 ### Organization & Automation
