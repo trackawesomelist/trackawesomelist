@@ -6,6 +6,17 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
+
+### Authentication & Identity
+
+*   [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open source API for enterprise SSO and Directory Sync.
+*   [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
+
+### Deployment Hosting
+
+*   [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
+
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
 ### Documentation
@@ -355,7 +366,7 @@ A curated list of awesome developer-first tools products.
 *   [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 *   [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 *   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
+*   [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 
 ### Discussions
 

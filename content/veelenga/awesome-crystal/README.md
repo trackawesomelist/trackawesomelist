@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Mar 24, 2023](/content/2023/03/24/README.md)
+
+### Editor Plugins
+
+*   IntelliJ IDEA
+    *   [intellij-crystal-lang (⭐29)](https://github.com/asedunov/intellij-crystal-lang) - Crystal support for the JetBrains IDEs
+
 ## [Mar 17, 2023](/content/2023/03/17/README.md)
 
 ### CLI Builders
@@ -465,8 +472,8 @@
 
 ### Framework Components
 
-*   [graphql (⭐119)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
-*   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
+*   [graphql (⭐121)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql-crystal (⭐216)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### Unofficial
 

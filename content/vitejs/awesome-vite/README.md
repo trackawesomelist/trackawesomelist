@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Mar 24, 2023](/content/2023/03/24/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [unplugin-fonts (⭐140)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+
+### Frameworks / Community
+
+*   [Vise (⭐5)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+
 ## [Mar 20, 2023](/content/2023/03/20/README.md)
 
 ### Framework-agnostic Plugins / Integrations
@@ -41,7 +51,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-template (⭐0)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+*   [vite-react-ts-template (⭐3)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 ## [Mar 03, 2023](/content/2023/03/03/README.md)
 
@@ -778,7 +788,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐6.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.4k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 
@@ -820,7 +830,7 @@
 *   [fast-vite-electron (⭐95)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 *   [fast-vite-nestjs-electron (⭐134)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 *   [vite-plugin-electron-quick-start (⭐26)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
-*   [vite-electron-builder (⭐1.6k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-electron-builder (⭐1.7k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 *   [vite-reactts-electron-starter (⭐216)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 *   [Vitectron (⭐12)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 

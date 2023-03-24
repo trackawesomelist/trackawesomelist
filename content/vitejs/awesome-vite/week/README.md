@@ -11,6 +11,7 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-gitlab-flow (⭐5)](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
+*   [unplugin-fonts (⭐140)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -20,6 +21,10 @@
 
 *   [vite-plugin-find-image-duplicates (⭐1)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
 *   [@froxz/vite-plugin-s3 (⭐6)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+
+### Frameworks / Community
+
+*   [Vise (⭐5)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -39,7 +44,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-template (⭐0)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+*   [vite-react-ts-template (⭐3)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -648,7 +653,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐6.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.4k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
@@ -668,7 +673,7 @@
 *   [fast-vite-electron (⭐95)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 *   [fast-vite-nestjs-electron (⭐134)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 *   [vite-plugin-electron-quick-start (⭐26)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
-*   [vite-electron-builder (⭐1.6k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-electron-builder (⭐1.7k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 *   [vite-reactts-electron-starter (⭐216)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 *   [Vitectron (⭐12)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 

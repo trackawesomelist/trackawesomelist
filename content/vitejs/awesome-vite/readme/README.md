@@ -189,7 +189,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [leo-react-app (⭐1)](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
 *   [template-vite-react-ts-tailwind (⭐8)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 *   [vite-react-ts-tailwind-template (⭐1)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
-*   [vite-react-ts-template (⭐0)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+*   [vite-react-ts-template (⭐3)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 #### Svelte
 
@@ -212,7 +212,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [fast-vite-electron (⭐95)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 *   [fast-vite-nestjs-electron (⭐134)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 *   [vite-plugin-electron-quick-start (⭐26)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
-*   [vite-electron-builder (⭐1.6k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-electron-builder (⭐1.7k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 *   [vite-reactts-electron-starter (⭐216)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 *   [Vitectron (⭐12)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 *   [vite-plugin-electron-renderer (⭐30)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
@@ -295,6 +295,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-multiple (⭐1)](https://github.com/vite-plugin/vite-plugin-multiple) - Allow multiple Vite to run simultaneously.
 *   [vite-plugin-target (⭐2)](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
 *   [vite-plugin-gitlab-flow (⭐5)](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
+*   [unplugin-fonts (⭐140)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 
 #### Loaders
 
@@ -650,6 +651,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [vitedge (⭐679)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3]
 *   [vitext (⭐376)](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react]
 *   [Rakkas (⭐860)](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react]
+*   [Vise (⭐5)](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react] ![vue3]
 
 <!--lint enable awesome-list-item-->
 
@@ -744,7 +746,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [îles (⭐928)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 *   [Astro (⭐29k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐505)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐6.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.4k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐2.1k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐262)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐113)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.

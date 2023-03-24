@@ -289,8 +289,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 *   [Athena Negotiation (⭐3)](https://github.com/athena-framework/negotiation) - Framework agnostic content negotiation library
 *   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 *   [Exception Page (⭐64)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
-*   [graphql (⭐119)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
-*   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
+*   [graphql (⭐121)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql-crystal (⭐216)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 *   [kemal-session (⭐49)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
 *   [mochi (⭐23)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐47)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
@@ -671,6 +671,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
     *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐44)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 *   Geany
     *   [geany-crystal (⭐7)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
+*   IntelliJ IDEA
+    *   [intellij-crystal-lang (⭐29)](https://github.com/asedunov/intellij-crystal-lang) - Crystal support for the JetBrains IDEs
 *   Lite-XL
     *   [lite-plugin-crystal (⭐3)](https://github.com/Tamnac/lite-plugin-crystal) - Crystal support for the [Lite-XL](https://lite-xl.com/en/) editor
 *   Spacemacs
