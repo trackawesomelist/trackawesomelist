@@ -253,7 +253,7 @@ Awesome Music Projects
 
 ### Related lists
 
-*   [Awesome Music Production (⭐670)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐671)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [Mar 07 - Mar 13, 2016](/content/2016/10/README.md)
 

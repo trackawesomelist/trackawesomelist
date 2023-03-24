@@ -6,7 +6,7 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
-## [Mar 23, 2023](/content/2023/03/23/README.md)
+## [Mar 24, 2023](/content/2023/03/24/README.md)
 
 ### Libraries / Artificial Intelligence
 
@@ -90,7 +90,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐53)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐55)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ### Libraries / Filesystem
 
@@ -105,7 +105,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Artificial Intelligence
 
-*   [64bit/async-openai (⭐251)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+*   [64bit/async-openai (⭐253)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
@@ -158,7 +158,7 @@ A curated list of Rust code and resources.
 ### Applications / Emulators
 
 *   iOS
-    *   [touchHLE (⭐1.3k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
+    *   [touchHLE (⭐1.4k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 
 ### Libraries / System
 
@@ -168,7 +168,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [nix-community/nix-init (⭐312)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
+*   [nix-community/nix-init (⭐316)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
 
 ### Libraries / System
 
@@ -271,7 +271,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐179)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐180)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 

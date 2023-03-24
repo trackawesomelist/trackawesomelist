@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
-## [Mar 23, 2023](/content/2023/03/23/README.md)
+## [Mar 24, 2023](/content/2023/03/24/README.md)
 
 ### Miscellaneous / Others
 

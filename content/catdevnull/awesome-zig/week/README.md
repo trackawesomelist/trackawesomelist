@@ -2,7 +2,7 @@
 
 A list of awesome projects related to Zig
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/catdevnull/awesome-zig/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) · ⭐ 174 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/catdevnull/awesome-zig/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) · ⭐ 177 · 🏷️ Programming Languages
 
 [ [Daily](/content/catdevnull/awesome-zig/README.md) / Weekly / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
@@ -10,7 +10,7 @@ A list of awesome projects related to Zig
 
 ### Misc libraries
 
-*   [karlseguin/log.zig (⭐20)](https://github.com/karlseguin/log.zig) - Structured logging library.
+*   [karlseguin/log.zig (⭐22)](https://github.com/karlseguin/log.zig) - Structured logging library.
 
 ### Network / HTTP
 
@@ -33,7 +33,7 @@ A list of awesome projects related to Zig
 ### Network
 
 *   [MasterQ32/zig-network (⭐248)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
-*   [dantecatalfamo/zig-dns (⭐51)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
+*   [dantecatalfamo/zig-dns (⭐50)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -94,7 +94,7 @@ A list of awesome projects related to Zig
 
 ### GUI
 
-*   [capy-ui/capy (⭐700)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+*   [capy-ui/capy (⭐701)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -121,7 +121,7 @@ A list of awesome projects related to Zig
 
 ### GUI
 
-*   [fubark/cosmic (⭐280)](https://github.com/fubark/cosmic) - GUI toolkit.
+*   [fubark/cosmic (⭐281)](https://github.com/fubark/cosmic) - GUI toolkit.
 
 ### Misc libraries
 
@@ -151,13 +151,13 @@ A list of awesome projects related to Zig
 ### Network / HTTP
 
 *   [truemedian/zfetch (⭐60)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
-*   [ducdetronquito/requestz (⭐98)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
+*   [ducdetronquito/requestz (⭐99)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
 ### Algorithms and data structures
 
-*   [JakubSzark/zig-string (⭐99)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+*   [JakubSzark/zig-string (⭐100)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
@@ -244,7 +244,7 @@ A list of awesome projects related to Zig
 
 ### Bootables
 
-*   [AndreaOrru/zen (⭐299)](https://github.com/AndreaOrru/zen) - Experimental operating system.
+*   [AndreaOrru/zen (⭐300)](https://github.com/AndreaOrru/zen) - Experimental operating system.
 *   [andrewrk/clashos (⭐192)](https://github.com/andrewrk/clashos) - Multiplayer arcade game for bare metal Raspberry Pi 3 B+.
 *   [andrewrk/HellOS (⭐177)](https://github.com/andrewrk/HellOS) - "hello world" x86 kernel example.
 *   [DorianXGH/Lukarnel (⭐12)](https://github.com/DorianXGH/Lukarnel) - A microkernel with Rust microservices.
@@ -281,14 +281,14 @@ A list of awesome projects related to Zig
 *   [isaachier/ztags (⭐16)](https://github.com/isaachier/ztags) - Ctags implementation for Zig.
 *   [Tetralux/sublime-zig (⭐2)](https://github.com/Tetralux/sublime-zig) - My own, more lightweight, syntax highlighting for Zig.
 *   [ziglang/sublime-zig-language (⭐62)](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text.
-*   [ziglang/vscode-zig (⭐279)](https://github.com/ziglang/vscode-zig) - Zig language support for VSCode.
+*   [ziglang/vscode-zig (⭐282)](https://github.com/ziglang/vscode-zig) - Zig language support for VSCode.
 *   [ziglang/zig-mode (⭐95)](https://github.com/ziglang/zig-mode) - Zig mode for Emacs.
 *   [ziglang/zig.vim (⭐279)](https://github.com/ziglang/zig.vim) - Vim configuration for Zig.
 *   [zigtools/zls (⭐1.4k)](https://github.com/zigtools/zls) - Zig LSP implementation + Zig Language Server.
 
 ### Emulators
 
-*   [fengb/fundude (⭐147)](https://github.com/fengb/fundude) - Gameboy emulator for WASM.
+*   [fengb/fundude (⭐148)](https://github.com/fengb/fundude) - Gameboy emulator for WASM.
 *   [GrooveStomp/chip8-zig (⭐4)](https://github.com/GrooveStomp/chip8-zig) - CHIP-8 emulator.
 *   [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) - Virtual Boy emulator.
 *   [floooh/kc85.zig (⭐36)](https://github.com/floooh/kc85.zig) - A KC85 emulator.
@@ -349,7 +349,7 @@ A list of awesome projects related to Zig
 *   [ducdetronquito/h11 (⭐100)](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
 *   [lun-4/ziget (⭐13)](https://github.com/lun-4/ziget) - Simple wget without libc.
 *   ~~[Vexu/routez (⭐232)](https://github.com/Vexu/routez) - HTTP server.~~
-*   [frmdstryr/zhp (⭐264)](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
+*   [frmdstryr/zhp (⭐265)](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
 
 ### Web / HTTP
 
@@ -367,24 +367,24 @@ A list of awesome projects related to Zig
 *   [pbui-project/pbui-main (⭐87)](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig.
 *   [hspak/brightnessztl (⭐3)](https://github.com/hspak/brightnessztl) - A CLI to control device backlight.
 *   [thejoshwolfe/hexdump-zip (⭐5)](https://github.com/thejoshwolfe/hexdump-zip) - Produce an annotated hexdump of a zipfile.
-*   [kubkon/zacho (⭐31)](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
+*   [kubkon/zacho (⭐32)](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
 
 ### Zig development tools / HTTP
 
-*   [marler8997/zigup (⭐255)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
+*   [marler8997/zigup (⭐256)](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 
 ### Zig development tools / Package managers
 
 *   [zigtools/zpm (⭐61)](https://github.com/zigtools/zpm) - Unofficial Zig package manager.
-*   [mattnite/gyro (⭐512)](https://github.com/mattnite/gyro) - Package manager with an index, build runner, and build dependencies.
-*   [nektro/zigmod (⭐449)](https://github.com/nektro/zigmod) - Zig package manager.
+*   [mattnite/gyro (⭐513)](https://github.com/mattnite/gyro) - Package manager with an index, build runner, and build dependencies.
+*   [nektro/zigmod (⭐450)](https://github.com/nektro/zigmod) - Zig package manager.
 *   [cheetah/asdf-zig (⭐17)](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager.
 
 ### Parser / Package managers
 
 *   [darithorn/zig-toml (⭐65)](https://github.com/darithorn/zig-toml) - A TOML parser.
 *   [chwayne/rem (⭐70)](https://github.com/chwayne/rem) - An HTML parsing library.
-*   [Hejsil/zig-clap (⭐392)](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
+*   [Hejsil/zig-clap (⭐393)](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
 *   [kivikakk/libpcre.zig (⭐16)](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions.
 *   [kivikakk/koino (⭐85)](https://github.com/kivikakk/koino) - CommonMark/GitHub Flavored Markdown parser and HTML renderer.
 *   [kubkon/zig-yaml (⭐65)](https://github.com/kubkon/zig-yaml) - YAML parser.

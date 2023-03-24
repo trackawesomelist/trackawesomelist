@@ -12,6 +12,15 @@
 
 *   🌍🔧 [Loopple Builder](https://www.loopple.com/theme/soft-ui-dashboard-tailwind) - Dashboard drag-and-drop builder for Tailwind CSS.
 
+### UI Libraries, Components & Templates
+
+*   🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
+
+### Starters & Themes
+
+*   🚀 [Angular-Tailwind (⭐21)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Vue-Resume (⭐2)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### IDE Extensions

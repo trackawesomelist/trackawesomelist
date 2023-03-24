@@ -256,7 +256,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   Intel 8080 CPU
     *   [mohanson/i8080 (⭐87)](https://github.com/mohanson/i8080) — Intel 8080 cpu emulator by Rust
 *   iOS
-    *   [touchHLE (⭐1.3k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
+    *   [touchHLE (⭐1.4k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 *   iPod
     *   [clicky (⭐112)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 *   NES
@@ -453,8 +453,8 @@ See also [A comparison of operating systems written in Rust (⭐509)](https://gi
 *   [fcsonline/tmux-thumbs (⭐637)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 *   [guoxbin/dtool (⭐325)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 *   [mprocs (⭐711)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
-*   [nix-community/nix-init (⭐312)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
-*   [nix-community/nurl (⭐179)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nix-init (⭐316)](https://github.com/nix-community/nix-init) — Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [![build-badge](https://github.com/nix-community/nix-init/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-init/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐180)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 *   [nomino (⭐489)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 *   [raftario/licensor (⭐168)](https://github.com/raftario/licensor) — write licenses to stdout [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
 *   [rustdesk/rustdesk (⭐39k)](https://github.com/rustdesk/rustdesk) — A remote desktop software, great alternative to TeamViewer and AnyDesk.
@@ -777,7 +777,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 #### OpenAI
 
-*   [64bit/async-openai (⭐251)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+*   [64bit/async-openai (⭐253)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 *   [zurawiki/tiktoken-rs (⭐24)](https://github.com/zurawiki/tiktoken-rs) \[[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] — Rust library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
 ### Astronomy
@@ -1145,7 +1145,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [jdrouet/mrml (⭐236)](https://github.com/jdrouet/mrml) [![build badge](https://api.travis-ci.com/jdrouet/mrml.svg?branch=master)](https://travis-ci.org/jdrouet/mrml) - A library to generate nice email templates working on any mail client.
 *   [lettre/lettre (⭐1.4k)](https://github.com/lettre/lettre) — an SMTP-library for Rust [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
 *   [staktrace/mailparse (⭐152)](https://github.com/staktrace/mailparse) \[[mailparse](https://crates.io/crates/mailparse)] — A library for parsing real-world email files [![build badge](https://api.travis-ci.org/staktrace/mailparse.svg?branch=master)](https://travis-ci.org/staktrace/mailparse)
-*   [stalwartlabs/mail-auth (⭐53)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐55)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 *   [stalwartlabs/mail-parser (⭐169)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 *   [stalwartlabs/mail-send (⭐132)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
 

@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
-## [Mar 23, 2023](/content/2023/03/23/README.md)
+## [Mar 24, 2023](/content/2023/03/24/README.md)
 
 ### Other / [Other](#other-1)
 
@@ -208,7 +208,7 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [cargo-breaking (⭐112)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
-*   [cargo-show-asm (⭐318)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+*   [cargo-show-asm (⭐319)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
 ## [Nov 02, 2022](/content/2022/11/02/README.md)
 
@@ -377,7 +377,7 @@
 *   [ArchUnitNET (⭐479)](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 *   [Designite](http://www.designite-tools.com) :copyright: — Designite supports detection of various architecture, design, and implementation smells, computation of various code quality metrics, and trend analysis.
 *   [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET).
-*   [Infer# (⭐686)](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
+*   [Infer# (⭐687)](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 *   [NDepend](http://www.ndepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 *   [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 *   [Roslynator (⭐2.6k)](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
@@ -627,7 +627,7 @@
 *   [svls (⭐312)](https://github.com/dalance/svls) — A Language Server Protocol implementation for Verilog and SystemVerilog, including lint capabilities.
 *   [verible-linter-action (⭐12)](https://github.com/chipsalliance/verible-linter-action) — Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines  of code in Pull Requests automatically.
 *   [Verilator](https://www.veripool.org/verilator) — A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
-*   [vscode-verilog-hdl-support (⭐230)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
+*   [vscode-verilog-hdl-support (⭐231)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 ### Other / [Other](#other-1)
 
@@ -654,7 +654,7 @@
 *   [ERB Lint (⭐448)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 *   [quality (⭐154)](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 *   [cargo-bloat (⭐1.8k)](https://github.com/RazrFalcon/cargo-bloat) — Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
-*   [rust-audit (⭐372)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
+*   [rust-audit (⭐373)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 *   [alquitran (⭐16)](https://github.com/ferivoz/alquitran) — Inspects tar archives and tries to spot portability issues in regard  to POSIX 2017 pax specification and common tar implementations.
     This project is intended to be used by maintainers of projects who want to offer portable source code archives for as many systems as possible. Checking tar archives with alquitran before publishing them should help spotting issues before they reach distributors and users.
 *   [packj](https://packj.dev) — Packj (pronounced package) is a command line (CLI) tool to vet open-source software packages for "risky" attributes that make them vulnerable to supply chain attacks. This is the tool behind our large-scale security analysis platform Packj.dev that continuously vets packages and provides free reports.
@@ -746,7 +746,7 @@
     TruffleHog is an open source secret-scanning engine that resolves exposed secrets across your company’s entire tech stack.
 *   [Tsunami Security Scanner (⭐7.8k)](https://github.com/google/tsunami-security-scanner) — A general purpose network security scanner with an extensible plugin system for  detecting high severity RCE-like vulnerabilities with high confidence. Custom detectors for finding vulnerabilities (e.g. open APIs) can be added.
 *   [MythX](https://mythx.io) :copyright: — MythX is an easy to use analysis platform which integrates several analysis methods like fuzzing, symbolic execution and static analysis to find vulnerabilities with high precision. It can be integrated with toolchains like Remix or VSCode or called from the command-line.
-*   [slither (⭐3.9k)](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
+*   [slither (⭐4k)](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
 *   [solium](https://ethlint.readthedocs.io/en/latest) — Solium is a linter to identify and fix style and security issues in Solidity smart contracts.
 *   [haml-lint (⭐284)](https://github.com/sds/haml-lint) — Tool for writing clean and consistent HAML.
 *   [slim-lint (⭐188)](https://github.com/sds/slim-lint) — Configurable tool for analyzing Slim templates.

@@ -311,6 +311,7 @@
 *   🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 *   🧩 [Sira UI](https://sira.riccox.com) - Customizable and accessible design system which provides TailwindCSS component class name library to build modern UI.
 *   🧩 [RippleUI](https://www.ripple-ui.com/) - Clean, modern and beautiful Tailwind CSS components.
+*   🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
@@ -379,6 +380,8 @@
 *   🚀 [Vitailse (⭐118)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 *   🚀 [Vite-Boot (⭐109)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse  Template.
 *   🚀 [AstroWind (⭐744)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [Angular-Tailwind (⭐21)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Vue-Resume (⭐2)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## Open-Source Projects
 

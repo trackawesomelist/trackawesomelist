@@ -6,7 +6,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
-## [Mar 23, 2023](/content/2023/03/23/README.md)
+## [Mar 24, 2023](/content/2023/03/24/README.md)
 
 ### Education & Learning
 

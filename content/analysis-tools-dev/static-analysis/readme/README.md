@@ -252,7 +252,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐680)](https://g
 
 *   [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET).
 
-*   [Infer# (⭐686)](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
+*   [Infer# (⭐687)](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 
 *   [NDepend](http://www.ndepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
@@ -966,7 +966,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐680)](https://g
 
 *   [cargo-inspect (⭐381)](https://github.com/mre/cargo-inspect) — Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.
 
-*   [cargo-show-asm (⭐318)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+*   [cargo-show-asm (⭐319)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
 *   [cargo-spellcheck (⭐290)](https://github.com/drahnr/cargo-spellcheck) — Checks all your documentation for spelling and grammar mistakes  with hunspell (ready) and languagetool (preview)
 
@@ -997,7 +997,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐680)](https://g
 
 *   [rust-analyzer](https://rust-analyzer.github.io) — Supports functionality such as 'goto definition', type inference, symbol search, reformatting, and code completion, and enables renaming and refactorings.
 
-*   [rust-audit (⭐372)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
+*   [rust-audit (⭐373)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
 *   [rustfix (⭐818)](https://github.com/rust-lang/rustfix) — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 
@@ -1098,7 +1098,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐680)](https://g
 
 *   [Verilator](https://www.veripool.org/verilator) — A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
 
-*   [vscode-verilog-hdl-support (⭐230)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
+*   [vscode-verilog-hdl-support (⭐231)](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 <h2 id="vim-script">Vim Script</h2>
 
@@ -1414,7 +1414,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐680)](https://g
 
 *   [Nauz File Detector (⭐435)](https://github.com/horsicq/Nauz-File-Detector) — Static Linker/Compiler/Tool detector for Windows, Linux and MacOS.
 
-*   [rust-audit (⭐372)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
+*   [rust-audit (⭐373)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
 *   [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
@@ -1801,7 +1801,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐680)](https://g
 
 *   [MythX](https://mythx.io) :copyright: — MythX is an easy to use analysis platform which integrates several analysis methods like fuzzing, symbolic execution and static analysis to find vulnerabilities with high precision. It can be integrated with toolchains like Remix or VSCode or called from the command-line.
 
-*   [slither (⭐3.9k)](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
+*   [slither (⭐4k)](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
 
 *   [solhint](https://protofire.github.io/solhint) — Solhint is an open source project created by <https://protofire.io>. Its goal is to provide a linting utility for Solidity code.
 

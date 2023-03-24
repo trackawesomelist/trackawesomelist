@@ -6,7 +6,11 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
-## [Mar 23, 2023](/content/2023/03/23/README.md)
+## [Mar 24, 2023](/content/2023/03/24/README.md)
+
+### Audio Record and Process / File Sharing
+
+*   [Stargate DAW (⭐350)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/aria2) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
@@ -1840,7 +1844,7 @@
 *   [MuseScore](https://musescore.org/) - Free, open-source music notation software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/musescore/MuseScore) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Perian](http://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MaddTheSane/perian)
 *   [Soda Player](https://www.sodaplayer.com/) - Player that can play seed, magnetic links, online video, automatic captions, links and local video files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Sonora (⭐935)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/sonoramac/Sonora)
+*   [Sonora (⭐936)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/sonoramac/Sonora)
 *   [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
 *   [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/synfig/synfig) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/videolan/vlc)

@@ -170,7 +170,7 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 
 *   [Awesome Audio Visualization (⭐4.2k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Music Listening (⭐94)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome Music Production (⭐670)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐671)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 *   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
 *   [Awesome sheet music (⭐578)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 *   [Awesome WebAudio (⭐907)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.

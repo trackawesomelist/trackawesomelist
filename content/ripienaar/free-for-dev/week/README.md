@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Selefra](https://www.selefra.io/) - Selefra free tier offers individual users to scan one single-source connection to discover security and compliance issues on the configurations level of cloud/infra/SaaS.
 
+### APIs, Data and ML
+
+*   [Exspanse](https://exspanse.com) - MLOPS Platform to build, train and deploy ML models and AI solutions. Free plan gives ability to create unlimited projects, 5Gb of cloud storage, 5 docker container images.
+
 ### Code Generation
 
 *   [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.

@@ -6,7 +6,7 @@ Awesome Music Projects
 
 [ Daily / [Weekly](/content/ciconia/awesome-music/week/README.md) / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
-## [Mar 23, 2023](/content/2023/03/23/README.md)
+## [Mar 24, 2023](/content/2023/03/24/README.md)
 
 ### Music Programming
 
@@ -255,7 +255,7 @@ Awesome Music Projects
 
 ### Related lists
 
-*   [Awesome Music Production (⭐670)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐671)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [Mar 10, 2016](/content/2016/03/10/README.md)
 

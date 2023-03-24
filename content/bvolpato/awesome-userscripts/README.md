@@ -2,9 +2,15 @@
 
 📖  A curated list of Awesome Userscripts.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) · ⭐ 975 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) · ⭐ 1K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/bvolpato/awesome-userscripts/week/README.md) / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
+
+## [Mar 24, 2023](/content/2023/03/24/README.md)
+
+### Scripts / Ads
+
+*   [AntiAdware (⭐178)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -36,7 +42,7 @@
 
 *   [Greasemonkey](http://www.greasespot.net/) - Firefox
     *   Supports GM 4 userscripts.
-*   [Greasemonkey for Pale Moon (⭐84)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
+*   [Greasemonkey for Pale Moon (⭐87)](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
     *   Supports GM 3 userscripts.
 *   [Firemonkey](https://addons.mozilla.org/firefox/addon/firemonkey/) - Firefox
     *   Supports GM 4 userscripts and some GM 3 userscripts.
@@ -58,7 +64,6 @@
 ### Scripts / Ads
 
 *   [Anti-Adblock Killer](http://reek.github.io/anti-adblock-killer/) - Bypasses anti-adblock functionality in websites.
-*   [AntiAdware](https://greasyfork.org/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 *   [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
 ### Scripts / GitHub
@@ -73,7 +78,7 @@
 *   [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 *   [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 *   [Google Translate Keyboard Shortcut (⭐6)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
-*   [Reddit Search On Google (⭐56)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+*   [Reddit Search On Google (⭐63)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 
 ### Scripts / Media
 
@@ -97,21 +102,21 @@
 
 ### Scripts / GitHub
 
-*   [Github Reply Comments (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
-*   [GitHub Commit Whitespace (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [Github Commit Diff (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [GitHub User Info (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
-*   [GitHub Image Viewer (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-*   [Github News Feed Filter (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [Github Pull Request From Link (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [Github Pages Linker (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [Github Reply Comments (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Commit Whitespace (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
+*   [Github Commit Diff (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [GitHub User Info (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
+*   [GitHub Image Viewer (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [Github News Feed Filter (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [Github Pull Request From Link (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [Github Pages Linker (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
 
 ## [May 19, 2017](/content/2017/05/19/README.md)
 
 ### Scripts / GitHub
 
-*   [GitHub Dark Script (⭐556)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.5k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
-*   [GitHub Custom Emojis (⭐58)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+*   [GitHub Dark Script (⭐554)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.5k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [GitHub Custom Emojis (⭐59)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
 *   [GitHub code colors (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 *   [GitHub code folding (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 *   [GitHub code guides (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -149,7 +154,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐634)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐658)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ## [Jul 31, 2016](/content/2016/07/31/README.md)
 
@@ -178,7 +183,7 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Monospace Editor (⭐7)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+*   [GitHub Monospace Editor (⭐8)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 *   [GitHub PR Approvals (⭐1)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 ### Additional Catalogues / YouTube

@@ -25,6 +25,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Is a socially fair Artificial Intelligence possible? | Uma Inteligência Artificial socialmente justa é possível?](https://www.mabuse.art.br/post/uma-intelig%C3%AAncia-artificial-socialmente-justa-%C3%A9-poss%C3%ADvel): post in Portuguese by H.D. Mabuse
 
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐4.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
+
 ### Inbox: Music and Audio projects / Text-related Generative Tools
 
 *   [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research

@@ -6,7 +6,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
-## [Mar 23, 2023](/content/2023/03/23/README.md)
+## [Mar 24, 2023](/content/2023/03/24/README.md)
+
+### APIs, Data and ML
+
+*   [Exspanse](https://exspanse.com) - MLOPS Platform to build, train and deploy ML models and AI solutions. Free plan gives ability to create unlimited projects, 5Gb of cloud storage, 5 docker container images.
 
 ### Code Generation
 

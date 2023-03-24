@@ -732,7 +732,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 *   [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 *   [Soda Player](https://www.sodaplayer.com/) - Player that can play seed, magnetic links, online video, automatic captions, links and local video files. ![Freeware][Freeware Icon]
-*   [Sonora (⭐935)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
+*   [Sonora (⭐936)](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 *   [SpotMenu (⭐2.8k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 *   [Stremio](https://www.stremio.com/) - Movies, TV shows, series, live television or web channels like YouTube and Twitch.tv - you can find all this on Stremio. ![Freeware][Freeware Icon]
 *   [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
@@ -748,6 +748,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 
 *   [GarageBand](https://www.apple.com/mac/garageband/) - A free Digital Audio Workstation (DAW) from Apple，providing a simple interface and professional level audio production functions. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh\&ls=1\&mt=12)
 *   [Logic Pro X](https://www.apple.com/logic-pro/) - A professional Digital Audio Workstation (DAW) from Apple，providing complete audio production functions along with high quality native plugins and soundtracks. With native Apple Silicon support. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh\&mt=12)
+*   [Stargate DAW (⭐350)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 
 ## Download Management Tools
 
