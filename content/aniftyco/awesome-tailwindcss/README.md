@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Mar 25, 2023](/content/2023/03/25/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📁 [Astro Template Resume (⭐0)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
+
 ## [Mar 24, 2023](/content/2023/03/24/README.md)
 
 ### UI Libraries, Components & Templates
@@ -192,7 +198,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite-Boot (⭐109)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse  Template.
+*   🚀 [Vite-Boot (⭐109)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
 ## [Mar 09, 2022](/content/2022/03/09/README.md)
 

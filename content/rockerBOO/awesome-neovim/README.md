@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 25, 2023](/content/2023/03/25/README.md)
+
+### Startup / Diagnostics
+
+*   [willothy/veil.nvim (⭐36)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin.
+
 ## [Mar 24, 2023](/content/2023/03/24/README.md)
 
 ### Syntax / Diagnostics

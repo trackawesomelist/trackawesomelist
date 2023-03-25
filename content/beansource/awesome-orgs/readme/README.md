@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## Awesome Orgs
+# Awesome Orgs
 
 Curating awesome GitHub organizations\
 ![octocat](https://github.githubassets.com/images/icons/emoji/hearts_around.png)
@@ -33,7 +33,7 @@ Curating awesome GitHub organizations\
 *   [Telemetry](#telemetry)
 *   [Other](#other)
 
-### Companies
+## Companies
 
 <!-- @companies -->
 
@@ -45,7 +45,7 @@ Curating awesome GitHub organizations\
 *   [HashiCorp](https://github.com/hashicorp) - Consistent workflows to provision, secure, connect, and run any infrastructure for any application.
 *   [GitHub](https://github.com/github) - How people build software.
 
-### Cloud
+## Cloud
 
 <!-- @cloud -->
 
@@ -53,17 +53,17 @@ Curating awesome GitHub organizations\
 *   [Kubernetes](https://github.com/kubernetes)
 *   [Docker](https://github.com/docker) - Docker helps developers bring their ideas to life by conquering the complexity of app development.
 
-### Web
+## Web
 
 <!-- @web -->
 
 *   [Poppinss](https://github.com/poppinss) - Small focused modules for Node.js.
-*   [unified](https://github.com/unifiedjs) - content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
+*   [Unified](https://github.com/unifiedjs) - Content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
 *   [Hono](https://github.com/honojs) - Ultrafast web framework for the Edge.
 *   [Oven](https://github.com/oven-sh) - The company behind Bun, the incredibly fast JavaScript runtime, bundler, transpiler and package manager.
 *   [Vue](https://github.com/vuejs)
 *   [Nuxt](https://github.com/nuxt) - The Intuitive Vue Framework.
-*   [Nest](https://github.com/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications 🚀
+*   [Nest](https://github.com/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications 🚀.
 *   [Node.js](https://github.com/nodejs)
 *   [TanStack](https://github.com/TanStack) - Open source software for building better UI and UX.
 *   [Deno](https://github.com/denoland)
@@ -71,10 +71,10 @@ Curating awesome GitHub organizations\
 *   [Poimandres](https://github.com/pmndrs) - Open source developer collective.
 *   [Cypress.io](https://github.com/cypress-io) - Fast, easy and reliable testing for anything that runs in a browser.
 *   [CodeSandbox](https://github.com/codesandbox) - An online editor tailored for web applications.
-*   [choo](https://github.com/choojs) - (very) small browser tools. Choo choo.
-*   [Fiber](https://github.com/gofiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
+*   [Choo](https://github.com/choojs) - (very) small browser tools. Choo choo.
+*   [Fiber](https://github.com/gofiber) - Fiber is an Express inspired web framework written in Go with 💖.
 
-### Database
+## Database
 
 <!-- @database -->
 
@@ -82,7 +82,7 @@ Curating awesome GitHub organizations\
 *   [Supabase](https://github.com/supabase) - The open source Firebase alternative.
 *   [SurrealDB](https://github.com/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
 
-### User Interface
+## User Interface
 
 <!-- @user-interface -->
 
@@ -90,19 +90,19 @@ Curating awesome GitHub organizations\
 *   [Storybook](https://github.com/storybookjs) - Build bulletproof user interfaces.
 *   [Tailwind Labs](https://github.com/tailwindlabs) - Creators of Tailwind CSS and Headless UI, and authors of Refactoring UI.
 
-### Analytics
+## Analytics
 
 <!-- @analytics -->
 
 *   [PostHog](https://github.com/PostHog) - Open-source product analytics platform.
 
-### Telemetry
+## Telemetry
 
 <!-- @telemetry -->
 
 *   [Sentry](https://github.com/getsentry) - Real-time crash reporting for your web apps, mobile apps, and games.
 
-### Other
+## Other
 
 <!-- @other -->
 
@@ -111,5 +111,5 @@ Curating awesome GitHub organizations\
 *   [Hugging Face](https://github.com/huggingface) - The AI community building the future.
 *   [Nrwl](https://github.com/nrwl) - We are a team of engineers building software and open source: Nx and Nx Cloud.
 *   [Z-Shell](https://github.com/z-shell) - Open-source society passionate about Zsh.
-*   [ReadMe](https://github.com/readmeio) - Beautiful, personalized, interactive developer hubs 🦉
+*   [ReadMe](https://github.com/readmeio) - Beautiful, personalized, interactive developer hubs 🦉.
 

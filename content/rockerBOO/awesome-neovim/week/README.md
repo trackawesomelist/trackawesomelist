@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [desdic/agrolens.nvim (⭐6)](https://github.com/desdic/agrolens.nvim) - Navigate via Tree-sitter nodes using Telescope.
 
+### Startup / Diagnostics
+
+*   [willothy/veil.nvim (⭐36)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin.
+
 ### Code Runner / Diagnostics
 
 *   [MarcHamamji/runner.nvim (⭐4)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.

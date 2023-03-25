@@ -15,6 +15,7 @@
 ### UI Libraries, Components & Templates
 
 *   🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
+*   📁 [Astro Template Resume (⭐0)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 
 ### Starters & Themes
 
@@ -171,7 +172,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite-Boot (⭐109)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse  Template.
+*   🚀 [Vite-Boot (⭐109)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
 ### Open-Source Projects
 
