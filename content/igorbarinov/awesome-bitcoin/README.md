@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Mar 26, 2023](/content/2023/03/26/README.md)
+
+### Swift libraries
+
+*   [secp256k1.swift (⭐72)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+
 ## [Mar 23, 2023](/content/2023/03/23/README.md)
 
 ### JavaScript Libraries

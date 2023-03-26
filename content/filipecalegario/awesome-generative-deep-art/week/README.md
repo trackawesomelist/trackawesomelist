@@ -20,6 +20,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 
+### Hypertechniques / References Collection about Stable Diffusion
+
+*   [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [\[unofficial repo\] (⭐13)](https://github.com/cloneofsimo/promptplusplus) [\[arxiv\]](https://arxiv.org/abs/2303.09522) [\[page\]](https://prompt-plus.github.io/)
+
 ### Discussions and Philosophy / Papers Collections
 
 *   [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun): notes by Bill Gates
@@ -38,6 +42,14 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Music and Audio projects / Text-related Generative Tools
 
 *   [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
+
+### Inbox: Video AI tools / Text-related Generative Tools
+
+*   [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [\[arxiv\]](https://arxiv.org/abs/2302.03011)
+*   [CiaraRowles/TemporalNet · Hugging Face](https://huggingface.co/CiaraRowles/TemporalNet): a ControlNet model designed to enhance the temporal consistency of generated outputs [\[tweet\]](https://twitter.com/ciararowles1/status/1639321818581303310)
+*   [Video-P2P UI - a Hugging Face Space by video-p2p-library](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo): video editing with cross-attention control [\[tweet\]](https://twitter.com/_akhaliq/status/1637838648463749120)
+*   [Text2Video-Zero - a Hugging Face Space by PAIR](https://huggingface.co/spaces/PAIR/Text2Video-Zero): zero-shot text-to-video synthesis diffusion framework [\[tweet\]](https://twitter.com/_akhaliq/status/1639062868850266112) [\[arxiv\]](https://arxiv.org/abs/2303.13439)
+*   [ModelScope - a Hugging Face Space by damo-vilab](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis): text-to-video synthesis [\[page\]](https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary)
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 

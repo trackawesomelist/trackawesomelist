@@ -24,6 +24,10 @@ Collections of awesome neovim plugins.
 
 *   [MarcHamamji/runner.nvim (⭐4)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 
+### Motion / Diagnostics
+
+*   [chrisgrieser/nvim-spider (⭐22)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+
 ### Keybinding / Diagnostics
 
 *   [Wansmer/langmapper.nvim (⭐14)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.

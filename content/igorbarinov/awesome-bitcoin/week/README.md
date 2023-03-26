@@ -12,6 +12,10 @@ A curated list of bitcoin services and tools for software developers
 
 *   [scure-btc-signer (⭐30)](https://github.com/paulmillr/scure-btc-signer) — Secure, audited minimal library for creating, signing & decoding Bitcoin transactions.
 
+### Swift libraries
+
+*   [secp256k1.swift (⭐72)](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Utilities

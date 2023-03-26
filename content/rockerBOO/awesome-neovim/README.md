@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [cpea2506/relative-toggle.nvim (⭐23)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
 
+### Motion / Diagnostics
+
+*   [chrisgrieser/nvim-spider (⭐22)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+
 ## [Mar 25, 2023](/content/2023/03/25/README.md)
 
 ### Startup / Diagnostics

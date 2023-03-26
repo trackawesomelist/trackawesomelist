@@ -239,6 +239,8 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Hypertechniques
 
+*   [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [\[unofficial repo\] (⭐13)](https://github.com/cloneofsimo/promptplusplus) [\[arxiv\]](https://arxiv.org/abs/2303.09522) [\[page\]](https://prompt-plus.github.io/)
+
 ### ControlNet
 
 *   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI (based on ControlNet)
@@ -664,6 +666,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Inbox: Video AI tools
 
+*   [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [\[arxiv\]](https://arxiv.org/abs/2302.03011)
+*   [CiaraRowles/TemporalNet · Hugging Face](https://huggingface.co/CiaraRowles/TemporalNet): a ControlNet model designed to enhance the temporal consistency of generated outputs [\[tweet\]](https://twitter.com/ciararowles1/status/1639321818581303310)
+*   [Video-P2P UI - a Hugging Face Space by video-p2p-library](https://huggingface.co/spaces/video-p2p-library/Video-P2P-Demo): video editing with cross-attention control [\[tweet\]](https://twitter.com/_akhaliq/status/1637838648463749120)
+*   [Text2Video-Zero - a Hugging Face Space by PAIR](https://huggingface.co/spaces/PAIR/Text2Video-Zero): zero-shot text-to-video synthesis diffusion framework [\[tweet\]](https://twitter.com/_akhaliq/status/1639062868850266112) [\[arxiv\]](https://arxiv.org/abs/2303.13439)
+*   [ModelScope - a Hugging Face Space by damo-vilab](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis): text-to-video synthesis [\[page\]](https://www.modelscope.cn/models/damo/text-to-video-synthesis/summary)
 *   [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
 *   \[🔥] [dmarx/video-killed-the-radio-star (⭐104)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions

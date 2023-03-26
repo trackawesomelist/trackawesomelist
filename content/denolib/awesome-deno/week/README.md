@@ -6,6 +6,17 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
+
+### Tools / XML
+
+*   dvm
+    *   [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git) - Deno plugin for [asdf](https://asdf-vm.com/)
+    *   [justjavac/dvm (⭐543)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [axetroy/dvm (⭐161)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
+    *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
+    *   [ghosind/dvm (⭐25)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
+
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
 ### Modules / Utils
@@ -378,7 +389,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Image
 
-*   [ImageScript (⭐478)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐482)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
@@ -392,16 +403,6 @@ Curated list of awesome things related to Deno
 
 *   [handlebars (⭐23)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
-
-## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
-
-### Tools / XML
-
-*   dvm
-    *   [justjavac/dvm (⭐543)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
-    *   [axetroy/dvm (⭐161)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
-    *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
-    *   [ghosind/dvm (⭐25)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -502,7 +503,7 @@ Curated list of awesome things related to Deno
 *   [djwt (⭐179)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 *   [forwarded (⭐9)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 *   [gentleRpc (⭐41)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
-*   [gql (⭐165)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [gql (⭐171)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 *   [nats (⭐116)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 *   [obsidian (⭐658)](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 *   [qs (⭐5)](https://github.com/denolib/qs) - A query string parser with nesting support.

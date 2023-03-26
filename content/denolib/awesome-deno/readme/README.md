@@ -151,7 +151,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 
-*   [ImageScript (⭐478)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐482)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Logging
 
@@ -320,7 +320,7 @@ This list is a collection of the best Deno modules and resources.
 *   [forwarded (⭐9)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 *   [fresh\_chart (⭐70)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 *   [gentleRpc (⭐41)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
-*   [gql (⭐165)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [gql (⭐171)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 *   [graphql-tag (⭐7)](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
 *   [nats (⭐116)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 *   [obsidian (⭐658)](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
@@ -385,6 +385,7 @@ This list is a collection of the best Deno modules and resources.
     *   [BoltDoggy/deno#dpm (⭐12)](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
     *   [dpmland/dpm (⭐40)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 *   dvm
+    *   [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git) - Deno plugin for [asdf](https://asdf-vm.com/)
     *   [justjavac/dvm (⭐543)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
     *   [axetroy/dvm (⭐161)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
