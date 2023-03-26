@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
+
+### Technology in General / Angular
+
+*   [SaaS Bites](https://saasbites.substack.com). Latest news, tips, and tools for SaaS growth, marketing and product management.
+
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
 ### Swift / Angular
@@ -645,7 +651,7 @@ A list of amazing Newsletters
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐578)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐581)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 

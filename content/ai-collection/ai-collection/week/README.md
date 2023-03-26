@@ -2,7 +2,7 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
@@ -15,6 +15,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Cratecode - Learn to Code for Free
 
   Description: Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Text
+
+- Name: [Deploy Prompt](https://deployprompt.com/)
+
+  Title: Create and share resuable prompts
+
+  Description: Test your prompt ideas then record, share, and iterate on responses. Deploy with No Code, to your App, as an API, or as a ChatGPT Plugin, and more. It's the fastest way to get your prompt-driven application live in production.
 
   Offer Free Version: :white\_check\_mark:
 
