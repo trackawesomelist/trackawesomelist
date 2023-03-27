@@ -109,6 +109,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     *   [Text processing](#text-processing-1)
     *   [Text search](#text-search)
     *   [Unsafe](#unsafe)
+    *   [Video](#video-1)
     *   [Virtualization](#virtualization-1)
     *   [Web programming](#web-programming)
 *   [Registries](#registries)
@@ -1590,6 +1591,10 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Unsafe
 
 *   [zerocopy](https://crates.io/crates/zerocopy) — Utilities for safely reinterpreting arbitrary byte sequences as native Rust types
+
+### Video
+
+*   [ffmpeg-sidecar (⭐53)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
 ### Virtualization
 

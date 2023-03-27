@@ -17,6 +17,10 @@ A curated list of Rust code and resources.
 *   [nushell/nushell (⭐24k)](https://github.com/nushell/nushell) - A new type of shell
 *   [supercilex/fuc (⭐122)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
+### Libraries / Video
+
+*   [ffmpeg-sidecar (⭐53)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Libraries / Artificial Intelligence

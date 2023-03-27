@@ -2,15 +2,21 @@
 
  :zap: Tools for building bots
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/bots/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/bots](https://github.com/hackerkid/bots) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/bots/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/bots](https://github.com/hackerkid/bots) · ⭐ 1.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/hackerkid/bots/README.md) / Weekly / [Overview](/content/hackerkid/bots/readme/README.md) ]
+
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Discord / C
+
+*   [Concord (⭐375)](https://github.com/Cogmasters/concord)
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
 ### Telegram
 
-*   [PHP (⭐3.3k)](https://github.com/php-telegram-bot/core)
+*   [PHP (⭐3.5k)](https://github.com/php-telegram-bot/core)
 
 ## [Aug 05 - Aug 11, 2019](/content/2019/31/README.md)
 
@@ -22,7 +28,7 @@
 
 ### Telegram
 
-*   [Java (⭐1.3k)](https://github.com/pengrad/java-telegram-bot-api)
+*   [Java (⭐1.4k)](https://github.com/pengrad/java-telegram-bot-api)
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 
@@ -46,7 +52,7 @@
 
 ### General
 
-*   [BotMan (⭐5.7k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
+*   [BotMan (⭐5.8k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
 ## [Oct 15 - Oct 21, 2018](/content/2018/42/README.md)
 
@@ -113,7 +119,7 @@
 
 ### Discord / Go
 
-*   [Discordgo (⭐3.4k)](https://github.com/bwmarrin/discordgo)
+*   [Discordgo (⭐3.8k)](https://github.com/bwmarrin/discordgo)
 
 ### Tutorials / Go
 
@@ -154,14 +160,14 @@
 
 ### Discord / Node.js
 
-*   [Eris (⭐1.3k)](https://github.com/abalabahaha/eris)
-*   [Discord.js (⭐21k)](https://github.com/hydrabolt/discord.js)
+*   [Eris (⭐1.4k)](https://github.com/abalabahaha/eris)
+*   [Discord.js (⭐22k)](https://github.com/hydrabolt/discord.js)
 *   [Discordie (⭐192)](https://github.com/qeled/discordie)
 *   [Discord.io (⭐529)](https://github.com/izy521/discord.io)
 
 ### Discord / C#
 
-*   [Discord.Net (⭐2.8k)](https://github.com/RogueException/Discord.Net)
+*   [Discord.Net (⭐2.9k)](https://github.com/RogueException/Discord.Net)
 
 ### Discord / Python
 
@@ -169,20 +175,20 @@
 
 ### Discord / Java
 
-*   [JDA (⭐3.3k)](https://github.com/DV8FromTheWorld/JDA/)
+*   [JDA (⭐3.6k)](https://github.com/DV8FromTheWorld/JDA/)
 
 ### Discord / Rust
 
-*   [Serenity (⭐3k)](https://github.com/zeyla/serenity)
+*   [Serenity (⭐3.5k)](https://github.com/zeyla/serenity)
 
 ### Discord / Lua
 
-*   [Discordia (⭐552)](https://github.com/SinisterRectus/Discordia)
+*   [Discordia (⭐586)](https://github.com/SinisterRectus/Discordia)
 
 ### Kik / Go
 
-*   [Python (⭐66)](https://github.com/kikinteractive/kik-python)
-*   [Node.JS (⭐96)](https://github.com/kikinteractive/kik-node)
+*   [Python (⭐68)](https://github.com/kikinteractive/kik-python)
+*   [Node.JS (⭐95)](https://github.com/kikinteractive/kik-node)
 
 ### Bot Stores / Go
 
@@ -237,7 +243,7 @@
 
 ### Telegram
 
-*   [Go (⭐2.8k)](https://github.com/tucnak/telebot)
+*   [Go (⭐3k)](https://github.com/tucnak/telebot)
 
 ## [Sep 19 - Sep 25, 2016](/content/2016/38/README.md)
 
@@ -248,7 +254,7 @@
 
 ### Telegram
 
-*   [C# (⭐37)](https://github.com/MrRoundRobin/telegram.bot)
+*   [C# (⭐39)](https://github.com/MrRoundRobin/telegram.bot)
 
 ### Bot Stores / Go
 
@@ -259,13 +265,13 @@
 
 ### Telegram
 
-*   [Python (⭐20k)](https://github.com/python-telegram-bot/python-telegram-bot)
+*   [Python (⭐21k)](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ## [Aug 22 - Aug 28, 2016](/content/2016/34/README.md)
 
 ### Telegram
 
-*   [Node.js (⭐6.1k)](https://github.com/telegraf/telegraf)
+*   [Node.js (⭐6.6k)](https://github.com/telegraf/telegraf)
 
 ## [Jul 18 - Jul 24, 2016](/content/2016/29/README.md)
 
@@ -289,13 +295,13 @@
 
 ### General
 
-*   [Qtypes (⭐157)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+*   [Qtypes (⭐159)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
 *   [BotKit (⭐11k)](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 *   [Claudia Bot Builder (⭐1.8k)](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 
 ### Facebook Messenger
 
-*   [Go (⭐276)](https://github.com/paked/messenger)
+*   [Go (⭐275)](https://github.com/paked/messenger)
 
 ### Slack
 
@@ -303,7 +309,7 @@
 
 ### Telegram
 
-*   [Node.js (⭐6.6k)](https://github.com/yagop/node-telegram-bot-api)
+*   [Node.js (⭐7k)](https://github.com/yagop/node-telegram-bot-api)
 
 ### Bot Stores / Go
 
@@ -345,8 +351,8 @@
 
 ### Slack
 
-*   [Python (Official) (⭐3.5k)](https://github.com/slackhq/python-slackclient)
+*   [Python (Official) (⭐3.6k)](https://github.com/slackhq/python-slackclient)
 
 ### Telegram
 
-*   [PHP (⭐2.5k)](https://github.com/irazasyed/telegram-bot-sdk)
+*   [PHP (⭐2.6k)](https://github.com/irazasyed/telegram-bot-sdk)

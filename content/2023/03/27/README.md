@@ -1,19 +1,41 @@
 # Awesome List Updates on Mar 27, 2023
 
-4 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Commonsense / Intuitive Physics
+
+*   [Intuitive Physics Reading List (⭐5)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List). - ***Github***. Shiqian Li's reading list on intuitive physics.
+
+## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+
+### Tools / Online Analyzers
+
+*   [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and check them against public and private Yara rules.
+
+### Exploits/Vulnerabilities/Bugs / Malware
+
+*   [Drebin](https://www.sec.tu-bs.de/~danarp/drebin/)
+
+## [3. Bots](/content/hackerkid/bots/README.md)
+
+### Discord / C
+
+*   [Concord (⭐375)](https://github.com/Cogmasters/concord)
+
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Documentation
 
 *   [doxygen (⭐4.7k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
 *   [Sphinx (⭐5.3k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -24,13 +46,17 @@
 *   [nushell/nushell (⭐24k)](https://github.com/nushell/nushell) - A new type of shell
 *   [supercilex/fuc (⭐122)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+### Libraries / Video
+
+*   [ffmpeg-sidecar (⭐53)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [4. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Public APIs / Java
 

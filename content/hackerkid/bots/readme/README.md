@@ -2,7 +2,7 @@
 
  :zap: Tools for building bots
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/bots/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/bots](https://github.com/hackerkid/bots) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/bots/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/bots](https://github.com/hackerkid/bots) · ⭐ 1.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/hackerkid/bots/README.md) / [Weekly](/content/hackerkid/bots/week/README.md) / Overview ]
 
@@ -90,51 +90,55 @@
 
 ### General
 
-*   [Qtypes (⭐157)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+*   [Qtypes (⭐159)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
 *   [BotKit (⭐11k)](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 *   [Claudia Bot Builder (⭐1.8k)](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 *   [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 *   [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 *   [Microsoft Bot Framework](http://docs.botframework.com) - Node.js/.NET library for building, connecting, testing, and deploying powerful and intelligent bots.
 *   [Bottender (⭐4k)](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
-*   [BotMan (⭐5.7k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
+*   [BotMan (⭐5.8k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
 ### Facebook Messenger
 
 *   [Node.js (⭐1.8k)](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
-*   [Go (⭐276)](https://github.com/paked/messenger)
+*   [Go (⭐275)](https://github.com/paked/messenger)
 
 ### Slack
 
 *   [Node.js (Official) (⭐3.1k)](https://github.com/slackhq/node-slack-sdk)
 *   [Node.js (⭐1.8k)](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack)
-*   [Python (Official) (⭐3.5k)](https://github.com/slackhq/python-slackclient)
+*   [Python (Official) (⭐3.6k)](https://github.com/slackhq/python-slackclient)
 *   [Relax (scalable RTM library to scale to 1000's of teams) (⭐171)](https://github.com/zerobotlabs/relax)
 
 ### Telegram
 
-*   [Node.js (⭐6.6k)](https://github.com/yagop/node-telegram-bot-api)
-*   [Node.js (⭐6.1k)](https://github.com/telegraf/telegraf)
+*   [Node.js (⭐7k)](https://github.com/yagop/node-telegram-bot-api)
+*   [Node.js (⭐6.6k)](https://github.com/telegraf/telegraf)
 *   [Node.js (⭐1.8k)](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
-*   [PHP (⭐2.5k)](https://github.com/irazasyed/telegram-bot-sdk)
-*   [PHP (⭐3.3k)](https://github.com/php-telegram-bot/core)
-*   [Python (⭐20k)](https://github.com/python-telegram-bot/python-telegram-bot)
-*   [C# (⭐37)](https://github.com/MrRoundRobin/telegram.bot)
-*   [Go (⭐2.8k)](https://github.com/tucnak/telebot)
-*   [Java (⭐1.3k)](https://github.com/pengrad/java-telegram-bot-api)
+*   [PHP (⭐2.6k)](https://github.com/irazasyed/telegram-bot-sdk)
+*   [PHP (⭐3.5k)](https://github.com/php-telegram-bot/core)
+*   [Python (⭐21k)](https://github.com/python-telegram-bot/python-telegram-bot)
+*   [C# (⭐39)](https://github.com/MrRoundRobin/telegram.bot)
+*   [Go (⭐3k)](https://github.com/tucnak/telebot)
+*   [Java (⭐1.4k)](https://github.com/pengrad/java-telegram-bot-api)
 
 ### Discord
 
 ###### Node.js
 
-*   [Eris (⭐1.3k)](https://github.com/abalabahaha/eris)
-*   [Discord.js (⭐21k)](https://github.com/hydrabolt/discord.js)
+*   [Eris (⭐1.4k)](https://github.com/abalabahaha/eris)
+*   [Discord.js (⭐22k)](https://github.com/hydrabolt/discord.js)
 *   [Discordie (⭐192)](https://github.com/qeled/discordie)
 *   [Discord.io (⭐529)](https://github.com/izy521/discord.io)
 
+###### C
+
+*   [Concord (⭐375)](https://github.com/Cogmasters/concord)
+
 ###### C\#
 
-*   [Discord.Net (⭐2.8k)](https://github.com/RogueException/Discord.Net)
+*   [Discord.Net (⭐2.9k)](https://github.com/RogueException/Discord.Net)
 *   [DSharpPlus (⭐1)](https://github.com/NaamloosDT/DSharpPlus)
 
 ###### Python
@@ -143,24 +147,24 @@
 
 ###### Java
 
-*   [JDA (⭐3.3k)](https://github.com/DV8FromTheWorld/JDA/)
+*   [JDA (⭐3.6k)](https://github.com/DV8FromTheWorld/JDA/)
 
 ###### Rust
 
-*   [Serenity (⭐3k)](https://github.com/zeyla/serenity)
+*   [Serenity (⭐3.5k)](https://github.com/zeyla/serenity)
 
 ###### Lua
 
-*   [Discordia (⭐552)](https://github.com/SinisterRectus/Discordia)
+*   [Discordia (⭐586)](https://github.com/SinisterRectus/Discordia)
 
 ###### Go
 
-*   [Discordgo (⭐3.4k)](https://github.com/bwmarrin/discordgo)
+*   [Discordgo (⭐3.8k)](https://github.com/bwmarrin/discordgo)
 
 ### Kik
 
-*   [Python (⭐66)](https://github.com/kikinteractive/kik-python)
-*   [Node.JS (⭐96)](https://github.com/kikinteractive/kik-node)
+*   [Python (⭐68)](https://github.com/kikinteractive/kik-python)
+*   [Node.JS (⭐95)](https://github.com/kikinteractive/kik-node)
 
 ## Bot Stores
 
