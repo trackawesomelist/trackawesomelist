@@ -6,6 +6,29 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Email
+
+*   [Mailchec.ai](https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (\~86,400 per month)
+*   [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free
+*   [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
+*   [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 100 messages, no team member, 2 emails/second, no forward rules
+*   [Mailvalidator.io](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available
+*   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
+*   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
+*   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
+*   [Sendinblue](https://www.sendinblue.com/) — 9,000 emails/month, 300 emails/day free
+*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 12,000 emails/month free
+
+### Low-code Platform
+
+*   [BudiBase](https://budibase.com/) — Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s
+*   [appsmith](https://www.appsmith.com/) — Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.
+*   [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
+*   [DronaHQ](https://www.dronahq.com/) — DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Cloud management solutions
@@ -37,7 +60,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Font
 
 *   [FontsKey](https://www.fontskey.com/) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
-    **[⬆️ Back to Top](#table-of-contents)**
 
 ### Miscellaneous
 
@@ -238,7 +260,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Emailvalidation.io](https://emailvalidation.io) - 150 free email verifications per month
+*   [Emailvalidation.io](https://emailvalidation.io) - 100 free email verifications per month
 
 ### Web Hosting
 
@@ -335,8 +357,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Domain
 
 *   [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
-*   [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
-*   [is-an.app & 1bt.uk (⭐300)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
 ### Storage and Media Processing
 
@@ -424,10 +444,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### BaaS
 
 *   [engagespot.co](https://engagespot.co/) — Notification infrastructure for developers. Free for upto 100 monthly active users.
-
-### Domain
-
-*   [Dee.al](https://domain.dee.al) — Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY
 
 ### DBaaS
 
@@ -856,10 +872,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes 10,000 minutes of live video/audio usage every month.
 
-### Email
-
-*   [mailazy.com](https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).
-
 ### Design and UI
 
 *   [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
@@ -1012,7 +1024,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 24 000 Email for free every month.
+*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails per day.
 *   [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 12,000 emails/month free for transactional emails
 
 ## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)
@@ -1020,10 +1032,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data and ML
 
 *   [Orchest](https://orchest.io) — Visual pipeline editor and workflow orchestrator for data science, 1 instance for free, open source version available.
-
-### Domain
-
-*   [js.cool (⭐325)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -1088,10 +1096,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Mutant Mail](https://www.mutantmail.com/) – Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
 
-### Domain
-
-*   [is-a.dev](https://www.is-a.dev/) — Free is-a.dev subdomain for developers.
-
 ### Data Visualization on Maps
 
 *   [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
@@ -1111,11 +1115,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Code Generation
 
 *   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
-
-### Domain
-
-*   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐325)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 
 ### Remote Desktop Tools
 
@@ -1176,9 +1175,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Domain
 
 *   [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
-*   [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
-*   [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
 
 ### Issue Tracking and Project Management
 
@@ -1796,8 +1793,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP and phone number validation in free tier. No Credit Cards required.
-*   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector and more.
 *   [HotTempMail](https://hottempmail.com/) - Unlimited free temp email or disposable temporary email addresses. Autoexpires in one day.
+*   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector and more.
 
 ### Other Free Resources
 
@@ -1867,8 +1864,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.
 *   [EmailJS](https://www.emailjs.com/) – This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
+*   [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.
 
 ### Issue Tracking and Project Management
 
@@ -1968,10 +1965,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tools for Teams and Collaboration
 
 *   [Calendly](https://calendly.com) — Calendly is the tool for connecting and scheduling meetings. Free plan provides 1 Calendar connection per user and Unlimited meetings. Desktop and Mobile apps also provided.
-
-### Email
-
-*   [mailvalidator.io](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available
 
 ### CDN and Protection
 
@@ -2785,10 +2778,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [API Mocha](https://apimocha.com) - Completely free online API mocking for testing and prototyping.  Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.
 
-### Email
-
-*   [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
-
 ### Issue Tracking and Project Management
 
 *   [zenhub.com](https://www.zenhub.com) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
@@ -2894,7 +2883,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
-*   [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
 
 ### Analytics, Events and Statistics
 
@@ -3114,7 +3102,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### DNS
 
-*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.
+*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting, free for 5 domains.
 
 ### Issue Tracking and Project Management
 
@@ -3465,24 +3453,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
 *   [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
 *   [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7 day Mailbox History
-*   [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
+*   [Buttondown](https://buttondown.email/) — Newsletter service. Up to 100 subscribers free
 *   [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
 *   [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
-*   [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
 *   [ImprovMX](https://improvmx.com) – Free email forwarding
-*   [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
 *   [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
-*   [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 100 free API requests/month
 *   [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface
 *   [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
-*   [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
 *   [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
-*   [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
-*   [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
-*   [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
-*   [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month free
-*   [socketlabs.com](https://www.socketlabs.com) - 40k emails free for first month, then first 2000 emails/month free
-*   [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
 *   [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
 *   [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
 
@@ -3510,7 +3488,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### BaaS
 
-*   [netlicensing.io](https://netlicensing.io) - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for *FREE* while you are a student.
 *   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
 *   [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for 1 app, 1GB app data.
 *   [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
@@ -3532,11 +3509,9 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### DNS
 
 *   [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
-*   [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
 *   [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
 *   [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
 *   [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-*   [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
 *   [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
 *   [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
 *   [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
@@ -3830,7 +3805,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
+*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -3872,7 +3847,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
+*   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
@@ -3952,13 +3927,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### DNS
 
 *   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
-*   [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
-
-## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
-
-### Email
-
-*   [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
 
 ## [Jun 24 - Jun 30, 2019](/content/2019/25/README.md)
 
@@ -4042,11 +4010,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
 
 ## [Sep 03 - Sep 09, 2018](/content/2018/36/README.md)
-
-### Email
-
-*   [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
-*   [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
 
 ### CDN and Protection
 
@@ -4204,12 +4167,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Miscellaneous
 
 *   [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
-
-## [Mar 14 - Mar 20, 2016](/content/2016/11/README.md)
-
-### Email
-
-*   [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
 
 ## [Jan 11 - Jan 17, 2016](/content/2016/2/README.md)
 

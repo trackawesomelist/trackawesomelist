@@ -6,6 +6,12 @@
 
 [ [Daily](/content/veelenga/awesome-crystal/README.md) / Weekly / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### CLI Utils
+
+*   [git-repository (⭐1)](https://github.com/place-labs/git-repository) - A git cli wrapper querying and cloning remote repositories with minimal data transfer
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Editor Plugins
@@ -239,7 +245,7 @@
 
 ### CLI Utils
 
-*   [oq (⭐182)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐182)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐25k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Database Tools
 

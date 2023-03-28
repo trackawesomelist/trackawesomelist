@@ -16,7 +16,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome (⭐243k)](https://github.com/sindresorhus/awesome) and [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome Crystal code and resources. Inspired by [awesome (⭐246k)](https://github.com/sindresorhus/awesome) and [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
 Search [Crystal Shards](https://crystalshards.xyz) or follow announcements [Crystal \[ANN\]](https://crystal-ann.com) for more.
@@ -159,10 +159,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 *   [climate (⭐12)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
 *   [coin (⭐7)](https://github.com/caian-org/coin) - Command-line application that performs currency conversion via the [Fixer API](https://fixer.io)
 *   [cride (⭐47)](https://github.com/j8r/cride) - A light CLI text editor/IDE
+*   [git-repository (⭐1)](https://github.com/place-labs/git-repository) - A git cli wrapper querying and cloning remote repositories with minimal data transfer
 *   [hetzner-k3s (⭐719)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
 *   [lff (⭐16)](https://github.com/mkdika/lff-cr) - Simple and straightforward large files finder utility in command line
 *   [meet (⭐36)](https://github.com/ryanprior/meet) - Start a jitsi meeting quickly from the comfort of your command line
-*   [oq (⭐182)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐182)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐25k)](https://github.com/stedolan/jq) filters to transform the data
 *   [progress\_bar.cr (⭐16)](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
 *   [tablo (⭐26)](https://github.com/hutou/tablo) - A flexible terminal table generator
 *   [tallboy (⭐49)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns

@@ -2,11 +2,15 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 428 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 434 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### CI/CD
+
+*   [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
 
 ### Messaging
 
@@ -16,7 +20,7 @@ A curated list of awesome developer-first tools products.
 
 ### Authentication & Identity
 
-*   [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open source API for enterprise SSO and Directory Sync.
+*   [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
 *   [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
 ### Deployment Hosting
@@ -33,7 +37,7 @@ A curated list of awesome developer-first tools products.
 
 ### Authentication & Identity
 
-*   [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
+*   [Ory](https://ory.sh/) - Open-source identity & access-control solutions (also available as a service).
 
 ### CMS (headless)
 
@@ -113,7 +117,7 @@ A curated list of awesome developer-first tools products.
 
 ### Orchestration
 
-*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - visual workflow service to build distributed applications and automate processes
+*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
 *   [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
@@ -161,7 +165,7 @@ A curated list of awesome developer-first tools products.
 
 ### Authentication & Identity
 
-*   [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
+*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -233,7 +237,7 @@ A curated list of awesome developer-first tools products.
 
 ### Deployment Hosting
 
-*   [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
+*   [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
@@ -301,7 +305,6 @@ A curated list of awesome developer-first tools products.
 ### CI/CD
 
 *   [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
-*   [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 
 ### Documentation
 

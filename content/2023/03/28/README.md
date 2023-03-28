@@ -1,12 +1,46 @@
 # Awesome List Updates on Mar 28, 2023
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+
+### CLI Utils
+
+*   [git-repository (⭐1)](https://github.com/place-labs/git-repository) - A git cli wrapper querying and cloning remote repositories with minimal data transfer
+
+## [2. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+
+### Platforms / Low Code Application Platform
+
+*   [DronaHQ](https://www.dronahq.com/) - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Email
+
+*   [Mailchec.ai](https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (\~86,400 per month)
+*   [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free
+*   [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
+*   [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 100 messages, no team member, 2 emails/second, no forward rules
+*   [Mailvalidator.io](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available
+*   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
+*   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
+*   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
+*   [Sendinblue](https://www.sendinblue.com/) — 9,000 emails/month, 300 emails/day free
+*   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 12,000 emails/month free
+
+### Low-code Platform
+
+*   [BudiBase](https://budibase.com/) — Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s
+*   [appsmith](https://www.appsmith.com/) — Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.
+*   [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
+
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Documentation
 
@@ -14,13 +48,13 @@
 *   [hdoc (⭐230)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Commercial] [website](https://hdoc.io)
 *   [Natural Docs (⭐170)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Commercial] [website](https://www.naturaldocs.org)
 
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
+## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Serverless Frameworks
 
 *   [Zappa (⭐2.4k)](https://github.com/zappa/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -72,25 +106,29 @@
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 
-## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Other / Godot version unknown
 
 *   [zfoo (⭐1.1k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
 
-## [5. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [8. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   [playstation-box (⭐12)](https://github.com/Swilder-M/playstation-box) - Update a pinned gist to contain your PlayStation playtime leaderboard.
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### CI/CD
+
+*   [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
 
 ### Messaging
 
 *   [Knock](https://knock.app) - Notifications as a service.
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### R / Tornado
 

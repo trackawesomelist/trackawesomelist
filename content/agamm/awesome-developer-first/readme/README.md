@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 428 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 434 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -113,17 +113,17 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 
 *   [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 *   [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
-*   [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open source API for enterprise SSO and Directory Sync.
+*   [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
 *   [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 *   [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 *   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 *   [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 *   [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 *   [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
-*   [Ory](https://ory.sh/) - Opensource identity & access-control solutions (also available as a service).
+*   [Ory](https://ory.sh/) - Open-source identity & access-control solutions (also available as a service).
 *   [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 *   [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
-*   [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
+*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
 *   [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 *   [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
@@ -133,7 +133,7 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 
 *   [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 *   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
-*   [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
+*   [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
 *   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments.
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
@@ -195,7 +195,7 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 *   [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
 *   [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 *   [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
-*   [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
+*   [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 *   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
 *   [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 
@@ -334,7 +334,7 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 
 *Orchestration tools for (micro) services.*
 
-*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - visual workflow service to build distributed applications and automate processes
+*   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
 *   [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
 ## Payments
