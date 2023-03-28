@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / Weekly / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Other / Godot version unknown
+
+*   [zfoo (⭐1.1k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Projects / Godot 4.0
@@ -682,7 +688,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐179)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐194)](https://github.com/chriskempson/base16) themes.
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 

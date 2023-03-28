@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐425)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -300,6 +300,7 @@ For the latest additions [click here (⭐425)](https://github.com/agamm/awesome-
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
 
 *   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
+*   [Knock](https://knock.app) - Notifications as a service.
 *   [stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
@@ -402,5 +403,5 @@ For the latest additions [click here (⭐425)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐425)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐434)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

@@ -373,7 +373,7 @@ See [Vivraan/godot-lang-support (⭐224)](https://github.com/Vivraan/godot-lang-
 
 *Alternative themes for the built-in script editor.*
 
-*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐179)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐194)](https://github.com/chriskempson/base16) themes.
 *   [Godot syntax themes (⭐237)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 *   [Syntax themes by Geequlim (⭐49)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
@@ -417,4 +417,5 @@ See [Vivraan/godot-lang-support (⭐224)](https://github.com/Vivraan/godot-lang-
 *   [RetroPie Godot Game Engine "Emulator" (⭐71)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 *   [strip-to-frames.pl (⭐27)](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 *   [Godot Package Manager (⭐4)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
+*   [zfoo (⭐1.1k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
 
