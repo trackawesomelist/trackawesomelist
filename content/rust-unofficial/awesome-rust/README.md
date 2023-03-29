@@ -6,6 +6,18 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 29, 2023](/content/2023/03/29/README.md)
+
+### Libraries / Command-line
+
+*   Style
+    *   [console-rs/dialoguer (⭐928)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] — A rust library for command line prompts and similar things.
+    *   [LukasKalbertodt/bunt (⭐209)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
+    *   [LukasKalbertodt/term-painter (⭐75)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output [![build badge](https://api.travis-ci.org/LukasKalbertodt/term-painter.svg?branch=master)](https://travis-ci.org/LukasKalbertodt/term-painter)
+    *   [mackwic/colored (⭐1.3k)](https://github.com/mackwic/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
+    *   [ogham/rust-ansi-term (⭐421)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
+    *   [SergioBenitez/yansi (⭐174)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
+
 ## [Mar 27, 2023](/content/2023/03/27/README.md)
 
 ### Applications / Cryptocurrencies
@@ -37,7 +49,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [broot (⭐8.4k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![CI](https://api.travis-ci.org/Canop/broot.svg?branch=master)](https://travis-ci.org/Canop/broot)  [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [broot (⭐8.5k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![CI](https://api.travis-ci.org/Canop/broot.svg?branch=master)](https://travis-ci.org/Canop/broot)  [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 
@@ -2988,15 +3000,6 @@ A curated list of Rust code and resources.
 ### Libraries / Automotive
 
 *   [oefd/tokio-socketcan (⭐30)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
-
-### Libraries / Command-line
-
-*   Style
-    *   [LukasKalbertodt/bunt (⭐209)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
-    *   [LukasKalbertodt/term-painter (⭐75)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output [![build badge](https://api.travis-ci.org/LukasKalbertodt/term-painter.svg?branch=master)](https://travis-ci.org/LukasKalbertodt/term-painter)
-    *   [mackwic/colored (⭐1.3k)](https://github.com/mackwic/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
-    *   [ogham/rust-ansi-term (⭐421)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
-    *   [SergioBenitez/yansi (⭐174)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ### Libraries / Configuration
 

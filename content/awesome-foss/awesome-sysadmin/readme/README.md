@@ -17,10 +17,9 @@ A curated list of amazingly awesome open source sysadmin resources.
 # Awesome Sysadmin
 
 [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![](https://github.com/awesome-foss/awesome-sysadmin/actions/workflows/ci.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin/issues/416)
 
-**A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](https://github.com/awesome-foss/awesome-sysadmin/blob/master/README.md/./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating (⭐23)](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
-
-**The project is in minimal maintenance mode** until clear criteria for *awesomeness* are defined. Please see [this discussion (⭐17k)](https://github.com/awesome-foss/awesome-sysadmin/pull/357) and provide constructive feedback if your time allows.
+**A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](https://github.com/awesome-foss/awesome-sysadmin/blob/master/README.md/./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating (⭐23)](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly. Please consider contributing to fix one of the pinned [issues (⭐17k)](https://github.com/awesome-foss/awesome-sysadmin/issues) if your time allows.
 
 ***
 
@@ -114,7 +113,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [BorgBackup (⭐9.2k)](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 *   [Burp](http://burp.grke.org/) - Network backup and restore program.
 *   [DREBS (⭐35)](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐84)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐88)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 *   [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 *   [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 *   [Elkarbackup (⭐366)](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
@@ -156,7 +155,7 @@ Managing software on desktop computers.
 
 *See also: [IT Asset Management](#it-asset-management)*
 
-*   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐8.9k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+*   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐9k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
 ### Cloning
 
@@ -190,7 +189,7 @@ Managing software on desktop computers.
 *   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐54)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 *   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐96k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
+*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐97k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
 *   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 *   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
@@ -257,7 +256,7 @@ Configuration management database (CMDB) software.
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 *   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.6k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.2k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.3k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Control Panels
 
@@ -397,13 +396,12 @@ Configuration management database (CMDB) software.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*   [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
-*   [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
-*   [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
-*   [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
-*   [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
-*   [OpenDS](https://opends.java.net/) - Another directory server written in Java.
-*   [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
+*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐117)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
+*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐117)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
+*   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
+*   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐1.8k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
+*   [lldap (⭐2.4k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+*   [OpenLDAP](https://www.openldap.org/) - Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). ([Source Code](https://git.openldap.org/openldap/openldap)) `OLDAP-2.8` `C`
 
 ### Identity Management - Tools and web interfaces
 
@@ -505,7 +503,7 @@ Configuration management database (CMDB) software.
 *   [rtop (⭐2.1k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code (⭐2.1k)](https://github.com/rapidloop/rtop))
 *   [Scrutiny (⭐2.6k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 *   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐865)](https://github.com/sensu/sensu-go))
-*   [Status (⭐0)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐6)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 *   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code (⭐383)](https://github.com/sni/Thruk))
 *   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
 
@@ -513,7 +511,7 @@ Configuration management database (CMDB) software.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐123k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐125k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 ### Metric & Metric Collection
 
@@ -546,7 +544,7 @@ Configuration management database (CMDB) software.
     *   [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
     *   [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-    *   [VictoriaMetrics (⭐8.1k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+    *   [VictoriaMetrics (⭐8.2k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 ### Network Configuration Management
 
@@ -588,7 +586,7 @@ Configuration management database (CMDB) software.
 
 *Web-based project management and bug tracking systems*
 
-**Please visit [awesome-selfhosted/Project Management (⭐123k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
+**Please visit [awesome-selfhosted/Project Management (⭐125k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
 
 ### Queuing
 

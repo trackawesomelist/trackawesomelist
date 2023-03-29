@@ -99,6 +99,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 *   [MÖRKSWORN](https://chaoclypse.itch.io/morksworn) - Conversion rules for MÖRK BORG magic, weapons and enemies to Ironsworn
 *   [Noironsworn](https://drive.google.com/file/d/1O9411BV4jsNNWT5FZZ1MFRCK2jDCjAfd/view) - An investigation supplement
 *   [On Hollow Roads](https://drive.google.com/file/d/1-Ye9rHOTPejGRSjk3SKRHKiLpVOCozDJ/view) - An Ironsworn supplement set in a haunted, surrealist American landscape
+*   [Order of the Falcon](https://drakonspyre.itch.io/order-of-the-falcon) - Assassin's Creed inspired Ironsworn supplement
 *   [The Orphans of Ragnarökr](https://www.drivethrurpg.com/product/361512) - A post-apocalyptic/Ragnarok Viking setting
 *   [The Outer Edge](https://drive.google.com/drive/folders/1oVed10NZgiSniJG2sbXm40-7O59conPU) - A spacefaring supplement for Ironsworn
 *   [Pinkysworn](https://www.drivethrurpg.com/product/405015/Pinkysworn) - Ironcampers swear pinky promises in a summercamp-themed abbreviation of the Ironsworn rules

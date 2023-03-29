@@ -6,6 +6,17 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / Weekly / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Software / Identity Management - LDAP
+
+*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐117)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
+*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐117)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
+*   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
+*   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐1.8k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
+*   [lldap (⭐2.4k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+*   [OpenLDAP](https://www.openldap.org/) - Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). ([Source Code](https://git.openldap.org/openldap/openldap)) `OLDAP-2.8` `C`
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Software / VPN
@@ -16,7 +27,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Backups
 
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐84)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐88)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
@@ -24,7 +35,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [Status (⭐0)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐6)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 
 ### Software / Software Containers
 
@@ -62,7 +73,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.2k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.3k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
@@ -190,7 +201,7 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
     *   [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-    *   [VictoriaMetrics (⭐8.1k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+    *   [VictoriaMetrics (⭐8.2k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -483,7 +494,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Client management
 
-*   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐8.9k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+*   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐9k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
 ### Software / Cloning
 
@@ -524,7 +535,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐54)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 *   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐96k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
+*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐97k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
 *   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 *   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 *   [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -615,16 +626,6 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
 *   [TextMate (⭐14k)](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 *   [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-
-### Software / Identity Management - LDAP
-
-*   [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
-*   [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
-*   [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
-*   [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
-*   [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
-*   [OpenDS](https://opends.java.net/) - Another directory server written in Java.
-*   [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 
 ### Software / Identity Management - Tools and web interfaces
 

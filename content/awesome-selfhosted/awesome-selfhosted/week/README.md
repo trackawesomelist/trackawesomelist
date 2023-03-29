@@ -6,6 +6,24 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Software / Communication - Email - Mail Transfer Agents
+
+*   [Stalwart SMTP](https://stalw.art/smtp) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐290)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
+
+### Software / Database Management
+
+*   [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code (⭐1.5k)](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker`
+
+### Software / Document Management - E-books
+
+*   [VanDAM (⭐176)](https://github.com/Floppy/van_dam) - Digital asset manager for 3d print files; STL, OBJ, 3MF and more. `MIT` `Ruby/Docker`
+
+### Software / Self-hosting Solutions
+
+*   [Mistborn](https://gitlab.com/cyber5k/mistborn) - Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services. `MIT` `Bash/Docker`
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -28,7 +46,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Search Engines
 
 *   [Hound (⭐5.3k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
-*   [LibreX (⭐475)](https://github.com/hnhx/librex) `⚠` -  Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
+*   [LibreX (⭐491)](https://github.com/hnhx/librex) `⚠` -  Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -67,7 +85,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code (⭐3.7k)](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 *   [AWStats](http://www.awstats.org/) - Generate statistics from web, streaming, ftp or mail server logfiles. ([Source Code (⭐303)](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
-*   [Chartbrew](https://chartbrew.com) - Web application that can connect directly to databases and APIs and use the data to create beautiful charts. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐1.2k)](https://github.com/chartbrew/chartbrew)) `MIT` `Nodejs`
 *   [Countly Community Edition](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Nodejs`
 *   [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code (⭐12k)](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
 *   [EDA](https://eda.jortilles.com/en/jortilles-english/) - Web application for data analysis and visualization. ([Source Code (⭐67)](https://github.com/jortilles/EDA)) `Apache-2.0` `Nodejs`
@@ -82,7 +99,7 @@ A list of Free Software network services and web applications which can be hoste
 *   [RudderStack](https://rudderstack.com/) - Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools. alternative to Segment. ([Source Code (⭐3.5k)](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Docker/K8S/Go/Nodejs`
 *   [Shynet (⭐2.2k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. `Apache-2.0` `Python`
 *   [Socioboard (⭐813)](https://github.com/socioboard/Socioboard-4.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
-*   [Superset](http://superset.apache.org/) - Mmodern data exploration and visualization platform. ([Source Code (⭐51k)](https://github.com/apache/superset)) `Apache-2.0` `Python`
+*   [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. ([Source Code (⭐51k)](https://github.com/apache/superset)) `Apache-2.0` `Python`
 *   [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://app.umami.is/share/8rmHaheU/umami.is), [Source Code (⭐15k)](https://github.com/umami-software/umami)) `MIT` `Nodejs`
 
 ### Software / Booking and Scheduling
@@ -92,6 +109,10 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Mail Transfer Agents
 
 *   [DragonFly (⭐196)](https://github.com/corecode/dma) - A small MTA for home and office use. Works on Linux and FreeBSD. `BSD-3-Clause` `C`
+
+### Software / Database Management
+
+*   [Chartbrew](https://chartbrew.com) - Web application that can connect directly to databases and APIs and use the data to create beautiful charts. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐1.2k)](https://github.com/chartbrew/chartbrew)) `MIT` `Nodejs`
 
 ### Software / Games
 
@@ -109,7 +130,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Matchering (⭐865)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
+*   [Matchering (⭐881)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
@@ -445,7 +466,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Source Code (⭐90)](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`
 
-### Software / Software Development - IDE & Tools
+### Software / Software Development - Low Code
 
 *   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.5k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
 
@@ -524,6 +545,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Demo](https://demo.payloadcms.com), [Source Code (⭐9.7k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
 
+### Software / Database Management
+
+*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐5.1k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/Go`
+
 ### Software / E-commerce
 
 *   [Shopware Community Edition](https://www.shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code (⭐2.2k)](https://github.com/shopware/platform)) `MIT` `PHP`
@@ -557,10 +582,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Media Streaming - Audio Streaming
 
 *   [Volumio](https://volumio.com/) - A free and open source linux distribution, designed and fine-tuned exclusively for music playback. ([Source Code (⭐1.3k)](https://github.com/volumio/Volumio2)) `GPL-3.0` `Nodejs`
-
-### Software / Miscellaneous
-
-*   [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code (⭐5.1k)](https://github.com/bytebase/bytebase)) `MIT` `Docker/Go`
 
 ### Software / Note-taking & Editors
 
@@ -1195,10 +1216,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
-### Software / Automation
-
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐7.3k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
-
 ### Software / Blogging Platforms
 
 *   [Dotclear](https://dotclear.org/) - Take control over your blog. ([Source Code](https://git.dotclear.org/dev/dotclear)) `GPL-2.0` `PHP`
@@ -1210,6 +1227,10 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Content Management Systems (CMS)
 
 *   [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](https://demo.bludit.com/), [Source Code (⭐1.1k)](https://github.com/bludit/bludit)) `MIT` `PHP`
+
+### Software / Database Management
+
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐7.3k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
 
 ## [Jun 13 - Jun 19, 2022](/content/2022/24/README.md)
 
@@ -1576,13 +1597,16 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
+### Software / Database Management
+
+*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.1k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
+
 ### Software / Knowledge Management Tools
 
-*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐209)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.6k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
+*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐209)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.9k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
 
 ### Software / Miscellaneous
 
-*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.1k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
 *   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐285)](https://github.com/koillection/koillection)) `MIT` `PHP`
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
@@ -1675,7 +1699,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
-### Software / Content Management Systems (CMS)
+### Software / Database Management
 
 *   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐21k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
 
@@ -2258,7 +2282,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
-### Software / Automation
+### Software / Database Management
 
 *   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code (⭐35k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs`
 
@@ -2284,6 +2308,10 @@ A list of Free Software network services and web applications which can be hoste
 *   [EpochTalk (⭐132)](https://github.com/epochtalk/epochtalk) - Next Generation Forum Software. `MIT` `Nodejs`
 *   [NodeBB](https://nodebb.org/) - Forum software built for the modern web. ([Source Code (⭐13k)](https://github.com/NodeBB/NodeBB)) `GPL-3.0` `Nodejs`
 *   [Tokumei](https://tokumei.co/) - Anonymous microblogging platform. ([Source Code](https://gitlab.com/tokumei/tokumei)) `ISC` `rc`
+
+### Software / Database Management
+
+*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.1k)](https://github.com/securitybunker/databunker)) `MIT` `Go`
 
 ### Software / Document Management
 
@@ -2311,7 +2339,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.1k)](https://github.com/securitybunker/databunker)) `MIT` `Go`
 *   [graph-vl (⭐41)](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python`
 
 ### Software / Money, Budgeting & Management
@@ -2682,13 +2709,13 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 
-### Software / Automation
-
-*   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
-
 ### Software / Communication - SIP
 
 *   [Yeti-Switch](https://yeti-switch.org/) - Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://yeti-switch.org/demo.html), [Source Code](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
+
+### Software / Database Management
+
+*   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
 
 ### Software / Genealogy
 
@@ -2811,7 +2838,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
-### Software / Miscellaneous
+### Software / Database Management
 
 *   [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code (⭐14)](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`
 
@@ -3011,7 +3038,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Thredded (⭐1.5k)](https://github.com/thredded/thredded) - Forums, feature-rich and simple. `MIT` `Ruby`
 
-### Software / Miscellaneous
+### Software / Database Management
 
 *   [MindsDB (⭐15k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`
 
@@ -4152,7 +4179,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - SIP
 
-*   [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)) `MPL-2.0` `C`
+*   [FreeSWITCH](https://freeswitch.org/) - Scalable open source cross-platform telephony platform. ([Source Code (⭐2.2k)](https://github.com/signalwire/freeswitch)) `MPL-2.0` `C`
 
 ### Software / Communication - Social Networks and Forums
 

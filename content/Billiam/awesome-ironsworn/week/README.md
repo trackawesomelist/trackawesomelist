@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Order of the Falcon](https://drakonspyre.itch.io/order-of-the-falcon) - Assassin's Creed inspired Ironsworn supplement
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Hacks and homebrew / Ironsworn
