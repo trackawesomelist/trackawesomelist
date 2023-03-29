@@ -6,6 +6,20 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Mar 29, 2023](/content/2023/03/29/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :octocat: [DefinitelyTyped/DefinitelyTyped (⭐43k)](https://github.com/DefinitelyTyped/DefinitelyTyped) the repository for high quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors
+
+### Mobile / Playground
+
+*   [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+
+### Web / Playground
+
+*   :octocat: [Treehouse (⭐72)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+
 ## [Mar 22, 2023](/content/2023/03/22/README.md)
 
 ### Tools / Playground
@@ -56,7 +70,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Flowbite React (⭐828)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+*   :octocat: [Flowbite React (⭐873)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
 ## [Dec 20, 2022](/content/2022/12/20/README.md)
 
@@ -300,7 +314,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 *   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 *   :octocat: [Typescript Monorepo CRA Example (⭐26)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
 *   :octocat: [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-*   :stars: [Crisp React (⭐164)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :stars: [Crisp React (⭐165)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 
 ### Back-end API / Playground
@@ -378,7 +392,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tsParticles (⭐5.1k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐5.2k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [Aug 07, 2020](/content/2020/08/07/README.md)
 
@@ -859,18 +873,6 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 ### Awesome TypeScript Essential Resources
 
 *   :octocat: [Type search](https://aka.ms/typings), search for typings on npm
-
-## [Jul 18, 2016](/content/2016/07/18/README.md)
-
-### Awesome TypeScript Essential Resources
-
-*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐43k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
-
-## [Jun 24, 2016](/content/2016/06/24/README.md)
-
-### Mobile / Playground
-
-*   [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ## [May 19, 2016](/content/2016/05/19/README.md)
 
