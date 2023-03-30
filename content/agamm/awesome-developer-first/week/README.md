@@ -16,6 +16,11 @@ A curated list of awesome developer-first tools products.
 
 *   [Knock](https://knock.app) - Notifications as a service.
 
+### Misc
+
+*   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
+*   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Authentication & Identity
@@ -196,10 +201,6 @@ A curated list of awesome developer-first tools products.
 *   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 *   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
 *   [split](https://www.split.io/) - Feature flags platform with data analytics.
-
-### Misc
-
-*   [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 

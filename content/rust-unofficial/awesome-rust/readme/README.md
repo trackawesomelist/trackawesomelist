@@ -147,7 +147,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [rx (⭐2.7k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 *   [Servo (⭐23k)](https://github.com/servo/servo) — A prototype web browser engine
 *   [shuttle (⭐2k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
-*   [Sniffnet (⭐3.3k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐3.5k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 *   [SWC (⭐27k)](https://github.com/swc-project/swc) — super-fast TypeScript / JavaScript compiler
 *   [tiny (⭐830)](https://github.com/osa1/tiny) — A terminal IRC client
 *   [trust-dns](https://crates.io/crates/trust-dns) — A DNS-server [![Build Status](https://github.com/bluejekyll/trust-dns/workflows/test/badge.svg?branch=main)](https://github.com/bluejekyll/trust-dns/actions?query=workflow%3Atest)
@@ -692,6 +692,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ### Profiling
 
+*   [Bencher (⭐45)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 *   [bheisler/criterion.rs (⭐3.3k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
 *   [Bytehound (⭐3.4k)](https://github.com/koute/bytehound) — A memory profiler for Linux
 *   [ellisonch/rust-stopwatch (⭐78)](https://github.com/ellisonch/rust-stopwatch) — A stopwatch library [![build badge](https://api.travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master)](https://travis-ci.org/ellisonch/rust-stopwatch)

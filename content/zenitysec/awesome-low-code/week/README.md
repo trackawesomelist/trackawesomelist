@@ -10,6 +10,7 @@ Awesome Low Code platforms, vendors, tools and resources
 
 ### Platforms / Low Code Application Platform
 
+*   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment working directly with JavaScript or Python. It allows the development, execution and monitoring of integration and automation processes.
 *   [DronaHQ](https://www.dronahq.com/) - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)

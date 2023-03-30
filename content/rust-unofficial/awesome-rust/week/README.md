@@ -17,6 +17,10 @@ A curated list of Rust code and resources.
 *   [nushell/nushell (⭐24k)](https://github.com/nushell/nushell) - A new type of shell
 *   [supercilex/fuc (⭐122)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
+### Development tools / Profiling
+
+*   [Bencher (⭐45)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+
 ### Libraries / Command-line
 
 *   Style
@@ -258,7 +262,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Sniffnet (⭐3.3k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐3.5k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 

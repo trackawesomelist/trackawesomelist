@@ -69,6 +69,10 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 *   [AntiAdware (⭐178)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 *   [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
+### DuckDuckGo
+
+*   [DuckDuckGPT (⭐122)](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
+
 ### GitHub
 
 *   [Github Reply Comments (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.

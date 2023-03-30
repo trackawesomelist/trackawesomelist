@@ -6,6 +6,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Mar 30, 2023](/content/2023/03/30/README.md)
+
+### Websites
+
+*   [C++ reference](https://cppreference.com) - A complete online reference for the C and C++ languages and standard libraries.
+*   [C++ Quiz](https://cppquiz.org) - A simple online quiz that you can use to test your knowledge of the C++ programming language.
+*   [PVS-Studio’s challenge](https://quiz.pvs-studio.com) - PVS-Studio’s C++ quiz in which you're asked to find errors in code fragments of open source projects.
+
 ## [Mar 28, 2023](/content/2023/03/28/README.md)
 
 ### Documentation
@@ -711,7 +719,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Frameworks
 
-*   [C++ Workflow (⭐10k)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
+*   [C++ Workflow (⭐10k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
 
 ## [Feb 01, 2021](/content/2021/02/01/README.md)
 
@@ -2534,7 +2542,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Miscellaneous
 
-*   [stdman (⭐875)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
+*   [stdman (⭐875)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
 *   [value-category-cheatsheet (⭐397)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [Jul 17, 2017](/content/2017/07/17/README.md)
@@ -2552,7 +2560,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome (⭐243k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐246k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐7.9k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [Jul 03, 2017](/content/2017/07/03/README.md)
@@ -3315,12 +3323,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [cppbestpractices (⭐6.8k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
-## [May 21, 2015](/content/2015/05/21/README.md)
-
-### Websites
-
-*   [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
-
 ## [May 16, 2015](/content/2015/05/16/README.md)
 
 ### Talks
@@ -4066,10 +4068,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [C++Now 2014 Presentations (⭐429)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
 *   [C++Now 2013 Presentations (⭐191)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 *   [C++Now 2012 Presentations (⭐171)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
-
-### Websites
-
-*   [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 
 ### Other Awesome Projects
 

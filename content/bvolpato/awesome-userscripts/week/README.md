@@ -6,6 +6,12 @@
 
 [ [Daily](/content/bvolpato/awesome-userscripts/README.md) / Weekly / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Scripts / DuckDuckGo
+
+*   [DuckDuckGPT (⭐122)](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Scripts / Ads

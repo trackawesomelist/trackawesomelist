@@ -6,6 +6,12 @@ Awesome Low Code platforms, vendors, tools and resources
 
 [ Daily / [Weekly](/content/zenitysec/awesome-low-code/week/README.md) / [Overview](/content/zenitysec/awesome-low-code/readme/README.md) ]
 
+## [Mar 30, 2023](/content/2023/03/30/README.md)
+
+### Platforms / Low Code Application Platform
+
+*   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment working directly with JavaScript or Python. It allows the development, execution and monitoring of integration and automation processes.
+
 ## [Mar 28, 2023](/content/2023/03/28/README.md)
 
 ### Platforms / Low Code Application Platform

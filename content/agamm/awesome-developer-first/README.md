@@ -6,6 +6,13 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Mar 30, 2023](/content/2023/03/30/README.md)
+
+### Misc
+
+*   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
+*   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
+
 ## [Mar 28, 2023](/content/2023/03/28/README.md)
 
 ### CI/CD
@@ -204,12 +211,6 @@ A curated list of awesome developer-first tools products.
 ### Computer Vision
 
 *   [roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
-
-## [Jan 03, 2022](/content/2022/01/03/README.md)
-
-### Misc
-
-*   [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## [Dec 28, 2021](/content/2021/12/28/README.md)
 

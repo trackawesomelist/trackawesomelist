@@ -106,7 +106,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. \[MIT]
 *   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](https://www.boost.org)
 *   [BDE (⭐1.5k)](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. \[Apache2]
-*   [C++ Workflow (⭐10k)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
+*   [C++ Workflow (⭐10k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
 *   [CGraph (⭐584)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 *   [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. \[BSD]
 *   [Coost (⭐3.2k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
@@ -1073,7 +1073,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
 *   [SimpleSignal (⭐148)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 *   [Stage (⭐364)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
-*   [stdman (⭐875)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
+*   [stdman (⭐875)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
 *   [stb (⭐21k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
 *   [StrTk](https://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
 *   [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. \[LGPL]
@@ -1304,15 +1304,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Build Bench](https://build-bench.com/) - Compare C++ Builds
 *   [Quick Bench](https://quick-bench.com/) - Quick C++ Benchmarks
 *   [CppCon](http://cppcon.org/) - The C++ Conference.
-*   [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+*   [C++ reference](https://cppreference.com) - A complete online reference for the C and C++ languages and standard libraries.
 *   [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
 *   [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 *   [C FAQ](http://c-faq.com/) - C frequently asked questions.
 *   [C++ FAQ](http://www.parashift.com/c++-faq/) - C++ frequently asked questions.
 *   [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
+*   [C++ Quiz](https://cppquiz.org) - A simple online quiz that you can use to test your knowledge of the C++ programming language.
 *   [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 *   [Meeting C++](http://meetingcpp.com/)
-*   [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
+*   [PVS-Studio’s challenge](https://quiz.pvs-studio.com) - PVS-Studio’s C++ quiz in which you're asked to find errors in code fragments of open source projects.
 *   [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 *   [C++ Hints](http://cpphints.com/) - Every business day hints about most often C++ mistakes and ways to solve them from PVS-Studio Team.
 *   [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
@@ -1351,7 +1352,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [lists (⭐8.8k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [awesome (⭐243k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐246k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐3.5k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
