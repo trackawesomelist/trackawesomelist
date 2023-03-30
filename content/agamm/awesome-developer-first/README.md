@@ -13,6 +13,10 @@ A curated list of awesome developer-first tools products.
 *   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
 *   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
+### Payments & Pricing
+
+*   [stigg](https://www.stigg.io) - API-first pricing plans.
+
 ## [Mar 28, 2023](/content/2023/03/28/README.md)
 
 ### CI/CD
@@ -347,7 +351,7 @@ A curated list of awesome developer-first tools products.
 
 ## [Jun 03, 2021](/content/2021/06/03/README.md)
 
-### Payments
+### Payments & Pricing
 
 *   [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 
@@ -438,7 +442,7 @@ A curated list of awesome developer-first tools products.
 
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
-### Payments
+### Payments & Pricing
 
 *   [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 *   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
@@ -577,6 +581,6 @@ A curated list of awesome developer-first tools products.
 
 *   [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 
-### Payments
+### Payments & Pricing
 
 *   [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.

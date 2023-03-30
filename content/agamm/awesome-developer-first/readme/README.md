@@ -79,7 +79,7 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 
 *   [Orchestration](#orchestration)
 
-*   [Payments](#payments)
+*   [Payments & Pricing](#payments--pricing)
 
 *   [Repo](#repo)
 
@@ -338,13 +338,14 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 *   [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
 *   [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
-## Payments
+## Payments & Pricing
 
 *Handling payments, credit card processing, and invoices.*
 
 *   [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 *   [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 *   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+*   [stigg](https://www.stigg.io) - API-first pricing plans.
 *   [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
 ## Repo

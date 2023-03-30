@@ -6,6 +6,29 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Mar 30, 2023](/content/2023/03/30/README.md)
+
+### Photo & Image Editing
+
+- Name: [Blend](https://www.blendnow.com/)
+
+  Title: Stunning product visuals in seconds with AI
+
+  Description: Everything you need to create stunning visuals for your products - in seconds! Teleport your products to professional-grade AI-generated backgrounds. Get 1000s of customizable templates with an intuitive editor.
+
+  Offer Free Version: :white\_tick:
+
+
+- Name: [Blend Studio](https://www.delete.bg/aistudio)
+
+  Title: Text-to-Image AI Background Generator
+
+  Description: Create beautiful high-quality photos for your products with AI-generated background scenes based on your description.
+
+  Offer Free Version: :white\_tick:
+
+
+
 ## [Mar 26, 2023](/content/2023/03/26/README.md)
 
 ### Text
