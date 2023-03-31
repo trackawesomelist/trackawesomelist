@@ -1,18 +1,47 @@
 # Awesome List Updates on Mar 31, 2023
 
-2 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
+
+## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+### Other Resources / Other Technology Resource Aggregators
+
+*   [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird.
+*
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Bars and Lines / Diagnostics
+
+*   [Bekaboo/deadcolumn.nvim (⭐56)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+
+## [4. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+
+### GUI
+
+*   [SQLAuto (⭐25)](https://github.com/TommyLemon/SQLAuto) - A smart SQL testing automation tool for databases, support any CRUD, any template variables, generating argument combinations, generating lots of data rows.
+
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+### Board support crates / STMicroelectronics
+
+*   [`nucleo-h723zg`](https://github.com/jlogan03/nucleo-h723zg) Board support crate for the Nucleo H723ZG
 
 ### no-std crates / WIP
 
 *   [crossbus (⭐65)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 
-## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 

@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Mar 31, 2023](/content/2023/03/31/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
+
 ## [Mar 29, 2023](/content/2023/03/29/README.md)
 
 ### Resources / Blog posts
@@ -35,7 +41,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Resources / Tutorials & workshops
 
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐34)](https://github.com/barbosarafael/polars_python_test).
+*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐36)](https://github.com/barbosarafael/polars_python_test).
 
 ## [Mar 13, 2023](/content/2023/03/13/README.md)
 

@@ -10,6 +10,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Diagnostics
 
+*   [Bekaboo/deadcolumn.nvim (⭐56)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
 *   [ecthelionvi/NeoColumn.nvim (⭐9)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
@@ -1619,7 +1620,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐170)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.7k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐170)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.9k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

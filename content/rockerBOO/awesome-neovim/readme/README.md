@@ -274,7 +274,7 @@ You can find them listed on the [Neovim wiki (⭐64k)](https://github.com/neovim
 *   [vijaymarupudi/nvim-fzf (⭐289)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 *   [camspiers/snap (⭐395)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 *   [ibhagwan/fzf-lua (⭐1.1k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
-*   [jvgrootveld/telescope-zoxide (⭐170)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.7k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐170)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.9k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [echasnovski/mini.nvim#mini.fuzzy (⭐1.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐203)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
@@ -444,6 +444,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Bars and Lines
 
+*   [Bekaboo/deadcolumn.nvim (⭐56)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
 *   [ecthelionvi/NeoColumn.nvim (⭐9)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 *   [m4xshen/smartcolumn.nvim (⭐123)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
 *   [utilyre/barbecue.nvim (⭐292)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.

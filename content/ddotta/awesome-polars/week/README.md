@@ -8,6 +8,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
+### Libraries/Packages/Scripts / Python
+
+*   [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
+
 ### Resources / Blog posts
 
 *   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐2)](https://github.com/danielbeach/PandasVsPolars).
@@ -28,7 +32,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Resources / Tutorials & workshops
 
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐34)](https://github.com/barbosarafael/polars_python_test).
+*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐36)](https://github.com/barbosarafael/polars_python_test).
 
 ### Resources / Blog posts
 

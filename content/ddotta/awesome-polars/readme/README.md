@@ -71,6 +71,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 *   [polars for Python (⭐15k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
 *   [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
+*   [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
 
 ### Rust
 
@@ -98,7 +99,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 ### Tutorials & workshops
 
 *   [Modern Polars](https://kevinheavey.github.io/modern-polars/) - A side by side comparison between Polars and Pandas containing code in both frameworks by [@kevinheavey](https://github.com/kevinheavey).
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐34)](https://github.com/barbosarafael/polars_python_test).
+*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐36)](https://github.com/barbosarafael/polars_python_test).
 *   [A Practical Comparison of Polars and Pandas](https://florianwilhelm.info/2021/05/polars_pandas_comparison_notebook/) - A tutorial that showcases several common operations in Pandas and Polars side by side to demonstrate how much easier Polars is by [@FlorianWilhelm](https://github.com/FlorianWilhelm/). There is also an accompanying [Jupyter notebook (⭐42)](https://github.com/FlorianWilhelm/polars_vs_pandas/blob/master/pl_vs_pd.ipynb) available.
 *   [Prise en main de Polars](http://colab.research.google.com/github/inseefrlab/ssphub/blob/main/content/notebooks/polars-tuto.ipynb) - A notebook tutorial in French that illustrates the main features of Polars by [@romaintailhurat](https://github.com/romaintailhurat) and [@linogaliana](https://github.com/linogaliana). There is also an accompanying [blog post ](https://ssphub.netlify.app/post/polars/).
 

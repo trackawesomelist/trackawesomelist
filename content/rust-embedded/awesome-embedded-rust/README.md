@@ -8,6 +8,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ## [Mar 31, 2023](/content/2023/03/31/README.md)
 
+### Board support crates / STMicroelectronics
+
+*   [`nucleo-h723zg`](https://github.com/jlogan03/nucleo-h723zg) Board support crate for the Nucleo H723ZG
+
 ### no-std crates / WIP
 
 *   [crossbus (⭐65)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
@@ -1260,7 +1264,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [RTIC v1.0](https://rtic.rs/1.0/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real time systems:
     *   [cortex-m rtic (⭐1.1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
-    *   [msp430 rtfm](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
+    *   [msp430 rtfm (⭐10)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ### Peripheral Access Crates / XMC
 
