@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ [Daily](/content/catdevnull/awesome-zig/README.md) / Weekly / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
+
+### Misc libraries
+
+*   [dantecatalfamo/9p-zig (⭐1)](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Misc libraries
