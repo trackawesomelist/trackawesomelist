@@ -8,9 +8,30 @@
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
+### Scripts / Brave Search
+
+*   [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
+
+### Scripts / ChatGPT
+
+*   [ChatGPT Auto Refresh (⭐3)](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+*   [ChatGPT Widescreen Mode (⭐1)](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - Adds Widescreen + Full-Window modes to ChatGPT.
+
 ### Scripts / DuckDuckGo
 
-*   [DuckDuckGPT (⭐122)](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
+*   [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - Display ChatGPT answers in DuckDuckGo sidebar.
+
+### Scripts / Media
+
+*   [Mouseover Popup Image Viewer](https://carry0987.github.io/UserJS/Tool/mpiv/website/) - (Deprecated) Shows images and videos behind links and thumbnails.
+
+### Scripts / Privacy
+
+*   [Autoclear ChatGPT History (⭐1)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+
+### Tutorials / YouTube
+
+*   [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
@@ -74,10 +95,10 @@
 
 ### Scripts / GitHub
 
-*   [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
 *   [GitHub Diff File Toggle](https://greasyfork.org/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
-*   [GitHub Toggle Code Wrap](https://greasyfork.org/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
 *   [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
+*   [GitHub Toggle Code Wrap](https://greasyfork.org/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
+*   [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
 
 ### Scripts / Google
 
@@ -89,7 +110,6 @@
 ### Scripts / Media
 
 *   [Handy Image](https://greasyfork.org/scripts/109-handy-image) - Displays the full size image for many image hosting websites, skipping popups and other annoying stuff.
-*   [Mouseover Popup Image Viewer](https://greasyfork.org/scripts/404-mouseover-popup-image-viewer) - (Deprecated) Shows images and videos behind links and thumbnails.
 *   [Mouseover Popup Image Viewer (updated fork)](https://greasyfork.org/scripts/394820-mouseover-popup-image-viewer) - An updated fork of MPIV, maintained by one of Violentmonkey's developers.
 *   [Picviewer CE+](https://greasyfork.org/scripts/24204-picviewer-ce) - Powerful picture viewing tool which can popup/scale/rotate/batch save pictures automatically.
 
@@ -102,27 +122,27 @@
 
 *   [Iridium](https://greasyfork.org/scripts/37902-iridium) - Adds a lot of extra functionality to YouTube, including pop-out videos, extra control over video/comment feeds, and much more.
 *   [YouTube Link Title](https://greasyfork.org/scripts/390656-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
-*   [YouTube Plus](https://greasyfork.org/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
 
 ### Scripts / GitHub
 
-*   [Github Reply Comments (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 *   [GitHub Commit Whitespace (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [Github Commit Diff (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [GitHub User Info (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
 *   [GitHub Image Viewer (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [GitHub User Info (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
+*   [Github Commit Diff (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
 *   [Github News Feed Filter (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [Github Pull Request From Link (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
 *   [Github Pages Linker (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [Github Pull Request From Link (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [Github Reply Comments (⭐301)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
 ### Scripts / GitHub
 
-*   [GitHub Dark Script (⭐554)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.5k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [Gist to dabblet (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 *   [GitHub Custom Emojis (⭐59)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+*   [GitHub Dark Script (⭐554)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.5k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 *   [GitHub code colors (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 *   [GitHub code folding (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 *   [GitHub code guides (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -148,7 +168,6 @@
 *   [GitHub title notification (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
 *   [GitHub toggle expanders (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
 *   [GitHub toggle wiki sidebar (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
-*   [Gist to dabblet (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 
 ## [Jan 16 - Jan 22, 2017](/content/2017/3/README.md)
 
@@ -172,7 +191,6 @@
 
 ### Tutorials / YouTube
 
-*   [Greasemonkey Hacks](http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks) - Complete wiki book on Userscripts.
 *   [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
 *   [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
 

@@ -53,6 +53,33 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [HTML Website Template (⭐20)](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) Starter code for your blog based on Next.js framework
 
+#### [4. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+
+##### Scripts / Brave Search
+
+*   [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
+
+##### Scripts / ChatGPT
+
+*   [ChatGPT Auto Refresh (⭐3)](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+*   [ChatGPT Widescreen Mode (⭐1)](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - Adds Widescreen + Full-Window modes to ChatGPT.
+
+##### Scripts / DuckDuckGo
+
+*   [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - Display ChatGPT answers in DuckDuckGo sidebar.
+
+##### Scripts / Media
+
+*   [Mouseover Popup Image Viewer](https://carry0987.github.io/UserJS/Tool/mpiv/website/) - (Deprecated) Shows images and videos behind links and thumbnails.
+
+##### Scripts / Privacy
+
+*   [Autoclear ChatGPT History (⭐1)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+
+##### Tutorials / YouTube
+
+*   [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
+
 ### [Apr 01, 2023](/content/2023/04/01/README.md)
 
 
@@ -727,7 +754,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Translations](/content/mbiesiad/awesome-translations/README.md) - ([Source ⭐ 73, 📝 02&#x2F;26 ](https://github.com/mbiesiad/awesome-translations)) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 - [Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md) - ([Source ⭐ 379, 📝 21&#x2F;07&#x2F;01 ](https://github.com/johnjago/awesome-uncopyright)) - Curated list of all things public domain
 - [Awesome Unicode](/content/jagracey/Awesome-Unicode/README.md) - ([Source ⭐ 809, 📝 16&#x2F;07&#x2F;05 ](https://github.com/jagracey/Awesome-Unicode)) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
-- [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 1K, 📝 03&#x2F;30 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
+- [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 1K, 📝 04&#x2F;02 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
 - [Awesome Veganism](/content/sdassow/awesome-veganism/README.md) - ([Source ⭐ 44, 📝 22&#x2F;02&#x2F;22 ](https://github.com/sdassow/awesome-veganism)) - curated list of awesome resources, pointers, and tips related to veganism
 - [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.1K, 📝 22&#x2F;12&#x2F;23 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.

@@ -6,7 +6,34 @@
 
 
 
-## [1. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [1. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+
+### Scripts / Brave Search
+
+*   [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
+
+### Scripts / ChatGPT
+
+*   [ChatGPT Auto Refresh (⭐3)](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+*   [ChatGPT Widescreen Mode (⭐1)](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - Adds Widescreen + Full-Window modes to ChatGPT.
+
+### Scripts / DuckDuckGo
+
+*   [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - Display ChatGPT answers in DuckDuckGo sidebar.
+
+### Scripts / Media
+
+*   [Mouseover Popup Image Viewer](https://carry0987.github.io/UserJS/Tool/mpiv/website/) - (Deprecated) Shows images and videos behind links and thumbnails.
+
+### Scripts / Privacy
+
+*   [Autoclear ChatGPT History (⭐1)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+
+### Tutorials / YouTube
+
+*   [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
+
+## [2. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### IOS Development.
 
@@ -25,13 +52,13 @@
 *   [HTML Website Template (⭐20)](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) Starter code for your blog based on Next.js framework
 
-## [2. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [3. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Misc libraries
 
 *   [dantecatalfamo/9p-zig (⭐1)](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Projects
 
@@ -65,43 +92,43 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [5. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
 *   [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
 
-## [5. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [6. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Language Models / GPT models
 
 *   [BioGPT (⭐3.6k)](https://github.com/microsoft/BioGPT) - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
-## [6. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Infinite Scroll
 
 *   [virtua (⭐3)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
 
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### NFT Marketplaces / Wallets
 
 *   [Grid](https://grid.zestbloom.com/) - The Grid is a lightweight, static site that executes in the clients frontend to retrieve an arbitrary list of live contracts for users to browse and interact with. The Grid is highly configurable allowing for any of the ZestBloom supported contracts and sale types to be displayed, but through means of a simple configuration file, what gets displayed may easily be constrained to only a specific collection or curated list of sales.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Other Resources / Other Technology Resource Aggregators
 
 *   [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird.
 
-## [9. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [10. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### GUI
 
 *   [SQLAuto (⭐25)](https://github.com/TommyLemon/SQLAuto) - A smart SQL testing automation tool for databases, support any CRUD, any template variables, generating argument combinations, generating lots of data rows.
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / STMicroelectronics
 
@@ -111,7 +138,7 @@
 
 *   [crossbus (⭐65)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 
-## [11. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [12. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Photo & Image Editing
 
@@ -134,25 +161,25 @@
 
 
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Immich (⭐9.5k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
-## [13. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [14. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Frontends
 
 *   **Breeze Evolution** - A 100 pagespeed score frontend theme that is compatible with all Luma-based extensions. [breezefront.com](https://breezefront.com/themes)
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [Pause Giant AI Experiments: An Open Letter - Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -167,24 +194,18 @@
 
 *   [nvim-early-retirement (⭐18)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [terraformsh (⭐49)](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
 *   [tftarget (⭐18)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Scroll Bars / Barcode
 
 *   [DMScrollBar (⭐15)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
-
-## [18. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
-
-### Scripts / DuckDuckGo
-
-*   [DuckDuckGPT (⭐122)](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
 
 ## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 

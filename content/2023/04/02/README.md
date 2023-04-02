@@ -1,12 +1,39 @@
 # Awesome List Updates on Apr 02, 2023
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [1. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+
+### Scripts / Brave Search
+
+*   [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
+
+### Scripts / ChatGPT
+
+*   [ChatGPT Auto Refresh (⭐3)](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+*   [ChatGPT Widescreen Mode (⭐1)](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - Adds Widescreen + Full-Window modes to ChatGPT.
+
+### Scripts / DuckDuckGo
+
+*   [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - Display ChatGPT answers in DuckDuckGo sidebar.
+
+### Scripts / Media
+
+*   [Mouseover Popup Image Viewer](https://carry0987.github.io/UserJS/Tool/mpiv/website/) - (Deprecated) Shows images and videos behind links and thumbnails.
+
+### Scripts / Privacy
+
+*   [Autoclear ChatGPT History (⭐1)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+
+### Tutorials / YouTube
+
+*   [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
+
+## [2. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### IOS Development.
 
@@ -25,7 +52,7 @@
 *   [HTML Website Template (⭐20)](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) Starter code for your blog based on Next.js framework
 
-## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -35,7 +62,7 @@
 
 *   [nvim-early-retirement (⭐18)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
-## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 

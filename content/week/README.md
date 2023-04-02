@@ -150,19 +150,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [DronaHQ](https://www.dronahq.com/) - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
 *   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment working directly with JavaScript or Python. It allows the development, execution and monitoring of integration and automation processes.
 
-#### [14. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
-
-##### Scripts / DuckDuckGo
-
-*   [DuckDuckGPT (⭐122)](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
-
-#### [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Scroll Bars / Barcode
 
 *   [DMScrollBar (⭐15)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
 
-#### [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Cryptocurrencies
 
@@ -191,7 +185,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ffmpeg-sidecar (⭐53)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
-#### [17. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Documentation
 
@@ -207,31 +201,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [C++ Quiz](https://cppquiz.org) - A simple online quiz that you can use to test your knowledge of the C++ programming language.
 *   [PVS-Studio’s challenge](https://quiz.pvs-studio.com) - PVS-Studio’s C++ quiz in which you're asked to find errors in code fragments of open source projects.
 
-#### [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [Pause Giant AI Experiments: An Open Letter - Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
-#### [19. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+#### [18. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ##### Frontends
 
 *   **Breeze Evolution** - A 100 pagespeed score frontend theme that is compatible with all Luma-based extensions. [breezefront.com](https://breezefront.com/themes)
 
-#### [20. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+#### [19. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ##### Contents / Tools
 
 *   [Immich (⭐9.5k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
-#### [21. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [20. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Serverless Frameworks
 
 *   [Zappa (⭐2.4k)](https://github.com/zappa/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
 
-#### [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -246,13 +240,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ittecture (⭐0)](https://github.com/ittecture/ittecture-omz-theme) - Includes decorators for current directory and `git` information.
 *   [mantis (⭐0)](https://github.com/dann254/mantis-zsh-theme) - Minimal theme with `git` status and information decorators.
 
-#### [23. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+#### [22. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ##### GUI
 
 *   [SQLAuto (⭐25)](https://github.com/TommyLemon/SQLAuto) - A smart SQL testing automation tool for databases, support any CRUD, any template variables, generating argument combinations, generating lots of data rows.
 
-#### [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Board support crates / STMicroelectronics
 
@@ -262,7 +256,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [crossbus (⭐65)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 
-#### [25. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [24. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Python
 
@@ -273,31 +267,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide) - A blog post comparing some common functions between Pandas and Polars by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐2)](https://github.com/danielbeach/PandasVsPolars).
 *   [Dataframe Showdown – Polars vs Spark vs Pandas vs DataFusion. Guess who wins? ](https://www.confessionsofadataguy.com/dataframe-showdown-polars-vs-spark-vs-pandas-vs-datafusion-guess-who-wins/) - A short article that presents a performance test between Polars, Pandas, Datafusion and Spark on a csv dataset by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐6)](https://github.com/danielbeach/DataFrameShowDown).
 
-#### [26. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+#### [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ##### NFT Marketplaces / Wallets
 
 *   [Grid](https://grid.zestbloom.com/) - The Grid is a lightweight, static site that executes in the clients frontend to retrieve an arbitrary list of live contracts for users to browse and interact with. The Grid is highly configurable allowing for any of the ZestBloom supported contracts and sale types to be displayed, but through means of a simple configuration file, what gets displayed may easily be constrained to only a specific collection or curated list of sales.
 
-#### [27. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+#### [26. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ##### Infinite Scroll
 
 *   [virtua (⭐3)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
 
-#### [28. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
+#### [27. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
 ##### Language Models / GPT models
 
 *   [BioGPT (⭐3.6k)](https://github.com/microsoft/BioGPT) - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
-#### [29. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+#### [28. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ##### Standout Projects
 
 *   [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
 
-#### [30. Ai Collection](/content/ai-collection/ai-collection/README.md)
+#### [29. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ##### Photo & Image Editing
 
@@ -320,13 +314,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [31. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [30. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ##### Misc libraries
 
 *   [dantecatalfamo/9p-zig (⭐1)](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 
-#### [32. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [31. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### CI/CD
 
@@ -345,26 +339,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [stigg](https://www.stigg.io) - API-first pricing plans.
 
-#### [33. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Other Resources / Other Technology Resource Aggregators
 
 *   [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird.
 
-#### [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Commonsense / Intuitive Physics
-
-*   [Intuitive Physics Reading List (⭐5)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***Github***. A reading list on intuitive physics, maintained actively by Shiqian Li.
-
-#### [35. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ##### Tools / Vendor supported providers
 
 *   [terraformsh (⭐49)](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
 *   [tftarget (⭐18)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 
-#### [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -379,7 +367,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [nvim-early-retirement (⭐18)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
-#### [37. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+#### [35. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ##### IOS Development.
 
@@ -398,7 +386,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [HTML Website Template (⭐20)](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) Starter code for your blog based on Next.js framework
 
-#### [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Projects
 
@@ -431,6 +419,39 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Kotlin Native / Projects
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+#### [37. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+
+##### Scripts / Brave Search
+
+*   [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
+
+##### Scripts / ChatGPT
+
+*   [ChatGPT Auto Refresh (⭐3)](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+*   [ChatGPT Widescreen Mode (⭐1)](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - Adds Widescreen + Full-Window modes to ChatGPT.
+
+##### Scripts / DuckDuckGo
+
+*   [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - Display ChatGPT answers in DuckDuckGo sidebar.
+
+##### Scripts / Media
+
+*   [Mouseover Popup Image Viewer](https://carry0987.github.io/UserJS/Tool/mpiv/website/) - (Deprecated) Shows images and videos behind links and thumbnails.
+
+##### Scripts / Privacy
+
+*   [Autoclear ChatGPT History (⭐1)](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+
+##### Tutorials / YouTube
+
+*   [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
+
+#### [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Commonsense / Intuitive Physics
+
+*   [Intuitive Physics Reading List (⭐5)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***Github***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 ---
 
@@ -987,7 +1008,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Translations](/content/mbiesiad/awesome-translations/README.md) - ([Source ⭐ 73, 📝 02&#x2F;26 ](https://github.com/mbiesiad/awesome-translations)) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 - [Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md) - ([Source ⭐ 379, 📝 21&#x2F;07&#x2F;01 ](https://github.com/johnjago/awesome-uncopyright)) - Curated list of all things public domain
 - [Awesome Unicode](/content/jagracey/Awesome-Unicode/README.md) - ([Source ⭐ 809, 📝 16&#x2F;07&#x2F;05 ](https://github.com/jagracey/Awesome-Unicode)) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
-- [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 1K, 📝 03&#x2F;30 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
+- [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 1K, 📝 04&#x2F;02 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
 - [Awesome Veganism](/content/sdassow/awesome-veganism/README.md) - ([Source ⭐ 44, 📝 22&#x2F;02&#x2F;22 ](https://github.com/sdassow/awesome-veganism)) - curated list of awesome resources, pointers, and tips related to veganism
 - [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.1K, 📝 22&#x2F;12&#x2F;23 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.
