@@ -2,9 +2,15 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 163 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 208 · 🏷️ Books
 
 [ Daily / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [Apr 03, 2023](/content/2023/04/03/README.md)
+
+### Database
+
+*   [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
 
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
@@ -312,7 +318,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐163)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐208)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Dec 19, 2019](/content/2019/12/19/README.md)
@@ -521,5 +527,5 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐41k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐42k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)

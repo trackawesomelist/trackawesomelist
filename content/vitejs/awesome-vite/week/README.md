@@ -6,6 +6,20 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [unplugin-config (⭐2)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-vitepress-auto-sidebar (⭐9)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
+
+### Django / Community
+
+*   [django-vite-plugin (⭐2)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Framework-agnostic Plugins / Integrations
@@ -30,11 +44,11 @@
 
 ### Templates / Vue 3
 
-*   [vite-vue-lib-template (⭐2)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
+*   [vite-vue-lib-template (⭐7)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐33)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐35)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -624,7 +638,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-keyboard-navigator (⭐19)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐18)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -971,7 +985,7 @@
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-dev-manifest (⭐8)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
-*   [vite-plugin-watch-and-run (⭐276)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐279)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 
@@ -1031,11 +1045,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 
 ### Svelte / Integrations
 
@@ -1172,7 +1186,7 @@
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
+*   [@vitejs/plugin-react (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
 
 ## [Sep 20 - Sep 26, 2021](/content/2021/38/README.md)
 
@@ -1189,7 +1203,7 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-federation (⭐1k)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
-*   [vite-plugin-wasm-pack (⭐135)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-wasm-pack (⭐135)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.1k)](https://github.com/rustwasm/wasm-pack), the simple way.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -1269,7 +1283,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -1325,7 +1339,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐34)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐35)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
@@ -1472,7 +1486,7 @@
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
 *   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐610)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 ### Vue / Routing
@@ -1569,7 +1583,7 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐54k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐55k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### React / Loaders
 
@@ -1624,7 +1638,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐54k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐55k)](https://github.com/vitejs/vite)
 *   [Awesome Vue (⭐68k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community

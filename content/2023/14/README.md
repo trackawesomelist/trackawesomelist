@@ -1,49 +1,144 @@
 # Awesome List Updates on Apr 03 - Apr 09, 2023
 
-7 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Tutorials & workshops
+
+*   [Running Polars code distributedly](https://fugue-tutorials.readthedocs.io/tutorials/integrations/backends/polars.html#) - A page that explains how to rung Polars code distributedly with Fugue by [@fugue-project](https://github.com/fugue-project).
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Community / Community Chat Rooms
+
+*   [#rust-embedded-space:matrix.org](https://matrix.to/#/#rust-embedded-space:matrix.org) Most Embedded Rust related Matrix rooms are in the Rust Embedded Space
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Design and Product / Other Tools
+
+*   [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornt/Sloth/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftQuit (⭐97)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [4. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+
+### Examples
+
+*   [themerdev/themer (⭐5.1k)](https://github.com/themerdev/themer#readme) - Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise install and usage sections, including common workflows. Colorful previews.
+
+## [5. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React General Resources
+
+*   [React Official Website](https://react.dev/)
+*   [React Documentation](https://react.dev/learn)
+
+### React Tutorials / React General Tutorials
+
+*   [React Official Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+
+### React Tutorials / React Hooks
+
+*   [React Hooks](https://react.dev/reference/react)
+
+### React Tutorials / React Internals
+
+*   [Reconciliation](https://react.dev/learn/preserving-and-resetting-state)
+
+### Important Talks / Charts
+
+*   [React Conferences](https://react.dev/community/conferences)
+*   [React Videos](https://react.dev/community/videos)
+
+## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [unplugin-config (⭐2)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-vitepress-auto-sidebar (⭐9)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
+
+### Django / Community
+
+*   [django-vite-plugin (⭐2)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
+
+## [7. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+
+### History / Cloud providers
+
+*   “Larry Page went to U of M and used the Michigan Terminal System. (…) when Google was working on App Engine, Page took inspiration from MTS and would exhort engineers to follow its example. (…) when I look at my AWS and GCP bills now, it feels very familiar!” ([source](https://news.ycombinator.com/item?id=35123587)) - The direct filiation between old-school university mainframes and current cloud services.
+
+## [8. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Databases & Spreadsheets
+
+*   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Database
+
+*   [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
+
+## [10. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Terminal / CLI tools
+
+*   [dctl (⭐7)](https://github.com/FabienD/docker-stack) - dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more. By [FabienD](https://github.com/FabienD)
+
+## [11. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Package managers
 
 *   [vpm (⭐79)](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
-## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Markup Languages
 
 *   [htmlyaml (⭐1)](https://github.com/nikolaydubina/htmlyaml) -  Rich rendering of YAML as HTML in Go
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [4. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [14. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
 *   [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts).
 
-## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Immersive Planning and Design Platforms
 
 *   [Unity](https://unity.com/) - A powerful and popular cross-platform game engine for creating 2D and 3D interactive experiences and games.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Webvizio](https://webvizio.com) — Website feedback tool, website review software, and bug reporting tool for streamlining web development collaboration on tasks directly on live websites and web apps, images, PDFs, and design files.
 
 ### Issue Tracking and Project Management
 
 *   [point.poker](https://www.point.poker/) - Online Planning Poker (consensus-based estimation tool). Free for unlimited users, teams, sessions, rounds and votes. No registration required.
 
-## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

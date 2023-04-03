@@ -319,7 +319,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐25k
 *   [Clair (⭐9.4k)](https://github.com/quay/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [@coreos][coreos]
 *   [Dagda (⭐1k)](https://github.com/eliasgranderubio/dagda) - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By [@eliasgranderubio](https://github.com/eliasgranderubio)
 *   [Deepfence Enterprise](https://deepfence.io) :heavy\_dollar\_sign: - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/deepfence)
-*   [Deepfence Threat Mapper (⭐3.1k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/deepfence)
+*   [Deepfence Threat Mapper (⭐3.5k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/deepfence)
 *   [docker-bench-security (⭐8.3k)](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production. By [@docker][docker]
 *   [docker-explorer (⭐472)](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions by [@Google][google]
 *   [docker-lock (⭐401)](https://github.com/safe-waters/docker-lock) - A cli-plugin for docker to automatically manage image digests by tracking them in a separate Lockfile. By [@safe-waters][safe-waters]
@@ -396,6 +396,7 @@ Native desktop applications for managing and montoring docker hosts and clusters
 *   [captain (⭐212)](https://github.com/jenssegers/captain) - Easily start and stop docker compose projects from any directory. By [@jenssegers](https://github.com/jenssegers)
 *   [dcinja (⭐4)](https://github.com/Falldog/dcinja) - The powerful and smallest binary size of template engine for docker command line environment. By [@Falldog](https://github.com/Falldog)
 *   [dcp (⭐55)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
+*   [dctl (⭐7)](https://github.com/FabienD/docker-stack) - dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more. By [FabienD](https://github.com/FabienD)
 *   [docker-ls (⭐442)](https://github.com/mayflower/docker-ls) - CLI tools for browsing and manipulating docker registries by [@mayflower](https://github.com/mayflower)
 *   [docker pushrm (⭐109)](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor. By [@christian-korneck](https://github.com/christian-korneck)
 *   [dockersql (⭐120)](https://github.com/crosbymichael/dockersql) - :skull: A command line interface to query Docker using SQL by [@crosbymichael](https://github.com/crosbymichael)
@@ -647,7 +648,7 @@ Services to securely store your Docker images.
 *   [Kitt (⭐11)](https://github.com/senges/kitt) - A portable and disposable Shell environment, based on Docker and Nix. By [@senges](https://github.com/senges)
 *   [Lando (⭐3.7k)](https://github.com/lando/lando) - Lando is for developers who want to quickly specify and painlessly spin up the services and tools needed to develop their projects. By [Tandem](https://thinktandem.io/)
 *   [Vagga (⭐1.8k)](https://github.com/tailhook/vagga) - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments by [@tailhook](https://github.com/tailhook/)
-*   [Zsh-in-Docker (⭐587)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
+*   [Zsh-in-Docker (⭐609)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
 
 ### Garbage Collection
 
@@ -723,7 +724,6 @@ Services to securely store your Docker images.
 *   [Mesosphere DC/OS Platform](https://d2iq.com/products/dcos) :heavy\_dollar\_sign: - Integrated platform for data and containers built on Apache Mesos by [@mesosphere](https://d2iq.com)
 *   [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/openshift-dev-spaces/overview) - A collaborative Kubernetes-native solution for rapid application development that delivers consistent developer environments on Red Hat OpenShift to allow anyone with a browser to contribute code in under two minutes.
 *   [Red Hat OpenShift Dedicated](https://www.redhat.com/en/technologies/cloud-computing/openshift/dedicated) :heavy\_dollar\_sign: - Fully-managed Red Hat® OpenShift® service on Amazon Web Services and Google Cloud
-*   [Sloppy.io](https://sloppy.io/en/) :heavy\_dollar\_sign: - all-in-one solution for container deployment and hosting – made and hosted in Germany
 *   [Triton](https://www.joyent.com/) :heavy\_dollar\_sign: - Elastic container-native infrastructure by Joyent.
 *   [Virtuozzo Application Platform](https://www.virtuozzo.com/application-platform-partners/) :heavy\_dollar\_sign: - Deploy and manage your projects with turnkey PaaS across a wide network of reliable service providers
 

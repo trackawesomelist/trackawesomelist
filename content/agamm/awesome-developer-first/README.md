@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Apr 03, 2023](/content/2023/04/03/README.md)
+
+### Databases & Spreadsheets
+
+*   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+
 ## [Mar 30, 2023](/content/2023/03/30/README.md)
 
 ### Misc

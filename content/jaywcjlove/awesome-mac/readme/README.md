@@ -20,7 +20,7 @@
  Now we have become very big and different from the original idea.
 Here we collect awesome macOS software in various categories. Feel free to **star** and **fork**.
 
-Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐59k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) list.
+Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐59k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐246k)](https://github.com/sindresorhus/awesome) list.
 
 **Explanation**
 
@@ -354,7 +354,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 *   [Proxie](https://proxie.app) - HTTP debugging proxy. [![App Store][app-store Icon]](https://apps.apple.com/us/app/proxie/id897814548)
 *   [Proxyman](https://proxyman.app) - Modern and intuitive HTTP debugging proxy for macOS. ![Freeware][Freeware Icon]
-*   [Sniffnet (⭐3.3k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
+*   [Sniffnet (⭐3.5k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
 *   [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 *   [Apidog](https://www.apidog.com/) - All-in-One workspace for API Design, Documentation, Debug, Mock, Test.
 
@@ -370,7 +370,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [bash-it (⭐13k)](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 *   [bat (⭐40k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
 *   [ccat (⭐3k)](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/ccat) ![Freeware][Freeware Icon]
-*   [cmatrix (⭐3.1k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software][OSS Icon]](https://github.com/abishekvashok/cmatrix/) ![Freeware][Freeware Icon]
+*   [cmatrix (⭐3.2k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software][OSS Icon]](https://github.com/abishekvashok/cmatrix/) ![Freeware][Freeware Icon]
 *   [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 *   [cool-retro-term (⭐18k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 *   [dark-mode (⭐634)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -408,7 +408,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [Taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/taskbook) ![Freeware][Freeware Icon]
 *   [Termius](https://www.termius.com/) - Free terminal tool,comparable to xshell on windows platform. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908)
 *   [TextQL (⭐8.9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
-*   [thefuck (⭐76k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
+*   [thefuck (⭐77k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 *   [tldr](https://tldr.sh/) - Collaborative cheatsheets for console commands. [![Open-Source Software][OSS Icon]](https://github.com/tldr-pages/tldr) ![Freeware][Freeware Icon]
 *   [tmux (⭐28k)](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 *   [tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily. [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
@@ -598,6 +598,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [APNGb (⭐275)](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 *   [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon]
 *   [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
+*   [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 *   [Eagle App](https://en.eagle.cool/) - Simple and intuitive file manager with tag and annotaion for all your design files. Supports all major source, image, RAW, video, 3D, audio, font, and office files.
 *   [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
 *   [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
@@ -907,7 +908,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 *   [Keka](https://www.keka.io) - File archiver for macOS. Compression: 7Z, ZIP, TAR, GZIP, BZIP2, XZ LZIP, DMG, ISO. Extraction: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, XZ, LZIP, DMG, ISO, LZMA, EXE, CAB, WIM, PAX, JAR, APK, APPX, CPGZ, CPIO. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/keka/id470158793)
 *   [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
-*   [Modal File Manager (⭐44)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
+*   [Modal File Manager (⭐47)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 *   [PDF Archiver (⭐252)](https://github.com/JulianKahnert/PDF-Archiver) - Nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://itunes.apple.com/app/pdf-archivar/id1352719750)
 *   [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/the-unarchiver/id425424353)
 *   [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github\&utm_medium=referral\&utm_campaign=githubproject) - Quickly decompress multiple different types of compressed files/compressed files to various scene compression formats. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218\&ct=GitHub\&mt=8)
@@ -1011,7 +1012,7 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
 *   [Slate (⭐7.8k)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
 *   [Total Spaces](http://totalspaces.binaryage.com/) - Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around.
-*   [yabai (⭐15k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐16k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 #### Password Management
 
@@ -1081,6 +1082,8 @@ Any comments, suggestions? [Let us know! (⭐59k)](https://github.com/jaywcjlove
 *   [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 *   [RemoveX](https://removex.io) - RemoveX is an uninstaller tool for Mac computer. RemoveX has a beautifully UI using native design for MacOS. Save hours of time and remove your app in seconds. Do not make you think. ![Freeware][Freeware Icon]
 *   [Sensei](https://sensei.app/) - Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software.
+*   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
+*   [SwiftQuit (⭐97)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit) ![Freeware][Freeware Icon]
 *   [Core Tunnel](https://codinn.com/tunnel/) - Application for managing SSH connections. [![App Store][app-store Icon]](https://apps.apple.com/us/app/core-tunnel/id1354318707)
 *   [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 *   [Time Machine Inspector (⭐52)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]

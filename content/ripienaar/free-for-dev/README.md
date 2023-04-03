@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 03, 2023](/content/2023/04/03/README.md)
 
+### Tools for Teams and Collaboration
+
+*   [Webvizio](https://webvizio.com) — Website feedback tool, website review software, and bug reporting tool for streamlining web development collaboration on tasks directly on live websites and web apps, images, PDFs, and design files.
+
 ### Issue Tracking and Project Management
 
 *   [point.poker](https://www.point.poker/) - Online Planning Poker (consensus-based estimation tool). Free for unlimited users, teams, sessions, rounds and votes. No registration required.

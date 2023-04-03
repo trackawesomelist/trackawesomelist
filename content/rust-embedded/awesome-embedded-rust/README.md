@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Apr 03, 2023](/content/2023/04/03/README.md)
+
+### Community / Community Chat Rooms
+
+*   [#rust-embedded-space:matrix.org](https://matrix.to/#/#rust-embedded-space:matrix.org) Most Embedded Rust related Matrix rooms are in the Rust Embedded Space
+
 ## [Mar 31, 2023](/content/2023/03/31/README.md)
 
 ### Board support crates / STMicroelectronics

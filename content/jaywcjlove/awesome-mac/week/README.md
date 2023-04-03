@@ -6,6 +6,17 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Design and Product / Other Tools
+
+*   [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / System Related Tools
+
+*   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornt/Sloth/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftQuit (⭐97)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Audio Record and Process / File Sharing
@@ -28,11 +39,11 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cmatrix (⭐3.1k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [cmatrix (⭐3.2k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
-*   [Modal File Manager (⭐44)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Modal File Manager (⭐47)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -48,7 +59,7 @@
 
 ### Developer Tools / Network Analysis
 
-*   [Sniffnet (⭐3.3k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GyulyVGC/sniffnet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Sniffnet (⭐3.5k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GyulyVGC/sniffnet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
@@ -488,7 +499,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [thefuck (⭐76k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvbn/thefuck)
+*   [thefuck (⭐77k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvbn/thefuck)
 
 ### Communication / Collaboration and Team Tools
 
@@ -1249,7 +1260,7 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐15k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐16k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ### Utilities / System Related Tools
 

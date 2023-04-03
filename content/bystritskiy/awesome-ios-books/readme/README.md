@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 163 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 208 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@
 
 |                                                                           Awesome                                                                           | Books | Last updated |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |   96  | Oct 25, 2022 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |   97  |  Apr 3, 2023 |
 
 ## How to Use
 
@@ -146,6 +146,7 @@
 *   [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
 *   [*Build iOS Database Apps with Swift and SQLite* by Kevin Languedoc](https://www.amazon.com/Build-Database-Apps-Swift-SQLite-ebook/dp/B01MRKN6H6)
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
+*   [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
 
 ## ARKit
 
@@ -221,12 +222,12 @@
 
 ## Other Awesome Lists
 
-*   [awesome-ios (⭐41k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐42k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
 
 ## Contributing and License
 
-*   [See the guide (⭐163)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐208)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Contributors

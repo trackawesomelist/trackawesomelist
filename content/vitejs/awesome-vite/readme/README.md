@@ -41,8 +41,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 ### Official Resources
 
 *   [Documentation](https://vitejs.dev/)
-*   [GitHub Repo (⭐54k)](https://github.com/vitejs/vite)
-*   [Release Notes (⭐54k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [GitHub Repo (⭐55k)](https://github.com/vitejs/vite)
+*   [Release Notes (⭐55k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 *   [Vue 3 Docs](https://vuejs.org/)
 *   [Awesome Vue (⭐68k)](https://github.com/vuejs/awesome-vue)
 *   [Migration from v2](https://vitejs.dev/guide/migration.html)
@@ -51,7 +51,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ## Get Started
 
-*   [create-vite (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 *   [create-vitawind (⭐115)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 *   [create-electron-vite (⭐46)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 *   [create-vite-app (⭐111)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
@@ -126,7 +126,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vulcan (⭐6)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 *   [vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData (⭐0)](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
 *   [vite-plugin-vue-sfc-in-js (⭐16)](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
-*   [vite-vue-lib-template (⭐2)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
+*   [vite-vue-lib-template (⭐7)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 *   [vite-plugin-style-vw-loader (⭐0)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 
 #### Vue 2
@@ -246,7 +246,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Integrations
 
-*   [@vitejs/plugin-legacy (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 *   [vite-plugin-pwa (⭐1.9k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 *   [vite-plugin-windicss (⭐828)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 *   [vite-plugin-node (⭐688)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
@@ -257,7 +257,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [@nabla/vite-plugin-eslint (⭐81)](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
 *   [vite-plugin-tauri (⭐109)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 *   [vite-plugin-federation (⭐1k)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
-*   [vite-plugin-wasm-pack (⭐135)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-wasm-pack (⭐135)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.1k)](https://github.com/rustwasm/wasm-pack), the simple way.
 *   [vite-plugin-comlink (⭐87)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.4k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 *   [vite-plugin-sass-dts (⭐62)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 *   [vite-esbuild-typescript-checker (⭐30)](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
@@ -296,6 +296,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-target (⭐2)](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
 *   [vite-plugin-gitlab-flow (⭐5)](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
 *   [unplugin-fonts (⭐140)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+*   [unplugin-config (⭐2)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 
 #### Loaders
 
@@ -397,7 +398,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [@zougt/vite-plugin-theme-preprocessor (⭐145)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 *   [vite-plugin-remove-console (⭐63)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 *   [vite-plugin-dev-manifest (⭐8)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
-*   [vite-plugin-watch-and-run (⭐276)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐279)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 *   [vite-plugin-dynamic-base (⭐40)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 *   [vite-plugin-redirect (⭐0)](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
 *   [vite-plugin-live-reload (⭐58)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
@@ -424,6 +425,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-isomorphic-import (⭐1)](https://github.com/LyzSg/vite-plugin-isomorphic-import) - Allows you to configure whether to import modules on the server-side or client-side.
 *   [vite-plugin-find-image-duplicates (⭐1)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
 *   [@froxz/vite-plugin-s3 (⭐6)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+*   [vite-plugin-vitepress-auto-sidebar (⭐9)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 
 #### Testing
 
@@ -455,8 +457,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-*   ![v3] [@vitejs/plugin-vue (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-*   ![v3] [@vitejs/plugin-vue-jsx (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v3] [@vitejs/plugin-vue (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v3] [@vitejs/plugin-vue-jsx (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 *   ![v2] [vite-plugin-vue2 (⭐610)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 *   ![v2] [unplugin-vue2-script-setup (⭐552)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
@@ -502,7 +504,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Official
 
-*   [@vitejs/plugin-react (⭐54k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
+*   [@vitejs/plugin-react (⭐55k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
 
 #### Presets
 
@@ -552,7 +554,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 *   [vite-plugin-solid (⭐313)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 *   [vite-plugin-solid-markdown (⭐5)](https://github.com/xbmlz/vite-plugin-solid-markdown) - Compile markdown files to Solid components.
-*   [vite-plugin-solid-svg (⭐33)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐35)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 <hr>
 
@@ -668,6 +670,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Django
 
 *   [django-vite (⭐244)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+*   [django-vite-plugin (⭐2)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
 ### Flask
 
@@ -762,10 +765,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
 *   [macOS in Svelte (⭐1.7k)](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
 *   [vue3-realworld-example-app (⭐689)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
-*   [react-device-frameset (⭐34)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐35)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 *   [vite-vue3-lowcode (⭐2.3k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 *   [Context Note (⭐629)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 *   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
-*   [react-keyboard-navigator (⭐19)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐18)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 *   [pointer-lock-movement (⭐10)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 

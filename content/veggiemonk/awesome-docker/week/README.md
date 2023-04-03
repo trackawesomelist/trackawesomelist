@@ -6,6 +6,12 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Terminal / CLI tools
+
+*   [dctl (⭐7)](https://github.com/FabienD/docker-stack) - dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more. By [FabienD](https://github.com/FabienD)
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### CI/CD / Other
@@ -296,7 +302,7 @@
 *   [Clair (⭐9.4k)](https://github.com/quay/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [@coreos](https://github.com/coreos)
 *   [Dagda (⭐1k)](https://github.com/eliasgranderubio/dagda) - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By [@eliasgranderubio](https://github.com/eliasgranderubio)
 *   [Deepfence Enterprise](https://deepfence.io) :heavy\_dollar\_sign: - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/deepfence)
-*   [Deepfence Threat Mapper (⭐3.1k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/deepfence)
+*   [Deepfence Threat Mapper (⭐3.5k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/deepfence)
 *   [docker-bench-security (⭐8.3k)](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production. By [@docker](https://github.com/docker)
 *   [docker-explorer (⭐472)](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions by [@Google](https://github.com/google)
 *   [docker-lock (⭐401)](https://github.com/safe-waters/docker-lock) - A cli-plugin for docker to automatically manage image digests by tracking them in a separate Lockfile. By [@safe-waters](https://github.com/safe-waters)
@@ -422,7 +428,7 @@
 *   [docker-alpine (⭐5.7k)](https://github.com/gliderlabs/docker-alpine) - A super small Docker base image *(5MB)* using Alpine Linux by [@gliderlabs](https://github.com/gliderlabs)
 *   [docker-gen (⭐4.2k)](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder](https://github.com/jwilder)
 *   [GoSu (⭐4.3k)](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool) by [@tianon](https://github.com/tianon)
-*   [is-docker (⭐198)](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus (⭐243k)](https://github.com/sindresorhus/awesome)
+*   [is-docker (⭐198)](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus (⭐246k)](https://github.com/sindresorhus/awesome)
 *   [lstags (⭐305)](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
 *   [NVIDIA-Docker (⭐16k)](https://github.com/NVIDIA/nvidia-docker) - The NVIDIA Container Runtime for Docker by [@NVIDIA](https://github.com/nvidia)
 *   [su-exec (⭐905)](https://github.com/ncopa/su-exec) - This is a simple tool that will simply execute a program with different privileges. The program will be executed directly and not run as a child, like su and sudo does, which avoids TTY and signal issues. Why reinvent gosu? This does more or less exactly the same thing as gosu but it is only 10kb instead of 1.8MB. By [ncopa](https://github.com/ncopa)
@@ -593,7 +599,7 @@
 *   [Gebug (⭐617)](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
 *   [Lando (⭐3.7k)](https://github.com/lando/lando) - Lando is for developers who want to quickly specify and painlessly spin up the services and tools needed to develop their projects. By [Tandem](https://thinktandem.io/)
 *   [Vagga (⭐1.8k)](https://github.com/tailhook/vagga) - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments by [@tailhook](https://github.com/tailhook/)
-*   [Zsh-in-Docker (⭐587)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
+*   [Zsh-in-Docker (⭐609)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
 
 ### Garbage Collection / Other
 
@@ -664,7 +670,6 @@
 *   [Mesosphere DC/OS Platform](https://d2iq.com/products/dcos) :heavy\_dollar\_sign: - Integrated platform for data and containers built on Apache Mesos by [@mesosphere](https://d2iq.com)
 *   [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/openshift-dev-spaces/overview) - A collaborative Kubernetes-native solution for rapid application development that delivers consistent developer environments on Red Hat OpenShift to allow anyone with a browser to contribute code in under two minutes.
 *   [Red Hat OpenShift Dedicated](https://www.redhat.com/en/technologies/cloud-computing/openshift/dedicated) :heavy\_dollar\_sign: - Fully-managed Red Hat® OpenShift® service on Amazon Web Services and Google Cloud
-*   [Sloppy.io](https://sloppy.io/en/) :heavy\_dollar\_sign: - all-in-one solution for container deployment and hosting – made and hosted in Germany
 *   [Triton](https://www.joyent.com/) :heavy\_dollar\_sign: - Elastic container-native infrastructure by Joyent.
 *   [Virtuozzo Application Platform](https://www.virtuozzo.com/application-platform-partners/) :heavy\_dollar\_sign: - Deploy and manage your projects with turnkey PaaS across a wide network of reliable service providers
 

@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Apr 03, 2023](/content/2023/04/03/README.md)
+
+### Resources / Tutorials & workshops
+
+*   [Running Polars code distributedly](https://fugue-tutorials.readthedocs.io/tutorials/integrations/backends/polars.html#) - A page that explains how to rung Polars code distributedly with Fugue by [@fugue-project](https://github.com/fugue-project).
+
 ## [Mar 31, 2023](/content/2023/03/31/README.md)
 
 ### Libraries/Packages/Scripts / Python
@@ -117,12 +123,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars for Python (⭐15k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
+*   [polars for Python (⭐16k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
 *   [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
 
 ### Libraries/Packages/Scripts / Rust
 
-*   [polars for Rust (⭐15k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
+*   [polars for Rust (⭐16k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 *   [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
 
 ### Libraries/Packages/Scripts / R
