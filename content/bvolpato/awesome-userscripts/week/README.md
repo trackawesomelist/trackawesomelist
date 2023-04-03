@@ -6,6 +6,12 @@
 
 [ [Daily](/content/bvolpato/awesome-userscripts/README.md) / Weekly / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Scripts / YouTube
+
+*   [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts).
+
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
 ### Scripts / Brave Search

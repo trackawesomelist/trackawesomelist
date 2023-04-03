@@ -6,12 +6,17 @@ Community list of data & technology resources concerning the built environment a
 
 [ [Daily](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) / Weekly / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Platforms and Software Resources / Immersive Planning and Design Platforms
+
+*   [Unity](https://unity.com/) - A powerful and popular cross-platform game engine for creating 2D and 3D interactive experiences and games.
+
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
 ### Other Resources / Other Technology Resource Aggregators
 
 *   [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird.
-*
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -22,7 +27,7 @@ Community list of data & technology resources concerning the built environment a
 *   [Polycam](https://poly.cam/) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone's camera.
 *   [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
 *   [Spectracities](https://www.spectracities.com/) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.
-*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
+*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -62,7 +67,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / R
 
-*   [r5r (⭐130)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
+*   [r5r (⭐131)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
 
 ### Educational and Informational Resources / Podcasts
 
@@ -200,7 +205,7 @@ Community list of data & technology resources concerning the built environment a
 *   [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
 *   [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
 *   [UrbanSim (⭐424)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
-*   [Pybikes (⭐503)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+*   [Pybikes (⭐502)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 *   [Leafmap (⭐1.6k)](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 *   [Prettymaps (⭐9.3k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 *   [HerePy (⭐77)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
@@ -761,8 +766,8 @@ Community list of data & technology resources concerning the built environment a
 *   [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub (⭐177)](https://github.com/sharedstreets/sharedstreets-ref-system)
 *   [GTFS](https://developers.google.com/transit/gtfs) - The General Transit Feed Specification is a popular standard for describing transit systems.
 *   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways.
-*   [GBFS (⭐671)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-*   [MDS (⭐624)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+*   [GBFS (⭐673)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+*   [MDS (⭐627)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 *   [MTLFS (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 
 ### Planning Coding Resources / Python

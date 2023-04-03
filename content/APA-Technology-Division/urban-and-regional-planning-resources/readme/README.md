@@ -288,8 +288,8 @@ A collection of urban planning related data specifications and standards for use
 *   [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - This standard provides users transit data updates in real time greatly enhances their experience of transit services.
 *   [SIRI](https://www.transmodel-cen.eu/siri-standard/) - Service Interface for Real Time Information (SIRI) is a European standard for real-time information which has had limited adoption in the United States, but would be compatible with hardware and network systems which meet European standards.
 *   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways.
-*   [GBFS (⭐671)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-*   [MDS (⭐624)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+*   [GBFS (⭐673)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+*   [MDS (⭐627)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 *   [MTLFS (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 *   [GMNS (⭐81)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
@@ -313,7 +313,7 @@ Python Libraries & Related Resources.
 *   [UrbanSim (⭐424)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
 *   [Geosnap (⭐182)](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 *   [OSMnx (⭐4.1k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
-*   [Pybikes (⭐503)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+*   [Pybikes (⭐502)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 *   [Leafmap (⭐1.6k)](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 *   [Prettymaps (⭐9.3k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 *   [HerePy (⭐77)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
@@ -339,7 +339,7 @@ R Packages & Related Resources.
 *   [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns.
 *   [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections.
 *   [Rgee (⭐519)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
-*   [r5r (⭐130)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
+*   [r5r (⭐131)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
 *   [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - Provides a tidy approach to spatial network analysis.
 *   [Stars](https://cran.r-project.org/web/packages/stars/index.html) - Reading, manipulating, writing and plotting spatiotemporal arrays (raster and vector data cubes) in 'R'.
 *   [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes including OD data processing and other functions.
@@ -415,7 +415,8 @@ Software, tools, and platforms designed to create digital replicas of our world,
 *   [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
 *   [Spectracities](https://www.spectracities.com/) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.
 *   [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion is an easy to use real-time visualization software that creates offline renderer-quality images, animations, and panoramas, together with interactive 360° videos and VR presentations built on Unreal Engine.
-*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal 5 is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
+*   [Unity](https://unity.com/) - A powerful and popular cross-platform game engine for creating 2D and 3D interactive experiences and games.
+*   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
 
 ### Public Engagement Tools and Platforms
 
@@ -545,7 +546,6 @@ These are other aggregators that bring together different planning related tools
 *   [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application.
 *   [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
 *   [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird.
-*
 
 ***
 

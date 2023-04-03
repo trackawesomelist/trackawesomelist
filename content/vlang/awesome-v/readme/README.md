@@ -123,7 +123,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Package managers
 
-*   [vpm (⭐31)](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
+*   [vpm (⭐79)](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
 ### Project management
 
@@ -206,7 +206,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [V Earcut (⭐11)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.9k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 *   [vgl (⭐25)](https://github.com/justicesuh/vgl) - Low-level graphics API access.
-*   [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 *   [viup (⭐39)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 *   [vsdl2 (⭐43)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 *   [vsdl (⭐12)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
@@ -288,7 +287,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [v-jsonrpc (⭐32)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 *   [vweb (⭐33k)](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 *   [vxbloauth (⭐8)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
-*   [v-tiktok (⭐3)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
+*   [v-tiktok (⭐6)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
 ## Other
 

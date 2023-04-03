@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ [Daily](/content/vlang/awesome-v/README.md) / Weekly / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Package managers
+
+*   [vpm (⭐79)](https://github.com/vlang/vpm) - The V language package management tool written in V.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Command line interface (CLI) / Terminal / Shell
@@ -16,7 +22,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Web
 
-*   [v-tiktok (⭐3)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
+*   [v-tiktok (⭐6)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
 ### Patterns / IntelliJ & CLion & GoLand etc
 
@@ -180,10 +186,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [Vinix (⭐1.6k)](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
 
-### Package managers
-
-*   [vpm (⭐31)](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
-
 ### Project management
 
 *   [Lenra template (⭐2)](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
@@ -255,7 +257,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [V Earcut (⭐11)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.9k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 *   [vgl (⭐25)](https://github.com/justicesuh/vgl) - Low-level graphics API access.
-*   [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 *   [viup (⭐39)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 *   [vsdl2 (⭐43)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 *   [vsdl (⭐12)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
