@@ -6,6 +6,13 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Apr 04, 2023](/content/2023/04/04/README.md)
+
+### Software / Log Management
+
+*   [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code (⭐12k)](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
+*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐16k)](https://github.com/allinurl/goaccess)) `MIT` `C`
+
 ## [Mar 29, 2023](/content/2023/03/29/README.md)
 
 ### Software / Identity Management - LDAP
@@ -246,7 +253,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Log Management
 
-*   [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
+*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐19k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 
 ## [Nov 15, 2021](/content/2021/11/15/README.md)
 
@@ -451,12 +458,6 @@ A curated list of amazingly awesome open source sysadmin resources.
 ### Software / VPN
 
 *   [sshuttle (⭐9.7k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
-
-## [Feb 01, 2018](/content/2018/02/01/README.md)
-
-### Software / Log Management
-
-*   [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 
 ## [Jan 28, 2018](/content/2018/01/28/README.md)
 
@@ -663,14 +664,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Log Management
 
-*   [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
-*   [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
-*   [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-*   [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐16k)](https://github.com/allinurl/goaccess)) `MIT` `C`
-*   [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
-*   [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
-*   [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-*   [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+*   [Flume](https://flume.apache.org/) - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Source Code (⭐2.4k)](https://github.com/apache/flume)) `Apache-2.0` `Java`
 
 ### Software / Mail Clients
 

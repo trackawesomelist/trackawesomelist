@@ -2,21 +2,27 @@
 
 A curated list of awesome things related to Directus
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/directus-community/awesome-directus/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 directus-community/awesome-directus](https://github.com/directus-community/awesome-directus) · ⭐ 224 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/directus-community/awesome-directus/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 directus-community/awesome-directus](https://github.com/directus-community/awesome-directus) · ⭐ 235 · 🏷️ Content Management Systems
 
 [ Daily / [Weekly](/content/directus-community/awesome-directus/week/README.md) / [Overview](/content/directus-community/awesome-directus/readme/README.md) ]
+
+## [Apr 04, 2023](/content/2023/04/04/README.md)
+
+### Extensions
+
+*   [Field Actions (⭐34)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 
 ## [Mar 16, 2023](/content/2023/03/16/README.md)
 
 ### Integration
 
-*   [cool-stack (⭐6)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
+*   [cool-stack (⭐10)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
 
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
 ### Integration
 
-*   [Nuxt Directus (⭐137)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
+*   [Nuxt Directus (⭐143)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
 
 ### Extensions
 
@@ -38,7 +44,7 @@ A curated list of awesome things related to Directus
 
 ### Tools
 
-*   [directus-auto-migrate (⭐44)](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
+*   [directus-auto-migrate (⭐45)](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
 
 ## [Aug 24, 2022](/content/2022/08/24/README.md)
 
@@ -56,13 +62,13 @@ A curated list of awesome things related to Directus
 
 ### Extensions
 
-*   [Cloudinary Upload Interface (⭐7)](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
+*   [Cloudinary Upload Interface (⭐8)](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
 
 ## [Jun 02, 2022](/content/2022/06/02/README.md)
 
 ### Examples / Showcases
 
-*   [Official Examples (⭐171)](https://github.com/directus/examples) - Integration examples with Directus.
+*   [Official Examples (⭐180)](https://github.com/directus/examples) - Integration examples with Directus.
 
 ## [May 09, 2022](/content/2022/05/09/README.md)
 
@@ -74,7 +80,7 @@ A curated list of awesome things related to Directus
 
 ### Integration
 
-*   [Lite SDK (TypeScript) (⭐13)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
+*   [Lite SDK (TypeScript) (⭐15)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
 
 ## [Apr 11, 2022](/content/2022/04/11/README.md)
 
@@ -103,23 +109,23 @@ A curated list of awesome things related to Directus
 
 ### Extensions
 
-*   [Search Sync (⭐84)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+*   [Search Sync (⭐88)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
 *   [Dictionary (⭐24)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
-*   [WordPress-like Slug (⭐61)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+*   [WordPress-like Slug (⭐64)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
 *   [Link Meta (⭐20)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
-*   [Group Modal (⭐39)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
-*   [Display Link (⭐40)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+*   [Group Modal (⭐40)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+*   [Display Link (⭐41)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
 *   [SQL Panel (⭐15)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
-*   [Websocket Subscribe (⭐82)](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket.
-*   [SVG Map Picker Interface (⭐21)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
+*   [Websocket Subscribe (⭐85)](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket.
+*   [SVG Map Picker Interface (⭐22)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 *   [SES (⭐4)](https://github.com/ryntab/Directus-SES) - An extension for sending emails with AWS SES.
 
 ## [Nov 25, 2021](/content/2021/11/25/README.md)
 
 ### Extensions
 
-*   [Image Scout (⭐81)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
-*   [Date Picker Interface (⭐9)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
+*   [Image Scout (⭐82)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+*   [Date Picker Interface (⭐10)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
 
 ## [Nov 08, 2021](/content/2021/11/08/README.md)
 
@@ -155,7 +161,7 @@ A curated list of awesome things related to Directus
 
 *   [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
 *   [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
-*   [react-directus (⭐56)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
+*   [react-directus (⭐55)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
 ## [Jun 13, 2021](/content/2021/06/13/README.md)
 
