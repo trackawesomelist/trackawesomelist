@@ -8,9 +8,64 @@ A curated list of awesome developer-first tools products.
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
+### Authentication & Identity
+
+*   [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
+
+### Code Quality
+
+*   [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
+
+### Computer Vision
+
+*   [Clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
+*   [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
+
 ### Databases & Spreadsheets
 
 *   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+*   [Upstash](https://upstash.com/) - Serverless tailored redis provider.
+
+### Deployment Hosting
+
+*   [Cyclic.sh](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
+
+### Documentation
+
+*   [ReadMe](https://readme.com/) - Personalized and dynamic developer docs.
+*   [Swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
+
+### Feature Flags
+
+*   [Split](https://www.split.io/) - Feature flags platform with data analytics.
+
+### GEO
+
+*   [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+
+### Messaging
+
+*   [Stream](https://getstream.io/) - Feed and chat as a service.
+
+### Payments & Pricing
+
+*   [Stigg](https://www.stigg.io) - API-first pricing plans.
+
+### Repo
+
+*   [Cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
+
+### Scraping
+
+*   [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
+
+### Search
+
+*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
+
+### Shipping
+
+*   [EasyPost](https://www.easypost.com/) - Shipping APIs for e-commerce.
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
@@ -26,10 +81,6 @@ A curated list of awesome developer-first tools products.
 
 *   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
 *   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
-
-### Payments & Pricing
-
-*   [stigg](https://www.stigg.io) - API-first pricing plans.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
@@ -86,10 +137,6 @@ A curated list of awesome developer-first tools products.
 
 *   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 
-### Databases & Spreadsheets
-
-*   [upstash](https://upstash.com/) - Serverless tailored redis provider.
-
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### CI/CD
@@ -107,7 +154,6 @@ A curated list of awesome developer-first tools products.
 ### Deployment Hosting
 
 *   [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
-*   [cyclic](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
 *   [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
@@ -121,12 +167,6 @@ A curated list of awesome developer-first tools products.
 ### Reports Generation
 
 *   [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
-
-## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
-
-### Authentication & Identity
-
-*   [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
@@ -202,27 +242,16 @@ A curated list of awesome developer-first tools products.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
-### Computer Vision
-
-*   [roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
-
 ### Feature Flags
 
 *   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 *   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
-*   [split](https://www.split.io/) - Feature flags platform with data analytics.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
 ### Misc
 
 *   [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
-
-## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
-
-### Search
-
-*   [typesense cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
@@ -239,10 +268,6 @@ A curated list of awesome developer-first tools products.
 ### Databases & Spreadsheets
 
 *   [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
-
-### Documentation
-
-*   [swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 
 ## [Nov 15 - Nov 21, 2021](/content/2021/46/README.md)
 
@@ -320,7 +345,6 @@ A curated list of awesome developer-first tools products.
 ### Documentation
 
 *   [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
-*   [readme](https://readme.com/) - Personalized and dynamic developer docs.
 
 ### Environment & Secret Management
 
@@ -350,12 +374,6 @@ A curated list of awesome developer-first tools products.
 
 *   [Blackfire.io](https://blackfire.io/) - Performance testing.
 
-## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
-
-### Scraping
-
-*   [proxycrawl](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
-
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 
 ### Analytics
@@ -373,7 +391,6 @@ A curated list of awesome developer-first tools products.
 
 ### Computer Vision
 
-*   [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 *   [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 *   [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 
@@ -412,7 +429,6 @@ A curated list of awesome developer-first tools products.
 ### Messaging
 
 *   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
-*   [stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 
@@ -435,19 +451,11 @@ A curated list of awesome developer-first tools products.
 *   [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 *   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 
-### Repo
-
-*   [cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
-
 ### Scraping
 
 *   [Apify](https://apify.com/) - Turn websites to an API.
 *   [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 *   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
-
-### Shipping
-
-*   [easypost](https://www.easypost.com/) - Shipping APIs for e-commerce.
 
 ### Testing
 
@@ -495,10 +503,6 @@ A curated list of awesome developer-first tools products.
 
 *   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 
-### Code Quality
-
-*   [sonarsource](https://www.sonarsource.com/) - Lint and code quality checks.
-
 ### Testing
 
 *   [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
@@ -517,7 +521,6 @@ A curated list of awesome developer-first tools products.
 
 ### GEO
 
-*   [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
 *   [Radar](https://radar.io/) - Geofencing and geo APIs.
 
 ### Localization

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Apr 04, 2023](/content/2023/04/04/README.md)
+
+### Other Development Tools / Smart Contracts
+
+*   [TEALScript (⭐21)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+
 ## [Apr 01, 2023](/content/2023/04/01/README.md)
 
 ### NFT Marketplaces / Wallets

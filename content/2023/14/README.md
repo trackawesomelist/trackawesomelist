@@ -1,12 +1,39 @@
 # Awesome List Updates on Apr 03 - Apr 09, 2023
 
-25 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [1. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+
+### Audio Related Packages / Feature extraction
+
+*   [audioFlux (⭐1.4k)](https://github.com/libAudioFlux/audioFlux) [:octocat: (⭐1.4k)](https://github.com/libAudioFlux/audioFlux) [:package:](https://pypi.python.org/pypi/audioflux) - A library for audio and music analysis, feature extraction.
+
+## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Videos / Others
+
+*   [ASP.NET Community Standup - Blazor App Testing with Playwright](https://www.youtube.com/watch?v=lJa3YlUliEs) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 23, 2023 - March 14, 2023 - Learn how to use Playwright to implement end-to-end testing for your Blazor application. [Community links](https://www.theurlist.com/blazor-standup-2023-03-14).
+
+### Articles / Others
+
+*   [How to Build Fast and Reusable Blazor Code](https://visualstudiomagazine.com/articles/2023/04/03/blazor-qa.aspx) - April 3, 2023 - Microsoft even offers a Build reusable components with Blazor learning module that shows how to build a Razor class library that contains Blazor components, package a Razor class library for use in other Blazor applications, and reference a Razor class library in a Blazor application and use its components. Author: Jeffrey T. Fritz.
+
+### Podcasts / Others
+
+*   [Chris Sainty: Blazor in Action - Azure DevOps Episode 238](http://azuredevopspodcast.clear-measure.com/chris-sainty-blazor-in-action-episode-238) - March 27, 2023 - Chris is a Microsoft MVP, author, and software engineer with over 17 years of experience with ASP.NET. Passionate about sharing his knowledge with the community, he regularly writes both for his own blog as well as others — such as Visual Studio magazine, Progress Telerik, and StackOverflow. This passion for blogging led to his first book, Blazor in Action, a practical guide to building Blazor applications. He also maintains several popular open-source projects under the GitHub organization, Blazored. When not tapping on a keyboard, Chris is a keen speaker, having delivered talks at both user groups and conferences all over the world. Duration: 41 minutes.
+*   [.NET Rocks - Blazor United with Javier Nelson and Steve Sanderson](https://www.dotnetrocks.com/details/1838) - March 23, 2023 - What if you didn't have to choose between client-side and server-side Blazor? Carl and Richard talk to Javier Nelson and Steve Sanderson about Blazor United in its early stages of development, providing flexibility at the web component level for client- and server-side rendering. At the simplest level, Blazor United offers server-side rendering when a site is first hit so that you can load the larger client-side components over time. But deeper is the idea that some elements on your web page benefit from being client-side, and some from being server-side, and why should you have to choose only one? Duration: 53 minutes.
+
+## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+
+### Other Development Tools / Smart Contracts
+
+*   [TEALScript (⭐21)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+
+## [4. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -22,7 +49,7 @@
 *   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://dl.acm.org/doi/10.1145/3422337.3447848) (April 2021)  :star:
 *   :newspaper: [WYSINWYX: What you see is not what you execute](https://dl.acm.org/doi/10.1145/1749608.1749612) (August 2010)
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
@@ -36,56 +63,68 @@
 
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
-## [3. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Tools centered around equations
 
 *   [pix2tex](https://lukas-blecher.github.io/LaTeX-OCR/) - LaTeX OCR ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [7. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Blogs - Security / React
 
 *   [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [Spaceman (⭐218)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 
-## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Log Management
 
 *   [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code (⭐12k)](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
 *   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐16k)](https://github.com/allinurl/goaccess)) `MIT` `C`
 
-## [7. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [10. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions
 
 *   [Field Actions (⭐34)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [11. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
 *   [Running Polars code distributedly](https://fugue-tutorials.readthedocs.io/tutorials/integrations/backends/polars.html#) - A page that explains how to rung Polars code distributedly with Fugue by [@fugue-project](https://github.com/fugue-project).
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+### Resources / Blog posts
+
+*   [7 Easy Steps To Switch From Pandas to Lightning Fast Polars And Never Return ](https://towardsdatascience.com/7-easy-steps-to-switch-from-pandas-to-lightning-fast-polars-and-never-return-b14c66fc85b9) - A cheat sheet blog post of the most common Pandas operations translated into Polars by [@BexTuychiev](https://github.com/BexTuychiev).
+
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
 *   [#rust-embedded-space:matrix.org](https://matrix.to/#/#rust-embedded-space:matrix.org) Most Embedded Rust related Matrix rooms are in the Rust Embedded Space
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Reading and Writing Tools / Note-taking
+
+*   [VNote](https://app.vnote.fun/) - A Qt-based application designed to provide a pleasant note-taking platform with excellent editing experience. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vnotex/vnote/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Developer Tools / Developer Utilities
+
+*   [ImHex](https://imhex.werwolv.net/) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/WerWolv/ImHex/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -96,13 +135,13 @@
 *   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sveinbjornt/Sloth/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [SwiftQuit (⭐97)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onebadidea/swiftquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [15. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [themerdev/themer (⭐5.1k)](https://github.com/themerdev/themer#readme) - Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise install and usage sections, including common workflows. Colorful previews.
 
-## [13. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [16. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
@@ -126,7 +165,7 @@
 *   [React Conferences](https://react.dev/community/conferences)
 *   [React Videos](https://react.dev/community/videos)
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [17. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -140,43 +179,98 @@
 
 *   [django-vite-plugin (⭐2)](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
-## [15. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [18. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### History / Cloud providers
 
 *   “Larry Page went to U of M and used the Michigan Terminal System. (…) when Google was working on App Engine, Page took inspiration from MTS and would exhort engineers to follow its example. (…) when I look at my AWS and GCP bills now, it feels very familiar!” ([source](https://news.ycombinator.com/item?id=35123587)) - The direct filiation between old-school university mainframes and current cloud services.
 
-## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Authentication & Identity
+
+*   [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
+
+### Code Quality
+
+*   [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
+
+### Computer Vision
+
+*   [Clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
+*   [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
 
 ### Databases & Spreadsheets
 
 *   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+*   [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
-## [17. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+### Deployment Hosting
+
+*   [Cyclic.sh](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
+
+### Documentation
+
+*   [ReadMe](https://readme.com/) - Personalized and dynamic developer docs.
+*   [Swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
+
+### Feature Flags
+
+*   [Split](https://www.split.io/) - Feature flags platform with data analytics.
+
+### GEO
+
+*   [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+
+### Messaging
+
+*   [Stream](https://getstream.io/) - Feed and chat as a service.
+
+### Payments & Pricing
+
+*   [Stigg](https://www.stigg.io) - API-first pricing plans.
+
+### Repo
+
+*   [Cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
+
+### Scraping
+
+*   [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
+
+### Search
+
+*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
+
+### Shipping
+
+*   [EasyPost](https://www.easypost.com/) - Shipping APIs for e-commerce.
+
+## [20. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Database
 
 *   [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
 
-## [18. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [21. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / CLI tools
 
 *   [dctl (⭐7)](https://github.com/FabienD/docker-stack) - dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more. By [FabienD](https://github.com/FabienD)
 
-## [19. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [22. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Package managers
 
 *   [vpm (⭐79)](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
-## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [23. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Markup Languages
 
 *   [htmlyaml (⭐1)](https://github.com/nikolaydubina/htmlyaml) -  Rich rendering of YAML as HTML in Go
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Build tools
 
@@ -203,20 +297,20 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [22. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [25. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
 *   [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts).
 *   [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a Youtube link from almost any website.
 
-## [23. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Immersive Planning and Design Platforms
 
 *   [Unity](https://unity.com/) - A powerful and popular cross-platform game engine for creating 2D and 3D interactive experiences and games.
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -226,7 +320,7 @@
 
 *   [point.poker](https://www.point.poker/) - Online Planning Poker (consensus-based estimation tool). Free for unlimited users, teams, sessions, rounds and votes. No registration required.
 
-## [25. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [28. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

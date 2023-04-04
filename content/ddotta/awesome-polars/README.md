@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Apr 04, 2023](/content/2023/04/04/README.md)
+
+### Resources / Blog posts
+
+*   [7 Easy Steps To Switch From Pandas to Lightning Fast Polars And Never Return ](https://towardsdatascience.com/7-easy-steps-to-switch-from-pandas-to-lightning-fast-polars-and-never-return-b14c66fc85b9) - A cheat sheet blog post of the most common Pandas operations translated into Polars by [@BexTuychiev](https://github.com/BexTuychiev).
+
 ## [Apr 03, 2023](/content/2023/04/03/README.md)
 
 ### Resources / Tutorials & workshops

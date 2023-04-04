@@ -12,6 +12,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [Running Polars code distributedly](https://fugue-tutorials.readthedocs.io/tutorials/integrations/backends/polars.html#) - A page that explains how to rung Polars code distributedly with Fugue by [@fugue-project](https://github.com/fugue-project).
 
+### Resources / Blog posts
+
+*   [7 Easy Steps To Switch From Pandas to Lightning Fast Polars And Never Return ](https://towardsdatascience.com/7-easy-steps-to-switch-from-pandas-to-lightning-fast-polars-and-never-return-b14c66fc85b9) - A cheat sheet blog post of the most common Pandas operations translated into Polars by [@BexTuychiev](https://github.com/BexTuychiev).
+
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
 ### Libraries/Packages/Scripts / Python
