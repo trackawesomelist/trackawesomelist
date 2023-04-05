@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 05, 2023](/content/2023/04/05/README.md)
+
+### APIs, Data and ML
+
+*   [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. 10000 free requests/month.
+
+### Tools for Teams and Collaboration
+
+*   [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
+
 ## [Apr 03, 2023](/content/2023/04/03/README.md)
 
 ### Tools for Teams and Collaboration

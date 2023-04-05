@@ -8,6 +8,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
+### The Generative AI Area: history, maps, and definitions
+
+*   [AI Index Report 2023 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/): report that measures trends in AI written by the Human-Centered Artificial Intelligence from Stanford University
+*   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): paper that summarizes the evolution of language models, with a focus on LLMs, discussing their advances, techniques, and impact on AI development and usage
+
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
 *   [Haystack (⭐7.7k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)

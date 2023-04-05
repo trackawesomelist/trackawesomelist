@@ -8,9 +8,17 @@ Community list of data & technology resources concerning the built environment a
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
+### Planning Coding Resources / Python
+
+*   [Gleam (⭐238)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
+
 ### Platforms and Software Resources / Immersive Planning and Design Platforms
 
 *   [Unity](https://unity.com/) - A powerful and popular cross-platform game engine for creating 2D and 3D interactive experiences and games.
+
+### Other Resources / Other GitHub Resource Lists
+
+*   [ai-collection (⭐2.5k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 

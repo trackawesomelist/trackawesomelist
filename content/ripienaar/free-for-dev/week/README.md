@@ -8,8 +8,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
+### APIs, Data and ML
+
+*   [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. 10000 free requests/month.
+
 ### Tools for Teams and Collaboration
 
+*   [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
 *   [Webvizio](https://webvizio.com) — Website feedback tool, website review software, and bug reporting tool for streamlining web development collaboration on tasks directly on live websites and web apps, images, PDFs, and design files.
 
 ### Issue Tracking and Project Management

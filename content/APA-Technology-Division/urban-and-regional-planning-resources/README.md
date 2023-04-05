@@ -6,6 +6,16 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Apr 05, 2023](/content/2023/04/05/README.md)
+
+### Planning Coding Resources / Python
+
+*   [Gleam (⭐238)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
+
+### Other Resources / Other GitHub Resource Lists
+
+*   [ai-collection (⭐2.5k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
+
 ## [Apr 03, 2023](/content/2023/04/03/README.md)
 
 ### Platforms and Software Resources / Immersive Planning and Design Platforms
