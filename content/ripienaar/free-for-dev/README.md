@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
 
+### Search
+
+*   [Meilisearch](https://www.meilisearch.com/) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. Free plan includes 100K documents and 10K searches/month.
+
 ## [Apr 03, 2023](/content/2023/04/03/README.md)
 
 ### Tools for Teams and Collaboration

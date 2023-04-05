@@ -12,11 +12,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [htmlyaml (⭐1)](https://github.com/nikolaydubina/htmlyaml) -  Rich rendering of YAML as HTML in Go
 
+### Utilities
+
+*   [just (⭐16)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Utilities
 
-*   [contextplus (⭐16)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
+*   [contextplus (⭐17)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -3277,12 +3281,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [apicompat (⭐176)](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 *   [ChainJacking (⭐38)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
-*   [dupl (⭐303)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [dupl (⭐304)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐127)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐708)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
-*   [go-critic (⭐1.5k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
+*   [go-critic (⭐1.6k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
 *   [go-mod-outdated (⭐616)](https://github.com/psampaz/go-mod-outdated) - An easy way to find outdated dependencies of your Go projects.
 *   [go-outdated (⭐44)](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
 *   [goast-viewer (⭐692)](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
@@ -3299,8 +3303,8 @@ A curated list of awesome Go frameworks, libraries and software
 *   [staticcheck (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tarp (⭐16)](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 *   [tickgit (⭐304)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐394)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐344)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐393)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐347)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [unused (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 *   [validate (⭐60)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 

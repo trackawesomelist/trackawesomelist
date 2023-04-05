@@ -2552,7 +2552,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [clockwork (⭐444)](https://github.com/jonboulle/clockwork) - A simple fake clock for golang.
 *   [cmd (⭐125)](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
 *   [command (⭐14)](https://github.com/txgruppi/command) - Command pattern for Go with thread safe serial and parallel dispatcher.
-*   [contextplus (⭐16)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
+*   [contextplus (⭐17)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
 *   [copy (⭐28)](https://github.com/gotidy/copy) - Package for fast copying structs of different types.
 *   [copy-pasta (⭐50)](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
 *   [countries (⭐230)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
@@ -2626,6 +2626,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [intrinsic (⭐45)](https://github.com/mengzhuo/intrinsic) - Use x86 SIMD without writing any assembly code.
 *   [jsend (⭐19)](https://github.com/clevergo/jsend) - JSend's implementation written in Go.
 *   [jump (⭐1.6k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits.
+*   [just (⭐16)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 *   [koazee (⭐514)](https://github.com/wesovilabs/koazee) - Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.
 *   [lancet (⭐2.2k)](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 *   [lets-go (⭐5)](https://github.com/aplescia-chwy/lets-go) - Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
@@ -2951,12 +2952,12 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [apicompat (⭐176)](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 *   [asty (⭐42)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 *   [ChainJacking (⭐38)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
-*   [dupl (⭐303)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [dupl (⭐304)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐127)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐708)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
-*   [go-critic (⭐1.5k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
+*   [go-critic (⭐1.6k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
 *   [go-mod-outdated (⭐616)](https://github.com/psampaz/go-mod-outdated) - An easy way to find outdated dependencies of your Go projects.
 *   [go-outdated (⭐44)](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
 *   [goast-viewer (⭐692)](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
@@ -2973,8 +2974,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [staticcheck (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tarp (⭐16)](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 *   [tickgit (⭐304)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐394)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐344)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐393)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐347)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [unused (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 *   [usestdlibvars (⭐38)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 *   [validate (⭐60)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
