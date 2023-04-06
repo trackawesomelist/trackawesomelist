@@ -1,12 +1,44 @@
 # Awesome List Updates on Apr 06, 2023
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+
+### Text and Numbers
+
+*   [namor (⭐5)](https://github.com/jsonmaur/namor.ex) - A name generator that creates random, url-friendly slugs.
+
+## [2. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Slides & Web Design
+
+- Name: [STORYD](https://www.storyd.ai)
+
+  Title: Data Presentations Leaders Love.
+
+  Description: Helps professionals quickly and easily create data-driven business presentations.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Other
+
+- Name: [PromptExplained](https://promptexplained.com/)
+
+  Title: Website That Helps Users Master Prompts Engineering Through Insights, Techniques, and Tips for Customizing AI Prompts.
+
+  Description: Elevate Your AI Experience with Easy-to-Follow Guides on Prompt Customization for ChatGPT, Dall-e, Stable Diffusion and MidJourney for Enhanced Conversations, Striking Visuals, and Limitless Creativity Across Applications.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Files/Images
 
@@ -16,7 +48,7 @@
 
 *   [django-simple-history (⭐1.8k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Browsers / File Sharing
 
@@ -26,20 +58,20 @@
 
 *   [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Jigsaw-Code) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Courses and Educational Materials / Deforum
 
 *   [Practical Deep Learning for Coders 2023 - Part II](https://www.youtube.com/watch?v=_7rMfsA24Ls\&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): continuation of the course focusing on the implementation of Stable Diffusion from scratch.
 *   [Practical Deep Learning for Coders 2022 - Part I](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU): "free course designed for people with some coding experience who want to learn how to apply deep learning and machine learning to practical problems" by Jeremy Howard
 
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Courses
 
 *   [3D Computer Graphics Programming](https://pikuma.com/courses/learn-3d-computer-graphics-programming) - Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language
 
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Libraries / C++
 

@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ [Daily](/content/h4cc/awesome-elixir/README.md) / Weekly / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Text and Numbers
+
+*   [namor (⭐5)](https://github.com/jsonmaur/namor.ex) - A name generator that creates random, url-friendly slugs.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Applications
@@ -336,7 +342,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Editors
 
-*   [mix.nvim (⭐25)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐26)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -3430,7 +3436,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Natural Language Processing (NLP)
 
-*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐157)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
+*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐158)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 
 ## [Oct 19 - Oct 25, 2015](/content/2015/42/README.md)
 

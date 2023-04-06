@@ -6,26 +6,52 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Apr 06, 2023](/content/2023/04/06/README.md)
+
+### Slides & Web Design
+
+- Name: [STORYD](https://www.storyd.ai)
+
+  Title: Data Presentations Leaders Love.
+
+  Description: Helps professionals quickly and easily create data-driven business presentations.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Other
+
+- Name: [PromptExplained](https://promptexplained.com/)
+
+  Title: Website That Helps Users Master Prompts Engineering Through Insights, Techniques, and Tips for Customizing AI Prompts.
+
+  Description: Elevate Your AI Experience with Easy-to-Follow Guides on Prompt Customization for ChatGPT, Dall-e, Stable Diffusion and MidJourney for Enhanced Conversations, Striking Visuals, and Limitless Creativity Across Applications.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Mar 30, 2023](/content/2023/03/30/README.md)
 
 ### Photo & Image Editing
 
 - Name: [Blend](https://www.blendnow.com/)
 
-  Title: Stunning product visuals in seconds with AI
+  Title: Stunning Product Visuals in Seconds With AI.
 
   Description: Everything you need to create stunning visuals for your products - in seconds! Teleport your products to professional-grade AI-generated backgrounds. Get 1000s of customizable templates with an intuitive editor.
 
-  Offer Free Version: :white\_tick:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Blend Studio](https://www.delete.bg/aistudio)
 
-  Title: Text-to-Image AI Background Generator
+  Title: Text-to-Image AI Background Generator.
 
   Description: Create beautiful high-quality photos for your products with AI-generated background scenes based on your description.
 
-  Offer Free Version: :white\_tick:
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -35,7 +61,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Deploy Prompt](https://deployprompt.com/)
 
-  Title: Create and share resuable prompts
+  Title: Create and Share Resuable Prompts.
 
   Description: Test your prompt ideas then record, share, and iterate on responses. Deploy with No Code, to your App, as an API, or as a ChatGPT Plugin, and more. It's the fastest way to get your prompt-driven application live in production.
 
@@ -49,7 +75,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Cratecode](https://cratecode.com/)
 
-  Title: Cratecode - Learn to Code for Free
+  Title: Cratecode - Learn to Code for Free.
 
   Description: Learn to code through online lessons and a powerful AI assistant! The assistant can analyze your code, nudge you in the right direction, and write articles for simple topics.
 
@@ -66,20 +92,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Make Tasks Disappear. Like Magic.
 
   Description: Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [Mar 14, 2023](/content/2023/03/14/README.md)
-
-### Slides & Web Design
-
-- Name: [STORYD](http://www.storyd.ai)
-
-  Title: Data Presentations Leaders Love
-
-  Description: Helps professionals quickly and easily create data-driven business presentations.
 
   Offer Free Version: :white\_check\_mark:
 

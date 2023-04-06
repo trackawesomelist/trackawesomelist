@@ -1217,7 +1217,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *Tools and libraries that work with human (natural) languages.*
 
-*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐157)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
+*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐158)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 *   [Paasaa (⭐104)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 *   [Petrovich (⭐38)](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
 *   [Tongue (⭐17)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
@@ -1669,6 +1669,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [monetized (⭐46)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 *   [money (⭐714)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 *   [mt940 (⭐8)](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
+*   [namor (⭐5)](https://github.com/jsonmaur/namor.ex) - A name generator that creates random, url-friendly slugs.
 *   [nanoid (⭐186)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 *   [near\_api (⭐9)](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) API in Elixir - a library for DApps development on the NEAR blockchain platform.
 *   [neotomex (⭐67)](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
@@ -2005,7 +2006,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *   [ilexir (⭐8)](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
 *   [intellij\_elixir (⭐3)](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.
 *   [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
-*   [mix.nvim (⭐25)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
+*   [mix.nvim (⭐26)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 *   [Nova Elixir (⭐8)](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 *   [nvim (⭐23)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
