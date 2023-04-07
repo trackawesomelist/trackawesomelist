@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Apr 07, 2023](/content/2023/04/07/README.md)
 
+### Applications / Operating systems
+
+*   [Andy-Python-Programmer/aero (⭐660)](https://github.com/Andy-Python-Programmer/aero) — A modern, unix-like operating system following the monolithic kernel design.
+
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)

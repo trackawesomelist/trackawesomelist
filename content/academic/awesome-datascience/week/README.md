@@ -8,6 +8,10 @@
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
+### Books / Visualization Tools
+
+*   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
+
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)

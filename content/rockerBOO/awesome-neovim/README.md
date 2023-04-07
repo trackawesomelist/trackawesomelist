@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 07, 2023](/content/2023/04/07/README.md)
+
+### Statusline / Diagnostics
+
+*   [freddiehaddad/feline.nvim (⭐98)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
 ### Scrollbar / Diagnostics
@@ -808,7 +814,6 @@ Collections of awesome neovim plugins.
 *   [ojroques/nvim-hardline (⭐154)](https://github.com/ojroques/nvim-hardline) - A statusline / bufferline. It is inspired by [vim-airline (⭐17k)](https://github.com/vim-airline/vim-airline) but aims to be as light and simple as possible.
 *   [beauwilliams/statusline.lua (⭐161)](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline written in Lua featuring awesome integrations and blazing speed!
 *   [tamton-aquib/staline.nvim (⭐231)](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline in Lua. Mainly uses unicode symbols for showing info.
-*   [feline-nvim/feline.nvim (⭐1k)](https://github.com/feline-nvim/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 *   [windwp/windline.nvim (⭐382)](https://github.com/windwp/windline.nvim) - The next generation statusline. Animation statusline.
 *   [konapun/vacuumline.nvim (⭐27)](https://github.com/konapun/vacuumline.nvim) - A galaxyline configuration inspired by airline.
 *   [echasnovski/mini.nvim#mini.statusline (⭐2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-statusline.md) - Module of `mini.nvim` for minimal and fast statusline. Supports content change depending on window width.

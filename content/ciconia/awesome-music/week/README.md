@@ -6,6 +6,12 @@ Awesome Music Projects
 
 [ [Daily](/content/ciconia/awesome-music/README.md) / Weekly / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Audio Editing
+
+*   [Stargate DAW (⭐350)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Music Programming
@@ -16,7 +22,7 @@ Awesome Music Projects
 
 ### Audio Libraries
 
-*   [audioFlux (⭐392)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐1.4k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
@@ -94,7 +100,7 @@ Awesome Music Projects
 
 ### Audio Tools
 
-*   [matchering (⭐865)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+*   [matchering (⭐881)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -151,7 +157,7 @@ Awesome Music Projects
 
 ### Audio Tools
 
-*   [fre:ac (⭐984)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+*   [fre:ac (⭐1k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐9)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
 *   [K3b (⭐103)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [lltag (⭐28)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
@@ -177,8 +183,8 @@ Awesome Music Projects
 ### Related lists
 
 *   [Awesome Audio Visualization (⭐4.2k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-*   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐907)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome Python for Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
+*   [Awesome WebAudio (⭐918)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ## [Jan 15 - Jan 21, 2018](/content/2018/3/README.md)
 
@@ -282,11 +288,11 @@ Awesome Music Projects
 
 ### Audio Editing
 
-*   [Audacity (⭐9.1k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+*   [Audacity (⭐9.2k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 
 ### Audio Libraries
 
-*   [howler.js (⭐21k)](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
+*   [howler.js (⭐22k)](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
 *   [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
 *   [midi.js (⭐3.6k)](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
 *   [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
@@ -325,7 +331,7 @@ Awesome Music Projects
 *   [Lydown (⭐23)](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 *   [MuseScore (⭐9.3k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐532)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐538)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.5k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming

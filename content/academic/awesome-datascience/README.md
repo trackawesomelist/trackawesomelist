@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 07, 2023](/content/2023/04/07/README.md)
+
+### Books / Visualization Tools
+
+*   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
+
 ## [Apr 04, 2023](/content/2023/04/04/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍

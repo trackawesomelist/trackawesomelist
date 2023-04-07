@@ -31,16 +31,17 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 
 ## Audio Editing
 
-*   [Audacity (⭐9.1k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+*   [Audacity (⭐9.2k)](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 *   [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 *   [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
+*   [Stargate DAW (⭐350)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## Audio Libraries
 
 *   [audio.js (⭐2.1k)](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's \<audio> tag to be used anywhere.
-*   [audioFlux (⭐392)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐1.4k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 *   [chord-mark (⭐17)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
-*   [howler.js (⭐21k)](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
+*   [howler.js (⭐22k)](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
 *   [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
 *   [Librosa (⭐5.8k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 *   [midi.js (⭐3.6k)](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
@@ -54,13 +55,13 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 *   [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 *   [Cecilia (⭐158)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 *   [cyanrip (⭐114)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
-*   [fre:ac (⭐984)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+*   [fre:ac (⭐1k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐9)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
 *   [K3b (⭐103)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [Koel (⭐15k)](https://github.com/phanan/koel) - an open-source personal audio streaming server.
 *   [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 *   [lltag (⭐28)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
-*   [matchering (⭐865)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+*   [matchering (⭐881)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 *   [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 *   [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
 *   [Rubyripper (⭐107)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
@@ -116,7 +117,7 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 *   [Tbon (⭐12)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 *   [Tunefl (⭐22)](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 *   [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
-*   [Verovio (⭐532)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Verovio (⭐538)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 *   [Vexflow (⭐3.5k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ## Music Programming
@@ -171,9 +172,9 @@ Thanks to all [contributors (⭐1.4k)](https://github.com/ciconia/awesome-music/
 *   [Awesome Audio Visualization (⭐4.2k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Music Listening (⭐94)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
 *   [Awesome Music Production (⭐671)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
-*   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
+*   [Awesome Python for Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
 *   [Awesome sheet music (⭐578)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
-*   [Awesome WebAudio (⭐907)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐918)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 
