@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 07, 2023](/content/2023/04/07/README.md)
+
+### Twitter / Libraries for creating HTTP middlewares
+
+*   [@GoDiscussions](https://twitter.com/GoDiscussions)
+
+### Websites / Libraries for creating HTTP middlewares
+
+*   [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
+
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
 ### Utilities
@@ -3312,7 +3322,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Banjo (⭐21)](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 *   [Echo (⭐25k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐25k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐26k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐59)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐360)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐408)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.

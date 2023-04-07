@@ -2,9 +2,16 @@
 
 Just a repo full of BEM resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sturobson/BEM-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sturobson/BEM-resources](https://github.com/sturobson/BEM-resources) · ⭐ 476 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sturobson/BEM-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sturobson/BEM-resources](https://github.com/sturobson/BEM-resources) · ⭐ 482 · 🏷️ Front-End Development
 
 [ [Daily](/content/sturobson/BEM-resources/README.md) / Weekly / [Overview](/content/sturobson/BEM-resources/readme/README.md) ]
+
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Articles
+
+*   [CSS Architecture: BEMCSS — Block, Element & Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
+*   [BEM by example](https://sparkbox.com/foundry/bem_by_example)
 
 ## [Sep 10 - Sep 16, 2018](/content/2018/37/README.md)
 
@@ -23,12 +30,6 @@ Just a repo full of BEM resources
 ### Articles
 
 *   [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
-
-## [Jun 12 - Jun 18, 2017](/content/2017/24/README.md)
-
-### Articles
-
-*   [BEM by example](https://seesparkbox.com/foundry/bem_by_example)
 
 ## [Mar 06 - Mar 12, 2017](/content/2017/10/README.md)
 
@@ -69,15 +70,7 @@ Just a repo full of BEM resources
 
 ### With Pre-processors / PostCSS
 
-*   [PostCSS BEM Linter (⭐541)](https://github.com/postcss/postcss-bem-linter)
-
-## [Jan 11 - Jan 17, 2016](/content/2016/2/README.md)
-
-### Articles
-
-*   [An Introduction to the BEM Methodology for effective Front-End Development](http://4digits.net/blog/sass/introduction-to-bem.html)
-*   [CSS Organisation with BEM](http://www.blankmaker.com/css-organization-with-bem/)
-*   [Patterns For Scaling CSS](https://dominikpiatek.com/patterns-for-scaling-css/)
+*   [PostCSS BEM Linter (⭐548)](https://github.com/postcss/postcss-bem-linter)
 
 ## [Jan 04 - Jan 10, 2016](/content/2016/1/README.md)
 
@@ -90,7 +83,6 @@ Just a repo full of BEM resources
 
 ### Articles
 
-*   [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/2014/02/css-class-naming-and-bem-contemporary-practice/)
 *   [Expressive BEM with Sass: a different approach - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-a-different-approach)
 *   [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 
@@ -135,17 +127,13 @@ Just a repo full of BEM resources
 
 ## [May 25 - May 31, 2015](/content/2015/21/README.md)
 
-### Articles
-
-*   [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
-
 ### Slides & Videos / Videos
 
 *   [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
 
 ### Slides & Videos / Other Awesome Lists
 
-*   [A curated list of awesome lists - @sindresorhus (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [A curated list of awesome lists - @sindresorhus (⭐246k)](https://github.com/sindresorhus/awesome)
 
 ## [May 11 - May 17, 2015](/content/2015/19/README.md)
 
@@ -155,7 +143,7 @@ Just a repo full of BEM resources
 
 ### Repos, CodePens and Things / Repos
 
-*   [BEM Grid (⭐135)](https://github.com/bem-incubator/bem-grid)
+*   [BEM Grid (⭐136)](https://github.com/bem-incubator/bem-grid)
 
 ## [Apr 20 - Apr 26, 2015](/content/2015/16/README.md)
 
@@ -201,7 +189,7 @@ Just a repo full of BEM resources
 
 ### Repos, CodePens and Things / Repos
 
-*   [BEM Constructor (⭐547)](https://github.com/danielguillan/bem-constructor)
+*   [BEM Constructor (⭐545)](https://github.com/danielguillan/bem-constructor)
 
 ### Slides & Videos / Slides
 

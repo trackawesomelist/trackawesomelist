@@ -2795,7 +2795,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 *   [Confetti Framework](https://confetti-framework.github.io/docs/) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
 *   [Echo (⭐25k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐25k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐26k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐59)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐360)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐408)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
@@ -3394,6 +3394,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Twitter
 
+*   [@GoDiscussions](https://twitter.com/GoDiscussions)
 *   [@golang](https://twitter.com/golang)
 *   [@golang\_news](https://twitter.com/golang_news)
 *   [@golangch](https://twitter.com/golangch)
@@ -3433,6 +3434,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Golang Flow](https://golangflow.io) - Post Updates, News, Packages and more.
 *   [Golang News](https://golangnews.com) - Links and news about Go programming.
 *   [Golang Resources](https://golangresources.com) - A curation of the best articles, exercises, talks and videos to learn Go.
+*   [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
 *   [golang-graphics (⭐139)](https://github.com/mholt/golang-graphics) - Collection of Go images, graphics, and art.
 *   [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - Go mailing list.
 *   [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.

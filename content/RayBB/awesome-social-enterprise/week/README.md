@@ -2,9 +2,21 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 47 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 53 · 🏷️ Business
 
 [ [Daily](/content/RayBB/awesome-social-enterprise/README.md) / Weekly / [Overview](/content/RayBB/awesome-social-enterprise/readme/README.md) ]
+
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Fellowships / Articles
+
+*   [Echoing Green Fellowship](https://echoinggreen.org/fellowship/) - 18 month fellowship including possible funding.
+*   [Miller Center Accelerator](https://www.millersocent.org/programs/our-accelerators/) - Six month program, 4-6 hours a week. Geard towards senior leaders.
+*   [MIT Solve's Global Challenges Program](https://solve.mit.edu/challenges) - Nine month program with funding available. Geared toward specific themes.
+*   [Fast Forward Accelerator](https://www.ffwd.org/accelerator/) - Startup accelerator for nonprofit tech companies.
+*   [100x Impact Accelerator](https://www.100ximpact.org/) - 12 week program with 150k for social enterprises.
+*   [Fashion for Good Accelerator](https://accelerator.fashionforgood.com/) - Nine month program to solve fashion sustainability problems.
+*   [Social Enterprise Academy Accelerator](https://www.academies-se.org/accelerator) - 20 week program to foster social enterprises. Up to 30k in funding available.
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 

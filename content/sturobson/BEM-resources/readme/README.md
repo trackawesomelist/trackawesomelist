@@ -2,7 +2,7 @@
 
 Just a repo full of BEM resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sturobson/BEM-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sturobson/BEM-resources](https://github.com/sturobson/BEM-resources) · ⭐ 476 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sturobson/BEM-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sturobson/BEM-resources](https://github.com/sturobson/BEM-resources) · ⭐ 482 · 🏷️ Front-End Development
 
 [ [Daily](/content/sturobson/BEM-resources/README.md) / [Weekly](/content/sturobson/BEM-resources/week/README.md) / Overview ]
 
@@ -26,7 +26,6 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 *   [Scaling Down The BEM Methodology For Small Projects - Smashing Magazine](https://www.smashingmagazine.com/2014/07/bem-methodology-for-small-projects/)
 *   [Fifty Shades of BEM - Kaelig](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)
 *   [Keeping the Front-End Modular with BEM - Thoughtbot](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem)
-*   [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/2014/02/css-class-naming-and-bem-contemporary-practice/)
 *   [The Evolution Of The BEM Methodology - Smashing Magazine](https://www.smashingmagazine.com/2013/02/the-history-of-the-bem-methodology/)
 *   [BEM Basics - 8th Light](http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html)
 *   [How To BEM - Roman Kuba](https://medium.com/@Codebryo/how-to-bem-4a55fa3cd429)
@@ -34,7 +33,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 *   [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 *   [Learning to love BEM](http://mono.company/journal/frontend/learning-to-love-bem//)
 *   [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/)
-*   [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
+*   [CSS Architecture: BEMCSS — Block, Element & Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
 *   [BEM Guidelines for component focused development](http://www.joelambert.co.uk/article/bem-guidelines/)
 *   [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 *   [CSS BEM Syntax Basics](https://coryrylan.com/blog/css-bem-syntax-basics)
@@ -46,10 +45,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 *   [BEM CSS Basics for WordPress Themes Developers](https://ahmadawais.com/bem-css-basics-for-wordpress-themes-developers/)
 *   [Generate responsive BEMIT classes with Sass](http://codepen.io/craigmdennis/post/generate-responsive-bemit-classes-with-sass)
 *   [The BEMIT naming convention](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html)
-*   [An Introduction to the BEM Methodology for effective Front-End Development](http://4digits.net/blog/sass/introduction-to-bem.html)
-*   [CSS Organisation with BEM](http://www.blankmaker.com/css-organization-with-bem/)
-*   [Patterns For Scaling CSS](https://dominikpiatek.com/patterns-for-scaling-css/)
-*   [BEM by example](https://seesparkbox.com/foundry/bem_by_example)
+*   [BEM by example](https://sparkbox.com/foundry/bem_by_example)
 *   [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
 *   [7 Reasons To Use BEM CSS](https://medium.com/soliddigital/7-reasons-to-use-bem-css-a7c8475318fe)
 
@@ -74,15 +70,15 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### PostCSS
 
-*   [PostCSS BEM Linter (⭐541)](https://github.com/postcss/postcss-bem-linter)
+*   [PostCSS BEM Linter (⭐548)](https://github.com/postcss/postcss-bem-linter)
 
 ## Repos, CodePens and Things
 
 ### Repos
 
-*   [BEM Constructor (⭐547)](https://github.com/danielguillan/bem-constructor)
+*   [BEM Constructor (⭐545)](https://github.com/danielguillan/bem-constructor)
 *   [WordPress BEM Menu (⭐139)](https://github.com/roikles/Wordpress-Bem-Menu)
-*   [BEM Grid (⭐135)](https://github.com/bem-incubator/bem-grid)
+*   [BEM Grid (⭐136)](https://github.com/bem-incubator/bem-grid)
 *   [Flexible Grid System with BEM (⭐14)](https://github.com/flexiblegs/flexiblegs-bem)
 *   [BEM.js (⭐9)](https://github.com/maykinmedia/bem.js)
 
@@ -100,5 +96,5 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### Other Awesome Lists
 
-*   [A curated list of awesome lists - @sindresorhus (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [A curated list of awesome lists - @sindresorhus (⭐246k)](https://github.com/sindresorhus/awesome)
 

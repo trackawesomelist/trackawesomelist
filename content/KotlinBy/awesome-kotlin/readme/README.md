@@ -138,20 +138,20 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
-*   [KasukuSakura/mirai-login-solver-sakura (⭐239)](https://github.com/KasukuSakura/mirai-login-solver-sakura)
+*   [KasukuSakura/mirai-login-solver-sakura (⭐270)](https://github.com/KasukuSakura/mirai-login-solver-sakura)
 *   [mozilla-mobile/firefox-android (⭐440)](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects.
-*   [aallam/openai-kotlin (⭐386)](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
-*   [Nain57/Smart-AutoClicker (⭐596)](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
+*   [aallam/openai-kotlin (⭐519)](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 *   [gallonyin/worktool (⭐589)](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
 *   [jing332/tts-server-android (⭐694)](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。| Microsoft TTS Android APP implementation (Use demo API)
-*   [project-mirai/mirai-api-http (⭐1.4k)](https://github.com/project-mirai/mirai-api-http) - Mirai HTTP API (console) plugin
+*   [CCBlueX/LiquidBounce (⭐864)](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
 *   [JetBrains/intellij-platform-plugin-template (⭐2.1k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
 *   [tachiyomiorg/tachiyomi-extensions (⭐2.4k)](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 *   [RetroMusicPlayer/RetroMusicPlayer (⭐2.9k)](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 *   [recloudstream/cloudstream (⭐3.2k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 *   [vfsfitvnm/ViMusic (⭐3.9k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-*   [hectorqin/reader (⭐4.6k)](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+*   [androidx/androidx (⭐4.4k)](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 *   [ethereum-lists/chains (⭐4.8k)](https://github.com/ethereum-lists/chains) - provides metadata for networkIDs and chainIDs
+*   [detekt/detekt (⭐5.3k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 *   [skydoves/Pokedex (⭐6.6k)](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 *   [pppscn/SmsForwarder (⭐8.3k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 *   [YiiGuxing/TranslationPlugin (⭐9.8k)](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
@@ -166,42 +166,44 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [Skytils/SkytilsMod (⭐260)](https://github.com/Skytils/SkytilsMod) - A Hypixel Skyblock Utilities mod
+*   [d4rken-org/sdmaid-se (⭐185)](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
 *   [zacharee/Tweaker (⭐387)](https://github.com/zacharee/Tweaker)
 *   [re-ovo/awara (⭐458)](https://github.com/re-ovo/awara) - iwara android app
-*   [MatsuriDayo/NekoBoxForAndroid (⭐484)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+*   [XayahSuSuSu/Android-DataBackup (⭐670)](https://github.com/XayahSuSuSu/Android-DataBackup) - 数据备份 DataBackup for Android
 *   [PaperMC/Folia (⭐657)](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
-*   [home-assistant/android (⭐1.6k)](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
+*   [PurpurMC/Purpur (⭐1.5k)](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
+*   [gotson/komga (⭐2.1k)](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 *   [zhanghai/MaterialFiles (⭐3.2k)](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 *   [saikou-app/saikou (⭐3.5k)](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
+*   [RikkaApps/Shizuku (⭐3.6k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [florisboard/florisboard (⭐4k)](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-*   [libre-tube/LibreTube (⭐4.7k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-*   [detekt/detekt (⭐5.3k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
-*   [chrisbanes/tivi (⭐5.7k)](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
+*   [chrisbanes/tivi (⭐5.8k)](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
 *   [ktorio/ktor (⭐11k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 *   [JetBrains/kotlin (⭐44k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [x13a/Duress (⭐229)](https://github.com/x13a/Duress) - Duress password trigger.
-*   [zyrouge/symphony (⭐284)](https://github.com/zyrouge/symphony) - 🎵 Groovify & Symphonize with Symphony! Available for Android 9+.
+*   [terrakok/Compose-Multiplatform-Wizard (⭐73)](https://github.com/terrakok/Compose-Multiplatform-Wizard) - Compose Multiplatform Wizard
+*   [joreilly/Confetti (⭐249)](https://github.com/joreilly/Confetti) - KMM GraphQL based conference sample with Jetpack Compose Android, Compose for Wear and SwiftUI iOS clients and GraphQL backend.
+*   [MatsuriDayo/NekoBoxForAndroid (⭐484)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 *   [vitorpamplona/amethyst (⭐656)](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
+*   [evant/kotlin-inject (⭐625)](https://github.com/evant/kotlin-inject) - Dependency injection lib for kotlin
+*   [MateriiApps/OpenCord (⭐807)](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 *   [GetStream/stream-chat-android (⭐1.2k)](https://github.com/GetStream/stream-chat-android) - :speech\_balloon: Android Chat SDK ➜ Stream Chat API. UI component libraries for chat apps. Kotlin & Jetpack Compose messaging SDK for Android chat
+*   [osfans/trime (⭐2k)](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+*   [MatsuriDayo/Matsuri (⭐2k)](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
 *   [raamcosta/compose-destinations (⭐2.1k)](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
-*   [gotson/komga (⭐2.1k)](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
-*   [skydoves/chatgpt-android (⭐2.3k)](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
-*   [PierfrancescoSoffritti/android-youtube-player (⭐3k)](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
-*   [apollographql/apollo-kotlin (⭐3.4k)](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
-*   [RikkaApps/Shizuku (⭐3.6k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-*   [android/camera-samples (⭐4.2k)](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
-*   [Kotlin/kotlinx.serialization (⭐4.4k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
-*   [arrow-kt/arrow (⭐5.6k)](https://github.com/arrow-kt/arrow) - Λrrow - Functional companion to Kotlin's Standard Library
-*   [skydoves/android-developer-roadmap (⭐5.7k)](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
-*   [facebook/facebook-android-sdk (⭐5.8k)](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
-*   [google/accompanist (⭐6.3k)](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
-*   [InsertKoinIO/koin (⭐7.9k)](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-*   [square/moshi (⭐8.9k)](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
-*   [android/nowinandroid (⭐11k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+*   [CypherpunkArmory/UserLAnd (⭐2.9k)](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
+*   [SagerNet/SagerNet (⭐4.9k)](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
+*   [Gurupreet/ComposeCookBook (⭐5.1k)](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+*   [JetBrains/Exposed (⭐7k)](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+*   [JetBrains/ideavim (⭐7.4k)](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+*   [thundernest/k-9 (⭐7.8k)](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
+*   [Kotlin/kotlinx.coroutines (⭐12k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
+*   [android/compose-samples (⭐15k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+*   [lottie-react-native/lottie-react-native (⭐16k)](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
+*   [android/architecture-components-samples (⭐23k)](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
+*   [android/architecture-samples (⭐42k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -456,7 +458,7 @@ Here is the awesome badge for your project:
 *   [coupang/spring-data-requery (⭐47)](https://github.com/coupang/spring-data-requery) - Spring Data for Requery (lightweight ORM)
 *   [darkredz/Zeko-SQL-Builder (⭐87)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
 *   [ctripcorp/SQLlin (⭐139)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
-*   [komapper/komapper (⭐181)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
+*   [komapper/komapper (⭐183)](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
 *   [seratch/kotliquery (⭐188)](https://github.com/seratch/kotliquery) - A handy database access library in Kotlin.
 *   [andrewoma/kwery (⭐203)](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 *   [cheptsov/kotlin-nosql (⭐209)](https://github.com/cheptsov/kotlin-nosql) - NoSQL database query and access library for Kotlin.
@@ -748,9 +750,9 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-api-clients"></a>API Clients <sup>[Back ⇈](#libraries-frameworks-api-clients-subcategory)</sup>
 
-*   [MoviebaseApp/trakt-api (⭐19)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
+*   [MoviebaseApp/trakt-api (⭐20)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
 *   [JetBrains/space-kotlin-sdk (⭐44)](https://github.com/JetBrains/space-kotlin-sdk) - Kotlin client for JetBrains Space HTTP API
-*   [MoviebaseApp/tmdb-api (⭐73)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
+*   [MoviebaseApp/tmdb-api (⭐75)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 *   [adamint/spotify-web-api-kotlin (⭐153)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
 *   [awslabs/aws-sdk-kotlin (⭐273)](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
 
@@ -825,10 +827,10 @@ Here is the awesome badge for your project:
 *   [ice1000/dev-kt (⭐91)](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
 *   [ruslanys/vkmusic (⭐34)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
 *   [datalisk/datalisk](https://github.com/datalisk/datalisk) - A file sync and storage application with end-to-end encryption and multi-platform support.
-*   [yschimke/okurl (⭐120)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 *   [hazae41/Kotlin-Compiler-GUI (⭐2)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
 *   [pintowar/sudoscan (⭐5)](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
 *   [russellbanks/HashHash (⭐22)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
+*   [yschimke/okurl (⭐120)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 
 ### <a name="projects-examples"></a>Examples <sup>[Back ⇈](#projects-examples-subcategory)</sup>
 
@@ -939,6 +941,7 @@ Here is the awesome badge for your project:
 *   [yundom/RxVan (⭐3)](https://github.com/yundom/RxVan) - A lightweight event bus written in Kotlin and RxJava.
 *   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
 *   [adrielcafe/AndroidCoroutineScopes (⭐16)](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
+*   [WindSekirun/RxSocialLogin (⭐124)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
 *   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
 *   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
 *   [adrielcafe/KrumbsView (⭐180)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
@@ -949,6 +952,7 @@ Here is the awesome badge for your project:
 *   [adrielcafe/PufferDB (⭐96)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
 *   [adrielcafe/HAL (⭐74)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
 *   [coil-kt/coil (⭐9k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+*   [levibostian/Shutter-Android (⭐56)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
 *   [skydoves/balloon (⭐3k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
 *   [ChuckerTeam/chucker (⭐3.1k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 *   [rosariopfernandes/firecoil (⭐36)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
@@ -969,8 +973,6 @@ Here is the awesome badge for your project:
 *   [developingdeveloper-tech/toaster-android (⭐22)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 *   [heart-switch (⭐33)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 *   [OTPComposable (⭐2)](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
-*   [levibostian/Shutter-Android (⭐56)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
-*   [WindSekirun/RxSocialLogin (⭐124)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 
