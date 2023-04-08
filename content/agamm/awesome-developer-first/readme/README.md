@@ -59,6 +59,7 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 *   [Reports Generation](#reports-generation)
 *   [Scraping](#scraping)
 *   [Search](#search)
+*   [Security](#security)
 *   [Shipping](#shipping)
 *   [Testing](#testing)
 
@@ -98,7 +99,7 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 
 ## CI/CD
 
-*Continious Integration/Delivery.*
+*Continuous Integration/Delivery.*
 
 *   [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 *   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
@@ -352,6 +353,15 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 *   [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 *   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
 *   [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
+
+## Security
+
+*Products that secure your codebase.*
+
+*   [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
+*   [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
+*   [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
+*   [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
 
 ## Shipping
 

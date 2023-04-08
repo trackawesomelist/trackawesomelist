@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 08, 2023](/content/2023/04/08/README.md)
+
+### DBaaS
+
+*   [TerminusCMS](https://terminusdb.com/pricing) — Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [Xirsys](https://www.xirsys.com/pricing/) — Unlimited STUN usage + 500 MB monthly TURN bandwidth, capped bandwidth, single geographic region.
+
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
 ### APIs, Data and ML
@@ -1581,12 +1591,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Dataimporter.io](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
 
-## [Jan 31, 2022](/content/2022/01/31/README.md)
-
-### DBaaS
-
-*   [TerminusX](https://terminusdb.com/) — Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.
-
 ## [Jan 30, 2022](/content/2022/01/30/README.md)
 
 ### Design and UI
@@ -2126,7 +2130,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### DBaaS
 
 *   [Neo4j Aura](https://neo4j.com/cloud/aura/) — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships).
-*   [TigerGraph Cloud](https://www.tigergraph.com/cloud/) — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. 1 TG.Free instance on AWS (4 vCPU, 7.5 GB memory, 50 GB disk) or on GCP(2 vCPU, 8 GB memory, 128 GB disk). Free instance sleeps after 1 hour of inactivity.
+*   [TigerGraph Cloud](https://www.tigergraph.com/cloud/) — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. One free instance with 2 vCPU, 8GB Memory, and 50GB storage that sleeps after 1 hour of inactivity.
 
 ## [Sep 28, 2021](/content/2021/09/28/README.md)
 
@@ -2342,10 +2346,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data and ML
 
 *   [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
-
-### PaaS
-
-*   [Deta](https://www.deta.sh) – Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, Auth and email.
 
 ## [Jul 22, 2021](/content/2021/07/22/README.md)
 
@@ -3001,10 +3001,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Messaging and Streaming
 
 *   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
-
-### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [Xirsys](https://www.xirsys.com) — Global network of STUN / TURN servers with a generous free tier.
 
 ## [Feb 27, 2021](/content/2021/02/27/README.md)
 
@@ -4796,7 +4792,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Major Cloud Providers
 
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
-    *   Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+    *   Compute
+        *   2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory eachs
+        *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+        *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB
     *   Load balancer - 1 instance with 10 Mbps

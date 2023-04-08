@@ -6,6 +6,15 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Apr 08, 2023](/content/2023/04/08/README.md)
+
+### Security
+
+*   [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
+*   [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
+*   [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
+*   [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
+
 ## [Apr 04, 2023](/content/2023/04/04/README.md)
 
 ### Authentication & Identity

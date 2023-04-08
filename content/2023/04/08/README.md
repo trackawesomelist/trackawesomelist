@@ -1,12 +1,12 @@
-# Track Ai Collection Updates Daily
+# Awesome List Updates on Apr 08, 2023
 
-The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
-[ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
-## [Apr 08, 2023](/content/2023/04/08/README.md)
+
+## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Animation & 3D Modeling
 
@@ -7115,475 +7115,49 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
-## [Feb 24, 2023](/content/2023/02/24/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Content Generation & Seo
+### DBaaS
 
-- Name: [Easy-Peasy.AI](https://easy-peasy.ai/?via=beth0)
+*   [TerminusCMS](https://terminusdb.com/pricing) — Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.
 
-  Title: Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant.
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-  Description: Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.
+*   [Xirsys](https://www.xirsys.com/pricing/) — Unlimited STUN usage + 500 MB monthly TURN bandwidth, capped bandwidth, single geographic region.
 
-  Offer Free Version: :white\_check\_mark:
+## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
+### Manuals and Ephemera / Manuals
 
+*   [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
+*   [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
 
-## [Feb 05, 2023](/content/2023/02/05/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
-### Avatars
+### Typescript Project Starters
 
-- Name: [HairstyleAI](http://www.hairstyleai.com?via=beth0)
+*   [tRPC + Next.js](https://trpc.io/docs/nextjs/introduction) - Full-stack starter projects for end-to-end type safe development with React
 
-  Title: Try Out New Hairstyles With AI - Hairstyle AI.
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-  Description: Ready for a new look? Upload you photos and let artificial intelligence technology generate new hairstyles for you. Try it out today!.
+### Software / Web
 
-  Offer Free Version: :x:
+*   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.2k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
+*   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `Apache-2.0` `C`
+*   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
+*   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
+*   [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip)) `BSD-2-Clause` `C`
+*   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐3.2k)](https://github.com/varnishcache/varnish-cache)) `BSD-2-Clause` `C`
 
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
-- Name: [ReflectMe](http://reflectme.art)
+### Security
 
-  Title: Reflectme. - Generate Your AI Avatars!.
+*   [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
+*   [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
+*   [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
+*   [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
 
-  Description: See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth.
+---
 
-  Offer Free Version: :grey\_question:
-
-
-
-### Code & Database Assistant
-
-- Name: [CodeWP](https://codewp.ai/?cwpref=9)
-
-  Title: Codewp - AI Wordpress Code Generator & Assistant.
-
-  Description: CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Content Generation & Seo
-
-- Name: [ArticleForge](https://www.articleforge.com/?ref=e99368)
-
-  Title: High Quality, AI Content Generator - Article Forge.
-
-  Description: Using advanced artificial intelligence and deep learning, Article Forge writes completely unique, SEO optimized, high-quality, long form articles with the click of a button.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [CopyMonkey](http://copymonkey.ai?via=beth0)
-
-  Title: Your AI-Powered Amazon Listing Optimization Expert.
-
-  Description: CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Creator AI](https://www.creaitor.ai/?ref=beth0)
-
-  Title: Let the AI Create for You.
-
-  Description: Creaitor will help you write content in a more powerful, emotionally expressive way.
-
-  Offer Free Version: :x:
-
-
-- Name: [Frase.io (first month - 60% discount)](http://www.frase.io/?via=beth0)
-
-  Title: Frase - Best Seo Content Optimization Tool & AI Writer.
-
-  Description: Frase AI helps you research, write, and optimize high-quality SEO content in minutes instead of hours.
-
-  Offer Free Version: :x:
-
-
-- Name: [Intelligent paraphraser](https://aiseo.ai/?fpr=beth0)
-
-  Title: Aiseo - AI Writing Assistant, AI Copywriting & Content Generator.
-
-  Description: Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Kafkai](http://kafkai.com)
-
-  Title: Unique and Readable AI Content Generator.
-
-  Description: Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars.
-
-  Offer Free Version: :x:
-
-
-- Name: [LongShot AI](http://www.longshot.ai?deal=beth0)
-
-  Title: Create Content That Humans and Search Engines Love Using Artificial Intelligence.
-
-  Description: LongShot is an AI writing assistant that helps you go from idea to SEO content in minutes. Use creative power of AI with features like real time content, fact check, semantic SEO, custom AI, & more!.
-
-  Offer Free Version: :x:
-
-
-- Name: [Neuraltext](https://neuraltext.com?via=beth0)
-
-  Title: Neuraltext - AI Writer and Seo Platform.
-
-  Description: Automate your content operations. The all-in-one content marketing and SEO platform that saves you time and money.
-
-  Offer Free Version: :x:
-
-
-- Name: [Taskade](http://www.taskade.com/?via=beth0)
-
-  Title: Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams.
-
-  Description: Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [WordAI](https://wordai.com/?ref=470a83)
-
-  Title: AI Text Rewriter - Wordai.
-
-  Description: Use artificial intelligence to cut turnaround time, extend your budget, and create more high-quality content that Google and readers will love.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [WordHero](http://wordhero.co?via=beth0)
-
-  Title: Generate AI-Powered Content - In 1 Click.
-
-  Description: With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds.
-
-  Offer Free Version: :x:
-
-
-- Name: [Writesonic](https://writesonic.com?via=beth0)
-
-  Title: Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool.
-
-  Description: Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31)
-
-  Title: Automate Content Creation for Your Small Business.
-
-  Description: Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0)
-
-  Title: Instantly Convert Your YouTube Content Into Engaging Blog Articles.
-
-  Description: Boost your SEO and brand presence.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Creators Toolkit
-
-- Name: [Clipdrop](http://clipdrop.co)
-
-  Title: Create Stunning Visuals in Seconds.
-
-  Description: The ultimate ecosystem of apps, plugins & resources for all creators, powered by artificial intelligence.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Descript](http://www.descript.com?lmref=xru03g)
-
-  Title: ThereS a New Way to Make Video and Podcasts. A Good Way.
-
-  Description: Descript is the simple, powerful, and fun way to edit.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Media.io](https://www.media.io/?ref=beth0)
-
-  Title: Online Video, Audio, Image Creativity Platform Powered by AI.
-
-  Description: Simplicity. Diversity. Flexibility.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Email Assistant
-
-- Name: [Smartwriter](http://www.smartwriter.ai?via=beth0)
-
-  Title: Generate 1000S of Personalised Emails That Get You 8X More Replies Within Minutes Using AI.
-
-  Description: Never waste time researching or writing 'personalised' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Gift Ideas
-
-- Name: [Lovelines](http://lovelines.xyz?ref=ai-collection)
-
-  Title: Lovelines.Xyz - Share Your Love With Custom Keepsakes Made by AI.
-
-  Description: Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics.
-
-  Offer Free Version: :x:
-
-
-
-### Human Resources & Resume
-
-- Name: [Resume Worded](http://resumeworded.com)
-
-  Title: Improve Your Resume and Linkedin Profile.
-
-  Description: Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Music & Audio Generation
-
-- Name: [LALAL.AI Voice Cleaner](http://www.lalal.ai/?fp_ref=beth0)
-
-  Title: Extract Vocal, Accompaniment and Various Instruments From Any Audio and Video.
-
-  Description: High-quality stem splitting based on the world's #1 AI-powered technology.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Soundraw](http://soundraw.io)
-
-  Title: Stop Searching for the Song You Need. Create It.
-
-  Description: Royalty-free music, AI generated for you.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Organization & Automation
-
-- Name: [Hexowatch](http://hexact.pxf.io/beth0)
-
-  Title: Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking.
-
-  Description: Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes.
-
-  Offer Free Version: :x:
-
-
-
-### Sales & Marketing
-
-- Name: [Copy.ai](http://www.copy.ai?via=beth0)
-
-  Title: Write Better Marketing Copy and Content With AI.
-
-  Description: Say goodbye to the blank page for good.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Text
-
-- Name: [Startup Pitch Generator](http://tally.so?ref=beth0)
-
-  Title: The Simplest Way to Create Forms.
-
-  Description: Create forms for all purposes in seconds.Without knowing how to code.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Text To Speech
-
-- Name: [Listnr 2.0](https://www.listnr.tech/?gr_pk=V71a\&gr_uid=YVDO)
-
-  Title: AI Voice Generator - Text to Speech Converter - Listnr.
-
-  Description: Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices. Instantly convert text in to natural-sounding speech and download in MP3 and WAV formats.
-
-  Offer Free Version: :x:
-
-
-
-### Translation & Transcript
-
-- Name: [Rephrasely](http://rephrasely.com?via=beth0)
-
-  Title: The Free Rephrase Generator for All Languages!.
-
-  Description: Rephrasely uses state-of-the-art AI to produce variations of your text in more than 100+ languages for each of the eighteen (12 free and 6 premium) styles that we offer. By doing this, we are able to offer more value and variety than any other service.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Rythmex](https://rythmex.com/?partner=641\&uuid=49feba69-adf4-456c-a90e-a9f4f14372cb\&page=home)
-
-  Title: Convert Audio to Text With Rythmex Converter.
-
-  Description: Transcribe audio to text easily, quickly, and effectively.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Video
-
-- Name: [Fliki](http://fliki.ai?via=beth0)
-
-  Title: Turn Text Into Videos With AI Voices.
-
-  Description: Create videos from scripts or blog posts using realistic voices in 2 minutes!.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Writing Assistant
-
-- Name: [Elephas](https://gumroad.com/a/411783379/ntmtp)
-
-  Title: Elephas - Personal AI Writing Assistant for Mac, Iphone, Ipad.
-
-  Description: Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Other
-
-- Name: [Fireflies](http://fireflies.ai)
-
-  Title: Fireflies.Ai - Fireflies AI Notetaker & Conversation Intelligence.
-
-  Description: Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
-
-  Offer Free Version: :grey\_question:
-
-
-
-## [Jan 19, 2023](/content/2023/01/19/README.md)
-
-### Logo Generator
-
-- Name: [Looka](https://looka.grsm.io/jscfk35v34tn)
-
-  Title: Free Logo Maker & Intelligent Brand Designer.
-
-  Description: Make a logo and build a brand you love with Looka.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Video
-
-- Name: [AI Host](https://livereacting.sjv.io/beth0)
-
-  Title: Run Interactive Live Streams.
-
-  Description: LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream.
-
-  Offer Free Version: :x:
-
-
-
-## [Jan 18, 2023](/content/2023/01/18/README.md)
-
-### Music & Audio Generation
-
-- Name: [Emergent Drums](http://audialab.com?ref=beth0)
-
-  Title: Generate Unique Drum Samples Using Artificial Intelligence.
-
-  Description: Use our breakthrough plugin to generate endless drum samples, all royalty-free.
-
-  Offer Free Version: :x:
-
-
-
-## [Jan 17, 2023](/content/2023/01/17/README.md)
-
-### Content Generation & Seo
-
-- Name: [Content brief generator](http://www.dashword.com?via=beth0)
-
-  Title: Seo Content Optimization Software - Dashword.
-
-  Description: Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic.
-
-  Offer Free Version: :x:
-
-
-
-### Other
-
-- Name: [Aida](http://www.bookmark.com)
-
-  Title: Spend Time Running Your Business, Not Your Website.
-
-  Description: Let our Ai powered website builder get your business online in minutes.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [Jan 15, 2023](/content/2023/01/15/README.md)
-
-### Architecture & Interior Design
-
-- Name: [Image Computer](http://image.computer)
-
-  Title: Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art.
-
-  Description: Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds.
-
-  Offer Free Version: :x:
-
-
-
-### Video
-
-- Name: [Pictory](http://pictory.ai?ref=milana31)
-
-  Title: Video Creation Made Easy.
-
-  Description: Automatically create short, highly-sharable branded videos from your long form content.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Other
-
-- Name: [Reface](http://hey.reface.ai)
-
-  Title: Reface. Be Anyone.
-
-  Description: Create realistic face swap videos, GIFs and memes with just one selfie.
-
-  Offer Free Version: :grey\_question:
-
+- Next: [Apr 07, 2023](/content/2023/04/07/README.md)

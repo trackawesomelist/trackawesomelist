@@ -6,6 +6,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ [Daily](/content/beardicus/awesome-plotters/README.md) / Weekly / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
+
+### Manuals and Ephemera / Manuals
+
+*   [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
+*   [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
+
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Manuals and Ephemera / Manuals
