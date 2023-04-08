@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Apr 08, 2023](/content/2023/04/08/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📚 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & Starters.
+
 ## [Apr 07, 2023](/content/2023/04/07/README.md)
 
 ### UI Libraries, Components & Templates
@@ -26,8 +32,8 @@
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐21)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
-*   🚀 [Vue-Resume (⭐2)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+*   🚀 [Angular-Tailwind (⭐24)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Vue-Resume (⭐3)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [Mar 20, 2023](/content/2023/03/20/README.md)
 
@@ -133,7 +139,7 @@
 
 ### Plugins
 
-*   💼 [Hyphens](https://github.com/vivgui/tailwindcss-hyphens) - Adds `hyphens` utilities.
+*   💼 [Hyphens (⭐12)](https://github.com/vivgui/tailwindcss-hyphens) - Adds `hyphens` utilities.
 
 ## [Jul 25, 2022](/content/2022/07/25/README.md)
 
@@ -164,7 +170,7 @@
 
 ### Plugins
 
-*   💼 [Grid Areas](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐58)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
@@ -778,7 +784,7 @@
 
 ### Plugins
 
-*   🛑💼 [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
+*   🛑💼 [Font Variant Numeric (⭐8)](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
 
 ## [Oct 12, 2020](/content/2020/10/12/README.md)
 
@@ -911,7 +917,7 @@
 *   💼 [Custom Native (⭐66)](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
 *   💼 [Image Rendering (⭐77)](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
 *   💼 [Elevation (⭐142)](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
-*   💼 [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
+*   💼 [Writing Mode (⭐10)](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
 *   💼 [Border Gradients (⭐194)](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
 *   💼 [RFS (⭐47)](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
 *   💼 [List Reset (⭐1)](https://github.com/opdavies/tailwindcss-list-reset) - Adds back the `list-reset` class that was removed prior to Tailwind CSS 1.0.
@@ -937,7 +943,7 @@
 *   🧩 [Card (⭐38)](https://github.com/NathanHeffley/tailwindcss-card) - Adds card components.
 *   🧩 [Skip link (⭐14)](https://github.com/opdavies/tailwindcss-skip-link) - Adds a *Skip to main content* accessible component.
 *   🧩 [Colors to CSS Variables (⭐28)](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
-*   🧩 [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
+*   🧩 [CSS Variables (⭐133)](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
 *   🛑💼 [benface's gradients (⭐277)](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
 *   🛑💼 [lorisleiva's gradients (⭐282)](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
 *   🛑💼 [Visually Hidden (⭐14)](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.

@@ -1,12 +1,32 @@
 # Awesome List Updates on Apr 08, 2023
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [1. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+### App Releases / Role Playing
+
+*   Xeonjia: Ice Adventures - [Android](https://play.google.com/store/apps/details?id=xyz.deepdaikon.xeonjia), [Desktop](https://deepdaikon.itch.io/xeonjia), [GitLab](https://gitlab.com/deepdaikon/Xeonjia) - An adventure game set in a frozen world. By [DeepDaikon](https://deepdaikon.xyz/)
+
+## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📚 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & Starters.
+
+## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+
+### Ruby Libraries
+
+*   [bitcoinrb (⭐47)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
+*   [bech32rb (⭐12)](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
+*   [bip-schnorrrb (⭐6)](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
+
+## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Animation & 3D Modeling
 
@@ -7115,7 +7135,7 @@
 
 
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
@@ -7125,20 +7145,20 @@
 
 *   [Xirsys](https://www.xirsys.com/pricing/) — Unlimited STUN usage + 500 MB monthly TURN bandwidth, capped bandwidth, single geographic region.
 
-## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Manuals
 
 *   [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
 *   [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
 
-## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Typescript Project Starters
 
 *   [tRPC + Next.js](https://trpc.io/docs/nextjs/introduction) - Full-stack starter projects for end-to-end type safe development with React
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Web
 
@@ -7149,7 +7169,7 @@
 *   [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip)) `BSD-2-Clause` `C`
 *   [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code (⭐3.2k)](https://github.com/varnishcache/varnish-cache)) `BSD-2-Clause` `C`
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Security
 

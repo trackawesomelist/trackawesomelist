@@ -281,6 +281,7 @@
 *   📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
 *   📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
 *   📚 [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
+*   📚 [Statichunt](https://statichunt.com/tailwind-templates) - Open source directory of hand-picked free and premium Tailwind templates & Starters.
 *   🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
 *   🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 *   🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
@@ -382,8 +383,8 @@
 *   🚀 [Vitailse (⭐121)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 *   🚀 [Vite-Boot (⭐120)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 *   🚀 [AstroWind (⭐791)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
-*   🚀 [Angular-Tailwind (⭐21)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
-*   🚀 [Vue-Resume (⭐2)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
+*   🚀 [Angular-Tailwind (⭐24)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Vue-Resume (⭐3)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## Open-Source Projects
 
