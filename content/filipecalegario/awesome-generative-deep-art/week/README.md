@@ -18,6 +18,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [Practical Deep Learning for Coders 2023 - Part II](https://www.youtube.com/watch?v=_7rMfsA24Ls\&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): continuation of the course focusing on the implementation of Stable Diffusion from scratch.
 *   [Practical Deep Learning for Coders 2022 - Part I](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU): "free course designed for people with some coding experience who want to learn how to apply deep learning and machine learning to practical problems" by Jeremy Howard
 
+### Collections / Generative Adversarial Networks (GANs)
+
+*   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
+
 ### Image Segmentation / Generative Adversarial Networks (GANs)
 
 *   [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
@@ -70,7 +74,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐4.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐6.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
 
 ### Inbox: Music and Audio projects / Text-related Generative Tools

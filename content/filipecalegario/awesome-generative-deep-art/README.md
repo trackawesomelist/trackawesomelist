@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Apr 09, 2023](/content/2023/04/09/README.md)
+
+### Collections / Generative Adversarial Networks (GANs)
+
+*   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
+
 ## [Apr 07, 2023](/content/2023/04/07/README.md)
 
 ### Image Segmentation / Generative Adversarial Networks (GANs)
@@ -72,7 +78,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
 
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐4.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐6.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
 
 ## [Mar 23, 2023](/content/2023/03/23/README.md)

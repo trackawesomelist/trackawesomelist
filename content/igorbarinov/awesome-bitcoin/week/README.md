@@ -8,6 +8,10 @@ A curated list of bitcoin services and tools for software developers
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
+### C Libraries
+
+*   [libsecp256k1 (⭐1.7k)](https://github.com/bitcoin-core/secp256k1)
+
 ### Ruby Libraries
 
 *   [bitcoinrb (⭐47)](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
@@ -255,7 +259,6 @@ A curated list of bitcoin services and tools for software developers
 ### C++ Libraries
 
 *   [libwally-core (⭐238)](https://github.com/ElementsProject/libwally-core)
-*   [secp256k1 (⭐1.7k)](https://github.com/bitcoin-core/secp256k1)
 
 ## [Mar 12 - Mar 18, 2018](/content/2018/11/README.md)
 

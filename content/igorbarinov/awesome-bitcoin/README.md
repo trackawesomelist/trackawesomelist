@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Apr 09, 2023](/content/2023/04/09/README.md)
+
+### C Libraries
+
+*   [libsecp256k1 (⭐1.7k)](https://github.com/bitcoin-core/secp256k1)
+
 ## [Apr 08, 2023](/content/2023/04/08/README.md)
 
 ### Ruby Libraries
@@ -267,7 +273,6 @@ A curated list of bitcoin services and tools for software developers
 ### C++ Libraries
 
 *   [libwally-core (⭐238)](https://github.com/ElementsProject/libwally-core)
-*   [secp256k1 (⭐1.7k)](https://github.com/bitcoin-core/secp256k1)
 
 ## [Mar 17, 2018](/content/2018/03/17/README.md)
 
