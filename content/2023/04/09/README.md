@@ -1,12 +1,30 @@
 # Awesome List Updates on Apr 09, 2023
 
-4 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Text processing
+
+*   [null8626/decancer (⭐57)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] — A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
+
+## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+
+### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
+
+*   [Prisma Editor - A powerful tool to visualize and edit Prisma Schema (⭐52)](https://github.com/mohammed-bahumaish/prisma-editor)
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Debugging / Diagnostics
+
+*   [t-troebst/perfanno.nvim (⭐100)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Screencapturing Software
 
@@ -16,13 +34,17 @@
 
 *   [OpenAI Translator (⭐14k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yetone/openai-translator)
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Collections / Generative Adversarial Networks (GANs)
 
 *   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+### Inbox: Developing + AI / Text-related Generative Tools
+
+*   [pgosar/ChatGDB (⭐560)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -33,7 +55,7 @@
 *   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/). Includes decorators for `git` information, user\@host and current directory.
 *   [t2colorful (⭐1)](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh) - Includes decorators for `git` information, current directory, last command exit status, and current time.
 
-## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [7. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### C Libraries
 

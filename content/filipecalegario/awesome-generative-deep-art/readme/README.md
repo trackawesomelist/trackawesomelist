@@ -697,6 +697,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## Inbox: Developing + AI
 
+*   [pgosar/ChatGDB (⭐560)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 *   [openai/openai-cookbook (⭐26k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)

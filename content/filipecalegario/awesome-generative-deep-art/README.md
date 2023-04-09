@@ -12,6 +12,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 
+### Inbox: Developing + AI / Text-related Generative Tools
+
+*   [pgosar/ChatGDB (⭐560)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+
 ## [Apr 07, 2023](/content/2023/04/07/README.md)
 
 ### Image Segmentation / Generative Adversarial Networks (GANs)

@@ -36,6 +36,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Developing + AI / Text-related Generative Tools
 
+*   [pgosar/ChatGDB (⭐560)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
