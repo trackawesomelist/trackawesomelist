@@ -2,9 +2,15 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.2K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.3K · 🏷️ Entertainment
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
+
+## [Apr 10, 2023](/content/2023/04/10/README.md)
+
+### Business/Finance / Angular
+
+*   [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
 
 ## [Mar 26, 2023](/content/2023/03/26/README.md)
 
@@ -678,7 +684,7 @@ A list of amazing Newsletters
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐581)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐583)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 

@@ -2,7 +2,7 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.2K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.3K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / Overview ]
 
@@ -16,9 +16,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐3.2k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐3.3k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors (⭐3.2k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
+Thanks to all [contributors (⭐3.3k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 *   [Frontend](#frontend)
     *   [General Web Development](#general-web-development)
@@ -249,7 +249,7 @@ Thanks to all [contributors (⭐3.2k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐581)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐583)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -467,6 +467,7 @@ Thanks to all [contributors (⭐3.2k)](https://github.com/zudochkin/awesome-news
 *   [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
 *   [Startup Curated](https://startup.curated.co). The startup community’s newsletter with the best content from and for founders. [Archive](https://startup.curated.co/issues).
 *   [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
+*   [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
 
 ## Awesome news
 

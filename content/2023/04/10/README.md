@@ -1,31 +1,68 @@
 # Awesome List Updates on Apr 10, 2023
 
-7 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/README.md)
+## [1. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+### Projects / API Documentation
+
+*   [DapperDox](http://dapperdox.io) - An Open-Source API documentation generator and server for OpenAPI/Swagger specifications.
+
+### Projects / API Gateway
+
+*   [Traefik (⭐42k)](https://github.com/traefik/traefik) - A modern, open-source API gateway that is designed to handle dynamic container environments, such as Kubernetes, Docker Swarm, and Mesos. It provides features such as load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
+
+### Resources / API Specification
+
+*   [API Blueprint](https://apiblueprint.org) - A high-level API description language that is used to design and document APIs.
+*   [JSON:API](https://jsonapi.org) - A specification for building APIs that provides a standardized way to represent resources, relationships, and metadata.
+
+### Resources / Structure and Validation
+
+*   [Schematron](https://www.schematron.com) - A rule-based validation language for business rules validation, data reporting, general validation, quality control, quality assurance, firewalling, filtering, constraint checking, naming and design rules checking, statistical consistency, data exploration, transformation testing, feature extraction and house-style-rules checking.
+
+## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+
+*   [lm-sys/FastChat (⭐12k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+
+## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+
+### Analyzers - API / Meetups
+
+*   [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details and hosted status page in one simple dashboard.
+
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+
+### Business/Finance / Angular
+
+*   [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
+
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Text processing
 
 *   [whisker (⭐18)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Virtualization
 
 *   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [8. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Chat Bot
 
@@ -39,7 +76,7 @@
 
 
 
-## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [9. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Programming fonts / Fonts
 
@@ -53,14 +90,14 @@
 
 *   [fnt (⭐361)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 
-## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries
 
 *   [noble-curves (⭐313)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
 *   [noble-secp256k1 (⭐530)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Testing / Other
 
