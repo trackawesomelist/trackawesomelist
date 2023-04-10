@@ -42,7 +42,7 @@ A curated list of fonts and typography resources.
     *   [Downloader for Google Fonts (⭐1.5k)](https://github.com/qrpike/Web-Font-Load)
     *   [Files of Google Fonts (⭐16k)](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
     *   [Noto Fonts (⭐2.4k)](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
-    *   [Roboto (⭐3.7k)](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
+    *   [Roboto (⭐3.8k)](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
 *   [Indestructible Type](https://github.com/indestructible-type) - An open-source font foundry
 *   [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - The Open-Source Type Movement
     *   [Chunk](https://www.theleagueofmoveabletype.com/chunk)
@@ -50,7 +50,7 @@ A curated list of fonts and typography resources.
     *   [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic)
     *   ... And more
 *   [Overpass](http://overpassfont.org/) - An open source font family inspired by Highway Gothic
-*   [Zilla Slab (⭐373)](https://github.com/mozilla/zilla-slab) - Mozilla font
+*   [Zilla Slab (⭐375)](https://github.com/mozilla/zilla-slab) - Mozilla font
 *   [Plex (⭐8.4k)](https://github.com/IBM/plex) - IBM's open source font
 *   [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 *   [USWDS](https://github.com/uswds) - U.S. Web Design System
@@ -59,32 +59,32 @@ A curated list of fonts and typography resources.
 
 #### Fonts
 
-*   [Amstelvar (⭐315)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
+*   [Amstelvar (⭐316)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 *   [AtF Spark (⭐2k)](https://github.com/aftertheflood/sparks) - Font designed to create sparklines
-*   [Barlow (⭐636)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+*   [Barlow (⭐640)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 *   [Inter (⭐15k)](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
-*   [Libre Franklin (⭐338)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+*   [Libre Franklin (⭐339)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 *   [Manrope (⭐1.4k)](https://github.com/sharanda/manrope) - Modern geometric sans-serif
 *   [Open Baskerville](http://klepas.org/openbaskerville/)
 *   [Redacted (⭐5.3k)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
-*   [SansBullshitSans (⭐283)](https://github.com/RoelN/SansBullshitSans)
-*   [Urbanist (⭐384)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+*   [SansBullshitSans (⭐282)](https://github.com/RoelN/SansBullshitSans)
+*   [Urbanist (⭐386)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 *   [WorkSans (⭐1.5k)](https://github.com/weiweihuanghuang/Work-Sans)
 
 ## Emojis
 
-*   [alfred-emoji-workflow (⭐640)](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
+*   [alfred-emoji-workflow (⭐639)](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
 *   [Crypto Puzzles (⭐20)](https://github.com/2d4d/crypto_puzzles) - Includes e
     moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: <http://rupp.de/crypto_puzzles/crypto_puzzles_web.py>)
 *   [emoji-cheat-sheet.com (⭐6.4k)](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 *   [emoji-data-js (⭐63)](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
-*   [emoji-minesweeper (⭐821)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
-*   [emoji-regex (⭐1.5k)](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
+*   [emoji-minesweeper (⭐823)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
+*   [emoji-regex (⭐1.6k)](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
 *   [emoji-rspec (⭐172)](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
 *   [emoji-translate (⭐1.2k)](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji
 *   [emoji (⭐297)](https://github.com/leereilly/emoji) - All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc
 *   [emoji (⭐2.2k)](https://github.com/muan/emoji) - Find the emoji that echoes your mind
-*   [emoji (⭐445)](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
+*   [emoji (⭐444)](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 *   [emojidex (⭐8)](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
 *   [emojify.js (⭐1.8k)](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
 *   [emojify (⭐1.5k)](https://github.com/mrowa44/emojify) - Emoji on the command line
@@ -101,8 +101,8 @@ A curated list of fonts and typography resources.
 *   [mojibar (⭐2k)](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
 *   [mojime (⭐56)](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
 *   [php-emoji (⭐1.3k)](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
-*   [twemoji (⭐15k)](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
-*   [vim-emoji (⭐596)](https://github.com/junegunn/vim-emoji) - Emoji in Vim
+*   [twemoji (⭐16k)](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
+*   [vim-emoji (⭐598)](https://github.com/junegunn/vim-emoji) - Emoji in Vim
 
 ## Iconic fonts
 
@@ -147,6 +147,7 @@ A curated list of fonts and typography resources.
     *   [Source Han Serif (⭐7k)](https://github.com/adobe-fonts/source-han-serif)
     *   [Source Sans Pro (⭐3.2k)](https://github.com/adobe-fonts/source-sans-pro)
     *   [Source Serif Pro (⭐2k)](https://github.com/adobe-fonts/source-serif-pro)
+*   [agave (⭐514)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
 *   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 *   [Codeface (⭐5.9k)](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 *   [Fantasque Sans Mono (⭐6.4k)](https://github.com/belluzj/fantasque-sans)
@@ -157,18 +158,19 @@ A curated list of fonts and typography resources.
 *   [Lab Mono (⭐121)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 *   [Meslo-Font (⭐2.4k)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 *   [Mononoki](http://madmalik.github.io/mononoki/)
-*   [Nerd Fonts (⭐42k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+*   [Nerd Fonts (⭐43k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 *   [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 *   [Recursive Sans & Mono (⭐2.6k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
 
 #### Programming fonts with ligatures
 
 *   [Cascadia Code (⭐22k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
-*   [FiraCode (⭐69k)](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
-*   [Fixedsys Excelsior (⭐829)](https://github.com/kika/fixedsys)
+*   [FiraCode (⭐70k)](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
+*   [Fixedsys Excelsior (⭐835)](https://github.com/kika/fixedsys)
 *   [Hasklig (⭐5.4k)](https://github.com/i-tu/Hasklig)
 *   [Iosevka (⭐16k)](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
 *   [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+*   [Lilex (⭐350)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 *   [Monoid (⭐7.6k)](https://github.com/larsenwork/monoid)
 *   [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
 *   [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
@@ -179,14 +181,14 @@ A curated list of fonts and typography resources.
 *   [Beatrix (⭐33)](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 *   [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 *   [fontkit (⭐1.2k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
-*   [fontmin (⭐5k)](https://github.com/ecomfe/fontmin) - Font minifier
+*   [fontmin (⭐5.1k)](https://github.com/ecomfe/fontmin) - Font minifier
 *   [Fontsource (⭐3.6k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
 *   [Lettering.js (⭐5.4k)](https://github.com/davatron5000/Lettering.js)
-*   [localFont (⭐854)](https://github.com/jaicab/localFont) - Save fonts in localStorage
+*   [localFont (⭐853)](https://github.com/jaicab/localFont) - Save fonts in localStorage
 *   [opentype.js (⭐3.9k)](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
 *   [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 *   [Typeset.js (⭐2.4k)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
-*   [Typr.js (⭐789)](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
+*   [Typr.js (⭐792)](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
 
 #### Event listeners for fonts loading on a web page
 
@@ -207,11 +209,12 @@ A curated list of fonts and typography resources.
 ## Other
 
 *   [Command line font-manager (⭐17)](https://github.com/alyssais/font)
+*   [fnt (⭐361)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 *   [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 *   [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
-*   [FontForge (⭐5.2k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
+*   [FontForge (⭐5.3k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
 *   [Powerline Fonts (⭐24k)](https://github.com/powerline/fonts) - Patched fonts for Powerline users
-*   [TruFont (⭐436)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐437)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## License
 

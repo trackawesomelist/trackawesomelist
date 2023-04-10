@@ -6,6 +6,13 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Apr 10, 2023](/content/2023/04/10/README.md)
+
+### JavaScript Libraries
+
+*   [noble-curves (⭐313)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
+*   [noble-secp256k1 (⭐530)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+
 ## [Apr 09, 2023](/content/2023/04/09/README.md)
 
 ### C Libraries
@@ -30,7 +37,7 @@ A curated list of bitcoin services and tools for software developers
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐32)](https://github.com/paulmillr/scure-btc-signer) — Secure, audited minimal library for creating, signing & decoding Bitcoin transactions.
+*   [scure-btc-signer (⭐32)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ## [Mar 12, 2023](/content/2023/03/12/README.md)
 
@@ -96,7 +103,6 @@ A curated list of bitcoin services and tools for software developers
 ### Utilities
 
 *   [Nigiri (⭐202)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
-*   [Nigiri in Travis (⭐2)](https://github.com/vulpemventures/nigiri-travis) - Travis template for adding Nigiri to your Travis (or Github Action) pipeline.
 *   [hal (⭐112)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
@@ -110,12 +116,6 @@ A curated list of bitcoin services and tools for software developers
 ### Full nodes
 
 *   [btcd (⭐5.2k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
-
-## [Sep 08, 2020](/content/2020/09/08/README.md)
-
-### Utilities
-
-*   [LibreSelery (⭐121)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
 
 ## [Aug 24, 2020](/content/2020/08/24/README.md)
 
@@ -168,7 +168,6 @@ A curated list of bitcoin services and tools for software developers
 
 ### Blockchain API and Web services
 
-*   [Cashier-BTC (⭐266)](https://github.com/Overtorment/Cashier-BTC) - Self-hosted payment gateway.
 *   [Chainradar API (⭐3)](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 
 ### Blockchain Explorers
@@ -196,7 +195,6 @@ A curated list of bitcoin services and tools for software developers
 ### .Net Libraries
 
 *   [BitcoinLib (⭐380)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
-*   [QBitNinja (⭐69)](https://github.com/MetacoSA/QBitNinja) - An Open Source and powerful blockchain API.
 
 ### Playgrounds
 
@@ -210,8 +208,6 @@ A curated list of bitcoin services and tools for software developers
 *   [BitcoinDatabaseGenerator (⭐109)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 *   [Blockparser+SQL (⭐61)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
 *   [BitcoinABE (⭐952)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
-*   [NBitcoin.Indexer (⭐27)](https://github.com/MetacoSA/NBitcoin.Indexer) - Scalable and fault-tolerant block chain indexer for Azure cloud platform.
-*   [Blockchain2Graph (⭐143)](https://github.com/straumat/blockchain2graph) - Graph Database Builder.
 
 ### Full nodes
 

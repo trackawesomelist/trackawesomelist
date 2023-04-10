@@ -40,7 +40,6 @@ A curated list of bitcoin services and tools for software developers
 ## Utilities
 
 *   [Nigiri (⭐202)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
-*   [Nigiri in Travis (⭐2)](https://github.com/vulpemventures/nigiri-travis) - Travis template for adding Nigiri to your Travis (or Github Action) pipeline.
 *   [hal (⭐112)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 *   [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
 *   [Pycoin (⭐1.3k)](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
@@ -49,7 +48,6 @@ A curated list of bitcoin services and tools for software developers
 *   [hellobitcoin (⭐248)](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 *   [Mining visualization](http://www.yogh.io/#mine:last)
 *   [HD Wallet Scanner (⭐15)](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
-*   [LibreSelery (⭐121)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
 
 ## Blockchain API and Web services
@@ -64,7 +62,6 @@ A curated list of bitcoin services and tools for software developers
 *   [Chain.com](https://chain.com)
 *   [Coinbase Wallet](https://wallet.coinbase.com/)
 *   [Smartbit](https://www.smartbit.com.au)
-*   [Cashier-BTC (⭐266)](https://github.com/Overtorment/Cashier-BTC) - Self-hosted payment gateway.
 *   [Chainradar API (⭐3)](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 *   [One-Time Address (⭐52)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
@@ -115,7 +112,9 @@ A curated list of bitcoin services and tools for software developers
 *   [BlockTrail SDK NodeJS (⭐39)](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 *   [bcoin (⭐2.8k)](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers.
 *   [Libauth](https://libauth.org/) – A lightweight, zero-dependency, JavaScript/TypeScript bitcoin library.
-*   [scure-btc-signer (⭐32)](https://github.com/paulmillr/scure-btc-signer) — Secure, audited minimal library for creating, signing & decoding Bitcoin transactions.
+*   [noble-curves (⭐313)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
+*   [noble-secp256k1 (⭐530)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+*   [scure-btc-signer (⭐32)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ## PHP Libraries
 
@@ -160,7 +159,6 @@ A curated list of bitcoin services and tools for software developers
 
 *   [NBitcoin (⭐1.8k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 *   [BitcoinLib (⭐380)](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
-*   [QBitNinja (⭐69)](https://github.com/MetacoSA/QBitNinja) - An Open Source and powerful blockchain API.
 
 ## Playgrounds
 
@@ -180,8 +178,6 @@ A curated list of bitcoin services and tools for software developers
 *   [BitcoinDatabaseGenerator (⭐109)](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 *   [Blockparser+SQL (⭐61)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
 *   [BitcoinABE (⭐952)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
-*   [NBitcoin.Indexer (⭐27)](https://github.com/MetacoSA/NBitcoin.Indexer) - Scalable and fault-tolerant block chain indexer for Azure cloud platform.
-*   [Blockchain2Graph (⭐143)](https://github.com/straumat/blockchain2graph) - Graph Database Builder.
 *   [Chaingraph (⭐28)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## Full nodes
