@@ -2,7 +2,7 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.6K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
@@ -17,6 +17,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Instantly answer your visitors' questions with a personalized chatbot trained on your website content.
 
   Offer Free Version: :white\_check\_mark:
+
+
+
+### Social Networks & Dating
+
+- Name: [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection)
+
+  Title: AI Photoshoot Generator for Dating.
+
+  Description: TinderProfile.ai uses AI to analyze users' selfies & photos and generate high-quality images to enhance dating profiles, boosting chances of getting more matches.
+
+  Offer Free Version: :grey\_question:
 
 
 

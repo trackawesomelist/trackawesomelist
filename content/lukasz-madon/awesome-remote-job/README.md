@@ -2,9 +2,34 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 24K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 25K · 🏷️ Work
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
+
+## [Apr 11, 2023](/content/2023/04/11/README.md)
+
+### Job boards
+
+*   [Java Jobs](https://javajobs.pro/remote/jobs) - Remote Java Jobs
+*   [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
+*   [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
+
+### Interviewing
+
+*   [Meetapro](https://meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
+
+### Newsletters
+
+*   [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
+
+### Companies with "remote DNA"
+
+*   [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
+*   [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) - ML Model Development for teams. Remotely worldwide
+
+### Communities
+
+*   [Invide](https://invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://dsc.gg/invide) for newbies.
 
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
@@ -133,7 +158,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
 *   [Soostone](http://www.soostone.com/careers)
-*   [Sourcegraph (⭐130)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
 *   [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
 *   [StackExchange](https://stackoverflow.com/company/work-here)
@@ -561,7 +586,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐543)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐607)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
@@ -721,7 +746,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐897)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐898)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [Apr 30, 2019](/content/2019/04/30/README.md)
 
@@ -781,7 +806,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐5.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐6.1k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 
@@ -1104,7 +1129,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [remote-jobs (⭐23k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐24k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 *   [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
 
 ## [Sep 18, 2017](/content/2017/09/18/README.md)
@@ -1183,7 +1208,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐744)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐776)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 21, 2017](/content/2017/03/21/README.md)
 
@@ -1195,7 +1220,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Remote Working (⭐8.5k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐8.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [Feb 14, 2017](/content/2017/02/14/README.md)
 
@@ -1231,7 +1256,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Interviewing
 
-*   [awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐55k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 

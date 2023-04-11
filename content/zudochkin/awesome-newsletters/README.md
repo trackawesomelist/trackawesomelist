@@ -6,6 +6,16 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Apr 11, 2023](/content/2023/04/11/README.md)
+
+### Frontend
+
+*   [Frontend Snacks](https://frontendsnacks.dev/). Get weekly snacks - A code snippet to teach complex topics visually, latest frontend gossip/news and free career dev toolkit delivered fresh in your inbox.
+
+### Leadership / Angular
+
+*   [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
+
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
 
 ### Business/Finance / Angular

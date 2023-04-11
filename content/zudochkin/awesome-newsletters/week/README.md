@@ -8,6 +8,14 @@ A list of amazing Newsletters
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### Frontend
+
+*   [Frontend Snacks](https://frontendsnacks.dev/). Get weekly snacks - A code snippet to teach complex topics visually, latest frontend gossip/news and free career dev toolkit delivered fresh in your inbox.
+
+### Leadership / Angular
+
+*   [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
+
 ### Business/Finance / Angular
 
 *   [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
