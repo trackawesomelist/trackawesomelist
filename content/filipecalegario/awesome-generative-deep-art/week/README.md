@@ -8,10 +8,18 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
+### Inbox: Large Language Models
 
 *   [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
 *   [lm-sys/FastChat (⭐12k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
+
+### Inbox: Large Language Models / Autonomous LLM Agents
+
+*   [AgentGPT](https://agentgpt.reworkd.ai/): "assemble, configure, and deploy autonomous AI Agents in your browser"
+*   [yoheinakajima/babyagi (⭐6.8k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
+*   [Torantulino/Auto-GPT (⭐26k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
+*   [microsoft/JARVIS (⭐15k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
+*   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -19,6 +27,14 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI Index Report 2023 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/): report that measures trends in AI written by the Human-Centered Artificial Intelligence from Stanford University
 *   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): paper that summarizes the evolution of language models, with a focus on LLMs, discussing their advances, techniques, and impact on AI development and usage
+
+### Inbox: Large Language Models
+
+*   [Haystack (⭐7.7k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 
 ### Courses and Educational Materials / Deforum
 
@@ -33,15 +49,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
-
-*   [Haystack (⭐7.7k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
-
-*   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
-
-### Inbox: Developing + AI / Text-related Generative Tools
+### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 
 *   [pgosar/ChatGDB (⭐560)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
@@ -62,7 +70,12 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [BestWebbs](https://bestwebbs.com/): "one-stop destination for all AI Tools"
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Inbox: Large Language Models
+
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐6.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
+
+### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
 
 *   [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 
@@ -80,16 +93,11 @@ A curated list of Generative AI tools, works, models, and references
 *   ["OpenAI released plugins for ChatGPT"](https://twitter.com/thealexbanks/status/1639620659142881283): tweet from [@thealexbanks](https://twitter.com/thealexbanks) with a list of reflections about the impact of ChatGPT plugins
 *   [Is a socially fair Artificial Intelligence possible? | Uma Inteligência Artificial socialmente justa é possível?](https://www.mabuse.art.br/post/uma-intelig%C3%AAncia-artificial-socialmente-justa-%C3%A9-poss%C3%ADvel): post in Portuguese by H.D. Mabuse
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
-
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐6.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
-*   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
-
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
 
-### Inbox: Video AI tools / Text-related Generative Tools
+### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
 *   [Gen-2 by Runway](https://research.runwayml.com/gen2): "a multi-modal AI system that can generate novel videos with text, images, or video clips" [\[arxiv\]](https://arxiv.org/abs/2302.03011)
 *   [CiaraRowles/TemporalNet · Hugging Face](https://huggingface.co/CiaraRowles/TemporalNet): a ControlNet model designed to enhance the temporal consistency of generated outputs [\[tweet\]](https://twitter.com/ciararowles1/status/1639321818581303310)
@@ -103,16 +111,16 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Who Owns the Generative AI Platform? | Andreessen Horowitz](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/): this article discusses the generative AI market and presents an interesting technology stack of the area
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
+### Inbox: Large Language Models
 
 *   [logspace-ai/langflow (⭐3.3k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models / Embeddings and Semantic Search
 
 *   [facebookresearch/faiss (⭐20k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 *   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 
-### Inbox: Games and AI / Text-related Generative Tools
+### Inbox: Games and AI / Generative Adversarial Networks (GANs)
 
 *   [The Generative AI Revolution in Games | Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/): this article presents a list of use cases of generative AI in games
 
@@ -124,9 +132,12 @@ A curated list of Generative AI tools, works, models, and references
 *   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
 *   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Embeddings and Semantic Search
+### Papers and References / AI Tools for Searching
 
-*   \[🔥] [whitead/paper-qa (⭐1.9k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+*   [whitead/paper-qa (⭐1.9k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+
+### Inbox: Large Language Models / Embeddings and Semantic Search
+
 *   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
 
 ### Image Synthesis / Promptism
@@ -145,22 +156,22 @@ A curated list of Generative AI tools, works, models, and references
 *   [What's the big deal with Generative AI? Is it the future or the present?](https://txt.cohere.ai/generative-ai-future-or-present/): summarization of the area of Generative AI by Cohere AI
 *   [Timeline of AI and language models](https://lifearchitect.ai/timeline/): LLM timeline organized by Dr Alan D. Thompson from Life Architect
 
-### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
-
-*   \[🔥🔥🔥] [Prompt book for data lovers II - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
+### Inbox: Large Language Models
 
 *   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
 *   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models / Embeddings and Semantic Search
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models / Text-related Generative Tools
 
 *   [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch
+
+### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
+
+*   \[🔥🔥🔥] [Prompt book for data lovers II - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
 
 ### Miscellaneous / Bio experiments
 
@@ -171,6 +182,23 @@ A curated list of Generative AI tools, works, models, and references
 ### The Generative AI Area: history, maps, and definitions
 
 *   [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
+
+### Inbox: Large Language Models / Embeddings and Semantic Search
+
+*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
+*   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
+*   [jerryjliu/gpt\_index: GPT Index (LlamaIndex) (⭐12k)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
+*   [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
+*   [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
+*   [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+*   [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
+
+### Inbox: Large Language Models
+
+*   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
+*   [hwchase17/langchain (⭐24k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
+*   [Godly](https://godly.ai): Instant context for GPT3
 
 ### Online Tools and Applications / Generative Adversarial Networks (GANs)
 
@@ -191,23 +219,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Embeddings and Semantic Search
-
-*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
-*   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
-*   [jerryjliu/gpt\_index: GPT Index (LlamaIndex) (⭐12k)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
-*   [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
-*   [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
-*   [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
-*   [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
-
-*   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
-*   [hwchase17/langchain (⭐24k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
-*   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
-*   [Godly](https://godly.ai): Instant context for GPT3
-
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
@@ -218,7 +229,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐37)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
-### Inbox: Developing + AI / Text-related Generative Tools
+### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -252,7 +263,11 @@ A curated list of Generative AI tools, works, models, and references
 *   [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/): directory of AI tools
 *   [There's An AI For That](https://theresanaiforthat.com/): AI database
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Inbox: Large Language Models
+
+*   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
+
+### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
 
 *   [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
 
@@ -281,16 +296,12 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
-
-*   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
-
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [lucidrains/musiclm-pytorch (⭐2k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 *   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐1.3k)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 
-### Inbox: Developing + AI / Text-related Generative Tools
+### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 
 *   [openai/openai-cookbook (⭐26k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
@@ -304,11 +315,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
+### Inbox: Large Language Models
 
 *   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
 
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
 
@@ -318,7 +329,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
 
-### Inbox: Video AI tools / Text-related Generative Tools
+### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
 *   [neural frames](https://www.neuralframes.com/firstframe): tools for animation creation inspired on deforum
 
@@ -328,7 +339,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Engines of Wow: AI Art Comes of Age – Steve Murch](https://www.stevemurch.com/engines-of-wow-ai-art-comes-of-age/2022/12)
 
-### Prompt Engineering | Prompt Design | Prompt Craft
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
+
+### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
 
 *   [dair-ai/Prompt-Engineering-Guide (⭐21k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
@@ -365,20 +380,16 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥] [weihaox/awesome-gan-inversion (⭐919)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
-
-*   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
-
-### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
+### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
 
 *   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 
-### Inbox: Video AI tools / Text-related Generative Tools
+### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
 *   \[🔥] [dmarx/video-killed-the-radio-star (⭐113)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 
-### Inbox: Games and AI / Text-related Generative Tools
+### Inbox: Games and AI / Generative Adversarial Networks (GANs)
 
 *   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
@@ -402,6 +413,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 *   \[🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
+
+### Inbox: Large Language Models / ChatGPT
+
+*   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
@@ -429,17 +444,23 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / ChatGPT
-
-*   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
-
-### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
+### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
 *   [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### Inbox: Large Language Models / ChatGPT
+
+*   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
+
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
+*   [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
+*   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -454,17 +475,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 
-### Inbox: Text, Natural Language Processing, Large Language Models / ChatGPT
-
-*   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
-
-*   [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
-*   [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
-*   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
-
-### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
+### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
 
 *   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 *   [neonbjb/tortoise-tts (⭐5.7k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
@@ -475,19 +486,27 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
+### Inbox: Large Language Models / ChatGPT
+
+*   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
+
 ### Papers and References / Papers Collections
 
 *   [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow)
-
-### Inbox: Text, Natural Language Processing, Large Language Models / ChatGPT
-
-*   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
 *   \[🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai)
+
+### Inbox: Large Language Models / ChatGPT
+
+*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -501,15 +520,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [openai/point-e (⭐5k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
-### Inbox: Text, Natural Language Processing, Large Language Models / ChatGPT
-
-*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
-
-*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
-
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -543,11 +558,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 *   [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
-
-*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
-
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   \[🔥🔥🔥] [Riffusion](https://www.riffusion.com/): an app for real-time music generation with stable diffusion
 *   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
@@ -558,7 +569,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
 *   [archinetai/audio-diffusion-pytorch (⭐1.2k)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
-### Inbox: Video AI tools / Text-related Generative Tools
+### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
 *   [THUDM/CogVideo (⭐2.7k)](https://github.com/THUDM/CogVideo): text-to-video generation
 
@@ -633,7 +644,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [MubertAI/Mubert-Text-to-Music (⭐2.5k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
@@ -738,6 +749,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
 *   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
 *   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
+
+### Inbox: Large Language Models
+
+*   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 
 ### Datasets / Generative Adversarial Networks (GANs)
 
@@ -948,16 +963,12 @@ A curated list of Generative AI tools, works, models, and references
 *   [remove.bg](https://www.remove.bg/): remove background from images
 *   [Quick, Draw!](https://quickdraw.withgoogle.com/): Can a neural network learn to recognize doodling? A game to help NL by adding users drawing
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
-
-*   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
-
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
 *   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
-### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
+### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
 
 *   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
 *   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]
@@ -1037,48 +1048,48 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models / Text-related Generative Tools
 
 *   [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
 
-### Inbox: Video AI tools / Text-related Generative Tools
+### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
 *   [baowenbo/DAIN (⭐7.8k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 *   [Dain-App 1.0 \[Nvidia Only\] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / BLOOM
+### Inbox: Large Language Models / BLOOM
 
 *   [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
 *   [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / GPT-3
+### Inbox: Large Language Models / GPT-3
 
 *   [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/)
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
+### Inbox: Large Language Models
+
+*   [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+
 ### Papers and References / Papers Collections
 
 *   [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8): Community knowledge base for Casual GAN Papers
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
-
-*   [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models / Text-related Generative Tools
 
 *   [Riku.AI | The vault for your A.I. creations](https://riku.ai/)
 *   [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8)
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [AI Image to sound \[Melobytes.com\]](https://melobytes.com/en/app/ai_image2sound)
 
@@ -1104,6 +1115,17 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
+### Inbox: Large Language Models / GPT-3
+
+*   [GPT-3 playground](https://beta.openai.com/playground)
+*   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
+
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [Authors A.I.](https://authors.ai/): AI-powered text analysis
+*   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
+*   [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
+
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
 *   [ouhenio/StyleGAN3-CLIP-notebooks (⭐179)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
@@ -1113,17 +1135,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
 
-### Inbox: Text, Natural Language Processing, Large Language Models / GPT-3
-
-*   [GPT-3 playground](https://beta.openai.com/playground)
-*   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
-
-*   [Authors A.I.](https://authors.ai/): AI-powered text analysis
-*   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
-*   [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
-
 ### People and works / Artists and Artworks
 
 *   \[🔥] [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
@@ -1131,13 +1142,13 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
+### Inbox: Large Language Models
+
+*   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
+
 ### Image Synthesis / Promptism
 
 *   [mikaelalafriz/lucid-sonic-dreams (⭐743)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
-
-*   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
 
 ### Miscellaneous / Improving Google Colab experience
 
@@ -1231,11 +1242,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
-### Image Synthesis / Promptism
-
-*   [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/)
-
-### Inbox: Text, Natural Language Processing, Large Language Models / Generative Adversarial Networks (GANs)
+### Inbox: Large Language Models
 
 *   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
 *   [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
@@ -1245,10 +1252,14 @@ A curated list of Generative AI tools, works, models, and references
 *   [Wudao](https://pretrain.aminer.cn/os/qa)
 *   [Emerson on Telegram](https://www.quickchat.ai/emerson)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models / Text-related Generative Tools
 
 *   [InferKit](https://app.inferkit.com/demo)
 *   [CopyHat](https://copyhat.com/)
+
+### Image Synthesis / Promptism
+
+*   [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/)
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
@@ -1280,7 +1291,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
-### Inbox: Text, Natural Language Processing, Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models / Text-related Generative Tools
 
 *   [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
 

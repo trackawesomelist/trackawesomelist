@@ -6,6 +6,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ [Daily](/content/matteocrippa/awesome-swift/README.md) / Weekly / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
+
+### Animation
+
+*   [CocoaSprings (⭐26)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
+
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
 ### Scroll Bars / Barcode
@@ -344,7 +350,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Augmented Reality
 
-*   [ARHeadsetKit (⭐89)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐92)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 
 ### Alert / Barcode
 
@@ -985,7 +991,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Quality / Barcode
 
 *   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐6.5k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐6.6k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 

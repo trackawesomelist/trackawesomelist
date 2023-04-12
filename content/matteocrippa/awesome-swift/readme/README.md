@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                                 iOS App                                                                                 |                                                                           Awesome                                                                           |   Linux   | Projects |     Updated    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :------------: |
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1044   | March 29, 2023 |
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1045   | April 11, 2023 |
 
 ### Contents
 
@@ -350,6 +350,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 *   [Advance (⭐4.5k)](https://github.com/timdonnelly/Advance) - A powerful animation framework for iOS, tvOS, and OS X.
 *   [ChainPageCollectionView (⭐783)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [CocoaSprings (⭐26)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
 *   [Comets (⭐595)](https://github.com/cruisediary/Comets) - Animating Particles.
 *   [Ease (⭐1.3k)](https://github.com/roberthein/Ease) - Animate everything with Ease.
 *   [EasyAnimation (⭐3k)](https://github.com/icanzilb/EasyAnimation) - A library to take the power of UIView\.animateWithDuration(\_:, animations:...) to a whole new level.
@@ -430,7 +431,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 [back to top](#readme)
 
-*   [ARHeadsetKit (⭐89)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐92)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 *   [ARKit-CoreLocation (⭐5.3k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 *   [ARKit-Navigation (⭐300)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 *   [ARVideoKit (⭐1.5k)](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, Live Photos, and GIFs.
@@ -1200,7 +1201,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [L10nLint (⭐25)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
 *   [swift-mod (⭐97)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 *   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐6.5k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐6.6k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 *   [SwiftLint (⭐17k)](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 *   [Swimat (⭐1.6k)](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 *   [Tailor (⭐1.4k)](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.

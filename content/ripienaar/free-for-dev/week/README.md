@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
+
+### DBaaS
+
+*   [8base.com](https://www.8base.com/) - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service, it allows you to start building web applications quicky using a UI app builder and scale easily, Free tier includes: rows: 2,500, Storage: 500Mb, Serverless computing: 1Gb/h, client app users: 5.
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### APIs, Data and ML
@@ -3503,7 +3509,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
 *   [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps, and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
-*   [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
 *   [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow, based on any trigger. Workflows are code, which you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
 
 ### BaaS
@@ -3519,6 +3524,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
 *   [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
 *   [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
+
+### Low-code Platform
+
+*   [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
 
 ### Web Hosting
 

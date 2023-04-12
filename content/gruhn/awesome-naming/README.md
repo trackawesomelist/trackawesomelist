@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Apr 12, 2023](/content/2023/04/12/README.md)
+
+### Machine Learning
+
+*   [Training](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets) - The process of showing the machine a bunch of examples, until it learns what we want from it.
+
 ## [Nov 25, 2022](/content/2022/11/25/README.md)
 
 ### Other
@@ -52,7 +58,7 @@ A curated list for when naming things is done right.
 
 ### Libraries and Frameworks
 
-*   [Puppeteer (⭐81k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐83k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 08, 2021](/content/2021/10/08/README.md)
 
@@ -89,7 +95,7 @@ A curated list for when naming things is done right.
 
 ### Libraries and Frameworks
 
-*   [Uglify (⭐12k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
+*   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
 
 ### Theoretical Computer Science
 
@@ -155,7 +161,7 @@ A curated list for when naming things is done right.
 
 ### Libraries and Frameworks
 
-*   [uppy (⭐26k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐27k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [Jun 13, 2020](/content/2020/06/13/README.md)
 

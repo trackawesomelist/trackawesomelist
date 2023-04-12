@@ -8,13 +8,21 @@ A curated list of Generative AI tools, works, models, and references
 
 ---
 
-# Awesome Generative AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
+# Awesome Generative AI[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/)
 
 > A curated list of Generative AI projects, tools, artworks, and models
 
-*   [Generative AI ](#generative-ai-)
+*   [Awesome Generative AI](#awesome-generative-ai)
     *   [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
+    *   [Generative AI Processes and Artifacts](#generative-ai-processes-and-artifacts)
     *   [Generative AI Tools Directories](#generative-ai-tools-directories)
+    *   [Inbox: Large Language Models](#inbox-large-language-models)
+        *   [Autonomous LLM Agents](#autonomous-llm-agents)
+        *   [Embeddings and Semantic Search](#embeddings-and-semantic-search)
+        *   [ChatGPT](#chatgpt)
+        *   [GPT-3](#gpt-3)
+        *   [BLOOM](#bloom)
+        *   [Text-related Generative Tools](#text-related-generative-tools)
     *   [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
         *   [For text-to-text](#for-text-to-text)
         *   [For text-to-image](#for-text-to-image)
@@ -46,14 +54,9 @@ A curated list of Generative AI tools, works, models, and references
     *   [Collections](#collections)
     *   [Image Upscaling](#image-upscaling)
     *   [Image Restoration](#image-restoration)
+    *   [Image Segmentation](#image-segmentation)
     *   [Online Tools and Applications](#online-tools-and-applications)
     *   [Datasets](#datasets)
-    *   [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
-        *   [Embeddings and Semantic Search](#embeddings-and-semantic-search)
-        *   [ChatGPT](#chatgpt)
-        *   [GPT-3](#gpt-3)
-        *   [BLOOM](#bloom)
-        *   [Text-related Generative Tools](#text-related-generative-tools)
     *   [Inbox: Music and Audio projects](#inbox-music-and-audio-projects)
     *   [Inbox: Text-to-speech (TTS) tools](#inbox-text-to-speech-tts-tools)
     *   [Inbox: Video AI tools](#inbox-video-ai-tools)
@@ -112,6 +115,95 @@ A curated list of Generative AI tools, works, models, and references
 *   [There's An AI For That](https://theresanaiforthat.com/): AI database
 *   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 *   \[🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
+
+## Inbox: Large Language Models
+
+*   [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
+*   [lm-sys/FastChat (⭐12k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐6.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
+*   [logspace-ai/langflow (⭐3.3k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
+*   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
+*   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
+*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419): using langchain to build a app for paper summarization
+*   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
+*   [hwchase17/langchain (⭐24k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
+*   [Godly](https://godly.ai): Instant context for GPT3
+*   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
+*   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
+*   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
+*   [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+*   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
+*   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
+*   [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
+*   [Jurassic-1](https://studio.ai21.com/)
+*   [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
+*   [AIx](https://apps.aixsolutionsgroup.com/)
+*   [Wudao](https://pretrain.aminer.cn/os/qa)
+*   [Emerson on Telegram](https://www.quickchat.ai/emerson)
+*   [Haystack (⭐7.7k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+
+### Autonomous LLM Agents
+
+*   [AgentGPT](https://agentgpt.reworkd.ai/): "assemble, configure, and deploy autonomous AI Agents in your browser"
+*   [yoheinakajima/babyagi (⭐6.8k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
+*   [Torantulino/Auto-GPT (⭐26k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
+*   [microsoft/JARVIS (⭐15k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
+*   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
+
+### Embeddings and Semantic Search
+
+*   [facebookresearch/faiss (⭐20k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
+*   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
+*   \[🔥] [whitead/paper-qa (⭐1.9k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
+*   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
+*   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
+*   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
+*   [jerryjliu/gpt\_index: GPT Index (LlamaIndex) (⭐12k)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
+*   [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
+*   [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
+*   [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+*   [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
+
+### ChatGPT
+
+*   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
+*   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
+*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+*   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
+
+### GPT-3
+
+*   [GPT-3 playground](https://beta.openai.com/playground)
+*   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
+*   [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/)
+
+### BLOOM
+
+*   [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
+*   [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
+
+### Text-related Generative Tools
+
+*   [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch
+*   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
+*   [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
+*   [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
+*   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
+*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
+*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
+*   [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
+*   [InferKit](https://app.inferkit.com/demo)
+*   [CopyHat](https://copyhat.com/)
+*   [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
+*   [Authors A.I.](https://authors.ai/): AI-powered text analysis
+*   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
+*   [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
+*   [Riku.AI | The vault for your A.I. creations](https://riku.ai/)
+*   [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8)
+*   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -565,87 +657,6 @@ A curated list of Generative AI tools, works, models, and references
 *   [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai\&index=laion5B\&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
 *   [rom1504/clip-retrieval (⭐1.2k)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
 *   [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
-
-## Inbox: Text, Natural Language Processing, Large Language Models
-
-*   [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
-*   [lm-sys/FastChat (⭐12k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐6.1k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
-*   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
-*   [logspace-ai/langflow (⭐3.3k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
-*   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
-*   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
-*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419): using langchain to build a app for paper summarization
-*   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
-*   [hwchase17/langchain (⭐24k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
-*   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
-*   [Godly](https://godly.ai): Instant context for GPT3
-*   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
-*   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
-*   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
-*   [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-*   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
-*   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
-*   [Emerson on iOS](https://apps.apple.com/us/app/emerson...)
-*   [Jurassic-1](https://studio.ai21.com/)
-*   [EleutherAI | GPT-J-6B](https://6b.eleuther.ai/)
-*   [AIx](https://apps.aixsolutionsgroup.com/)
-*   [Wudao](https://pretrain.aminer.cn/os/qa)
-*   [Emerson on Telegram](https://www.quickchat.ai/emerson)
-*   [Haystack (⭐7.7k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
-
-### Embeddings and Semantic Search
-
-*   [facebookresearch/faiss (⭐20k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
-*   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
-*   \[🔥] [whitead/paper-qa (⭐1.9k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
-*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
-*   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
-*   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
-*   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
-*   [jerryjliu/gpt\_index: GPT Index (LlamaIndex) (⭐12k)](https://github.com/jerryjliu/gpt_index): a project to make it easier to use large external knowledge bases with LLMs
-*   [Llama Hub](https://llamahub.ai/): a repository of data loaders for LlamaIndex (GPT Index) and LangChain
-*   [Chroma](https://www.trychroma.com/): an open-source AI-native database that makes it easy to use embeddings
-*   [LangChain 0.0.94](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
-*   [Getting started with LangChain — A powerful tool for working with Large Language Models | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842)
-
-### ChatGPT
-
-*   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
-*   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
-*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
-*   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
-
-### GPT-3
-
-*   [GPT-3 playground](https://beta.openai.com/playground)
-*   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
-*   [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/)
-
-### BLOOM
-
-*   [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
-*   [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
-
-### Text-related Generative Tools
-
-*   [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch
-*   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
-*   [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
-*   [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
-*   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
-*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
-*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
-*   [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
-*   [InferKit](https://app.inferkit.com/demo)
-*   [CopyHat](https://copyhat.com/)
-*   [Lucid Lyrics - AI Assisted Art](https://www.lucidlyricsart.com/): AI-Assisted Lyrical Interpretations by Walter Arnold
-*   [Authors A.I.](https://authors.ai/): AI-powered text analysis
-*   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
-*   [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
-*   [Riku.AI | The vault for your A.I. creations](https://riku.ai/)
-*   [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8)
-*   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 
 ## Inbox: Music and Audio projects
 
