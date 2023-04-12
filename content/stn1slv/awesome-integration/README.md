@@ -6,41 +6,106 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Apr 12, 2023](/content/2023/04/12/README.md)
+
+### Projects / API Design
+
+*   [Swagger Editor (⭐8.1k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐370)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+
+### Projects / API Gateway
+
+*   [Apache APISIX (⭐12k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
+*   [Spring Cloud Gateway (⭐4k)](https://github.com/spring-cloud/spring-cloud-gateway) -  An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
+
+### Projects / API Testing
+
+*   Testing tools and frameworks
+    *   [Apache JMeter (⭐6.9k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
+    *   [Karate (⭐6.9k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
+    *   [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
+    *   [REST Assured (⭐6.3k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+    *   [Schemathesis (⭐1.7k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
+
+### Projects / BRE
+
+*   [Drools (⭐5.1k)](https://github.com/kiegroup/drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
+*   [OpenL Tablets (⭐116)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
+
+### Projects / Data Mapping Solution
+
+*   [AltasMap (⭐144)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
+
+### Projects / ESB
+
+*   [NServiceBus (⭐2k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
+
+### Projects / ETL
+
+*   [Apache NiFi (⭐3.7k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
+
+### Projects / Integration Frameworks
+
+*   [Apache Camel (⭐4.8k)](https://github.com/apache/camel/) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
+*   [Ballerina (⭐3.2k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
+*   [Spring Integration (⭐1.4k)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
+
+### Projects / iPaaS
+
+*   [Boomi AtomSphere](https://boomi.com/platform) - A cloud-native, unified, open, and intelligent platform that connects everything and everyone, allowing software engineers to create and manage integrations easily.
+
+### Projects / Messaging
+
+*   [Apache Kafka (⭐25k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
+*   [Apache Pulsar (⭐13k)](https://github.com/apache/pulsar) - A distributed pub/sub-messaging system that supports both traditional messaging and streaming use cases. Offers a scalable and flexible architecture and supports multiple messaging protocols.
+*   [Apache RocketMQ (⭐19k)](https://github.com/apache/rocketmq) - A fast and reliable distributed messaging platform designed for high volume and low latency messaging scenarios. Offers efficient message storage and retrieval and supports various messaging patterns.
+*   [Eclipse Mosquitto (⭐7.2k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+*   [RabbitMQ (⭐11k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
+
+### Projects / Workflow engine
+
+*   [jBPM (⭐1.5k)](https://github.com/kiegroup/jbpm) -  A toolkit for building business applications that helps you automate business processes and decisions, making it easier to manage complex workflows.
+
+### Resources / API Specification
+
+*   [API Blueprint (⭐8.5k)](https://github.com/apiaryio/api-blueprint) - A powerful high-level language for designing and documenting APIs that allows software engineers to easily collaborate and create efficient APIs.
+*   [AsyncAPI (⭐3k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
+*   [JSON:API (⭐7.1k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
+*   [OpenAPI (ex.Swagger) (⭐26k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
+
+### Resources / Data Formats
+
+*   [Protocol Buffers (⭐59k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
+
 ## [Apr 11, 2023](/content/2023/04/11/README.md)
 
 ### Projects / API Design
 
-*   [Dredd (⭐4k)](https://github.com/apiaryio/dredd) - A language-agnostic command-line tool for validating API description document against backend implementation of the API.
-*   [OpenAPI-GUI (⭐1.2k)](https://github.com/Mermade/openapi-gui) - A graphical user interface for designing and validating OpenAPI specs.
+*   [Dredd (⭐4k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
+*   [OpenAPI-GUI (⭐1.2k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
 
 ### Projects / Self-Service Integration
 
-*   [Microsoft Power Automate](https://powerautomate.microsoft.com) - A cloud-based service that enables users to create automated workflows across different applications and services.
+*   [Microsoft Power Automate](https://powerautomate.microsoft.com) - This cloud-based service offers a user-friendly interface to create automated workflows seamlessly, integrating different applications and services with ease, simplifying complex tasks.
 
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
-
-### Projects / API Documentation
-
-*   [DapperDox](http://dapperdox.io) - An Open-Source API documentation generator and server for OpenAPI/Swagger specifications.
 
 ### Projects / API Gateway
 
 *   [Traefik (⭐42k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 
-### Resources / API Specification
-
-*   [API Blueprint](https://apiblueprint.org) - A high-level API description language that is used to design and document APIs.
-*   [JSON:API](https://jsonapi.org) - A specification for building APIs that provides a standardized way to represent resources, relationships, and metadata.
-
 ### Resources / Structure and Validation
 
-*   [Schematron](https://www.schematron.com) - A rule-based validation language for business rules validation, data reporting, general validation, quality control, quality assurance, firewalling, filtering, constraint checking, naming and design rules checking, statistical consistency, data exploration, transformation testing, feature extraction and house-style-rules checking.
+*   [Schematron](https://www.schematron.com) - A rule-based validation language that enables developers to define and validate business rules, data reporting, quality control, and other validation scenarios. Schematron offers a flexible way to validate XML documents.
 
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
 ### Projects / Managed File Transfer
 
-*   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - Securely support all file transfer use cases from a single, centrally managed MFT platform.
+*   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - A centrally managed MFT platform with powerful automation capabilities and advanced security features, capable of supporting all file transfer use cases. It is an ideal choice for businesses that require a comprehensive MFT solution.
 
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
@@ -52,93 +117,82 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Protocols
 
-*   [CoAP](http://coap.technology/) - The Constrained Application Protocol (CoAP) is a specialized Internet application protocol for constrained devices, as defined in RFC 7252.
+*   [CoAP](http://coap.technology/) - A specialized application protocol designed for constrained devices in the Internet of Things (IoT) ecosystem. CoAP offers a lightweight, low-overhead communication mechanism to support resource-constrained devices.
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
 
 ### Projects / API Design
 
-*   [Spectral (⭐1.9k)](https://github.com/stoplightio/spectral) - A JSON/YAML linter with out of the box support for OpenAPI 3.0 & 2.0 and AsyncAPI.
+*   [Spectral (⭐1.9k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 
 ### Projects / API Documentation
 
-*   [APITree](https://www.apitree.com/) - The central place for managing and sharing API specifications.
-*   [OpenAPI Explorer (⭐191)](https://github.com/Rhosys/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
-*   [RapiDoc (⭐1.3k)](https://github.com/rapi-doc/RapiDoc) - Create beautiful, customizable, interactive API documentation from OpenAPI Specification.
-*   [Redoc (⭐20k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
-*   [Slate (⭐35k)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
-*   [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation platform, built for teams to drive consistency and discipline across the API development workflow.
-*   [Swagger UI (⭐24k)](https://github.com/swagger-api/swagger-ui) - Visualize OpenAPI specification definitions in an intuitive UI.
+*   [APITree](https://www.apitree.com/) - A tool for managing and sharing API specifications, with version control, API testing automation, and integration with popular API tools.
+*   [OpenAPI Explorer (⭐191)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+*   [RapiDoc (⭐1.3k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
+*   [Redoc (⭐20k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
+*   [Slate (⭐35k)](https://github.com/slatedocs/slate) - A powerful tool that creates static API documentation from markdown, with API reference docs and code samples.
+*   [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation platform built for teams, with versioning, testing automation, and integration with popular API tools.
+*   [Swagger UI (⭐24k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
 
 ## [Aug 05, 2022](/content/2022/08/05/README.md)
 
 ### Projects / ETL
 
-*   [Hevo](https://hevodata.com/) - Hevo Data is a Fully Automated, No-code Data Pipeline Platform supports 150+ ready-to-use integrations across Databases, SaaS Applications, Cloud Storage, SDKs, and Streaming Services.
-
-## [Jul 26, 2022](/content/2022/07/26/README.md)
-
-### Projects / API Testing
-
-*   Testing tools and frameworks
-    *   [Apache JMeter](https://jmeter.apache.org/) - An open source java based load testing tool.
-    *   [Karate (⭐6.9k)](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool.
-    *   [REST Assured (⭐6.3k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐1.7k)](https://github.com/schemathesis/schemathesis) - Property-based testing for API schemas.
+*   [Hevo](https://hevodata.com/) - A fully automated, no-code data pipeline platform supporting 150+ integrations across databases, SaaS apps, cloud storage, SDKs, and streaming services.
 
 ## [Jun 20, 2022](/content/2022/06/20/README.md)
 
 ### Projects / MaaS
 
-*   [Huawei Cloud Distributed Message Service](https://www.huaweicloud.com/intl/en-us/product/dms.html) - A fully managed, high-performance message queuing service that enables reliable, flexible, and asynchronous communication between distributed applications.
-*   [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - Managed Apache Kafka service.
-*   [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A real-time, serverless, Apache Kafka-compatible event streaming platform.
+*   [Huawei Cloud Distributed Message Service](https://www.huaweicloud.com/intl/en-us/product/dms.html) - A fully managed and high-performance message queuing service that enables reliable, flexible, and asynchronous communication between distributed applications. It offers high scalability, security, and durability, and supports a variety of messaging patterns and protocols.
+*   [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - A managed Apache Kafka service that provides easy setup, scaling, and management of Kafka clusters. It offers high availability, performance, and security, and integrates seamlessly with other Huawei Cloud services.
+*   [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A serverless, real-time event streaming platform with Apache Kafka compatibility, delivering highly performant and cost-effective data processing.
 
 ## [Mar 23, 2022](/content/2022/03/23/README.md)
 
 ### Projects / Managed File Transfer
 
-*   [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - Enterprise MFT Server Solution with high availability and failover to eliminate downtime.
+*   [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) -  An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
 
 ## [Mar 21, 2022](/content/2022/03/21/README.md)
 
 ### Projects / BPM
 
-*   [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - Orchestrate a more effective flow, generate growth, improve cost efficiency, and drive business agility.
-*   [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - An application development platform that enables developers and business experts to create cloud-native applications that automate business operations.
+*   [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - A tool for orchestrating business processes, driving business agility and improving cost efficiency.
+*   [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - Application development platform that enables developers and business experts to create cloud-native applications that automate business operations.
 
 ## [Feb 24, 2022](/content/2022/02/24/README.md)
 
 ### Projects / Data Mapping Solution
 
-*   [Altova MapForce](https://www.altova.com/mapforce) - A graphical data mapping tool for any-to-any conversion and integration.
+*   [Altova MapForce](https://www.altova.com/mapforce) - A graphical data mapping tool that can handle any-to-any conversion and integration tasks. It simplifies complex mapping tasks, enabling software engineers to complete projects faster.
 
 ## [Feb 16, 2022](/content/2022/02/16/README.md)
 
 ### Resources / Standard APIs
 
-*   [OData](https://www.odata.org/) - An open protocol that allows the creation and consumption of queryable and interoperable REST APIs in a simple and standard way.
+*   [OData](https://www.odata.org/) - An open protocol that enables the creation and consumption of queryable and interoperable REST APIs. OData simplifies the development of REST APIs and offers a standardized way to access data.
 
 ## [Feb 15, 2022](/content/2022/02/15/README.md)
 
 ### Projects / Messaging
 
-*   [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - TIBCO EMS is standards-based Java™ Message Service (JMS) implementation allows any application that supports JMS, whether home grown or third-party, to quickly and easily exchange messages.
-*   [VerneMQ (⭐3k)](https://github.com/vernemq/vernemq) - A high-performance, distributed MQTT message broker.
+*   [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - A standards-based JMS implementation that allows for easy exchange of messages between applications. Offers reliable and efficient message delivery and supports various messaging protocols and patterns.
+*   [VerneMQ (⭐3k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
 
 ## [Dec 21, 2021](/content/2021/12/21/README.md)
 
 ### Projects / Data Mapping Solution
 
-*   [JOLT (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java where the "specification" for the transform is itself a JSON document.
-*   [JSLT (⭐533)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
+*   [JOLT (⭐1.3k)](https://github.com/bazaarvoice/jolt) - A Java-based JSON-to-JSON transformation library that uses a JSON document as the "specification" for the transform. JOLT provides a simple way for software engineers to transform JSON data.
+*   [JSLT (⭐533)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ## [Dec 19, 2021](/content/2021/12/19/README.md)
 
 ### Projects / Messaging
 
-*   [Redpanda (⭐6.5k)](https://github.com/vectorizedio/redpanda) - A streaming platform for mission critical workloads. Kafka® compatible, No Zookeeper®, no JVM, and no code changes required.
+*   [Redpanda (⭐6.5k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 
 ## [Nov 09, 2021](/content/2021/11/09/README.md)
 
@@ -164,34 +218,34 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Testing
 
 *   MQ clients
-    *   [JMSToolBox (⭐168)](https://github.com/jmstoolbox/jmstoolbox) - An universal JMS Client able to interact with the greatest number of JMS based message brokers.
-    *   [kcat (⭐4.7k)](https://github.com/edenhill/kcat) - A generic non-JVM producer and consumer for Apache Kafka, think of it as a netcat for Kafka. Formerly known as kafkacat.
-    *   [MQTT Explorer (⭐2.3k)](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview.
-    *   [Offset Explorer](https://www.kafkatool.com) - A GUI application for managing and using Apache Kafka clusters. Formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - A GUI app for Azure Service Bus which provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.
+    *   [JMSToolBox (⭐168)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
+    *   [kcat (⭐4.7k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
+    *   [MQTT Explorer (⭐2.3k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
+    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
+    *   [Service Bus Explorer (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
 
 ## [Aug 26, 2021](/content/2021/08/26/README.md)
 
 ### Projects / MaaS
 
-*   [Amazon MQ](https://aws.amazon.com/amazon-mq) - Fully managed message broker service for Apache ActiveMQ and RabbitMQ.
-*   [Amazon MSK](https://aws.amazon.com/msk) -  Amazon Managed Streaming for Apache Kafka.
-*   [Amazon SQS](https://aws.amazon.com/sqs) - Amazon Simple Queue Service.
-*   [Amazon SNS](https://aws.amazon.com/sns) - Amazon Simple Notification Service. Pub/sub functionality provides topics for high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications.
-*   [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - Fully-managed Apache Kafka service from Alibaba Cloud.
-*   [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed, fully managed, and professional messaging service that features high throughput, low latency, and high scalability.
-*   [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - A distributed message queuing and notification service that supports concurrent operations to facilitate message transfer between applications and decoupled systems.
-*   [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A  distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications.
-*   [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - Enterprise-class cloud messaging, fully integrated with Anypoint Platform.
-*   [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - Reliable cloud messaging as a service (MaaS) and simple hybrid integration.
-*   [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ as a Service.
-*   [CloudKarafka](https://www.cloudkarafka.com/) - Affordable and straightforward, fully managed Kafka clusters available on AWS and Google Cloud.
-*   [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - Messaging and ingestion for event-driven systems and streaming analytics.
-*   [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - Easily move data between enterprise applications, systems and services.
-*   [IronMQ](https://www.iron.io/mq) - Elastic message queue created specifically with the cloud in mind.
-*   [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - A complete event streaming, management and insights platform.
-*   [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - Compatibility with the Amazon SQS HTTP API.
-*   [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - Managed Apache Kafka service.
+*   [Amazon MQ](https://aws.amazon.com/amazon-mq) - A fully managed message broker service that supports Apache ActiveMQ and RabbitMQ. It provides a reliable, secure, and scalable messaging infrastructure for your applications.
+*   [Amazon MSK](https://aws.amazon.com/msk) -  A fully managed service for Apache Kafka that simplifies the setup, scaling, and management of Kafka clusters. It provides a highly available, durable, and performant messaging service for your data streaming needs.
+*   [Amazon SQS](https://aws.amazon.com/sqs) - A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It offers a reliable, secure, and highly available message storage and delivery system.
+*   [Amazon SNS](https://aws.amazon.com/sns) - A fully managed pub/sub messaging service that enables you to send and receive messages between distributed systems, microservices, and event-driven serverless applications. It offers a flexible, scalable, and cost-effective way to notify subscribers of events and messages.
+*   [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - A fully managed Apache Kafka service that provides high-throughput, low-latency, and highly available message streaming for your applications. It offers easy integration with other Alibaba Cloud services and seamless data migration.
+*   [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed and fully managed messaging service that provides high scalability, low latency, and high throughput for your applications. It offers flexible deployment options, easy management, and robust security features.
+*   [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - A distributed messaging and notification service that enables concurrent operations and message transfer between applications and decoupled systems. It offers high reliability, scalability, and fault tolerance for your messaging needs.
+*   [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications. It provides high availability, scalability, and durability for your message streaming needs.
+*   [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - An enterprise-class cloud messaging service that is fully integrated with Anypoint Platform. It offers a flexible and reliable messaging infrastructure that enables you to integrate and orchestrate your applications and systems.
+*   [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - A reliable cloud messaging service that offers a variety of messaging patterns, such as pub/sub and request/response, and supports a range of protocols and standards.
+*   [CloudAMQP](https://www.cloudamqp.com/) - A RabbitMQ as a Service that provides a fully managed and scalable message broker service for your applications. It offers a simple and easy-to-use web-based management console, advanced monitoring and analytics, and seamless integration with other cloud services.
+*   [CloudKarafka](https://www.cloudkarafka.com/) - An affordable and straightforward Kafka service that provides fully managed and scalable Kafka clusters on AWS and Google Cloud. It offers a user-friendly web-based dashboard, advanced security features, and seamless integration with other cloud services.
+*   [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - A messaging and ingestion service that enables event-driven systems and streaming analytics. It provides high throughput, low latency, and reliable message delivery for your applications. It supports flexible messaging patterns, such as pub/sub and push/pull, and integrates seamlessly with other Google Cloud services.
+*   [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - A cloud-based messaging service that enables seamless data transfer across enterprise applications, systems, and services with ease.
+*   [IronMQ](https://www.iron.io/mq) - An elastic message queue built specifically for the cloud, allowing for reliable and scalable message processing.
+*   [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - An all-in-one event streaming, management, and insights platform, providing complete visibility and control over your data pipeline.
+*   [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - A cloud messaging service with compatibility to Amazon SQS HTTP API, making it easy to integrate with existing systems and services.
+*   [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - A fully-managed Apache Kafka service with automated scaling, monitoring, and maintenance, providing hassle-free data streaming.
 
 ### Resources / Market Analysis
 
@@ -208,60 +262,59 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Protocols
 
-*   [JSON-RPC](https://www.jsonrpc.org/specification) - Designed to be simple, it's a stateless, lightweight remote procedure call (RPC) protocol.
+*   [JSON-RPC](https://www.jsonrpc.org/specification) - A simple and lightweight remote procedure call protocol that enables communication between systems using JSON data. JSON-RPC offers stateless communication and is suitable for resource-constrained devices.
 
 ## [Jul 29, 2021](/content/2021/07/29/README.md)
 
 ### Projects / Master Data Management
 
-*   [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive master data management.
+*   [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - A comprehensive solution for managing master data that provides a single source of truth across your organization.
 
 ## [Jul 27, 2021](/content/2021/07/27/README.md)
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐566)](https://github.com/OpenAPITools/openapi-diff) - Compare two OpenAPI specifications (3.x) and render the difference to HTML plaintext, or Markdown files.
-*   [OpenAPI Generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - Allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (both 2.0 and 3.0 are supported).
-*   [OpenAPI Style Validator (⭐160)](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenAPI spec follows your organization's standards.
-*   [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Design, describe, and document your API on the first open source editor fully dedicated to OpenAPI-based APIs.
-*   [Zally (⭐796)](https://github.com/zalando/zally) - A linter for OpenAPI specifications.
+*   [OpenAPI Diff (⭐566)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
+*   [OpenAPI Style Validator (⭐160)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [Zally (⭐796)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Testing
 
 *   API clients
-    *   [Advanced REST Client (⭐1.2k)](https://github.com/advanced-rest-client/arc-electron) - An open-source and free for everyone API tool out of a passion for giving the developer community tools they need.
-    *   [curl (⭐29k)](https://github.com/curl/curl) - Command line tool and library for transferring data with URLs.
-    *   [curlie](https://curlie.io) - A frontend to curl that adds the ease of use of httpie, without compromising on features and performance.
-    *   [HTTPie](https://httpie.io) - Command line HTTP client, far more dev-friendly than curl.
-    *   [Insomnia](https://insomnia.rest/products/insomnia) - Cross-platform HTTP and GraphQL Client.
-    *   [Postman](https://www.postman.com/product/api-client/) - A tool to make HTTP requests, generate mock servers and make API documentation.
-    *   [SoapUI](https://www.soapui.org/tools/soapui) - An open-source web service testing application for SOAP and REST.
+    *   [Advanced REST Client (⭐1.2k)](https://github.com/advanced-rest-client/arc-electron) - An open-source API tool designed for testing and debugging RESTful web services.
+    *   [curl (⭐29k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
+    *   [curlie (⭐2.2k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
+    *   [HTTPie (⭐27k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
+    *   [Insomnia (⭐28k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
+    *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
+    *   [SoapUI](https://www.soapui.org/tools/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
 *   Mocking tools
-    *   [Microcks (⭐801)](https://github.com/microcks/microcks) - Open source Kubernetes Native tool for API Mocking and Testing. Supports AsyncAPI, OpenAPI, Postman Collections etc.
-    *   [Mockable](https://www.mockable.io/) - A simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon](https://mockoon.com/) - The easiest and quickest way to design and run mock REST APIs.
+    *   [Microcks (⭐801)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
+    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
+    *   [Mockoon](https://mockoon.com/) - Easy-to-use tool for designing and running mock REST APIs.
     *   [MockServer (⭐4.1k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky](https://designer.mocky.io/) - A free and unlimited online service which allows to generate custom HTTP responses.
-    *   [Prism (⭐3.5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that can mimic your API\`s behavior as if you already built it.
-    *   [WireMock (⭐5.5k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust and comprehensive testing.
+    *   [Mocky](https://designer.mocky.io/) - Free and unlimited online service for generating custom HTTP responses.
+    *   [Prism (⭐3.5k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
+    *   [WireMock (⭐5.5k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 
 ### Projects / ESB
 
-*   [Apache ServiceMix](https://servicemix.apache.org/) - A flexible, open-source integration container that unifies the features and functionality of Apache ActiveMQ, Camel, CXF, and Karaf.
-*   [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - The only ESB that supports Zero-Copy proxying for extreme levels of performance utilizing Direct Memory Access (DMA) and the sendfile system call along with Non-Blocking IO.
+*   [Apache ServiceMix](https://servicemix.apache.org/) - An open-source integration container that combines the functionality of Apache ActiveMQ, Camel, CXF, and Karaf, providing a flexible solution.
+*   [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - An ESB that supports zero-copy proxying for extreme performance utilizing Direct Memory Access and Non-Blocking IO.
 
 ### Projects / ETL
 
-*   [Microsoft SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - SQL Server Integration Services is a platform for building enterprise-level data integration and data transformations solutions.
+*   [Microsoft SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - A reliable platform for building enterprise-level data integration and transformation solutions.
 
 ### Projects / iPaaS
 
-*   [Anypoint Platform](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration) - Combines API management and integration capabilities in a single platform from Mulesoft.
+*   [Anypoint Platform](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration) - A powerful integration platform that combines API management and integration capabilities in a single platform, enabling software engineers to integrate various applications with ease.
 
 ### Projects / Messaging
 
-*   [KubeMQ](https://kubemq.io/) - A Kubernetes Message Queue Broker Enterprise-grade message broker and message queue, scalable, high available and secured.
-*   [Oracle AQ](https://www.oracle.com/database/technologies/advanced-queuing.html) - Oracle Advanced Queuing (AQ) provides enterprise message functionality across many industries and is widely used within the database itself.
+*   [KubeMQ](https://kubemq.io/) - A Kubernetes-based message broker and queue system designed for scalability, high availability, and security. Offers seamless integration with Kubernetes and supports various messaging patterns.
+*   [Oracle AQ](https://www.oracle.com/database/technologies/advanced-queuing.html) - A messaging system that provides enterprise message functionality and is widely used within the Oracle database. Offers reliable and efficient message delivery and supports multiple messaging styles.
 
 ### Projects / Workflow engine
 
@@ -269,11 +322,9 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / API Specification
 
-*   [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - The AsyncAPI specification settles the base for a greater and better tooling ecosystem for Event-Driven Architectures (EDA).
-*   [GraphQL (⭐14k)](https://github.com/graphql/graphql-spec) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - Defines a standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
-*   [RAML (⭐3.8k)](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - RESTful API Modeling Language.
-*   [WSDL](http://www.w3.org/TR/wsdl20) - XML-based interface description language for SOAP based services.
+*   [GraphQL (⭐14k)](https://github.com/graphql/graphql-spec) - A sophisticated query language and runtime for building efficient APIs that empowers engineers to retrieve data from existing systems with ease.
+*   [RAML (⭐3.8k)](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - A RESTful API Modeling Language that allows software engineers to design and create efficient APIs by modeling resources, endpoints, and interactions.
+*   [WSDL](http://www.w3.org/TR/wsdl20) - A powerful XML-based interface description language for SOAP-based services that enables software engineers to describe the functionality of a web service and automate the creation of client code.
 
 ### Resources / Connectors
 
@@ -282,14 +333,13 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [Apache Avro (⭐2.5k)](https://github.com/apache/avro) - Data serialization system.
-*   [BSON](https://bsonspec.org/) - Short for Binary JSON, is a binary-encoded serialization of JSON-like documents.
-*   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A comma-separated values (CSV) file is a delimited text file that uses a comma to separate values.
-*   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - The JavaScript Object Notation (JSON) Data Interchange Format.
-*   [NDJSON (⭐541)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON in stream protocols.
-*   [Protocol Buffers](https://developers.google.com/protocol-buffers) - A language-neutral, platform-neutral extensible mechanism for serializing structured data.
-*   [XML](https://www.w3.org/TR/2006/REC-xml11-20060816/) - Extensible Markup Language (XML).
-*   [YAML](https://yaml.org/) - YAML is a human friendly data serialization standard for all programming languages.
+*   [Apache Avro (⭐2.5k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
+*   [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
+*   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
+*   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
+*   [NDJSON (⭐541)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [XML](https://www.w3.org/TR/2006/REC-xml11-20060816/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
+*   [YAML](https://yaml.org/) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ### Resources / Enterprise Integration Patterns
 
@@ -299,7 +349,7 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Standard APIs
 
-*   [ODBC](https://docs.microsoft.com/en-us/sql/odbc/reference/odbc-overview) - Open Database Connectivity (ODBC) is a widely accepted application programming interface (API) for database access.
+*   [ODBC](https://docs.microsoft.com/en-us/sql/odbc/reference/odbc-overview) - A widely accepted API that provides a standardized way to access data from various database management systems. ODBC offers a consistent interface to access data, making it easy to develop database applications.
 
 ## [Jul 26, 2021](/content/2021/07/26/README.md)
 
@@ -309,75 +359,69 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / BRE
 
-*   [Easy Rules (⭐4.4k)](https://github.com/j-easy/easy-rules) - A simple Java rules engine.
+*   [Easy Rules (⭐4.4k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
 
 ### Projects / BPM
 
-*   [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - A comprehensive business process management platform.
-*   [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - An integrated environment for developing, administering, and using business applications centered around business processes.
-*   [Pega Platform](https://www.pega.com/products/platform) - A combined business process management and robotic process automation (RPA) platform with advanced workforce analytics from Pegasystems.
+*   [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - A comprehensive business process management platform for developing and administering business applications.
+*   [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - An integrated environment for developing, administering, and using business applications that are centered around business processes.
+*   [Pega Platform](https://www.pega.com/products/platform) - A platform for business process management and robotic process automation (RPA) with advanced workforce analytics.
 *   [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - A business process management offering and application infrastructure.
-*   [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - A business process management platform with capabilities for process automation, process documentation, human capital management, process patterns, and predictive operations analytics.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap](https://www.atlasmap.io/) - Data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, CSV and JSON data sources.
+*   [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - Business process management platform that offers capabilities for process automation, documentation, human capital management, process patterns, and predictive operations analytics.
 
 ### Projects / ESB
 
-*   [ArcESB](https://www.arcesb.com/integration/) - Synchronize data across applications, seamlessly integrate with partners, or make data publicly accessible.
-*   [NServiceBus](https://particular.net/nservicebus) - The most developer-friendly service bus for .NET.
-*   [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - Transforms complex and brittle architectures into agile integration networks by connecting, virtualizing, and managing interactions between services and applications.
-*   [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - Enables system developers to set up and manage services and to orchestrate them into composite applications and business processes.
-*   [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse) - Distributed, cloud-native integration platform.
-*   [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - Integrate anything faster.
-*   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - Implement enterprise patterns for hybrid integrations.
-*   [WSO2 Enterprise Integrator](https://wso2.com/integration/) - An API-centric, cloud-native, and distributed integration platform.
+*   [ArcESB](https://www.arcesb.com/integration/) - A versatile integration platform that seamlessly synchronizes data across applications, integrates with partners, and provides data accessibility.
+*   [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - An integration platform that connects, virtualizes, and manages interactions between services and applications.
+*   [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - A platform that enables system developers to set up and manage services and to orchestrate them into composite applications and business processes.
+*   [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse) - A cloud-native integration platform that supports distributed integration capabilities.
+*   [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - An integration platform that enables faster integration of any application.
+*   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - A platform that implements enterprise patterns for hybrid integrations.
+*   [WSO2 Enterprise Integrator](https://wso2.com/integration/) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 ### Projects / ETL
 
-*   [CloverETL](http://www.cloveretl.com/) - A data integration software suite for data migration and data warehousing, and for feeding data into business intelligence and reporting applications.
-*   [IBM DataStage](https://www.ibm.com/products/datastage) - A data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
-*   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - Delivers enterprise data integration and management software powering analytics for big data and cloud.
+*   [CloverETL](http://www.cloveretl.com/) - A comprehensive data integration software suite, ideal for data migration, warehousing, and feeding data into BI and reporting apps.
+*   [IBM DataStage](https://www.ibm.com/products/datastage) -  A powerful data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
+*   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) -  A trusted enterprise data integration and management software powering analytics for big data and cloud.
 *   [Oracle Data Integrator](https://www.oracle.com/middleware/technologies/data-integrator.html) - A comprehensive data integration platform that covers all data integration requirements, including batch loads, integration processes, and SOA-enabled data services.
-*   [Pentaho Data Integration (⭐6.5k)](https://github.com/pentaho/pentaho-kettle) - Enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools to eliminate coding and complexity.
-*   [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - Helps transform, integrate, govern, and secure data while improving its overall quality and reliability.
-*   [Stitch](https://www.stitchdata.com/) - A simple, powerful ETL service for businesses of all sizes, up to and including the enterprise. Running on a scalable, fault-tolerant cloud platform, Stitch integrates data from dozens of different sources.
-*   [Talend Data Integration](https://www.talend.com/products/integrate-data/) - Bring data together from multiple sources to power all your business decisions.
+*   [Pentaho Data Integration (⭐6.5k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+*   [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - A robust platform that helps transform, integrate, govern, and secure data while improving its overall quality and reliability.
+*   [Stitch](https://www.stitchdata.com/) - A simple yet powerful ETL service that integrates data from dozens of different sources, ideal for businesses of all sizes.
+*   [Talend Data Integration](https://www.talend.com/products/integrate-data/) - A versatile platform that brings data together from multiple sources to power all your business decisions.
 
 ### Projects / iPaaS
 
-*   [Dell Boomi AtomSphere](https://boomi.com/platform) - Connect everyone to everything with the cloud-native, unified, open, intelligent platform.
-*   [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas) - Integrates thousands of applications with pre-built templates and workflows to automate your business processes.
-*   [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - AI-powered approach to integration.
-*   [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - Multiple cloud data management products designed to accelerate productivity and improve speed and scale.
-*   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - Enterprise data management, organizations move beyond basic integration and turn data into insights and action. Formerly known as Liaison ALLOY Platform.
-*   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - Accelerates time to go live with pre-built connectivity to any SaaS or on-premises application.
-*   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - Connect your application and data landscape.
-*   [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - One application integration platform integrates it all.
-*   [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - Empower everyone to integrate anything with API-led and event-driven integration.
-*   [Workato](https://www.workato.com/) - A single platform for integration & workflow automation across your organization.
+*   [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas) - A comprehensive integration platform that provides pre-built templates and workflows to automate business processes. It integrates thousands of applications and simplifies integration for software engineers.
+*   [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - A next-generation integration platform that uses AI to provide software engineers with an innovative approach to integration. This platform accelerates integration processes, making it faster and more scalable.
+*   [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - A suite of cloud data management products designed to accelerate productivity and improve speed and scale. Software engineers can use this platform to manage data and integrate applications efficiently.
+*   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - A powerful enterprise data management platform that empowers organizations to move beyond basic integration and turn data into insights and action. Software engineers can use this platform to manage data and improve business outcomes.
+*   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - A robust platform that accelerates time to go live with pre-built connectivity to any SaaS or on-premises application. Software engineers can use this platform to simplify integration processes and streamline operations.
+*   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - A comprehensive integration platform that connects various applications and data landscapes. Software engineers can use this platform to integrate data and applications quickly and efficiently.
+*   [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
+*   [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - A flexible platform that enables software engineers to integrate anything with API-led and event-driven integration. This platform empowers everyone to integrate anything, making integration processes faster and more efficient.
+*   [Workato](https://www.workato.com/) - A single platform for integration and workflow automation across your organization, providing software engineers with a powerful platform for simplifying integration processes and streamlining operations.
 
 ### Projects / Managed File Transfer
 
-*   [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - All-in-One Enterprise-Class MFT.
-*   [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Make file transfer services easy to use.
-*   [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - Move over 1 million files per day with a fast and scalable file transfer platform.
-*   [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - Enables secure file exchange and management.
+*   [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - A comprehensive solution for enterprises seeking to streamline file transfer processes. Its user-friendly interface and powerful capabilities provide an all-in-one MFT solution that can efficiently handle file transfers.
+*   [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Designed to simplify file transfer services for businesses, this MFT solution offers advanced features and security measures to ensure secure and reliable data transfer.
+*   [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - A fast and scalable file transfer platform that offers advanced security features and flexible architecture. It is ideal for businesses that require a reliable and secure MFT platform.
+*   [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - A comprehensive MFT solution that enables secure file exchange and management, providing a reliable and efficient way for businesses to transfer data with ease.
 
 ### Projects / Master Data Management
 
-*   [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - All-in-one master data management.
-*   [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Adapt and respond to change faster and more effectively by managing your master data.
-*   [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - Improve the quality and consistency of information across your organization by consolidating and centrally governing the master data lifecycle.
-*   [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Provides a single, accurate and unified view of corporate data, integrating information from various data sources into one master record.
-*   [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - Provides “one version of the truth” when it comes to data, ensuring that only reliable, accurate and approved information is flowing through your systems, processes and applications.
-*   [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Drives significant ROI using consistent reference data to establish an accurate analytical data foundation.
-*   [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - A single solution to govern, manage, and consume all shared data assets.
+*   [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - An all-in-one solution that enables you to manage and govern all your master data domains in one place.
+*   [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Helps you adapt and respond to change faster and more effectively by centralizing and managing your master data.
+*   [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - Streamlines and improves the quality and consistency of your data by consolidating and centrally governing your master data lifecycle.
+*   [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Provides a unified view of your corporate data, integrating information from various sources into one master record for greater accuracy and consistency.
+*   [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - Ensures that only reliable, accurate, and approved information flows through your systems, processes, and applications, providing "one version of the truth."
+*   [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Establishes an accurate analytical data foundation by using consistent reference data, driving significant ROI.
+*   [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - A single solution to govern, manage, and consume all shared data assets, ensuring greater consistency and accuracy across your organization.
 
 ### Projects / RPA
 
-*   [UiPath](https://www.uipath.com/product) - Automattion repetitive digital tasks normally performed by people.
+*   [UiPath](https://www.uipath.com/product) - A platform that provides RPA solutions for automating repetitive digital tasks typically performed by people. This solution offers a comprehensive automation platform that enables businesses to automate their processes and increase efficiency.
 
 ### Projects / Workflow engine
 
@@ -405,19 +449,19 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Protocols
 
-*   [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - Advanced Message Queuing Protocol (AMQP) Version 0-9-1.
-*   [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - Advanced Message Queuing Protocol (AMQP) Version 1.0.
-*   [STOMP](https://stomp.github.io/) - Simple (or Streaming) Text Orientated Messaging Protocol.
+*   [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - A message queuing protocol that enables the exchange of messages between applications or systems. AMQP 0-9-1 provides reliability, security, and flexibility to handle complex messaging scenarios.
+*   [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - A widely accepted message queuing protocol that provides reliable, interoperable, and efficient messaging between systems. AMQP 1.0 supports a broad range of messaging scenarios and is ideal for complex enterprise-level applications.
+*   [STOMP](https://stomp.github.io/) - A messaging protocol that offers simple, text-oriented communication between systems. STOMP is ideal for low-latency, high-performance messaging scenarios.
 
 ### Resources / Standard APIs
 
-*   [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - Java Database Connectivity (JDBC) API provides universal data access from the Java programming language.
-*   [JMS](https://javaee.github.io/jms-spec/) - Java Message Service (JMS) API.
+*   [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - A Java-based API that provides universal data access to relational databases. JDBC offers a consistent and efficient way to access and manipulate data, making it a popular choice among developers.
+*   [JMS](https://javaee.github.io/jms-spec/) - A messaging API that enables Java applications to send and receive messages. JMS supports reliable messaging and is widely used in enterprise-level applications.
 
 ### Resources / Structure and Validation
 
-*   [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data.
-*   [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - Offers facilities for describing the structure and constraining the contents of XML documents.
+*   [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+*   [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - A schema language that offers facilities for describing the structure and constraining the contents of XML documents. XML Schema enables developers to ensure that XML data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [Jul 25, 2021](/content/2021/07/25/README.md)
 
@@ -433,32 +477,29 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / BRE
 
-*   [Drools](https://www.drools.org) - Open source tool with full runtime support for Decision Model and Notation (DMN) models at Conformance level 3 and an Eclipse IDE plugin for core development.
-*   [NxBRE (⭐127)](https://github.com/ddossot/NxBRE/wiki) - Open-source rule engine for the .NET platform.
-*   [OpenL Tablets](http://openl-tablets.org/) - An open source business rules engine (BRE, BRMS) and decision management system.
+*   [NxBRE (⭐127)](https://github.com/ddossot/NxBRE/wiki) - Open-source rule engine specifically designed for the .NET platform.
 
 ### Projects / ESB
 
-*   [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - Combines API management and integration capabilities in a single platform from Mulesoft.
-*   [IBM App Connect](https://www.ibm.com/cloud/app-connect) - Connect applications together, regardless of the message formats or protocols that they support. Formerly known as IBM Integration Bus.
+*   [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - A comprehensive API management and integration platform that simplifies connecting applications from Mulesoft.
+*   [IBM App Connect](https://www.ibm.com/cloud/app-connect) - An integration platform that can connect applications, irrespective of the message formats or protocols they use, formerly known as IBM Integration Bus.
 
 ### Projects / RPA
 
-*   [Automation Anywhere](https://www.automationanywhere.com/) - Intelligent Automation Ecosystem.
-*   [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/) - Intelligent automation - business-developed and no-code automation RPA platform.
-*   [WorkFusion](https://www.workfusion.com/platform/) - Automation Platform for the Enterprise.
+*   [Automation Anywhere](https://www.automationanywhere.com/) - An intelligent automation ecosystem that provides Robotic Process Automation (RPA) solutions. This solution is designed to automate business processes and improve operational efficiency while reducing errors and costs.
+*   [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/) - A no-code automation RPA platform that offers intelligent automation capabilities for businesses. This platform is designed to reduce operational costs and improve productivity by automating repetitive digital tasks.
+*   [WorkFusion](https://www.workfusion.com/platform/) - An automation platform for the enterprise that offers RPA solutions. This platform is designed to automate manual tasks, reduce errors and improve efficiency. It offers a comprehensive set of tools for automating workflows and streamlining operations.
 
 ### Projects / Self-Service Integration
 
-*   [IFTTT](https://ifttt.com/) - Allows creating chains of conditional statements between web services in order to make the web work for you and boost your productivity.
-*   [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+*   [IFTTT](https://ifttt.com/) - A powerful self-service and citizen integrator tool that enables users to create custom workflows by connecting multiple web services with conditional statements, boosting productivity with ease.
+*   [Zapier](https://zapier.com/) - An intuitive automation tool that connects hundreds of web services to create automations between processes with ease, streamlining tasks, and enhancing overall productivity.
 
 ### Projects / Workflow engine
 
 *   [Activiti (⭐9.3k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
 *   [Cadence (⭐6.7k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 *   [Camunda (⭐3.2k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
-*   [jBPM](https://www.jbpm.org/) -  A toolkit for building business applications that helps you automate business processes and decisions, making it easier to manage complex workflows.
 
 ### Resources / Integration Styles
 
@@ -469,9 +510,9 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Protocols
 
-*   [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) - The Hypertext Transfer Protocol (HTTP) is an application layer protocol for distributed, collaborative, hypermedia information systems.
-*   [MQTT](https://mqtt.org/mqtt-specification/) - The Message Queuing Telemetry Transport (MQTT) is a lightweight, publish-subscribe network protocol that transports messages between devices.
-*   [SOAP](https://www.w3.org/TR/soap/) - Simple Object Access Protocol is XML-based messaging protocol.
+*   [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) - A widely used protocol that facilitates communication between web servers and clients. HTTP enables the transfer of data over the internet, making it possible for web applications to function seamlessly.
+*   [MQTT](https://mqtt.org/mqtt-specification/) - A lightweight and efficient publish-subscribe protocol that supports messaging between devices. MQTT enables low-overhead communication and is ideal for IoT and mobile applications.
+*   [SOAP](https://www.w3.org/TR/soap/) - A messaging protocol that uses XML to enable communication between systems. SOAP supports a wide range of messaging scenarios, including distributed computing and enterprise applications.
 
 ## [Jul 24, 2021](/content/2021/07/24/README.md)
 
@@ -489,31 +530,23 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Gateway
 
-*   [Apache APISIX](https://apisix.apache.org) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
 *   [Gloo Edge](https://www.solo.io/products/gloo-edge/) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
 *   [Kong API Gateway (⭐35k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
 *   [KrakenD API Gateway (⭐1.2k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
 *   [Ocelot (⭐7.6k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
-*   [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) -  An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 
 ### Projects / BPM
 
-*   [Appian BPM Suite](https://appian.com/platform/complete-automation/business-process-management-bpm.html) - Platform combines low-code development with process management to
-    allow both IT and citizen developers to construct process-centric and case-centric applications.
-
-### Projects / Integration Frameworks
-
-*   [Ballerina](https://ballerina.io/) - An open-source programming language that makes it easier to use, combine, and create network services.
+*   [Appian BPM Suite](https://appian.com/platform/complete-automation/business-process-management-bpm.html) - A platform that combines low-code development with process management, allowing both IT and citizen developers to construct process-centric and case-centric applications.
 
 ### Projects / Messaging
 
-*   [Eclipse Mosquitto](https://mosquitto.org/) - An lightweight open source message broker that implements the MQTT protocol.
-*   [IBM MQ](https://www.ibm.com/products/mq) - Enterprise-grade messaging capabilities that skillfully and safely move information between applications.
-*   [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - Red Hat AMQ-based on open source communities like Apache ActiveMQ and Apache Kafka.
+*   [IBM MQ](https://www.ibm.com/products/mq) - A robust enterprise-grade messaging system that enables safe and efficient communication between applications. Offers high availability and disaster recovery capabilities and supports multiple messaging protocols.
+*   [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - A messaging system based on open-source communities like Apache ActiveMQ and Apache Kafka. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 
 ### Projects / Self-Service Integration
 
-*   [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - Automates tasks between cloud applications.
+*   [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - Automate tasks between various cloud applications with ease using Oracle's Self-Service Integration tool, providing a seamless and efficient integration process.
 
 ### Resources / Enterprise Integration Patterns
 
@@ -578,21 +611,8 @@ A curated list of awesome system integration software and resources.
 
 ## [Jul 23, 2021](/content/2021/07/23/README.md)
 
-### Projects / ETL
-
-*   [Apache NiFi](https://nifi.apache.org/) - Apache NiFi is an integrated data logistics platform for automating the movement of data between disparate systems.
-
-### Projects / Integration Frameworks
-
-*   [Apache Camel](https://camel.apache.org) - Glues together different transport APIs via Enterprise Integration Patterns.
-*   [Spring Integration](https://spring.io/projects/spring-integration) - Extends the Spring programming model to support the well-known Enterprise Integration Patterns.
-
 ### Projects / Messaging
 
-*   [Apache ActiveMQ](https://activemq.apache.org) - Message broker that implements JMS and converts synchronous to asynchronous communication.
-*   [Apache Kafka](https://kafka.apache.org) - High-throughput distributed messaging system.
-*   [Apache Pulsar](https://pulsar.apache.org) - Distributed pub/sub-messaging system.
-*   [Apache RocketMQ](https://rocketmq.apache.org) - Fast, reliable, and scalable distributed messaging platform.
-*   [Apache Qpid](https://qpid.apache.org) - Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms.
-*   [NATS (⭐13k)](https://github.com/nats-io/gnatsd) - Lightweight, high performance messaging system for microservices, IoT, and cloud native systems.
-*   [RabbitMQ](https://www.rabbitmq.com) - An open-source message-broker that originally implemented the Advanced Message Queuing Protocol (AMQP).
+*   [Apache ActiveMQ](https://activemq.apache.org) - An open-source message broker that implements Java Message Service (JMS) and allows for synchronous to asynchronous communication conversion. Offers reliable messaging and supports multiple protocols and messaging styles.
+*   [Apache Qpid](https://qpid.apache.org) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
+*   [NATS (⭐13k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.

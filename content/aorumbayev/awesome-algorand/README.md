@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Apr 12, 2023](/content/2023/04/12/README.md)
+
+### Security Auditing Services / Wallets
+
+*   [Vantage Point Blockchain](https://www.vantagepoint.sg/contact-us) - Smart contract audits, crypto wallet audit and other penetration testing services in Algorand ecosystem with clients such as Folks.Finance, Pera, Algorand Foundation, Deflex (Defly/Alammex), GARD, Venue.One and others. Reports are signed by velocity.vantagepoint.algo and published at [https://github.com/vantagepointreports/releases (⭐2)](https://github.com/vantagepointreports/releases).
+
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
 ### Tutorials
