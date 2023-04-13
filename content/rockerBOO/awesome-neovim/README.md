@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 13, 2023](/content/2023/04/13/README.md)
+
+### Editing Support / Diagnostics
+
+*   [chrisgrieser/nvim-alt-substitute (⭐27)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
+
 ## [Apr 09, 2023](/content/2023/04/09/README.md)
 
 ### Debugging / Diagnostics
@@ -50,11 +56,11 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [cpea2506/relative-toggle.nvim (⭐23)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
+*   [cpea2506/relative-toggle.nvim (⭐25)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
 
 ### Motion / Diagnostics
 
-*   [chrisgrieser/nvim-spider (⭐22)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+*   [chrisgrieser/nvim-spider (⭐143)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 
 ## [Mar 25, 2023](/content/2023/03/25/README.md)
 
@@ -99,7 +105,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [neanias/everforest-nvim (⭐30)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+*   [neanias/everforest-nvim (⭐39)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 
 ### Terminal Integration / Diagnostics
 
@@ -169,7 +175,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/splitjoin.nvim (⭐55)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+*   [bennypowers/splitjoin.nvim (⭐57)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
 
 ## [Feb 20, 2023](/content/2023/02/20/README.md)
 
@@ -214,25 +220,25 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [jinzhongjia/LspUI.nvim (⭐39)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
+*   [jinzhongjia/LspUI.nvim (⭐59)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [savq/melange-nvim (⭐412)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
+*   [savq/melange-nvim (⭐421)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [linrongbin16/lin.nvim (⭐7)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
+*   [linrongbin16/lin.nvim (⭐9)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 
 ## [Feb 06, 2023](/content/2023/02/06/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [svrana/neosolarized.nvim (⭐92)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
+*   [svrana/neosolarized.nvim (⭐94)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 
 ### Editing Support / Diagnostics
 
-*   [altermo/ultimate-autopair.nvim (⭐74)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
+*   [altermo/ultimate-autopair.nvim (⭐80)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 
 ## [Feb 04, 2023](/content/2023/02/04/README.md)
 
@@ -339,7 +345,7 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Diagnostics
 
-*   [LhKipp/nvim-nu (⭐59)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
+*   [LhKipp/nvim-nu (⭐62)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
@@ -349,7 +355,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐12)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐23)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 
@@ -363,13 +369,13 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Diagnostics
 
-*   [stevearc/oil.nvim (⭐497)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐523)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ## [Jan 02, 2023](/content/2023/01/02/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [XXiaoA/ns-textobject.nvim (⭐24)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
+*   [XXiaoA/ns-textobject.nvim (⭐26)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
 
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
@@ -411,13 +417,13 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐41)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐43)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [Dec 20, 2022](/content/2022/12/20/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐180)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐207)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ## [Dec 18, 2022](/content/2022/12/18/README.md)
 
@@ -429,11 +435,11 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Yazeed1s/oh-lucy.nvim (⭐116)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
+*   [Yazeed1s/oh-lucy.nvim (⭐119)](https://github.com/yazeed1s/oh-lucy.nvim) - Two tree-sitter supported colorschemes, inspired by oh-lucy in vscode.
 
 ### Editing Support / Diagnostics
 
-*   [shortcuts/no-neck-pain.nvim (⭐225)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
+*   [shortcuts/no-neck-pain.nvim (⭐236)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
 
 ## [Dec 16, 2022](/content/2022/12/16/README.md)
 
@@ -443,7 +449,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ramojus/mellifluous.nvim (⭐85)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
+*   [ramojus/mellifluous.nvim (⭐94)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
 
 ### Utility / Diagnostics
 

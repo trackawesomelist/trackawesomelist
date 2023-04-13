@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
+
+### Libraries / Game development
+
+*   Skillratings
+    *   [atomflunder/skillratings (⭐13)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Applications / Operating systems
@@ -25,12 +32,12 @@ A curated list of Rust code and resources.
 
 ### Applications / Cryptocurrencies
 
-*   [madara (⭐54)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml)
+*   [madara (⭐118)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml)
 
 ### Applications / System tools
 
 *   [nushell/nushell (⭐24k)](https://github.com/nushell/nushell) - A new type of shell
-*   [supercilex/fuc (⭐122)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
+*   [supercilex/fuc (⭐185)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
 ### Development tools / Profiling
 
@@ -48,7 +55,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Video
 
-*   [ffmpeg-sidecar (⭐53)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+*   [ffmpeg-sidecar (⭐58)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
@@ -70,7 +77,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [Epic Asset Manager (⭐226)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐230)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
 ### Libraries / Image processing
 
@@ -169,7 +176,7 @@ A curated list of Rust code and resources.
 *   iOS
     *   [touchHLE (⭐1.4k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 *   iPod
-    *   [clicky (⭐113)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐115)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 
 ### Applications / System tools
 

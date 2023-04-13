@@ -39,6 +39,8 @@ The primary focus of this list is to provide alternatives that prioritize privac
 *   [Android Keyboard](#android-keyboard)
 *   [Android Launcher](#android-launcher)
 *   [Artificial Intelligence](#artificial-intelligence)
+    *   [ChatGPT](#chatgpt)
+    *   [Copilot](#copilot)
 *   [Bookmarking](#bookmarking)
     *   [Book and web annotations](#book-and-web-annotationshighlights-management)
 *   [Captchas](#captchas)
@@ -124,7 +126,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
 *   [ente Auth](https://ente.io/auth) - A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of [ente Photos](https://ente.io), and uses the same battle tested infrastructure. Needs an ente.io account.
-*   [Owky (⭐16)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
+*   [Owky (⭐17)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐480)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
 *   [RaivoOTP](https://github.com/raivo-otp/) - A native, lightweight and secure one-time-password (OTP) solution for **iOS** users.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐1.2k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
@@ -140,7 +142,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 *   [Umami](https://umami.is/) - A simple, fast, website analytics alternative to Google Analytics.
 *   [Nullitics](https://nullitics.com/) - Zero-effort open-source cheap analytics.
 *   [Ackee](https://ackee.electerious.com/) - Self-hosted website analytics.
-*   [Shynet (⭐2.2k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+*   [Shynet (⭐2.3k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 *   [Pirsch](https://pirsch.io/) - Pirsch is a simple, privacy-friendly, open-source alternative to Google Analytics — lightweight, cookie-free and easily integrated into any website or backend.
 *   [Swetrix](https://swetrix.com) - Privacy-focused, fully cookieless and opensource (and selfhostable) web-analytics service.
 *   [Cabin](https://withcabin.com) - Privacy-first, carbon conscious web analytics.
@@ -154,12 +156,12 @@ The primary focus of this list is to provide alternatives that prioritize privac
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-    *   [Droid-ify (⭐1.1k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
+    *   [Droid-ify (⭐1.2k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
     *   [Aurora Droid](https://auroraoss.com/download/#aurora-droid) - Aurora Droid is a modern FOSS client for F-Droid.
     *   [Foxy Droid (⭐394)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
 *   [FossDroid](https://fossdroid.com/) - Fossdroid's aim is to promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
 *   [SkyDroid](https://skydroid.app/) - Decentralized App Store for Android
-*   [Obtainium (⭐1k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+*   [Obtainium (⭐1.2k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
 
 ### Alternative Google Play Store clients
 
@@ -225,10 +227,15 @@ Third-party launchers found on the play store. They may contain ads/trackers and
 
 ## Artificial Intelligence
 
+When using cloud-based AI services, the data you input is often collected and stored by the service provider. This may include not only the content of your requests but also metadata, such as timestamps or IP addresses. Third-party servers may grant access to your data to their employees, partners, or even other users, depending on their privacy policies. Data may be used for various purposes, including model training, research, or even marketing activities. Your requests to a third-party AI service may be tied to your user information and payment details, linking your data to your identity.
+
 #### ChatGPT
 
 *   [llama.cpp (⭐19k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
-    *   [llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's GPT model
+
+#### Copilot
+
+*   [Turbopilot (⭐1.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
 
 ## Bookmarking
 
@@ -240,9 +247,9 @@ Third-party launchers found on the play store. They may contain ads/trackers and
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
-*   [Shiori (⭐7.1k)](https://github.com/go-shiori/shiori)
+*   [Shiori (⭐7.2k)](https://github.com/go-shiori/shiori)
 *   [LinkAce (⭐1.9k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐3.1k)](https://github.com/sissbruecker/linkding)
+*   [LinkDing (⭐3.2k)](https://github.com/sissbruecker/linkding)
 
 ### Book and web annotations/highlights management
 
@@ -362,7 +369,7 @@ Apps such as Tinder collect and sell your personal intimate information. Tinder 
 
 *   [Persepolis Download Manager (⭐5.7k)](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
 *   [uGet Download Manager](https://ugetdm.com/) - uGet is a lightweight yet powerful Open Source download manager for GNU/Linux developed with GTK+, which also comes packaged as a portable Windows app. It is also available for Android.
-*   [Motrix (⭐36k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [Motrix (⭐37k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
 *   [Xtreme Download Manager (⭐5.1k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
 *   [axel (⭐2.5k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
 
@@ -403,9 +410,9 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 *   [OnionShare (⭐5.6k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 *   [Paperless (⭐7.8k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
     *   [Paperless-ng (⭐5.4k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
-*   [Paperless-ngx (⭐7.4k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐7.6k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 *   [PairDrop (⭐612)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
-*   [Portal (⭐628)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
+*   [Portal (⭐797)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
 *   [QRcp (⭐9.2k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 *   [Send](https://gitlab.com/timvisee/send) - Simple, private file sharing. (Mozilla Send Fork)
 *   [Sharik (⭐926)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
@@ -621,9 +628,9 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 ### Self-Hosted
 
 *   [Docker mail server (⭐11k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
-*   [Mailcow: dockerized (⭐6.2k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐6.3k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 *   [Mail-in-a-box (⭐12k)](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-*   [Mox (⭐2.4k)](https://github.com/mjl-/mox) - Modern full-featured open source secure mail server for low-maintenance self-hosted email.
+*   [Mox (⭐2.5k)](https://github.com/mjl-/mox) - Modern full-featured open source secure mail server for low-maintenance self-hosted email.
 
 ### Clients
 
@@ -680,7 +687,7 @@ With email aliases, you can finally create a different identity for each website
 #### Video and Audio
 
 *   [Jellyfin](https://jellyfin.org/) - Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
-*   [Dim (⭐3.2k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+*   [Dim (⭐3.3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 *   [Stremio](https://www.stremio.com/) - Stremio is a modern media center that's a one-stop solution for your video entertainment.
 
 #### Audio
@@ -752,7 +759,7 @@ These providers offer apps and services filled with data trackers. Also, most of
 *   [HedgeDoc](https://hedgedoc.org/) - Formerly CodiMD (community). An awesome platform to write and share markdown.
 *   [Joplin (⭐35k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
 *   [Logseq](https://logseq.com/) - A privacy-first alternative to WorkFlowy.
-*   [Memos (⭐11k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐12k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 *   [Nextcloud Notes (⭐508)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
     *   [Nextcloud Notes app (⭐796)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
 *   [Notally (⭐1.1k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
@@ -761,7 +768,7 @@ These providers offer apps and services filled with data trackers. Also, most of
 *   [SiYuan (⭐9.5k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
 *   [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
 *   [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
-*   [Trilium Notes (⭐20k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+*   [Trilium Notes (⭐21k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 *   [Vikunja](https://vikunja.io) - The open-source to-do app to organize your life.
 *   [YankNote (⭐4.6k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
 
@@ -988,8 +995,8 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ### Self-hosted
 
-*   [Immich (WIP) (⭐9.4k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐5.3k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [Immich (WIP) (⭐9.7k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐5.4k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
 *   [Photoprism](https://photoprism.app) - Feature rich server-based application for browsing, organizing and sharing your personal photo collection. The most similar to Google Photos.
 *   [Pigallery2](http://bpatrik.github.io/pigallery2/) - A self-hosted directory-first photo gallery website.
@@ -999,7 +1006,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 ### Third-party
 
 *   [Crypt.ee](https://crypt.ee/) - A private and encrypted place for all your photos, documents, notes and more.
-*   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients.
+*   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients, [audited](https://ente.io/blog/cryptography-audit/) independently.
 *   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
 
 ### Local
@@ -1053,7 +1060,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [Whoogle Search (⭐7.2k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
-*   [librengine (⭐47)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐46)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
     *   [SearxNG (⭐4.4k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
@@ -1171,7 +1178,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 #### Self-hosted
 
-*   [Memos (⭐11k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐12k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 #### Decentralized
 
@@ -1187,7 +1194,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 #### Alternative Frontends
 
-*   [Nitter (⭐7k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐7.1k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.2k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 *   [Kizie](https://kizie.co) - Cleaner, better and privacy focussed Twitter client for Web.

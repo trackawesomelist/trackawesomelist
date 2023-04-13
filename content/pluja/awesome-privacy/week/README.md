@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
+
+### Copilot
+
+*   [Turbopilot (⭐1.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Cloud Storage
@@ -21,7 +27,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Paperless (⭐7.8k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
     *   [Paperless-ng (⭐5.4k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
 *   [PairDrop (⭐612)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
-*   [Portal (⭐628)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
+*   [Portal (⭐797)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
 *   [Winden](https://winden.app/) - A convenient version of Magic Wormhole you can use from within your browser. No need to install an app.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
@@ -29,7 +35,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### ChatGPT
 
 *   [llama.cpp (⭐19k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
-    *   [llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's GPT model
 
 ### Cloud Storage
 
@@ -39,11 +44,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### 2FA
 
-*   [Owky (⭐16)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
+*   [Owky (⭐17)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
 
 ### Android App Store
 
-*   [Obtainium (⭐1k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+*   [Obtainium (⭐1.2k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
 
 ### Password Managers
 
@@ -57,7 +62,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Self-Hosted
 
-*   [Mox (⭐2.4k)](https://github.com/mjl-/mox) - Modern full-featured open source secure mail server for low-maintenance self-hosted email.
+*   [Mox (⭐2.5k)](https://github.com/mjl-/mox) - Modern full-featured open source secure mail server for low-maintenance self-hosted email.
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
@@ -108,7 +113,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Notes and Tasks
 
-*   [Trilium Notes (⭐20k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+*   [Trilium Notes (⭐21k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ### Desktop
 
@@ -134,7 +139,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Self-hosted
 
-*   [Memos (⭐11k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐12k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ### Blogging platforms (Medium)
 
@@ -269,11 +274,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### File Management and Sharing
 
-*   [Paperless-ngx (⭐7.4k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐7.6k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐6.2k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐6.3k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ### PC / MacOS
 
@@ -314,9 +319,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
 *   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
-*   [Shiori (⭐7.1k)](https://github.com/go-shiori/shiori)
+*   [Shiori (⭐7.2k)](https://github.com/go-shiori/shiori)
 *   [LinkAce (⭐1.9k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐3.1k)](https://github.com/sissbruecker/linkding)
+*   [LinkDing (⭐3.2k)](https://github.com/sissbruecker/linkding)
 
 ### Cloud Storage
 
@@ -482,7 +487,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Third-party
 
-*   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients.
+*   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients, [audited](https://ente.io/blog/cryptography-audit/) independently.
 *   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
@@ -490,12 +495,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Self-hosted
 
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
-*   [Immich (WIP) (⭐9.4k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐5.3k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [Immich (WIP) (⭐9.7k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐5.4k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 
 ### Search Engines
 
-*   [librengine (⭐47)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐46)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -702,7 +707,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Alternative Frontends
 
-*   [Nitter (⭐7k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐7.1k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.2k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
@@ -768,13 +773,13 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Umami](https://umami.is/) - A simple, fast, website analytics alternative to Google Analytics.
 *   [Nullitics](https://nullitics.com/) - Zero-effort open-source cheap analytics.
 *   [Ackee](https://ackee.electerious.com/) - Self-hosted website analytics.
-*   [Shynet (⭐2.2k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+*   [Shynet (⭐2.3k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 *   [Pirsch](https://pirsch.io/) - Pirsch is a simple, privacy-friendly, open-source alternative to Google Analytics — lightweight, cookie-free and easily integrated into any website or backend.
 
 ### Android App Store
 
 *   [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-    *   [Droid-ify (⭐1.1k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
+    *   [Droid-ify (⭐1.2k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
     *   [Aurora Droid](https://auroraoss.com/download/#aurora-droid) - Aurora Droid is a modern FOSS client for F-Droid.
     *   [Foxy Droid (⭐394)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
 *   [FossDroid](https://fossdroid.com/) - Fossdroid's aim is to promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
@@ -853,7 +858,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Persepolis Download Manager (⭐5.7k)](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
 *   [uGet Download Manager](https://ugetdm.com/) - uGet is a lightweight yet powerful Open Source download manager for GNU/Linux developed with GTK+, which also comes packaged as a portable Windows app. It is also available for Android.
-*   [Motrix (⭐36k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [Motrix (⭐37k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
 *   [Xtreme Download Manager (⭐5.1k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
 *   [axel (⭐2.5k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
 
@@ -1091,7 +1096,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Video and Audio
 
-*   [Dim (⭐3.2k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+*   [Dim (⭐3.3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 

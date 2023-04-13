@@ -192,7 +192,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [interBTC (⭐198)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 *   [Joystream (⭐1.1k)](https://github.com/Joystream/joystream) — A user governed video platform
 *   [Lighthouse (⭐2.3k)](https://github.com/sigp/lighthouse) — Rust Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
-*   [madara (⭐54)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml)
+*   [madara (⭐118)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/check.yml)
 *   [mev-inspect-rs (⭐457)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
 *   [near/nearcore (⭐2k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
 *   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
@@ -259,7 +259,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   iOS
     *   [touchHLE (⭐1.4k)](https://github.com/hikari-no-yume/touchHLE) — High-level emulator for iPhone OS apps
 *   iPod
-    *   [clicky (⭐113)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐115)](https://github.com/daniel5151/clicky) — A clickwheel iPod emulator (WIP)
 *   NES
     *   [koute/pinky (⭐722)](https://github.com/koute/pinky) —
     *   [pcwalton/sprocketnes (⭐728)](https://github.com/pcwalton/sprocketnes)
@@ -408,7 +408,7 @@ See also [A comparison of operating systems written in Rust (⭐513)](https://gi
 *   [sharkdp/bat (⭐40k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 *   [sharkdp/fd (⭐27k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 *   [sitkevij/hex (⭐402)](https://github.com/sitkevij/hex) — A colorized hexdump terminal utility.
-*   [supercilex/fuc (⭐122)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
+*   [supercilex/fuc (⭐185)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 *   [trippy (⭐233)](https://github.com/fujiapple852/trippy) - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml)
 *   [uutils/coreutils (⭐14k)](https://github.com/uutils/coreutils) — A cross-platform Rust rewrite of the GNU coreutils \[[![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 *   [watchexec (⭐3.9k)](https://github.com/watchexec/watchexec) — Executes commands in response to file modifications
@@ -451,7 +451,7 @@ See also [A comparison of operating systems written in Rust (⭐513)](https://gi
 
 *   [1History (⭐355)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
 *   [brycx/checkpwn (⭐99)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
-*   [Epic Asset Manager (⭐226)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐230)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 *   [evansmurithi/cloak (⭐221)](https://github.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application.
     ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 *   [fcsonline/tmux-thumbs (⭐640)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
@@ -1284,6 +1284,8 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [Rust-SDL2/rust-sdl2 (⭐2.3k)](https://github.com/Rust-SDL2/rust-sdl2) — SDL2 bindings
 *   SFML
     *   [jeremyletang/rust-sfml (⭐576)](https://github.com/jeremyletang/rust-sfml) — [SFML](https://www.sfml-dev.org/) bindings
+*   Skillratings
+    *   [atomflunder/skillratings (⭐13)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
 *   Tcod-rs
     *   [tomassedovic/tcod-rs (⭐228)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
     *   Warning: Not maintained anymore
@@ -1600,7 +1602,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Video
 
-*   [ffmpeg-sidecar (⭐53)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+*   [ffmpeg-sidecar (⭐58)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
 ### Virtualization
 

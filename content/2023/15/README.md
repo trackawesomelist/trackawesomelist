@@ -1,12 +1,73 @@
 # Awesome List Updates on Apr 10 - Apr 16, 2023
 
-26 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Copilot
+
+*   [Turbopilot (⭐1.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
+
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+
+### C bindings
+
+*   [crystal-gsl (⭐1)](https://github.com/konovod/crystal-gsl) - Bindings for [GNU Scientific Library](https://www.gnu.org/software/gsl/)
+
+### Implementations/Compilers
+
+*   [novika (⭐9)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Libraries / Game development
+
+*   Skillratings
+    *   [atomflunder/skillratings (⭐13)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
+
+## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+
+### Tools & Software / Utilities
+
+*   [Warchaeology](https://nlnwa.github.io/warchaeology/) - Warchaeology is a collection of tools for inspecting, manipulating, deduplicating and validating WARC-files. *Stable*
+*   [warcrefs (⭐5)](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *Stable*
+
+## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+
+### Meshing / Triangular and tetrahedral meshing
+
+*   [pygalmesh (⭐459)](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
+    (Python, GPL 3, GitHub)
+*   [dmsh (⭐186)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
+    (Python, proprietary, GitHub)
+
+### Meshing / Mesh tools
+
+*   [optimesh (⭐504)](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
+    (Python, proprietary, GitHub)
+*   [meshplex (⭐99)](https://github.com/meshpro/meshplex) - Fast tools for simplex meshes.
+    (Python, proprietary, GitHub)
+
+### Other libraries and tools / Mesh tools
+
+*   [quadpy (⭐718)](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
+    (Python, proprietary, GitHub)
+*   [accupy (⭐99)](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
+    (Python, GPL 3, GitHub)
+*   [orthopy (⭐168)](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
+    (Python, proprietary, GitHub)
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Editing Support / Diagnostics
+
+*   [chrisgrieser/nvim-alt-substitute (⭐27)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
+
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Python
 
@@ -26,32 +87,32 @@
 
 *   [stopclock (⭐10)](https://github.com/Gleefre/stopclock) - a library for measuring time using (stop)clocks. It allows you to create a clock, pause it, resume it and change its speed. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [2. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Tutorials / Hardware Offload
 
 *   [Firewalling with BPF/XDP: Examples and Deep Dive](https://arthurchiao.art/blog/firewalling-with-bpf-xdp/) - A simple guide to build basic firewalls with TC and XDP.
 *   [A Deep Dive into eBPF: Writing an Efficient DNS Monitoring.](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf) - A detailed explanation of methods used to capture DNS requests at the socket filter layer.
 
-## [3. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [9. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Dead
 
 *   [DMOZ](https://en.wikipedia.org/wiki/DMOZ) was a multilingual open-content directory of World Wide Web links.
 
-## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Security Auditing Services / Wallets
 
 *   [Vantage Point Blockchain](https://www.vantagepoint.sg/contact-us) - Smart contract audits, crypto wallet audit and other penetration testing services in Algorand ecosystem with clients such as Folks.Finance, Pera, Algorand Foundation, Deflex (Defly/Alammex), GARD, Venue.One and others. Reports are signed by velocity.vantagepoint.algo and published at [https://github.com/vantagepointreports/releases (⭐2)](https://github.com/vantagepointreports/releases).
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
 *   [CocoaSprings (⭐26)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
 
-## [6. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### XML & HTML
 
@@ -62,13 +123,13 @@
 *   [IQListKit (⭐51)](https://github.com/hackiftekhar/IQListKit) - Model driven UITableView/UICollectionView.
 *
 
-## [7. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [13. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Machine Learning
 
 *   [Training](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets) - The process of showing the machine a bunch of examples, until it learns what we want from it.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -82,13 +143,14 @@
 
 *   [Easyshortener (⭐22)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### DBaaS
 
+*   [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. 1 cluster per organization, no payment method needed.
 *   [8base.com](https://www.8base.com/) - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service, it allows you to start building web applications quicky using a UI app builder and scale easily, Free tier includes: rows: 2,500, Storage: 500Mb, Serverless computing: 1Gb/h, client app users: 5.
 
-## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [16. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Development tools
 
@@ -98,7 +160,7 @@
 
 *   [loderunner](https://www.tensi.eu/thomas/programming/games/loderunner/loderunner.html)
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -113,7 +175,7 @@
 
 *   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) - Through a recent series of breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This bestselling book uses concrete examples, minimal theory, and production-ready Python frameworks (Scikit-Learn, Keras, and TensorFlow) to help you gain an intuitive understanding of the concepts and tools for building intelligent systems.
 
-## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -122,7 +184,7 @@
 *   [Pandas vs. Polars: The Battle of Performance](https://www.makeuseof.com/pandas-vs-polars-which-is-better/) - An another blog post that compares the performance between Pandas and Polars across a range of common data manipulation tasks by [@makeuseofcode](https://github.com/makeuseofcode). Code used is available on [Github (⭐0)](https://github.com/makeuseofcode/Polars-vs-Pandas-Comparison).
 *   [Pandas 2.0 vs Polars: The Ultimate Battle](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1) - A blog post that analyzes in terms of Syntax, Speed, and Usability between Pandas 2.0 and Polars 0.17.0 by [@priyanshu7401](https://github.com/priyanshu7401).
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IoC
 
@@ -132,7 +194,7 @@
 
 *   [Cledev.OpenAI (⭐37)](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
 
-## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -157,13 +219,13 @@
 
 *   [Invide](https://invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://dsc.gg/invide) for newbies.
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [warm-colours (⭐0)](https://github.com/BastionAtackDev/Warm-Colours.zsh-theme/) - Includes decorators for user\@host, current directory and datetime.
 
-## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -240,15 +302,65 @@
 *   [JSON:API (⭐7.1k)](https://github.com/json-api/json-api) - A standardized specification for building APIs that simplifies the representation of resources, relationships, and metadata, making it easier for software engineers to create efficient APIs.
 *   [OpenAPI (ex.Swagger) (⭐26k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
 
+### Resources / Certifications
+
+*   API Academy
+    *   [API Designer](https://apiacademy.learnupon.com/) - Validate your understanding of API design basics and best practices.
+    *   [API Product Manager](https://apiacademy.co/2020/05/virtual-api-academy-workshop/) - Demonstrate your proficiency in managing APIs as products.
+    *   [API Security Architect](https://apiacademy.co/api-certification/) - Validate your expertise in securing APIs using modern architectures.
+*   IBM
+    *   [IBM Certified Solution Developer – App Connect Enterprise V11](https://www.ibm.com/training/certification/C0003107#exam) - Validate your intermediate-level knowledge and experience to develop, deploy, tune, and support platform-independent message flow applications using IBM App Connect V11.0.
+    *   [IBM Certified Solution Implementer – API Connect v10.0.3](https://www.ibm.com/training/certification/C0002604#exam) - Demonstrate your intermediate-level knowledge and skills to develop, publish, configure, and manage APIs using IBM API Connect v10.0.3.
+*   Kong
+    *   [Kong Gateway Certified Associate](https://konghq.com/academy/exam-preparation) - Validate your entry-level knowledge and skills on Kong Gateway for developers, DevOps, and architects.
+*   Mulesoft
+    *   [MuleSoft Certified Developer - Level 1](https://training.mulesoft.com/certification/developer-mule4-level1) - Validate your knowledge and skills to design, build, test and debug, deploy, and manage basic APIs and integrations using MuleSoft.
+    *   [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2) - Validate your ability to work on production-ready Mule applications that address and balance critical non-functional requirements including monitoring, performance, maintainability, reliability, and security.
+    *   [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1) - Validate your knowledge and skills to translate functional and non-functional requirements into integration interfaces and implementations.
+    *   [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - Validate your knowledge and skills to direct the emergence of an effective application network out of individual integration solutions following API-led connectivity across an organization using Anypoint Platform.
+*   Oracle
+    *   [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - Validate your expertise in implementing Oracle Business Process Management Suite 12c solution.
+    *   [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
+    *   [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - Validate your expertise in selling or implementing Oracle Data Integration 12c solutions.
+    *   [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - Validate your expertise in implementing Oracle Soute Suite 12c solutions.
+*   Red Hat
+    *   [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) -  Validates the ability to create and maintain enterprise APIs using the Red Hat 3scale API Management platform.
+    *   [Red Hat Certified Specialist in Business Rules](https://www.redhat.com/en/services/certification/rhcs-business-rules) - Checks the knowledge, skills, and abilities needed to perform tasks involving the implementation and management of business logic using the Red Hat JBoss BRMS.
+    *   [Red Hat Certified Specialist in Cloud-native Integration](https://www.redhat.com/en/services/certification/rhcs-cloud-native-integration) -  Validates the ability to create and maintain enterprise integration services based on Red Hat Fuse, Camel, and APIs.
+    *   [Red Hat Certified Specialist in Event-Driven Development with Kafka](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-event-driven-development-kafka) - Validates the ability to develop applications using Apache Kafka and Apache Kafka Streams.
+*   TIBCO
+    *   [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
+    *   [TIBCO BusinessWorks Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-6-certification-exam) - Validates the ability to design, develop, deploy, monitor, and manage TIBCO BusinessWorks applications of average complexity with minimal supervision.
+    *   [TIBCO BusinessWorks Container Edition Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-container-edition-certification-exam) - Validates the ability to develop, deploy, and manage TIBCO BusinessWorks Container Edition applications of average complexity with minimal supervision.
+    *   [TIBCO BPM Enterprise Associate](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-associate-certification-exam) - Checks the understanding of TIBCO BPM's features and capabilities, developing and managing business processes, and deploying and testing process applications.
+    *   [TIBCO BPM Enterprise Certified Professional](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-5-certification-exam) - Validates the ability to design, develop, deploy, and manage business processes using TIBCO BPM Enterprise Suite.
+    *   [TIBCO Cloud Associate Certification](https://www.tibco.com/services/education/certification/tibco-cloud-associate-certification-exam) - Validates the skills and knowledge required to work with TIBCO Cloud, including its key components and features.
+    *   [TIBCO Cloud API Management Associate](https://www.tibco.com/services/education/certification/tibco-mashery-associate-certification-exam) - Covers topics such as API definition creation and testing, API key authentication, and using the Developer Portal and I/O docs.
+    *   [TIBCO Cloud API Management Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-api-management-professional-certification-exam) - Validates the ability to implement TIBCO Cloud Mesh, OAuth-based security, and manage SOAP services.
+    *   [TIBCO Cloud Integration Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-associate-certification-exam) - Validates the skills and knowledge required to work with TIBCO Cloud Integration, including its Connect, Develop, and Integrate capabilities.
+    *   [TIBCO Cloud Integration - Connect Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-associate-certification-exam) - Checks the usage of Connect capability of TIBCO Cloud Integration, installing On-Premise Agent, creating connections and integration apps, and configuring flows.
+    *   [TIBCO Cloud Integration - Connect Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-certified-professional-exam) - Checks the creation and management of connections, ensuring connection security, and troubleshooting issues related to connections in TIBCO Cloud Integration.
+    *   [TIBCO Cloud Integration Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-certified-professional-exam) - Checks the knowledge about capabilities and benefits, integrating, developing, and connecting applications, creating APIs using the API Modeler and Mock functionality, and more.
+    *   [TIBCO Messaging Associate](https://www.tibco.com/services/education/certification/tibco-messaging-associate-certification-exam) - Covers topics such as TIBCO Enterprise Message Service (EMS), TIBCO FTL, TIBCO eFTL, as well as other messaging technologies such as Apache Kafka, Apache Pulsar, and Eclipse Mosquitto.
+    *   [TIBCO Messaging Certified Professional](https://www.tibco.com/services/education/certification/tibco-messaging-certified-professional-exam) - Validates the skills and knowledge required to work with TIBCO Messaging and its components, including TIBCO Enterprise Message Service (EMS), TIBCO FTL, and TIBCO eFTL.
+
 ### Resources / Data Formats
 
 *   [Protocol Buffers (⭐59k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
+
+### Resources / Integration Architecture Patterns
+
+*   [API-led Connectivity pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md)
+*   [Anti Corruption Layer Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md)
+*   [Change Data Capture Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md)
+*   [Hybrid API Management pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md)
+*   [Hybrid Integration pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md)
 
 ### Resources / Structure and Validation
 
 *   [Schematron](https://www.schematron.com) - A rule-based validation language that enables developers to define and validate business rules, data reporting, quality control, and other validation scenarios. Schematron offers a flexible way to validate XML documents.
 
-## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models
 
@@ -263,13 +375,13 @@
 *   [microsoft/JARVIS (⭐15k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 *   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
-## [18. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [24. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Analyzers - API / Meetups
 
 *   [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details and hosted status page in one simple dashboard.
 
-## [19. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [25. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Frontend
 
@@ -283,13 +395,13 @@
 
 *   [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
 
-## [20. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [26. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Text processing
 
 *   [whisker (⭐18)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
@@ -311,7 +423,12 @@
 
 *   [Reminders MenuBar (⭐636)](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [28. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Misc
+
+*   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
+*   [kryptokrona/kryptokrona-kotlin-sdk (⭐33)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ### Projects / Build tools
 
@@ -320,7 +437,7 @@
 
 ### Projects / Misc
 
-*   [kpspemu/kpspemu (⭐63)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [kpspemu/kpspemu (⭐64)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
 
 ### Projects / Desktop
 
@@ -338,7 +455,11 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [23. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+
+## [29. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Chat Bot
 
@@ -364,7 +485,7 @@
 
 
 
-## [24. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [30. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Fonts
 
@@ -378,14 +499,14 @@
 
 *   [fnt (⭐361)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 
-## [25. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [31. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### JavaScript Libraries
 
 *   [noble-curves (⭐313)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
 *   [noble-secp256k1 (⭐530)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 
-## [26. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [32. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Testing / Other
 
