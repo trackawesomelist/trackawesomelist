@@ -12,7 +12,7 @@ A curated list of awesome system integration software and resources.
 
 > A curated list of awesome system integration software, patterns and resources.
 
-System integration is the process of linking together different IT systems (components) to functionally cooperate as a whole.
+System integration is the process of linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## Contents
 
@@ -74,7 +74,7 @@ System integration is the process of linking together different IT systems (co
 *   [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - A cloud-native API platform from TIBCO that enables you to deploy APIs anywhere and manage them from everywhere.
 *   [Tyk API Management](https://tyk.io/api-lifecycle-management/) - A powerful API management solution that allows you to connect, build, and control APIs with ease.
 *   [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - A comprehensive API management solution from Software AG that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments.
-*   [WSO2 API Manager](https://wso2.com/api-manager/) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+*   [WSO2 API Manager (⭐685)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 
 ### API Design
 
@@ -128,6 +128,7 @@ System integration is the process of linking together different IT systems (co
     *   [HTTPie (⭐27k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
     *   [Insomnia (⭐28k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
     *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
+    *   [resty (⭐2.6k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
     *   [SoapUI](https://www.soapui.org/tools/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
 *   MQ clients
     *   [JMSToolBox (⭐168)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
@@ -145,10 +146,12 @@ System integration is the process of linking together different IT systems (co
     *   [WireMock (⭐5.5k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 *   Testing tools and frameworks
     *   [Apache JMeter (⭐6.9k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
+    *   [Gatling (⭐5.9k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
     *   [Karate (⭐6.9k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
     *   [REST Assured (⭐6.3k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
     *   [Schemathesis (⭐1.7k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
+    *   [Taurus (⭐1.8k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
 
 ### BRE
 
@@ -371,6 +374,9 @@ System integration is the process of linking together different IT systems (co
 *   IBM
     *   [IBM Certified Solution Developer – App Connect Enterprise V11](https://www.ibm.com/training/certification/C0003107#exam) - Validate your intermediate-level knowledge and experience to develop, deploy, tune, and support platform-independent message flow applications using IBM App Connect V11.0.
     *   [IBM Certified Solution Implementer – API Connect v10.0.3](https://www.ibm.com/training/certification/C0002604#exam) - Demonstrate your intermediate-level knowledge and skills to develop, publish, configure, and manage APIs using IBM API Connect v10.0.3.
+*   Gravitee
+    *   [Event-native API Management Foundations](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) - Basics of Event-native API Management.
+    *   [Event-native API Management Professional](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) - Focuses on some more advanced API Management concepts, plus foundational knowledge around how to use Gravitee API Management.
 *   Kong
     *   [Kong Gateway Certified Associate](https://konghq.com/academy/exam-preparation) - Validate your entry-level knowledge and skills on Kong Gateway for developers, DevOps, and architects.
 *   Mulesoft
@@ -379,10 +385,10 @@ System integration is the process of linking together different IT systems (co
     *   [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1) - Validate your knowledge and skills to translate functional and non-functional requirements into integration interfaces and implementations.
     *   [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - Validate your knowledge and skills to direct the emergence of an effective application network out of individual integration solutions following API-led connectivity across an organization using Anypoint Platform.
 *   Oracle
-    *   [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - Validate your expertise in implementing Oracle Business Process Management Suite 12c solution.
+    *   [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - Validate your expertise in implementing Oracle BPM Suite 12c solution.
     *   [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
     *   [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - Validate your expertise in selling or implementing Oracle Data Integration 12c solutions.
-    *   [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - Validate your expertise in implementing Oracle Soute Suite 12c solutions.
+    *   [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - Validate your expertise in implementing solutions based on Oracle SOA Suite 12c.
 *   Red Hat
     *   [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) -  Validates the ability to create and maintain enterprise APIs using the Red Hat 3scale API Management platform.
     *   [Red Hat Certified Specialist in Business Rules](https://www.redhat.com/en/services/certification/rhcs-business-rules) - Checks the knowledge, skills, and abilities needed to perform tasks involving the implementation and management of business logic using the Red Hat JBoss BRMS.
@@ -488,18 +494,18 @@ System integration is the process of linking together different IT systems (co
 
 ### Integration Architecture Patterns
 
-*   [API-led Connectivity pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md)
-*   [Anti Corruption Layer Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md)
-*   [Change Data Capture Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md)
-*   [Hybrid API Management pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md)
-*   [Hybrid Integration pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md)
+*   [API-led Connectivity pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
+*   [Anti Corruption Layer Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - Add a layer to isolate and transform data between systems.
+*   [Change Data Capture Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - Capture and propagate changes made to a database or data source in real-time.
+*   [Hybrid API Management pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - Manage APIs that span both cloud and on-premises environments using a central control plane.
+*   [Hybrid Integration pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md) - Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.
 
 ### Integration Styles
 
-*   [File Transfer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FileTransferIntegration.html)
-*   [Messaging](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Messaging.html)
-*   [Remote Procedure Invocation](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html)
-*   [Shared Database](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SharedDataBaseIntegration.html)
+*   [File Transfer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FileTransferIntegration.html) - Data is exchanged through file exchange between applications.
+*   [Messaging](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Messaging.html) - Applications exchange messages using a messaging infrastructure.
+*   [Remote Procedure Invocation](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html) - Applications call functions or procedures on a remote server over a network.
+*   [Shared Database](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SharedDataBaseIntegration.html) - Multiple applications access and manipulate the same data through a common database.
 
 ### Market Analysis
 

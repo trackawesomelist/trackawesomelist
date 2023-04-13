@@ -8,9 +8,25 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
+### Log Management
+
+*   [Mezmo](https://www.mezmo.com/) - Free for a single user, no retention, unlimited hosts and sources
+
+### Crash and Exception Handling
+
+*   [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
+
 ### DBaaS
 
 *   [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. 1 cluster per organization, no payment method needed.
+
+### Design and UI
+
+*   [hypercolor.dev](https://hypercolor.dev/) -- A curated collection of of Tailwind CSS color gradients, also provides a variety of generators to create your own.
+
+### Other Free Resources
+
+*   [Glob tester](https://globster.xyz/) — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
 
 ## [Apr 12, 2023](/content/2023/04/12/README.md)
 
@@ -3148,10 +3164,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Messaging and Streaming
 
 *   [courier.com](https://www.courier.com/) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo.
-
-### Log Management
-
-*   [logdna.com](https://logdna.com) - Free for a single user, no retention, unlimited hosts and sources
 
 ### Crash and Exception Handling
 

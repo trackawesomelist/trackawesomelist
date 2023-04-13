@@ -12,6 +12,14 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [CocoaSprings (⭐26)](https://github.com/MacPaw/CocoaSprings) - Interactive spring animations for iOS/macOS.
 
+### UITableView / Barcode
+
+*   [Shoyu (⭐277)](https://github.com/xai3/Shoyu) - Easier way to represent the structure of UITableView.
+
+### Walkthrough / Barcode
+
+*   [Gecco (⭐14)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
+
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
 ### Scroll Bars / Barcode
@@ -3106,7 +3114,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Walkthrough / Barcode
 
-*   [Gecco (⭐14)](https://github.com/yukiasai/Gecco) - Spotlight view for iOS.
 *   [Instructions (⭐5k)](https://github.com/ephread/Instructions) - A library to create app walkthroughs and guided tours.
 *   [SwiftyOnboard (⭐1.2k)](https://github.com/juanpablofernandez/SwiftyOnboard) - An iOS framework that allows developers to create beautiful onboarding experiences.
 *   [SwiftyWalkthrough (⭐371)](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps.
@@ -3579,7 +3586,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 *   [PullToRefreshSwift (⭐535)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
-*   [Shoyu (⭐277)](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
 

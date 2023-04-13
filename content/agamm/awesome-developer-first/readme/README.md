@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 434 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 443 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐443)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -140,6 +140,7 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 
 *   [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 *   [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+*   [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics.
 *   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 *   [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 *   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
@@ -385,5 +386,5 @@ For the latest additions [click here (⭐434)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐434)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐443)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

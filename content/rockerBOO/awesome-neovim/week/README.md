@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### Git / Diagnostics
+
+*   [aaronhallaert/advanced-git-search.nvim (⭐123)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
+
 ### Editing Support / Diagnostics
 
 *   [chrisgrieser/nvim-alt-substitute (⭐27)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.

@@ -710,7 +710,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 *   [bugfender.com](https://bugfender.com/) — Free up to 100k log lines/day with 24 hours retention
 *   [humio.com](https://www.humio.com/) — Free up to 16 GB/day with 7 days retention
-*   [logdna.com](https://logdna.com) - Free for a single user, no retention, unlimited hosts and sources
+*   [Mezmo](https://www.mezmo.com/) - Free for a single user, no retention, unlimited hosts and sources
 *   [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
 *   [loggly.com](https://www.loggly.com/) — Free for a single user, 200MB/day with 7 days retention
 *   [logz.io](https://logz.io/) — Free up to 1 GB/day, 1 days retention
@@ -820,6 +820,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [memfault.com](https://memfault.com) — Cloud platform for device observability and debugging. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
 *   [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
 *   [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
+*   [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1423,6 +1424,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
 *   [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
 *   [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
+*   [hypercolor.dev](https://hypercolor.dev/) -- A curated collection of of Tailwind CSS color gradients, also provides a variety of generators to create your own.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1786,6 +1788,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [regex101](https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.
 *   [Kody Tools](https://www.kodytools.com/dev-tools) — 100+ dev tools including formatter, minifier, and converter.
 *   [AdminMart](https://adminmart.com/) — High Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJs and NuxtJs!
+*   [Glob tester](https://globster.xyz/) — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
 
 **[⬆️ Back to Top](#table-of-contents)**
 

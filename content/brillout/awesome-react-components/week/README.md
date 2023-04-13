@@ -6,6 +6,18 @@ Curated List of React Components & Libraries.
 
 [ [Daily](/content/brillout/awesome-react-components/README.md) / Weekly / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
+
+### Table
+
+*   Material-React-Table:A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+    [https://github.com/KevinVandy/material-react-table (⭐618)](https://github.com/KevinVandy/material-react-table)
+
+### Test / Lazy Load
+
+*   playwright:Playwright enables reliable end-to-end testing for modern web apps.
+    [https://github.com/microsoft/playwright (⭐50k)](https://github.com/microsoft/playwright)
+
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 
 ### Infinite Scroll

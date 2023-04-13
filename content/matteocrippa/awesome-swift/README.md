@@ -6,6 +6,16 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Apr 13, 2023](/content/2023/04/13/README.md)
+
+### UITableView / Barcode
+
+*   [Shoyu (⭐277)](https://github.com/xai3/Shoyu) - Easier way to represent the structure of UITableView.
+
+### Walkthrough / Barcode
+
+*   [Gecco (⭐14)](https://github.com/xai3/Gecco) - Spotlight view for iOS.
+
 ## [Apr 12, 2023](/content/2023/04/12/README.md)
 
 ### Animation
@@ -3408,7 +3418,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Walkthrough / Barcode
 
-*   [Gecco (⭐14)](https://github.com/yukiasai/Gecco) - Spotlight view for iOS.
 *   [Instructions (⭐5k)](https://github.com/ephread/Instructions) - A library to create app walkthroughs and guided tours.
 *   [SwiftyOnboard (⭐1.2k)](https://github.com/juanpablofernandez/SwiftyOnboard) - An iOS framework that allows developers to create beautiful onboarding experiences.
 *   [SwiftyWalkthrough (⭐371)](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps.
@@ -3920,7 +3929,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 *   [PullToRefreshSwift (⭐535)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
-*   [Shoyu (⭐277)](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 
 ## [Feb 01, 2016](/content/2016/02/01/README.md)
 

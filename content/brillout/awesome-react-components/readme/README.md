@@ -156,16 +156,29 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 ### Table
 
 *   [ka-table (⭐485)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+
 *   [material-table (⭐3.4k)](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
+
 *   [mui-datatables (⭐2.6k)](https://github.com/gregnb/mui-datatables) - Built on Material UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
+
 *   [react-data-table (⭐1.8k)](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
+
 *   [react-table (⭐21k)](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
+
 *   [react-table-library (⭐532)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
+
 *   [rsuite-table (⭐640)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
+
 *   [sematable (⭐160)](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
+
 *   [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
+
 *   [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
+
 *   [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
+
+*   Material-React-Table:A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+    [https://github.com/KevinVandy/material-react-table (⭐618)](https://github.com/KevinVandy/material-react-table)
 
 ### Infinite Scroll
 
@@ -1004,6 +1017,8 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [redux-test-recorder (⭐494)](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
 *   [rut (⭐17)](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 *   [unexpected-react (⭐186)](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
+*   playwright:Playwright enables reliable end-to-end testing for modern web apps.
+    [https://github.com/microsoft/playwright (⭐50k)](https://github.com/microsoft/playwright)
 
 ### Redux
 

@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Apr 13, 2023](/content/2023/04/13/README.md)
+
+### Inbox: Large Language Models
+
+*   [Free Dolly | The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): open source, instruction-following LLM, fine-tuned on a human-generated instruction dataset licensed for research and commercial use
+
+### Inbox: Large Language Models / Autonomous LLM Agents
+
+*   [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): a paper that presents computational software agents that simulate believable human behavior
+
 ## [Apr 12, 2023](/content/2023/04/12/README.md)
 
 ### Inbox: Large Language Models / Autonomous LLM Agents
