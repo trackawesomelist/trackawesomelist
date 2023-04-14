@@ -1,30 +1,54 @@
 # Awesome List Updates on Apr 14, 2023
 
-7 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Payments
+
+*   [hyperswitch (⭐2.9k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+
+## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+### Modules / Web utils
+
+*   [rpc (⭐15)](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [EasyWI](https://easy-wi.com) - Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ([Source Code (⭐186)](https://github.com/easy-wi/developer/)) `GPL-3.0` `PHP/Bash`
+
+## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### resources
+
+*   [geojson-invalid-geometry (⭐13)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
+
+## [5. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
 
 ### Other
 
 *   [GitHub Actions](https://github.com/actions) - Automate your GitHub workflows.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Configuration
 
 *   [ini-cpp (⭐19)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
 
-## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [7. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Tools / Dolby
 
 *   [VTCLab Media Analyzer](https://media-analyzer.pro)  - In-browser tool that helps to analyze the internal structure of MPEG-TS and MP4/MOV files
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
@@ -35,7 +59,7 @@
 
 *   [Poliigon](https://www.poliigon.com/) - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.
 
-## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
@@ -46,13 +70,17 @@
 
 *   [playwright (⭐50k)](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Smart Contracts
 
 *   [ceal (⭐7)](https://github.com/dragmz/ceal) - A C-like language for Algorand smart contracts by @dragmz.
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+### Projects / Wallets
+
+*   [directorydotalgo](https://directorydotalgo.xyz/) - Algorand's unofficial ecosystem directory of projects.
+
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Community Modules / Miscellaneous
 

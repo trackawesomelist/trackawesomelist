@@ -12,6 +12,10 @@
 
 *   [ceal (⭐7)](https://github.com/dragmz/ceal) - A C-like language for Algorand smart contracts by @dragmz.
 
+### Projects / Wallets
+
+*   [directorydotalgo](https://directorydotalgo.xyz/) - Algorand's unofficial ecosystem directory of projects.
+
 ## [Apr 12, 2023](/content/2023/04/12/README.md)
 
 ### Security Auditing Services / Wallets
@@ -178,7 +182,7 @@
 ### Crash Courses
 
 *   [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - Introduction to PyTeal, a Python framework to develop Smart Contract on Algorand (with [@matteojug](https://twitter.com/matteojug)).
-*   [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws) - Using PyTeal to develop *ABI-compliant* Smart Contracts on Algorand. Final live coding section (with [@\_deanste](https://twitter.com/_deanste)).
+*   [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws) - Using PyTeal to develop *ABI-compliant* Smart Contracts on Algorand. Final live coding section (with [@deanste](https://twitter.com/_deanste)).
 *   [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY) - Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with [@HGKimChris](https://twitter.com/HGKimChris)).
 
 ## [Oct 08, 2022](/content/2022/10/08/README.md)
@@ -290,30 +294,18 @@
 
 ### Other Development Tools / Testing
 
-*   [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/ncc/irulan)).
+*   [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome (⭐4)](https://github.com/thencc/irulan)).
 
 ### Projects / Wallets
 
 *   [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource.
 *   [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 
-## [May 31, 2022](/content/2022/05/31/README.md)
-
-### Projects / Wallets
-
-*   [AlgoCloud](https://algocloud.org/) - Algorand ecosystem dashboard. Connect DeFi apps, display NFTs, account analytics, and more.
-
 ## [May 30, 2022](/content/2022/05/30/README.md)
 
 ### Projects / Wallets
 
 *   [Pipeline-UI](https://www.pipeline-ui.com/) - A React.js based component library for rapid deployment of Algorand Dapps.
-
-## [May 27, 2022](/content/2022/05/27/README.md)
-
-### Projects / Wallets
-
-*   [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
 
 ## [May 20, 2022](/content/2022/05/20/README.md)
 
@@ -324,7 +316,6 @@
 ### Projects / Wallets
 
 *   [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
-*   [daotools](https://daotools.org/) - Manage all your DAO voting sessions in one Dapp.
 
 ## [Apr 29, 2022](/content/2022/04/29/README.md)
 
@@ -510,10 +501,6 @@
 
 ## [Jan 19, 2022](/content/2022/01/19/README.md)
 
-### NFT Marketplaces / Wallets
-
-*   [ZestBloom](https://zestbloom.com/) - Digital Media NFT marketplace that offers ways to promote artists for their contributions.
-
 ### Algorand Request for Comments / Wallets
 
 *   [ARC3 (⭐104)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
@@ -557,14 +544,12 @@
 ### NFT Marketplaces / Wallets
 
 *   [AlgoMart (⭐180)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
-*   [The GIF Economy](https://gifeconomy.com/) - Decentralized NFT explorer, minting and trading.
 *   [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
 *   [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
 *   [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
 *   [Otherverse](https://otherverse.io/) - NFT collections marketplace.
 *   [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
 *   [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
-*   [Dahai](https://www.dahai.uk/) - NFT art gallery and marketplace.
 *   [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
 
 ### Projects / Wallets
@@ -641,9 +626,7 @@
 
 ### Tutorials
 
-*   [Swift iOS app using Augmented Reality for Algorand purchases](https://developer.algorand.org/tutorials/ios-app-using-augmented-reality-for-purchases/) - An iOS App Using Augmented Reality for Purchases.
 *   [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - Decentralised co-operative unions with Algorand Multisignature Account.
-*   [Algorand on RaspberryPi](https://developer.algorand.org/tutorials/development-on-algorand-using-raspberry-pi-part-1/) - Development on Algorand using Raspberry Pi.
 *   [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - Read and Write to the Transaction Note Field with Python.
 *   [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - Using Stateful Smart Contract To Create Algorand Standard Asset.
 
@@ -691,5 +674,4 @@
 *   [Auction Demo (⭐57)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 *   [Algorand Session Wallet (⭐16)](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
 *   [WalletConnect Example DApp (⭐22)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
-*   [paytx](https://github.com/algorand-devrel/paytx) - Examples of common pay transaction scenarios using the Algorand Python SDK.
 *   [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.

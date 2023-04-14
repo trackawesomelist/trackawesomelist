@@ -151,7 +151,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 
-*   [ImageScript (⭐482)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐484)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Logging
 
@@ -320,12 +320,13 @@ This list is a collection of the best Deno modules and resources.
 *   [forwarded (⭐9)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 *   [fresh\_chart (⭐75)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 *   [gentleRpc (⭐41)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
-*   [gql (⭐171)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [gql (⭐173)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 *   [graphql-tag (⭐7)](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
 *   [nats (⭐117)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 *   [obsidian (⭐2)](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 *   [qs (⭐5)](https://github.com/denolib/qs) - A query string parser with nesting support.
 *   [router (⭐51)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
+*   [rpc (⭐15)](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
 *   [status (⭐16)](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 *   [squishy\_cookies (⭐12)](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
 *   [ts-prometheus (⭐24)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
