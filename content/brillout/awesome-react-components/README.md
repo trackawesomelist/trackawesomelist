@@ -6,17 +6,16 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
-## [Apr 13, 2023](/content/2023/04/13/README.md)
+## [Apr 14, 2023](/content/2023/04/14/README.md)
 
 ### Table
 
-*   Material-React-Table:A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
-    [https://github.com/KevinVandy/material-react-table (⭐618)](https://github.com/KevinVandy/material-react-table)
+*   [Material-React-Table (⭐618)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+*   [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Test / Lazy Load
 
-*   playwright:Playwright enables reliable end-to-end testing for modern web apps.
-    [https://github.com/microsoft/playwright (⭐50k)](https://github.com/microsoft/playwright)
+*   [playwright (⭐50k)](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
 ## [Apr 01, 2023](/content/2023/04/01/README.md)
 
@@ -76,7 +75,7 @@ Curated List of React Components & Libraries.
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐873)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐916)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [Nov 21, 2022](/content/2022/11/21/README.md)
 
@@ -741,7 +740,7 @@ Curated List of React Components & Libraries.
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐5.2k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [Aug 05, 2020](/content/2020/08/05/README.md)
 
@@ -1005,7 +1004,7 @@ Curated List of React Components & Libraries.
 
 ### Boilerplate / Mouse Events
 
-*   [crisp-react (⭐165)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐167)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
 ## [Jan 24, 2020](/content/2020/01/24/README.md)
 

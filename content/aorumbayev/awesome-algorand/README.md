@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Apr 14, 2023](/content/2023/04/14/README.md)
+
+### Other Development Tools / Smart Contracts
+
+*   [ceal (⭐7)](https://github.com/dragmz/ceal) - A C-like language for Algorand smart contracts by @dragmz.
+
 ## [Apr 12, 2023](/content/2023/04/12/README.md)
 
 ### Security Auditing Services / Wallets
