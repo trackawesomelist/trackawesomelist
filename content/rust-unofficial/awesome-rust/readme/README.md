@@ -637,6 +637,8 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
     *   [neon-bindings/neon (⭐7.1k)](https://github.com/neon-bindings/neon) — Rust bindings for writing safe and fast native Node.js modules
 *   Objective-C
     *   [SSheldon/rust-objc (⭐350)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+*   PHP
+    *   [phper-framework/phper (⭐127)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 *   Python
     *   [dgrunwald/rust-cpython (⭐1.7k)](https://github.com/dgrunwald/rust-cpython) — Python bindings
     *   [getsentry/milksnake (⭐761)](https://github.com/getsentry/milksnake) — extension for python setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
@@ -672,7 +674,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 *   [gitpod.io](https://gitpod.io) — Online IDE with full Rust support based on Rust Language Server
 *   [gnome-builder](https://wiki.gnome.org/Apps/Builder) native support for rust and cargo since Version 3.22.2
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [intellij-rust/intellij-rust (⭐4.3k)](https://github.com/intellij-rust/intellij-rust) —
+    *   [intellij-rust/intellij-rust (⭐4.4k)](https://github.com/intellij-rust/intellij-rust) —
 *   [Kakoune](http://kakoune.org/)
     *   [kak-lsp/kak-lsp (⭐514)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 *   [lapce (⭐25k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)

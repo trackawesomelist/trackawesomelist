@@ -113,7 +113,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [BorgBackup (⭐9.3k)](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 *   [Burp](http://burp.grke.org/) - Network backup and restore program.
 *   [DREBS (⭐35)](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐88)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐89)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 *   [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 *   [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 *   [Elkarbackup (⭐366)](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
@@ -243,7 +243,7 @@ Configuration management database (CMDB) software.
 
 *   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐5k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 *   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐97)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
-*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.1k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
+*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.2k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 *   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐6.8k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 *   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐27k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
 *   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
@@ -256,7 +256,7 @@ Configuration management database (CMDB) software.
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 *   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.6k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.3k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.5k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Control Panels
 
@@ -281,7 +281,7 @@ Configuration management database (CMDB) software.
 
 **Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
 
-*See also: [awesome-selfhosted/Database Management (⭐125k)](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)*
+*See also: [awesome-selfhosted/Database Management (⭐127k)](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)*
 
 ### Deployment Automation
 
@@ -398,7 +398,7 @@ Configuration management database (CMDB) software.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐117)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
+*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐119)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
 *   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐117)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
 *   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
 *   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐1.8k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
@@ -473,14 +473,15 @@ Configuration management database (CMDB) software.
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐329)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 *   [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code (⭐2.2k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 *   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
-*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.4k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 *   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code (⭐5.4k)](https://github.com/arachnys/cabot)) `MIT` `Python`
 *   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.4k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 *   [cadvisor (⭐15k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐15k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐992)](https://github.com/tribe29/checkmk)) `Python/PHP`
+*   [dashdot (⭐1.2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
 *   [EdMon (⭐4)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 *   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐329)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
-*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.1k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐1.8k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
 *   [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support. ([Source Code (⭐3.1k)](https://github.com/librenms/librenms)) `GPL-3.0` `PHP`
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
@@ -500,7 +501,7 @@ Configuration management database (CMDB) software.
 *   [rtop (⭐2.1k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code (⭐2.1k)](https://github.com/rapidloop/rtop))
 *   [Scrutiny (⭐2.6k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 *   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐869)](https://github.com/sensu/sensu-go))
-*   [Status (⭐6)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐10)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 *   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code (⭐384)](https://github.com/sni/Thruk))
 *   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
 
@@ -508,7 +509,7 @@ Configuration management database (CMDB) software.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐125k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐127k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 ### Metric & Metric Collection
 
@@ -541,7 +542,7 @@ Configuration management database (CMDB) software.
     *   [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
     *   [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-    *   [VictoriaMetrics (⭐8.2k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+    *   [VictoriaMetrics (⭐8.3k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 ### Network Configuration Management
 
@@ -583,7 +584,7 @@ Configuration management database (CMDB) software.
 
 *Web-based project management and bug tracking systems*
 
-**Please visit [awesome-selfhosted/Project Management (⭐125k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
+**Please visit [awesome-selfhosted/Project Management (⭐127k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
 
 ### Queuing
 
@@ -632,7 +633,7 @@ Configuration management database (CMDB) software.
 *   [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
 *   [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 *   [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
-*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐17k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
+*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐18k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
 *   [Portainer](https://portainer.io/) - Simple management UI for Docker.
 *   [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code (⭐11k)](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
@@ -695,7 +696,7 @@ Configuration management database (CMDB) software.
 *   [Nebula (⭐12k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 *   [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 *   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
-*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐5.9k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
+*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 *   [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
 *   [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
 *   [sshuttle (⭐9.8k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
@@ -711,7 +712,7 @@ Configuration management database (CMDB) software.
 
 *   [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code (⭐2.2k)](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go`
 *   [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `Apache-2.0` `C`
-*   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐46k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
+*   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐47k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
 *   [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C`
 *   [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 *   [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`

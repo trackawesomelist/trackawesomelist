@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Apr 15, 2023](/content/2023/04/15/README.md)
+
+### Search
+
+*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine.
+
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
 ### Databases & Spreadsheets

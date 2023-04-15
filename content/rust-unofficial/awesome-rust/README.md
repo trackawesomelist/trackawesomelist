@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 15, 2023](/content/2023/04/15/README.md)
+
+### Development tools / FFI
+
+*   PHP
+    *   [phper-framework/phper (⭐127)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+
 ## [Apr 14, 2023](/content/2023/04/14/README.md)
 
 ### Applications / Payments
@@ -2299,7 +2306,7 @@ A curated list of Rust code and resources.
 ### Development tools / IDEs
 
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [intellij-rust/intellij-rust (⭐4.3k)](https://github.com/intellij-rust/intellij-rust) —
+    *   [intellij-rust/intellij-rust (⭐4.4k)](https://github.com/intellij-rust/intellij-rust) —
 *   [Ride (⭐170)](https://github.com/madeso/ride) —
 
 ### Development tools / Profiling

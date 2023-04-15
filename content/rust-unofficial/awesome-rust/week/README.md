@@ -12,6 +12,11 @@ A curated list of Rust code and resources.
 
 *   [hyperswitch (⭐2.9k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
+### Development tools / FFI
+
+*   PHP
+    *   [phper-framework/phper (⭐127)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+
 ### Libraries / Game development
 
 *   Skillratings
@@ -2090,7 +2095,7 @@ A curated list of Rust code and resources.
 ### Development tools / IDEs
 
 *   [IntelliJ](https://www.jetbrains.com/idea/)
-    *   [intellij-rust/intellij-rust (⭐4.3k)](https://github.com/intellij-rust/intellij-rust) —
+    *   [intellij-rust/intellij-rust (⭐4.4k)](https://github.com/intellij-rust/intellij-rust) —
 *   [Ride (⭐170)](https://github.com/madeso/ride) —
 
 ### Development tools / Profiling

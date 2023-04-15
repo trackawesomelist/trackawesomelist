@@ -8,6 +8,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### Interpreters/Compilers
+
+*   [vas (⭐42)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
+
 ### Text processing
 
 *   [whisker (⭐18)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
@@ -22,7 +26,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [bartender (⭐30)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
+*   [bartender (⭐33)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -38,7 +42,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Graphics
 
-*   [mpv-v (⭐13)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+*   [mpv-v (⭐15)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -495,5 +499,5 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface toolkits
 
-*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐46k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐41)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.

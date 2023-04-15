@@ -1,12 +1,54 @@
 # Awesome List Updates on Apr 15, 2023
 
-9 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Interpreters/Compilers
+
+*   [vas (⭐42)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Development tools / FFI
+
+*   PHP
+    *   [phper-framework/phper (⭐127)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
+
+## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### How-to guides
+
+*   [How to Implement TPM Boot Verification (⭐0)](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
+
+### Desktop Customization
+
+*   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
+*   [sys-VPN notification setup (⭐0)](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Terminal Integration / Diagnostics
+
+*   [chomosuke/term-edit.nvim (⭐82)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+### Software / Monitoring
+
+*   [dashdot (⭐1.2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
+
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Search
+
+*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine.
+
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -54,13 +96,13 @@
 
 *   [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Documentation
 
 *   [Stoplight Elements (⭐953)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
 
-## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [9. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Code & Database Assistant
 
@@ -74,31 +116,31 @@
 
 
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Restoration / Generative Adversarial Networks (GANs)
 
 *   [sczhou/codeformer](https://replicate.com/sczhou/codeformer): face restoration algorithm for old photos and AI-generated faces
 
-## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [11. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Elm
 
 *   [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name\[]=Good%20First%20Issue) *(label: Good First Issue)* <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
 
-## [6. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [12. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### data
 
 *   [france-geojson (⭐628)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   💼 [CSS Filter Order (⭐0)](https://github.com/joshdavenport/tailwindcss-filter-order) - Adds `filter-order` utilities for changing the order of filters in the generated CSS.
 
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / JavaScript & TypeScript
 
@@ -108,7 +150,7 @@
 
 *   [Subtopia](https://subtopia.io/) - Decentralized subscription management platform for dApp creators and platform on Algorand. Manage and own your subscription infrastructure, setup flexible plans, discounts and get paid in Algo or any ASA token. Created by @aorumbayev.
 
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

@@ -6,6 +6,12 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / Weekly / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
+
+### Software / Monitoring
+
+*   [dashdot (⭐1.2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Software / Log Management
@@ -27,7 +33,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Identity Management - LDAP
 
-*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐117)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
+*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐119)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
 *   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐117)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
 *   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
 *   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐1.8k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
@@ -44,7 +50,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Backups
 
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐88)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐89)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
@@ -52,16 +58,16 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [Status (⭐6)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐10)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 
 ### Software / Software Containers
 
-*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐17k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
+*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐18k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
 *   [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code (⭐11k)](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 ### Software / VPN
 
-*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐5.9k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
+*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -78,7 +84,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 ### Software / Monitoring
 
 *   [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code (⭐2.2k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
-*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.1k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
 *   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐869)](https://github.com/sensu/sensu-go))
 
@@ -90,7 +96,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.3k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.5k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
@@ -218,7 +224,7 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
     *   [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-    *   [VictoriaMetrics (⭐8.2k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+    *   [VictoriaMetrics (⭐8.3k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -266,7 +272,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.1k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
+*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.2k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 
 ### Software / Distributed Filesystems
 
@@ -658,7 +664,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 ### Software / Monitoring
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐329)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
-*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.4k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 *   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code (⭐5.4k)](https://github.com/arachnys/cabot)) `MIT` `Python`
 *   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.4k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 *   [cadvisor (⭐15k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐15k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
@@ -751,7 +757,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Web
 
-*   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐46k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
+*   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐47k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
 *   [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 
 ### Communities / Forums / Web

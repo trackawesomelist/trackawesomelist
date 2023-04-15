@@ -106,10 +106,11 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Graphics
 
 *   [vRayTracer (⭐46)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
-*   [mpv-v (⭐13)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+*   [mpv-v (⭐15)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
 ### Interpreters/Compilers
 
+*   [vas (⭐42)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 *   [stas (⭐40)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 *   [monkey\_v (⭐36)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 *   [vbf (⭐18)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
@@ -170,7 +171,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [termtable (⭐41)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 *   [vargs (⭐39)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 *   [vesseract (⭐16)](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
-*   [bartender (⭐30)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
+*   [bartender (⭐33)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
 
 ### Database clients
 
@@ -265,7 +266,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [mui (⭐61)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 *   [vgtk3 (⭐50)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐46k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐41)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 *   [V UI (⭐2.1k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 

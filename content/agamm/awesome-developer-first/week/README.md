@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics.
 
+### Search
+
+*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine.
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Authentication & Identity

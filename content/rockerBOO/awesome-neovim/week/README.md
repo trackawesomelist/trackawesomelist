@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### Terminal Integration / Diagnostics
+
+*   [chomosuke/term-edit.nvim (⭐82)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+
 ### Git / Diagnostics
 
 *   [aaronhallaert/advanced-git-search.nvim (⭐123)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
@@ -39,7 +43,7 @@ Collections of awesome neovim plugins.
 ### Bars and Lines / Diagnostics
 
 *   [Bekaboo/deadcolumn.nvim (⭐56)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
-*   [ecthelionvi/NeoColumn.nvim (⭐9)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [ecthelionvi/NeoColumn.nvim (⭐27)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ### Utility / Diagnostics
 
@@ -81,7 +85,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [zdcthomas/yop.nvim (⭐61)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
+*   [zdcthomas/yop.nvim (⭐60)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -91,17 +95,17 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/flatten.nvim (⭐160)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+*   [willothy/flatten.nvim (⭐176)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
 
 ### Editing Support / Diagnostics
 
 *   [utilyre/sentiment.nvim (⭐34)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
-*   [willothy/moveline.nvim (⭐38)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+*   [willothy/moveline.nvim (⭐50)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 *   [echasnovski/mini.nvim#mini.splitjoin (⭐2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
 ### Indent / Diagnostics
 
-*   [shellRaining/hlchunk.nvim (⭐23)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+*   [shellRaining/hlchunk.nvim (⭐34)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -111,7 +115,7 @@ Collections of awesome neovim plugins.
 
 ### Register / Diagnostics
 
-*   [tenxsoydev/karen-yank.nvim (⭐44)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
+*   [tenxsoydev/karen-yank.nvim (⭐45)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
 
 ### Motion / Diagnostics
 
@@ -121,11 +125,11 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [LeonHeidelbach/trailblazer.nvim (⭐128)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+*   [LeonHeidelbach/trailblazer.nvim (⭐131)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nyoom-engineering/oxocarbon.nvim (⭐614)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
+*   [nyoom-engineering/oxocarbon.nvim (⭐632)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 *   [embark-theme/vim (⭐538)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
 
 ### Bars and Lines / Diagnostics
@@ -135,7 +139,7 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [yaocccc/nvim-foldsign (⭐20)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
-*   [tenxsoydev/nx.nvim (⭐14)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
+*   [tenxsoydev/nx.nvim (⭐16)](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 
 ### Motion / Diagnostics
 
@@ -172,7 +176,7 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/neodev.nvim (⭐1k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
+*   [folke/neodev.nvim (⭐1.1k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
 *   [nvim-neorocks/luarocks-tag-release (⭐16)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ### Editing Support / Diagnostics
@@ -230,7 +234,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [mrjones2014/nvim-ts-rainbow (⭐174)](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow :rainbow: delimiters using tree-sitter :rainbow:.
+*   [mrjones2014/nvim-ts-rainbow (⭐178)](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow :rainbow: delimiters using tree-sitter :rainbow:.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
