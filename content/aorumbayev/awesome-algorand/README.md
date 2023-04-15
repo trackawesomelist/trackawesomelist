@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Apr 15, 2023](/content/2023/04/15/README.md)
+
+### Languages / JavaScript & TypeScript
+
+*   [subtopia-js (⭐6)](https://github.com/subtopia-algo/subtopia-js) - Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.
+
+### Subscription Management / Wallets
+
+*   [Subtopia](https://subtopia.io/) - Decentralized subscription management platform for dApp creators and platform on Algorand. Manage and own your subscription infrastructure, setup flexible plans, discounts and get paid in Algo or any ASA token. Created by @aorumbayev.
+
 ## [Apr 14, 2023](/content/2023/04/14/README.md)
 
 ### Other Development Tools / Smart Contracts

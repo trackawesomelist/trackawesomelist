@@ -118,6 +118,7 @@
 *   💼 [Fluid Type (⭐218)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 *   💼 [Grid Areas (⭐58)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 *   💼 [Full Bleed Background and Borders (⭐28)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
+*   💼 [CSS Filter Order (⭐0)](https://github.com/joshdavenport/tailwindcss-filter-order) - Adds `filter-order` utilities for changing the order of filters in the generated CSS.
 *   🧬 [Touch (⭐49)](https://github.com/SteadfastCollective/tailwindcss-touch) - Adds `touch` variants.
 *   🧬 [Localized (⭐8)](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
 *   🧬 [Padded Radius (⭐17)](https://github.com/locksten/tailwindcss-padded-radius) - Adds variants for matching nested border radii.

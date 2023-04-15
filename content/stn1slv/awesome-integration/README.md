@@ -6,6 +6,12 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Apr 15, 2023](/content/2023/04/15/README.md)
+
+### Projects / API Documentation
+
+*   [Stoplight Elements (⭐953)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
+
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
 ### Projects / API Management

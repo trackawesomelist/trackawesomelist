@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Apr 15, 2023](/content/2023/04/15/README.md)
+
+### Image Restoration / Generative Adversarial Networks (GANs)
+
+*   [sczhou/codeformer](https://replicate.com/sczhou/codeformer): face restoration algorithm for old photos and AI-generated faces
+
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
 ### Inbox: Large Language Models

@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
+
+### Plugins
+
+*   💼 [CSS Filter Order (⭐0)](https://github.com/joshdavenport/tailwindcss-filter-order) - Adds `filter-order` utilities for changing the order of filters in the generated CSS.
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### UI Libraries, Components & Templates

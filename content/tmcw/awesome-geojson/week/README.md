@@ -8,6 +8,10 @@ GeoJSON utilities that will make your life easier.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### data
+
+*   [france-geojson (⭐628)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+
 ### resources
 
 *   [geojson-invalid-geometry (⭐13)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.

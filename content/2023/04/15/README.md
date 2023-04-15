@@ -1,0 +1,119 @@
+# Awesome List Updates on Apr 15, 2023
+
+9 awesome lists updated today.
+
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+
+
+
+## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+
+### Articles & Posts
+
+*   [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://buffer.com/resources/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
+
+### Job boards
+
+*   [LGBTQ Remotely](https://lgbtqremotely.com/) – Democratizing remote job opportunities for the LGBTQ+ community.
+*   [Remote Backend Jobs](https://remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
+*   [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
+*   [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
+*   [useWeb3](https://www.useweb3.xyz/jobs) - A curated blockchain, crypto and web3 job board and developer platform
+*   [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+*   [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
+
+### Companies with "remote DNA"
+
+*   [Affirm](https://www.affirm.com/careers) - financial technology company that offers point-of-sale financing options to consumers.
+*   [Array.com](https://array.com/careers) - Financial, identity, and privacy protection tools.
+*   [Aurora Solar](https://aurorasolar.com/careers/) - solar permitting.
+*   [AssemblyAI](https://www.assemblyai.com/careers) - AI models to transcribe and understand speech.
+*   [Binti](https://binti.com/current-openings/) - Foster care.
+*   [Blend](https://blend.com/company/careers/) - Fintech.
+*   [Calm](https://www.calm.com/careers) - improve your health and happiness.
+*   [Ceros](https://labs.ceros.com/jobs/#/) - .
+*   [Coursera](https://about.coursera.org/careers/jobs/) - online courses.
+*   [DataCose](https://www.datacose.com) - Custome web development and custom automations. Python, Vue.Js, TypeScript
+*   [DoIT](https://careers.doit.com/) - technology and cloud expertise.
+*   [Dropbox](https://jobs.dropbox.com/all-jobs) -  file hosting service that provides cloud storage.
+*   [Factorial](https://factorialhr.com/) - A Human Resources management platform for SMEs
+*   [GoGuardian](https://www.goguardian.com/careers) - K-12 digital learning environments.
+*   [Help Scout](https://www.helpscout.com/company/careers/) - A help desk for teams that insist on a delightful customer experience.
+*   [Intuition Machines, Inc.](https://jobs.imachines.com/) - Intuition Machines specializes in deep learning and visual domain ML at scale. Python, JavaScript, Kubernetes, Kafka, Dask/Spark, ML/Computer Vision
+*   [journy.io](https://www.journy.io/about-us) - Customer Data Platform.
+*   [Meta](https://www.metacareers.com/jobs/) - Partent company of Facebook, Instagram. Filter by remote.
+*   [Mode Analytic](https://mode.com/careers/#open-roles) - BI.
+*   [Sketch](https://www.sketch.com/about-us/#careers-at-sketch) - design tool for Mac.
+*   [Spreaker](https://careers.spreaker.com/opportunities/) Create, host, distribute and monetize your podcasts. All engineers are remote. Tech stack: Javascript (React, Node.js), PHP (Symfony), iOS, Android. All hosted on AWS..
+*   [TeamSnap](https://www.teamsnap.com/company/careers) - sports club managment software.
+*   [TRM labs](https://www.trmlabs.com/careers)
+*   [Wheel](https://www.wheel.com/careers) - healthcare startup.
+*   [Quora](https://www.careers.quora.com/) - Q\&A site.
+
+### Tools / Project Management
+
+*   [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+### Projects / API Documentation
+
+*   [Stoplight Elements (⭐953)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
+
+## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Code & Database Assistant
+
+- Name: [CodiumAI](http://www.codium.ai/?utm=aicollection)
+
+  Title: Meaningful Tests for Busy Devs.
+
+  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Image Restoration / Generative Adversarial Networks (GANs)
+
+*   [sczhou/codeformer](https://replicate.com/sczhou/codeformer): face restoration algorithm for old photos and AI-generated faces
+
+## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+
+### Elm
+
+*   [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name\[]=Good%20First%20Issue) *(label: Good First Issue)* <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
+
+## [6. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### data
+
+*   [france-geojson (⭐628)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### Plugins
+
+*   💼 [CSS Filter Order (⭐0)](https://github.com/joshdavenport/tailwindcss-filter-order) - Adds `filter-order` utilities for changing the order of filters in the generated CSS.
+
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+
+### Languages / JavaScript & TypeScript
+
+*   [subtopia-js (⭐6)](https://github.com/subtopia-algo/subtopia-js) - Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.
+
+### Subscription Management / Wallets
+
+*   [Subtopia](https://subtopia.io/) - Decentralized subscription management platform for dApp creators and platform on Algorand. Manage and own your subscription infrastructure, setup flexible plans, discounts and get paid in Algo or any ASA token. Created by @aorumbayev.
+
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [sleek (⭐33)](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
+
+---
+
+- Next: [Apr 14, 2023](/content/2023/04/14/README.md)

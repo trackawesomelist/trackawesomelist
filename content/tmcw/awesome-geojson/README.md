@@ -6,6 +6,12 @@ GeoJSON utilities that will make your life easier.
 
 [ Daily / [Weekly](/content/tmcw/awesome-geojson/week/README.md) / [Overview](/content/tmcw/awesome-geojson/readme/README.md) ]
 
+## [Apr 15, 2023](/content/2023/04/15/README.md)
+
+### data
+
+*   [france-geojson (⭐628)](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
+
 ## [Apr 14, 2023](/content/2023/04/14/README.md)
 
 ### resources

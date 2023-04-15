@@ -21,6 +21,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Documentation
 
 *   [DapperDox (⭐370)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [Stoplight Elements (⭐953)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
 
 ### Projects / API Gateway
 

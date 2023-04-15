@@ -51,6 +51,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
     *   [Other Development Tools](#other-development-tools)
 *   [NFT Marketplaces](#nft-marketplaces)
 *   [DeFi Platforms](#defi-platforms)
+*   [Subscription Management](#subscription-management)
 *   [Security Auditing Services](#security-auditing-services)
 *   [Blockchain Bridges](#blockchain-bridges)
 *   [Oracles](#oracles)
@@ -188,6 +189,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [algonaut.js (⭐10)](https://github.com/thencc/algonautjs) - An easier Algo sdk for front-end dapps (typescript).
 *   [perawallet-connect (⭐57)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 *   [defly-connect (⭐5)](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
+*   [subtopia-js (⭐6)](https://github.com/subtopia-algo/subtopia-js) - Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.
 
 #### Java
 
@@ -311,6 +313,12 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 *   [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
 *   [Cometa.farm](https://cometa.farm/) - Decentralized liquidity-as-a-service.
+
+## Subscription Management
+
+> Awesome subscription management platforms on Algorand. Please note that this list is not aimed to promote any specific project, but rather to provide a comprehensive overview of the ecosystem. Do your own research before investing or using any of the projects listed here.
+
+*   [Subtopia](https://subtopia.io/) - Decentralized subscription management platform for dApp creators and platform on Algorand. Manage and own your subscription infrastructure, setup flexible plans, discounts and get paid in Algo or any ASA token. Created by @aorumbayev.
 
 ## Security Auditing Services
 

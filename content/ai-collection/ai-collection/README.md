@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Apr 15, 2023](/content/2023/04/15/README.md)
+
+### Code & Database Assistant
+
+- Name: [CodiumAI](http://www.codium.ai/?utm=aicollection)
+
+  Title: Meaningful Tests for Busy Devs.
+
+  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Apr 11, 2023](/content/2023/04/11/README.md)
 
 ### Social Networks & Dating
@@ -1408,15 +1422,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Codeium - The Modern Coding Superpower.
 
   Description: Fast AI-based code acceleration and free alternative to GitHub Copilot.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [CodiumAI](http://www.codium.ai/?ref=aicollection)
-
-  Title: Meaningful Tests for Busy Devs.
-
-  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
 
   Offer Free Version: :white\_check\_mark:
 

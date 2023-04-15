@@ -23,6 +23,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [microsoft/JARVIS (⭐15k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 *   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
+### Image Restoration / Generative Adversarial Networks (GANs)
+
+*   [sczhou/codeformer](https://replicate.com/sczhou/codeformer): face restoration algorithm for old photos and AI-generated faces
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### The Generative AI Area: history, maps, and definitions

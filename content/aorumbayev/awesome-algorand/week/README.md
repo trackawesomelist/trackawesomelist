@@ -8,9 +8,17 @@
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### Languages / JavaScript & TypeScript
+
+*   [subtopia-js (⭐6)](https://github.com/subtopia-algo/subtopia-js) - Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.
+
 ### Other Development Tools / Smart Contracts
 
 *   [ceal (⭐7)](https://github.com/dragmz/ceal) - A C-like language for Algorand smart contracts by @dragmz.
+
+### Subscription Management / Wallets
+
+*   [Subtopia](https://subtopia.io/) - Decentralized subscription management platform for dApp creators and platform on Algorand. Manage and own your subscription infrastructure, setup flexible plans, discounts and get paid in Algo or any ASA token. Created by @aorumbayev.
 
 ### Security Auditing Services / Wallets
 

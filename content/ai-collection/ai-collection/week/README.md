@@ -20,6 +20,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Code & Database Assistant
+
+- Name: [CodiumAI](http://www.codium.ai/?utm=aicollection)
+
+  Title: Meaningful Tests for Busy Devs.
+
+  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Social Networks & Dating
 
 - Name: [TinderProfile.ai](https://tinderprofile.ai/?ref=aicollection)
@@ -1406,15 +1418,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Codeium - The Modern Coding Superpower.
 
   Description: Fast AI-based code acceleration and free alternative to GitHub Copilot.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [CodiumAI](http://www.codium.ai/?ref=aicollection)
-
-  Title: Meaningful Tests for Busy Devs.
-
-  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
 
   Offer Free Version: :white\_check\_mark:
 

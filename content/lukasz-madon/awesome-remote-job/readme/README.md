@@ -18,29 +18,32 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 <!-- MarkdownTOC depth=4 -->
 
-*   [Articles & Posts](#articles--posts)
-*   [Videos](#videos)
-*   [Books](#books)
-*   [Humor](#humor)
-*   [Job boards](#job-boards)
-*   [Job boards aggregators](#job-boards-aggregators)
-*   [Housing](#housing)
-*   [Relocation Incentives](#relocation-incentives)
-*   [Interviewing](#interviewing)
-*   [Events](#events)
-*   [Newsletters](#newsletters)
-*   [Podcasts](#podcasts)
-*   [Companies with "remote DNA"](#companies-with-remote-dna)
-*   [Q\&A](#qa)
-*   [Communities](#communities)
-*   [Conferences](#conferences)
-*   [Tools](#tools)
-    *   [HR](#hr)
-    *   [Communication](#communication)
-    *   [Project Management](#project-management)
-    *   [Others](#others)
-*   [Law & Finance](#law--finance)
-*   [Others](#others-1)
+*   [Awesome Remote Job  ](#awesome-remote-job--)
+    *   [Table of Contents](#table-of-contents)
+    *   [Articles & Posts](#articles--posts)
+    *   [Videos](#videos)
+    *   [Books](#books)
+    *   [Humor](#humor)
+    *   [Job boards](#job-boards)
+    *   [Job boards aggregators](#job-boards-aggregators)
+    *   [Housing](#housing)
+    *   [Relocation Incentives](#relocation-incentives)
+    *   [Interviewing](#interviewing)
+    *   [Events](#events)
+    *   [Newsletters](#newsletters)
+    *   [Podcasts](#podcasts)
+    *   [Companies with "remote DNA"](#companies-with-remote-dna)
+    *   [Q\&A](#qa)
+    *   [Communities](#communities)
+    *   [Conferences](#conferences)
+    *   [Tools](#tools)
+        *   [HR](#hr)
+        *   [Communication](#communication)
+        *   [Project Management](#project-management)
+        *   [Others](#others)
+    *   [Law & Finance](#law--finance)
+    *   [Others](#others-1)
+    *   [License](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -69,60 +72,55 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 21. [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company)
 22. [How a Week of Remote Work Boosts my Productivity Enormously](https://www.alexrodba.com/2016/07/24/how-a-week-of-remote-work-boosts-my-productivity-enormously/)
 23. [How GitHub Works](https://zachholman.com/posts/how-github-works/)
-24. [How I Got a Full Time Remote Job in Two Weeks](https://igotpassion.net/get-remote-job/)
-25. [How many companies are 100% distributed? (Research Summary)](https://scottberkun.com/2013/how-many-companies-are-100-distributed/)
-26. [How many people really work from home? (research summary)](https://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/)
-27. [How to focus when working remotely](https://x-team.com/blog/focus-working-remotely/)
-28. [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
-29. [How to Keep Your Remote Workers Productive](https://www.alexrodba.com/2016/03/22/how-to-keep-your-remote-workers-productive/)
-30. [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
-31. [How to run a team of people who never see each other](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
-32. [How to suggest improvements remotely](https://x-team.com/blog/suggest-improvements-remotely/)
-33. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
-34. [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
-35. [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
-36. [Latest Telecommuting Statistics | Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
-37. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
-38. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
-39. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
-40. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
-41. [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business)
-42. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
-43. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
-44. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
-45. [Remote Workers Log More Hours and Are Slightly More Engaged](http://www.gallup.com/opinion/gallup/170669/remote-workers-log-hours-slightly-engaged.aspx)
-46. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
-47. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
-48. [Six Strategies for Managing Telecommuters](https://www.cio.com/article/2422138/six-strategies-for-managing-telecommuters.html)
-49. [Solo Workers Bond at Shared Workspaces](https://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
-50. [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company/)
-51. [The case for all-remote companies](https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/)
-52. [The future of telecommuting: Corralling the Yahoos](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
-53. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
-54. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
-55. [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
-56. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
-57. [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
-58. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
-59. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
-60. [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
-61. [Why I work remotely (hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
-62. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](https://www.cio.com/article/2369058/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
-63. [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](https://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
-64. [Why moonlighting will change your career](https://blog.landing.jobs/why-moonlighting-will-change-your-career-7e8aac3dc25f)
-65. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
-66. [Why Small Businesses Are Building Remote Workforces](https://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
-67. [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/why-we-still-believe-in-working-remotely/)
-68. [Working Remotely: A Complete Guide to Turn You Into a Pro](https://www.paymoapp.com/blog/working-remotely/)
-69. [Working remotely, coworking spaces, and mental health](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
-70. [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
-71. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
-72. [Your Commute Is Killing You](https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html)
-73. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
-74. [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
-75. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
-76. [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
-77. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
+24. [How many companies are 100% distributed? (Research Summary)](https://scottberkun.com/2013/how-many-companies-are-100-distributed/)
+25. [How many people really work from home? (research summary)](https://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/)
+26. [How to focus when working remotely](https://x-team.com/blog/focus-working-remotely/)
+27. [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
+28. [How to Keep Your Remote Workers Productive](https://www.alexrodba.com/2016/03/22/how-to-keep-your-remote-workers-productive/)
+29. [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
+30. [How to run a team of people who never see each other](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
+31. [How to suggest improvements remotely](https://x-team.com/blog/suggest-improvements-remotely/)
+32. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
+33. [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
+34. [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
+35. [Latest Telecommuting Statistics | Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
+36. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
+37. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
+38. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://buffer.com/resources/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
+39. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
+40. [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business)
+41. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
+42. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
+43. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
+44. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
+45. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
+46. [Six Strategies for Managing Telecommuters](https://www.cio.com/article/2422138/six-strategies-for-managing-telecommuters.html)
+47. [Solo Workers Bond at Shared Workspaces](https://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
+48. [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company/)
+49. [The case for all-remote companies](https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/)
+50. [The future of telecommuting: Corralling the Yahoos](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
+51. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
+52. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
+53. [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
+54. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
+55. [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
+56. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
+57. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
+58. [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
+59. [Why I work remotely (hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
+60. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](https://www.cio.com/article/2369058/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
+61. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
+62. [Why Small Businesses Are Building Remote Workforces](https://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
+63. [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/why-we-still-believe-in-working-remotely/)
+64. [Working Remotely: A Complete Guide to Turn You Into a Pro](https://www.paymoapp.com/blog/working-remotely/)
+65. [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
+66. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
+67. [Your Commute Is Killing You](https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html)
+68. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
+69. [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
+70. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
+71. [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
+72. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
 
 ## Videos
 
@@ -138,54 +136,51 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
     by John O'Duinn, 2018.
 3.  [Remote: Office Not Required](https://37signals.com/remote).
     by Jason Fried and David Heinemeier Hansson (37signals), 2013.
-4.  [The Remote Jobseeker’s Handbook](https://cobyism.com/remotejobseeker/).
-    by Coby Chapple (GitHub), 2016.
-5.  [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/).
+4.  [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/).
     by Wade Foster (Zapier), 2015.
-6.  [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/).
+5.  [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/).
     by Scott Berkun, 2013.
 
 ## Humor
 
 1.  [Why working from home is both awesome and horrible](https://theoatmeal.com/comics/working_home)
-2.  [Working From Home](https://www.youtube.com/watch?v=IW3lhfVpLL4)
 
 ## Job boards
 
 1.  [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
-2.  [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
-3.  [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-4.  [Built In](https://builtin.com/jobs/remote)
-5.  [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
-6.  [Codestunts](https://codestunts.com)
-7.  [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
-8.  [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
-9.  [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
-10. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
-11. [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts
-12. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
-13. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
-14. [Find Bacon](https://findbacon.com) - Design and Dev jobs
-15. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
-16. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
-17. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
-18. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
-19. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
-20. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
-21. [HackerX](https://www.hackerx.org/jobs/)
-22. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
-23. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
-24. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
-25. [Java Jobs](https://javajobs.pro/remote/jobs) - Remote Java Jobs
-26. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
-27. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
-28. [Jobspresso](https://jobspresso.co/) \* High-quality remote positions that are open and legitimate \*
-29. [JustRemote](https://justremote.co)
-30. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
-31. [Larajobs](https://larajobs.com/?location=\&remote=1) – The artisan employment connection
-32. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
-33. [NODESK](https://nodesk.co/remote-jobs/)
-34. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+2.  [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
+3.  [Built In](https://builtin.com/jobs/remote)
+4.  [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
+5.  [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
+6.  [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
+7.  [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
+8.  [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
+9.  [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts
+10. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
+11. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
+12. [Find Bacon](https://findbacon.com) - Design and Dev jobs
+13. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
+14. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
+15. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
+16. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
+17. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
+18. [HackerX](https://www.hackerx.org/jobs/)
+19. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
+20. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
+21. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
+22. [Java Jobs](https://javajobs.pro/remote/jobs) - Remote Java Jobs
+23. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
+24. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
+25. [Jobspresso](https://jobspresso.co/) \* High-quality remote positions that are open and legitimate \*
+26. [JustRemote](https://justremote.co)
+27. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
+28. [Larajobs](https://larajobs.com/?location=\&remote=1) – The artisan employment connection
+29. [LGBTQ Remotely](https://lgbtqremotely.com/) – Democratizing remote job opportunities for the LGBTQ+ community.
+30. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
+31. [NODESK](https://nodesk.co/remote-jobs/)
+32. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+33. [Remote Backend Jobs](https://remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
+34. [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
 35. [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
 36. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
 37. [remote-es/remotes (⭐607)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
@@ -201,62 +196,60 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 47. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
 48. [Skip the Drive](https://www.skipthedrive.com/)
 49. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-50. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
-51. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
-52. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-53. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-54. [Virtual Vocations](https://www.virtualvocations.com/)
-55. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-56. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
-57. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
+50. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
+51. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+52. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
+53. [useWeb3](https://www.useweb3.xyz/jobs) - A curated blockchain, crypto and web3 job board and developer platform
+54. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+55. [Virtual Vocations](https://www.virtualvocations.com/)
+56. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+57. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
 58. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-59. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-60. [We Work Remotely](https://weworkremotely.com/)
-61. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-62. [Working Nomads](https://www.workingnomads.co/jobs)
+59. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+60. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+61. [We Work Remotely](https://weworkremotely.com/)
+62. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+63. [Working Nomads](https://www.workingnomads.co/jobs)
+64. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
 
 ## Job boards aggregators
 
-1.  [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
-2.  [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
-3.  [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
-4.  [Google Jobs](https://www.google.com/search?q=remote\&ibp=htl;jobs#fpstate=tldetail\&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D\&htin=1\&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box\&sa=X\&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ\&visit_id=1-636449234996681631-3229288694\&rd=1).
-5.  [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
-6.  [Meerkad](https://meerkad.com/) - Handpicked and curated by community jobs from most popular remote job boards, companies' websites, Facebook groups, Twitter search, Reddit, StackOverflow, HackerNews, Dribbble, Behance, and many others
-7.  [Remote.io](https://www.remote.io/) - Job board and aggregator for remote jobs, primarily tech.
-8.  [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
-9.  [Remote Index](https://remoteindex.co/) - Job board and aggregator for remote jobs in tech.
-10. [Remote Leaf](https://remoteleaf.com) - Hand-picked remote jobs from 40+ remote job boards, 1500+ company career pages, Twitter feed, Linkedin, Reddit, Hacker News Hiring and only sends the ones that apply to you.
-11. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
-12. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
-13. [Theo](https://theojobs.com/) - All remote design jobs, one place.
-14. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
-15. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
-16. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
-17. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
-18. [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
-19. [Wrk.ist](https://wrk.ist/) - latest remote jobs in your console (curl)
+1.  [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
+2.  [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
+3.  [Google Jobs](https://www.google.com/search?q=remote\&ibp=htl;jobs#fpstate=tldetail\&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D\&htin=1\&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box\&sa=X\&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ\&visit_id=1-636449234996681631-3229288694\&rd=1).
+4.  [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
+5.  [Meerkad](https://meerkad.com/) - Handpicked and curated by community jobs from most popular remote job boards, companies' websites, Facebook groups, Twitter search, Reddit, StackOverflow, HackerNews, Dribbble, Behance, and many others
+6.  [Remote.io](https://www.remote.io/) - Job board and aggregator for remote jobs, primarily tech.
+7.  [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
+8.  [Remote Index](https://remoteindex.co/) - Job board and aggregator for remote jobs in tech.
+9.  [Remote Leaf](https://remoteleaf.com) - Hand-picked remote jobs from 40+ remote job boards, 1500+ company career pages, Twitter feed, Linkedin, Reddit, Hacker News Hiring and only sends the ones that apply to you.
+10. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
+11. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
+12. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
+13. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
+14. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
+15. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
+16. [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
 
 ## Housing
 
-1.  [Agora space](http://www.agora-space.com/) - Coworking & coliving space in Shanghai in China
-2.  [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
-3.  [Common](https://www.hicommon.com/) - Coliving House in New York
-4.  [Coworking in the Sun](https://www.coworkinginthesun.com/) - Coliving & coworking space in Tenerife island in Spain
-5.  [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
-6.  [HubBOG](https://hubbog.com/) - Coworking Space + Startup Accelerator. Bogotá, Colombia
-7.  [Mokrin House](https://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
-8.  [Nest Copenhagen](https://nestcopenhagen.dk/) - Coliving space in Copenhagen, Denmark
-9.  [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
-10. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
-11. [Roam](https://www.roam.co/) - Global network of coliving spaces
-12. [Sende](https://sende.co/) - Coliving & coworking space in northern Spain
-13. [Sun Desk](https://www.sun-desk.com/) - Coliving & coworking space in Taghazout, Morocco
-14. [Talent Garden](https://talentgarden.org/coworking/) - Coworking space mainly in Italy but available in some other countries
-15. [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
-16. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
-17. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
-18. [Anceu](https://anceu.com) - Rural Coliving & coworking space in Galicia, Spain
+1.  [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
+2.  [Common](https://www.hicommon.com/) - Coliving House in New York
+3.  [Coworking in the Sun](https://www.coworkinginthesun.com/) - Coliving & coworking space in Tenerife island in Spain
+4.  [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
+5.  [HubBOG](https://hubbog.com/) - Coworking Space + Startup Accelerator. Bogotá, Colombia
+6.  [Mokrin House](https://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
+7.  [Nest Copenhagen](https://nestcopenhagen.dk/) - Coliving space in Copenhagen, Denmark
+8.  [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
+9.  [Nomad House](https://nomadhouse.io) - Global network of nomad housing
+10. [Roam](https://www.roam.co/) - Global network of coliving spaces
+11. [Sende](https://sende.co/) - Coliving & coworking space in northern Spain
+12. [Sun Desk](https://www.sun-desk.com/) - Coliving & coworking space in Taghazout, Morocco
+13. [Talent Garden](https://talentgarden.org/coworking/) - Coworking space mainly in Italy but available in some other countries
+14. [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
+15. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
+16. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+17. [Anceu](https://anceu.com) - Rural Coliving & coworking space in Galicia, Spain
 
 ## Relocation Incentives
 
@@ -305,8 +298,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 3.  [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
 4.  [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
 5.  [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
-6.  [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - Bi-weekly podcast: Jeff Robbins interviews people thinking about distributed teams, remote work, and how to support happy, productive, free-range workers.
-7.  [Wide Teams](https://www.wideteams.com/) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
+6.  [Wide Teams](https://www.wideteams.com/) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
 
@@ -315,248 +307,254 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 3.  [1Password](https://1password.com/jobs/) - The world’s most-loved password manager.
 4.  [Adeva](https://adevait.com) - An exclusive remote developers network. Adeva partners with companies to scale engineering teams on-demand.
 5.  [AgentFire](https://agentfire.com/meet-our-team/) - Hyper local real estate websites powered by Wordpress.
-6.  [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
-7.  [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
-8.  [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
-9.  [ALICE](https://www.aliceplatform.com/careers/) - Remote-friendly start-up company. We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
-10. [amazee.io](https://www.amazee.io/careers) - Open source container hosting - high-performance flexible solutions. Kubernetes, TypeScript (Node.js and React), Go, GraphQL.
-11. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
-12. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
-13. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
-14. [AT\&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
-15. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
-16. [Authentic F & F](https://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
-17. [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
-18. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
-19. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
-20. [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
-21. [Axelerant](https://www.axelerant.com/careers)
-22. [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
-23. [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
-24. [BaseCamp](https://basecamp.com/about/team) - Project management software.
-25. [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
-26. [BeBanjo](https://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
-27. [Bluespark Labs](https://www.bluespark.com/careers) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
-28. [BookingSync](https://www.bookingsync.com/en/jobs) - Vacation Rental Software for professionals. Fully distributed team, we work remotely and try to make a company retreat each year. Proud Ember.js official sponsor, Ruby / Rails
-29. [Brave](https://brave.com) - Web browser with built-in ad blocker and crypto-token micro-payments.
-30. [BRYTER](https://bryter.io/) - No-code platform for decision automation; Kotlin, Typescript, Vue.js, k8s
-31. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
-32. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
-33. [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium-sized businesses build, maintain, and grow their products.
-34. [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
-35. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
-36. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
-37. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
-38. [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
-39. [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
-40. [Clevertech](https://clevertech.biz/careers) - We build incredible, game-changing technology.
-41. [Close](https://jobs.close.com/) - Inside sales CRM for startups and SMBs.
-42. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
-43. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
-44. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
-45. [Collage](https://www.collage.com/careers) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
-46. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
-47. [ConsenSys](https://consensys.net/careers/) - Blockchain software technology company with offices all around the world, and independent employees in even more locations.
-48. [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
-49. [Countly](https://count.ly/full-stack-node-js-developer) - Open source, enterprise mobile / web analytics and marketing platform.
-50. [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
-51. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
-52. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
-53. [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
-54. [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
-55. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
-56. [DataStax](https://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
-57. [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
-58. [digitalminds.io](https://www.digitalminds.io/careers/) - Freelance platform, open for Developers, IT-consultants and Digital Experts
-59. [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
-60. [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
-61. [DNSimple](https://dnsimple.com/) - Small 100% remote and globally distributed team working to make domain management an afterthought.
-62. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
-63. [Dotnetos](https://dotnetos.org/) - Dotnet performance conferences, meetups and courses.
-64. [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
-65. [Doximity](https://www.doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
-66. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
-67. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
-68. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
-69. [Elastic](https://www.elastic.co/) - Open source search & analytics
-70. [Eloquentix](http://eloquentix.com/) - All remote company across 3 continents and 9 timezones.
-71. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, JavaScript. Distributed team with HQ in Melbourne, Australia.
-72. [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
-73. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
-74. [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS.
-75. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
-76. [Feeld](https://feeld.co/) - Dating app for couples and singles.
-77. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
-78. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
-79. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
-80. [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
-81. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
-82. [HeadSpin](https://www.headspin.io/) - world’s first Digital Experience AI Platform that combines cloud-hosted and on-prem global device infrastructure, test automation, and ML-driven performance & quality of experience analytics for mobile, web, audio, and video.
-83. [Gitbook](https://jobs.gitbook.com/) - Publishing toolchain based on git. JavaScript, node.js, Go.
-84. [GitHub](https://github.com/about/jobs)
-85. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
-86. [Gitee](https://gitee.com) - GitHub alternative in China.
-87. [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
-88. [GrooveHQ](https://www.groovehq.com/about) - Help desk software.
-89. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
-90. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
-91. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
-92. [Hatica](https://www.hatica.io) - Work analytics for engineering teams: Hatica equips engineering leaders and managers with actionable insights to promote effort alignment, accelerate delivery, drive team engagement, and promote team well-being.
-93. [HE:labs](https://helabs.com/us/)
-94. [Healthfinch](https://www.healthfinch.com/careers) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, JavaScript.
-95. [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
-96. [Heetch](https://jobs.heetch.com) – Ride Hailing service, operating in Europe and Africa. Fully Remote across Europe or similar timezones. Go, AWS.
-97. [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
-98. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, JavaScript, Golang, Python.
-99. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
-100.    [Hotjar](https://careers.hotjar.com/) - Analytics & Feedback tool.
-101.    [Hubstaff](https://hubstaff.com/jobs) - Time tracking solution with multiple integrations.
-102.    [Igalia](https://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
-103.    [Incsub](https://incsub.com/careers/) - Remote team that builds WordPress projects.
-104.    [Inpsyde GmbH](https://inpsyde.com/) - WordPress Agency in Germany.
-105.    [Institute for Nonprofit News](https://inn.org/about/jobs/) - Nonprofit news organization.
-106.    [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
-107.    [Intellum](https://www.intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
-108.    [Intevity](https://www.intevity.com/)
-109.    [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
-110.    [iRonin.IT](https://careers.ironin.it) - software house. Polish language. Ruby on Rails, Node.js, JavaScript, React, Angular, Vue.js.
-111.    [Isos Technology](https://careers.isostech.com/) - premier Atlassian Platinum & Enterprise Solution Partner, helping organizations solve complex development and business problems with the Atlassian tools.
-112.    [Jackson River](https://www.jacksonriver.com/about/jobs) - Digital-first technology and strategy for nonprofits.
-113.    [Jibble Group](http://careers.jibblegroup.com/) - Remote team across 15 different countries building the next world-class workforce management and payroll Software-as-a-Service.
-114.    [journy.io](https://angel.co/company/journy-io/jobs) - Customer Data Platform.
-115.    [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
-116.    [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
-117.    [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
-118.    [Knack](https://www.knack.com/jobs) - The easy online database helping customers streamline their business processes and automate workflow. The product is DIY with no-code/low-code. The company is 100% remote.
-119.    [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
-120.    [LaunchPotato](https://launchpotato.com/careers) - Startup studio based in Delray Beach, Florida.
-121.    [Librato](https://www.solarwinds.jobs/) - Cloud Monitoring.
-122.    [Linaro](https://www.linaro.org/careers/) - OpenSource Engineering on ARM.
-123.    [Lincoln Loop](https://lincolnloop.com) - WebDev shop.
-124.    [Litmus](https://litmus.com/careers) - Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.
-125.    [LiveChat](https://www.livechat.com/careers/jobs/) - online customer service software with online chat, help desk software, and web analytics
-126.    [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
-127.    [Logit.io](https://logit.io/about-us#careers) - Fully remote first logging and metrics management company with 100% of operations and development based remotely
-128.    [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
-129.    [madewithlove](https://madewithlove.com/jobs) - We help companies build digital products and bring new juice to teams that seem to jam.
-130.    [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
-131.    [MailerLite](https://www.mailerlite.com/) - Email marketing tool with a remote-first team that's scattered all over the world. Twice a year, they go on workation to places like Bali, Panama and Miami.
-132.    [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
-133.    [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other JavaScript frameworks.
-134.    [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
-135.    [MCFTech](https://www.mcftech.com/careers/) - Applications to help you run your business succesfully.
-136.    [MeetEdgar](https://meetedgar.com/careers/) - Automated social sharing. US remote.
-137.    [Merico](https://merico.dev/) - Code deep analysis engine.
-138.    [Mixmax](https://careers.mixmax.com/) - Email with superpowers.
-139.    [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
-140.    [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
-141.    [MODLR](https://modlr.co) - MODLR is business modelling and collaborative planning tool for connected financial planning process
-142.    [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
-143.    [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
-144.    [MVP Space](https://mvp-space.com/) - Test a business idea with your target audience or show its potential to your investors.
-145.    [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
-146.    [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
-147.    [Netguru](https://www.netguru.com/career) - Software agency. JavaScript, Ruby on Rails, Python, Android, iOS
-148.    [Netlandish](https://www.netlandish.com/) - Software development for businesses of all sizes. Python, Django, DevOps. 100% Remote.
-149.    [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
-150.    [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
-151.    [NinjaCat](https://www.ninjacat.io/jobs) - Reporting, Monitoring & Call Tracking Platform for Leading Digital Agencies.
-152.    [Niteo](https://niteo.co/careers) - A decade old SaaS studio full of bright ideas, building smart solutions to empower small businesses online.
-153.    [NodeSource](https://nodesource.com/about) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
-154.    [Nozbe](https://nozbe.com/careers) - GTD app for Mac, Windows, Linux, Android, iPad and iPhone.
-155.    [ofri](https://www.ofri.ch/job_openings) - A swiss online marketplace that connects homeowners with quality home improvement professionals.
-156.    [Olark](https://www.olark.com/jobs) - Chat support funnel.
-157.    [onTheGo Systems](https://www.onthegosystems.com/jobs/) - WordPress Developer, Supporter and Marketing Jobs.
-158.    [OpenCraft](https://opencraft.com/) - Open edX development (Free Software MOOC project).
-159.    [Parknav](https://parknav.com) - Intelligent parking using AI
-160.    [Parsely](https://www.parse.ly/careers) - Analytics solutions
-161.    [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
-162.    [Patients Know Best](https://patients.workable.com/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
-163.    [Paylocity](https://www.paylocity.com/careers/) - HR and payroll solutions
-164.    [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
-165.    [Pleo](https://careers.pleo.io/) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
-166.    [Precision Nutrition](https://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
-167.    [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
-168.    [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
-169.    [Prodperfect](https://prodperfect.com/) - Automated QA testing from live user data. Remote-first org with workplaces in Boston and San Fran.
-170.    [ProFinda](https://profinda.com/) - Workforce planning & optimization. 100% remote dev team. Ruby on Rails, React.js and Python. Company based in UK.
-171.    [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
-172.    [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
-173.    [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
-174.    [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
-175.    [Red Hat](https://www.redhat.com/jobs/)
-176.    [Redox](https://www.redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
-177.    [Relevant Bits](https://relevantbits.com) - Relevant Bits positively influences customer experiences and outcomes with data, design, technology, and critical thinking. Based out of Ontario Canada, Relevant Bits is 100% remote.
-178.    [RenoFi](https://www.renofi.com/careers/) - 100% remote from day 1. Ruby, React.js, GraphQL, k8s.
-179.    [Revolut](https://jobs.lever.co/revolut?lever-via=8QDkIWda8L) - App for buying, investing and sending money. HQ London.
-180.    [Riak](https://riak.com/careers/) - An open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
-181.    [RightScale](https://www.flexera.com/about-us/careers.html)
-182.    [Sangoma](https://www.sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
-183.    [Scrapinghub](https://scrapinghub.com/jobs)
-184.    [SerpApi](https://serpapi.com/team) - Real-time API to access structured search results of Google, Youtube, eBay and other search engines. Ruby, Rails, React.js.
-185.    [ServiceNow](https://jobs.jobvite.com/servicenow/search?c=\&l=\&r=\&t=\&q=remote) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
-186.    [ShakaCode](https://www.shakacode.com/career/) - A global web development software consultancy and product company.
-187.    [Shogun](https://getshogun.com/team) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
-188.    [Signal](https://www.signal.org/workworkwork/) - These people make the fantastic [Signal app](https://www.signal.org). US Only.
-189.    [Simple](https://www.simple.com/careers)
-190.    [Skyscrapers](https://skyscrapers.eu/jobs/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
-191.    [SoftwareMill](https://softwaremill.com/join-us/)
-192.    [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
-193.    [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-194.    [Soostone](http://www.soostone.com/careers)
-195.    [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
-196.    [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
-197.    [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
-198.    [StackExchange](https://stackoverflow.com/company/work-here)
-199.    [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
-200.    [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
-201.    [Strongloop](https://strongloop.com/careers/)
-202.    [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
-203.    [SuperOrbital](https://superorbit.al) - Kubernetes engineering and training.
-204.    [Surevine](https://www.surevine.com/jobs/)
-205.    [Surge](https://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
-206.    [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
-207.    [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
-208.    [Sysdig Cloud](https://sysdig.com/jobs/)
-209.    [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
-210.    [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.
-211.    [Teamed.io](https://www.teamed.io/)
-212.    [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
-213.    [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
-214.    [Teleport](https://teleport.org/jobs/)
-215.    [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
-216.    [The Grid](https://thegrid.io/) - AI website builder. 100% distributed team.
-217.    [Thermeon](https://thermeon.com/vacancies/) - Car rental software - 100% remote technical team
-218.    [Thorn](https://thorn.org/careers) - 100% remote company, building technology to fight child sexual abuse & trafficking online.
-219.    [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
-220.    [Tipe](https://tipe.io) - Next Generation API-first CMS with GraphQL or REST API. Built with Nuxt.js, Serverless, AWS. 25% remote
-221.    [Toggl](https://jobs.toggl.com/)
-222.    [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
-223.    [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
-224.    [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
-225.    [Trello](https://trello.com/jobs)
-226.    [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
-227.    [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
-228.    [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
-229.    [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
-230.    [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
-231.    [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
-232.    [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
-233.    [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
-234.    [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
-235.    [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
-236.    [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
-237.    [Zapier](https://zapier.com/about/)
-238.    [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
-239.    [The Appraisal Lane](https://www.theappraisallane.com/careers) - A third-party vehicle appraisal service. Working space mainly in Austin and Montevideo but available in other countries.
-240.    [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) - ML Model Development for teams. Remotely worldwide
+6.  [Affirm](https://www.affirm.com/careers) - financial technology company that offers point-of-sale financing options to consumers.
+7.  [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
+8.  [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
+9.  [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
+10. [ALICE](https://www.aliceplatform.com/careers/) - Remote-friendly start-up company. We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
+11. [amazee.io](https://www.amazee.io/careers) - Open source container hosting - high-performance flexible solutions. Kubernetes, TypeScript (Node.js and React), Go, GraphQL.
+12. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
+13. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
+14. [Array.com](https://array.com/careers) - Financial, identity, and privacy protection tools.
+15. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
+16. [AT\&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
+17. [Aurora Solar](https://aurorasolar.com/careers/) - solar permitting.
+18. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
+19. [Authentic F & F](https://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
+20. [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
+21. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
+22. [AssemblyAI](https://www.assemblyai.com/careers) - AI models to transcribe and understand speech.
+23. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
+24. [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
+25. [Axelerant](https://www.axelerant.com/careers)
+26. [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
+27. [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
+28. [BaseCamp](https://basecamp.com/about/team) - Project management software.
+29. [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
+30. [BeBanjo](https://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
+31. [Binti](https://binti.com/current-openings/) - Foster care.
+32. [Bluespark Labs](https://www.bluespark.com/careers) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
+33. [Blend](https://blend.com/company/careers/) - Fintech.
+34. [BookingSync](https://www.bookingsync.com/en/jobs) - Vacation Rental Software for professionals. Fully distributed team, we work remotely and try to make a company retreat each year. Proud Ember.js official sponsor, Ruby / Rails
+35. [Brave](https://brave.com) - Web browser with built-in ad blocker and crypto-token micro-payments.
+36. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
+37. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
+38. [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium-sized businesses build, maintain, and grow their products.
+39. [Calm](https://www.calm.com/careers) - improve your health and happiness.
+40. [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
+41. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
+42. [Ceros](https://labs.ceros.com/jobs/#/) - .
+43. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
+44. [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
+45. [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
+46. [Clevertech](https://clevertech.biz/careers) - We build incredible, game-changing technology.
+47. [Close](https://jobs.close.com/) - Inside sales CRM for startups and SMBs.
+48. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
+49. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
+50. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
+51. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
+52. [ConsenSys](https://consensys.net/careers/) - Blockchain software technology company with offices all around the world, and independent employees in even more locations.
+53. [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
+54. [Coursera](https://about.coursera.org/careers/jobs/) - online courses.
+55. [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
+56. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
+57. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
+58. [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
+59. [DataCose](https://www.datacose.com) - Custome web development and custom automations. Python, Vue.Js, TypeScript
+60. [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
+61. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
+62. [DataStax](https://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
+63. [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
+64. [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
+65. [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
+66. [DNSimple](https://dnsimple.com/) - Small 100% remote and globally distributed team working to make domain management an afterthought.
+67. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
+68. [DoIT](https://careers.doit.com/) - technology and cloud expertise.
+69. [Dotnetos](https://dotnetos.org/) - Dotnet performance conferences, meetups and courses.
+70. [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
+71. [Doximity](https://www.doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
+72. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
+73. [Dropbox](https://jobs.dropbox.com/all-jobs) -  file hosting service that provides cloud storage.
+74. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
+75. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
+76. [Elastic](https://www.elastic.co/) - Open source search & analytics
+77. [Eloquentix](http://eloquentix.com/) - All remote company across 3 continents and 9 timezones.
+78. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, JavaScript. Distributed team with HQ in Melbourne, Australia.
+79. [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
+80. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
+81. [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS.
+82. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
+83. [Factorial](https://factorialhr.com/) - A Human Resources management platform for SMEs
+84. [Feeld](https://feeld.co/) - Dating app for couples and singles.
+85. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
+86. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
+87. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
+88. [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
+89. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
+90. [HeadSpin](https://www.headspin.io/) - world’s first Digital Experience AI Platform that combines cloud-hosted and on-prem global device infrastructure, test automation, and ML-driven performance & quality of experience analytics for mobile, web, audio, and video.
+91. [Gitbook](https://jobs.gitbook.com/) - Publishing toolchain based on git. JavaScript, node.js, Go.
+92. [GitHub](https://github.com/about/jobs)
+93. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
+94. [Gitee](https://gitee.com) - GitHub alternative in China.
+95. [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
+96. [GrooveHQ](https://www.groovehq.com/about) - Help desk software.
+97. [GoGuardian](https://www.goguardian.com/careers) - K-12 digital learning environments.
+98. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
+99. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
+100.    [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
+101.    [Hatica](https://www.hatica.io) - Work analytics for engineering teams: Hatica equips engineering leaders and managers with actionable insights to promote effort alignment, accelerate delivery, drive team engagement, and promote team well-being.
+102.    [Healthfinch](https://www.healthfinch.com/careers) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, JavaScript.
+103.    [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
+104.    [Heetch](https://jobs.heetch.com) – Ride Hailing service, operating in Europe and Africa. Fully Remote across Europe or similar timezones. Go, AWS.
+105.    [Help Scout](https://www.helpscout.com/company/careers/) - A help desk for teams that insist on a delightful customer experience.
+106.    [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, JavaScript, Golang, Python.
+107.    [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
+108.    [Hotjar](https://careers.hotjar.com/) - Analytics & Feedback tool.
+109.    [Hubstaff](https://hubstaff.com/jobs) - Time tracking solution with multiple integrations.
+110.    [Igalia](https://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
+111.    [Incsub](https://incsub.com/careers/) - Remote team that builds WordPress projects.
+112.    [Inpsyde GmbH](https://inpsyde.com/) - WordPress Agency in Germany.
+113.    [Institute for Nonprofit News](https://inn.org/about/jobs/) - Nonprofit news organization.
+114.    [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
+115.    [Intellum](https://www.intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
+116.    [Intevity](https://www.intevity.com/)
+117.    [Intuition Machines, Inc.](https://jobs.imachines.com/) - Intuition Machines specializes in deep learning and visual domain ML at scale. Python, JavaScript, Kubernetes, Kafka, Dask/Spark, ML/Computer Vision
+118.    [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
+119.    [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) - ML Model Development for teams. Remotely worldwide
+120.    [iRonin.IT](https://careers.ironin.it) - software house. Polish language. Ruby on Rails, Node.js, JavaScript, React, Angular, Vue.js.
+121.    [Isos Technology](https://careers.isostech.com/) - premier Atlassian Platinum & Enterprise Solution Partner, helping organizations solve complex development and business problems with the Atlassian tools.
+122.    [Jackson River](https://www.jacksonriver.com/about/jobs) - Digital-first technology and strategy for nonprofits.
+123.    [Jibble Group](http://careers.jibblegroup.com/) - Remote team across 15 different countries building the next world-class workforce management and payroll Software-as-a-Service.
+124.    [journy.io](https://www.journy.io/about-us) - Customer Data Platform.
+125.    [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
+126.    [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
+127.    [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
+128.    [Knack](https://www.knack.com/jobs) - The easy online database helping customers streamline their business processes and automate workflow. The product is DIY with no-code/low-code. The company is 100% remote.
+129.    [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
+130.    [LaunchPotato](https://launchpotato.com/careers) - Startup studio based in Delray Beach, Florida.
+131.    [Librato](https://www.solarwinds.jobs/) - Cloud Monitoring.
+132.    [Linaro](https://www.linaro.org/careers/) - OpenSource Engineering on ARM.
+133.    [Lincoln Loop](https://lincolnloop.com) - WebDev shop.
+134.    [Litmus](https://litmus.com/careers) - Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.
+135.    [LiveChat](https://www.livechat.com/careers/jobs/) - online customer service software with online chat, help desk software, and web analytics
+136.    [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
+137.    [Logit.io](https://logit.io/about-us#careers) - Fully remote first logging and metrics management company with 100% of operations and development based remotely
+138.    [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
+139.    [madewithlove](https://madewithlove.com/jobs) - We help companies build digital products and bring new juice to teams that seem to jam.
+140.    [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
+141.    [MailerLite](https://www.mailerlite.com/) - Email marketing tool with a remote-first team that's scattered all over the world. Twice a year, they go on workation to places like Bali, Panama and Miami.
+142.    [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
+143.    [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other JavaScript frameworks.
+144.    [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
+145.    [MeetEdgar](https://meetedgar.com/careers/) - Automated social sharing. US remote.
+146.    [Meta](https://www.metacareers.com/jobs/) - Partent company of Facebook, Instagram. Filter by remote.
+147.    [Merico](https://merico.dev/) - Code deep analysis engine.
+148.    [Mixmax](https://careers.mixmax.com/) - Email with superpowers.
+149.    [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
+150.    [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
+151.    [MODLR](https://modlr.co) - MODLR is business modelling and collaborative planning tool for connected financial planning process
+152.    [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
+153.    [Mode Analytic](https://mode.com/careers/#open-roles) - BI.
+154.    [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
+155.    [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
+156.    [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
+157.    [Netguru](https://www.netguru.com/career) - Software agency. JavaScript, Ruby on Rails, Python, Android, iOS
+158.    [Netlandish](https://www.netlandish.com/) - Software development for businesses of all sizes. Python, Django, DevOps. 100% Remote.
+159.    [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
+160.    [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
+161.    [NinjaCat](https://www.ninjacat.io/jobs) - Reporting, Monitoring & Call Tracking Platform for Leading Digital Agencies.
+162.    [Niteo](https://niteo.co/careers) - A decade old SaaS studio full of bright ideas, building smart solutions to empower small businesses online.
+163.    [NodeSource](https://nodesource.com/about) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
+164.    [Nozbe](https://nozbe.com/careers) - GTD app for Mac, Windows, Linux, Android, iPad and iPhone.
+165.    [ofri](https://www.ofri.ch/job_openings) - A swiss online marketplace that connects homeowners with quality home improvement professionals.
+166.    [Olark](https://www.olark.com/jobs) - Chat support funnel.
+167.    [onTheGo Systems](https://www.onthegosystems.com/jobs/) - WordPress Developer, Supporter and Marketing Jobs.
+168.    [OpenCraft](https://opencraft.com/) - Open edX development (Free Software MOOC project).
+169.    [Parknav](https://parknav.com) - Intelligent parking using AI
+170.    [Parsely](https://www.parse.ly/careers) - Analytics solutions
+171.    [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
+172.    [Patients Know Best](https://patients.workable.com/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
+173.    [Paylocity](https://www.paylocity.com/careers/) - HR and payroll solutions
+174.    [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
+175.    [Pleo](https://careers.pleo.io/) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
+176.    [Precision Nutrition](https://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
+177.    [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
+178.    [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
+179.    [Prodperfect](https://prodperfect.com/) - Automated QA testing from live user data. Remote-first org with workplaces in Boston and San Fran.
+180.    [ProFinda](https://profinda.com/) - Workforce planning & optimization. 100% remote dev team. Ruby on Rails, React.js and Python. Company based in UK.
+181.    [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
+182.    [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
+183.    [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
+184.    [Red Hat](https://www.redhat.com/jobs/)
+185.    [Redox](https://www.redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
+186.    [Relevant Bits](https://relevantbits.com) - Relevant Bits positively influences customer experiences and outcomes with data, design, technology, and critical thinking. Based out of Ontario Canada, Relevant Bits is 100% remote.
+187.    [RenoFi](https://www.renofi.com/careers/) - 100% remote from day 1. Ruby, React.js, GraphQL, k8s.
+188.    [Revolut](https://jobs.lever.co/revolut?lever-via=8QDkIWda8L) - App for buying, investing and sending money. HQ London.
+189.    [Riak](https://riak.com/careers/) - An open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
+190.    [RightScale](https://www.flexera.com/about-us/careers.html)
+191.    [Sangoma](https://www.sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
+192.    [Scrapinghub](https://scrapinghub.com/jobs)
+193.    [Sketch](https://www.sketch.com/about-us/#careers-at-sketch) - design tool for Mac.
+194.    [SerpApi](https://serpapi.com/team) - Real-time API to access structured search results of Google, Youtube, eBay and other search engines. Ruby, Rails, React.js.
+195.    [ServiceNow](https://jobs.jobvite.com/servicenow/search?c=\&l=\&r=\&t=\&q=remote) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
+196.    [ShakaCode](https://www.shakacode.com/career/) - A global web development software consultancy and product company.
+197.    [Shogun](https://getshogun.com/team) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
+198.    [Signal](https://www.signal.org/workworkwork/) - These people make the fantastic [Signal app](https://www.signal.org). US Only.
+199.    [Skyscrapers](https://skyscrapers.eu/jobs/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
+200.    [SoftwareMill](https://softwaremill.com/join-us/)
+201.    [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
+202.    [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
+203.    [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+204.    [Spreaker](https://careers.spreaker.com/opportunities/) Create, host, distribute and monetize your podcasts. All engineers are remote. Tech stack: Javascript (React, Node.js), PHP (Symfony), iOS, Android. All hosted on AWS..
+205.    [StackExchange](https://stackoverflow.com/company/work-here)
+206.    [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
+207.    [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
+208.    [Strongloop](https://strongloop.com/careers/)
+209.    [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
+210.    [SuperOrbital](https://superorbit.al) - Kubernetes engineering and training.
+211.    [Surevine](https://www.surevine.com/jobs/)
+212.    [Surge](https://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
+213.    [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
+214.    [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
+215.    [Sysdig Cloud](https://sysdig.com/jobs/)
+216.    [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
+217.    [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.
+218.    [Teamed.io](https://www.teamed.io/)
+219.    [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
+220.    [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
+221.    [Teleport](https://teleport.org/jobs/)
+222.    [TeamSnap](https://www.teamsnap.com/company/careers) - sports club managment software.
+223.    [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
+224.    [The Grid](https://thegrid.io/) - AI website builder. 100% distributed team.
+225.    [Thermeon](https://thermeon.com/vacancies/) - Car rental software - 100% remote technical team
+226.    [Thorn](https://thorn.org/careers) - 100% remote company, building technology to fight child sexual abuse & trafficking online.
+227.    [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
+228.    [Toggl](https://jobs.toggl.com/)
+229.    [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
+230.    [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
+231.    [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
+232.    [Trello](https://trello.com/jobs)
+233.    [TRM labs](https://www.trmlabs.com/careers)
+234.    [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
+235.    [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
+236.    [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
+237.    [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
+238.    [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
+239.    [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
+240.    [Wheel](https://www.wheel.com/careers) - healthcare startup.
+241.    [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
+242.    [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
+243.    [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
+244.    [Quora](https://www.careers.quora.com/) - Q\&A site.
+245.    [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
+246.    [Zapier](https://zapier.com/about/)
+247.    [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
 
 ## Q\&A
 
-1.  Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
-2.  Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
-3.  Remote.co: [Q\&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
-4.  StackExchange
+1.  Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
+2.  Remote.co: [Q\&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
+3.  StackExchange
     \- Workplace: [telecommute](https://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
     \- Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
 
@@ -573,10 +571,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Conferences
 
-1.  [DNX Global](https://www.dnxfestival.com/) - Digital Nomad Conference.
-2.  [Yonder](https://www.yonder.io/events) - A round table conference bringing together leaders of distributed companies.
-3.  [9punto5](https://www.9punto5.cl/) - Remote work conference in Latin America.
-4.  [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
+1.  [Yonder](https://www.yonder.io/events) - A round table conference bringing together leaders of distributed companies.
+2.  [9punto5](https://www.9punto5.cl/) - Remote work conference in Latin America.
+3.  [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
 
 ## Tools
 
@@ -614,15 +611,16 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 #### Project Management
 
 1.  [Asana](https://asana.com/) - Project management good for distributed teams.
-2.  [Harvest](https://www.getharvest.com/) - Time tracking
-3.  [Hitask](https://hitask.com/) - Easy task and project management for teams.
-4.  [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
-5.  [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
-6.  [Outplanr](https://www.outplanr.com/) - Project and task management tool.
-7.  [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
-8.  [Shortcut](https://shortcut.com/) (fka Clubhouse) - Project management for software development teams.
-9.  [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
-10. [Trello](https://trello.com/) - Lean project boards.
+2.  [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
+3.  [Harvest](https://www.getharvest.com/) - Time tracking
+4.  [Hitask](https://hitask.com/) - Easy task and project management for teams.
+5.  [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
+6.  [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
+7.  [Outplanr](https://www.outplanr.com/) - Project and task management tool.
+8.  [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
+9.  [Shortcut](https://shortcut.com/) (fka Clubhouse) - Project management for software development teams.
+10. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
+11. [Trello](https://trello.com/) - Lean project boards.
 
 #### Others
 
@@ -645,17 +643,15 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Others
 
 1.  [awesome-digital-nomads (⭐776)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
-2.  [Best Remote](https://bestremote.work/) - A curated reference about today's top remote companies.
-3.  [Established Remote (⭐6.1k)](https://github.com/yanirs/established-remote) - A list of established remote companies
-4.  [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
-5.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
-6.  [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
-7.  [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
-8.  [Regus USA](https://www.regus.com/) - Executive suites, virtual offices & conference room space.
-9.  [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=\&l=\&r=true)
-10. [Remote Working (⭐8.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
-11. [Remoter.com](https://www.remoter.com/) - Ongoing initiative to create an educational platform about remote work.
-12. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
+2.  [Established Remote (⭐6.1k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+3.  [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
+4.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
+5.  [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
+6.  [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
+7.  [Regus USA](https://www.regus.com/) - Executive suites, virtual offices & conference room space.
+8.  [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=\&l=\&r=true)
+9.  [Remote Working (⭐8.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+10. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
 ## License
 
