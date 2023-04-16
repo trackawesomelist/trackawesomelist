@@ -2,21 +2,30 @@
 
 A curated list of awesome IRC resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-irc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) · ⭐ 720 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/davisonio/awesome-irc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) · ⭐ 727 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/davisonio/awesome-irc/week/README.md) / [Overview](/content/davisonio/awesome-irc/readme/README.md) ]
+
+## [Apr 16, 2023](/content/2023/04/16/README.md)
+
+### Frameworks / Bridges
+
+*   [dibridge (⭐7)](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
+*   [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
+*   [Heisenbridge (⭐166)](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
+*   [Appservice-IRC (⭐425)](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
 
 ## [Mar 14, 2023](/content/2023/03/14/README.md)
 
 ### Clients
 
-*   [Circe (⭐372)](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
+*   [Circe (⭐376)](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
 *   [IRC Vitamin](https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin) - Simple, fast and easy access to multiple IRC networks. `Android`
 
 ### Bots / Self-hosted
 
-*   [BitBot (⭐126)](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
-*   [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source (⭐70)](https://github.com/pyhoneybot/honeybot)) `Python`
+*   [BitBot (⭐128)](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
+*   [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source (⭐71)](https://github.com/pyhoneybot/honeybot)) `Python`
 
 ### Frameworks / Self-hosted
 
@@ -60,7 +69,7 @@ A curated list of awesome IRC resources.
 
 ### Bouncers / Self-hosted
 
-*   [Convos](https://convos.chat) - Always online web IRC client. ([source (⭐924)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
+*   [Convos](https://convos.chat) - Always online web IRC client. ([source (⭐932)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
 
 ### Bots / Self-hosted
 
@@ -82,14 +91,14 @@ A curated list of awesome IRC resources.
 
 ### Clients
 
-*   [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source (⭐49)](https://github.com/avojak/iridium)) `Linux`
+*   [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source (⭐50)](https://github.com/avojak/iridium)) `Linux`
 
 ## [Dec 07, 2020](/content/2020/12/07/README.md)
 
 ### Bots / Self-hosted
 
 *   [IRC-BF](https://gitlab.com/ddevault/bf-irc-bot) - `Brainfuck`
-*   [CloudBot (⭐62)](https://github.com/TotallyNotRobots/CloudBot) - Simple, fast, expandable. `Python`
+*   [CloudBot (⭐63)](https://github.com/TotallyNotRobots/CloudBot) - Simple, fast, expandable. `Python`
 
 ### Frameworks / Bridges
 
@@ -118,7 +127,7 @@ A curated list of awesome IRC resources.
 
 ### Clients
 
-*   [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐2.8k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+*   [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐2.9k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 
 ## [Aug 16, 2019](/content/2019/08/16/README.md)
 
@@ -126,16 +135,16 @@ A curated list of awesome IRC resources.
 
 *   [Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source (⭐1.8k)](https://github.com/Codeux-Software/Textual)) `macOS`
 *   [LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source (⭐1.5k)](https://github.com/psychs/limechat)) `macOS` `iOS`
-*   [Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source (⭐729)](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
+*   [Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source (⭐737)](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
 *   [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source (⭐397)](https://github.com/flackr/circ)) `Chrome`
-*   [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source (⭐684)](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
+*   [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source (⭐685)](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
 *   [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support, Smooth channel scrolling / swiping. ([source (⭐331)](https://github.com/pocmo/Yaaic)) `Android`
 *   [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source (⭐156)](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-*   [KvIRC](http://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source (⭐204)](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
+*   [KvIRC](http://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source (⭐206)](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 *   [Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source (⭐39)](https://github.com/KDE/konversation)) `Linux`
 *   [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
 *   [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-*   [Revolution IRC (⭐463)](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
+*   [Revolution IRC (⭐469)](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
 *   [AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
 *   [IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 
@@ -151,46 +160,46 @@ A curated list of awesome IRC resources.
 
 *   [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
     *   [iOS App (⭐262)](https://github.com/irccloud/ios) - Official. `Objective-C`
-    *   [Android App (⭐278)](https://github.com/irccloud/android) - Official. `Java`
+    *   [Android App (⭐276)](https://github.com/irccloud/android) - Official. `Java`
     *   [Nimbus (⭐150)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
 
 ### Daemons / Self-hosted
 
-*   [ircd.js (⭐527)](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
+*   [ircd.js (⭐526)](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
 *   [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source (⭐1k)](https://github.com/inspircd/inspircd))
-*   [miniircd (⭐388)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
-*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐356)](https://github.com/ngircd/ngircd))
+*   [miniircd (⭐390)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
+*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐360)](https://github.com/ngircd/ngircd))
 
 ### Services / Self-hosted
 
-*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐358)](https://github.com/atheme/atheme))
+*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐360)](https://github.com/atheme/atheme))
 *   [anope](https://anope.org) - Designed for flexibility and ease of use. ([source (⭐282)](https://github.com/anope/anope))
 
 ### Bots / Self-hosted
 
-*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐924)](https://github.com/sopel-irc/sopel)) `Python`
-*   [Limnoria (⭐587)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
-*   [Twitch Plays (⭐268)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
-*   [Skybot (⭐242)](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
+*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐927)](https://github.com/sopel-irc/sopel)) `Python`
+*   [Limnoria (⭐589)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
+*   [Twitch Plays (⭐270)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
+*   [Skybot (⭐241)](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
 *   [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source (⭐182)](https://github.com/jessamynsmith/talkbackbot)) `Python`
 *   [lazybot (⭐151)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
-*   [geordi (⭐184)](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
+*   [geordi (⭐183)](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
 *   [yossarian-bot (⭐30)](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
 *   [helga (⭐48)](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
 
 ### Frameworks / Self-hosted
 
 *   [goirc (⭐476)](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
-*   [Hubot IRC Adapter (⭐306)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
-*   [go-ircevent (⭐448)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
-*   [slate-irc (⭐203)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
+*   [Hubot IRC Adapter (⭐304)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
+*   [go-ircevent (⭐447)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
+*   [slate-irc (⭐202)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
 *   [PircBotX (⭐212)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
 
 ### Frameworks / Bridges
 
 *   [discord-irc (⭐1.1k)](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
 *   [slack-irc (⭐590)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
-*   [irc-slack (⭐167)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
+*   [irc-slack (⭐170)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 *   [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
 *   [skyweb2irc (⭐7)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 
@@ -217,10 +226,10 @@ A curated list of awesome IRC resources.
 
 ### Protocol / Platforms
 
-*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐84)](https://github.com/ircv3/ircv3.github.io))
-*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐159)](https://github.com/ircdocs/modern-irc))
+*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐85)](https://github.com/ircv3/ircv3.github.io))
+*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐166)](https://github.com/ircdocs/modern-irc))
 *   [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source (⭐60)](https://github.com/ircdocs/irc-defs))
-*   [grawity's IRC docs (⭐52)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
+*   [grawity's IRC docs (⭐53)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
 *   [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source (⭐6)](https://github.com/ircdocs/irc-stats))
 *   [IRC Parser Tests (⭐34)](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
 
@@ -228,7 +237,7 @@ A curated list of awesome IRC resources.
 
 ### Frameworks / Bridges
 
-*   [matterbridge (⭐5.5k)](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
+*   [matterbridge (⭐5.6k)](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 
 ## [Mar 21, 2018](/content/2018/03/21/README.md)
 

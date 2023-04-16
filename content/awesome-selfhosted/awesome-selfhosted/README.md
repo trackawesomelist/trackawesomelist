@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Apr 16, 2023](/content/2023/04/16/README.md)
+
+### Software / Self-hosting Solutions
+
+*   [Tipi](https://runtipi.io/) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.io), [Source Code (⭐5.4k)](https://github.com/meienberger/runtipi)) `GPL-3.0` `Shell`
+
 ## [Apr 14, 2023](/content/2023/04/14/README.md)
 
 ### Software / Games - Administrative Utilities & Control Panels
@@ -801,12 +807,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPL-2.1` `PHP`
 
-## [Sep 07, 2022](/content/2022/09/07/README.md)
-
-### Software / Self-hosting Solutions
-
-*   [Tipi (⭐5.4k)](https://github.com/meienberger/runtipi) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.com)) `GPL-3.0` `Shell`
-
 ## [Sep 03, 2022](/content/2022/09/03/README.md)
 
 ### Software / Status / Uptime pages
@@ -1373,10 +1373,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Media Streaming - Audio Streaming
 
 *   [ympd](https://ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code (⭐511)](https://github.com/notandy/ympd)) `GPL-2.0` `C`
-
-### Software / Personal Dashboards
-
-*   [dashdot (⭐1.2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
 
 ### Software / Polls and Events
 
@@ -4260,7 +4256,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.6k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.7k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [Oct 19, 2018](/content/2018/10/19/README.md)
 

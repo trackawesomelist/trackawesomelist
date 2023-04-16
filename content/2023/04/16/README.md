@@ -1,12 +1,33 @@
 # Awesome List Updates on Apr 16, 2023
 
-4 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [blanket](https://gitlab.com/verygoodsoftwarenotvirus/blanket) - blanket is a tool that helps you catch functions which don't have direct unit tests in your Go packages.
+
+## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+
+### Frameworks / Bridges
+
+*   [dibridge (⭐7)](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
+*   [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
+*   [Heisenbridge (⭐166)](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
+*   [Appservice-IRC (⭐425)](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Self-hosting Solutions
+
+*   [Tipi](https://runtipi.io/) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.io), [Source Code (⭐5.4k)](https://github.com/meienberger/runtipi)) `GPL-3.0` `Shell`
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
@@ -20,20 +41,20 @@
 
 *   [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
 
-## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [calma (⭐1)](https://github.com/luislve17/calma) - Minimalist theme that works well on dark backgrounds. Includes decorators for truncated current directory, `git` information, time, and for the exit status of last command.
 *   [gorchak (⭐0)](https://github.com/evgenygorchakov/oh-my-zsh-gorchak-theme/) - Inspired by \[robbyrussell([https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell (⭐157k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell))] and [af-magic (⭐157k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#af-magic). Includes decorators for `git` information and `nodejs` version.
 
-## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Wallets API
 
 *   [walletOS](https://www.pinestreetlabs.com/walletos/)
 
-## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring Services / Other
 
