@@ -6,6 +6,12 @@ A curated list of bitcoin services and tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-bitcoin/week/README.md) / [Overview](/content/igorbarinov/awesome-bitcoin/readme/README.md) ]
 
+## [Apr 16, 2023](/content/2023/04/16/README.md)
+
+### Wallets API
+
+*   [walletOS](https://www.pinestreetlabs.com/walletos/)
+
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
 
 ### JavaScript Libraries

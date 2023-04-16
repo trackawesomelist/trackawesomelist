@@ -8,6 +8,10 @@ A curated list of bitcoin services and tools for software developers
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### Wallets API
+
+*   [walletOS](https://www.pinestreetlabs.com/walletos/)
+
 ### JavaScript Libraries
 
 *   [noble-curves (⭐313)](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript

@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 16, 2023](/content/2023/04/16/README.md)
+
+### Marks / Diagnostics
+
+*   [tomasky/bookmarks.nvim (⭐7)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
+
+### Utility / Diagnostics
+
+*   [sQVe/bufignore.nvim (⭐5)](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers that are git ignored.
+
+### Resource / Diagnostics
+
+*   [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
+
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 
 ### Terminal Integration / Diagnostics
@@ -54,7 +68,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/deadcolumn.nvim (⭐56)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [Bekaboo/deadcolumn.nvim (⭐84)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
 
 ## [Mar 30, 2023](/content/2023/03/30/README.md)
 
@@ -1971,7 +1985,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐171)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.9k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐171)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐10k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

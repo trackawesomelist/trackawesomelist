@@ -8,6 +8,14 @@ Collections of awesome neovim plugins.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
+### Marks / Diagnostics
+
+*   [tomasky/bookmarks.nvim (⭐7)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
+
+### Utility / Diagnostics
+
+*   [sQVe/bufignore.nvim (⭐5)](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers that are git ignored.
+
 ### Terminal Integration / Diagnostics
 
 *   [chomosuke/term-edit.nvim (⭐82)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
@@ -19,6 +27,10 @@ Collections of awesome neovim plugins.
 ### Editing Support / Diagnostics
 
 *   [chrisgrieser/nvim-alt-substitute (⭐27)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
+
+### Resource / Diagnostics
+
+*   [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -42,7 +54,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/deadcolumn.nvim (⭐56)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [Bekaboo/deadcolumn.nvim (⭐84)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
 *   [ecthelionvi/NeoColumn.nvim (⭐27)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ### Utility / Diagnostics
@@ -1655,7 +1667,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐171)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.9k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐171)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐10k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

@@ -76,6 +76,7 @@ A curated list of bitcoin services and tools for software developers
 *   [Coinbase](https://developers.coinbase.com)
 *   [Blockchain.com](https://www.blockchain.com/api)
 *   [BIP32](http://bip32.org)
+*   [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## Open Source Wallets
 
@@ -216,7 +217,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome (⭐246k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐249k)](https://github.com/sindresorhus/awesome) list thing.
 Created by BlockchainU fellows.
 
 ***

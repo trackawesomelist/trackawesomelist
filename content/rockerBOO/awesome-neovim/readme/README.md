@@ -259,6 +259,7 @@ You can find them listed on the [Neovim wiki (⭐64k)](https://github.com/neovim
 *   [ThePrimeagen/harpoon (⭐2.2k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 *   [ofirgall/open.nvim (⭐23)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.
 *   [LeonHeidelbach/trailblazer.nvim (⭐131)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+*   [tomasky/bookmarks.nvim (⭐7)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
 
 ### Search
 
@@ -275,7 +276,7 @@ You can find them listed on the [Neovim wiki (⭐64k)](https://github.com/neovim
 *   [vijaymarupudi/nvim-fzf (⭐290)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 *   [camspiers/snap (⭐397)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 *   [ibhagwan/fzf-lua (⭐1.1k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
-*   [jvgrootveld/telescope-zoxide (⭐171)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐9.9k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐171)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐10k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [echasnovski/mini.nvim#mini.fuzzy (⭐2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐213)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
@@ -445,7 +446,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Bars and Lines
 
-*   [Bekaboo/deadcolumn.nvim (⭐56)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [Bekaboo/deadcolumn.nvim (⭐84)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
 *   [ecthelionvi/NeoColumn.nvim (⭐27)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 *   [m4xshen/smartcolumn.nvim (⭐129)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
 *   [utilyre/barbecue.nvim (⭐323)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
@@ -552,6 +553,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [rktjmp/paperplanes.nvim (⭐68)](https://github.com/rktjmp/paperplanes.nvim) - Post selections or buffers to online paste bins.
 *   [rcarriga/nvim-notify (⭐2k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
 *   [folke/noice.nvim (⭐2.2k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [sQVe/bufignore.nvim (⭐5)](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers that are git ignored.
 *   [saifulapm/chartoggle.nvim (⭐26)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line.
 *   [stevearc/dressing.nvim (⭐933)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 *   [gaborvecsei/cryptoprice.nvim (⭐16)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
@@ -969,4 +971,5 @@ These tools are used externally to Neovim to enhance the experience.
 
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
 *   [TWiN](https://this-week-in-neovim.org) - TWiN (this-week-in-neovim.org) is dedicated to providing weekly news about Neovim and its ecosystem.
+*   [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
 
