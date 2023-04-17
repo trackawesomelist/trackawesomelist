@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Apr 17, 2023](/content/2023/04/17/README.md)
+
+### Ruby / Angular
+
+*   [Rails Weekly](https://world.hey.com/this.week.in.rails). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
+
 ## [Apr 11, 2023](/content/2023/04/11/README.md)
 
 ### Frontend
@@ -699,7 +705,6 @@ A list of amazing Newsletters
 ### Ruby / Angular
 
 *   [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
-*   [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 *   [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
 
 ### PHP / Angular

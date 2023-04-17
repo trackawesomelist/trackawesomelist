@@ -6,11 +6,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Design and UI
+
+*   [Vertopal](https://www.vertopal.com) - Vertopal is a free online platform for converting files to a variety of file formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML and etc.
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
-
-### Log Management
-
-*   [Mezmo](https://www.mezmo.com/) - Free for a single user, no retention, unlimited hosts and sources
 
 ### Crash and Exception Handling
 
@@ -140,9 +142,9 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
 
-### PaaS
+### Web Hosting
 
-*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.
+*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.
 
 ### Miscellaneous
 
@@ -3070,7 +3072,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### PaaS
 
-*   [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
+*   [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps, 30 second timeouts.
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 

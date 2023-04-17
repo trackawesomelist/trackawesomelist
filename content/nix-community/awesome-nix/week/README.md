@@ -6,6 +6,12 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Programming Languages / OCaml
+
+*   [opam2nix (⭐89)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Installation Media / Newsletters

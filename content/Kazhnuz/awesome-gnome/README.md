@@ -2,15 +2,21 @@
 
 A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kazhnuz/awesome-gnome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) · ⭐ 763 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kazhnuz/awesome-gnome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) · ⭐ 812 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
+
+## [Apr 17, 2023](/content/2023/04/17/README.md)
+
+### Gaming
+
+*   [Cartridges (⭐122)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
 
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
 ### Applets / Design Tooling
 
-*   [RunCat (⭐275)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+*   [RunCat (⭐295)](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
 
 ## [Jan 23, 2023](/content/2023/01/23/README.md)
 
@@ -24,7 +30,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Multimedia
 
-*   [Easy Effects (⭐4.4k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
+*   [Easy Effects (⭐4.7k)](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
 
 ### System and Customization
 
@@ -108,8 +114,8 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
 *   [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-*   [Desktop Cube (⭐452)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
-*   [Burn My Windows (⭐2.1k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
+*   [Desktop Cube (⭐493)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+*   [Burn My Windows (⭐2.2k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
@@ -193,7 +199,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Visual Changes / Design Tooling
 
-*   [Blur-my-shell (⭐886)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
+*   [Blur-my-shell (⭐970)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 
 ## [Sep 24, 2021](/content/2021/09/24/README.md)
 
@@ -216,7 +222,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐136)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐186)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
@@ -242,7 +248,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Multimedia
 
-*   [Clapper (⭐515)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Clapper (⭐541)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
 ## [Mar 24, 2021](/content/2021/03/24/README.md)
 
@@ -255,7 +261,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Multimedia
 
-*   [Spot (⭐1.7k)](https://github.com/xou816/spot) - Spotify Client.
+*   [Spot (⭐1.9k)](https://github.com/xou816/spot) - Spotify Client.
 
 ## [Feb 20, 2021](/content/2021/02/20/README.md)
 
@@ -297,15 +303,15 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐294)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐297)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ### Windows / Design Tooling
 
-*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Coverflow Alt-Tab (⭐311)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio / Design Tooling
 
-*   [Application Volume Mixer (⭐86)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
+*   [Application Volume Mixer (⭐92)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes / Design Tooling
 
@@ -327,7 +333,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Utilities
 
-*   [GPaste (⭐628)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
+*   [GPaste (⭐658)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 
 ## [Oct 02, 2019](/content/2019/10/02/README.md)
 
@@ -345,9 +351,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Office
 
-*   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Pdftag (⭐59)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
-*   [Marker (⭐771)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+*   [Foliate (⭐4.1k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Pdftag (⭐61)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
+*   [Marker (⭐780)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
@@ -357,7 +363,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Multimedia
 
-*   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
+*   [Celluloid (⭐905)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 
 ### Graphics
 
@@ -365,11 +371,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Gaming
 
-*   [Lutris (⭐6.1k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐6.4k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 
 ### System and Customization
 
-*   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
+*   [Tilix (⭐5.1k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 
 ### Utilities
 
@@ -393,16 +399,16 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Windows / Design Tooling
 
-*   [PaperWM (⭐2k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+*   [PaperWM (⭐2.1k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Services integration / Design Tooling
 
-*   [GMail Message Tray (⭐74)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+*   [GMail Message Tray (⭐77)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ### Icons / Upstream Style
 
-*   [GNOME++ (⭐138)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐160)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [GNOME++ (⭐144)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐166)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ### Cursors / Skeumorphic Icons
 
@@ -422,7 +428,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Firefox GNOME Theme (⭐2.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐2.4k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [Mar 31, 2019](/content/2019/03/31/README.md)
 
@@ -442,7 +448,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Dynamic Wallpaper Editor (⭐189)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+*   [Dynamic Wallpaper Editor (⭐192)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ## [Jun 25, 2018](/content/2018/06/25/README.md)
 
@@ -462,8 +468,8 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐929)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1.1k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐951)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [Sep 25, 2017](/content/2017/09/25/README.md)
 
@@ -481,14 +487,14 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐814)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐149)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Numix Circle (⭐830)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐151)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ## [Aug 16, 2017](/content/2017/08/16/README.md)
 
 ### Multimedia
 
-*   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+*   [Vocal (⭐338)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 
 ### Graphics
@@ -511,7 +517,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐5.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐5.7k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -519,11 +525,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐163)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐169)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐250)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐256)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 

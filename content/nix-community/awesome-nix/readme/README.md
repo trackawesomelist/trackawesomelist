@@ -36,6 +36,7 @@
     *   [Elm](#elm)
     *   [Haskell](#haskell)
     *   [Node.js](#nodejs)
+    *   [OCaml](#ocaml)
     *   [PHP](#php)
     *   [PureScript](#purescript)
     *   [Python](#python)
@@ -182,6 +183,10 @@
 *   [Napalm (⭐83)](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
 *   [node2nix (⭐432)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
 *   [npmlock2nix (⭐101)](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
+
+### OCaml
+
+*   [opam2nix (⭐89)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
 ### PHP
 

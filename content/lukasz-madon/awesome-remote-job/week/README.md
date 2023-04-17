@@ -6,6 +6,12 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / Weekly / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Companies with "remote DNA"
+
+*   [Docker](https://www.docker.com/career-openings/) -
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Articles & Posts
