@@ -6,11 +6,11 @@
 
 [ Daily / [Weekly](/content/veggiemonk/awesome-docker/week/README.md) / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
-## [Apr 16, 2023](/content/2023/04/16/README.md)
+## [Apr 17, 2023](/content/2023/04/17/README.md)
 
 ### Monitoring Services / Other
 
-*   [Better Stack](https://betterstack.com) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
+*   [Better Stack](https://betterstack.com/community/guides/scaling-docker/) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
 
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Security
 
-*   [Checkov (⭐5.4k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
+*   [Checkov (⭐5.5k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 
 ## [Sep 11, 2022](/content/2022/09/11/README.md)
 

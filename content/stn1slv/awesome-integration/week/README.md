@@ -6,6 +6,117 @@ A curated list of awesome system integration software and resources.
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Integration Patterns / SOA Patterns
+
+*   Foundational Inventory Patterns
+    *   [Canonical Protocol](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_protocol) - Defines a common communication protocol between services to enable interoperability and decoupling.
+    *   [Canonical Schema](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_schema) - Defines a standard data model and format for exchanging data between services.
+    *   [Domain Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/domain_inventory) - Identifies and categorizes the types of services within a particular domain.
+    *   [Enterprise Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/enterprise_inventory) - Identifies and categorizes the types of services within a particular domain.
+    *   [Logic Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/logic_centralization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+    *   [Service Layers](https://patterns.arcitura.com/soa-patterns/design_patterns/service_layers) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+    *   [Service Normalization](https://patterns.arcitura.com/soa-patterns/design_patterns/service_normalization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+*   Logical Inventory Layer Patterns
+    *   [Entity Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/entity_abstraction) - Abstracts data entities to simplify data access and reduce coupling.
+    *   [Process Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/process_abstraction) - Abstracts processes to improve reusability and maintainability.
+    *   [Utility Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/utility_abstraction) - Abstracts common utilities to reduce duplication and promote consistency.
+    *   [Micro Task Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/micro_task_abstraction) - Breaks down tasks into smaller, more granular tasks for easier management.
+*   Inventory Centralization Patterns
+    *   [Policy Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/policy_centralization) - Centralizes policies to reduce duplication and improve consistency.
+    *   [Process Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/process_centralization) - Centralizes processes to improve reusability and maintainability.
+    *   [Rules Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/rules_centralization) - Centralizes business rules to reduce duplication and promote consistency.
+    *   [Schema Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/schema_centralization) - Centralizes data schemas to reduce duplication and improve consistency.
+*   Inventory Implementation Patterns
+    *   [Canonical Resources](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_resources) - Defines a standard set of resources for common functionality across services.
+    *   [Cross-Domain Utility Layer](https://patterns.arcitura.com/soa-patterns/design_patterns/cross_domain_utility_layer) - Uses multiple protocols for improved performance and flexibility.
+    *   [Dual Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/dual_protocols) - Defines a common utility layer across multiple domains.
+    *   [Inventory Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/inventory_endpoint) - Defines a standard endpoint for accessing inventory resources.
+    *   [Service Grid](https://patterns.arcitura.com/soa-patterns/design_patterns/service_grid) - Provides a framework for managing and scaling services.
+    *   [State Repository](https://patterns.arcitura.com/soa-patterns/design_patterns/state_repository) - Stores and manages service state information.
+    *   [Stateful Services](https://patterns.arcitura.com/soa-patterns/design_patterns/stateful_services) - Maintains state information across service invocations.
+    *   [Augmented Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/augmented_protocols) - Enhances protocols with additional features.
+*   Inventory Governance Patterns
+    *   [Canonical Expression](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_expression) - Defines a standard expression language for inventory data.
+    *   [Canonical Versioning](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_versioning) - Defines a standard versioning scheme for inventory resources.
+    *   [Metadata Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/metadata_centralization) - Centralizes metadata to reduce duplication and improve consistency.
+*   Foundational Service Patterns
+    *   [Agnostic Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_capability) - Abstracts service capabilities for improved flexibility.
+    *   [Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_context) - Abstracts service context for improved flexibility.
+    *   [Functional Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/functional_decomposition) - Breaks down services into smaller, more manageable components.
+    *   [Non-Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/non_agnostic_context) - Breaks down services into smaller, more manageable components.
+    *   [Service Encapsulation](https://patterns.arcitura.com/soa-patterns/design_patterns/service_encapsulation) - Encapsulates service functionality for improved maintainability.
+*   Service Implementation Patterns
+    *   [Partial State Deferral](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_state_deferral) - Encapsulates service functionality for improved maintainability.
+    *   [Partial Validation](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_validation) - Validates only relevant data for improved performance.
+    *   [Redundant Implementation](https://patterns.arcitura.com/soa-patterns/design_patterns/redundant_implementation) - Implements multiple versions of a service for improved flexibility.
+    *   [Service Data Replication](https://patterns.arcitura.com/soa-patterns/design_patterns/service_data_replication) - Replicates data across multiple services for improved performance.
+    *   [Service Façade](https://patterns.arcitura.com/soa-patterns/design_patterns/service_facade) - Provides a simplified interface to a complex service for improved usability.
+    *   [UI Mediator](https://patterns.arcitura.com/soa-patterns/design_patterns/ui_mediator) - Mediates between the user interface and underlying services for improved usability.
+    *   [Reference Data Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/reference_data_centralization) - Centralizes reference data to reduce duplication and improve consistency.
+    *   [Microservice Deployment](https://patterns.arcitura.com/soa-patterns/design_patterns/microservice_deployment) - Deploys services as independent, autonomous units for improved scalability and resilience.
+    *   [Containerization](https://patterns.arcitura.com/soa-patterns/design_patterns/containerization) - How can an environment be provided with maximum support for services with high-performance recovery and scalability requirements?
+*   Service Security Patterns
+    *   [Exception Shielding](https://patterns.arcitura.com/soa-patterns/design_patterns/exception_shielding) - Protects against security vulnerabilities through proper handling of exceptions.
+    *   [Message Screening](https://patterns.arcitura.com/soa-patterns/design_patterns/message_screening) - Screens messages for malicious content.
+    *   [Service Perimeter Guard](https://patterns.arcitura.com/soa-patterns/design_patterns/service_perimeter_guard) - Guards the service perimeter to prevent unauthorized access.
+    *   [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - Establishes trust between subsystems for improved security.
+*   Service Contract Design Patterns
+    *   [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - Allows multiple versions of a service contract to coexist simultaneously.
+    *   [Contract Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_centralization) - Centralizes service contracts to improve consistency and reduce duplication.
+    *   [Contract Denormalization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_denormalization) - Centralizes service contracts to improve consistency and reduce duplication.
+    *   [Decoupled Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/decoupled_contract) - Decouples service contracts from their implementation for improved flexibility.
+    *   [Validation Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/validation_abstraction) - Abstracts validation logic to improve reusability and maintainability.
+*   Legacy Encapsulation Patterns
+    *   [File Gateway](https://patterns.arcitura.com/soa-patterns/design_patterns/file_gateway) - Provides a gateway to access legacy file-based systems.
+    *   [Legacy Wrapper](https://patterns.arcitura.com/soa-patterns/design_patterns/legacy_wrapper) - Wraps legacy systems to expose them as services.
+    *   [Multi-Channel Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/multi_channel_endpoint) - Provides multiple communication channels to access legacy systems.
+*   Service Governance Patterns
+    *   [Compatible Change](https://patterns.arcitura.com/soa-patterns/design_patterns/compatible_change) - Enables changes to a service without breaking existing clients.
+    *   [Decomposed Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/decomposed_capability) - Breaks down a service capability into smaller, more manageable pieces.
+    *   [Distributed Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/distributed_capability) - Breaks down a service capability into smaller, more manageable pieces.
+    *   [Proxy Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/proxy_capability) - Provides a proxy to a remote service capability to improve performance and reduce network overhead.
+    *   [Service Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/service_decomposition) - Breaks down a monolithic service into smaller, more manageable pieces.
+    *   [Service Refactoring](https://patterns.arcitura.com/soa-patterns/design_patterns/service_refactoring) - Refactors a service to improve its design and performance.
+    *   [Termination Notification](https://patterns.arcitura.com/soa-patterns/design_patterns/termination_notification) - Notifies clients of a service's termination.
+    *   [Version Identification](https://patterns.arcitura.com/soa-patterns/design_patterns/version_identification) - Identifies the version of a service.
+*   Capability Composition Patterns
+    *   [Capability Composition](https://patterns.arcitura.com/soa-patterns/design_patterns/capability_composition) - Combines multiple service capabilities to create a new capability.
+    *   [Capability Recomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/capability_recomposition) - Recombines existing service capabilities to create a new capability.
+*   Service Messaging Patterns
+    *   [Asynchronous Queuing](https://patterns.arcitura.com/soa-patterns/design_patterns/asynchronous_queuing) - Uses a message queue to decouple services and improve scalability and reliability.
+    *   [Event-Driven Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/event_driven_messaging) - Uses events to trigger service invocations and reduce coupling.
+    *   [Intermediate Routing](https://patterns.arcitura.com/soa-patterns/design_patterns/intermediate_routing) - Uses intermediate routing nodes to improve performance and flexibility.
+    *   [Messaging Metadata](https://patterns.arcitura.com/soa-patterns/design_patterns/messaging_metadata) - Uses metadata to describe and manage service messages.
+    *   [Reliable Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/reliable_messaging) - Ensures message delivery and reliability in a distributed environment.
+    *   [Service Agent](https://patterns.arcitura.com/soa-patterns/design_patterns/service_agent) - Acts as a proxy for a remote service to improve performance and reduce network overhead.
+    *   [Service Callback](https://patterns.arcitura.com/soa-patterns/design_patterns/service_callback) - Uses callbacks to communicate between services.
+    *   [Service Instance Routing](https://patterns.arcitura.com/soa-patterns/design_patterns/service_instance_routing) - Routes messages based on the service instance to improve performance and scalability.
+    *   [Service Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/service_messaging) - Describes the communication between services.
+    *   [State Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/state_messaging) - Uses messages to manage state information in a distributed environment.
+*   Composition Implementation Patterns
+    *   [Agnostic Sub-Controller](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_sub_controller) - Separates sub-controllers from the main controller to improve reusability and maintainability.
+    *   [Atomic Service Transaction](https://patterns.arcitura.com/soa-patterns/design_patterns/atomic_service_transaction) - Uses transactions to ensure atomicity and consistency across multiple service invocations.
+    *   [Compensating Service Transaction](https://patterns.arcitura.com/soa-patterns/design_patterns/compensating_service_transaction) - Reverses the effects of a failed transaction.
+    *   [Composition Autonomy](https://patterns.arcitura.com/soa-patterns/design_patterns/composition_autonomy) - Enables services to act autonomously within a composition.
+*   Service Interaction Security Patterns
+    *   [Brokered Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/brokered_authentication) - Authenticates clients through a broker.
+    *   [Data Confidentiality](https://patterns.arcitura.com/soa-patterns/design_patterns/data_confidentiality) - Ensures data confidentiality in a distributed environment.
+    *   [Data Origin Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/data_origin_authentication) - Authenticates the origin of a message.
+    *   [Direct Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/direct_authentication) - Authenticates clients directly.
+*   Transformation Patterns
+    *   [Data Format Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_format_transformation) - Transforms data formats to enable interoperability.
+    *   [Data Model Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_model_transformation) - Transforms data models to enable interoperability.
+    *   [Protocol Bridging](https://patterns.arcitura.com/soa-patterns/design_patterns/protocol_bridging) - Bridges between different protocols to enable interoperability.
+*   REST-inspired Patterns
+    *   [Entity Linking](https://patterns.arcitura.com/soa-patterns/design_patterns/entity_linking) - Links related resources to enable navigation and discovery.
+    *   [Lightweight Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/lightweight_endpoint) - Provides a lightweight endpoint for resource access.
+    *   [Reusable Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/reusable_contract) - Reuses common contracts to improve consistency and reduce duplication.
+    *   [Content Negotiation](https://patterns.arcitura.com/soa-patterns/design_patterns/content_negotiation) - Negotiates the content format between clients and servers.
+    *   [Endpoint Redirection](https://patterns.arcitura.com/soa-patterns/design_patterns/endpoint_redirection) - Redirects clients to alternative endpoints.
+    *   [Idempotent Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/idempotent_capability) - Ensures that the same action can be performed multiple times without changing the system state.
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Projects / API Management
@@ -26,7 +137,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Gateway
 
 *   [Apache APISIX (⭐12k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
-*   [Spring Cloud Gateway (⭐4k)](https://github.com/spring-cloud/spring-cloud-gateway) -  An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
+*   [Spring Cloud Gateway (⭐4k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 *   [Traefik (⭐42k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 
 ### Projects / API Testing
@@ -81,7 +192,15 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Workflow engine
 
-*   [jBPM (⭐1.5k)](https://github.com/kiegroup/jbpm) -  A toolkit for building business applications that helps you automate business processes and decisions, making it easier to manage complex workflows.
+*   [jBPM (⭐1.5k)](https://github.com/kiegroup/jbpm) - A toolkit for building business applications that helps you automate business processes and decisions, making it easier to manage complex workflows.
+
+### Integration Patterns / Integration Architecture Patterns
+
+*   [API-led Connectivity pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
+*   [Anti Corruption Layer Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - Add a layer to isolate and transform data between systems.
+*   [Change Data Capture Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - Capture and propagate changes made to a database or data source in real-time.
+*   [Hybrid API Management pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - Manage APIs that span both cloud and on-premises environments using a central control plane.
+*   [Hybrid Integration pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md) - Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.
 
 ### Resources / API Specification
 
@@ -115,9 +234,9 @@ A curated list of awesome system integration software and resources.
     *   [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - Validate your expertise in selling or implementing Oracle Data Integration 12c solutions.
     *   [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - Validate your expertise in implementing solutions based on Oracle SOA Suite 12c.
 *   Red Hat
-    *   [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) -  Validates the ability to create and maintain enterprise APIs using the Red Hat 3scale API Management platform.
+    *   [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) - Validates the ability to create and maintain enterprise APIs using the Red Hat 3scale API Management platform.
     *   [Red Hat Certified Specialist in Business Rules](https://www.redhat.com/en/services/certification/rhcs-business-rules) - Checks the knowledge, skills, and abilities needed to perform tasks involving the implementation and management of business logic using the Red Hat JBoss BRMS.
-    *   [Red Hat Certified Specialist in Cloud-native Integration](https://www.redhat.com/en/services/certification/rhcs-cloud-native-integration) -  Validates the ability to create and maintain enterprise integration services based on Red Hat Fuse, Camel, and APIs.
+    *   [Red Hat Certified Specialist in Cloud-native Integration](https://www.redhat.com/en/services/certification/rhcs-cloud-native-integration) - Validates the ability to create and maintain enterprise integration services based on Red Hat Fuse, Camel, and APIs.
     *   [Red Hat Certified Specialist in Event-Driven Development with Kafka](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-event-driven-development-kafka) - Validates the ability to develop applications using Apache Kafka and Apache Kafka Streams.
 *   TIBCO
     *   [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
@@ -138,14 +257,6 @@ A curated list of awesome system integration software and resources.
 ### Resources / Data Formats
 
 *   [Protocol Buffers (⭐59k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
-
-### Resources / Integration Architecture Patterns
-
-*   [API-led Connectivity pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
-*   [Anti Corruption Layer Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - Add a layer to isolate and transform data between systems.
-*   [Change Data Capture Pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - Capture and propagate changes made to a database or data source in real-time.
-*   [Hybrid API Management pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - Manage APIs that span both cloud and on-premises environments using a central control plane.
-*   [Hybrid Integration pattern (⭐2.9k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md) - Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.
 
 ### Resources / Structure and Validation
 
@@ -206,7 +317,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Managed File Transfer
 
-*   [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) -  An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
+*   [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -273,7 +384,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / MaaS
 
 *   [Amazon MQ](https://aws.amazon.com/amazon-mq) - A fully managed message broker service that supports Apache ActiveMQ and RabbitMQ. It provides a reliable, secure, and scalable messaging infrastructure for your applications.
-*   [Amazon MSK](https://aws.amazon.com/msk) -  A fully managed service for Apache Kafka that simplifies the setup, scaling, and management of Kafka clusters. It provides a highly available, durable, and performant messaging service for your data streaming needs.
+*   [Amazon MSK](https://aws.amazon.com/msk) - A fully managed service for Apache Kafka that simplifies the setup, scaling, and management of Kafka clusters. It provides a highly available, durable, and performant messaging service for your data streaming needs.
 *   [Amazon SQS](https://aws.amazon.com/sqs) - A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It offers a reliable, secure, and highly available message storage and delivery system.
 *   [Amazon SNS](https://aws.amazon.com/sns) - A fully managed pub/sub messaging service that enables you to send and receive messages between distributed systems, microservices, and event-driven serverless applications. It offers a flexible, scalable, and cost-effective way to notify subscribers of events and messages.
 *   [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - A fully managed Apache Kafka service that provides high-throughput, low-latency, and highly available message streaming for your applications. It offers easy integration with other Alibaba Cloud services and seamless data migration.
@@ -368,8 +479,8 @@ A curated list of awesome system integration software and resources.
 ### Projects / ETL
 
 *   [CloverETL](http://www.cloveretl.com/) - A comprehensive data integration software suite, ideal for data migration, warehousing, and feeding data into BI and reporting apps.
-*   [IBM DataStage](https://www.ibm.com/products/datastage) -  A powerful data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
-*   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) -  A trusted enterprise data integration and management software powering analytics for big data and cloud.
+*   [IBM DataStage](https://www.ibm.com/products/datastage) - A powerful data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
+*   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - A trusted enterprise data integration and management software powering analytics for big data and cloud.
 *   [Microsoft SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - A reliable platform for building enterprise-level data integration and transformation solutions.
 *   [Oracle Data Integrator](https://www.oracle.com/middleware/technologies/data-integrator.html) - A comprehensive data integration platform that covers all data integration requirements, including batch loads, integration processes, and SOA-enabled data services.
 *   [Pentaho Data Integration (⭐6.5k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
@@ -424,9 +535,15 @@ A curated list of awesome system integration software and resources.
 *   [Azkaban (⭐4.2k)](https://github.com/azkaban/azkaban) - A distributed workflow manager that helps solve the problem of Hadoop job dependencies, making it easier to schedule and manage workflows in large-scale data processing environments.
 *   [Bonita (⭐133)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Conductor (⭐8.5k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-*   [Elsa Core (⭐4.4k)](https://github.com/elsa-workflows/elsa-core) -  A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
+*   [Elsa Core (⭐4.4k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 *   [Flowable (⭐6.3k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 *   [StackStorm (⭐5.5k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
+
+### Integration Patterns / Enterprise Integration Patterns
+
+*   [Durable Subscriber](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DurableSubscription.html) - How can a subscriber avoid missing messages while it is not listening for them?
+*   [Format Indicator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html) - How can a message\`s data format be designed to allow for possible future changes?
+*   [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - How can a sender indicate when a message should be considered stale and thus shouldn\`t be processed?
 
 ### Resources / API Specification
 
@@ -453,12 +570,6 @@ A curated list of awesome system integration software and resources.
 *   [NDJSON (⭐541)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [XML](https://www.w3.org/TR/2006/REC-xml11-20060816/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
 *   [YAML](https://yaml.org/) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-### Resources / Enterprise Integration Patterns
-
-*   [Durable Subscriber](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DurableSubscription.html) - How can a subscriber avoid missing messages while it is not listening for them?
-*   [Format Indicator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html) - How can a message\`s data format be designed to allow for possible future changes?
-*   [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - How can a sender indicate when a message should be considered stale and thus shouldn\`t be processed?
 
 ### Resources / Market Analysis
 
@@ -552,7 +663,7 @@ A curated list of awesome system integration software and resources.
 *   [Cadence (⭐6.7k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 *   [Camunda (⭐3.2k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 
-### Resources / Enterprise Integration Patterns
+### Integration Patterns / Enterprise Integration Patterns
 
 *   [Aggregator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html) - How do we combine the results of individual, but related messages so that they can be processed as a whole?
 *   [Canonical Data Model](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html) - How can you minimize dependencies when integrating applications that use different data formats?

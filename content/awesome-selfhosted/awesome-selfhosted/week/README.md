@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Software / Search Engines
+
+*   [Gigablast (⭐1.4k)](https://github.com/gigablast/open-source-search-engine) - Open-source search engine. `Apache-2.0` `C++`
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -1099,7 +1105,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Feed Readers
 
-*   [Moonmoon](https://moonmoon.org/) - Simple feed aggregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code (⭐151)](https://github.com/moonmoon/moonmoon)) `BSD-3-Clause` `PHP`
 *   [RSS-Bridge (⭐5.7k)](https://github.com/RSS-Bridge/rss-bridge) - Generate RSS/ATOM feeds for websites which don't have one. `Unlicense` `PHP`
 *   [Screaming Liquid Tiger](https://git.herrbischoff.com/screaming-liquid-tiger/) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
 
@@ -1129,10 +1134,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Proxy
 
 *   [microproxy (⭐167)](https://github.com/thekvs/microproxy) - Lightweight non-caching HTTP/HTTPS proxy server. `MIT` `Go`
-
-### Software / Search Engines
-
-*   [Gigablast](https://www.gigablast.com/) - Open-source search engine. ([Source Code (⭐1.4k)](https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`
 
 ### Software / Software Development - FaaS & Serverless
 
@@ -1219,7 +1220,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Media Streaming - Audio Streaming
 
 *   [Funkwhale](https://dev.funkwhale.audio/funkwhale) - Modern, web-based, convivial, multi-user and free music server. `BSD-3-Clause` `Python/Django`
-*   [ympd](https://ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code (⭐511)](https://github.com/notandy/ympd)) `GPL-2.0` `C`
 
 ### Software / Polls and Events
 
@@ -2269,7 +2269,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Ticketing
 
-*   [Bumpy Booby](https://bumpy-booby.derivoile.fr/) - Simple, responsive and highly customizable PHP bug tracking system. ([Source Code (⭐28)](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
 *   [osTicket](https://osticket.com/) - Manage, organize and archive all your support requests and responses in one place. ([Source Code (⭐2.7k)](https://github.com/osTicket/osTicket)) `GPL-2.0` `PHP`
 
 ### Software / URL Shorteners
@@ -3781,10 +3780,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.3k)](https://github.com/domoticz/domoticz), [Clients (⭐98)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
 
-### Software / Pastebins
-
-*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐175)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
-
 ### Software / Software Development - Project Management
 
 *   [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
@@ -3828,10 +3823,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Social Networks and Forums
 
 *   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐504)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
-
-### Software / Internet of Things (IoT)
-
-*   [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code (⭐1k)](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
 
 ### Software / Media Streaming - Video Streaming
 

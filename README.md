@@ -69,30 +69,186 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Docker](https://www.docker.com/career-openings/) -
 
+#### [9. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+
+##### Monitoring Services / Other
+
+*   [Better Stack](https://betterstack.com/community/guides/scaling-docker/) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
+
+#### [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+##### Analytics
+
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform.
+
+#### [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+##### Software / Automation
+
+*   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.2k)](https://github.com/ruby/rake)) `MIT` `Ruby`
+
+#### [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Formatting / Diagnostics
+
+*   [tenxsoydev/tabs-vs-spaces.nvim (⭐5)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
+
+#### [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Search Engines
+
+*   [Gigablast (⭐1.4k)](https://github.com/gigablast/open-source-search-engine) - Open-source search engine. `Apache-2.0` `C++`
+
+#### [14. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Integration Patterns / SOA Patterns
+
+*   Foundational Inventory Patterns
+    *   [Canonical Protocol](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_protocol) - Defines a common communication protocol between services to enable interoperability and decoupling.
+    *   [Canonical Schema](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_schema) - Defines a standard data model and format for exchanging data between services.
+    *   [Domain Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/domain_inventory) - Identifies and categorizes the types of services within a particular domain.
+    *   [Enterprise Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/enterprise_inventory) - Identifies and categorizes the types of services within a particular domain.
+    *   [Logic Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/logic_centralization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+    *   [Service Layers](https://patterns.arcitura.com/soa-patterns/design_patterns/service_layers) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+    *   [Service Normalization](https://patterns.arcitura.com/soa-patterns/design_patterns/service_normalization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+*   Logical Inventory Layer Patterns
+    *   [Entity Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/entity_abstraction) - Abstracts data entities to simplify data access and reduce coupling.
+    *   [Process Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/process_abstraction) - Abstracts processes to improve reusability and maintainability.
+    *   [Utility Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/utility_abstraction) - Abstracts common utilities to reduce duplication and promote consistency.
+    *   [Micro Task Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/micro_task_abstraction) - Breaks down tasks into smaller, more granular tasks for easier management.
+*   Inventory Centralization Patterns
+    *   [Policy Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/policy_centralization) - Centralizes policies to reduce duplication and improve consistency.
+    *   [Process Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/process_centralization) - Centralizes processes to improve reusability and maintainability.
+    *   [Rules Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/rules_centralization) - Centralizes business rules to reduce duplication and promote consistency.
+    *   [Schema Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/schema_centralization) - Centralizes data schemas to reduce duplication and improve consistency.
+*   Inventory Implementation Patterns
+    *   [Canonical Resources](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_resources) - Defines a standard set of resources for common functionality across services.
+    *   [Cross-Domain Utility Layer](https://patterns.arcitura.com/soa-patterns/design_patterns/cross_domain_utility_layer) - Uses multiple protocols for improved performance and flexibility.
+    *   [Dual Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/dual_protocols) - Defines a common utility layer across multiple domains.
+    *   [Inventory Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/inventory_endpoint) - Defines a standard endpoint for accessing inventory resources.
+    *   [Service Grid](https://patterns.arcitura.com/soa-patterns/design_patterns/service_grid) - Provides a framework for managing and scaling services.
+    *   [State Repository](https://patterns.arcitura.com/soa-patterns/design_patterns/state_repository) - Stores and manages service state information.
+    *   [Stateful Services](https://patterns.arcitura.com/soa-patterns/design_patterns/stateful_services) - Maintains state information across service invocations.
+    *   [Augmented Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/augmented_protocols) - Enhances protocols with additional features.
+*   Inventory Governance Patterns
+    *   [Canonical Expression](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_expression) - Defines a standard expression language for inventory data.
+    *   [Canonical Versioning](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_versioning) - Defines a standard versioning scheme for inventory resources.
+    *   [Metadata Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/metadata_centralization) - Centralizes metadata to reduce duplication and improve consistency.
+*   Foundational Service Patterns
+    *   [Agnostic Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_capability) - Abstracts service capabilities for improved flexibility.
+    *   [Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_context) - Abstracts service context for improved flexibility.
+    *   [Functional Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/functional_decomposition) - Breaks down services into smaller, more manageable components.
+    *   [Non-Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/non_agnostic_context) - Breaks down services into smaller, more manageable components.
+    *   [Service Encapsulation](https://patterns.arcitura.com/soa-patterns/design_patterns/service_encapsulation) - Encapsulates service functionality for improved maintainability.
+*   Service Implementation Patterns
+    *   [Partial State Deferral](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_state_deferral) - Encapsulates service functionality for improved maintainability.
+    *   [Partial Validation](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_validation) - Validates only relevant data for improved performance.
+    *   [Redundant Implementation](https://patterns.arcitura.com/soa-patterns/design_patterns/redundant_implementation) - Implements multiple versions of a service for improved flexibility.
+    *   [Service Data Replication](https://patterns.arcitura.com/soa-patterns/design_patterns/service_data_replication) - Replicates data across multiple services for improved performance.
+    *   [Service Façade](https://patterns.arcitura.com/soa-patterns/design_patterns/service_facade) - Provides a simplified interface to a complex service for improved usability.
+    *   [UI Mediator](https://patterns.arcitura.com/soa-patterns/design_patterns/ui_mediator) - Mediates between the user interface and underlying services for improved usability.
+    *   [Reference Data Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/reference_data_centralization) - Centralizes reference data to reduce duplication and improve consistency.
+    *   [Microservice Deployment](https://patterns.arcitura.com/soa-patterns/design_patterns/microservice_deployment) - Deploys services as independent, autonomous units for improved scalability and resilience.
+    *   [Containerization](https://patterns.arcitura.com/soa-patterns/design_patterns/containerization) - How can an environment be provided with maximum support for services with high-performance recovery and scalability requirements?
+*   Service Security Patterns
+    *   [Exception Shielding](https://patterns.arcitura.com/soa-patterns/design_patterns/exception_shielding) - Protects against security vulnerabilities through proper handling of exceptions.
+    *   [Message Screening](https://patterns.arcitura.com/soa-patterns/design_patterns/message_screening) - Screens messages for malicious content.
+    *   [Service Perimeter Guard](https://patterns.arcitura.com/soa-patterns/design_patterns/service_perimeter_guard) - Guards the service perimeter to prevent unauthorized access.
+    *   [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - Establishes trust between subsystems for improved security.
+*   Service Contract Design Patterns
+    *   [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - Allows multiple versions of a service contract to coexist simultaneously.
+    *   [Contract Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_centralization) - Centralizes service contracts to improve consistency and reduce duplication.
+    *   [Contract Denormalization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_denormalization) - Centralizes service contracts to improve consistency and reduce duplication.
+    *   [Decoupled Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/decoupled_contract) - Decouples service contracts from their implementation for improved flexibility.
+    *   [Validation Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/validation_abstraction) - Abstracts validation logic to improve reusability and maintainability.
+*   Legacy Encapsulation Patterns
+    *   [File Gateway](https://patterns.arcitura.com/soa-patterns/design_patterns/file_gateway) - Provides a gateway to access legacy file-based systems.
+    *   [Legacy Wrapper](https://patterns.arcitura.com/soa-patterns/design_patterns/legacy_wrapper) - Wraps legacy systems to expose them as services.
+    *   [Multi-Channel Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/multi_channel_endpoint) - Provides multiple communication channels to access legacy systems.
+*   Service Governance Patterns
+    *   [Compatible Change](https://patterns.arcitura.com/soa-patterns/design_patterns/compatible_change) - Enables changes to a service without breaking existing clients.
+    *   [Decomposed Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/decomposed_capability) - Breaks down a service capability into smaller, more manageable pieces.
+    *   [Distributed Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/distributed_capability) - Breaks down a service capability into smaller, more manageable pieces.
+    *   [Proxy Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/proxy_capability) - Provides a proxy to a remote service capability to improve performance and reduce network overhead.
+    *   [Service Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/service_decomposition) - Breaks down a monolithic service into smaller, more manageable pieces.
+    *   [Service Refactoring](https://patterns.arcitura.com/soa-patterns/design_patterns/service_refactoring) - Refactors a service to improve its design and performance.
+    *   [Termination Notification](https://patterns.arcitura.com/soa-patterns/design_patterns/termination_notification) - Notifies clients of a service's termination.
+    *   [Version Identification](https://patterns.arcitura.com/soa-patterns/design_patterns/version_identification) - Identifies the version of a service.
+*   Capability Composition Patterns
+    *   [Capability Composition](https://patterns.arcitura.com/soa-patterns/design_patterns/capability_composition) - Combines multiple service capabilities to create a new capability.
+    *   [Capability Recomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/capability_recomposition) - Recombines existing service capabilities to create a new capability.
+*   Service Messaging Patterns
+    *   [Asynchronous Queuing](https://patterns.arcitura.com/soa-patterns/design_patterns/asynchronous_queuing) - Uses a message queue to decouple services and improve scalability and reliability.
+    *   [Event-Driven Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/event_driven_messaging) - Uses events to trigger service invocations and reduce coupling.
+    *   [Intermediate Routing](https://patterns.arcitura.com/soa-patterns/design_patterns/intermediate_routing) - Uses intermediate routing nodes to improve performance and flexibility.
+    *   [Messaging Metadata](https://patterns.arcitura.com/soa-patterns/design_patterns/messaging_metadata) - Uses metadata to describe and manage service messages.
+    *   [Reliable Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/reliable_messaging) - Ensures message delivery and reliability in a distributed environment.
+    *   [Service Agent](https://patterns.arcitura.com/soa-patterns/design_patterns/service_agent) - Acts as a proxy for a remote service to improve performance and reduce network overhead.
+    *   [Service Callback](https://patterns.arcitura.com/soa-patterns/design_patterns/service_callback) - Uses callbacks to communicate between services.
+    *   [Service Instance Routing](https://patterns.arcitura.com/soa-patterns/design_patterns/service_instance_routing) - Routes messages based on the service instance to improve performance and scalability.
+    *   [Service Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/service_messaging) - Describes the communication between services.
+    *   [State Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/state_messaging) - Uses messages to manage state information in a distributed environment.
+*   Composition Implementation Patterns
+    *   [Agnostic Sub-Controller](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_sub_controller) - Separates sub-controllers from the main controller to improve reusability and maintainability.
+    *   [Atomic Service Transaction](https://patterns.arcitura.com/soa-patterns/design_patterns/atomic_service_transaction) - Uses transactions to ensure atomicity and consistency across multiple service invocations.
+    *   [Compensating Service Transaction](https://patterns.arcitura.com/soa-patterns/design_patterns/compensating_service_transaction) - Reverses the effects of a failed transaction.
+    *   [Composition Autonomy](https://patterns.arcitura.com/soa-patterns/design_patterns/composition_autonomy) - Enables services to act autonomously within a composition.
+*   Service Interaction Security Patterns
+    *   [Brokered Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/brokered_authentication) - Authenticates clients through a broker.
+    *   [Data Confidentiality](https://patterns.arcitura.com/soa-patterns/design_patterns/data_confidentiality) - Ensures data confidentiality in a distributed environment.
+    *   [Data Origin Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/data_origin_authentication) - Authenticates the origin of a message.
+    *   [Direct Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/direct_authentication) - Authenticates clients directly.
+*   Transformation Patterns
+    *   [Data Format Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_format_transformation) - Transforms data formats to enable interoperability.
+    *   [Data Model Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_model_transformation) - Transforms data models to enable interoperability.
+    *   [Protocol Bridging](https://patterns.arcitura.com/soa-patterns/design_patterns/protocol_bridging) - Bridges between different protocols to enable interoperability.
+*   REST-inspired Patterns
+    *   [Entity Linking](https://patterns.arcitura.com/soa-patterns/design_patterns/entity_linking) - Links related resources to enable navigation and discovery.
+    *   [Lightweight Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/lightweight_endpoint) - Provides a lightweight endpoint for resource access.
+    *   [Reusable Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/reusable_contract) - Reuses common contracts to improve consistency and reduce duplication.
+    *   [Content Negotiation](https://patterns.arcitura.com/soa-patterns/design_patterns/content_negotiation) - Negotiates the content format between clients and servers.
+    *   [Endpoint Redirection](https://patterns.arcitura.com/soa-patterns/design_patterns/endpoint_redirection) - Redirects clients to alternative endpoints.
+    *   [Idempotent Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/idempotent_capability) - Ensures that the same action can be performed multiple times without changing the system state.
+
+#### [15. Awesome K6](/content/grafana/awesome-k6/README.md)
+
+##### Articles
+
+*   [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s
+
 ### [Apr 16, 2023](/content/2023/04/16/README.md)
 
 
 
-#### [1. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
-
-##### Monitoring Services / Other
-
-*   [Better Stack](https://betterstack.com) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
-
-#### [2. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+#### [1. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ##### Wallets API
 
 *   [walletOS](https://www.pinestreetlabs.com/walletos/)
 
-#### [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [calma (⭐1)](https://github.com/luislve17/calma) - Minimalist theme that works well on dark backgrounds. Includes decorators for truncated current directory, `git` information, time, and for the exit status of last command.
 *   [gorchak (⭐0)](https://github.com/evgenygorchakov/oh-my-zsh-gorchak-theme/) - Inspired by \[robbyrussell([https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell (⭐157k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell))] and [af-magic (⭐157k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#af-magic). Includes decorators for `git` information and `nodejs` version.
 
-#### [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [3. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+
+##### Frameworks / Bridges
+
+*   [dibridge (⭐7)](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
+*   [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
+*   [Heisenbridge (⭐166)](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
+*   [Appservice-IRC (⭐425)](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
+
+#### [4. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [blanket](https://gitlab.com/verygoodsoftwarenotvirus/blanket) - blanket is a tool that helps you catch functions which don't have direct unit tests in your Go packages.
+
+#### [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Marks / Diagnostics
 
@@ -106,26 +262,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
 
-#### [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Self-hosting Solutions
 
 *   [Tipi](https://runtipi.io/) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.io), [Source Code (⭐5.4k)](https://github.com/meienberger/runtipi)) `GPL-3.0` `Shell`
-
-#### [6. Awesome Irc](/content/davisonio/awesome-irc/README.md)
-
-##### Frameworks / Bridges
-
-*   [dibridge (⭐7)](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
-*   [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
-*   [Heisenbridge (⭐166)](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
-*   [Appservice-IRC (⭐425)](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
-
-#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Code Analysis / Libraries for creating HTTP middlewares
-
-*   [blanket](https://gitlab.com/verygoodsoftwarenotvirus/blanket) - blanket is a tool that helps you catch functions which don't have direct unit tests in your Go packages.
 
 ### [Apr 15, 2023](/content/2023/04/15/README.md)
 
@@ -185,25 +326,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-##### Projects / API Documentation
-
-*   [Stoplight Elements (⭐953)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
-
-#### [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
-
-##### Search
-
-*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine.
-
-#### [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-##### Software / Monitoring
-
-*   [dashdot (⭐1.2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
-
-#### [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+#### [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ##### How-to guides
 
@@ -214,26 +337,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
 *   [sys-VPN notification setup (⭐0)](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 
-#### [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Development tools / FFI
 
 *   PHP
     *   [phper-framework/phper (⭐127)](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 
-#### [13. Awesome V](/content/vlang/awesome-v/README.md)
+#### [10. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Interpreters/Compilers
 
 *   [vas (⭐42)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 
-#### [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Terminal Integration / Diagnostics
-
-*   [chomosuke/term-edit.nvim (⭐82)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
-
-#### [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+#### [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ##### Articles & Posts
 
@@ -281,13 +398,37 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
 
+#### [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+##### Search
+
+*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine.
+
+#### [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+##### Software / Monitoring
+
+*   [dashdot (⭐1.2k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
+
+#### [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Terminal Integration / Diagnostics
+
+*   [chomosuke/term-edit.nvim (⭐82)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+
+#### [15. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / API Documentation
+
+*   [Stoplight Elements (⭐953)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
+
 ---
 
 - Next: [Apr 14, 2023](&#x2F;content&#x2F;2023&#x2F;04&#x2F;14&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 127K 📝 04&#x2F;16 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 127K 📝 04&#x2F;17 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 100K 📝 04&#x2F;16 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 68K 📝 04&#x2F;17 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 50K 📝 04&#x2F;15 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
@@ -297,19 +438,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 8. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 45K 📝 04&#x2F;14 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 34K 📝 04&#x2F;15 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 10. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 35K 📝 04&#x2F;14 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
-11. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 04&#x2F;12 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-12. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 25K 📝 04&#x2F;17 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-13. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 25K 📝 04&#x2F;16 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
+11. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 25K 📝 04&#x2F;17 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
+12. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 04&#x2F;12 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+13. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 25K 📝 04&#x2F;17 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 14. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 161K 📝 03&#x2F;28 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-15. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 23K 📝 04&#x2F;13 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-16. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 17K 📝 04&#x2F;15 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
+15. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 17K 📝 04&#x2F;17 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
+16. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 23K 📝 04&#x2F;13 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 17. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 55K 📝 04&#x2F;03 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
 18. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 13K 📝 04&#x2F;16 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-19. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 16K 📝 04&#x2F;11 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-20. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 11K 📝 04&#x2F;15 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-21. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 11K 📝 04&#x2F;15 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-22. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 8.8K 📝 04&#x2F;17 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-23. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 9.6K 📝 04&#x2F;16 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+19. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 9.6K 📝 04&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+20. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 16K 📝 04&#x2F;11 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
+21. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 11K 📝 04&#x2F;15 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+22. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 11K 📝 04&#x2F;15 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
+23. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 8.8K 📝 04&#x2F;17 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 24. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 21K 📝 04&#x2F;07 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 25. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 04&#x2F;13 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 26. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 8.6K 📝 04&#x2F;13 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -345,7 +486,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md) - ([Source ⭐ 877, 📝 02&#x2F;15 ](https://github.com/FriendsOfCake/awesome-cakephp)) - A curated list of amazingly awesome CakePHP plugins, resources and shiny things. 
 - [Awesome Cdk](/content/kalaiser/awesome-cdk/README.md) - ([Source ⭐ 1.6K, 📝 22&#x2F;06&#x2F;28 ](https://github.com/kalaiser/awesome-cdk)) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
 - [Awesome Dash](/content/ucg8j/awesome-dash/README.md) - ([Source ⭐ 1.7K, 📝 22&#x2F;12&#x2F;12 ](https://github.com/ucg8j/awesome-dash)) - A curated list of awesome Dash (plotly) resources
-- [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 25K, 📝 04&#x2F;16 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
+- [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 25K, 📝 04&#x2F;17 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
 - [Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md) - ([Source ⭐ 83, 📝 18&#x2F;10&#x2F;30 ](https://github.com/stve/awesome-dropwizard)) - 
 - [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source ⭐ 5.2K, 📝 02&#x2F;26 ](https://github.com/mjhea0/awesome-fastapi)) - A curated list of awesome things related to FastAPI
 - [Awesome Fiber](/content/gofiber/awesome-fiber/README.md) - ([Source ⭐ 139, 📝 02&#x2F;19 ](https://github.com/gofiber/awesome-fiber)) - ✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.
@@ -395,7 +536,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Billing](/content/kdeldycke/awesome-billing/README.md) - ([Source ⭐ 538, 📝 04&#x2F;03 ](https://github.com/kdeldycke/awesome-billing)) - 💰 Billing & Payments knowledge for cloud platforms
 - [Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md) - ([Source ⭐ 366, 📝 21&#x2F;09&#x2F;06 ](https://github.com/nglgzz/awesome-clean-tech)) - A community curated list of awesome clean tech companies
-- [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 443, 📝 04&#x2F;15 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
+- [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 443, 📝 04&#x2F;17 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
 - [Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md) - ([Source ⭐ 1.2K, 📝 22&#x2F;12&#x2F;20 ](https://github.com/kdeldycke/awesome-engineering-team-management)) - 👔 How to transition from software development to engineering management
 - [Awesome Indie](/content/mezod/awesome-indie/README.md) - ([Source ⭐ 8K, 📝 22&#x2F;01&#x2F;09 ](https://github.com/mezod/awesome-indie)) - Resources for independent developers to make money
 - [Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md) - ([Source ⭐ 6.8K, 📝 21&#x2F;10&#x2F;12 ](https://github.com/LappleApple/awesome-leading-and-managing)) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
@@ -517,7 +658,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md) - ([Source ⭐ 3.6K, 📝 22&#x2F;05&#x2F;28 ](https://github.com/janikvonrotz/awesome-powershell)) - A curated list of delightful PowerShell modules and resources
 - [Awesome Shell](/content/alebcay/awesome-shell/README.md) - ([Source ⭐ 26K, 📝 22&#x2F;12&#x2F;30 ](https://github.com/alebcay/awesome-shell)) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome Ssh](/content/moul/awesome-ssh/README.md) - ([Source ⭐ 2K, 📝 21&#x2F;09&#x2F;14 ](https://github.com/moul/awesome-ssh)) - :computer: A curated list of SSH resources.
-- [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 17K, 📝 04&#x2F;15 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
+- [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 17K, 📝 04&#x2F;17 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
 - [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 5.6K, 📝 03&#x2F;03 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 - [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source ⭐ 4.2K, 📝 22&#x2F;11&#x2F;21 ](https://github.com/sirredbeard/Awesome-WSL)) - Awesome list dedicated to Windows Subsystem for Linux
 - [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 13K, 📝 04&#x2F;16 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -532,7 +673,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 9.6K, 📝 04&#x2F;16 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 9.6K, 📝 04&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 21K, 📝 22&#x2F;11&#x2F;15 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 950, 📝 22&#x2F;04&#x2F;30 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -822,7 +963,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1K, 📝 04&#x2F;13 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 458, 📝 22&#x2F;07&#x2F;31 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 687, 📝 22&#x2F;09&#x2F;29 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 127K, 📝 04&#x2F;16 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 127K, 📝 04&#x2F;17 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.6K, 📝 22&#x2F;10&#x2F;04 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 443, 📝 22&#x2F;12&#x2F;23 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -900,7 +1041,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md) - ([Source ⭐ 280, 📝 19&#x2F;06&#x2F;29 ](https://github.com/ianstormtaylor/awesome-heroku)) - A curated list of helpful Heroku resources.
 - [Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md) - ([Source ⭐ 4.1K, 📝 22&#x2F;06&#x2F;21 ](https://github.com/frenck/awesome-home-assistant)) - A curated list of amazingly awesome Home Assistant resources.
 - [Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md) - ([Source ⭐ 74, 📝 20&#x2F;09&#x2F;14 ](https://github.com/victorshinya/awesome-ibmcloud)) - A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
-- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 135, 📝 04&#x2F;15 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
+- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 135, 📝 04&#x2F;17 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
 - [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K, 📝 04&#x2F;12 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md) - ([Source ⭐ 487, 📝 19&#x2F;09&#x2F;10 ](https://github.com/weblancaster/awesome-IoT-hybrid)) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 - [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 3.8K, 📝 22&#x2F;11&#x2F;04 ](https://github.com/ipfs/awesome-ipfs)) - Useful resources for using IPFS and building things on top of it
@@ -1034,7 +1175,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md) - ([Source ⭐ 387, 📝 21&#x2F;09&#x2F;28 ](https://github.com/SrinivasanTarget/awesome-appium)) - A curated list of delightful Appium resources.
 - [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 47, 📝 01&#x2F;19 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
 - [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 594, 📝 03&#x2F;02 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
-- [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 295, 📝 22&#x2F;09&#x2F;30 ](https://github.com/grafana/awesome-k6)) - A curated list of resources on automated load- and performance testing using k6 🗻
+- [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 373, 📝 04&#x2F;17 ](https://github.com/grafana/awesome-k6)) - A curated list of resources on automated load- and performance testing using k6 🗻
 - [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 371, 📝 03&#x2F;15 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
 - [Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md) - ([Source ⭐ 1.8K, 📝 22&#x2F;11&#x2F;10 ](https://github.com/mojoaxel/awesome-regression-testing)) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md) - ([Source ⭐ 850, 📝 22&#x2F;08&#x2F;30 ](https://github.com/christian-bromann/awesome-selenium)) - A curated list of delightful Selenium resources.

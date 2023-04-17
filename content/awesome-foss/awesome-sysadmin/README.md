@@ -6,6 +6,12 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Apr 17, 2023](/content/2023/04/17/README.md)
+
+### Software / Automation
+
+*   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.2k)](https://github.com/ruby/rake)) `MIT` `Ruby`
+
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 
 ### Software / Monitoring
@@ -182,7 +188,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Web
 
-*   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐42k)](https://github.com/traefik/traefik)) `MIT` `C/Docker`
+*   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐42k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 
 ## [Nov 04, 2022](/content/2022/11/04/README.md)
 
@@ -391,7 +397,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Automation
 
-*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
+*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐449)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 
 ## [Jul 17, 2019](/content/2019/07/17/README.md)
 
@@ -501,12 +507,11 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Automation
 
-*   [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, written in Java.
-*   [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java.
-*   [Bazel](http://www.bazel.io/) - Google's build system.
-*   [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
-*   [Gradle](http://gradle.org/) - Another build automation system.
-*   [Rake (⭐2.2k)](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
+*   [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. ([Source Code (⭐363)](https://github.com/apache/ant)) `Apache-2.0` `Java`
+*   [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ([Source Code (⭐3.6k)](https://github.com/apache/maven)) `Apache-2.0` `Java`
+*   [Bazel](http://www.bazel.io/) - A fast, scalable, multi-language and extensible build system. Used by Google. ([Source Code (⭐21k)](https://github.com/bazelbuild/bazel/)) `Apache-2.0` `Java`
+*   [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. ([Source Code](https://git.savannah.gnu.org/cgit/make.git)) `GPL-3.0` `C`
+*   [Gradle](http://gradle.org/) - Another build automation system. ([Source Code (⭐15k)](https://github.com/gradle/gradle)) `Groovy/Java` `Apache-2.0`
 
 ### Software / Backups
 

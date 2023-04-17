@@ -1,18 +1,165 @@
 # Awesome List Updates on Apr 17, 2023
 
-8 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [1. Awesome K6](/content/grafana/awesome-k6/README.md)
+
+### Articles
+
+*   [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+### Integration Patterns / SOA Patterns
+
+*   Foundational Inventory Patterns
+    *   [Canonical Protocol](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_protocol) - Defines a common communication protocol between services to enable interoperability and decoupling.
+    *   [Canonical Schema](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_schema) - Defines a standard data model and format for exchanging data between services.
+    *   [Domain Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/domain_inventory) - Identifies and categorizes the types of services within a particular domain.
+    *   [Enterprise Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/enterprise_inventory) - Identifies and categorizes the types of services within a particular domain.
+    *   [Logic Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/logic_centralization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+    *   [Service Layers](https://patterns.arcitura.com/soa-patterns/design_patterns/service_layers) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+    *   [Service Normalization](https://patterns.arcitura.com/soa-patterns/design_patterns/service_normalization) - Centralizes business logic within a service layer to reduce redundancy and promote consistency.
+*   Logical Inventory Layer Patterns
+    *   [Entity Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/entity_abstraction) - Abstracts data entities to simplify data access and reduce coupling.
+    *   [Process Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/process_abstraction) - Abstracts processes to improve reusability and maintainability.
+    *   [Utility Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/utility_abstraction) - Abstracts common utilities to reduce duplication and promote consistency.
+    *   [Micro Task Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/micro_task_abstraction) - Breaks down tasks into smaller, more granular tasks for easier management.
+*   Inventory Centralization Patterns
+    *   [Policy Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/policy_centralization) - Centralizes policies to reduce duplication and improve consistency.
+    *   [Process Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/process_centralization) - Centralizes processes to improve reusability and maintainability.
+    *   [Rules Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/rules_centralization) - Centralizes business rules to reduce duplication and promote consistency.
+    *   [Schema Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/schema_centralization) - Centralizes data schemas to reduce duplication and improve consistency.
+*   Inventory Implementation Patterns
+    *   [Canonical Resources](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_resources) - Defines a standard set of resources for common functionality across services.
+    *   [Cross-Domain Utility Layer](https://patterns.arcitura.com/soa-patterns/design_patterns/cross_domain_utility_layer) - Uses multiple protocols for improved performance and flexibility.
+    *   [Dual Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/dual_protocols) - Defines a common utility layer across multiple domains.
+    *   [Inventory Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/inventory_endpoint) - Defines a standard endpoint for accessing inventory resources.
+    *   [Service Grid](https://patterns.arcitura.com/soa-patterns/design_patterns/service_grid) - Provides a framework for managing and scaling services.
+    *   [State Repository](https://patterns.arcitura.com/soa-patterns/design_patterns/state_repository) - Stores and manages service state information.
+    *   [Stateful Services](https://patterns.arcitura.com/soa-patterns/design_patterns/stateful_services) - Maintains state information across service invocations.
+    *   [Augmented Protocols](https://patterns.arcitura.com/soa-patterns/design_patterns/augmented_protocols) - Enhances protocols with additional features.
+*   Inventory Governance Patterns
+    *   [Canonical Expression](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_expression) - Defines a standard expression language for inventory data.
+    *   [Canonical Versioning](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_versioning) - Defines a standard versioning scheme for inventory resources.
+    *   [Metadata Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/metadata_centralization) - Centralizes metadata to reduce duplication and improve consistency.
+*   Foundational Service Patterns
+    *   [Agnostic Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_capability) - Abstracts service capabilities for improved flexibility.
+    *   [Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_context) - Abstracts service context for improved flexibility.
+    *   [Functional Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/functional_decomposition) - Breaks down services into smaller, more manageable components.
+    *   [Non-Agnostic Context](https://patterns.arcitura.com/soa-patterns/design_patterns/non_agnostic_context) - Breaks down services into smaller, more manageable components.
+    *   [Service Encapsulation](https://patterns.arcitura.com/soa-patterns/design_patterns/service_encapsulation) - Encapsulates service functionality for improved maintainability.
+*   Service Implementation Patterns
+    *   [Partial State Deferral](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_state_deferral) - Encapsulates service functionality for improved maintainability.
+    *   [Partial Validation](https://patterns.arcitura.com/soa-patterns/design_patterns/partial_validation) - Validates only relevant data for improved performance.
+    *   [Redundant Implementation](https://patterns.arcitura.com/soa-patterns/design_patterns/redundant_implementation) - Implements multiple versions of a service for improved flexibility.
+    *   [Service Data Replication](https://patterns.arcitura.com/soa-patterns/design_patterns/service_data_replication) - Replicates data across multiple services for improved performance.
+    *   [Service Façade](https://patterns.arcitura.com/soa-patterns/design_patterns/service_facade) - Provides a simplified interface to a complex service for improved usability.
+    *   [UI Mediator](https://patterns.arcitura.com/soa-patterns/design_patterns/ui_mediator) - Mediates between the user interface and underlying services for improved usability.
+    *   [Reference Data Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/reference_data_centralization) - Centralizes reference data to reduce duplication and improve consistency.
+    *   [Microservice Deployment](https://patterns.arcitura.com/soa-patterns/design_patterns/microservice_deployment) - Deploys services as independent, autonomous units for improved scalability and resilience.
+    *   [Containerization](https://patterns.arcitura.com/soa-patterns/design_patterns/containerization) - How can an environment be provided with maximum support for services with high-performance recovery and scalability requirements?
+*   Service Security Patterns
+    *   [Exception Shielding](https://patterns.arcitura.com/soa-patterns/design_patterns/exception_shielding) - Protects against security vulnerabilities through proper handling of exceptions.
+    *   [Message Screening](https://patterns.arcitura.com/soa-patterns/design_patterns/message_screening) - Screens messages for malicious content.
+    *   [Service Perimeter Guard](https://patterns.arcitura.com/soa-patterns/design_patterns/service_perimeter_guard) - Guards the service perimeter to prevent unauthorized access.
+    *   [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - Establishes trust between subsystems for improved security.
+*   Service Contract Design Patterns
+    *   [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - Allows multiple versions of a service contract to coexist simultaneously.
+    *   [Contract Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_centralization) - Centralizes service contracts to improve consistency and reduce duplication.
+    *   [Contract Denormalization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_denormalization) - Centralizes service contracts to improve consistency and reduce duplication.
+    *   [Decoupled Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/decoupled_contract) - Decouples service contracts from their implementation for improved flexibility.
+    *   [Validation Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/validation_abstraction) - Abstracts validation logic to improve reusability and maintainability.
+*   Legacy Encapsulation Patterns
+    *   [File Gateway](https://patterns.arcitura.com/soa-patterns/design_patterns/file_gateway) - Provides a gateway to access legacy file-based systems.
+    *   [Legacy Wrapper](https://patterns.arcitura.com/soa-patterns/design_patterns/legacy_wrapper) - Wraps legacy systems to expose them as services.
+    *   [Multi-Channel Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/multi_channel_endpoint) - Provides multiple communication channels to access legacy systems.
+*   Service Governance Patterns
+    *   [Compatible Change](https://patterns.arcitura.com/soa-patterns/design_patterns/compatible_change) - Enables changes to a service without breaking existing clients.
+    *   [Decomposed Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/decomposed_capability) - Breaks down a service capability into smaller, more manageable pieces.
+    *   [Distributed Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/distributed_capability) - Breaks down a service capability into smaller, more manageable pieces.
+    *   [Proxy Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/proxy_capability) - Provides a proxy to a remote service capability to improve performance and reduce network overhead.
+    *   [Service Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/service_decomposition) - Breaks down a monolithic service into smaller, more manageable pieces.
+    *   [Service Refactoring](https://patterns.arcitura.com/soa-patterns/design_patterns/service_refactoring) - Refactors a service to improve its design and performance.
+    *   [Termination Notification](https://patterns.arcitura.com/soa-patterns/design_patterns/termination_notification) - Notifies clients of a service's termination.
+    *   [Version Identification](https://patterns.arcitura.com/soa-patterns/design_patterns/version_identification) - Identifies the version of a service.
+*   Capability Composition Patterns
+    *   [Capability Composition](https://patterns.arcitura.com/soa-patterns/design_patterns/capability_composition) - Combines multiple service capabilities to create a new capability.
+    *   [Capability Recomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/capability_recomposition) - Recombines existing service capabilities to create a new capability.
+*   Service Messaging Patterns
+    *   [Asynchronous Queuing](https://patterns.arcitura.com/soa-patterns/design_patterns/asynchronous_queuing) - Uses a message queue to decouple services and improve scalability and reliability.
+    *   [Event-Driven Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/event_driven_messaging) - Uses events to trigger service invocations and reduce coupling.
+    *   [Intermediate Routing](https://patterns.arcitura.com/soa-patterns/design_patterns/intermediate_routing) - Uses intermediate routing nodes to improve performance and flexibility.
+    *   [Messaging Metadata](https://patterns.arcitura.com/soa-patterns/design_patterns/messaging_metadata) - Uses metadata to describe and manage service messages.
+    *   [Reliable Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/reliable_messaging) - Ensures message delivery and reliability in a distributed environment.
+    *   [Service Agent](https://patterns.arcitura.com/soa-patterns/design_patterns/service_agent) - Acts as a proxy for a remote service to improve performance and reduce network overhead.
+    *   [Service Callback](https://patterns.arcitura.com/soa-patterns/design_patterns/service_callback) - Uses callbacks to communicate between services.
+    *   [Service Instance Routing](https://patterns.arcitura.com/soa-patterns/design_patterns/service_instance_routing) - Routes messages based on the service instance to improve performance and scalability.
+    *   [Service Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/service_messaging) - Describes the communication between services.
+    *   [State Messaging](https://patterns.arcitura.com/soa-patterns/design_patterns/state_messaging) - Uses messages to manage state information in a distributed environment.
+*   Composition Implementation Patterns
+    *   [Agnostic Sub-Controller](https://patterns.arcitura.com/soa-patterns/design_patterns/agnostic_sub_controller) - Separates sub-controllers from the main controller to improve reusability and maintainability.
+    *   [Atomic Service Transaction](https://patterns.arcitura.com/soa-patterns/design_patterns/atomic_service_transaction) - Uses transactions to ensure atomicity and consistency across multiple service invocations.
+    *   [Compensating Service Transaction](https://patterns.arcitura.com/soa-patterns/design_patterns/compensating_service_transaction) - Reverses the effects of a failed transaction.
+    *   [Composition Autonomy](https://patterns.arcitura.com/soa-patterns/design_patterns/composition_autonomy) - Enables services to act autonomously within a composition.
+*   Service Interaction Security Patterns
+    *   [Brokered Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/brokered_authentication) - Authenticates clients through a broker.
+    *   [Data Confidentiality](https://patterns.arcitura.com/soa-patterns/design_patterns/data_confidentiality) - Ensures data confidentiality in a distributed environment.
+    *   [Data Origin Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/data_origin_authentication) - Authenticates the origin of a message.
+    *   [Direct Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/direct_authentication) - Authenticates clients directly.
+*   Transformation Patterns
+    *   [Data Format Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_format_transformation) - Transforms data formats to enable interoperability.
+    *   [Data Model Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_model_transformation) - Transforms data models to enable interoperability.
+    *   [Protocol Bridging](https://patterns.arcitura.com/soa-patterns/design_patterns/protocol_bridging) - Bridges between different protocols to enable interoperability.
+*   REST-inspired Patterns
+    *   [Entity Linking](https://patterns.arcitura.com/soa-patterns/design_patterns/entity_linking) - Links related resources to enable navigation and discovery.
+    *   [Lightweight Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/lightweight_endpoint) - Provides a lightweight endpoint for resource access.
+    *   [Reusable Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/reusable_contract) - Reuses common contracts to improve consistency and reduce duplication.
+    *   [Content Negotiation](https://patterns.arcitura.com/soa-patterns/design_patterns/content_negotiation) - Negotiates the content format between clients and servers.
+    *   [Endpoint Redirection](https://patterns.arcitura.com/soa-patterns/design_patterns/endpoint_redirection) - Redirects clients to alternative endpoints.
+    *   [Idempotent Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/idempotent_capability) - Ensures that the same action can be performed multiple times without changing the system state.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Search Engines
+
+*   [Gigablast (⭐1.4k)](https://github.com/gigablast/open-source-search-engine) - Open-source search engine. `Apache-2.0` `C++`
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Formatting / Diagnostics
+
+*   [tenxsoydev/tabs-vs-spaces.nvim (⭐5)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
+
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+
+### Software / Automation
+
+*   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.2k)](https://github.com/ruby/rake)) `MIT` `Ruby`
+
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Analytics
+
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform.
+
+## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+
+### Monitoring Services / Other
+
+*   [Better Stack](https://betterstack.com/community/guides/scaling-docker/) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
+
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Docker](https://www.docker.com/career-openings/) -
 
-## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Real-time / Real-time tools
 
@@ -20,38 +167,38 @@
     *   [cortex-m rtic (⭐1.1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐10)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
-## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / OCaml
 
 *   [opam2nix (⭐89)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
-## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Gaming
 
 *   [Cartridges (⭐122)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
 
-## [5. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [12. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / RNA Sequence
 
 *   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - Public functional genemics database.
 *   [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - Public database for single cell RNA.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Vertopal](https://www.vertopal.com) - Vertopal is a free online platform for converting files to a variety of file formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML and etc.
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### General / Components
 
 *   [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Ruby / Angular
 

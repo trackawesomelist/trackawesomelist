@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Apr 17, 2023](/content/2023/04/17/README.md)
+
+### Analytics
+
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform.
+
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 
 ### Search

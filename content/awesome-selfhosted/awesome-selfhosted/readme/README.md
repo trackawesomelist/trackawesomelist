@@ -850,7 +850,6 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 *   [Kriss Feed (⭐271)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
 *   [Leed (⭐191)](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and minimalist RSS aggregator. `AGPL-3.0` `PHP`
 *   [Miniflux](https://miniflux.app/) - Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code (⭐5k)](https://github.com/miniflux/v2)) `Apache-2.0` `Go`
-*   [Moonmoon](https://moonmoon.org/) - Simple feed aggregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code (⭐151)](https://github.com/moonmoon/moonmoon)) `BSD-3-Clause` `PHP`
 *   [NewsBlur](https://www.newsblur.com/) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code (⭐6.3k)](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`
 *   [newsdash (⭐45)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Nodejs`
 *   [Newspipe](https://git.sr.ht/~cedric/newspipe) - Newspipe is a web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`
@@ -1088,7 +1087,6 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 *   [OpenRemote](https://openremote.io) - Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code (⭐749)](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
 *   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐287)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
 *   [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code (⭐13k)](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
-*   [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code (⭐1k)](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
 *   [WebThings Gateway](https://webthings.io/gateway/) - WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. ([Source Code (⭐2.6k)](https://github.com/WebThingsIO/gateway)) `MPL-2.0` `Nodejs`
 
 ### Knowledge Management Tools
@@ -1197,7 +1195,6 @@ Tools and software to help with education and learning.
 *   [Supysonic (⭐234)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python`
 *   [SwingMusic](https://swingmusic.vercel.app/) - Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ([Source Code (⭐209)](https://github.com/swing-opensource/swingmusic)) `MIT` `Python`
 *   [Volumio](https://volumio.com/) - A free and open source linux distribution, designed and fine-tuned exclusively for music playback. ([Source Code (⭐1.3k)](https://github.com/volumio/Volumio2)) `GPL-3.0` `Nodejs`
-*   [ympd](https://ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code (⭐511)](https://github.com/notandy/ympd)) `GPL-2.0` `C`
 
 ### Media Streaming - Multimedia Streaming
 
@@ -1445,7 +1442,6 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 *   [0bin (⭐1.3k)](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/)) `WTFPL` `Python`
 *   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐146)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 *   [bin (⭐229)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
-*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐175)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
 *   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐441)](https://github.com/bartTC/dpaste)) `MIT` `Docker`
 *   [Drift (⭐1k)](https://github.com/MaxLeiter/drift) - Self-hosted Github Gist clone. ([Demo](https://drift.maxleiter.com/)) `MIT` `Nodejs`
 *   [EdPaste (⭐35)](https://github.com/ptnr/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). `MIT` `PHP`
@@ -1653,7 +1649,7 @@ Software and tools to help with [enterprise resource and supply planning](https:
 A [search engine](https://en.wikipedia.org/wiki/Search_engine_\(computing\)) is an [information retrieval system](https://en.wikipedia.org/wiki/Information_retrieval) designed to help find information stored on a computer system. This includes [Web search engines](https://en.wikipedia.org/wiki/Web_search_engine).
 
 *   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐720)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
-*   [Gigablast](https://www.gigablast.com/) - Open-source search engine. ([Source Code (⭐1.4k)](https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`
+*   [Gigablast (⭐1.4k)](https://github.com/gigablast/open-source-search-engine) - Open-source search engine. `Apache-2.0` `C++`
 *   [Hound (⭐5.3k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
 *   [Jina (⭐18k)](https://github.com/jina-ai/jina/) - Cloud-native neural search framework for any kind of data. `Apache-2.0` `Python`
 *   [librengine (⭐46)](https://github.com/liameno/librengine) - Private web search engine. `GPL-3.0` `C++`
@@ -1786,7 +1782,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 
 ### Software Development - Low Code
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#awesome-selfhosted)**
 
 A [low-code](https://en.wikipedia.org/wiki/Low-code_development_platform) development platform (LCDP) provides a development environment used to create application software through a graphical user interface.
 
@@ -1918,7 +1914,6 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 *Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Software Development - Project Management](#software-development---project-management)*
 
 *   [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPL-2.0` `Perl`
-*   [Bumpy Booby](https://bumpy-booby.derivoile.fr/) - Simple, responsive and highly customizable PHP bug tracking system. ([Source Code (⭐28)](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
 *   [django-todo](http://django-todo.org/) - Pluggable, multi-user, multi-group, multi-list todo and ticketing system - a reusable app designed to be dropped into any existing Django project. ([Source Code (⭐751)](https://github.com/shacker/django-todo)) `BSD-3-Clause` `Python/Django`
 *   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code (⭐2.8k)](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
 *   [FreeScout (⭐2k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP`
