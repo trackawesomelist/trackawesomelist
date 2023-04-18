@@ -6,6 +6,13 @@ GeoJSON utilities that will make your life easier.
 
 [ [Daily](/content/tmcw/awesome-geojson/README.md) / Weekly / [Overview](/content/tmcw/awesome-geojson/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### conversion
+
+*   [topojson for Python (⭐150)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
+*   [geomet (⭐148)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### data

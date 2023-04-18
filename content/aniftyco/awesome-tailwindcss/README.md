@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Apr 18, 2023](/content/2023/04/18/README.md)
+
+### Plugins
+
+*   💼 [TailwindCSS 3D (⭐14)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
+
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 
 ### Plugins
