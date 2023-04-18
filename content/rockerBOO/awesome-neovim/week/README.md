@@ -8,6 +8,18 @@ Collections of awesome neovim plugins.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
+### Color / Diagnostics
+
+*   [Mr-LLLLL/interestingwords.nvim (⭐6)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
+
+### Colorscheme Creation / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.colors (⭐2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
+
+### Utility / Diagnostics
+
+*   [hbac.nvim (⭐5)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+
 ### Formatting / Diagnostics
 
 *   [tenxsoydev/tabs-vs-spaces.nvim (⭐5)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.

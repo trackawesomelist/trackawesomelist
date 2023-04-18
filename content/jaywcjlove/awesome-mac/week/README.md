@@ -8,8 +8,21 @@
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
+### Reading and Writing Tools / Others
+
+*   [Zotero](https://www.zotero.org/) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zotero/zotero/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Developer Tools / Command Line Tools
+
+*   [nvm (⭐66k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / General Tools
+
+*   [lo-rain](https://lo.cafe/lo-rain) - Create a customizable rain over your desktop and apps, with splash over the dock.
+
 ### Utilities / Window Management
 
+*   [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 *   [Rectangle-app (⭐21k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
@@ -1791,7 +1804,7 @@
 ### Developer Tools / Version Control
 
 *   [Git Cola](https://git-cola.github.io/) - Powerful, Fast, Lightweight and Friendly Git GUI. For those caffeine adicting users. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
-*   [GitFinder](https://gitfinder.com/) - Fast and lightweight Git client for Mac with Finder integration. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [GitFinder](https://gitfinder.com/) - Fast and lightweight Git client for Mac with Finder integration.
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 

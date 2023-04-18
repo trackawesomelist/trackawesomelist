@@ -330,6 +330,7 @@ You can find them listed on the [Neovim wiki (⭐64k)](https://github.com/neovim
 *   [lcheylus/overlength.nvim (⭐35)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
 *   [brenoprata10/nvim-highlight-colors (⭐154)](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 *   [nvim-colortils/colortils.nvim (⭐233)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
+*   [Mr-LLLLL/interestingwords.nvim (⭐6)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 
 ### Colorscheme
 
@@ -438,6 +439,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Iron-E/nvim-highlite (⭐187)](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 *   [echasnovski/mini.nvim#mini.base16 (⭐2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-base16.md) - Module of `mini.nvim` with fast implementation of base16 theme for manually supplied palette.
 *   [ThemerCorp/themer.lua (⭐222)](https://github.com/themercorp/themer.lua) - A simple highlighter plugin for neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty).
+*   [echasnovski/mini.nvim#mini.colors (⭐2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 
 #### Colorscheme Switchers
 
@@ -586,6 +588,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [zdcthomas/yop.nvim (⭐60)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
 *   [cpea2506/relative-toggle.nvim (⭐25)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
 *   [nvim-early-retirement (⭐70)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
+*   [hbac.nvim (⭐5)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
 
 ### Terminal Integration
 

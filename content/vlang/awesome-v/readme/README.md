@@ -87,6 +87,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vspect (⭐2)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 *   [vcli (⭐1)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 *   [vgoogle (⭐3)](https://github.com/changhz/vgoogle) - Make google search on the terminal.
+*   [vzcc (⭐11)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
 ### Editors
 
@@ -124,7 +125,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Package managers
 
-*   [vpm (⭐79)](https://github.com/vlang/vpm) - The V language package management tool written in V.
+*   [vpm (⭐82)](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
 ### Project management
 

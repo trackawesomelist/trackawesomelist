@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [PostHog](https://posthog.com/) - Open-source product analytics platform.
 
+### Authentication & Identity
+
+*   [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and Next.js.
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Databases & Spreadsheets

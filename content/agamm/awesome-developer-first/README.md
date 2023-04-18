@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Apr 18, 2023](/content/2023/04/18/README.md)
+
+### Authentication & Identity
+
+*   [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and Next.js.
+
 ## [Apr 17, 2023](/content/2023/04/17/README.md)
 
 ### Analytics

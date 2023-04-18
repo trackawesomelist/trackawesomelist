@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Apr 18, 2023](/content/2023/04/18/README.md)
+
+### Command-line
+
+*   [vzcc (⭐11)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 
 ### Interpreters/Compilers
@@ -22,7 +28,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Package managers
 
-*   [vpm (⭐79)](https://github.com/vlang/vpm) - The V language package management tool written in V.
+*   [vpm (⭐82)](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
 ## [Mar 26, 2023](/content/2023/03/26/README.md)
 
