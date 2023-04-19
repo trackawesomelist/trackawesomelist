@@ -6,6 +6,16 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Apr 19, 2023](/content/2023/04/19/README.md)
+
+### Theorem provers
+
+*   [ACL2](https://www.cs.utexas.edu/users/moore/acl2/) - a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
+    *   used in the industry since the 1990s.
+    *   it supports a subset of the ANSI standard Common Lisp programming language.
+    *   "Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins." ([source](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399))
+    *   [Proofpad (⭐6)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
+
 ## [Apr 12, 2023](/content/2023/04/12/README.md)
 
 ### Python

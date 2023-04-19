@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Organization & Automation
+
+- Name: [Nekton.ai](https://nekton.ai/?ref=aicollection)
+
+  Title: Automate your workflows with AI.
+
+  Description: Automate the routine processes for yourself and your team without needing to code or maintain infrastructure.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Chat Bot

@@ -76,18 +76,6 @@ Translations:
 
 <br>
 
-<div align="center">
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank" style="outline:none;border:none;">
-        <img width="300" src="https://github.com/ai-collection/ai-collection/raw/main/easy-peasy.jpg" alt="easy-peasy" border="0"/>
-    </a>
-    <h4>Affordable AI Writer - Easy-Peasy.Ai: The AI Content Assistant</h4>
-    <p>Create amazing content 10X faster. AI Images, AI Audio Transcription and Chat with AI buddy Marky.</p>
-    <a href="https://easy-peasy.ai/?via=beth0" target="_blank"><b>Get Started with Easy-Peasy.Ai</b></a>
-    <br />
-</div>
-
-<br>
-
 ***
 
 <p><a href="mailto: pavel@ai-collection.org">Contact Us</a> to set up a promotion for your awesome app!</p>
@@ -684,6 +672,7 @@ Translations:
 | [bardeen](https://www.bardeen.ai/ai?ref=aicollection)                        | AI Meets Automations.                                                                                                | Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity.                                |   :grey\_question:   |
 | [mem](https://get.mem.ai/?ref=aicollection)                                  | The Self-Organizing Workspace.                                                                                       | Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.       | :white\_check\_mark: |
 | [timeMaster](https://www.timemaster.ai/?ref=aicollection)                    | Supercharge Your Focus and Productivity.                                                                             | TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.                  | :white\_check\_mark: |
+| [Nekton.ai](https://nekton.ai/?ref=aicollection)                             | Automate your workflows with AI.                                                                                     | Automate the routine processes for yourself and your team without needing to code or maintain infrastructure.                                                    | :white\_check\_mark: |
 
 <!--End of Organization & Automation 31-->
 

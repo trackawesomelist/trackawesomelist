@@ -6,6 +6,12 @@ An Awesome List for getting started with web archiving
 
 [ [Daily](/content/iipc/awesome-web-archiving/README.md) / Weekly / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Tools & Software / Utilities
+
+*   [warcdedupe](https://gitlab.com/taricorp/warcdedupe) - WARC deduplication tool (and WARC library) written in Rust. (In Development)
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Tools & Software / Utilities

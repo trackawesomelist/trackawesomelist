@@ -87,6 +87,7 @@ sellers who aren't evil for physical resources.
     *   [Reactive programming](#reactive-programming)
     *   [Contract programming](#contract-programming)
     *   [Typing](#typing)
+    *   [Theorem provers](#theorem-provers)
 *   [Learning and Tutorials](#learning-and-tutorials)
     *   [Online](#online)
     *   [Beginner](#beginner)
@@ -524,7 +525,7 @@ See also this [demo to use Java Swing from ABCL (⭐41)](https://github.com/defu
 *   [LispWork's mobile runtime](http://www.lispworks.com/products/lw4mr.html) - Android and iOs.  Proprietary.
 *   [LQML](https://gitlab.com/eql/lqml) - a lightweight ECL binding to QML (both Qt5 and Qt6) derived from EQL5. LGPL and public domain.
 
-See also MOCL below, CL as a library for mobile devices (iOS, Android and OSX).
+See also MOCL below, CL as a library for mobile devices (iOS, Android and OSX) and [hello-allien (⭐16)](https://github.com/Gleefre/hello-alien/), SBCL built for an Android application (very new, 2023).
 
 # Implementations
 
@@ -696,6 +697,14 @@ See also CL21 and [Rutils (⭐227)](https://github.com/vseloved/rutils).
 See also:
 
 *   [typo (⭐27)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT][200].
+
+## Theorem provers
+
+*   [ACL2](https://www.cs.utexas.edu/users/moore/acl2/) - a logic and programming language in which you can model computer systems, together with a tool to help you prove properties of those models.
+    *   used in the industry since the 1990s.
+    *   it supports a subset of the ANSI standard Common Lisp programming language.
+    *   "Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins." ([source](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399))
+    *   [Proofpad (⭐6)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
 
 # Learning and Tutorials
 
