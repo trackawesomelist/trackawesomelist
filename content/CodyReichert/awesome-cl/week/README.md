@@ -16,6 +16,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   "Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins." ([source](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399))
     *   [Proofpad (⭐6)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
 
+### Others / Third-party APIs
+
+*   [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT](https://opensource.org/licenses/MIT).
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Python
@@ -1405,10 +1409,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Writing, running scripts / Third-party APIs
 
 *   [clawk (⭐43)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
-
-### Command-line options parsers / Third-party APIs
-
-*   [Unix-opts (⭐101)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 

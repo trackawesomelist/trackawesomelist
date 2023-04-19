@@ -1,18 +1,53 @@
 # Awesome List Updates on Apr 19, 2023
 
-7 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Continuous Integration
+
+*   [go-test-coverage (⭐6)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+
+### Caches
+
+*   [imcache (⭐40)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐40)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+### Projects / Messaging
+
+*   [Apache ActiveMQ (⭐2.1k)](https://github.com/apache/activemq) - An open-source message broker that implements Java Message Service (JMS) and allows for synchronous to asynchronous communication conversion. Offers reliable messaging and supports multiple protocols and messaging styles.
+
+## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+
+### Languages
+
+*   [Electra (⭐61)](https://github.com/DolphyWind/Electra-Lang) - Code like an electrician.
+
+## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Nostr (⭐7.4k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
+
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Books / Visualization Tools
+
+*   [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access
+
+## [6. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Audio
 
 *   [orhun/linuxwave (⭐218)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Theorem provers
 
@@ -22,7 +57,11 @@
     *   "Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins." ([source](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399))
     *   [Proofpad (⭐6)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
 
-## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
+### Others / Third-party APIs
+
+*   [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT](https://opensource.org/licenses/MIT).
+
+## [8. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Organization & Automation
 
@@ -36,27 +75,55 @@
 
 
 
-## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [warcdedupe](https://gitlab.com/taricorp/warcdedupe) - WARC deduplication tool (and WARC library) written in Rust. (In Development)
 
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [10. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
 
-## [6. Awesome React](/content/enaqx/awesome-react/README.md)
+## [11. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React General Resources
+
+*   [React Community](https://react.dev/community)
 
 ### React Tutorials
 
 *   [React Interview Questions & Answers (⭐29k)](https://github.com/sudheerj/reactjs-interview-questions)
+*   [A simple, scalable, and powerful architecture for building production ready React applications (⭐18k)](https://github.com/alan2207/bulletproof-react)
+
+### React Tools / React Development Tools
+
+*   [why-did-you-render (⭐9.9k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Tools / React Frameworks
 
 *   [blitz.js (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
+
+### React Tools / React Component Libraries
+
+*   [material-ui (⭐86k)](https://github.com/mui/material-ui) - Material UI, which implements Google's Material Design
+*   [fluentui (⭐15k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
+*   [mantine (⭐19k)](https://github.com/mantinedev/mantine) – A fully featured React components library
+*   [framework7 (⭐17k)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+*   [ariakit (⭐6.6k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+*   [radix-primitives (⭐9k)](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
+
+### React Tools / React Libraries
+
+*   [loadable-components (⭐7.2k)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
+*   [react-instantsearch (⭐3.2k)](https://github.com/algolia/instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
+*   [react-complex-tree (⭐487)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
+
+### React Tools / React Integration
+
+*   [react-google-autocomplete (⭐376)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 
 ### React Tools / React State Management
 
@@ -68,7 +135,7 @@
 *   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles/tree/main/components/react) - Easily create highly customizable particles effects, confetti explosions and fireworks animations
 *   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
-## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 

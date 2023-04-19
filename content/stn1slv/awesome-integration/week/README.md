@@ -8,6 +8,10 @@ A curated list of awesome system integration software and resources.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
+### Projects / Messaging
+
+*   [Apache ActiveMQ (⭐2.1k)](https://github.com/apache/activemq) - An open-source message broker that implements Java Message Service (JMS) and allows for synchronous to asynchronous communication conversion. Offers reliable messaging and supports multiple protocols and messaging styles.
+
 ### Integration Patterns / Microservice API Patterns
 
 *   Foundation
@@ -703,7 +707,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Messaging
 
-*   [Apache ActiveMQ](https://activemq.apache.org) - An open-source message broker that implements Java Message Service (JMS) and allows for synchronous to asynchronous communication conversion. Offers reliable messaging and supports multiple protocols and messaging styles.
 *   [Apache Qpid](https://qpid.apache.org) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 *   [IBM MQ](https://www.ibm.com/products/mq) - A robust enterprise-grade messaging system that enables safe and efficient communication between applications. Offers high availability and disaster recovery capabilities and supports multiple messaging protocols.
 *   [NATS (⭐13k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.

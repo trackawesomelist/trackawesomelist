@@ -1105,6 +1105,7 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
 *   [stripe](https://git.mfiano.net/mfiano/stripe) - a client for the Stripe payment system. [MIT][200].
 *   [lisp-pay (⭐22)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT][200].
 *   [lunamech-matrix-api (⭐6)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT][200].
+*   [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT][200].
 
 # Numerical and Scientific
 
@@ -1230,7 +1231,6 @@ See also clj-re above.
 *   👍 [Clingon (⭐83)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 *   [Adopt (⭐23)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT][200].
-*   [Unix-opts (⭐101)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT][200].
 
 ## Readline, ncurses and other graphical helpers
 
