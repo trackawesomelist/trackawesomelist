@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Apr 20, 2023](/content/2023/04/20/README.md)
+
+### Firmware projects / WIP
+
+*   [μLA (⭐199)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+
 ## [Apr 17, 2023](/content/2023/04/17/README.md)
 
 ### Real-time / Real-time tools

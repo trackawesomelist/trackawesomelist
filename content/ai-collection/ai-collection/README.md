@@ -12,7 +12,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [FlowCog](https://flowcog.com?ref=aicollection)
 
-  Title: SaaS financial projections quick & easy ⚡
+  Title: SaaS Financial Projections Quick & Easy ⚡.
 
   Description: Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors.
 
@@ -20,11 +20,35 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Human Resources & Resume
+
+- Name: [Cover Letter AI App](https://coverletterai.app/?ref=aicollection)
+
+  Title: Cover Letter AI.
+
+  Description: .
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Photo & Image Editing
+
+- Name: [Prisma Lensa](https://prisma-ai.com/lensa?ref=aicollection)
+
+  Title: Lensa Is an All-in-One Image Editing App That Takes Your Photos to the Next Level.
+
+  Description: .
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Vacation & Trip Planner
 
-- Name: [Orkoi](https://github.com/ai-collection/ai-collection/blob/main/README.md/orkoi.com)
+- Name: [Orkoi](https://github.com/ai-collection/ai-collection/blob/main/README.md/orkoi.com/?ref=aicollection)
 
-  Title: Orkoi - Make a personalized travel plan in seconds, free, no signup
+  Title: Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup.
 
   Description: Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure.
 
@@ -38,7 +62,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Nekton.ai](https://nekton.ai/?ref=aicollection)
 
-  Title: Automate your workflows with AI.
+  Title: Automate Your Workflows With AI.
 
   Description: Automate the routine processes for yourself and your team without needing to code or maintain infrastructure.
 
@@ -137,7 +161,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Description: Get hundreds of interior design ideas for your room - free with no limit.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [AI TWO](http://aitwo.co/?ref=aicollection)
@@ -2189,7 +2213,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Description: .
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :x:
 
 
 - Name: [Chess AI](http://betafish.gavinong.com?ref=aicollection)
@@ -2407,15 +2431,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ### Human Resources & Resume
-
-- Name: [Cover Letter AI](https://coverletterai.app/?ref=aicollection)
-
-  Title: Cover Letter AI.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
 
 - Name: [Hire Hoc](http://hirehoc.com?ref=aicollection)
 
@@ -2867,15 +2882,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - Name: [Prisma](https://prisma-ai.com/prisma?ref=aicollection)
 
   Title: Prisma Captures the Essence of Your Photos Transforming Them Into Vivid Color Paintings.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Prisma](https://prisma-ai.com/lensa?ref=aicollection)
-
-  Title: Lensa Is an All-in-One Image Editing App That Takes Your Photos to the Next Level.
 
   Description: .
 
@@ -3493,15 +3499,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ### Text
-
-- Name: [AI Poem Generator](https://www.aipoemgenerator.org?ref=aicollection)
-
-  Title: Free AI-powered Poem Generator.
-
-  Description: A free online poem maker that lets you generate beautiful rhyming poems on any subject with AI.
-
-  Offer Free Version: :white\_check\_mark:
-
 
 - Name: [Bookclub](http://www.bookclub.ai?ref=aicollection)
 
@@ -4743,15 +4740,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Get advice on how to improve your microphone setup. Well make sure you sound podcast-ready.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Adobe Podcast](http://www.magictools.online?ref=aicollection)
-
-  Title: 276 AI Tools.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Aiappideas](http://www.aiappideas.com?ref=aicollection)

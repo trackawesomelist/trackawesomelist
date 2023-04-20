@@ -13,11 +13,12 @@ A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, r
 A curated list of awesome Delphi, FreePascal and other \*Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-xxx stuff.
 
 **Note that only open-source projects are considered. Dead projects (not updated for 3 years or more) must be really awesome or unique to be included.**
+
 Feel free to suggest other missing nice projects either by comments or pull requests.
 
-This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.zeef.com/anton.frost)
-
 :exclamation: **Note on compiler compatibility**. There are compiler/language dialect compatibility badges for all projects based on a project's description. No real compatibility with compilers not officially supported is checked. Often a code could be used with non-supported compiler/language dialect with minor modifications but there could be exceptions.
+
+:exclamation: **Note on features contained in big projects**. There are plenty of big projects in the list that contain many features deserving to be noted in the corresponding sections. For example, a HTTP server could have JSON parser, logger, command line parser, DB access classes and so on. For really big code base duplicated entry in specific sections is allowed linking to a section with main description. However to reduce duplication additional features are more usually listed in comments. So if you're looking for some feature don't forget to search by key words through the whole list in additon to inspecting the corresponding section. Also feel free to suggest additions of available features in big projects to help others find what they want.
 
 ## Contents
 
@@ -88,7 +89,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *   [CNVCL (⭐288)](https://github.com/cnpack/cnvcl). `[Delphi]` CnPack Component Package. Large collection of visual components, classes and utilities. // *Lots of useful stuff; documentation and comments mainly in Chinese*
 
-*   [mORMot (⭐742)](https://github.com/synopse/mORMot). `[Delphi]` `[FPC]` Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, cryptography, compression, huge documentation.
+*   [mORMot (⭐742)](https://github.com/synopse/mORMot). `[Delphi]` `[FPC]` Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, cryptography, compression, command line parser, threading, service/daemon support; huge documentation.
 
 *   [MARS - Curiosity (⭐323)](https://github.com/andrea-magni/MARS). `[Delphi]` Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
 
@@ -107,7 +108,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *   [cwRuntime](https://chapmanworld.com/cwRuntime/). `[Delphi]` `[FPC]` Compiler agnostic and cross platform collection of utility libraries for Delphi and FreePascal. It is heavily interface based, offering ARC based memory management features and flexible implementation abstraction, with the goal of forming a source bridge for developers familiar with the two supported compilers. Unit testing, collections/containers, multiplatform interface for loading dynamic libraries, Unicode utils, interfaces for working with streams and buffers, logging, threading, high-precision timers, sockets.
 
-*   [minilib (⭐54)](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgeeSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
+*   [minilib (⭐54)](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgreSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
+
+*   [Fido Library (⭐36)](https://github.com/mirko-bianco/FidoLib). `[Delphi]` The Fido library has been created to make the life of a Delphi developer easier by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
 
 ## Multimedia
 
@@ -293,13 +296,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 *   [Delphi IOCP (⭐226)](https://github.com/ymofen/diocp-v5). `[Delphi]` Implements several network classes based on Windows IOCP technology. Socket, HTTP, Ntrip servers and clients.
     // *Quite well documented and good styled code but Chinese only.*
 
-*   [delphi-aws-ses](https://github.com/monde-sistemas/delphi-aws-ses). `[Delphi]` Amazon Simple Email Service (AWS SES) library for Delphi applications.
+*   [delphi-aws-ses (⭐29)](https://github.com/monde-sistemas/delphi-aws-ses). `[Delphi]` Amazon Simple Email Service (AWS SES) library for Delphi applications.
 
 *   [delphi-slackbot (⭐27)](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
 
 *   [Kitto (⭐29)](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, JavaScript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required. Also newer versions [Kitto 2 (⭐92)](https://github.com/EtheaDev/kitto2) and [Kitto 3 (⭐23)](https://github.com/EtheaDev/kitto3) are available.
 
-*   [Daraja Framework (⭐124)](https://github.com/michaelJustin/daraja-framework). `[Delphi]` `[FPC]` Lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful](https://github.com/michaelJustin/daraja-restful) extension.
+*   [Daraja Framework (⭐124)](https://github.com/michaelJustin/daraja-framework). `[Delphi]` `[FPC]` Lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful (⭐23)](https://github.com/michaelJustin/daraja-restful) extension.
 
 *   [Alcinoe](#general-libraries). FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients.
 
@@ -307,7 +310,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *   [mORMot](#general-libraries). RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites
 
-*   [SDriver](https://github.com/andrea-magni/SDriver). `[Delphi]` Delphi wrapper for [Slack](https://slack.com) API.
+*   [SDriver (⭐63)](https://github.com/andrea-magni/SDriver). `[Delphi]` Delphi wrapper for [Slack](https://slack.com) API.
 
 *   [Hprose for Delphi/Lazarus (⭐112)](https://github.com/hprose/hprose-delphi). `[Delphi]` `[FPC]` High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
 
@@ -410,6 +413,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *   [libssh2 Delphi (⭐63)](https://github.com/pult/libssh2_delphi). `[Delphi]` `[FPC]` Delphi/Pascal Wrapper around the library libssh2, ssh and sftp protocols
 
+*   [Brook framework (⭐188)](https://github.com/risoflora/brookframework). `[Delphi]` `[FPC]` Microframework which helps to develop web Pascal applications.
+    // *Based on external [libsagui](https://risoflora.github.io/libsagui/)*
+
 ## Serial port
 
 *   [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas). `[Delphi]` `[FPC]` Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
@@ -424,6 +430,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *   [ComPort Library (⭐63)](https://github.com/CWBudde/ComPort-Library). `[Delphi]` COM Port Library for Delphi (fork from SourceForge) . The ComPort Library contains code to access COM Ports. Originally, the COM port was the name of the serial port interface of IBM-PC compatible computers. While nowadays COM ports get less important for communication in favor for USB access, it is still in use as virtual ports, especially as simple communication protocol for maker boards.
 
+*   [Usb serial controller for Android (⭐1.6k)](https://github.com/felHR85/UsbSerial) `[Delphi]` Usb serial controller for Android
+
 ## Event bus
 
 *Communication inside project*
@@ -437,6 +445,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 *   [VSoft.Messaging (⭐39)](https://github.com/VSoftTechnologies/VSoft.Messaging). `[Delphi]` Libary that provides an internal synchronous/asynchronous publish/subscribe messaging system for Delphi applications.
 
 *   [iPub Messaging (⭐47)](https://github.com/viniciusfbb/ipub-messaging). `[Delphi]` Thread safe, asynchronous and simplistic messaging system for communication between classes / layers in delphi created by the iPub team.
+
+*   [NX-Horizon (⭐92)](https://github.com/dalijap/nx-horizon). `[Delphi]` Event Bus for Delphi. Implements the publish/subscribe pattern, supports sync/async types of event delivery, simple in both implementation and usage, fast, full thread safety.
 
 ## GUI
 
@@ -586,6 +596,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 *   [GUI AutoSave (⭐7)](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
 
 *   [FMXTrayIcon (⭐16)](https://github.com/HemulGM/FMXTrayIcon). `[Delphi]` TrayIcon for FMX Windows
+
+*   [Form Designer component for Delphi (VCL) (⭐42)](https://github.com/havlicekp/form-designer). `[Delphi]` Form Designer (TFormDesigner) can be used to design and modify Delphi (VCL) forms at runtime. The behavior and appearance is similar to that of Delphi IDE.
 
 ## Database
 
@@ -1024,6 +1036,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *   [TDiff (⭐41)](https://github.com/rickard67/TextDiff). `[Delphi]` `[FPC]` Text compare component for Delphi and Free Pascal. Dramatically simplify programming tasks that require calculations of 'shortest path' or 'longest common sequence' as typically required in file compare utilities.
 
+*   [GraphQL for Delphi (⭐55)](https://github.com/lminuti/graphql). `[Delphi]` Simple implementation for GraphQL, a query language for APIs created by Facebook. GraphQL is a query language for your API and a server-side runtime for executing queries using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data.
+
+*   [GraphQL Constructor (⭐7)](https://github.com/HemulGM/GraphQL). `[Delphi]` GraphQL Constructor (constructor only)
+
 ## OS
 
 *Tools that help dealing with OS-specific internals*
@@ -1253,4 +1269,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 *   [dzBdsLauncher](https://osdn.net/projects/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
 
 *   [DFMJSON (⭐29)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
+
+*   [James - The Delphi Project Manager (⭐48)](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
 

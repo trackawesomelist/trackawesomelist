@@ -14,6 +14,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
     *   [cortex-m rtic (⭐1.1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐10)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
+### Firmware projects / WIP
+
+*   [μLA (⭐199)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Community / Community Chat Rooms
