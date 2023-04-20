@@ -8,6 +8,10 @@
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
+### MOOC's
+
+*   [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
+
 ### Books / Visualization Tools
 
 *   [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access

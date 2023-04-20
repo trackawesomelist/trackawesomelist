@@ -6,6 +6,21 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Apr 20, 2023](/content/2023/04/20/README.md)
+
+### Software / Backups
+
+*   [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
+
+### Software / DNS - Servers
+
+*   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
+*   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐329)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends.. ([Source Code (⭐3k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
+*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.2k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
+*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐52)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
+
 ## [Apr 17, 2023](/content/2023/04/17/README.md)
 
 ### Software / Automation
@@ -194,7 +209,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐15k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐16k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 ## [Oct 13, 2022](/content/2022/10/13/README.md)
 
@@ -446,7 +461,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / DNS - Servers
 
-*   [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
+*   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐10k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 
 ## [Sep 24, 2018](/content/2018/09/24/README.md)
 
@@ -521,7 +536,6 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [BorgBackup (⭐9.3k)](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 *   [Burp](http://burp.grke.org/) - Network backup and restore program.
 *   [DREBS (⭐35)](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
-*   [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 *   [Elkarbackup (⭐366)](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
 *   [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
 *   [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
@@ -643,15 +657,8 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / DNS - Servers
 
-*   [Bind](https://www.isc.org/downloads/bind/) - The most widely used name server software.
-*   [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend.
-*   [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
-*   [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
-*   [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
-*   [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
-*   [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
-*   [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
-*   [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+*   [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `Public Domain` `C`
+*   [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns)) `GPL-3.0` `C`
 
 ### Software / DNS - Control Panels
 
@@ -659,6 +666,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Software / DNS - Domain Management
 
+*   [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
 *   [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
 
 ### Software / Editors

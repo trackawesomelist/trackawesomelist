@@ -6,6 +6,32 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Apr 20, 2023](/content/2023/04/20/README.md)
+
+### Accounting & Finance
+
+- Name: [FlowCog](https://flowcog.com?ref=aicollection)
+
+  Title: SaaS financial projections quick & easy ⚡
+
+  Description: Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Vacation & Trip Planner
+
+- Name: [Orkoi](https://github.com/ai-collection/ai-collection/blob/main/README.md/orkoi.com)
+
+  Title: Orkoi - Make a personalized travel plan in seconds, free, no signup
+
+  Description: Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Apr 19, 2023](/content/2023/04/19/README.md)
 
 ### Organization & Automation

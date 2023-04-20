@@ -14,13 +14,15 @@ A collection of awesome things regarding React ecosystem
 
 ### React Tutorials
 
-*   [React Official Tutorial](https://react.dev/learne)
+*   [React Official Tutorial](https://react.dev/learn)
 *   [React Interview Questions & Answers (⭐29k)](https://github.com/sudheerj/reactjs-interview-questions)
 *   [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 *   [A simple, scalable, and powerful architecture for building production ready React applications (⭐18k)](https://github.com/alan2207/bulletproof-react)
+*   [The Fullstack Tutorial for GraphQL (⭐8.5k)](https://github.com/howtographql/howtographql)
 
 ### React Tools / React Development Tools
 
+*   [vite (⭐55k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 *   [why-did-you-render (⭐9.9k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Tools / React Frameworks
@@ -39,10 +41,15 @@ A collection of awesome things regarding React ecosystem
 *   [framework7 (⭐17k)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 *   [ariakit (⭐6.6k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 *   [radix-primitives (⭐9k)](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
+*   [nextui (⭐9.8k)](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library.
 
 ### React Tools / React Awesome Components
 
+*   [qrcode-react (⭐3.3k)](https://github.com/zpao/qrcode.react) - QR component for use with React
 *   [react-insta-stories (⭐1.2k)](https://github.com/mohitk05/react-insta-stories) - Create Instagram like stories in React
+*   [cookie-consent-banner (⭐49)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
+*   [heart-switch (⭐420)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
+*   [keen-slider (⭐3.9k)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get
 
 ### React Tools / React Testing
 
@@ -56,17 +63,24 @@ A collection of awesome things regarding React ecosystem
 
 ### React Tools / React Integration
 
-*   [react-google-autocomplete (⭐376)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
+*   [react-google-autocomplete (⭐376)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks
 
 ### React Tools / React State Management
 
 *   [swr (⭐26k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
+*   [apollo-client (⭐19k)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
+*   [relay (⭐18k)](https://github.com/facebook/relay) - A framework for building data-driven React applications
 
-### React Tools / Graphics and Animations
+### React Tools / React Graphics and Animations
 
-*   [react-transition-group (⭐9.8k)](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
-*   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles/tree/main/components/react) - Easily create highly customizable particles effects, confetti explosions and fireworks animations
+*   [react-transition-group (⭐9.8k)](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
+*   [auto-animate (⭐7.4k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
+*   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 *   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - The gooey effect for React
+
+### Important Talks / Charts
+
+*   [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -105,9 +119,9 @@ A collection of awesome things regarding React ecosystem
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
-### React Tools / Forms
+### React Tools / React Forms
 
-*   [vest (⭐2.1k)](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing syntax.
+*   [vest (⭐2.1k)](https://github.com/ealush/vest) - Declarative validations framework
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
@@ -198,46 +212,18 @@ A collection of awesome things regarding React ecosystem
 *   [Redux Fundamentals](https://redux.js.org/tutorials/fundamentals/part-1-overview)
 *   [Fundamentals of Redux Course from Dan Abramov](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 
-### GraphQL General Resources / Charts
-
-*   [GraphQL Specification (⭐14k)](https://github.com/graphql/graphql-spec)
-
-### GraphQL Tools / Charts
-
-*   [graphql-js (⭐19k)](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for **JavaScript**
-*   [express-graphql (⭐6.4k)](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with **Express**
-*   [Apollo](https://www.apollographql.com/) - Industry-standard GraphQL implementation
-
-### GraphQL Implementations / Charts
-
-*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of GraphQL
-*   [graphql-java (⭐5.8k)](https://github.com/graphql-java/graphql-java) - GraphQL **Java** implementation
-*   [graphene (⭐7.6k)](https://github.com/graphql-python/graphene) - GraphQL framework for **Python**
-*   [graphql-go (⭐9.1k)](https://github.com/graphql-go/graphql) - GraphQL for **Go**
-*   [juniper (⭐5.1k)](https://github.com/graphql-rust/juniper) - GraphQL server library for **Rust**
-
-### Database Integration / Charts
-
-*   [Hasura](https://hasura.io/) - Instant GraphQL for all your data
-*   [Prisma](https://www.prisma.io/) - Next-generation ORM
-    for Node.js and TypeScript
-
 ## [Apr 12 - Apr 18, 2021](/content/2021/15/README.md)
 
 ### React Tools / React Hooks
 
 *   [Awesome React Hooks (⭐9.1k)](https://github.com/rehooks/awesome-react-hooks)
 
-### React Tools / Forms
+### React Tools / React Forms
 
+*   [react-hook-form (⭐34k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 *   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
-*   [react-hook-form (⭐34k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
 *   [react-final-form (⭐7.2k)](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
-*   [unform (⭐4.5k)](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
 *   [formily (⭐9.5k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
-*   [uniforms (⭐1.8k)](https://github.com/vazco/uniforms) - A React library for building forms from any schema
-*   [formsy-react (⭐762)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
-*   [react-formal (⭐526)](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
@@ -270,7 +256,7 @@ A collection of awesome things regarding React ecosystem
 *   [react-figma (⭐2.2k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
 *   [remotion (⭐16k)](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
 
-### React Tools / Graphics and Animations
+### React Tools / React Graphics and Animations
 
 *   [react-spring (⭐25k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
 *   [framer-motion (⭐18k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
@@ -306,10 +292,6 @@ A collection of awesome things regarding React ecosystem
 
 *   [create-react-app (⭐100k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 
-### React Tools / Autocomplete
-
-*   [react-autocomplete by @rackt (⭐2.2k)](https://github.com/rackt/react-autocomplete) - WAI-ARIA compliant React autocomplete (Archived, read-only)
-
 ### React Tools / Maps
 
 *   [google-maps-react (⭐1.6k)](https://github.com/fullstackreact/google-maps-react) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.
@@ -323,18 +305,6 @@ A collection of awesome things regarding React ecosystem
 
 *   [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
-### GraphQL Tools / Charts
-
-*   [GraphQL Playground - GraphQL IDE for better development workflows (⭐8.4k)](https://github.com/graphql/graphql-playground)
-
-### GraphQL Implementations / Charts
-
-*   [sangria (⭐1.9k)](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
-
-### Relay General Resources / Charts
-
-*   [Relay Offical Site](https://relay.dev/)
-
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
 ### React Native Sample Apps / Charts
@@ -343,9 +313,9 @@ A collection of awesome things regarding React ecosystem
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
 
-### React Tools / Autocomplete
+### React Tools / React Integration
 
-*   [downshift (⭐11k)](https://github.com/paypal/downshift) - A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components
+*   [downshift (⭐11k)](https://github.com/paypal/downshift) - React autocomplete, combobox or select dropdown components
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
@@ -418,17 +388,9 @@ A collection of awesome things regarding React ecosystem
 *   [reaptcha (⭐390)](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 *   [react-recaptcha-that-works (⭐15)](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
 
-### React Tools / Forms
+### React Tools / React Forms
 
 *   [react-jsonschema-form (⭐13k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
-
-### React Tools / Autocomplete
-
-*   [react-autosuggest by @moroshko (⭐5.9k)](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
-*   [react-autocomplete by @eliseumds (⭐102)](https://github.com/eliseumds/react-autocomplete) - Just tasting some ReactJS + RxJS
-*   [react-autocomplete by @prometheusresearch (⭐40)](https://github.com/prometheusresearch/react-autocomplete) - Autocomplete widget based on React
-*   [instatype by @gragland (⭐47)](https://github.com/gragland/instatype) - Simple react autocomplete component
-*   [React Bootstrap Typeahead (⭐947)](https://github.com/ericgio/react-bootstrap-typeahead) - React typeahead with Bootstrap styling
 
 ### React Tools / Data Managing
 
@@ -468,25 +430,6 @@ A collection of awesome things regarding React ecosystem
 *   [redux-toolkit (⭐9.4k)](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 *   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 *   [redux-undo (⭐2.8k)](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
-
-### GraphQL Implementations / Charts
-
-*   [graphql-php (⭐4.5k)](https://github.com/webonyx/graphql-php) - A **PHP** port of GraphQL reference implementation
-*   [graphql-dotnet (⭐5.5k)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for **.NET**
-
-### Database Integration / Charts
-
-*   [graphql-sequelize (⭐1.9k)](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
-
-### Relay Tutorials / Charts
-
-*   [Official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
-
-### Relay Tools / Charts
-
-*   [graphql-relay-js (⭐1.5k)](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay
-*   [relay-local-schema (⭐253)](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server
-*   [relay-codemod (⭐8.3k)](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 
@@ -569,7 +512,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Tools / React Frameworks
 
-*   [react-admin (⭐22k)](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+*   [react-admin (⭐22k)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 
 ### React Tools / React Awesome Components
 
@@ -674,8 +617,6 @@ A collection of awesome things regarding React ecosystem
 *   [react-window (⭐14k)](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 *   [react-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React
 *   [react-loading-skeleton (⭐3.3k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
-*   [rheostat (⭐1.7k)](https://github.com/airbnb/rheostat) - Accessible slider component built with React
-*   [qrcode.react (⭐3.3k)](https://github.com/zpao/qrcode.react) - QR component for use with React
 
 ### React Tools / React Components Sandboxes
 
@@ -809,26 +750,6 @@ A collection of awesome things regarding React ecosystem
 ### Redux Tools / Charts
 
 *   [redux-persist (⭐13k)](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
-
-### GraphQL General Resources / Charts
-
-*   [GraphQL Official Site](http://graphql.org/)
-*   [GraphQL Specification Repository (⭐14k)](https://github.com/facebook/graphql)
-
-### GraphQL Tutorials / Charts
-
-*   [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
-*   [How to Graphql - The Fullstack Tutorial for GraphQL](https://howtographql.com/)
-
-### Relay General Resources / Charts
-
-*   [Relay GitHub (⭐18k)](https://github.com/facebook/relay)
-
-### Relay Tutorials / Charts
-
-*   [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
-*   [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
-*   [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 
 ### Important Talks / Charts
 

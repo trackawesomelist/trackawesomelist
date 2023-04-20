@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Apr 20, 2023](/content/2023/04/20/README.md)
+
+### MOOC's
+
+*   [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
+
 ## [Apr 19, 2023](/content/2023/04/19/README.md)
 
 ### Books / Visualization Tools

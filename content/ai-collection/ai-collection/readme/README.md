@@ -88,6 +88,7 @@ Translations:
 
 ## Index
 
+*   📈 [Accounting & Finance](#accounting--finance)
 *   🎲 [Animation & 3D Modeling](#animation--3d-modeling)
 *   🏯 [Architecture & Interior Design](#architecture--interior-design)
 *   🌄 [Art & Image Generator](#art--image-generator)
@@ -127,6 +128,18 @@ Translations:
 *   [Other](#other)
 
 ***
+
+## Accounting & Finance
+
+| Name                                            | Title                                     | Description                                                                                                                            |  Offer Free Version  |
+| ----------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| [FlowCog](https://flowcog.com?ref=aicollection) | SaaS financial projections quick & easy ⚡ | Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors. | :white\_check\_mark: |
+
+<!--End of Accounting & Finance 37-->
+
+<!--lint ignore double-link-->
+
+**[⬆ Back to Index](#index)**
 
 ## Animation & 3D Modeling
 
@@ -976,10 +989,11 @@ Translations:
 
 ## Vacation & Trip Planner
 
-| Name                                                   | Title                                   | Description                                                                                                                                                        |  Offer Free Version  |
-| ------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------: |
-| [Roamr](http://www.letsroam.app?ref=aicollection)      | Roamr - Your Dream Vacation in Seconds. | .                                                                                                                                                                  |   :grey\_question:   |
-| [Vacay](https://usevacay.com/chatbot?ref=aicollection) | Vacation Chat Agent.                    | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white\_check\_mark: |
+| Name                                                                                  | Title                                                               | Description                                                                                                                                                                       |  Offer Free Version  |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| [Orkoi](https://github.com/ai-collection/ai-collection/blob/main/README.md/orkoi.com) | Orkoi - Make a personalized travel plan in seconds, free, no signup | Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure. | :white\_check\_mark: |
+| [Roamr](http://www.letsroam.app?ref=aicollection)                                     | Roamr - Your Dream Vacation in Seconds.                             | .                                                                                                                                                                                 |   :grey\_question:   |
+| [Vacay](https://usevacay.com/chatbot?ref=aicollection)                                | Vacation Chat Agent.                                                | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions.                | :white\_check\_mark: |
 
 <!--End of Vacation & Trip Planner 36-->
 
