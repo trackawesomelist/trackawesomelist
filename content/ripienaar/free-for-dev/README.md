@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 21, 2023](/content/2023/04/21/README.md)
+
+### Authentication, Authorization and User Management
+
+*   [Clerk](https://clerk.com) — User management, auth, 2FA/MFA with prebuilt UI components. Free up to 5,000 monthly active users.
+
 ## [Apr 18, 2023](/content/2023/04/18/README.md)
 
 ### Design Inspiration
@@ -615,7 +621,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Authgear](https://www.authgear.com) - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.
 *   [Authress](https://authress.io/) — Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. First 1000 API calls are free.
 *   [Authy](https://authy.com) - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.
-*   [Clerk.dev](https://clerk.dev/) — User management, auth, 2FA/MFA with prebuilt UI components. Free up to 5,000 monthly active users.
 *   [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free for 10 users, all authentication methods, unlimited, integrations, hardware tokens.
 *   [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.
 *   [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH
@@ -1348,7 +1353,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.
 *   [Rapidapi](https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
 *   [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
-*   [EVA](https://eva.pingutil.com/) - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.
 
 ### Web Hosting
 
@@ -2298,12 +2302,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Code Quality
 
 *   [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
-
-## [Aug 23, 2021](/content/2021/08/23/README.md)
-
-### Email
-
-*   [Eva](https://eva.pingutil.com) — Verify 5 million emails per day for free using REST API. No sign-ups required.
 
 ## [Aug 20, 2021](/content/2021/08/20/README.md)
 

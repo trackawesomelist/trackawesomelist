@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Apr 21, 2023](/content/2023/04/21/README.md)
+
+### Speech
+
+- Name: [SmallTalk2.me](https://smalltalk2.me/)
+
+  Title: AI-powered teaching assistant for testing and improving English speaking skills
+
+  Description: We help language learners evaluate and enhance their language proficiency more quickly and efficiently than traditional training methods. With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Apr 20, 2023](/content/2023/04/20/README.md)
 
 ### Accounting & Finance

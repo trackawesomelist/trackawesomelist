@@ -27,11 +27,11 @@ A collection of awesome things regarding React ecosystem
 
 ### React Tools / React Frameworks
 
-*   [blitz.js (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
-
-### React Tools / React Hooks
-
-*   [useWorker (⭐2.7k)](https://github.com/alewin/useWorker) - A React Hook for Blocking-Free Background Tasks
+*   [next (⭐105k)](https://github.com/vercel/next.js) - The React Framework
+*   [blitz (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
+*   [gatsby (⭐54k)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
+*   [refine (⭐9.9k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+*   [aleph (⭐5.1k)](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno
 
 ### React Tools / React Component Libraries
 
@@ -50,6 +50,8 @@ A collection of awesome things regarding React ecosystem
 *   [cookie-consent-banner (⭐49)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 *   [heart-switch (⭐420)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 *   [keen-slider (⭐3.9k)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get
+*   [kbar (⭐3.9k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
+*   [tagify (⭐2.9k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
 ### React Tools / React Testing
 
@@ -78,8 +80,19 @@ A collection of awesome things regarding React ecosystem
 *   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 *   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
+### React Native General Resources / Charts
+
+*   [React Native Official Website](https://reactnative.dev/)
+*   [React Native Community](https://reactnative.dev/community/overview)
+*   [Expo](https://expo.dev/)
+
+### React Native Awesome Components / Charts
+
+*   [react-native-bottom-sheet (⭐4.6k)](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet
+
 ### Important Talks / Charts
 
+*   [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 *   [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
@@ -100,10 +113,6 @@ A collection of awesome things regarding React ecosystem
 *   [jotai (⭐13k)](https://github.com/pmndrs/jotai) - Bottom-up approach to React state management with an atomic model
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
-
-### React Tools / React Frameworks
-
-*   [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
 
 ### React Tools / React Routing
 
@@ -149,8 +158,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Tools / React Styling
 
-*   [linaria (⭐10k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS
-*   [stitches (⭐7.3k)](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
+*   [linaria (⭐10k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
@@ -445,33 +453,17 @@ A collection of awesome things regarding React ecosystem
 *   [ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 *   [react-nil (⭐663)](https://github.com/pmndrs/react-nil) - A react null renderer
 
-## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
-
-### React Tools / React Frameworks
-
-*   [aleph.js (⭐5.1k)](https://github.com/alephjs/aleph.js) - The React Framework in Deno
-
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
 ### React Tools / React Routing
 
 *   [universal-router (⭐1.6k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
 
-## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
-
-### React Tools / React Frameworks
-
-*   [next.js (⭐105k)](https://github.com/vercel/next.js) - The React Framework
-
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
 ### React Tools / React Frameworks
 
-*   [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
-
-### React Tools / React Styling
-
-*   [aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
+*   [remix](https://remix.run/) - Full stack web Framework that lets you focus on the user interface
 
 ### React Tools / React Routing
 
@@ -538,11 +530,8 @@ A collection of awesome things regarding React ecosystem
 
 *   [ReasonReact](https://reasonml.github.io/reason-react/)
 
-### Video Tutorials / Charts
+### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021) / Charts
 
-*   [react-reduction (⭐1.5k)](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
-*   [reactjs-tmdb-app (⭐924)](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
-*   [react-shopping-cart (⭐2.2k)](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
 *   [kibana (⭐18k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 *   [firefox debugger (⭐4.6k)](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere
 *   [spectrum (⭐11k)](https://github.com/withspectrum/spectrum) – Simple, powerful online communities
@@ -580,16 +569,11 @@ A collection of awesome things regarding React ecosystem
 *   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 *   [eslint-plugin-react (⭐8.4k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
-### React Tools / React Frameworks
-
-*   [gatsby.js (⭐54k)](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
-
 ### React Tools / React Styling
 
 *   [styled-components (⭐39k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
-*   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
-*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - Authoring tool for CSS
+*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
 ### React Tools / React Routing
 
@@ -661,9 +645,6 @@ A collection of awesome things regarding React ecosystem
 ### Important Talks / Charts
 
 *   [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-
-### Video Tutorials / Charts
-
 *   [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
@@ -707,12 +688,8 @@ A collection of awesome things regarding React ecosystem
 
 ### React Native General Resources / Charts
 
-*   [React Native Official Site](https://facebook.github.io/react-native/)
 *   [React Native GitHub (⭐109k)](https://github.com/facebook/react-native)
-*   [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
-*   [React Native Playground](https://rnplay.org/)
 *   [React Native Awesome List (⭐33k)](https://github.com/jondot/awesome-react-native)
-*   [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 
 ### React Native Tutorials / Charts
 
@@ -738,7 +715,6 @@ A collection of awesome things regarding React ecosystem
 
 ### React Native Awesome Components / Charts
 
-*   [Expo](https://expo.io/) - The Expo platform for making cross-platform mobile apps
 *   [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
 *   [react-native-picker-modal-view (⭐199)](https://github.com/pankod/react-native-picker-modal-view)
 
@@ -770,7 +746,3 @@ A collection of awesome things regarding React ecosystem
 *   [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 *   [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 *   [Awesome React Talks (⭐697)](https://github.com/tiaanduplessis/awesome-react-talks)
-
-### Video Tutorials / Charts
-
-*   [hackernews-react-graphql (⭐4.4k)](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL

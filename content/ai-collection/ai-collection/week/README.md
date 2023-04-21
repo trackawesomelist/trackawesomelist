@@ -56,6 +56,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Speech
+
+- Name: [SmallTalk2.me](https://smalltalk2.me/)
+
+  Title: AI-powered teaching assistant for testing and improving English speaking skills
+
+  Description: We help language learners evaluate and enhance their language proficiency more quickly and efficiently than traditional training methods. With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Vacation & Trip Planner
 
 - Name: [Orkoi](https://github.com/ai-collection/ai-collection/blob/main/README.md/orkoi.com/?ref=aicollection)
