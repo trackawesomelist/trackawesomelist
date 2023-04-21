@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Apr 21, 2023](/content/2023/04/21/README.md)
+
+### Resources / Blog posts
+
+*   [The fastest way to read a CSV file in Python](https://itnext.io/the-fastest-way-to-read-a-csv-file-in-pandas-2-0-532c1f978201) - A blog post that compares different ways (including Polars, pyarrow and C) to read a CSV file with Python by [Finn Andersen](https://medium.com/@finndersen).
+
 ## [Apr 20, 2023](/content/2023/04/20/README.md)
 
 ### Resources / Tutorials & workshops

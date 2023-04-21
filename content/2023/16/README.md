@@ -1,18 +1,24 @@
 # Awesome List Updates on Apr 17 - Apr 23, 2023
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [1. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+
+### Machine Learning
+
+*   [ruby-openai (⭐1.3k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+
+## [2. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2023
 
 *   [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/pdf?id=iIfDQVyuFD) - (ICLR) *Proposes fair decision tree learning algorithms along with zero-knowledge proof protocols to obtain a proof of fairness on the audited server.*
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models
 
@@ -22,13 +28,13 @@
 
 *   [Align your Latents](https://research.nvidia.com/labs/toronto-ai/VideoLDM/): high-resolution video synthesis with latent diffusion models [\[arxiv\]](https://arxiv.org/abs/2304.08818)
 
-## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Chart
 
 *   [echarts for react (⭐4k)](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 
-## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -37,26 +43,27 @@
 ### Resources / Blog posts
 
 *   [Polars - modern data frame library ](https://dskrzypiec.dev/polars/) - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by [@DSkrzypiec](https://github.com/DSkrzypiec).
+*   [The fastest way to read a CSV file in Python](https://itnext.io/the-fastest-way-to-read-a-csv-file-in-pandas-2-0-532c1f978201) - A blog post that compares different ways (including Polars, pyarrow and C) to read a CSV file with Python by [Finn Andersen](https://medium.com/@finndersen).
 
 ### Resources / Talks and videos
 
 *   [An opinionated introduction to Polars](https://www.dropbox.com/s/fphay3yav2b2rdq/2023_polars.pdf?dl=1) - Great Polars introduction slides from [@krlng](https://github.com/krlng) at PyCon 2023.
 *   [Polars - make the switch to lightning-fast dataframes (⭐1)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf) - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai).
 
-## [5. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [6. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions
 
 *   [Generate Types (⭐70)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
 *   [Computed Interface (⭐68)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 
-## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [terraform-repl (⭐49)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
-## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [8. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -124,19 +131,19 @@
 
 *   [James - The Delphi Project Manager (⭐48)](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Data Specifications / Transportation
 
 *   [OpenSidewalks (⭐25)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
 *   :octocat: [Actio (⭐66)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
 
-## [10. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [11. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Vector search
 
@@ -147,7 +154,7 @@
 *   [weaviate-ruby (⭐8)](https://github.com/andreibondarev/weaviate-ruby) —
     Ruby wrapper for the Weaviate vector search database API.
 
-## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Continuous Integration
 
@@ -158,19 +165,19 @@
 *   [imcache (⭐40)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
 *   [theine (⭐40)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
-## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [13. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Electra (⭐61)](https://github.com/DolphyWind/Electra-Lang) - Code like an electrician.
 
-## [13. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [14. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Nostr (⭐7.4k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [15. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
@@ -180,13 +187,13 @@
 
 *   [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access
 
-## [15. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [16. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Audio
 
 *   [orhun/linuxwave (⭐218)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Theorem provers
 
@@ -200,7 +207,7 @@
 
 *   [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT](https://opensource.org/licenses/MIT).
 
-## [17. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [18. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Accounting & Finance
 
@@ -252,7 +259,7 @@
 
 ### Speech
 
-- Name: [SmallTalk2.me](https://smalltalk2.me/)
+- Name: [SmallTalk2.me](https://smalltalk2.me?ref=aicollection)
 
   Title: AI-powered teaching assistant for testing and improving English speaking skills
 
@@ -274,31 +281,35 @@
 
 
 
-## [18. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [warcdedupe](https://gitlab.com/taricorp/warcdedupe) - WARC deduplication tool (and WARC library) written in Rust. (In Development)
 
-## [19. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [20. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
 
-## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [ruff](https://astral.sh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
 
-## [21. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [22. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [vzcc (⭐11)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
-## [22. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+### Tutorials / IntelliJ & CLion & GoLand etc
+
+*   [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - Tutorial category on VOSCA blog.
+
+## [23. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -312,7 +323,7 @@
 
 
 
-## [23. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [24. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
@@ -401,7 +412,7 @@
 *   [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 *   [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
 
-## [24. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [25. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Middleware
 
@@ -411,19 +422,19 @@
 
 *   [apache/spark](https://hub.docker.com/r/apache/spark) - Apache Spark Official Docker images.
 
-## [25. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
+## [26. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
 
 ### Other
 
 *   [Axo](https://github.com/axodotdev) - Collection of open source Rust libraries and tools.
 
-## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML Builders
 
 *   [blueprint (⭐27)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
 
-## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
@@ -442,39 +453,39 @@
 *   [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 *   [Rectangle-app (⭐21k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
 
-## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [29. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Merge Tools / Ruby
 
 *   [onebusaway-gtfs-merge-cli](http://developer.onebusaway.org/modules/onebusaway-gtfs-modules/1.3.94/onebusaway-gtfs-merge-cli.html) - A command line tool for merging GTFS feeds. Info provided at the link on how the tool detects and merges duplicate IDs.
 *   [Transitfeed merge function (⭐658)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
 
-## [29. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [30. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### conversion
 
 *   [topojson for Python (⭐150)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
 *   [geomet (⭐148)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
 
-## [30. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [31. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
 *   BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps](https://coconutisland.xyz/)
 
-## [31. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [32. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   💼 [TailwindCSS 3D (⭐14)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
 
-## [32. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [33. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s
 
-## [33. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [34. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Messaging
 
@@ -653,13 +664,29 @@
     *   [Endpoint Redirection](https://patterns.arcitura.com/soa-patterns/design_patterns/endpoint_redirection) - Redirects clients to alternative endpoints.
     *   [Idempotent Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/idempotent_capability) - Ensures that the same action can be performed multiple times without changing the system state.
 
-## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+### Resources / Certifications
+
+*   Boomi
+    *   [Associate Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's foundational knowledge and skills in managing and administering the Boomi platform, focusing on platform monitoring, troubleshooting, and security.
+    *   [Associate Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Demonstrates a candidate's basic understanding of building and deploying integration processes using the Boomi platform, including design patterns, deployment, and error handling.
+    *   [Associate EDI for X12 Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's proficiency in using Boomi to design, develop, and manage Electronic Data Interchange (EDI) integrations with the X12 standard, covering essential concepts like EDI document structure and trading partner management.
+    *   [Associate Flow Essentials Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Showcases a candidate's knowledge of creating and managing business applications using Boomi Flow, with emphasis on workflow design, user interfaces, and data integration.
+    *   [Associate Master Data Hub Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Highlights a candidate's understanding of using the Boomi Master Data Hub to ensure data quality and consistency across systems, focusing on data modeling, governance, and synchronization.
+    *   [Development and Application Architecture Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Confirms an individual's expertise in designing and implementing complex integration solutions and application architectures on the Boomi platform, including best practices and performance optimization.
+    *   [Professional API Design Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Demonstrates a candidate's ability to design, develop, and manage APIs using Boomi, including RESTful API principles, API security, and versioning.
+    *   [Professional API Management Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's expertise in managing the full lifecycle of APIs using the Boomi platform, including API deployment, monitoring, and analytics.
+    *   [Professional Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Recognizes a candidate's in-depth knowledge and skills in developing, deploying, and managing integration processes using Boomi, with emphasis on advanced data transformation and error handling techniques.
+    *   [Professional Flow Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Showcases an individual's advanced capabilities in designing, developing, and managing business applications using Boomi Flow, including complex workflow design, custom UI components, and integration with external systems.
+    *   [Professional Linux Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM\&ltui__urlRedirect=learning-plan-detail-standard) - Confirms a candidate's proficiency in managing and administering Boomi on Linux systems, covering topics such as system installation, configuration, security, and performance optimization.
+    *   [Professional Windows Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's expertise in managing and administering Boomi on Windows systems, focusing on system installation, configuration, security, and performance optimization.
+
+## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Search Engines
 
 *   [Gigablast (⭐1.4k)](https://github.com/gigablast/open-source-search-engine) - Open-source search engine. `Apache-2.0` `C++`
 
-## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
@@ -677,7 +704,7 @@
 
 *   [tenxsoydev/tabs-vs-spaces.nvim (⭐5)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
 
-## [36. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [37. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Automation
 
@@ -696,7 +723,7 @@
 *   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.2k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
 *   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐52)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
-## [37. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [38. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
@@ -706,19 +733,24 @@
 
 *   [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and Next.js.
 
-## [38. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [39. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring Services / Other
 
 *   [Better Stack](https://betterstack.com/community/guides/scaling-docker/) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
 
-## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Docker](https://www.docker.com/career-openings/) -
 
-## [40. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Tools / Community Chat Rooms
+
+*   [espflash (⭐303)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐103)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
 
 ### Real-time / Real-time tools
 
@@ -726,30 +758,35 @@
     *   [cortex-m rtic (⭐1.1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐10)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
+### Peripheral Access Crates / Espressif
+
+*   [`esp32c2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c2) - ![crates.io](https://img.shields.io/crates/v/esp32c2.svg)
+*   [`esp32c3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - ![crates.io](https://img.shields.io/crates/v/esp32c6.svg)
+
 ### Firmware projects / WIP
 
 *   [μLA (⭐199)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
-## [41. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [42. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / OCaml
 
 *   [opam2nix (⭐89)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
-## [42. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [43. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Gaming
 
 *   [Cartridges (⭐122)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
 
-## [43. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [44. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / RNA Sequence
 
 *   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - Public functional genemics database.
 *   [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - Public database for single cell RNA.
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization and User Management
 
@@ -763,13 +800,13 @@
 
 *   [LovelyLanding.net](https://www.lovelylanding.net/) - \[Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet and Mobile screeshots.
 
-## [45. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [46. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### General / Components
 
 *   [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 
-## [46. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [47. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Ruby / Angular
 

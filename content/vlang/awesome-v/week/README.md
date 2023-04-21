@@ -12,6 +12,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [vzcc (⭐11)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
+### Tutorials / IntelliJ & CLion & GoLand etc
+
+*   [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - Tutorial category on VOSCA blog.
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Interpreters/Compilers

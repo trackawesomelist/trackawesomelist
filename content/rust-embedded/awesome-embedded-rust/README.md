@@ -6,6 +6,18 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Apr 21, 2023](/content/2023/04/21/README.md)
+
+### Tools / Community Chat Rooms
+
+*   [espflash (⭐303)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐103)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+
+### Peripheral Access Crates / Espressif
+
+*   [`esp32c2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c2) - ![crates.io](https://img.shields.io/crates/v/esp32c2.svg)
+*   [`esp32c3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - ![crates.io](https://img.shields.io/crates/v/esp32c6.svg)
+
 ## [Apr 20, 2023](/content/2023/04/20/README.md)
 
 ### Firmware projects / WIP
@@ -249,9 +261,9 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### HAL implementation crates / Espressif
 
 *   [`esp-idf-hal`](https://github.com/esp-rs/esp-idf-hal)
-    *   An embedded-hal implementation for ESP32\[-XX] + ESP-IDF
+    *   An embedded-hal implementation for Rust on ESP32 microcontrollers and ESP-IDF
 *   [`esp-hal`](https://github.com/esp-rs/esp-hal)
-    *   An *extremely experimental* attempt at writing a HAL which targets the ESP32, ESP32-C3, ESP32-S2, and ESP32-S3.
+    *   A `no_std` Hardware Abstraction Layers for ESP32 microcontrollers
 
 ## [Mar 28, 2022](/content/2022/03/28/README.md)
 
@@ -1293,13 +1305,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### HAL implementation crates / XMC
 
 *   [`xmc4-hal`](https://github.com/xmc-rs/xmc4-hal) - ![crates.io](https://img.shields.io/crates/v/xmc4-hal.svg)
-
-## [Dec 01, 2019](/content/2019/12/01/README.md)
-
-### HAL implementation crates / Espressif
-
-*   [`rust-xtensa`](https://github.com/MabezDev/rust-xtensa)
-    *   rust fork enables projects to be built for the ESP32 and ESP8266. ([quick start repo (⭐343)](https://github.com/MabezDev/xtensa-rust-quickstart)).
 
 ## [Nov 24, 2019](/content/2019/11/24/README.md)
 

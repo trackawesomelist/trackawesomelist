@@ -377,6 +377,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [V by Example (⭐158)](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 *   [V for Node Devs (⭐21)](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
 *   [V learning notes (⭐148)](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+*   [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - Tutorial category on VOSCA blog.
 
 ### Videos
 

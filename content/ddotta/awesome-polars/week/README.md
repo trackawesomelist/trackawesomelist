@@ -15,6 +15,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Resources / Blog posts
 
 *   [Polars - modern data frame library ](https://dskrzypiec.dev/polars/) - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by [@DSkrzypiec](https://github.com/DSkrzypiec).
+*   [The fastest way to read a CSV file in Python](https://itnext.io/the-fastest-way-to-read-a-csv-file-in-pandas-2-0-532c1f978201) - A blog post that compares different ways (including Polars, pyarrow and C) to read a CSV file with Python by [Finn Andersen](https://medium.com/@finndersen).
 
 ### Resources / Talks and videos
 

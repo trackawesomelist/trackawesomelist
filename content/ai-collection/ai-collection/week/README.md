@@ -58,7 +58,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Speech
 
-- Name: [SmallTalk2.me](https://smalltalk2.me/)
+- Name: [SmallTalk2.me](https://smalltalk2.me?ref=aicollection)
 
   Title: AI-powered teaching assistant for testing and improving English speaking skills
 
