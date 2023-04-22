@@ -12,6 +12,10 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
 
+### Manuals and Ephemera / Ephemera
+
+*   [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
+
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Manuals and Ephemera / Manuals

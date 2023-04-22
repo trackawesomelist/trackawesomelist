@@ -1313,6 +1313,7 @@ additional ordered map implementations.
 *   [bimg (⭐2.2k)](https://github.com/h2non/bimg) - Small package for fast and efficient image processing using libvips.
 *   [cameron (⭐100)](https://github.com/aofei/cameron) - An avatar generator for Go.
 *   [canvas (⭐1.2k)](https://github.com/tdewolff/canvas) - Vector graphics to PDF, SVG or rasterized image.
+*   [color-extractor (⭐55)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 *   [darkroom (⭐208)](https://github.com/gojek/darkroom) - An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.
 *   [draft (⭐563)](https://github.com/lucasepe/draft) - Generate High Level Microservice Architecture diagrams for GraphViz using simple YAML syntax.
 *   [geopattern (⭐1.2k)](https://github.com/pravj/geopattern) - Create beautiful generative image patterns from a string.
@@ -2629,7 +2630,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [intrinsic (⭐45)](https://github.com/mengzhuo/intrinsic) - Use x86 SIMD without writing any assembly code.
 *   [jsend (⭐19)](https://github.com/clevergo/jsend) - JSend's implementation written in Go.
 *   [jump (⭐1.6k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits.
-*   [just (⭐16)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
+*   [just (⭐20)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 *   [koazee (⭐514)](https://github.com/wesovilabs/koazee) - Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.
 *   [lancet (⭐2.2k)](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 *   [lets-go (⭐5)](https://github.com/aplescia-chwy/lets-go) - Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
@@ -2956,8 +2957,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [asty (⭐43)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 *   [blanket](https://gitlab.com/verygoodsoftwarenotvirus/blanket) - blanket is a tool that helps you catch functions which don't have direct unit tests in your Go packages.
 *   [ChainJacking (⭐38)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
-*   [dupl (⭐304)](https://github.com/mibk/dupl) - Tool for code clone detection.
-*   [errcheck (⭐2k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
+*   [dupl (⭐307)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [errcheck (⭐2.1k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐127)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐715)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
@@ -2977,8 +2978,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [php-parser (⭐912)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
 *   [staticcheck (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tickgit (⭐304)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐393)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐347)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐394)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐348)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [unused (⭐5.3k)](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 *   [usestdlibvars (⭐39)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 *   [validate (⭐60)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.

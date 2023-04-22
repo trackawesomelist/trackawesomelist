@@ -6,6 +6,12 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [Apr 22, 2023](/content/2023/04/22/README.md)
+
+### Manuals and Ephemera / Ephemera
+
+*   [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
+
 ## [Apr 19, 2023](/content/2023/04/19/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
