@@ -6,15 +6,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
-## [Apr 21, 2023](/content/2023/04/21/README.md)
+## [Apr 22, 2023](/content/2023/04/22/README.md)
 
-### Speech
+### Customer Support
 
-- Name: [SmallTalk2.me](https://smalltalk2.me?ref=aicollection)
+- Name: [ChatGenius](https://chatgenius.one?ref=aicollection)
 
-  Title: AI-powered teaching assistant for testing and improving English speaking skills
+  Title: ChatGenius - Unlock the Power of Multilingual Communication.
 
-  Description: We help language learners evaluate and enhance their language proficiency more quickly and efficiently than traditional training methods. With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life.
+  Description: ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform.
 
   Offer Free Version: :white\_check\_mark:
 

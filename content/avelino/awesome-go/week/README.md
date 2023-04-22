@@ -21,6 +21,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [color-extractor (⭐55)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
+### Web Frameworks
+
+*   [Pulse (⭐20)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Code Analysis / Libraries for creating HTTP middlewares

@@ -1,24 +1,108 @@
 # Awesome List Updates on Apr 22, 2023
 
-12 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Science Logology / Democratization
+
+*   [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095\&hl=en\&as_sdt=0,5)].
+*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159\&hl=en\&as_sdt=0,5)].
+*   [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592\&hl=en\&as_sdt=0,5)].
+*   [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14553083883464125776\&hl=en\&as_sdt=0,5)].
+*   [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)].
+*   [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890\&hl=en\&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
+*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)]. Answering medical questions, identifying relevant clinical trials, and diagnosing diseases based on symptoms, making medical information more accessible to the general public.
+*   [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872\&hl=en\&as_sdt=0,5)]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge.
+*   [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695\&hl=en\&as_sdt=0,5)]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible.
+*   [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082\&hl=en\&as_sdt=0,5)]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts.
+
+## [2. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Customer Support
+
+- Name: [ChatGenius](https://chatgenius.one?ref=aicollection)
+
+  Title: ChatGenius - Unlock the Power of Multilingual Communication.
+
+  Description: ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+### Tools - Miscellaneous / React
+
+*   [DronaHQ](https://www.dronahq.com/) - Build internal tools, dashboards, admin panel on top of GraphQL data in minutes
+    <a name="databases" />
+
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### DBaaS
+
+*   [Turso by ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides Free Forever starter plan, 8 GB of total storage, Up to 3 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
+
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Resources / Community
+
+*   [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
+
+### Projects Using Vue.js / Open Source
+
+*   [vue-paho-mqtt (⭐4)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
+*   [VueFinder File Library (⭐86)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
+
+### Components & Libraries / UI Components
+
+*   [vue-maplibre-gl (⭐27)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+*   [1llest-waveform-vue (⭐8)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
+*   [vue3-calendar-heatmap (⭐36)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
+*   [vue3-code-block (⭐4)](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
+*   [Everright-formEditor (⭐79)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+
+### Components & Libraries / UI Layout
+
+*   [fit-screen (⭐22)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+
+### Components & Libraries / Frameworks
+
+*   [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
+*   [îles (⭐949)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
+
+### Components & Libraries / UI Utilities
+
+*   [v-privacy (⭐4)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
+
+## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+
+### Competitive Analysis / GDPR
+
+*   [Best-of Digital Identity (⭐5)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
+
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### ChatGPT
 
 *   [LocalAI (⭐308)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Images
 
 *   [color-extractor (⭐55)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+### Web Frameworks
+
+*   [Pulse (⭐20)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
+
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -56,13 +140,13 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [10. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Software Engineering
 
 *   [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/) - “On any Unix-derived system, a path is an admirably simple thing: if it starts with a `/`, it's a path. Not so on Windows.”
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Analytics
 
@@ -72,20 +156,20 @@
 
 *   [Webarchive (⭐0)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
-## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [12. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Screeb
 
 *   [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 *   [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
-## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Ephemera
 
 *   [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
 
-## [8. Awesome React](/content/enaqx/awesome-react/README.md)
+## [14. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Routing
 
@@ -139,25 +223,25 @@
 
 *   [flipper (⭐13k)](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Bars and Lines / Diagnostics
 
 *   [luukvbaal/statuscol.nvim (⭐257)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 
-## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [16. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
 *   [twm (⭐1)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 
-## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
 *   [clifm (⭐935)](https://github.com/leo-arch/clifm) - The command line file manager.
 
-## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [18. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Tools / Scripts / Commercial Enterprise Platforms
 

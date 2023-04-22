@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 130 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 144 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -94,6 +94,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
         *   [Literature Visualization](#literature-visualization)
         *   [Scientific Writing](#scientific-writing)
         *   [Science Education](#science-education)
+        *   [Democratization](#democratization)
     *   [Theory of Mind](#theory-of-mind)
     *   [Analogy](#analogy)
     *   [Causality](#causality)
@@ -888,7 +889,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf) - ***ICML'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=18074632043038701502\&hl=en\&as_sdt=0,5)].
 
-*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐83)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
+*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐84)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
 
 *   [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) - ***Science China Information Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8541635351775190855\&hl=en\&as_sdt=0,5)].
 
@@ -902,7 +903,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4172146500538799638\&hl=en\&as_sdt=0,5)].
 
-*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐37)](https://github.com/gblackout/NLIL)].
+*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐38)](https://github.com/gblackout/NLIL)].
 
 *   [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9257372000778020812\&hl=en\&as_sdt=0,5)].
 
@@ -944,7 +945,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Temporal and Object Quantification Networks](https://jiajunwu.com/papers/toqnet_ijcai.pdf) - ***IJCAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17251222943638414124\&hl=en\&as_sdt=0,5)].
 
-*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐49)](https://github.com/deepmind/dm_fast_mapping?s=05)].
+*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐51)](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
 *   [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485\&hl=en\&as_sdt=0,5)]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming.
 
@@ -968,15 +969,15 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐812)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐825)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐563)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐566)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 \*[Back to Top](#c)
 
 #### Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐7k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐7.3k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 
@@ -990,7 +991,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526\&hl=en\&as_sdt=0,5)].
 
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐122)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐124)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
@@ -1302,8 +1303,6 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454\&hl=en\&as_sdt=0,5)].
 
-*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)].
-
 *   [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679\&hl=en\&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
 
 \*[Back to Top](#c)
@@ -1333,6 +1332,30 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 #### Science Education
 
 *   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education research.
+
+\*[Back to Top](#c)
+
+#### Democratization
+
+*   [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095\&hl=en\&as_sdt=0,5)].
+
+*   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159\&hl=en\&as_sdt=0,5)].
+
+*   [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592\&hl=en\&as_sdt=0,5)].
+
+*   [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14553083883464125776\&hl=en\&as_sdt=0,5)].
+
+*   [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)].
+
+*   [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890\&hl=en\&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
+
+*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)]. Answering medical questions, identifying relevant clinical trials, and diagnosing diseases based on symptoms, making medical information more accessible to the general public.
+
+*   [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872\&hl=en\&as_sdt=0,5)]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge.
+
+*   [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695\&hl=en\&as_sdt=0,5)]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible.
+
+*   [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082\&hl=en\&as_sdt=0,5)]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts.
 
 \*[Back to Top](#c)
 
@@ -1516,7 +1539,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 #### Intuitive Physics
 
-*   [Intuitive Physics Reading List (⭐5)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List). - ***Github***. Shiqian Li's reading list on intuitive physics.
+*   [Intuitive Physics Reading List (⭐5)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 *   [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
 
@@ -1850,7 +1873,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
 
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐935)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐942)](https://github.com/JosephKJ/OWOD)].
 
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
@@ -1970,16 +1993,13 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
   * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)]. [[Publications](http://visualexperiencedatabase.org/publications.html)].
 
- 
 #### Abstract Reasoning Challenge
   * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf) - ***Google Research***, 2019.
   * [Abstract Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/)
 
-
 #### AI Birds Challenge
   * [AI-Birds](https://aibirds.org) - ***IJCAI***.
   * [Hi-Phy: A Benchmark for Hierarchical Physical Reasoning](https://openreview.net/forum?id=AcL1ORzw0Nf), 2021.
-
 
 #### Minecraft
   * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278) - ***Journal on Eduction Technology & Society***, 2016.
@@ -2216,7 +2236,7 @@ Applied Mathematician, theoretical computer scientist.
 
 ## About
 
-The initiator of this repo has been struggling to taxonomize related topics, since there are so many perspectives to follow, such as task-oriented, technique-oriented, and metaphysics-oriented. Finally he decided to focus on the perspective of ***The Sciences of Intelligence***---each topic describes a phenomenon of intelligence, or an intelligent behavior---they show the objectives of reverse-engineering human intelligence for computational methods. These topics are never restricted to specific technical methods or tasks, but are trying to organize the nature of intelligence---from both *the software perspective* and *the hardware perspective*.
+The [initiator](https://github.com/YuzheSHI) of this repo has been struggling to taxonomize related topics, since there are so many perspectives to follow, such as task-oriented, technique-oriented, and metaphysics-oriented. Finally he decided to focus on the perspective of ***The Sciences of Intelligence***---each topic describes a phenomenon of intelligence, or an intelligent behavior---they show the objectives of reverse-engineering human intelligence for computational methods. These topics are never restricted to specific technical methods or tasks, but are trying to organize the nature of intelligence---from both *the software perspective* and *the hardware perspective*.
 
 Obviously, this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of the literature reviews when the initiator is working on Abduction and Bayesian modeling, other topics are also collected with biases, more or less. Abduction may be the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings, and applications to AI. Please feel free to reach out!
 
