@@ -1465,6 +1465,7 @@ additional ordered map implementations.
 *   [log (⭐284)](https://github.com/go-playground/log) - Simple, configurable and scalable Structured Logging for Go.
 *   [log (⭐26)](https://github.com/teris-io/log) - Structured log interface for Go cleanly separates logging facade from its implementation.
 *   [log (⭐14)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
+*   [log (⭐0)](https://github.com/no-src/log) - A simple logging framework out of the box.
 *   [log-voyage (⭐94)](https://github.com/firstrow/logvoyage) - Full-featured logging saas written in golang.
 *   [log15 (⭐1.1k)](https://github.com/inconshreveable/log15) - Simple, powerful logging for Go.
 *   [logdump (⭐11)](https://github.com/ewwwwwqm/logdump) - Package for multi-level logging.
@@ -2170,7 +2171,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-proxy-cache (⭐89)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - An XMPP server written in Go.
 *   [lets-proxy2 (⭐75)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
-*   [minio (⭐38k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
+*   [minio (⭐39k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
 *   [Moxy (⭐9)](https://github.com/sinhashubham95/moxy) - Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
 *   [nginx-prometheus (⭐36)](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 *   [nsq](https://nsq.io/) - A realtime distributed messaging platform.
@@ -3102,7 +3103,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [kcli (⭐194)](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
 *   [ko (⭐5.9k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 *   [kool (⭐624)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
-*   [kubernetes (⭐97k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
+*   [kubernetes (⭐98k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐746)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
 *   [lstags (⭐306)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐28)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
@@ -3204,6 +3205,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [vFlow (⭐977)](https://github.com/VerizonDigital/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
 *   [wellington (⭐302)](https://github.com/wellington/wellington) - Sass project management tool, extends the language with sprite functions (like Compass).
 *   [woke (⭐369)](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
+*   [zs](https://git.mills.io/prologic/zs) - an extremely minimal static site generator.
 
 **[⬆ back to top](#contents)**
 

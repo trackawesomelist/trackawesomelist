@@ -20,6 +20,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Content Generation & Seo
+
+- Name: [Kafkai](https://kafkai.com/?via=aicollection)
+
+  Title: Unique and Readable AI Content Generator.
+
+  Description: Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars.
+
+  Offer Free Version: :x:
+
+
+
 ### Customer Support
 
 - Name: [ChatGenius](https://chatgenius.one?ref=aicollection)
@@ -68,9 +80,21 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Speech
+
+- Name: [SmallTalk2.me](https://smalltalk2.me?ref=aicollection)
+
+  Title: AI-powered Teaching Assistant for Testing and Improving English Speaking Skills.
+
+  Description: With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Vacation & Trip Planner
 
-- Name: [Orkoi](https://github.com/ai-collection/ai-collection/blob/main/README.md/orkoi.com/?ref=aicollection)
+- Name: [Orkoi](https://orkoi.com/?ref=aicollection)
 
   Title: Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup.
 
@@ -7273,15 +7297,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Kafkai](http://kafkai.com)
-
-  Title: Unique and Readable AI Content Generator.
-
-  Description: Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars.
-
-  Offer Free Version: :x:
 
 
 - Name: [LongShot AI](http://www.longshot.ai?deal=beth0)

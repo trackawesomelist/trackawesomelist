@@ -23,6 +23,7 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [hbac.nvim (⭐5)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [ecthelionvi/NeoComposer.nvim (⭐143)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ### Formatting / Diagnostics
 
@@ -58,7 +59,7 @@ Collections of awesome neovim plugins.
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐98)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐110)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ### Debugging / Diagnostics
 

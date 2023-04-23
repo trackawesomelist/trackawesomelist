@@ -464,7 +464,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ojroques/nvim-hardline (⭐151)](https://github.com/ojroques/nvim-hardline) - A statusline / bufferline. It is inspired by [vim-airline (⭐17k)](https://github.com/vim-airline/vim-airline) but aims to be as light and simple as possible.
 *   [beauwilliams/statusline.lua (⭐163)](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline written in Lua featuring awesome integrations and blazing speed!
 *   [tamton-aquib/staline.nvim (⭐229)](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline in Lua. Mainly uses unicode symbols for showing info.
-*   [freddiehaddad/feline.nvim (⭐98)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐110)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 *   [windwp/windline.nvim (⭐387)](https://github.com/windwp/windline.nvim) - The next generation statusline. Animation statusline.
 *   [konapun/vacuumline.nvim (⭐27)](https://github.com/konapun/vacuumline.nvim) - A galaxyline configuration inspired by airline.
 *   [echasnovski/mini.nvim#mini.statusline (⭐2.1k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-statusline.md) - Module of `mini.nvim` for minimal and fast statusline. Supports content change depending on window width.
@@ -590,6 +590,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [cpea2506/relative-toggle.nvim (⭐25)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
 *   [nvim-early-retirement (⭐70)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 *   [hbac.nvim (⭐5)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [ecthelionvi/NeoComposer.nvim (⭐143)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ### Terminal Integration
 

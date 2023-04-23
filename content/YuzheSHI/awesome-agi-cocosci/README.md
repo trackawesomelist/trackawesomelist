@@ -6,6 +6,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Apr 23, 2023](/content/2023/04/23/README.md)
+
+### Science Logology / Democratization
+
+*   [Reproducibility](https://www.science.org/doi/full/10.1126/science.1250475) - ***Science***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=676974831306442279\&hl=en\&as_sdt=0,10)].
+*   [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900\&hl=en\&as_sdt=0,10)].
+
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
 ### Science Logology / Democratization

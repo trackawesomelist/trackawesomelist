@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 23, 2023](/content/2023/04/23/README.md)
+
+### Utility / Diagnostics
+
+*   [ecthelionvi/NeoComposer.nvim (⭐143)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
+
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
 ### Bars and Lines / Diagnostics
@@ -72,7 +78,7 @@ Collections of awesome neovim plugins.
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐98)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐110)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 

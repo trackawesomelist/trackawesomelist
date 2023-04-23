@@ -6,6 +6,12 @@ Awesome & Marvelous Amas
 
 [ [Daily](/content/sindresorhus/amas/README.md) / Weekly / [Overview](/content/sindresorhus/amas/readme/README.md) ]
 
+## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
+
+### Ask these people anything!
+
+*   [Angelo Pirola (⭐0)](https://github.com/angelodotnet/ama) - Microsoft (.NET) Backend Web Developer, GitHub contributor and based in Italy.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Ask these people anything!
@@ -16,7 +22,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [TheTechRobo (⭐0)](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
+*   [TheTechRobo](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
@@ -28,7 +34,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐124)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
+*   [Sindre Sorhus (⭐128)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 *   [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
 
 ## [Mar 23 - Mar 29, 2020](/content/2020/12/README.md)
@@ -66,7 +72,7 @@ Awesome & Marvelous Amas
 ### Ask these people anything!
 
 *   [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba.
-*   [Jim Lesperance (⭐1)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
+*   [Jim Lesperance (⭐2)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
 *   [Greg Edelston (⭐1)](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
 
 ## [May 27 - Jun 02, 2019](/content/2019/21/README.md)
@@ -85,13 +91,13 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Erdal TAŞKESEN (⭐5)](https://github.com/erdaltsksn/ama) - All in one developer.
+*   [Erdal TAŞKESEN (⭐4)](https://github.com/erdaltsksn/ama) - All in one developer.
 
 ## [Apr 08 - Apr 14, 2019](/content/2019/14/README.md)
 
 ### Ask these people anything!
 
-*   [Even Stensberg (⭐0)](https://github.com/evenstensberg/ama) - OSS contributor and developer.
+*   [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 
 ## [Mar 25 - Mar 31, 2019](/content/2019/12/README.md)
 
@@ -121,7 +127,7 @@ Awesome & Marvelous Amas
 
 ### Ask these organizations anything!
 
-*   [Nikita Voloboev (⭐31)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+*   [Nikita Voloboev (⭐33)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
 ### Ask these people anything!
 
@@ -167,7 +173,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Omar Bahareth (⭐2)](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
+*   [Omar Bahareth (⭐3)](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
 ## [Sep 24 - Sep 30, 2018](/content/2018/39/README.md)
 
@@ -192,8 +198,8 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Rishi Pithadiya (⭐0)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
-*   [Byungjin Park (⭐13)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+*   [Rishi Pithadiya (⭐1)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
+*   [Byungjin Park (⭐15)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
 ## [Apr 16 - Apr 22, 2018](/content/2018/16/README.md)
 
@@ -292,7 +298,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐314)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐317)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [Apr 24 - Apr 30, 2017](/content/2017/17/README.md)
 
@@ -312,7 +318,7 @@ Awesome & Marvelous Amas
 ### Ask these people anything!
 
 *   [Charlike Mike Reagent (⭐4)](https://github.com/tunnckoCore/ama) - Passionate full stack developer, hacking on [ArchLinux](https://www.archlinux.org/). Perfectionist. Revolutionist. Founder of [@RegexHQ](https://github.com/regexhq), core member at [@JSTransformers](https://github.com/jstransformers) and part of [@dwylhq](https://twitter.com/dwylhq).
-*   [CJ Patoilo (⭐1)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
+*   [CJ Patoilo (⭐2)](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
 
 ## [Jan 16 - Jan 22, 2017](/content/2017/3/README.md)
 
@@ -354,7 +360,7 @@ Awesome & Marvelous Amas
 ### Ask these people anything!
 
 *   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) and passionate photographer.
-*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐114)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
+*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐124)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 
 ## [Nov 07 - Nov 13, 2016](/content/2016/45/README.md)
 
@@ -401,7 +407,7 @@ Awesome & Marvelous Amas
 ### Ask these people anything!
 
 *   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.1k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
+*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.8k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
 
 ## [Apr 11 - Apr 17, 2016](/content/2016/15/README.md)
 
@@ -423,7 +429,7 @@ Awesome & Marvelous Amas
 *   [Camilo Nova (⭐3)](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
 *   [William Oliveira](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
 *   [Danilo Vaz (⭐1)](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC (⭐18)](https://github.com/beerjs/sjc) organizer.
-*   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" (⭐149)](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
+*   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" (⭐150)](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
 
 ## [Mar 28 - Apr 03, 2016](/content/2016/13/README.md)
 
@@ -452,7 +458,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Ariya Hidayat (⭐28)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.6k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
+*   [Ariya Hidayat (⭐28)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.7k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
 
@@ -494,7 +500,7 @@ Awesome & Marvelous Amas
 
 *   [MK Yuan (⭐3)](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
 *   [Hong Liu (⭐0)](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
-*   [Arnaud Benard (⭐1)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
+*   [Arnaud Benard (⭐2)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 *   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
 
 ## [Nov 09 - Nov 15, 2015](/content/2015/45/README.md)
@@ -527,7 +533,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐328)](https://github.com/mourner/projects). Building the future of interactive maps.
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐361)](https://github.com/mourner/projects). Building the future of interactive maps.
 
 ### Ask these organizations anything!
 
@@ -538,7 +544,7 @@ Awesome & Marvelous Amas
 ### Ask these people anything!
 
 *   [Richard Littauer (⭐1)](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
-*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐59k)](https://github.com/rackt/redux).
+*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐60k)](https://github.com/rackt/redux).
 *   [Maxime Thirouin (⭐3)](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.
 *   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript (⭐2)](https://github.com/future-ui/future-ui). [Haskell (⭐19)](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 
@@ -586,14 +592,14 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Rob Furlong (⭐1)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
+*   [Rob Furlong (⭐0)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
 
 ## [Jul 27 - Aug 02, 2015](/content/2015/30/README.md)
 
 ### Ask these people anything!
 
 *   [Kyle Robinson Young (⭐1)](https://github.com/shama/ama) - Makes stuff and likes bears.
-*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐213)](https://github.com/nodejs/iojs.org).
+*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐218)](https://github.com/nodejs/iojs.org).
 
 ## [Jul 20 - Jul 26, 2015](/content/2015/29/README.md)
 
@@ -601,7 +607,7 @@ Awesome & Marvelous Amas
 
 *   [Benny Thomas (⭐0)](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
 *   [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
-*   [Matthew Mueller (⭐3)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
+*   [Matthew Mueller (⭐4)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
 *   [Hugo Giraudel (⭐42)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
 *   [Will Binns-Smith (⭐0)](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
 *   [Lauri Tervonen (⭐0)](https://github.com/mollikka/ama) - CS & SE university student in Finland.
@@ -612,9 +618,9 @@ Awesome & Marvelous Amas
 ### Ask these people anything!
 
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
-*   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
+*   [Reza Akhavan (⭐4)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
 *   [Wes Bos (⭐283)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
-*   [Anselm Hannemann (⭐8)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
+*   [Anselm Hannemann (⭐9)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 *   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 *   [Lewis Cowper (⭐5)](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
 *   [Blake Winton](https://github.com/bwinton/ama) - UX Engineer for Mozilla Firefox, and the author of Whimsy.
@@ -643,5 +649,5 @@ Awesome & Marvelous Amas
 *   [Pascal Hartig (⭐34)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 *   [Mark Otto (⭐96)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐721)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
-*   [Kent C. Dodds (⭐671)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
+*   [Zach Holman (⭐723)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Kent C. Dodds (⭐678)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.

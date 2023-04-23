@@ -6,6 +6,44 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Apr 23, 2023](/content/2023/04/23/README.md)
+
+### Content Generation & Seo
+
+- Name: [Kafkai](https://kafkai.com/?via=aicollection)
+
+  Title: Unique and Readable AI Content Generator.
+
+  Description: Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars.
+
+  Offer Free Version: :x:
+
+
+
+### Speech
+
+- Name: [SmallTalk2.me](https://smalltalk2.me?ref=aicollection)
+
+  Title: AI-powered Teaching Assistant for Testing and Improving English Speaking Skills.
+
+  Description: With SmallTalk, learners can self-assess their English proficiency level, prepare for a job interview in English or the IELTS exam, and engage in speaking exercises that prepare them for conversations in the workplace, academic settings, or everyday life.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Vacation & Trip Planner
+
+- Name: [Orkoi](https://orkoi.com/?ref=aicollection)
+
+  Title: Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup.
+
+  Description: Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
 ### Customer Support
@@ -53,18 +91,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Lensa Is an All-in-One Image Editing App That Takes Your Photos to the Next Level.
 
   Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Vacation & Trip Planner
-
-- Name: [Orkoi](https://github.com/ai-collection/ai-collection/blob/main/README.md/orkoi.com/?ref=aicollection)
-
-  Title: Orkoi - Make a Personalized Travel Plan in Seconds, Free, No Signup.
-
-  Description: Our AI will build you a customized plan for any city or location you'd like to visit, complete with restaurants, fun activities, attractions and tips to make the best adventure.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -7281,15 +7307,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Get writing superpowers with artificial intelligence. We at AISEO will help you convert your thoughts to blogs and can write for you at the click of a button.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Kafkai](http://kafkai.com)
-
-  Title: Unique and Readable AI Content Generator.
-
-  Description: Kafkai is an AI Writer Assistant that helps you create unique SEO-friendly articles for cents instead of dollars.
-
-  Offer Free Version: :x:
 
 
 - Name: [LongShot AI](http://www.longshot.ai?deal=beth0)
