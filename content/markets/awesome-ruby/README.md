@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Apr 23, 2023](/content/2023/04/23/README.md)
+
+### Database Tools
+
+*   [Online Migrations (⭐437)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+
+### Feature Flippers and A/B Testing
+
+*   [Unleash (⭐48)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+
+### PDF
+
+*   [Grim (⭐214)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
+
 ## [Apr 21, 2023](/content/2023/04/21/README.md)
 
 ### Machine Learning

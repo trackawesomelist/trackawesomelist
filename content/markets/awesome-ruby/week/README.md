@@ -8,9 +8,21 @@
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
+### Database Tools
+
+*   [Online Migrations (⭐437)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+
+### Feature Flippers and A/B Testing
+
+*   [Unleash (⭐48)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+
 ### Machine Learning
 
 *   [ruby-openai (⭐1.3k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+
+### PDF
+
+*   [Grim (⭐214)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 

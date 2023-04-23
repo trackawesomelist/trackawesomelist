@@ -478,6 +478,7 @@ Thanks to all [contributors (⭐13k)](https://github.com/markets/awesome-ruby/gr
 *   [Foreigner (⭐1.3k)](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
 *   [Large Hadron Migrator (⭐1.8k)](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.
 *   [Lol DBA (⭐1.5k)](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
+*   [Online Migrations (⭐437)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 *   [Polo (⭐730)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 *   [PgHero (⭐6.9k)](https://github.com/ankane/pghero) - Postgres insights made easy.
 *   [Rails DB (⭐1.4k)](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
@@ -670,6 +671,7 @@ Where to discover new Ruby libraries, projects and trends.
 *   [flipper (⭐3.2k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 *   [Rollout (⭐2.8k)](https://github.com/FetLife/rollout) - Feature flippers.
 *   [Split (⭐2.6k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
+*   [Unleash (⭐48)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
 *   [Vanity (⭐1.5k)](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ## File Upload
@@ -993,6 +995,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## PDF
 
 *   [CombinePDF (⭐660)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [Grim (⭐214)](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
 *   [HexaPDF (⭐1.1k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 *   [InvoicePrinter (⭐838)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 *   [Kitabu (⭐653)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.

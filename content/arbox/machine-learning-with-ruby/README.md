@@ -6,6 +6,13 @@ Curated list: Resources for machine learning in Ruby
 
 [ Daily / [Weekly](/content/arbox/machine-learning-with-ruby/week/README.md) / [Overview](/content/arbox/machine-learning-with-ruby/readme/README.md) ]
 
+## [Apr 23, 2023](/content/2023/04/23/README.md)
+
+### Machine Learning Libraries / Vector search
+
+*   [milvus (⭐5)](https://github.com/andreibondarev/milvus) —
+    Ruby client for Milvus Vector DB.
+
 ## [Apr 20, 2023](/content/2023/04/20/README.md)
 
 ### Machine Learning Libraries / Vector search
@@ -317,7 +324,7 @@ Curated list: Resources for machine learning in Ruby
 
 *   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
-*   [ai4r (⭐710)](https://github.com/SergioFierens/ai4r) -
+*   [ai4r (⭐711)](https://github.com/SergioFierens/ai4r) -
     Artificial Intelligence for Ruby.
 *   [classifier-reborn (⭐536)](https://github.com/jekyll/classifier-reborn) -
     General classifier module to allow Bayesian and other types of classifications. <sup>\[[dep: GLS](#gls)]</sup>
