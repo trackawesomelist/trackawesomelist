@@ -239,7 +239,7 @@
     *   [AppImage (⭐293)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐59k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Apps (⭐60k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐35k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 *   [watchOS (⭐436)](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 *   [JVM (⭐1.9k)](https://github.com/deephacks/awesome-jvm#readme)
@@ -584,6 +584,7 @@
 *   [Games of Coding (⭐1.6k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 *   [Esports (⭐40)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 *   [Learn Gamedev (⭐1.9k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+*   [GameMaker (⭐79)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 
 ## Development Environment
 
@@ -671,6 +672,7 @@
 *   [Roadmaps (⭐3k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 *   [YouTubers (⭐4.1k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 *   [Hackathon (⭐14)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
+*   [Certificates (⭐449)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
 ## Security
 
@@ -827,6 +829,7 @@
 *   [Sketch (⭐730)](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 *   [Boilerplate Projects (⭐1.1k)](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 *   [Readme (⭐14k)](https://github.com/matiassingers/awesome-readme#readme)
+*   [GitHub Wiki (⭐50)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 *   [Design and Development Guides (⭐2.1k)](https://github.com/NARKOZ/guides#readme)
 *   [Software Engineering Blogs (⭐24k)](https://github.com/kilimchoi/engineering-blogs#readme)
 *   [Self Hosted (⭐128k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)

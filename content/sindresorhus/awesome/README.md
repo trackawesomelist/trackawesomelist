@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Apr 24, 2023](/content/2023/04/24/README.md)
+
+### Gaming
+
+*   [GameMaker (⭐79)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+
+### Learn
+
+*   [Certificates (⭐449)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+
+### Miscellaneous
+
+*   [GitHub Wiki (⭐50)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
+
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
 
 ### Learn
@@ -1300,7 +1314,7 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐59k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Apps (⭐60k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐35k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [Sep 18, 2018](/content/2018/09/18/README.md)

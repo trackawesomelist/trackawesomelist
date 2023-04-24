@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 24, 2023](/content/2023/04/24/README.md)
+
+### Utility / Diagnostics
+
+*   [LukasPietzschmann/telescope-tabs (⭐122)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
+
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
 
 ### Utility / Diagnostics
