@@ -1361,6 +1361,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900\&hl=en\&as_sdt=0,10)].
 
+*   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908\&hl=en\&as_sdt=0,10)].
+
 \*[Back to Top](#c)
 
 ### Theory of Mind

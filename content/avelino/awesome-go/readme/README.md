@@ -1490,6 +1490,7 @@ additional ordered map implementations.
 *   [seelog (⭐1.6k)](https://github.com/cihub/seelog) - Logging functionality with flexible dispatching, filtering, and formatting.
 *   [slf4g (⭐3)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 *   [slog (⭐189)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [slog-formatter (⭐12)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
 *   [spew (⭐5.6k)](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 *   [sqldb-logger (⭐293)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 *   [stdlog (⭐47)](https://github.com/alexcesaro/log) - Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.

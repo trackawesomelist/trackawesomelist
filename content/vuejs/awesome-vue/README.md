@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Apr 24, 2023](/content/2023/04/24/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [vite-vue-ultimate-starter (⭐1)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
+
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
 ### Resources / Community
@@ -640,7 +646,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [FormKit (⭐2.6k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
+*   [FormKit (⭐2.7k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 
 ## [Mar 28, 2022](/content/2022/03/28/README.md)
 
@@ -1183,7 +1189,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Tailmin (⭐49)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
+*   [Tailmin (⭐51)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
 
 ## [Aug 28, 2021](/content/2021/08/28/README.md)
 
@@ -1924,7 +1930,7 @@
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐642)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐648)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
@@ -4717,7 +4723,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐351)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐355)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [Mar 27, 2020](/content/2020/03/27/README.md)
 

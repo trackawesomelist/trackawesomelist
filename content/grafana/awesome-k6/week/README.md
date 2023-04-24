@@ -6,6 +6,12 @@ A curated list of resources on automated load- and performance testing using k6 
 
 [ [Daily](/content/grafana/awesome-k6/README.md) / Weekly / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 
+## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
+
+### Articles
+
+*   [Distributed load testing with k6](https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/) - Thijs Feryn presents in ConFoo Montreal 2023
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Articles

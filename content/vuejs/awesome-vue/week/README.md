@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [vite-vue-ultimate-starter (⭐1)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Resources / Community
@@ -544,7 +550,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [FormKit (⭐2.6k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
+*   [FormKit (⭐2.7k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
@@ -957,7 +963,7 @@
 ### Components & Libraries / Frameworks
 
 *   [element-pro-components (⭐183)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
-*   [Tailmin (⭐49)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
+*   [Tailmin (⭐51)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
 
 ### Components & Libraries / Dev Tools
 
@@ -1494,7 +1500,7 @@
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐642)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐648)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
@@ -3934,7 +3940,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐351)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐355)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ### Components & Libraries / UI Components
 

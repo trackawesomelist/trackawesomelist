@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 24, 2023](/content/2023/04/24/README.md)
+
+### Logging
+
+*   [slog-formatter (⭐12)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
+
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
 
 ### Logging

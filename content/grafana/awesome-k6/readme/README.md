@@ -45,6 +45,8 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 *   [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 
+*   [Distributed load testing with k6](https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/) - Thijs Feryn presents in ConFoo Montreal 2023
+
 *   [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
 
 *   [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - Sending output from k6 to Apache Kafka.
