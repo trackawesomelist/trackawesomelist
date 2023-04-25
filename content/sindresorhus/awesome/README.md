@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Apr 25, 2023](/content/2023/04/25/README.md)
+
+### Miscellaneous
+
+*   [Quarto (⭐881)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+
 ## [Apr 24, 2023](/content/2023/04/24/README.md)
 
 ### Gaming

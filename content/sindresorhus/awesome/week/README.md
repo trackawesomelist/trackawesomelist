@@ -19,6 +19,7 @@
 ### Miscellaneous
 
 *   [GitHub Wiki (⭐50)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
+*   [Quarto (⭐881)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
