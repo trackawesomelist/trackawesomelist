@@ -1,24 +1,42 @@
 # Awesome List Updates on Apr 25, 2023
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [1. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+### Planning Data Specifications / Transportation
+
+*   [GTFS-flex (⭐97)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
+
+## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Other / [Other](#other-1)
+
+*   [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
+
+## [3. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+
+### More Resources / Social Impact
+
+*   [ClimateTechList](https://www.climatetechlist.com/) - curated list of \~50 climatetech companies, specific to software engineers, with descriptions of each company, their software impact, and climate impact.
+
+## [4. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
 *   :pushpin: [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer/)
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Project Layout
 
 *   [go-module (⭐3)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -60,25 +78,25 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
 *   [snappify](https://snappify.com) - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
 *   [Quarto (⭐881)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
-## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
 *   [Audio-motion interface (⭐1)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -93,7 +111,7 @@
 
 *   [ai-hayasaka (⭐0)](https://github.com/aeghost/ai-hayasaka-zsh-theme) - Minimalist theme with `git` status, ruby env and python virtualenv decorators.
 
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Projects / Wallets
 

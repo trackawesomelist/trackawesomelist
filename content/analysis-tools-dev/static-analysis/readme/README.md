@@ -418,9 +418,9 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 
 *   [dogsled (⭐69)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 
-*   [dupl (⭐304)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
+*   [dupl (⭐307)](https://github.com/mibk/dupl) — Reports potentially duplicated code.
 
-*   [errcheck (⭐2k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
+*   [errcheck (⭐2.1k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
 
 *   [errwrap (⭐365)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 
@@ -501,7 +501,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 
 *   [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
 
-*   [unconvert (⭐347)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
+*   [unconvert (⭐348)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
 *   [unparam (⭐434)](https://github.com/mvdan/unparam) — Find unused function parameters.
 
@@ -614,7 +614,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 
 *   [plato (⭐4.5k)](https://github.com/es-analysis/plato) :warning: — Visualize JavaScript source complexity.
 
-*   [Polymer-analyzer (⭐421)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
+*   [Polymer-analyzer (⭐422)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
 
 *   [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing JavaScript security vulnerabilities.
 
@@ -1349,7 +1349,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 
 *   [ThreatMapper (⭐3.7k)](https://github.com/deepfence/ThreatMapper) — Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.
 
-*   [todocheck (⭐393)](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
+*   [todocheck (⭐394)](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
 
 *   [trivy (⭐17k)](https://github.com/aquasecurity/trivy) — A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Checks containers and filesystems.
 
@@ -1382,6 +1382,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 <h2 id="ansible">Ansible</h2>
 
 *   [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+
+*   [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
 
 <h2 id="archive">Archive</h2>
 
@@ -1503,6 +1505,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 
 *   [Puppet Lint (⭐800)](https://github.com/rodjek/puppet-lint) — Check that your Puppet manifests conform to the style guide.
 
+*   [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
+
 *   [terraform-compliance](https://terraform-compliance.com) — A lightweight, compliance- and security focused, BDD test framework against Terraform.
 
 *   [terrascan (⭐4k)](https://github.com/cesar-rodriguez/terrascan) — Collection of security and best practice tests for static code analysis of Terraform templates.
@@ -1612,7 +1616,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 
 *   [Nu Html Checker](https://validator.github.io/validator/) — Helps you catch problems in your HTML/CSS/SVG
 
-*   [Polymer-analyzer (⭐421)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
+*   [Polymer-analyzer (⭐422)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
 
 <h2 id="json">JSON</h2>
 
@@ -1802,6 +1806,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐691)](https://g
 *   [scorecard (⭐3.3k)](https://github.com/ossf/scorecard) — Security Scorecards - Security health metrics for Open Source
 
 *   [SearchDiggity](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/) :copyright: — Identifies vulnerabilities in open source code projects  hosted on Github, Google Code, MS CodePlex, SourceForge, and more.  The tool comes with over 130 default searches that identify SQL injection,  cross-site scripting (XSS), insecure remote and local file includes, hard-coded passwords, etc.
+
+*   [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
 
 *   [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 

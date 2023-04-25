@@ -2,9 +2,15 @@
 
 A community curated list of awesome clean tech companies
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 366 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 377 · 🏷️ Business
 
 [ Daily / [Weekly](/content/nglgzz/awesome-clean-tech/week/README.md) / [Overview](/content/nglgzz/awesome-clean-tech/readme/README.md) ]
+
+## [Apr 25, 2023](/content/2023/04/25/README.md)
+
+### More Resources / Social Impact
+
+*   [ClimateTechList](https://www.climatetechlist.com/) - curated list of \~50 climatetech companies, specific to software engineers, with descriptions of each company, their software impact, and climate impact.
 
 ## [Sep 06, 2021](/content/2021/09/06/README.md)
 

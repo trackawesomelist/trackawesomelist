@@ -2,7 +2,7 @@
 
 A community curated list of awesome clean tech companies
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 366 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 377 · 🏷️ Business
 
 [ [Daily](/content/nglgzz/awesome-clean-tech/README.md) / [Weekly](/content/nglgzz/awesome-clean-tech/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ A community curated list of awesome clean tech companies
 
 The goal of this list is to gather a list of awesome companies fighting climate change, as well as collecting research about the issues and solutions connected to it.
 
-*Contributions to this list are welcome! Just edit the [README.md (⭐365)](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md/./CONTRIBUTING.md) before contributing.*
+*Contributions to this list are welcome! Just edit the [README.md (⭐377)](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md/./CONTRIBUTING.md) before contributing.*
 
 ## Contents
 
@@ -274,6 +274,7 @@ The format for companies is the following:
 
 ## More Resources
 
+*   [ClimateTechList](https://www.climatetechlist.com/) - curated list of \~50 climatetech companies, specific to software engineers, with descriptions of each company, their software impact, and climate impact.
 *   [Breakthrough Energy Ventures](https://www.b-t.energy/) - Venture fund backed by Bill Gates and a group of private investors, with more than $1 billion in committed capital, to build companies that will help stop climate change.
 *   [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 *   [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
